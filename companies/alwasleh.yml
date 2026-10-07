@@ -1,10 +1,13 @@
 name: "Alwasleh"
+description: "Alwasleh is an OFFTEC Holding financial-services company and Jordanian buy-now-pay-later provider. It finances purchases over installment periods, operates payment and virtual-card services, and is expanding regulated electronic-payment offerings under Central Bank of Jordan licensing."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Lending / BNPL"
 website: "https://www.alwasleh.com/en"
 careers_url: null
-linkedin: null
-hr_email: null
-size: "113"
+linkedin: "https://www.linkedin.com/company/alwasleh"
+hr_email: "hr@alwasleh.com"
+size: "51-200"
 location:
   area: "Amman"
   address: "Main Branch, 3rd Circle, Queen Misbah Street, Amman"
@@ -52,3 +55,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.955861,35.911932"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/company/alwasleh"
+    label: "Current sales and collections hiring posts published with hr@alwasleh.com"

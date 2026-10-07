@@ -1,4 +1,7 @@
 name: "Apprikot"
+description: "Apprikot is the software and product-development arm historically associated with Beecell International. Its work has included native mobile applications, enterprise mobility, web development and user-experience services for telecom and digital-service clients."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "Software / Mobile VAS Development"
 website: null
 careers_url: null
@@ -22,7 +25,8 @@ technologies:
   - "Android"
   - "iOS"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false  signals: []
+
   signals:
     - "Internship"
 notes: "Technology supplier and development arm of Beecell International (mobile VAS group): native iOS/Android apps, enterprise mobile apps, web dev and UX. No standalone website verified; no public internship/grad evidence found."

@@ -1,12 +1,17 @@
 name: "Arab Advisors Group"
+description: "Arab Advisors Group is an Amman market-research and consulting firm focused on telecommunications, media, technology, fintech and digital markets across MENA. It produces primary research, market sizing and forecasting, competitive and regulatory analysis, surveys and custom consulting."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "TMT research & consulting"
 website: "https://araadvisors.com"
-careers_url: null
-linkedin: null
-hr_email: null
-size: "~25"
+careers_url: "https://arabadvisors.com/careers"
+linkedin: "https://www.linkedin.com/company/arab-advisors-group"
+hr_email: "arabadvisors@arabadvisors.com"
+size: "11-50"
 location:
-  area: "Amman"
+  status: "provided_unverified"
+  address: "Al-Jalal Commercial Complex, Suhaib bin Sinan St., Abdali, Amman 11821, Jordan"
+  area: "Abdali, Amman"
   address: "Suhayb Ben Sinan St, Amman"
   status: "provided_unverified"
   latitude: 31.967595
@@ -16,7 +21,9 @@ categories:
   - "consulting"
 technologies: []
 job_seeker:
-  early_career_signal: false
+  early_career_signal: true  signals:
+    - "Graduate recruitment"
+
   signals: []
 notes: "Telecom, media and technology research/consulting firm headquartered in Amman, established 2001, ~25 employees. | stack research 2026-10-05: 3 searches, no engineering employees or dev postings found (TMT research/consulting firm, ~25 analysts, non-tech org)"
 evidence:

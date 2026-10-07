@@ -1,10 +1,13 @@
 name: "Amazon"
+description: "Amazon maintains a substantial corporate and technology presence in Amman supporting MENA commerce, payments and international expansion. The Jordan engineering organization develops distributed software and services for regional customers and sellers, alongside other operations and support functions."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "E-commerce / Cloud technology"
-website: null
-careers_url: "https://www.gulftalent.com/jordan/jobs/software-development-engineer-ii-400964"
-linkedin: null
+website: "https://www.amazon.jobs/en/search?country=JOR&invalid_location=false&loc_query=Jordan"
+careers_url: "https://www.amazon.jobs/en/search?country=JOR&invalid_location=false&loc_query=Jordan"
+linkedin: "https://www.linkedin.com/company/amazon/"
 hr_email: null
-size: "1,220+ (Jordan, 2021)"
+size: "10000+"
 location:
   area: "Amman"
   address: "Abdali Blvd, Abdali district, Amman, Jordan"
@@ -17,13 +20,15 @@ categories:
   - "ecommerce"
   - "web"
 technologies:
-  - ".NET"
+  - "C++"
   - "Java"
-  - "JavaScript"
   - "Python"
-  - "TypeScript"
+  - "Distributed Systems"
 job_seeker:
-  early_career_signal: false
+  early_career_signal: true  signals:
+    - "Recent-graduate SDE roles"
+    - "Student opportunities"
+
   signals: []
 notes: "Amazon MENA corporate/regional office in Abdali, Amman (inaugurated by the Crown Prince, 2021); 1,220+ Jordanian employees with roles in data processing, AI, tech development and customer service; hires Software Development Engineers (SDE I/II) for the Amman MENA tech team."
 evidence:
@@ -45,3 +50,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.964268,35.90483"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/sde-i-12-months-contract-eccf-tech-at-amazon-4262633329"
+    label: "Historical Amman SDE I role targeting recent graduates"

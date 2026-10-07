@@ -1,11 +1,16 @@
 name: "AppTrainers"
+description: "AppTrainers is an Amman and Riyadh technology-training and software-development company. It trains learners in mobile and web development, game development, AI and data science, cybersecurity, QA and UI/UX, while also delivering development and consulting services."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Mobile app training & consulting"
 website: "https://www.apptrainers.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/apptrainers"
 hr_email: "info@apptrainers.com"
-size: "2-9"
+size: "11-50"
 location:
+  status: "verified"
+  address: "Queen Rania Al-Abdullah Street, Amman, Jordan"
   area: "Amman"
   address: "Queen Rania St, Abu Alhaj Complex, office 710, Amman"
   status: "verified"
@@ -24,7 +29,10 @@ technologies:
   - "PhoneGap"
   - "Unity"
 job_seeker:
-  early_career_signal: false
+  early_career_signal: true  signals:
+    - "Youth training"
+    - "Free digital-skills programs"
+
   signals: []
 notes: "Amman mobile-app training & consulting company (est. 2012) running iOS/Android/PhoneGap/Unity courses; launched AppTrainers Lab with Al-Ahliyya Amman University to train students — strong fresh-grad fit. GPS verified 2026-10-06: company contact page (apptrainers.com/contact) states Amman, Queen Rania Street; its embedded map carries the same place ID as the Google Maps pin 31.9879855,35.8950749 (address label \"Queen Rania St, Amman\", category Software company, 4.9/42 reviews). jordanyp (owner-validated, updated 2016) gives building detail \"Abu Alhaj complex, 7th floor, office 710\"; current company site names no building, so building/office detail treated as dated."
 evidence:
@@ -52,3 +60,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9879855,35.8950749"
     label: "Google Maps location"
+  - type: "other"
+    url: "https://sa.linkedin.com/company/apptrainers"
+    label: "Current 2026 youth digital-skills training update"

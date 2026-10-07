@@ -1,12 +1,17 @@
 name: "Aqaba Digital Hub"
+description: "Aqaba Digital Hub operates critical digital infrastructure in Aqaba, including a carrier-neutral data center, internet exchange, cloud platforms, fiber networks and submarine-cable landing infrastructure. Its 35D Cloud subsidiary provides IaaS and disaster-recovery services."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Data center & digital infrastructure"
 website: "http://adh.jo"
 careers_url: null
-linkedin: "https://www.linkedin.com/company/aqabadh"
+linkedin: "https://www.linkedin.com/company/aqabadigitalhub"
 hr_email: "info@adh.jo"
-size: null
+size: "51-200"
 location:
-  area: "Aqaba"
+  status: "provided_unverified"
+  address: "Al-Dostoor Neighborhood, Aqaba, Jordan"
+  area: "Aqaba, Al-Makateb Area"
   address: "Aqaba city center, Aqaba, Jordan"
   status: "approximate"
   latitude: 29.53202

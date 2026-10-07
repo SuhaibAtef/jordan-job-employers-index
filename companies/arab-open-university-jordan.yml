@@ -1,12 +1,17 @@
 name: "Arab Open University - Jordan"
+description: "Arab Open University’s Jordan branch delivers blended and open higher education in business, computing, education and related fields. It combines online learning with campus teaching and is currently recruiting academic staff, including information-technology, AI and educational-technology faculty."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Higher Education / Blended E-learning"
 website: "https://www.aou.edu.jo"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/school/arab-open-university---jordan-branch/"
 hr_email: "info@aou.edu.jo"
-size: "~90 staff (Jordan branch)"
+size: "51-200"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "Al-Shibani Street, Tareq / Tabarbour, Amman, Jordan"
+  area: "Tareq / Tabarbour, Amman"
   address: "Mohammad Al-Shibani Street 4, Tareq, Amman (P.O. Box 1339 Amman 11953), opposite Queen Alia Hospital"
   status: "provided_unverified"
   latitude: 32.00783
@@ -33,3 +38,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=32.00783,35.93229"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/school/arab-open-university---jordan-branch/"
+    label: "October 2026 faculty hiring including IT/Computing-AI and Educational Technology"

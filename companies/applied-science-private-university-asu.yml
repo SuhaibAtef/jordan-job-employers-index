@@ -1,12 +1,17 @@
 name: "Applied Science Private University (ASU)"
+description: "Applied Science Private University is a major private university in Shafa Badran, Amman. It offers undergraduate and graduate programs across twelve colleges, including information technology, engineering, data science and AI, and supports technical training and innovation activities."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Higher Education / Private University"
 website: "https://www.asu.edu.jo/en/Pages/default.aspx"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/aspujordan/"
 hr_email: "info@asu.edu.jo"
-size: "349 faculty members"
+size: "5001-10000"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "Al Arab Street 21, Shafa Badran, Amman, Jordan"
+  area: "Shafa Badran, Amman"
   address: "Al Arab Street 21, Shafa Badran, Amman 11937"
   status: "provided_unverified"
   latitude: 32.04001
