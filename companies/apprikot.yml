@@ -27,9 +27,6 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-
-  signals:
-    - "Internship"
 notes: "Technology supplier and development arm of Beecell International (mobile VAS group): native iOS/Android apps, enterprise mobile apps, web dev and UX. No standalone website verified; no public internship/grad evidence found."
 evidence:
   - type: "other"
