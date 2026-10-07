@@ -9,46 +9,39 @@ linkedin: "https://www.linkedin.com/company/growth-capifly"
 hr_email: null
 size: "2-10"
 location:
-  maps_url: null
-  longitude: null
-  latitude: null
-  status: "approximate"
-  address: null
   area: "Amman (hybrid team)"
-  address: "Amman, Jordan"
+  address: null
   status: "approximate"
-  latitude: 31.9518
-  longitude: 35.94042
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "fintech"
-technologies: []
-job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Founded 2021 in Amman; Sharia-compliant non-dilutive venture debt for MENA SaaS startups (ARR-based, up to $1.5M); $1M pre-seed (Oasis500, BLDR Ventures, Joa Capital, Ahli Fintech). stack research 2026-10-05: 5 searches; 1 employee profile (getprog.ai: Senior SWE Rashed Alkhatib at Capifly, Amman, GitHub skills react/laravel/javascript, languages TypeScript/PHP) — single source, insufficient; no job postings found."
-evidence:
-  - type: "official_website"
-    url: "http://www.growthcapifly.com/"
-    label: "Official website"
-  - type: "other"
-    url: "http://techfundingnews.com/jordan-based-capifly-raises-1m-initiates-10m-shariah-compliant-facility-for-emerging-startups/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.wamda.com/2023/10/capifly-raises-1-million-pre-seed-round"
-    label: "Research source"
-  - type: "other"
-    url: "https://waya.media/capifly-secures-1-million-pre-seed-round/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
-    label: "Google Maps location"
-
 technologies:
   - "Django"
   - "Python"
   - "SQL"
   - "Vue.js"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Founded 2021 in Amman; Sharia-compliant non-dilutive venture debt for MENA SaaS startups (ARR-based, up to $1.5M); $1M pre-seed (Oasis500, BLDR Ventures, Joa Capital, Ahli Fintech). Current company profile lists Riyadh as headquarters while current hiring evidence shows a hybrid Amman team."
+evidence:
+  - type: "official_website"
+    url: "http://www.growthcapifly.com/"
+    label: "Official website"
+  - type: "company_listing"
+    url: "https://www.linkedin.com/company/growth-capifly"
+    label: "Current company profile, size, employees and Riyadh headquarters"
+  - type: "other"
+    url: "http://techfundingnews.com/jordan-based-capifly-raises-1m-initiates-10m-shariah-compliant-facility-for-emerging-startups/"
+    label: "Historical Jordan-founded company and funding evidence"
+  - type: "other"
+    url: "https://www.wamda.com/2023/10/capifly-raises-1-million-pre-seed-round"
+    label: "Historical Jordan-founded company and funding evidence"
+  - type: "other"
+    url: "https://waya.media/capifly-secures-1-million-pre-seed-round/"
+    label: "Historical funding evidence"
   - type: "job_post"
     url: "https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7401220680869969920/"
     label: "Hybrid Amman Senior Investment Analyst role"
