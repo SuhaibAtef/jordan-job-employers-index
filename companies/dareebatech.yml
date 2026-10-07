@@ -1,43 +1,32 @@
 name: "DareebaTech"
-industry: "Tax Tech / RegTech"
-website: "https://www.dareebatech.com"
+description: "DareebaTech is a Jordan-linked tax-technology startup providing online tax filing and related digital tax services."
+verification_status: "partial"
+last_verified: "2026-10-07"
+industry: "Tax Technology / RegTech"
+website: "https://www.dareebatech.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/dareebatech"
 hr_email: null
-size: "1-10"
+size: "2-10"
 location:
   area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: "Amman 11941, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "mobile"
+  - "fintech"
   - "web"
-technologies:
-  - "Web platform + mobile apps (Google Play / Apple App Store)"
+technologies: []
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "Jordanian tax-tech (est. 2017, 1-10 employees); first-in-MENA smart online system for electronic income-tax return filing plus instant tax advice; associated with Sanad Law Group. No internship evidence found. | stack research 2026-10-06: 4 searches, one former software engineer (The Org, 2019-2020) but no tech details, no dev job postings. No tags changed."
+  early_career_signal: false
+  signals: []
+notes: "Verified 2026-10-07. DareebaTech's current LinkedIn company page lists Amman headquarters, 2-10 employees and the tax-filing service profile. No exact street address, current careers page or internship evidence was confirmed, so the previous generic pin and unsupported internship signal were removed."
 evidence:
   - type: "official_website"
-    url: "https://www.dareebatech.com"
+    url: "https://www.dareebatech.com/"
     label: "Official website"
-  - type: "other"
-    url: "https://lucidityinsights.com/startups/dareebatech-10753"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/375850/DareebaTech"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.twoinstitute.com/ent/dareebatech/"
-    label: "Research source"
-  - type: "other"
-    url: "https://dareebatech.com/en/privacy"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/dareebatech"
+    label: "LinkedIn company page — Amman headquarters and current company profile"
