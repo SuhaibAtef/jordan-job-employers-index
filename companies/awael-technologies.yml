@@ -30,6 +30,9 @@ job_seeker:
     - "Internship"
     - "Junior"
 
+    - "Internship"
+    - "Junior"
+
   signals:
     - "Internship"
     - "Junior"

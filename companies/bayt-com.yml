@@ -12,6 +12,9 @@ location:
   status: "verified"
   address: "King Hussein Business Park, 4th Floor, Amman, Jordan"
   area: "King Hussein Business Park, Amman"
+  status: "verified"
+  address: "King Hussein Business Park, 4th Floor, Amman, Jordan"
+  area: "King Hussein Business Park, Amman"
   address: "Sobhi Al-Qotob St 16, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.98882

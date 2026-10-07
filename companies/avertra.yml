@@ -12,6 +12,9 @@ location:
   status: "verified"
   address: "301 Wasfi El Tall Street, Khalda, Amman, Jordan"
   area: "Khalda, Amman"
+  status: "verified"
+  address: "301 Wasfi El Tall Street, Khalda, Amman, Jordan"
+  area: "Khalda, Amman"
   address: "Abdoun, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.954991

@@ -12,6 +12,9 @@ location:
   status: "provided_unverified"
   address: "14 Al-Sharif Hussein St., Amman 11181, Jordan"
   area: "Amman"
+  status: "provided_unverified"
+  address: "14 Al-Sharif Hussein St., Amman 11181, Jordan"
+  area: "Amman"
   address: "Sharif Hussein Bin Ali Street, Riyadh Center, Zahran Area, Amman, Jordan"
   status: "approximate"
   latitude: 31.95666
