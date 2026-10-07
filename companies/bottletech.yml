@@ -36,9 +36,6 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-
-  signals:
-    - "Internship"
 notes: "Amman custom software house (est. 2021/2022) building AI automations, web/mobile apps and business systems; 41-49 staff. No public internship/fresh-grad programme found.\nstack verified 2026-10-07: employee GitHub (Backend Developer Sep-Dec 2025, CodeIgniter/PHP, REST APIs, Git) + Senior QA Engineer remote job posting (Selenium, Cypress, Appium) + bottletech.net backend page (MySQL, MongoDB, PostgreSQL) + Clutch-declared platform mix (AWS 60%)."
 evidence:
   - type: "official_website"
