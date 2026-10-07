@@ -1,21 +1,25 @@
 name: "Consult One"
-industry: "Digital agency (web/software/marketing/IT services)"
-website: "https://consult-one.com"
+description: "Consult One Professional Services is an Amman digital and IT services agency providing web development, mobile applications, SEO, marketing, e-commerce, cloud, IT infrastructure and cybersecurity services."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Digital Agency / IT Services"
+website: "https://consult-one.com/"
 careers_url: null
-linkedin: null
-hr_email: "info@consult-one.com"
-size: "10-49"
+linkedin: "https://www.linkedin.com/company/consult-one-professional-service"
+hr_email: null
+size: "40+ specialists"
 location:
-  area: "Amman"
-  address: "3rd Circle, Zahran St., Jabal Amman, Jordan"
+  area: "Jabal Amman"
+  address: "3rd Circle, Zahran St., Jabal Amman, Amman, Jordan"
   status: "verified"
-  latitude: 31.9535694
-  longitude: 35.9073486
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9535694,35.9073486"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Consult%20One%203rd%20Circle%20Zahran%20Street%20Jabal%20Amman"
 categories:
   - "consulting"
   - "marketing"
   - "mobile"
+  - "security"
   - "web"
 technologies:
   - "PHP"
@@ -24,32 +28,14 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Full-service digital agency founded 2004 in Amman (40+ specialist team); web design/dev, mobile apps, SEO, IT services and cybersecurity; bilingual EN/AR team. GPS verified 2026-10-03: company contact page (EN+AR) states \"3rd Circle, Jabal Amman / Zahran St.\"; ALLSPOTS directory and Bing Places card independently agree on Jabal Amman / 3rd Circle / Zahran St.; Google Maps pin sits on Zahran St by 3rd Circle (unclaimed/thin listing, corroboration only). Exact building not publicly verifiable — street/area-level pin."
+notes: "Verified 2026-10-07. Consult One's current official contact and home pages publish the same address at 3rd Circle, Jabal Amman, Zahran Street and state a team of 40+ specialists operating since 2004. The malformed plain-text evidence entries and unnecessary inferred coordinates were removed. No current careers page or public early-career hiring signal was found."
 evidence:
   - type: "official_website"
-    url: "https://consult-one.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://consult-one.com/en/contact/"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/337391/Consult_One"
-    label: "Location evidence"
-  - type: "other"
-    url: "Google Maps listing pin 31.9535694,35.9073486 (unclaimed, thin, \"Computer consultant\" category — corroboration only, read live 2026-10-03)"
-    label: "Location evidence"
-  - type: "other"
-    url: "ALLSPOTS Jordan directory: \"Jabal Amman-3d circle\", \"CONSULT ONE for Information Technology\", P.O.Box 851962 Amman 11185 (verbatim per live-browser check)"
-    label: "Location evidence"
-  - type: "other"
-    url: "Bing Places local card: \"Zahran Street 17, Amman\" (verbatim per live-browser check)"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://www.linkedin.com/company/consult-one-professional-service — HQ Amman, \"P.O.Box 851962 / Amman, 11185, JO\""
-    label: "Location evidence"
-  - type: "other"
     url: "https://consult-one.com/en/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9535694,35.9073486"
-    label: "Google Maps location"
+    label: "Official website — current services, team scale and address"
+  - type: "official_website"
+    url: "https://consult-one.com/en/contact/"
+    label: "Official contact page — 3rd Circle, Jabal Amman, Zahran Street"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/consult-one-professional-service"
+    label: "LinkedIn company page"
