@@ -25,6 +25,9 @@ for path in files:
     else:
         names.add(name)
 
+    if data.get("last_verified") and not str(data.get("description") or "").strip():
+        errors.append(f"{path}: verified company must include description")
+
     evidence = data.get("evidence")
     if not isinstance(evidence, list) or not evidence:
         errors.append(f"{path}: evidence must be a non-empty list")
