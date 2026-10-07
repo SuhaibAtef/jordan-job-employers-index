@@ -1,28 +1,28 @@
 name: "CloudVertex"
-industry: "Cloud / DevOps Consulting"
-website: "https://cloudvertex.net"
+description: "CloudVertex is a Jordan-based infrastructure-engineering and DevOps consultancy serving businesses in the Middle East and internationally with cloud architecture, platform operations, security hardening, automation, observability and reliability work."
+verification_status: "partial"
+last_verified: "2026-10-07"
+industry: "Cloud Infrastructure / DevOps Consulting"
+website: "https://www.cloudvertex.net/"
 careers_url: null
 linkedin: null
 hr_email: null
-size: "10-49"
+size: null
 location:
-  area: "Amman"
-  address: "Zahran Street, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.95794
-  longitude: 35.88733
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95794,35.88733"
+  area: "Jordan"
+  address: null
+  status: "unresolved"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "consulting"
   - "data"
   - "devops"
 technologies:
-  - "Alibaba Cloud"
   - "AWS"
   - "Azure"
-  - "Cloudflare"
   - "Docker"
-  - "ELK"
   - "Google Cloud"
   - "Grafana"
   - "Kubernetes"
@@ -33,17 +33,8 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman infrastructure engineering/DevOps consultancy (10-49 people, est. 2022) covering cloud architecture, Kubernetes, CI/CD pipelines, and observability; no careers page found."
+notes: "Verified 2026-10-07. The current CloudVertex site explicitly describes the company as infrastructure engineering based in Jordan and serving the Middle East and global clients, and publishes a Jordan phone number. It does not currently publish the former Zahran Street/Amman office shown in the dataset, so the unsupported exact address and coordinates were removed. No current public careers page or hiring evidence was found in this pass."
 evidence:
   - type: "official_website"
-    url: "https://cloudvertex.net"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.goodfirms.co/company/cloudvertex"
-    label: "Research source"
-  - type: "other"
-    url: "https://Clutch.co/profile/cloudvertex"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.95794,35.88733"
-    label: "Google Maps location"
+    url: "https://www.cloudvertex.net/"
+    label: "Official website — Jordan-based infrastructure engineering and DevOps services"
