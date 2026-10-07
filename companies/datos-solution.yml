@@ -1,17 +1,20 @@
-name: "Datos Solution"
-industry: "Custom software development / cloud consulting"
-website: "https://datossolution.com"
+name: "Datos Solutions"
+description: "Datos Solutions is a custom software-development company registered in the United States and Jordan, delivering mobile apps, web platforms, ERP and digital-transformation projects with an Amman engineering office."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Custom Software Development / Cloud Consulting"
+website: "https://datossolution.com/"
 careers_url: null
 linkedin: null
 hr_email: null
-size: "10-49"
+size: "25+ experts"
 location:
   area: "Amman"
-  address: "4th floor Makkah Towers, Mecca Street, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.97694
-  longitude: 35.85567
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97694,35.85567"
+  address: "4th Floor, Makkah Towers, Mecca Street, Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Datos%20Solutions%204th%20Floor%20Makkah%20Towers%20Mecca%20Street%20Amman"
 categories:
   - "consulting"
   - "data"
@@ -21,25 +24,14 @@ categories:
 technologies:
   - "AWS"
   - "Flutter"
-  - "Google Cloud"
   - "Laravel"
-  - "MySQL"
   - "Node.js"
-  - "PHP"
-  - "PostgreSQL"
   - "React"
-  - "Vue.js"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman software firm (also registered USA) delivering custom software, mobile apps, ERP, e-commerce and web platforms; office confirmed as 4th floor Makkah Towers, Mecca Street on its own site; no public fresh-grad program found."
+notes: "Verified 2026-10-07. The current official site directly publishes the Jordan office at 4th floor, Makkah Towers, Mecca Street, Amman and states a team of 25+ experts. It explicitly names Flutter, Laravel, React, Node.js and AWS across the team and delivery stack. Unsupported coordinates and unverified technologies were removed. No current public careers page was found."
 evidence:
   - type: "official_website"
-    url: "https://datossolution.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://tkxel.com/blog/it-companies-in-jordan/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.97694,35.85567"
-    label: "Google Maps location"
+    url: "https://datossolution.com/"
+    label: "Official website — current Jordan office, team size and technology stack"
