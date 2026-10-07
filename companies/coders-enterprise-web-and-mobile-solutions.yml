@@ -1,39 +1,37 @@
 name: "Coders Enterprise Web & Mobile Solutions"
-industry: "Information Technology / Software Outsourcing"
+description: "Coders Enterprise Web & Mobile Solutions is a Jordan-registered software company operating under Konya for Software Production LLC. It builds and maintains web and mobile solutions and has a longstanding specialization in Drupal development."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Software Development / Web & Mobile Solutions"
 website: "https://codersme.com/"
 careers_url: null
 linkedin: null
 hr_email: "info@codersme.com"
-size: "10-49"
+size: null
 location:
-  area: "Amman"
-  address: "Zaytona Complex (B), Paris St, Al Swefiyeh, Amman 11185, Jordan"
-  status: "approximate"
-  latitude: 31.95656
-  longitude: 35.85967
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95656,35.85967"
+  area: "Al Swefiyeh, Amman"
+  address: "Zaytona Complex (B), Paris St., Al Swefiyeh, Amman 11185, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Coders%20Enterprise%20Zaytona%20Complex%20Paris%20St%20Amman%20Jordan"
 categories:
   - "consulting"
+  - "mobile"
   - "web"
 technologies:
   - "Drupal"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Drupal-focused web & mobile agency in Amman (offices in Jordan, Syria and KSA) doing outsourced custom software for startups and enterprises across MENA, Europe and the Americas."
+notes: "Verified 2026-10-07. The current official site publishes the Jordan office at Zaytona Complex (B), Paris Street, Al Swefiyeh, Amman. The company's 2024 legal terms identify the operating entity as Konya for Software Production LLC, registered in Jordan at the same address. Unsupported inferred coordinates were removed. No current public careers page or active hiring evidence was found."
 evidence:
   - type: "official_website"
-    url: "https://codersme.com/"
-    label: "Official website"
-  - type: "other"
-    url: "http://www.codersme.com/en/terms-and-conditions"
-    label: "Research source"
-  - type: "other"
+    url: "https://codersme.com/en"
+    label: "Official website — current Jordan office and software-services profile"
+  - type: "official_website"
+    url: "https://codersme.com/en/terms-and-conditions"
+    label: "Official legal terms — Konya for Software Production LLC and exact Amman registration address"
+  - type: "company_listing"
     url: "https://new.drupal.org/coders-enterprise-web-mobile-solutions"
-    label: "Research source"
-  - type: "other"
-    url: "https://techbehemoths.com/company/coders-enterprise-web-mobile-solutions"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.95656,35.85967"
-    label: "Google Maps location"
+    label: "Drupal organization profile — preserves Drupal specialization evidence"
