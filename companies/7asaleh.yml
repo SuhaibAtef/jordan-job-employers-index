@@ -1,39 +1,48 @@
 name: "7asaleh"
-description: "7asaleh is a Jordanian family-fintech product designed to teach children and teenagers practical money skills through a supervised pocket-money and debit-card experience. Parents can manage allowances, chores, savings goals and spending while children gain controlled financial independence."
+description: "7asaleh (حصالة) is a Jordanian family-fintech and financial-education product for children and teenagers, pairing supervised allowances, chores, savings goals and spending with a parent-controlled mobile experience and prepaid/debit-card concept."
 verification_status: "partial"
 last_verified: "2026-10-07"
-industry: "Fintech / Family Banking (kids)"
+industry: "Family Fintech / Financial Education"
 website: "https://7asaleh.com"
 careers_url: null
 linkedin: null
-hr_email: null
+hr_email: "info@7asaleh.com"
 size: null
 location:
-  area: "Amman"
+  area: "Jordan"
   address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  status: "unresolved"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "fintech"
   - "mobile"
 technologies:
-  - "iOS"
+  - "Docker"
+  - "Drone CI"
+  - "Firebase"
+  - "MongoDB"
+  - "NestJS"
+  - "React Native"
+  - "TypeScript"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Jordanian kids/family fintech: gamified pocket-money app with branded debit cards, chores, allowances and savings goals for ages 7-17. | stack research 2026-10-06: 4 searches, app built by external agency (WeTheMakers), no employee profiles or dev postings found"
+notes: "Verified 2026-10-07 from current/recent public profiles. StartupsJo lists 7ASALEH with headquarters in Jordan, contact Nayef Elfayez and info@7asaleh.com, but does not provide a current city address. The previous Amman pin therefore lacked sufficient support and has been removed. Umniah documented the product and founder in 2024. The original product build was delivered by WeTheMakers in 2021 using React Native, TypeScript, NestJS, MongoDB, Firebase, Docker and Drone CI; this is product-build evidence, not proof of an in-house engineering team. The official domain is still referenced publicly but could not be independently reached during this verification. An app-tracking source reports the Android app was removed from Google Play on 2026-01-19. No current careers page, public company LinkedIn page or recent hiring evidence was found."
 evidence:
-  - type: "other"
-    url: "https://ibsintelligence.com/ibsi-news/3-platforms-in-jordan-offering-innovative-fintech-solutions/"
-    label: "Research source"
+  - type: "company_listing"
+    url: "https://www.startupsjo.com/en/Pages/CustomPages/Startup/584"
+    label: "StartupsJo profile — Jordan headquarters, founder contact and info@7asaleh.com"
   - type: "other"
     url: "https://www.umniah.com/explore-the8log/7asaleh-digital-money-saving-tool-for-new-generation/"
-    label: "Research source"
+    label: "Umniah profile — family financial-literacy product, founder and incubator history"
+  - type: "company_listing"
+    url: "https://wethemakers.dev/build/work/7asaleh"
+    label: "Product case study — family-fintech scope and 2021 implementation stack"
   - type: "other"
-    url: "https://apprecs.com/ios/1634617551/7asaleh"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://ibsintelligence.com/ibsi-news/3-platforms-in-jordan-offering-innovative-fintech-solutions/"
+    label: "Fintech industry profile — personal-finance and digital-payment solution for families"
+  - type: "other"
+    url: "https://www.appbrain.com/appstore/7asaleh/ios-1634617551"
+    label: "App availability evidence — reports Android removal from Google Play on 2026-01-19"
