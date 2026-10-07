@@ -31,12 +31,6 @@ job_seeker:
   signals:
     - "Internship"
     - "Young-talent development"
-
-    - "Internship"
-    - "Young-talent development"
-
-  signals:
-    - "Internship"
 notes: "Stillfront-owned MENA mobile publisher (Nida Harb, Strike of Nations) with an Amman branch; described as a hub for internships and developing young talent in Jordan."
 evidence:
   - type: "official_website"
