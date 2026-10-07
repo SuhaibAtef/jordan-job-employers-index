@@ -30,13 +30,6 @@ job_seeker:
   signals:
     - "Internship"
     - "Junior"
-
-    - "Internship"
-    - "Junior"
-
-  signals:
-    - "Internship"
-    - "Junior"
 notes: "Est. 1998 in Jordan; builds its own COMO ERP (25+ modules: finance, HR, CRM, POS, production); hiring Junior .NET / Junior Flutter devs and a Flutter intern in Amman - strong fresh-grad signal."
 evidence:
   - type: "official_website"
