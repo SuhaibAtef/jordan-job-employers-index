@@ -1,46 +1,53 @@
 name: "Echo Technology"
-industry: "IT services / software"
+description: "Echo Technology is an Amman IT-services and software company delivering digital solutions, portals, e-services, mobile applications and enterprise systems, with a long-standing Microsoft-oriented software-development practice."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "IT Services and IT Consulting / Software Development"
 website: "https://echo-tech.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/echo-technology"
 hr_email: "hr@echo-tech.com"
 size: "51-200"
 location:
-  area: "Amman"
-  address: "Arar Street, Wadi Saqra, Amman"
-  status: "provided_unverified"
-  latitude: 31.959292
-  longitude: 35.89963
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.959292,35.89963"
+  area: "Wadi Saqra, Amman"
+  address: "Al-Abid Complex 18, 2nd Floor, Arar Street, Wadi Saqra, Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "consulting"
   - "mobile"
+  - "qa"
   - "web"
 technologies:
   - ".NET"
+  - ".NET Core"
+  - "Angular"
+  - "Bootstrap"
+  - "C#"
+  - "CSS"
+  - "Git"
+  - "HTML"
+  - "Node.js"
+  - "REST API"
+  - "SQL Server"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "IT provider and major Microsoft partner in the region (est. 2008); websites/portals, e-services, mobile apps and document management systems. GPS upgraded from city-center fallback to verified Google Maps business pin (Arar St, Wadi Saqra). Published hiring email found in their LinkedIn hiring post. stack verified 2026-10-06: getprog.ai employee profile for Mahmoud Hamad, Senior Software Engineer at Echo Technology (.NET developer there since 2016), plus Microsoft-partnered products on echo-tech.com (EchoBus CMS \"Trusted by Microsoft Corp\", TERA document management)."
+  early_career_signal: true
+  signals:
+    - "Current 1-2 year Business Analyst role"
+    - "Fresh-graduate/early-career sales hiring"
+notes: "Verified 2026-10-07. Echo's official contact page gives the Jordan branch as Al-Abid Complex 18, second floor, Arar Street, Wadi Saqra. Current LinkedIn activity shows an open QA Engineer role and Business Analyst/Sales Representative hiring in Amman, with applications to hr@echo-tech.com; employee reposts explicitly describe the sales role as open to fresh graduates or up to two years of experience. A recent Software Engineer posting documents .NET/.NET Core, C#, SQL Server, REST APIs, HTML/CSS, Bootstrap, Angular, Node.js and Git."
 evidence:
   - type: "official_website"
     url: "https://echo-tech.com"
     label: "Official website"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/374152/Echo_Tecnology"
-    label: "Research source"
-  - type: "other"
-    url: "https://selling.com/company/echo-technology/110583623"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.computers1000.com/JO/Amman/148359821892895/Echo-Technology"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.echo-tech.com/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.linkedin.com/posts/echo-technology_hiring-businessanalyst-salesrepresentative-activity-7502258891171360769-Jpfo"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.959292,35.89963"
-    label: "Google Maps location"
+  - type: "official_website"
+    url: "https://echo-tech.com/pages/viewpage/148/ContactUs"
+    label: "Official contact page — current Wadi Saqra office address"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/echo-technology"
+    label: "Current LinkedIn — active Amman QA and early-career hiring"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/software-engineer-at-echo-technology-4306513424"
+    label: "Recent Amman Software Engineer role — detailed .NET application stack"

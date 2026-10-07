@@ -1,4 +1,7 @@
 name: "Edraak"
+description: "Edraak is a nonprofit Arabic e-learning platform launched by the Queen Rania Foundation in 2014. It serves more than 10 million learners with hundreds of free Arabic courses spanning technology, entrepreneurship, employability and other fields."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "E-Learning Providers"
 website: "https://www.edraak.org/"
 careers_url: null
@@ -7,11 +10,11 @@ hr_email: null
 size: "11-50"
 location:
   area: "Amman"
-  address: "Mohammad Saad Al Batayneh Street, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.991546
-  longitude: 35.82871
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.991546,35.82871"
+  address: "300 King Abdullah St., Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "data"
   - "devops"
@@ -24,8 +27,6 @@ technologies:
   - "Django"
   - "Docker"
   - "Git"
-  - "Google Cloud"
-  - "LMS"
   - "MongoDB"
   - "MySQL"
   - "Next.js"
@@ -33,33 +34,19 @@ technologies:
   - "React"
   - "React Native"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Fresh graduate"
-    - "Graduate"
-notes: "Non-profit Arabic MOOC platform launched by the Queen Rania Foundation (2014); 10M+ learners, 300+ free Arabic courses including AI and employability tracks relevant to fresh graduates. Audit 2026-10-03: GPS upgraded from city-center fallback to the maps business listing pin tied to edraak.org (31.991546, 35.82871). tech_stack trimmed to items traceable to listed sources (Open edX via Wikipedia, Google Cloud DNS via selling.com).\nstack verified 2026-10-06: 5 employee profiles (getprog: Husam Ajour, Qutaiba Rawashdeh, Ahmad Abuwardeh; Ahmed Jazzar eng blog) + github.com/Edraak/edraak-platform show Python/Django, Open edX, MongoDB/MySQL, AWS, Ansible, Docker, Git, React/Next.js/React Native"
+  early_career_signal: false
+  signals: []
+notes: "Verified 2026-10-07. Current LinkedIn confirms Edraak is an Amman nonprofit founded in 2014 with 11-50 employees and a primary location at 300 King Abdullah St. The previous Mohammad Saad Al Batayneh Street address and coordinate were replaced. Edraak is highly relevant to job seekers as a learning platform, but its prior 'Fresh graduate' and 'Graduate' flags described learner-oriented courses rather than employer hiring, so they were removed. Historical engineering roles and Edraak's public code/engineering records support the retained software stack, but no current public vacancy was identified."
 evidence:
   - type: "official_website"
     url: "https://www.edraak.org/"
-    label: "Official website"
+    label: "Official Arabic e-learning platform"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/edraak"
-    label: "LinkedIn company page"
+    label: "Current LinkedIn — 11-50 employees, founded 2014, 300 King Abdullah St."
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-edraak-%D8%A5%D8%AF%D8%B1%D8%A7%D9%83-2901112860"
+    label: "Historical Amman full-stack engineering role"
   - type: "other"
-    url: "https://jo.linkedin.com/company/edraak"
-    label: "Research source"
-  - type: "other"
-    url: "https://arab.org/directory/edraak/"
-    label: "Research source"
-  - type: "other"
-    url: "https://en.wikipedia.org/wiki/Edraak"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.zoominfo.com/c/edraak/426157829"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.selling.com/company/edraak-إدراك/35608982"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.991546,35.82871"
-    label: "Google Maps location"
+    url: "https://github.com/Edraak/edraak-platform"
+    label: "Public Edraak platform repository — engineering-stack evidence"

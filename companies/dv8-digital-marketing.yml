@@ -1,17 +1,20 @@
 name: "DV8 Digital Marketing"
-industry: "Digital Marketing"
-website: "http://dv8dm.com"
+description: "DV8 Digital Marketing is an Amman boutique marketing agency serving clients across Jordan and the Gulf with digital strategy, search marketing, social media, web design and development, and mobile/web application services."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Marketing Services / Digital Agency"
+website: "http://www.dv8dm.com"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/dv8-digital-marketing"
 hr_email: null
-size: "10-49"
+size: "2-10"
 location:
   area: "Amman"
-  address: "Hamed Mbdaideen Street, #8, Amman 11118, Jordan"
-  status: "provided_unverified"
-  latitude: 31.957533
-  longitude: 35.864252
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.957533,35.864252"
+  address: "Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "marketing"
   - "mobile"
@@ -21,17 +24,11 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Est. 2011 digital agency with in-house web-based and mobile app development alongside marketing (own site: 'Web-based & Mobile App Development', social media, SEM, email marketing). Pin upgraded from city fallback to business-listing coordinates (Hamed Mubaideen St. 8), matching own-site address. info@dv8dm.com is general contact; no HR email or careers page found."
+notes: "Verified 2026-10-07. Current LinkedIn identifies DV8 as an Amman-headquartered, privately held marketing-services company founded in 2011 with 2-10 employees and specialties including mobile and web-based applications and web design/development. The previous 10-49 size estimate, exact Hamed Mubaideen Street address and coordinate were removed because current first-party/LinkedIn evidence only confirms Amman at city level. No current public careers page or hiring notice was found."
 evidence:
   - type: "official_website"
-    url: "http://dv8dm.com"
+    url: "http://www.dv8dm.com"
     label: "Official website"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/dv8-digital-marketing"
-    label: "LinkedIn company page"
-  - type: "other"
-    url: "https://www.designrush.com/agency/profile/dv8"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.957533,35.864252"
-    label: "Google Maps location"
+    label: "Current LinkedIn — Amman HQ, 2-10 employees, founded 2011 and digital-service specialties"

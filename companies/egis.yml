@@ -1,43 +1,43 @@
 name: "Egis"
-industry: "Engineering consultancy / Construction"
-website: "http://www.egis-group.com"
-careers_url: "https://jobs.egis-group.com/job/structural-engineer-building-projects-dmo-in-amman-jid-1329"
+description: "Egis is a global architecture, consulting, construction-engineering and mobility group with an established Amman design office. The Jordan team works across buildings, infrastructure, civil engineering, landscape, MEP and computational design."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Architecture / Engineering / Consulting"
+website: "https://www.egis-group.com/"
+careers_url: "https://jobs.egis-group.com/"
 linkedin: null
 hr_email: null
-size: "19,500+ (global)"
+size: "20,500+ (global)"
 location:
-  area: "Amman"
-  address: "Um Uthainah, Hekmat Al Massri Street, Building no.8, Office no.20, PO Box 1667, Zip Code 11821, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.9637
-  longitude: 35.86912
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9637,35.86912"
+  area: "Um Uthainah, Amman"
+  address: "Building 8, Office 20, Hekmat Al Massri Street, Um Uthainah, Amman 11821, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "design"
-  - "security"
 technologies:
+  - "AutoCAD"
   - "BIM"
+  - "Revit"
+  - "SketchUp"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Graduate"
-notes: "French global engineering group (100 countries) with a Building Projects Design Management Office in Amman; official address from egis-group.com locations page (Um Uthainah, Hekmat Al Massri St, Bldg 8, Office 20; +962 6 5544355); hires structural/electrical engineers and Graduate Engineers (0-2 years experience). Pin is street-level for Hekmat Al Massri St until a building-level listing is confirmed."
+    - "Current entry-level Graduate Landscape Architect role"
+    - "Graduate engineering pathway"
+notes: "Verified 2026-10-07. Egis' official location page publishes Building 8, Office 20, Hekmat Al Massri Street, Um Uthainah, Amman. Its careers site currently lists multiple Amman roles and a live entry-level Graduate Landscape Architect position suitable for 0-2 years of experience; the role requires AutoCAD, SketchUp and BIM knowledge. Other current Amman roles include computational programming, mechanical engineering and structural engineering. The previous approximate coordinate was removed because the official address is sufficient."
 evidence:
   - type: "official_website"
-    url: "http://www.egis-group.com"
-    label: "Official website"
-  - type: "careers"
-    url: "https://jobs.egis-group.com/job/structural-engineer-building-projects-dmo-in-amman-jid-1329"
-    label: "Careers / application page"
-  - type: "job_post"
-    url: "https://www.drjobpro.com/jordan/jobs/structural-engineer-design-office-amman-egis-group-MTHVFH2E3P6U1NE"
-    label: "Research source"
-  - type: "job_post"
-    url: "https://www.drjobpro.com/jordan/jobs/graduate-engineer-civil-and-roads-design-office-amman-egis-group-MT3L106T3PUPMMR"
-    label: "Research source"
-  - type: "other"
     url: "https://www.egis-group.com/locations/middle-east/jordan/jordan"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9637,35.86912"
-    label: "Google Maps location"
+    label: "Official Amman office page — exact current address"
+  - type: "careers_page"
+    url: "https://jobs.egis-group.com/"
+    label: "Official careers portal — current Amman openings"
+  - type: "job_post"
+    url: "https://jobs.egis-group.com/job/graduate-landscape-architect-in-amman-jid-5072"
+    label: "Current entry-level Graduate Landscape Architect role in Amman"
+  - type: "job_post"
+    url: "https://jobs.egis-group.com/job/computational-programmer-mep-in-amman-jid-2063"
+    label: "Current Amman Computational Programmer role"

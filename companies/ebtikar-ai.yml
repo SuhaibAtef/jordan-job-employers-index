@@ -1,43 +1,36 @@
 name: "Ebtikar AI"
-industry: "AI consultancy / services"
-website: "https://www.ebtikarai.com"
+description: "Ebtikar AI is a regional IT-services and AI company delivering enterprise AI systems, custom software, digital platforms and AI-enabled transformation projects for organizations in Jordan, the UAE and the wider region."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "IT Services and IT Consulting / Artificial Intelligence"
+website: "https://www.ebtikarai.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/ebtikarai"
 hr_email: null
-size: null
+size: "11-50"
 location:
   area: "Amman"
-  address: null
+  address: "Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.956061
-  longitude: 35.928431
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.956061,35.928431"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
   - "consulting"
 technologies:
   - "Generative AI"
+  - "Large Language Models"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Academy"
-notes: "Jordan AI consultancy & solutions partner (bootstrapped): AI strategy, governance and custom agent development via PRISM X framework plus Ebtikar AI Academy; hiring developers in Amman. GPS upgraded from city fallback to Google Maps business listing (ebtikarai.com)."
+    - "Ebtikar AI Academy"
+    - "Current Amman hiring"
+notes: "Verified 2026-10-07. Current LinkedIn lists Ebtikar AI as a privately held IT-services company with 11-50 employees and active 2026 hiring in Amman/Jordan, including Product Owner and Project Manager roles. The company also continues to promote its AI products, including a locally trained language model, and operates Ebtikar AI Academy as a training/learning channel. No reliable current street address was found in this pass, so the previous Google Maps coordinate was removed rather than treated as a verified office pin."
 evidence:
   - type: "official_website"
-    url: "https://www.ebtikarai.com"
+    url: "https://www.ebtikarai.com/"
     label: "Official website"
-  - type: "other"
-    url: "https://www.ebtikarai.com/contact"
-    label: "Research source"
-  - type: "other"
-    url: "https://ahmad-alqunbar.com/"
-    label: "Research source"
-  - type: "other"
-    url: "https://connect.onegiantleap.com/event/leap-2025/exhibitor/RXhoaWJpdG9yXzIwOTUxNTA="
-    label: "Research source"
-  - type: "other"
-    url: "https://www.rankmyai.com/rankings/top-ai-tools-jordan"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.956061,35.928431"
-    label: "Google Maps location"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/ebtikarai"
+    label: "Current LinkedIn — 11-50 employees, AI products and current Jordan hiring"

@@ -1,43 +1,39 @@
-name: "Elevatus Inc"
-industry: "HR tech / AI"
-website: "https://elevatus.jobs"
+name: "Elevatus"
+description: "Elevatus is an enterprise HR-tech company building an agentic-AI hiring operating system for recruitment, screening, video assessment, onboarding and workforce decision support. The company operates internationally and maintains a Jordan office in King Hussein Business Park."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "HR Technology / Agentic AI / Recruitment Software"
+website: "https://www.elevatus.io/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/elevatusio/"
 hr_email: null
-size: "16"
+size: "51-200"
 location:
-  area: "Amman"
-  address: "King Hussein Business Park, King Abdullah II St, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.971664
-  longitude: 35.832434
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.971664,35.832434"
+  area: "King Hussein Business Park, Amman"
+  address: "Grow Building 23, King Hussein Business Park, King Abdullah II Bin Al Hussein Street, Amman 11855, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
   - "web"
 technologies:
-  - "Next.js"
-  - "React"
+  - "Agentic AI"
+  - "DocuSign"
+  - "LinkedIn"
+  - "Microsoft Teams"
+  - "Oracle"
+  - "SAP"
+  - "Zoom"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman-founded (2018) AI-powered hiring platform: career sites, ATS, video assessment and resume matching (client examples include Orange); 16 employees. GPS upgraded from city fallback to Google Maps business listing (elevatus.io).\nstack verified 2026-10-06: 2 engineer profiles (TheOrg, Wuzzuf) show React/Next.js frontend; AI video-assessment product per press."
+notes: "Verified 2026-10-07. Current LinkedIn lists Elevatus as a 51-200 employee IT-services/HR-tech company headquartered in Riyadh with a Jordan location at KHBP, Grow Building 23, Amman. The current product description identifies an enterprise-grade agentic-AI hiring operating system integrated with SAP, Oracle, LinkedIn, Microsoft Teams, Zoom and DocuSign. The previous 16-employee estimate and generic KHBP coordinate were removed. Search results expose multiple Elevatus-powered demo/customer career portals, so none is recorded as Elevatus' own careers URL without stronger first-party attribution."
 evidence:
   - type: "official_website"
-    url: "https://elevatus.jobs"
-    label: "Official website"
-  - type: "other"
-    url: "https://gust.com/companies/elevatus-inc"
-    label: "Research source"
-  - type: "other"
-    url: "http://www.elevatus.io/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.prnewswire.co.uk/news-releases/elevatus-empowers-omantel-to-evaluate-five-thousand-applicants-in-two-days-through-ai-driven-video-assessments-301978965.html"
-    label: "Research source"
-  - type: "other"
-    url: "https://laffaz.com/elevatus-clients-revenues-covid-19/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.971664,35.832434"
-    label: "Google Maps location"
+    url: "https://www.elevatus.io/"
+    label: "Official website — enterprise agentic-AI hiring platform"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/elevatusio/"
+    label: "Current LinkedIn — 51-200 employees and Grow Building 23 Amman office"
