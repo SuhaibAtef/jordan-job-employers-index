@@ -1,44 +1,39 @@
 name: "CRIF Jordan"
-industry: "RegTech / Credit Bureau"
-website: "https://www.crif.jo"
-careers_url: null
+description: "CRIF Jordan is the licensed credit bureau serving Jordan with credit-information, risk-data and decision-support services for financial institutions and other permitted users."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Credit Bureau / Risk Information"
+website: "https://www.crif.jo/"
+careers_url: "https://www.crif.jo/en/modules/careers"
 linkedin: "https://www.linkedin.com/company/64520837"
 hr_email: null
 size: "11-50"
 location:
-  area: "Amman"
-  address: "Abdali Boulevard, Building No. 14A, 1st floor (front entrance on Banks Street / back entrance on Rafic Hariri Street), Amman"
-  status: "provided_unverified"
-  latitude: 31.963842
-  longitude: 35.904344
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.963842,35.904344"
+  area: "Abdali, Amman"
+  address: "Abdali Boulevard, Building 14A, 1st Floor, Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=CRIF%20Jordan%20Building%2014A%20Abdali%20Boulevard%20Amman"
 categories:
   - "data"
   - "fintech"
 technologies:
   - "Credit information and risk data platforms"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-    - "Junior"
-notes: "Licensed Jordanian credit bureau (CRIF group); credit-risk data and decisioning under Jordan's legal framework; founded 2016, 11-50 employees. No internship evidence found. | stack research 2026-10-05: 3 searches, no employee dev profiles or dev postings for Jordan office (only IT manager profile using ManageEngine OpManager infra monitoring; CRIF junior-dev posting found is for ICAP CRIF Greece/Romania/Bulgaria/Cyprus, not Jordan)."
+  early_career_signal: false
+  signals: []
+notes: "Verified 2026-10-07. CRIF Jordan's official contact page directly publishes Building 14A, first floor, Abdali Boulevard, with entrances from Banks Street and Rafic Hariri Street. The official careers page currently states there are no current careers. Unsupported internship/junior signals and inferred coordinates were removed."
 evidence:
   - type: "official_website"
-    url: "https://www.crif.jo"
-    label: "Official website"
+    url: "https://www.crif.jo/"
+    label: "Official CRIF Jordan website"
+  - type: "official_website"
+    url: "https://www.crif.jo/EN/Pages/Contact_Us"
+    label: "Official contact page — exact Abdali address"
+  - type: "careers_page"
+    url: "https://www.crif.jo/en/modules/careers"
+    label: "Official careers page — no current openings"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/64520837"
     label: "LinkedIn company page"
-  - type: "other"
-    url: "https://www.cbinsights.com/company/crif-jordan/alternatives-competitors"
-    label: "Research source"
-  - type: "other"
-    url: "https://prospectoo.com/company/CrifJordan-64520837/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.crif.com/contacts/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.963842,35.904344"
-    label: "Google Maps location"
