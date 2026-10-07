@@ -22,9 +22,6 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-
-  signals:
-    - "Internship"
 notes: "Global messaging provider (bulk SMS, SMSC, A2P, SMS firewall, WhatsApp) with an Amman office on Paris Street; 80K+ enterprises served. No public internship/grad evidence found."
 evidence:
   - type: "official_website"
