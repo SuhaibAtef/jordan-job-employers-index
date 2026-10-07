@@ -30,9 +30,6 @@ job_seeker:
   early_career_signal: true
   signals:
     - "University-student accelerator program"
-
-  signals:
-    - "Graduate"
 notes: "World's largest crypto exchange (300M+ registered users) hiring in Amman, including Arabic/English customer support roles that explicitly welcome outstanding new graduates; Binance Accelerator Program also targets students/recent grads."
 evidence:
   - type: "official_website"
