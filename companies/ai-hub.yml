@@ -24,9 +24,6 @@ job_seeker:
   signals:
     - "Internships"
     - "Student and young-professional programs"
-
-  signals:
-    - "Internship"
 notes: "Amman AI-focused startup (founded 2024) running hands-on AI/data programs, AI solutions & automation for businesses, and AI-powered recruitment & internships — strong fresh-grad/intern pipeline.\nstack research 2026-10-04: 3 searches; LinkedIn company page (aihub-talentpool, 2-10 employees, Amman, founded 2024) lists 'Website & Software Development' as a specialty, but no employee profiles or job postings naming specific tech. Tags left empty, unverified."
 evidence:
   - type: "linkedin_company"
