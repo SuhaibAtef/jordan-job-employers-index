@@ -32,7 +32,8 @@ technologies:
   - "JavaScript"
   - "React"
 job_seeker:
-  early_career_signal: true  signals:
+  early_career_signal: true
+  signals:
     - "Entry-level technology roles"
 
     - "Entry-level technology roles"

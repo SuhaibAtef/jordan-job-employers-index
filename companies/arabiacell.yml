@@ -24,7 +24,8 @@ technologies:
   - "iOS"
   - "SMS Gateway"
 job_seeker:
-  early_career_signal: false  signals: []
+  early_career_signal: false
+  signals: []
 
   signals:
     - "Internship"

@@ -24,7 +24,8 @@ technologies:
   - ".NET"
   - "iOS"
 job_seeker:
-  early_career_signal: true  signals:
+  early_career_signal: true
+  signals:
     - "Associate roles up to 2 years"
 
   signals: []
