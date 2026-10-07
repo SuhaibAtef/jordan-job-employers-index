@@ -1,7 +1,10 @@
 name: "Cozmo"
-industry: "E-commerce (online supermarket)"
-website: "https://cozmo.jo"
-careers_url: null
+description: "Cozmo is a Jordanian supermarket and e-commerce brand within THE Group, combining physical retail with online grocery shopping and home delivery."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Retail / E-commerce"
+website: "https://cozmo.jo/"
+careers_url: "https://cozmo.jo/careers"
 linkedin: null
 hr_email: null
 size: null
@@ -9,29 +12,24 @@ location:
   area: "Amman"
   address: "Cozmo Centre, Issa Al-Naouri Street, 7th Circle, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.952533
-  longitude: 35.855392
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.952533,35.855392"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Cozmo%20Centre%207th%20Circle%20Amman%20Jordan"
 categories:
   - "ecommerce"
+  - "retail"
 technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Jordan's leading supermarket chain (est. 2003, THE Group) that launched the Kingdom's first supermarket e-commerce site (cozmo.jo) in 2016 with home delivery; HQ store at Cozmo Centre, 7th Circle, Issa Al-Naouri Street, Amman (Google listing 'COZMO').\nstack research 2026-10-04: 6 searches + 1 page open, no employee profiles or dev postings found (app package jo.thegroup.cozmo by The Group.jo; 'Power Cozmo' results are a different company)"
+notes: "Verified 2026-10-07. Cozmo's official careers page is active and links into THE Group's current vacancy system; the current vacancy page includes a Cozmo Supermarket Bakery Manager role in Amman and accepts general CV submissions. The existing 7th Circle address is retained as provided location evidence, but precise coordinates were removed because a current first-party HQ pin was not confirmed in this pass."
 evidence:
   - type: "official_website"
-    url: "https://cozmo.jo"
-    label: "Official website"
-  - type: "other"
-    url: "https://cozmo.jo/about-cozmo"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.tipntag.com/place/s/cozmo-Swefieh-Amman-Jordan/page/20"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.interiola.com/JO/Amman/339400283281178/Cozmo-Home"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.952533,35.855392"
-    label: "Google Maps location"
+    url: "https://cozmo.jo/"
+    label: "Official Cozmo website"
+  - type: "careers_page"
+    url: "https://cozmo.jo/careers"
+    label: "Official Cozmo careers page"
+  - type: "careers_page"
+    url: "https://www.thegroup.jo/available-vacancies/"
+    label: "THE Group current vacancies — includes Cozmo roles and general CV submission"
