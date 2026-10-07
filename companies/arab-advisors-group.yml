@@ -24,8 +24,6 @@ job_seeker:
   early_career_signal: true
   signals:
     - "Graduate recruitment"
-
-  signals: []
 notes: "Telecom, media and technology research/consulting firm headquartered in Amman, established 2001, ~25 employees. | stack research 2026-10-05: 3 searches, no engineering employees or dev postings found (TMT research/consulting firm, ~25 analysts, non-tech org)"
 evidence:
   - type: "official_website"
