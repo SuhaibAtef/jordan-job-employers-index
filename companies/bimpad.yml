@@ -30,8 +30,6 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-
-  signals: []
 notes: "Amman-based BIM engineering firm: BIM model production, clash detection, shop drawings, scan-to-BIM/digital twins and COBie handover; serves Jordan, KSA and the GCC."
 evidence:
   - type: "official_website"
