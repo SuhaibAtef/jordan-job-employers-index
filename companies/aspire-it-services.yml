@@ -43,10 +43,6 @@ job_seeker:
     - "Internship"
     - "EPIC Academy"
     - "Training and development"
-
-  signals:
-    - "Internship"
-    - "Academy"
 notes: "Amman-based IT services/consulting firm founded 2002; runs EPIC Academy training programs and advertises an internship application portal on its homepage."
 evidence:
   - type: "official_website"
