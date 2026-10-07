@@ -26,10 +26,6 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-
-  signals:
-    - "Fresh graduate"
-    - "Graduate"
 notes: "Largest MENA crypto exchange (acquired by CoinDCX), HQ Dubai, with an Amman office (~33+ people per The Org) — no Amman street address evidenced; DrJob Amman postings accept fresh graduates / up to 1 year of experience, and QA roles are based in Amman, Jordan."
 evidence:
   - type: "official_website"
