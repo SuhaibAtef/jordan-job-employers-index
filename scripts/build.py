@@ -92,7 +92,7 @@ for c in companies:
     public.append(p)
     (COMP/f'{c["_slug"]}.html').write_text(company_profile(c),encoding="utf-8")
 
-areas=sorted({(c.get("location") or {}).get("area") for c in companies if (c.get("location") or {}).get("area"})
+areas=sorted({(c.get("location") or {}).get("area") for c in companies if (c.get("location") or {}).get("area")})
 industries=sorted({c.get("industry") for c in companies if c.get("industry")})
 categories=sorted({x for c in companies for x in c.get("categories",[])})
 technologies=sorted({x for c in companies for x in c.get("technologies",[])})
