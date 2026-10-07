@@ -1,39 +1,37 @@
 name: "Dumyah"
-industry: "E-commerce / Retail"
+description: "Dumyah is an Amman e-commerce marketplace focused on women, families, children, home, beauty and related consumer categories. Its organization includes logistics, fulfillment, marketing, customer care, data integrity and technology teams."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Technology, Information and Internet / E-commerce"
 website: "https://www.dumyah.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/dumyahdotcom"
 hr_email: null
 size: "11-50"
 location:
   area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: "Amman, Jordan"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "ai"
   - "ecommerce"
+  - "web"
 technologies: []
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-notes: "Jordan's largest e-commerce platform for women/mothers (maternity, baby, beauty, toys); founded 2016 in Amman by Kayed Qunibi and Zeina Zuaiter; ~26 staff, tech team in-house. No public internship postings found. Stack research 2026-10-05: 5 searches incl. co-founder/CTO Laith Ekermawi profile; no employee or job-posting tech evidence."
+    - "Current internship hiring"
+    - "Current junior hiring"
+notes: "Verified 2026-10-07. Current LinkedIn identifies Dumyah as an Amman technology/e-commerce company founded in 2016 with dedicated Tech and Data Integrity functions. It shows active 2026 hiring in Amman, including a Graphic Design Intern and recent Product Owner Intern, plus junior and senior sales roles. No reliable public engineering-stack evidence was found, so technology tags remain empty rather than inferred. The previous generic Amman coordinate was removed."
 evidence:
   - type: "official_website"
     url: "https://www.dumyah.com/"
-    label: "Official website"
-  - type: "other"
+    label: "Official e-commerce platform"
+  - type: "official_website"
     url: "https://www.dumyah.com/en/about-us"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.f6s.com/companies/b2c-e-commerce/mo"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.arounddeal.com/c/dumyah-com/t8ddhwfldw"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Official About page"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/dumyahdotcom"
+    label: "Current LinkedIn — Amman organization, Tech team and active 2026 hiring"

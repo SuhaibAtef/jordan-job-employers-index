@@ -1,45 +1,33 @@
 name: "Digital Lemons"
-industry: "Digital Marketing / AI SaaS"
-website: "https://digitallemons.com"
+description: "Digital Lemons is an Amman advertising and digital-services company providing social media, branding, media planning, photography, video production, web development, mobile development and email marketing."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Advertising Services / Digital Marketing / Web & Mobile"
+website: "https://digitallemons.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/digital-lemons"
 hr_email: null
 size: "11-50"
 location:
-  area: "Amman"
-  address: "Mecca St., Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.974373
-  longitude: 35.84763
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.974373,35.84763"
+  area: "Sweifieh, Amman"
+  address: "Hussyni Complex, Office 303, Paris Street, Sweifieh, Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "ai"
   - "marketing"
   - "mobile"
   - "web"
-technologies:
-  - "AI SaaS products"
-  - "Mobile development"
-  - "Performance marketing"
-  - "SEO"
-  - "Web development"
+technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Founded 2015 as Jordan's first performance marketing company; now builds AI-native SaaS tools (Fixle AI SEO, Synk.Prop real estate ops, AutoParting catalog-to-commerce) - in-house dev. Pin upgraded from city fallback to Google business listing coordinates (Mecca St.); note JordanYP cites Sweifieh/Paris St. as alternate address. No careers page or grad program found. | stack research 2026-10-05: 5 searches + company site, no employee profiles or dev job postings found; builds AI-native SaaS (Fixle AI, Synk.Prop, AutoParting->Shopify) but no tech-stack evidence."
+notes: "Verified 2026-10-07. Current LinkedIn lists Digital Lemons as an Amman partnership founded in 2015 with 11-50 employees and a primary location at Hussyni Complex, Office 303, Paris Street, Sweifieh. This supersedes the previously stored Mecca Street location and coordinate. The company's public profile confirms web and mobile development among its services, but no current engineering stack or careers page was identified."
 evidence:
   - type: "official_website"
-    url: "https://digitallemons.com"
+    url: "https://digitallemons.com/"
     label: "Official website"
-  - type: "other"
-    url: "http://www.digitallemons.com/"
-    label: "Research source"
-  - type: "other"
-    url: "https://parsers.vc/startup/digitallemons.com/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/375806/Digital_Lemons"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.974373,35.84763"
-    label: "Google Maps location"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/digital-lemons"
+    label: "Current LinkedIn — Sweifieh/Paris Street office, 11-50 employees, founded 2015"

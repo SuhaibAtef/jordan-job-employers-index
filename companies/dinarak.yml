@@ -1,20 +1,21 @@
 name: "Dinarak"
-industry: "Financial Services / Fintech (mobile wallet, e-money)"
+description: "Dinarak is a Central Bank of Jordan-regulated mobile-wallet and financial-services provider offering money transfers, cash withdrawal, bill payment through eFAWATEERcom, QR merchant payments, payroll services and digital-wallet products across Jordan."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Financial Services / FinTech / Mobile Wallet"
 website: "https://dinarak.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/dinarakjo"
 hr_email: null
 size: "51-200"
 location:
-  area: "Amman"
-  address: "Building 172, Mecca Street, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.976905
-  longitude: 35.855819
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.976905,35.855819"
+  area: "Mecca Street, Amman"
+  address: "Building 172, 3rd Floor, Mecca Street, Amman 11821, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "consulting"
-  - "data"
   - "fintech"
   - "mobile"
 technologies:
@@ -22,26 +23,19 @@ technologies:
   - "eFAWATEERcom"
   - "iOS"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "Central Bank of Jordan-licensed mobile wallet (Al-Mutakamilah for Payments Services), ~1M customers per its site; Mastercard collaboration (Jul 2025) for prepaid cards; no public careers page or internship postings found; general contact emails on site (customer/business only). GPS pinned to verified Maps listing (Mecca St 172); address corroborated by Dinarak legal notice. Tech stack cleared — no publicly documented engineering stack found. | stack check 2026-10-03: no employee/job-posting evidence found (tried Google employee snippets, akhtaboot, wuzzuf profile, careers page, GitHub, getprog.ai; only RocketReach site-scrape lists JS/HTML/PHP — too weak). Left unverified. | stack recheck 2026-10-03 (run 2): still no employee/job-posting evidence (tried Google employee snippets, wuzzuf, site:akhtaboot.com, site:getprog.ai, careers page, GitHub; only RocketReach site-scrape lists JS/HTML/PHP — too weak). Left unverified. | stack recheck 2026-10-04 (run 3): still no employee/job-posting evidence (tried Google employee snippets, akhtaboot/gulftalent/wuzzuf, careers page, GitHub). Only vendor case study (Code & Pepper: React Native/TypeScript/GCP frontend rewrite, single source, not employee/job evidence) — insufficient. Left unverified. | stack recheck 2026-10-04 (run 4): still no employee/job-posting evidence (Google employee snippets, akhtaboot/gulftalent/wuzzuf, careers page). Vendor case study (Code & Pepper: TypeScript frontend rebuild) + RocketReach site-scrape (JS/HTML/PHP) judged insufficient, consistent with prior runs. Left unverified. | stack recheck 2026-10-04 (run 5): still no employee/job-posting evidence (tried Google employee-snippet queries x2; only RocketReach site-scrape lists JS/HTML/PHP — too weak). Left unverified. | stack verified 2026-10-04: company's own Dinarak app on Google Play (pkg dinarak.customer.com) and Apple App Store (publisher Al-Mutakamilah) confirm Android/iOS mobile presence; official Play listing states the app is fully integrated with eFAWATEERCOM. No employee/job-posting evidence for backend stack — RocketReach JS/HTML/PHP site-scrape still excluded as marketing-site only."
+  early_career_signal: false
+  signals: []
+notes: "Verified 2026-10-07. Dinarak's current official contact page publishes the headquarters as Building 172, third floor, Mecca Street, Amman; current LinkedIn independently lists Mecca Street, third floor, Amman 11821 and a 51-200 employee size band. The old map coordinate was removed because the address itself is stronger evidence. info@dinarak.com and bd@dinarak.com are customer/business contacts, not HR addresses. No current public careers page or internship posting was identified."
 evidence:
   - type: "official_website"
     url: "https://dinarak.com/"
-    label: "Official website"
-  - type: "other"
-    url: "https://en.wikipedia.org/wiki/Dinarak"
-    label: "Research source"
-  - type: "other"
-    url: "https://rocketreach.co/dinarak-profile_b44d16a4fd32bbc3"
-    label: "Research source"
+    label: "Official website — regulated mobile-wallet services"
+  - type: "official_website"
+    url: "https://dinarak.com/contact-us"
+    label: "Official contact page — Building 172, 3rd Floor, Mecca Street"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/dinarakjo"
+    label: "Current LinkedIn — Amman HQ, 51-200 employees and matching Mecca Street address"
   - type: "other"
     url: "https://newsroom.mastercard.com/news/eemea/en/newsroom/press-releases/en/2025-1/july/mastercard-collaborates-with-dinarak-to-advance-financial-inclusion-in-jordan/"
-    label: "Research source"
-  - type: "other"
-    url: "http://dinarak.com/legal-notice/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.976905,35.855819"
-    label: "Google Maps location"
+    label: "Mastercard partnership — current fintech relevance"

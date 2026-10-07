@@ -1,17 +1,20 @@
 name: "Digital Haze"
-industry: "Cybersecurity Consulting / FinTech"
-website: null
+description: "Digital Haze is an Amman cybersecurity, cyber-intelligence, digital-financial-services and compliance consultancy. Its public leadership and company profiles emphasize cyber risk, information security, privacy, fintech and governance services."
+verification_status: "partial"
+last_verified: "2026-10-07"
+industry: "Cybersecurity Consulting / FinTech / Compliance"
+website: "http://www.digitalhaze.jo"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/digihaze"
 hr_email: null
-size: "1-10 (Lucidity Insights)"
+size: "2-10"
 location:
-  area: "Amman"
-  address: "314 Zahran St., P.O. Box 143605, Amman 11814, Jordan"
+  area: "Zahran Street, Amman"
+  address: "Zahran Street, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.95847
-  longitude: 35.85188
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95847,35.85188"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "consulting"
   - "fintech"
@@ -21,17 +24,14 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman consultancy (cyber intelligence, cybersecurity, fintech) led by int@j board member Majdi Armouti; channel partner of PayTabs for secure digital payments in the Levant."
+notes: "Verified 2026-10-07. Current LinkedIn identifies Digital Haze as an Amman consultancy founded in 2020, with 2-10 employees and headquarters on Zahran Street. Founder/leader Majdi Armouti's current LinkedIn profile independently places his Digital Haze role in Amman. The previous exact 314 Zahran St. address and coordinate were not corroborated by current first-party evidence and were removed."
 evidence:
-  - type: "other"
-    url: "https://intaj.net/user/2100/"
-    label: "Research source"
-  - type: "other"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/digihaze"
+    label: "Current LinkedIn company page — Zahran Street, Amman; 2-10 employees; cybersecurity and compliance services"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/majdi-armouti-00bab920a"
+    label: "Current Digital Haze leader profile — Amman and cybersecurity expertise"
+  - type: "company_listing"
     url: "https://jordanict.com/company-profile/digital-haze"
-    label: "Research source"
-  - type: "other"
-    url: "https://ai.paytabs.com/pr/paytabs-group-partners-with-digital-haze-to-drive-growth-and-inspire-innovation/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.95847,35.85188"
-    label: "Google Maps location"
+    label: "Jordan ICT company profile"

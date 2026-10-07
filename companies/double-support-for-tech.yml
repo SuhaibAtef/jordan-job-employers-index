@@ -1,24 +1,26 @@
-name: "Double Support for Tech"
-industry: "DevOps / SaaS development services"
-website: "https://double-support.com"
+name: "Double Support For Tech"
+description: "Double Support For Tech is an Amman software-development and IT-services company providing web and mobile applications, infrastructure and network services, SaaS development and related technology services for local and international clients."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Software Development / IT Services"
+website: "https://www.double-support.com"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/doublesupportsystems"
-hr_email: null
-size: null
+hr_email: "info@ds-jo.com"
+size: "11-50"
 location:
-  area: "Amman"
-  address: "Wasfi At-Tall St. 67, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.984813
-  longitude: 35.883054
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.984813,35.883054"
+  area: "Gardens / Wasfi Al Tal Street, Amman"
+  address: "Khawaja Center 65, 5th Floor, Offices E2-E4, Wasfi Al Tal Street, Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
   - "consulting"
   - "devops"
   - "web"
 technologies:
-  - "AI automation"
   - "Cloud infrastructure"
   - "DevOps"
   - "Full-stack software development"
@@ -26,25 +28,16 @@ technologies:
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-    - "Junior"
-notes: "Amman-HQ firm (est. 2010, founder/CEO Ayman Aljakhbir) providing DevOps, AI automation and SaaS development to US/EU clients; opening Riyadh liaison office 2027. No public junior/intern program found. stack research 2026-10-05: 4 searches + company site open; no employee profiles or dev job postings with tech details found (site is marketing copy only, no careers/tech listings)."
+    - "Current QA internship"
+    - "Entry-level hiring history"
+notes: "Verified 2026-10-07. Current LinkedIn lists Double Support as an Amman software-development company with 11-50 employees and a primary office at Khawaja Center 65, 5th floor, Wasfi Al Tal Street. A current QA Intern posting in Jordan, published days before verification, offers hands-on software-testing experience and directs applications to info@ds-jo.com. Historical Amman hiring also includes entry-level roles. The previous Building 67 address and coordinate were replaced by the current company location."
 evidence:
   - type: "official_website"
-    url: "https://double-support.com"
+    url: "https://www.double-support.com"
     label: "Official website"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/doublesupportsystems"
-    label: "LinkedIn company page"
-  - type: "other"
-    url: "https://www.openpr.com/news/4228127/jordan-s-double-support-for-tech-strengthens-global-saas"
-    label: "Research source"
-  - type: "other"
-    url: "https://markets.financialcontent.com/workboat/article/getnews-2025-10-16-jordans-double-support-for-tech-strengthens-global-saas-presence-ahead-of-gulf-expansion"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/338246/Double_Support"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.984813,35.883054"
-    label: "Google Maps location"
+    label: "Current LinkedIn — 11-50 employees and Khawaja Center 65 office"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/training-quality-assuranc-at-double-support-for-tech-4473435566"
+    label: "Current Jordan QA internship — software-testing early-career evidence"

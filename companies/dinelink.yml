@@ -1,5 +1,8 @@
 name: "DineLink"
-industry: "Restaurant Technology"
+description: "DineLink is an AI-powered restaurant-management platform built in Amman, Jordan. It connects QR ordering, waiter approval, kitchen queues, table management, staff roles and business analytics in a browser-based system."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Restaurant Technology / SaaS"
 website: "https://www.dinelink.org/"
 careers_url: null
 linkedin: null
@@ -7,25 +10,28 @@ hr_email: null
 size: null
 location:
   area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: "Amman, Jordan"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
+  - "ai"
   - "web"
-technologies: []
+technologies:
+  - "Browser-based SaaS"
+  - "QR ordering"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "AI-powered restaurant system built in Amman by founder Talal Jaber; simple QR-to-kitchen workflow with waiter approval, chef queue and manager controls. No public hiring info found. Stack research 2026-10-05: 4 searches; company about page only, no employee profiles or dev postings found."
+notes: "Verified 2026-10-07 from current first-party pages. DineLink states it began in Jordan in February 2025, is built in Amman, and won Falling Walls Lab Jordan in July 2025. The About page identifies Talal Jaber as founder and describes the QR-to-kitchen workflow. No exact office address or public careers page is published, so the previous generic city-center coordinate was removed."
 evidence:
   - type: "official_website"
     url: "https://www.dinelink.org/"
-    label: "Official website"
-  - type: "other"
+    label: "Official website — current product, Jordan origin and 2025 Falling Walls Lab recognition"
+  - type: "official_website"
     url: "https://www.dinelink.org/about"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Official About page — built in Amman and founder information"
+  - type: "official_website"
+    url: "https://www.dinelink.org/docs"
+    label: "Official documentation — current restaurant workflow and product capabilities"
