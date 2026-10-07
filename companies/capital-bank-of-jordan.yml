@@ -33,8 +33,6 @@ job_seeker:
   early_career_signal: true
   signals:
     - "Banking Academy"
-
-  signals: []
 notes: "Amman-HQ bank (est. 1995) that launched Blink, Jordan's first digital-only neobank (2022, built with Codebase Technologies); regional group across Jordan, Iraq, KSA and UAE. Official registered office per the bank's own filings: Sulieman Al Nabulsi St, Building 26, Abdali Boulevard.; stack verified 2026-10-06: Capital Bank 'Mobile Software Engineer - Digital Banking' posting requires Flutter, Dart, REST APIs, Git; LinkedIn lists 'Senior Software Engineer (.Net)' Amman; Toptal portfolio shows Python 3, SQL at Capital Bank."
 evidence:
   - type: "official_website"
