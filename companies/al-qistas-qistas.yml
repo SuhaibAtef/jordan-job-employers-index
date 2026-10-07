@@ -34,9 +34,6 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-
-  signals:
-    - "Internship"
 notes: "Jordanian legal-information e-services platform (laws, regulations database) with mobile apps and an AI research portal; P.O. Box 9028, Amman 11191; +962 6 5538895; no public grad/internship info found."
 evidence:
   - type: "official_website"
