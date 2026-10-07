@@ -24,9 +24,6 @@ technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-
-  signals:
-    - "Internship"
 notes: "Jordanian SaaS team (AQUA POS) offering cloud POS, inventory management and restaurant/retail management software from Amman; client brands and blog active through Apr 2026. No public internship postings found.\nstack research 2026-10-04: 4 searches (employee snippets, getprog.ai/wuzzuf/akhtaboot/GulfTalent/foras); Jordan POS SaaS (aqua-pos.com) found but no employee profiles or dev postings naming the stack; heavy name ambiguity with foreign 'Aqua Software' firms. Tags left empty, unverified."
 evidence:
   - type: "official_website"
