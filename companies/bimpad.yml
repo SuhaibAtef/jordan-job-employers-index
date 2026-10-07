@@ -1,4 +1,7 @@
 name: "BIMPAD"
+description: "BIMPAD is an Amman BIM and digital-construction engineering firm providing BIM modeling, clash detection, coordination, shop drawings, scan-to-BIM, digital twins and handover-data services for building projects in Jordan and the Gulf."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "Construction Tech / BIM"
 website: "https://bimpad-eng.com"
 careers_url: null
@@ -6,6 +9,8 @@ linkedin: null
 hr_email: "team@bimpad-eng.com"
 size: null
 location:
+  status: "approximate"
+  address: "Amman, Jordan"
   area: "Amman"
   address: "Amman, Jordan"
   status: "approximate"
@@ -23,7 +28,8 @@ technologies:
   - "LiDAR"
   - "MongoDB"
 job_seeker:
-  early_career_signal: false
+  early_career_signal: false  signals: []
+
   signals: []
 notes: "Amman-based BIM engineering firm: BIM model production, clash detection, shop drawings, scan-to-BIM/digital twins and COBie handover; serves Jordan, KSA and the GCC."
 evidence:

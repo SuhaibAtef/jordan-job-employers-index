@@ -1,11 +1,16 @@
 name: "BluNet Marketing & Communication Services"
+description: "BluNet is an Amman marketing and MarTech agency combining digital strategy, SEO, performance marketing, social media, web and e-commerce development, bulk SMS, AI sales agents and AI voice agents. It is licensed in Jordan for bulk-SMS services and actively hires in Amman."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Digital Marketing"
 website: "http://www.theblunet.com"
 careers_url: null
-linkedin: null
-hr_email: null
-size: "26-50"
+linkedin: "https://www.linkedin.com/company/theblunet"
+hr_email: "info@theblunet.com"
+size: "11-50"
 location:
+  status: "provided_unverified"
+  address: "Amman, Jordan"
   area: "Amman"
   address: "8th Circle, Amman, Jordan"
   status: "approximate"
@@ -20,7 +25,9 @@ categories:
 technologies:
   - "SMS Gateway"
 job_seeker:
-  early_career_signal: false
+  early_career_signal: true  signals:
+    - "Historical entry-level sales roles"
+
   signals: []
 notes: "Est. 2008-2010 marketing agency with creative/web execution (front-end devs, UX/UI, e-commerce solutions) and SMS gateway services; no exact office pin found - city fallback retained. No careers page or grad program found."
 evidence:
@@ -42,3 +49,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/sales-executive-at-blunet-marketing-communication-services-4464779804"
+    label: "Current Amman Sales Executive role"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/sales-associate-at-blunet-marketing-communication-services-4114697281"
+    label: "Historical entry-level Amman Sales Associate role"

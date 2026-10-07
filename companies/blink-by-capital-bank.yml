@@ -1,8 +1,11 @@
 name: "Blink (by Capital Bank)"
+description: "Blink is Capital Bank of Jordan’s digital-only banking channel, offering mobile-first account opening, payments, cards and everyday banking without a separate branch network. Blink product, growth and customer-lifecycle roles are hired through Capital Bank in Amman."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Banking / Fintech (digital-only neobank)"
 website: "https://www.theblink.com"
 careers_url: "https://jo.linkedin.com/company/capitalbankjo/jobs"
-linkedin: null
+linkedin: "https://www.linkedin.com/company/theblinkjo"
 hr_email: null
 size: null
 location:
@@ -21,7 +24,9 @@ technologies:
   - ".NET"
   - "iOS"
 job_seeker:
-  early_career_signal: false
+  early_career_signal: true  signals:
+    - "Associate roles up to 2 years"
+
   signals: []
 notes: "Verified real and operating: Jordan's first digital-only neobank, launched Feb 2022 by Capital Bank of Jordan; tech hiring runs through parent Capital Bank (e.g., Senior Software Engineer (.NET) and Solutions Architect roles posted in Amman). No public Blink-specific street office; city-center fallback kept. Deep-verified 2026-10-03: Blink is Capital Bank of Jordan's digital-only neobank with no separate premises (its own site says no physical presence); Capital Bank's registered office is Building 26, Suliman Al Nabulsi St, Abdali Boulevard, Amman — confirmed by the bank's Q1 2025 financial statements, the Amman Stock Exchange company guide, the LEI registry, and the claimed Google Maps HQ pin (31.9630634, 35.9060112). Blink's official site uses Capital Bank's P.O. box 941283, tying it to the same HQ. stack verified 2026-10-06: parent Capital Bank of Jordan posted Senior Software Engineer (.Net) and Solutions Architect in Amman within the last week (LinkedIn jobs page); Blink tech hiring runs through the parent bank and the Blink app is built on the Codebase Digibanc platform."
 evidence:
@@ -70,3 +75,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9630634,35.9060112"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/relationship-associate-blink-at-capital-bank-of-jordan-4055481834"
+    label: "Blink associate role requiring up to 2 years experience"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/product-associate-blink-at-capital-bank-of-jordan-4021610001"
+    label: "Blink product role requiring 1+ years experience"

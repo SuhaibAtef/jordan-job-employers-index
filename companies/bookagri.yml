@@ -1,11 +1,16 @@
 name: "Bookagri"
+description: "Bookagri is a Jordanian agritourism marketplace that connects visitors with farm stays, agricultural experiences and rural tourism activities. The venture also promotes self-employment and local economic opportunities around farms and rural communities."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "AgriTech / AgriTourism"
 website: "https://bookagri.com"
 careers_url: null
-linkedin: null
+linkedin: "https://jo.linkedin.com/in/rudaina-haddad-4aa09644"
 hr_email: "info@bookagri.com"
 size: null
 location:
+  status: "approximate"
+  address: "Amman, Jordan"
   area: "Amman"
   address: "Marj Al-Hamam, Amman, Jordan"
   status: "approximate"

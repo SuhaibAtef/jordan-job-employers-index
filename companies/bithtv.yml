@@ -1,11 +1,16 @@
 name: "BithTV"
+description: "Bith.ai, originally launched as BithTV, is an Amman-founded AI video and content-creation company. It provides generative-AI workflows and templates for marketers and creators, including text-to-video, AI UGC, video editing, subtitles and social-media content automation."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "AI Video / Content Creation SaaS"
-website: "http://www.bith.tv"
+website: "https://bith.ai"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/bithai"
 hr_email: null
-size: "1-10"
+size: "2-10"
 location:
+  status: "provided_unverified"
+  address: "Amman, Jordan"
   area: "Amman"
   address: "Amman, Jordan"
   status: "approximate"
@@ -36,3 +41,8 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
     label: "Google Maps location"
+
+technologies:
+  - "Generative AI"
+  - "Video AI"
+  - "Content Automation"

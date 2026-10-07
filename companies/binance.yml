@@ -1,12 +1,20 @@
 name: "Binance"
+description: "Binance is a global digital-asset and blockchain platform operating a cryptocurrency exchange and related Web3 products. It actively recruits candidates located in Jordan for customer support, compliance, marketing and operations roles, but current evidence supports remote Jordan hiring rather than a verified physical Amman office."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "Crypto Exchange / Fintech"
 website: "https://binance.com/en"
-careers_url: "https://www.binance.com/en/careers/job-openings"
+careers_url: "https://jobs.lever.co/binance"
 linkedin: "https://www.linkedin.com/company/binance"
 hr_email: null
-size: "5,001-10,000"
+size: "5001-10000"
 location:
-  area: "Amman"
+  maps_url: null
+  longitude: null
+  latitude: null
+  status: "unresolved"
+  address: null
+  area: "Jordan (remote roles)"
   address: null
   status: "approximate"
   latitude: 31.9539
@@ -19,7 +27,9 @@ technologies:
   - "Blockchain"
   - "REST API"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: true  signals:
+    - "University-student accelerator program"
+
   signals:
     - "Graduate"
 notes: "World's largest crypto exchange (300M+ registered users) hiring in Amman, including Arabic/English customer support roles that explicitly welcome outstanding new graduates; Binance Accelerator Program also targets students/recent grads."
@@ -45,3 +55,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
     label: "Google Maps location"
+  - type: "careers"
+    url: "https://jobs.lever.co/binance/?location=Jordan%2C+Amman"
+    label: "Current Jordan/Amman-targeted remote roles"
+  - type: "job_post"
+    url: "https://jobs.lever.co/binance?location=Middle+East+%26+North+Africa"
+    label: "Current MENA roles including Jordan/Amman and student Accelerator Program"

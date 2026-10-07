@@ -1,4 +1,7 @@
 name: "BitOasis"
+description: "BitOasis is a regulated MENA virtual-assets platform offering cryptocurrency trading, brokerage and wallet services. Headquartered in Dubai, it maintains an Amman team and has historically hired customer-success, QA and engineering staff in Jordan."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Crypto Exchange / Fintech"
 website: "https://bitoasis.net"
 careers_url: "https://careers.smartrecruiters.com/Bitoasis/"
@@ -6,6 +9,8 @@ linkedin: "https://www.linkedin.com/company/bitoasis-technologies-fze/"
 hr_email: null
 size: "51-200"
 location:
+  status: "provided_unverified"
+  address: "Amman, Jordan"
   area: "Amman"
   address: null
   status: "approximate"
@@ -19,7 +24,8 @@ technologies:
   - "Android"
   - "Flutter"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false  signals: []
+
   signals:
     - "Fresh graduate"
     - "Graduate"
@@ -55,3 +61,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/customer-success-officer-at-bitoasis-2615906187"
+    label: "Historical full-time Amman role"
+  - type: "job_post"
+    url: "https://eg.linkedin.com/jobs/jobs-in-%D8%A8%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B3%D8%A8%D8%B9?countryRedirected=1"
+    label: "Current LinkedIn search surface showing BitOasis DevOps Engineer in Amman"

@@ -1,11 +1,16 @@
 name: "BlackStone eIT"
+description: "BlackStone eIT is a global systems integrator and enterprise-software company delivering digital transformation, AI-enabled solutions, software development, infrastructure and government technology. It actively recruits technical and managed-services staff in Amman, although a current public street address for its Jordan team is not established."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "IT consulting / Enterprise software"
 website: "https://blackstoneeit.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/blackstoneeit/"
 hr_email: null
-size: null
+size: "1001-5000"
 location:
+  status: "approximate"
+  address: "Amman, Jordan"
   area: "Amman"
   address: null
   status: "approximate"
@@ -40,3 +45,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/managed-services-resource-and-account-coordinator-at-blackstone-eit-4459800957"
+    label: "Current Amman managed-services role"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/pre-sales-executive-at-blackstone-eit-3891653877"
+    label: "Historical Jordan technical pre-sales role"

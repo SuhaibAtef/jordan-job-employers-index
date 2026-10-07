@@ -1,4 +1,7 @@
 name: "BIM Lab"
+description: "BIM Lab is an Amman building-information-modeling consultancy that helps architects, engineers, contractors and owners plan and deliver BIM-based design, coordination and modeling work. Its services combine architecture and engineering consultancy with BIM implementation and technology-enabled project delivery."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Construction Tech / BIM"
 website: "https://bimlab.com"
 careers_url: null
@@ -6,7 +9,9 @@ linkedin: "https://www.linkedin.com/company/bim-lab"
 hr_email: null
 size: "11-50"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "226 Prince Mohammad Street, Jabal Amman, Amman, Jordan"
+  area: "Jabal Amman, Amman"
   address: "226 Prince Mohammad St, Amman, Jordan"
   status: "approximate"
   latitude: 31.9527
