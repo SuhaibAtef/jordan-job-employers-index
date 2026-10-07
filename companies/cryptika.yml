@@ -1,47 +1,38 @@
 name: "Cryptika"
-industry: "Cybersecurity / IT Security"
-website: "https://www.cryptika.com"
+description: "Cryptika is a regional cybersecurity consulting and assurance firm working across governance, risk, compliance, privacy, technical assessment, penetration testing, resilience and incident-response governance, with offices including Amman."
+verification_status: "partial"
+last_verified: "2026-10-07"
+industry: "Cybersecurity Consulting"
+website: "https://www.cryptika.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/cryptika/"
 hr_email: null
-size: "2-9 (Clutch)"
+size: null
 location:
   area: "Amman"
-  address: "#15 Wakalat Street, Al-Swiefieh, Amman 11185, Jordan"
+  address: "#15 Wakalat Street, Al-Sweifieh, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.957717
-  longitude: 35.86054
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.957717,35.86054"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Cryptika%2015%20Wakalat%20Street%20Sweifieh%20Amman"
 categories:
   - "security"
 technologies:
   - "GRC"
   - "Penetration Testing"
-  - "SIEM"
-  - "SOC"
+  - "Privacy Governance"
+  - "Security Assessment"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Small Amman information-security firm (founded 2016) doing VAPT, managed SOC/SOCaaS, digital forensics and GRC (ISO 27001, PCI-DSS, NCA ECC, Central Bank of Jordan CSF)."
+notes: "Verified 2026-10-07. Cryptika's current contact page confirms an Amman office alongside Riyadh and Dubai, while current LinkedIn lists Riyadh as company headquarters. An older Cryptika-owned page publishes the Amman address as #15 Wakalat Street, Al-Sweifieh; because that exact address is older than the current contact page, it is retained as provided_unverified rather than fully verified. Unsupported coordinates were removed."
 evidence:
   - type: "official_website"
-    url: "https://www.cryptika.com"
+    url: "https://www.cryptika.com/"
     label: "Official website"
-  - type: "other"
-    url: "https://www.cryptika.com/bg-mssp/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.cryptika.com/dubai/uae-cybersecurity/in-amman/jordan/riyadh/ksa/services/it-security-assessment/"
-    label: "Research source"
-  - type: "other"
-    url: "https://Clutch.co/profile/cryptika"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanyp.com/category/Cyber_Security/city:Amman"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.cryptika.com/in-amman/in-jordan/grc-and-compliance-consulting/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.957717,35.86054"
-    label: "Google Maps location"
+  - type: "official_website"
+    url: "https://www.cryptika.com/get-in-touch/"
+    label: "Current contact page — confirms offices in Riyadh, Dubai and Amman"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/cryptika/"
+    label: "LinkedIn company page — current regional profile and Riyadh headquarters"
