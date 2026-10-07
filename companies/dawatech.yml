@@ -1,40 +1,35 @@
 name: "Dawatech"
-industry: "HealthTech / Pharmacy SaaS (POS)"
+description: "Dawatech is a Jordanian pharmacy-technology company providing pharmacy management, point-of-sale, inventory, accounting and related digital services."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "HealthTech / Pharmacy Software"
 website: "https://dawatech.com/"
 careers_url: null
 linkedin: null
-hr_email: "info@dawatech.com"
+hr_email: null
 size: null
 location:
-  area: "Amman"
-  address: "49 Yathreb St, Dabouq, Amman"
-  status: "provided_unverified"
-  latitude: 32.015051
-  longitude: 35.833482
-  maps_url: "https://www.google.com/maps/search/?api=1&query=32.015051,35.833482"
+  area: "Dabouq, Amman"
+  address: "49 Yathreb St., Dabouq, Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Dawatech%2049%20Yathreb%20Street%20Dabouq%20Amman"
 categories:
   - "fintech"
   - "healthtech"
   - "web"
-technologies: []
+technologies:
+  - "Pharmacy management SaaS"
+  - "Point-of-sale systems"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "Jordan pharmacy management SaaS (POS, digital inventory, accounting, B2B marketplace) founded by pharmacist Mohammad Musleh; ~40% of Jordanian community pharmacies use it; 7-figure seed led by Access Bridge Ventures. No public internship postings found. stack research 2026-10-05: 5 searches incl. employee snippets, getprog/akhtaboot site queries, Arabic job postings + company site opened; no employee profiles or dev job postings found"
+  early_career_signal: false
+  signals: []
+notes: "Verified 2026-10-07. Dawatech's current official contact page directly publishes its Jordan head office at 49 Yathreb Street, Dabouq, Amman and info@dawatech.com as a general contact. No current careers page or internship evidence was found, so the previous unsupported internship signal was removed. The exact coordinate was also removed because the first-party street address is sufficient."
 evidence:
   - type: "official_website"
     url: "https://dawatech.com/"
-    label: "Official website"
-  - type: "other"
+    label: "Official Dawatech website"
+  - type: "official_website"
     url: "https://dawatech.com/contactus"
-    label: "Research source"
-  - type: "other"
-    url: "https://dawatech.com/blog/dawatech-blog-1/post/pharmacy-management-system-control-your-pharmacy-with-ease-3"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.startupmgzn.com/english/news/jordan-based-dawatech-secures-a-7-digit-seed-investment/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=32.015051,35.833482"
-    label: "Google Maps location"
+    label: "Official contact page — 49 Yathreb St., Dabouq head office"
