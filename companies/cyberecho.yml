@@ -1,38 +1,36 @@
 name: "CyberEcho"
-industry: "Computer and Network Security"
-website: "https://cyberecho.io"
+description: "CyberEcho is a cybersecurity consultancy providing security strategy, architecture, DevSecOps, penetration testing, vulnerability management, virtual-CISO, compliance and packaged security services for startups, fintechs and larger organizations."
+verification_status: "partial"
+last_verified: "2026-10-07"
+industry: "Cybersecurity Consulting"
+website: "https://cyberecho.io/"
 careers_url: null
 linkedin: null
 hr_email: null
 size: null
 location:
   area: "Amman"
-  address: "Amman, Jordan (offices in Dubai)"
-  status: "approximate"
-  latitude: 31.95672
-  longitude: 35.92519
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+  address: null
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "devops"
   - "security"
 technologies:
   - "CI/CD"
+  - "DevSecOps"
   - "IAM"
-  - "SOC"
+  - "Penetration Testing"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Cyber security consultancy HQ'd in Amman with Dubai offices (int@j member); subscription packaged services for startups/fintechs - external/internal/web/mobile/physical/wireless pen testing, incident response, virtual CISO, DevSecOps pipeline security."
+notes: "Verified 2026-10-07. CyberEcho's official website remains active and documents DevSecOps, IAM, penetration testing, vulnerability management and virtual-CISO services. Historical Jordan ICT association evidence identifies an Amman base, but the current official site does not publish a physical address. The previous generic Amman coordinate was therefore removed and the city remains provided_unverified rather than exact."
 evidence:
   - type: "official_website"
-    url: "https://cyberecho.io"
-    label: "Official website"
-  - type: "other"
+    url: "https://cyberecho.io/"
+    label: "Official website — current cybersecurity and DevSecOps services"
+  - type: "company_listing"
     url: "https://intaj.net/newsletter/3rd-week-of-september-2022/"
-    label: "Research source"
-  - type: "other"
-    url: "https://sitesmm.com/cyberecho.io/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
-    label: "Google Maps location"
+    label: "Historical Jordan ICT association evidence for Amman presence"
