@@ -29,7 +29,8 @@ technologies:
   - "PhoneGap"
   - "Unity"
 job_seeker:
-  early_career_signal: true  signals:
+  early_career_signal: true
+  signals:
     - "Youth training"
     - "Free digital-skills programs"
 

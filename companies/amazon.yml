@@ -25,7 +25,8 @@ technologies:
   - "Python"
   - "Distributed Systems"
 job_seeker:
-  early_career_signal: true  signals:
+  early_career_signal: true
+  signals:
     - "Recent-graduate SDE roles"
     - "Student opportunities"
 

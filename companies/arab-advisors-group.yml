@@ -21,7 +21,8 @@ categories:
   - "consulting"
 technologies: []
 job_seeker:
-  early_career_signal: true  signals:
+  early_career_signal: true
+  signals:
     - "Graduate recruitment"
 
   signals: []
