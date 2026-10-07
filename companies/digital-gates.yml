@@ -1,17 +1,20 @@
-name: "Digital Gates"
-industry: "IT services / Software staff augmentation"
-website: "https://digitalgates.net"
+name: "DIGITAL GATES"
+description: "DIGITAL GATES is an Amman software-development and digital-transformation company providing staff augmentation, team extension, custom software, systems integration and Microsoft cloud/business-application services."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Software Development / IT Services"
+website: "https://www.digitalgates.net/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/digitalgates"
 hr_email: "careers@digitalgates.net"
-size: "11-50"
+size: "51-200"
 location:
-  area: "Amman"
+  area: "King Hussein Business Park, Amman"
   address: "Office 211, Building GH10, Business Park, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.972718
-  longitude: 35.834635
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.972718,35.834635"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "consulting"
   - "devops"
@@ -20,22 +23,24 @@ categories:
 technologies:
   - ".NET"
   - "Azure"
-  - "JavaScript"
-  - "React"
+  - "C#"
+  - "Dynamics 365"
+  - "Microsoft 365"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman-based software staff augmentation and digital transformation provider serving clients in the UK, Saudi Arabia, UAE and Qatar; actively hiring in Amman (React Native Developer and other roles). Engineering base at GH Building 10."
+  early_career_signal: true
+  signals:
+    - "Historical Graduate Software Developer hiring"
+notes: "Verified 2026-10-07. The current official site publishes Office 211, Building GH10, Business Park, Amman; LinkedIn independently lists Building 10, Business Park as the primary Amman location and gives a 51-200 employee size band. A historical Graduate Software Developer posting explicitly targeted fresh graduates and directed applications to careers@digitalgates.net, so that address is retained as the hiring contact. Current company materials emphasize Microsoft/Azure, Dynamics 365, staff augmentation and software engineering."
 evidence:
   - type: "official_website"
-    url: "https://digitalgates.net"
-    label: "Official website"
-  - type: "other"
-    url: "https://theorg.com/org/digital-gates?p=mohammad-fahmawi"
-    label: "Research source"
+    url: "https://www.digitalgates.net/"
+    label: "Official website — current Amman office"
+  - type: "official_website"
+    url: "https://www.digitalgates.net/contact-us"
+    label: "Official contact page — Office 211, Building GH10, Business Park"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/digitalgates"
+    label: "Current LinkedIn — 51-200 employees, Amman HQ and Building 10 location"
   - type: "job_post"
-    url: "https://jaabz.com/jobs/105374-uiux-designer"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.972718,35.834635"
-    label: "Google Maps location"
+    url: "https://jo.linkedin.com/jobs/view/graduate-software-developer-at-digital-gates-4075472296"
+    label: "Historical Amman Graduate Software Developer role — fresh-graduate evidence and careers@digitalgates.net"

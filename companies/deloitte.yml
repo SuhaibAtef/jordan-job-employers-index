@@ -1,17 +1,20 @@
 name: "Deloitte"
-industry: "Professional services / Technology consulting"
-website: "https://www.deloitte.com/middle-east/en/offices/middle-east-offices/amman.html"
-careers_url: "https://middleeastjobs.deloitte.com/careersME/PipelineDetail/Jordan-Manager-Engineering-AI-Data-AI-Data-AI-Architect/244036"
+description: "Deloitte operates multiple offices in Amman, including Deloitte Jordan and the Jordan Digital Center (JDC). The JDC is a technology-delivery hub supporting digital transformation, engineering, AI, data, cloud, DevOps and enterprise-platform work for Deloitte clients."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Professional Services / Technology Consulting"
+website: "https://www.deloitte.com/middle-east/en/offices/middle-east-offices.html"
+careers_url: "https://middleeastjobs.deloitte.com/"
 linkedin: null
 hr_email: null
 size: null
 location:
   area: "Amman"
-  address: "Building 324, Al-Jandaweel, King Abdullah II St, Amman 11810, Jordan"
-  status: "provided_unverified"
-  latitude: 31.960721
-  longitude: 35.845
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.960721,35.845"
+  address: "Jordan Digital Center: Level G & 3, Building 9, King Hussein Business Park, King Abdullah II St., Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
   - "consulting"
@@ -23,31 +26,17 @@ technologies:
   - "Generative AI"
   - "Microsoft Dynamics 365"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Launched the Jordan Digital Center (JDC) in Amman (Jan 2023) - a state-of-the-art tech delivery hub for digital transformation, AI, data & analytics and ERP; explicitly invests in Jordanian youth talent; official address confirmed by Deloitte Middle East office locator."
+  early_career_signal: true
+  signals:
+    - "Jordan Digital Center talent pipeline"
+notes: "Verified 2026-10-07 from Deloitte's current Middle East office locator. Deloitte has multiple Amman locations: the Jordan Digital Center at Building 9, King Hussein Business Park, and Deloitte Jordan / Deloitte & Touche offices at Building 324, Al-Jandaweel, King Abdullah II St. The record uses JDC as the primary address because this directory focuses on technology employment. The old coordinate pin was removed. Deloitte's official Middle East careers portal remains the appropriate application source; role availability changes frequently."
 evidence:
   - type: "official_website"
-    url: "https://www.deloitte.com/middle-east/en/offices/middle-east-offices/amman.html"
-    label: "Official website"
-  - type: "careers"
-    url: "https://middleeastjobs.deloitte.com/careersME/PipelineDetail/Jordan-Manager-Engineering-AI-Data-AI-Data-AI-Architect/244036"
-    label: "Careers / application page"
-  - type: "other"
+    url: "https://www.deloitte.com/middle-east/en/offices/middle-east-offices.html"
+    label: "Official Middle East office locator — Jordan Digital Center and Deloitte Jordan Amman offices"
+  - type: "official_website"
     url: "https://www.deloitte.com/middle-east/en/about/press-room/deloitte-launches-jdc-to-provide-me-clients-digital-and-tech-services.html"
-    label: "Research source"
-  - type: "job_post"
-    url: "https://www.gulftalent.com/jordan/jobs/senior-consultant-devops-engineer-574820"
-    label: "Research source"
-  - type: "job_post"
-    url: "https://www.gulftalent.com/jordan/jobs/microsoft-dynamics-365-finance-and-operations-consultant-574893"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.consultingpoint.com/news/2023/2/15/deloitte-picks-jordan-for-3rd-digital-center-in-the-middle-east"
-    label: "Research source"
-  - type: "other"
-    url: "https://www2.deloitte.com/xe/en/pages/strategy-operations/solutions/deloitte-jordan-digital-center.html"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.960721,35.845"
-    label: "Google Maps location"
+    label: "Official announcement — Jordan Digital Center technology hub"
+  - type: "careers_page"
+    url: "https://middleeastjobs.deloitte.com/"
+    label: "Official Deloitte Middle East careers portal"

@@ -1,20 +1,22 @@
 name: "Dibeen"
-industry: "AgriTech / Food Marketplace"
+description: "Dibeen is a Jordanian farm-to-table food business and online marketplace connecting consumers and organizations with local farmers, producers and cooks. Its current public activity includes consumer ordering and corporate catering in Amman."
+verification_status: "partial"
+last_verified: "2026-10-07"
+industry: "Food Marketplace / AgriTech / Catering"
 website: "https://www.dibeen.com"
 careers_url: null
-linkedin: null
-hr_email: "contact@dibeen.com"
+linkedin: "https://www.linkedin.com/company/dibeen"
+hr_email: null
 size: null
 location:
   area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: "Amman, Jordan"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ecommerce"
-  - "iot"
   - "mobile"
   - "web"
 technologies:
@@ -22,23 +24,14 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Online marketplace + mobile app connecting Jordanian farmers and local producers directly with consumers (launched during COVID-19); visited by Queen Rania in 2021; presented at World Agri-Tech MEASA 2024. stack verified 2026-10-05: Android app package co.shopney.dibeen (APKPure) and company review of Shopney on the Shopify App Store confirm Shopify-based store/app."
+notes: "Verified 2026-10-07. Dibeen's official contact page currently publishes contact@dibeen.com and phone 0775355555 but no street address. Current LinkedIn activity advertises corporate catering in Amman, confirming city-level operations. The previous generic Amman coordinate was removed because it was not a company pin. Shopify remains retained as platform evidence from the company's historical Shopney/Shopify implementation, not as proof of an in-house engineering stack."
 evidence:
   - type: "official_website"
     url: "https://www.dibeen.com"
     label: "Official website"
-  - type: "other"
-    url: "https://www.dibeen.com/pages/investment-relation"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.newmyroyals.com/2021/06/queen-rania-visited-dibeen-farmers.html"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.foodnavigator.com/Article/2024/11/14/meet-the-14-agtech-start-ups-set-to-take-centre-stage-at-world-agri-tech-measa/?int_campaign=Headlines&int_campaign_type=Right_column"
-    label: "Research source"
-  - type: "other"
-    url: "https://apkpure.net/dibeen-online-local-market/co.shopney.dibeen"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+  - type: "official_website"
+    url: "https://www.dibeen.com/pages/contact-us"
+    label: "Official contact page — contact@dibeen.com and phone"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/dibeen"
+    label: "Current LinkedIn activity — Amman corporate catering and Jordan operations"

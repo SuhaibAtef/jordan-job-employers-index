@@ -1,33 +1,41 @@
-name: "Delta Fintech Solutions (Delta Informatics)"
-industry: "FinTech Software"
+name: "Delta Informatics"
+description: "Delta Informatics is an Amman software-development company founded in 1993. It builds and maintains in-house enterprise systems for ERP, fintech, e-government and custom turnkey projects, with long-standing Oracle-based software expertise."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Software Development / FinTech / ERP"
 website: "https://delta.com.jo"
 careers_url: null
-linkedin: null
-hr_email: "info@delta.com.jo"
-size: null
+linkedin: "https://www.linkedin.com/company/deltainformatics"
+hr_email: null
+size: "11-50"
 location:
-  area: "Amman"
-  address: "Mecca St. 20, Amman"
-  status: "approximate"
-  latitude: 31.97608
-  longitude: 35.86011
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97608,35.86011"
+  area: "Queen Rania Al-Abdullah St., Amman"
+  address: "Abu Alhaj Complex, Office 704, Queen Rania Al-Abdullah Street, Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "data"
   - "fintech"
+  - "erp"
+  - "web"
 technologies:
   - "Oracle Database"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Jordanian enterprise software house whose Delta Fintech unit builds loan/leasing management suites fully in-house (it built Tamweelcom's Oracle-based loan platform); enquiries go directly to its engineers — dev team. Address and email confirmed on its own homepage."
+notes: "Verified 2026-10-07. Current LinkedIn lists Delta Informatics as an Amman software-development partnership with 11-50 employees, founded in 1993, at Abu Alhaj Complex Office 704 on Queen Rania Al-Abdullah Street. A 2025 Jordan government publication independently places Delta Informatics on Queen Rania Street. The previous Mecca St. 20 address and coordinate pin were therefore removed. The official site states its ERP, Fintech and government systems are designed, built, deployed and maintained in-house. info@delta.com.jo remains a general company contact, not an HR address."
 evidence:
   - type: "official_website"
-    url: "https://delta.com.jo"
-    label: "Official website"
+    url: "https://delta.com.jo/"
+    label: "Official website — in-house ERP, fintech and government systems"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/deltainformatics"
+    label: "Current LinkedIn — 11-50 employees and Abu Alhaj Complex, Queen Rania St. address"
   - type: "other"
-    url: "https://delta.com.jo/wp-content/uploads/2024/07/Tamweelkom-Case-Study.pdf"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.97608,35.86011"
-    label: "Google Maps location"
+    url: "https://mit.gov.jo/EBV4.0/Root_Storage/AR/EB_List_Page/6021.pdf"
+    label: "2025 Jordan government publication — Delta Informatics address on Queen Rania Street"
+  - type: "company_listing"
+    url: "https://jordanict.com/listings"
+    label: "Jordan ICT directory — company contact and Amman presence"

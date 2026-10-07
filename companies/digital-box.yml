@@ -1,45 +1,47 @@
 name: "Digital Box"
-industry: "Digital agency (web/app/SEO)"
-website: "https://digitalboxit.com"
+description: "Digital Box is an Amman digital agency providing web design and development, SaaS and web-application engineering, mobile applications, SEO, e-commerce consulting and growth marketing."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Digital Agency / Software Development / Marketing"
+website: "https://digitalboxit.com/en"
 careers_url: null
 linkedin: null
 hr_email: null
 size: null
 location:
   area: "Amman"
-  address: "Wasfi Al-Tal St, Tla'a Al Ali, Amman, Jordan"
+  address: "Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.992709
-  longitude: 35.865427
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.992709,35.865427"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "devops"
   - "marketing"
+  - "mobile"
   - "web"
 technologies:
-  - ".NET"
+  - ".NET Core"
   - "Angular"
   - "AWS"
-  - "CSS"
   - "Google Cloud"
   - "JavaScript"
+  - "Laravel"
   - "Next.js"
   - "PHP"
   - "Python"
   - "React"
+  - "Tailwind CSS"
   - "Vue.js"
   - "WordPress"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Web, app and SEO agency in Amman; builds SaaS platforms, dashboards and mobile apps; publishes its tech stack openly on its site."
+notes: "Verified 2026-10-07 from the current official site. Digital Box explicitly identifies itself as a full-service digital agency in Amman, Jordan and publishes its current engineering stack, including Vue.js, Angular, React, Python, JavaScript, Google Cloud, AWS, Next.js, Tailwind CSS, PHP/Laravel and .NET Core. The site publishes info@digitalboxit.com and +962 78 788 5222 but no current street address. The previous Wasfi Al-Tal/Tla'a Al Ali address and coordinate were therefore removed rather than treated as verified."
 evidence:
   - type: "official_website"
-    url: "https://digitalboxit.com"
-    label: "Official website"
-  - type: "other"
     url: "https://digitalboxit.com/en"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.992709,35.865427"
-    label: "Google Maps location"
+    label: "Official website — Amman identity, services, contact and current technology stack"
+  - type: "official_website"
+    url: "https://digitalboxit.com/en/services"
+    label: "Official services page — web, SaaS, mobile and digital-services scope"

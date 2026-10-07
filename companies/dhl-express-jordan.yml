@@ -1,39 +1,41 @@
 name: "DHL Express Jordan"
-industry: "Logistics / express delivery"
+description: "DHL Express operates express-delivery and logistics services in Jordan, with a main country office in Amman and airport operations. Jordan roles are primarily logistics, operations, customer service and commercial functions rather than a local software-engineering hub."
+verification_status: "partial"
+last_verified: "2026-10-07"
+industry: "Logistics / Express Delivery"
 website: "https://www.dhl.com/"
-careers_url: null
+careers_url: "https://careers.dhl.com/global/en"
 linkedin: "https://www.linkedin.com/company/dhlexpress/"
 hr_email: null
 size: null
 location:
-  area: "Amman"
+  area: "Al Bayader Industrial Area, Amman"
   address: "Sewar Bin Amara Street, Al Bayader Industrial Area, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.939606
-  longitude: 35.844845
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.939606,35.844845"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "logistics"
 technologies: []
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-    - "Graduate"
-notes: "Global express logistics leader with a main country office at Sewar Bin Amara Street, Al Bayader Industrial Area, Amman (DHL rate guide; Google listing 'DHL Express Main Country Office') and a hub at Queen Alia International Airport; runs student and graduate internship programs. stack check 2026-10-04: no Jordan software-engineering evidence found (delivery-operations office; DHL IT is centralized globally) — stack left empty, not verified. | stack research 2026-10-04: no Jordan-specific engineering evidence found (job-board/akhtaboot/GulfTalent/getprog.ai searches; only courier, gateway-agent and telesales roles in Amman; global DHL IT careers not Jordan-specific). Tags left unverified."
+    - "Global DHL student and graduate programs"
+notes: "Verified 2026-10-07. DHL's official careers platform remains active and includes dedicated student, graduate and internship pathways. The stored Jordan office address is retained from DHL's official Jordan service/rate guide, but no newer first-party street-address page was found in this pass, so it remains provided_unverified and the coordinate pin was removed. No current Jordan-specific software-engineering vacancy was identified; this record should not imply that global DHL IT roles are based in Jordan."
 evidence:
   - type: "official_website"
     url: "https://www.dhl.com/"
-    label: "Official website"
+    label: "DHL official website"
+  - type: "careers_page"
+    url: "https://careers.dhl.com/global/en"
+    label: "Official DHL careers portal"
+  - type: "careers_page"
+    url: "https://careers.dhl.com/amer/en/students-graduates"
+    label: "Official student and graduate programs"
+  - type: "official_website"
+    url: "https://mydhl.express.dhl/content/dam/downloads/jo/en/rate-guide/service_and_rate_guide_jo_en_2025.pdf.coredownload.pdf"
+    label: "Official Jordan service guide — Amman country-office address"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/dhlexpress/"
-    label: "LinkedIn company page"
-  - type: "other"
-    url: "https://mydhl.express.dhl/content/dam/downloads/jo/en/rate-guide/service_and_rate_guide_jo_en_2025.pdf.coredownload.pdf"
-    label: "Research source"
-  - type: "other"
-    url: "https://blog.nevine.me/2025/04/dhl-students-and-graduates-programs.html"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.939606,35.844845"
-    label: "Google Maps location"
+    label: "DHL Express LinkedIn"

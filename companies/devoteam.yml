@@ -1,46 +1,43 @@
 name: "Devoteam"
-industry: "IT Consulting / Cloud / DevOps"
-website: "https://www.devoteam.com"
-careers_url: "https://www.bayt.com/en/jordan/jobs/devops-engineer-jobs-in-amman/?jobId=4859331"
+description: "Devoteam is an AI-driven technology consultancy with an active Amman operation. Its Jordan roles include ServiceNow development and consulting, and the wider firm specializes in cloud, data, DevOps, cybersecurity, AI and enterprise platforms."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "IT Consulting / Cloud / AI / DevOps"
+website: "https://www.devoteam.com/"
+careers_url: "https://www.devoteam.com/me/jobs/"
 linkedin: null
 hr_email: null
 size: "10000+"
 location:
   area: "Amman"
   address: "Amman, Jordan"
-  status: "approximate"
-  latitude: 31.95672
-  longitude: 35.92519
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
+  - "ai"
   - "consulting"
   - "devops"
   - "erp"
 technologies:
   - "AWS"
   - "Azure"
-  - "CI/CD"
   - "Google Cloud"
-  - "Kubernetes"
   - "ServiceNow"
-  - "Terraform"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "European digital-transformation consultancy (10,000+ employees, Diamond Google Cloud / Premier AWS / top-tier Microsoft partner) with an Amman presence actively hiring Cloud Consultants and DevOps engineers locally."
+  early_career_signal: true
+  signals:
+    - "Students/Graduate track"
+    - "Current Amman developer role"
+notes: "Verified 2026-10-07. Devoteam's official careers site currently exposes Amman as a job location and lists a Jordan Developer role focused on ServiceNow implementation and certification. The global careers site explicitly includes a Students/Graduate track with internships and apprenticeships. No current first-party street address for the Amman office was identified in this pass, so the prior synthetic city-center pin was removed."
 evidence:
   - type: "official_website"
-    url: "https://www.devoteam.com"
+    url: "https://www.devoteam.com/"
     label: "Official website"
-  - type: "careers"
-    url: "https://www.bayt.com/en/jordan/jobs/devops-engineer-jobs-in-amman/?jobId=4859331"
-    label: "Careers / application page"
-  - type: "other"
-    url: "https://www.devoteam.com/expert-view/what-does-devoteam-do-services-partners-ai-capabilities/"
-    label: "Research source"
-  - type: "job_post"
-    url: "https://www.bayt.com/en/jordan/jobs/junior-devops-engineer-jobs-in-amman/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
-    label: "Google Maps location"
+  - type: "careers_page"
+    url: "https://www.devoteam.com/me/jobs/"
+    label: "Official Middle East jobs page — current Amman role"
+  - type: "careers_page"
+    url: "https://www.devoteam.com/join-us/"
+    label: "Official careers overview — Students/Graduate pathway"

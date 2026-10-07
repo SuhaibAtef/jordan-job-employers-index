@@ -1,17 +1,20 @@
-name: "Delivery Hero"
-industry: "Food delivery technology"
-website: "https://www.deliveryhero.com"
-careers_url: "https://careers.deliveryhero.com"
+name: "Delivery Hero / talabat"
+description: "Delivery Hero is a global local-delivery technology group whose Jordan employer presence is primarily through talabat. The talabat organization operates in Amman and currently hires locally across operations, sales, vendor management and related functions."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Technology / Local Delivery / Food Delivery"
+website: "https://www.deliveryhero.com/"
+careers_url: "https://careers.deliveryhero.com/talabat-jobs"
 linkedin: "https://www.linkedin.com/company/delivery-hero-se"
 hr_email: null
 size: null
 location:
   area: "Amman"
-  address: "Qatari Jordanian Investment & Real Estate Development Co., Abdullah Ghosheh St. 44, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.96647
-  longitude: 35.85574
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96647,35.85574"
+  address: "Qatari Jordanian Investment & Real Estate Development Co., Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
   - "logistics"
@@ -21,24 +24,19 @@ technologies:
   - "AI/ML"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Berlin-based global food-delivery tech company (talabat's parent); Jordan presence is via talabat: Amman office address per Delivery Hero's own talabat locations page, and actively hiring Amman roles (talabat-brand: sales coordinators, graphic designer, demand planning, etc.). Note: Uber launched a takeover offer for Delivery Hero shares in Jul 2026, expected H2 2027."
+  signals:
+    - "Current Amman hiring through talabat"
+notes: "Verified 2026-10-07. Delivery Hero's official talabat locations page lists the Jordan office as Qatari Jordanian Investment & Real Estate Development Co., Amman. The previous Abdullah Ghosheh St. 44 detail and coordinates were removed because the current first-party location page does not publish them. Delivery Hero's current talabat jobs board shows Amman openings including Dispatcher - Kitchens, Vendor Coordinator and Quality Control roles. This record represents Delivery Hero's Jordan relevance through talabat rather than a separately branded Delivery Hero engineering office."
 evidence:
   - type: "official_website"
-    url: "https://www.deliveryhero.com"
-    label: "Official website"
-  - type: "careers"
-    url: "https://careers.deliveryhero.com"
-    label: "Careers / application page"
+    url: "https://www.deliveryhero.com/"
+    label: "Delivery Hero corporate website"
+  - type: "official_website"
+    url: "https://careers.deliveryhero.com/locations-talabat"
+    label: "Official talabat locations page — Jordan office in Amman"
+  - type: "careers_page"
+    url: "https://careers.deliveryhero.com/talabat-jobs"
+    label: "Official talabat jobs board — current Amman vacancies"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/delivery-hero-se"
-    label: "LinkedIn company page"
-  - type: "other"
-    url: "https://careers.deliveryhero.com/locations-talabat"
-    label: "Research source"
-  - type: "other"
-    url: "https://ent.news/2026/7/853.pdf"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.96647,35.85574"
-    label: "Google Maps location"
+    label: "Delivery Hero LinkedIn company page"
