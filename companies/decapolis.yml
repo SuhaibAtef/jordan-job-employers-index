@@ -1,40 +1,36 @@
 name: "Decapolis"
-industry: "AgriTech / Food Safety"
-website: "https://decapolis.io"
+description: "Decapolis is a Jordan-founded food-safety and supply-chain traceability technology company using blockchain and IoT concepts to create verifiable records across agricultural and food production chains."
+verification_status: "partial"
+last_verified: "2026-10-07"
+industry: "AgriTech / Food Traceability"
+website: "https://decapolis.ai/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/decapolisio/"
 hr_email: null
-size: "25-100"
+size: "11-50"
 location:
   area: "Amman"
   address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "iot"
   - "web"
 technologies:
   - "Blockchain"
   - "IoT"
+  - "Smart Contracts"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Blockchain food-safety traceability platform (Decapolis Food Guard, QR-code farm-to-fork records); Fresh Del Monte took a 39% stake in 2022; ~25-100 staff per Owler. No public entry-level hiring page found."
+  early_career_signal: true
+  signals:
+    - "Historical Amman Business Analyst role accepted 0-2 years experience"
+notes: "Verified 2026-10-07. Current LinkedIn lists 11-50 employees, founded 2018, and an Amman association, but no reliable exact Jordan office. Historical Amman Business Analyst hiring accepted 0-2 years experience. The prior fallback pin was removed."
 evidence:
-  - type: "official_website"
-    url: "https://decapolis.io"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.cbinsights.com/company/decapolis"
-    label: "Research source"
-  - type: "other"
-    url: "https://itbusinessnet.com/2022/10/fresh-del-monte-and-tech-start-up-decapolis-join-forces-to-provide-industrywide-blockchain-traceability-solutions/"
-    label: "Research source"
-  - type: "other"
-    url: "https://food.greyb.com/blog/blockchain-food-traceability-startups/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/decapolisio/"
+    label: "Current company profile and Amman association"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/business-analyst-at-decapolis-3357278506"
+    label: "Historical Amman Business Analyst role, 0-2 years"
