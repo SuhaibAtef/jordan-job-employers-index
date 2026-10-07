@@ -1,17 +1,20 @@
 name: "Classolution"
+description: "Classolution is a Jordanian educational-content and EdTech company producing kindergarten learning materials and digital learning products, including mobile and augmented-reality applications for young children."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "E-learning / EdTech"
-website: "https://classolution.com"
+website: "https://www.classolution.com/"
 careers_url: null
 linkedin: null
 hr_email: "info@classolution.com"
 size: null
 location:
-  area: "Amman"
-  address: "Mecca St, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.97608
-  longitude: 35.86011
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97608,35.86011"
+  area: "Irbid"
+  address: "Prince Hassan Street, Dani Complex, Floor 1, Irbid 21181, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Classolution%20Dani%20Complex%20Prince%20Hassan%20Street%20Irbid%20Jordan"
 categories:
   - "edtech"
   - "games"
@@ -19,24 +22,14 @@ categories:
 technologies:
   - "Android"
   - "AR/VR"
-  - "iOS"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Founded 2012 in Amman; builds custom e-learning courses, mobile learning apps and AR kids' apps (Faris Series); 3,500+ hours of learning content delivered across MENA. | stack verified 2026-10-05: company publishes iOS/Android AR kids' apps (Faris Series) on App Store/Google Play — evidence of Android, iOS, AR/VR; no employee/job-posting evidence found."
+notes: "Verified 2026-10-07. The current official website lists Classolution in Irbid at Prince Hassan Street, Dani Complex, Floor 1, with P.O. Box 810081 and info@classolution.com. This corrects the previous Amman/Mecca Street record and removes unsupported coordinates. The company's privacy policy confirms its AR Arabic Faris Series application. No current public careers page or hiring evidence was found."
 evidence:
   - type: "official_website"
-    url: "https://classolution.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.jordanyp.com/product/26386/E_Learning_solutions"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.b2bco.com/classolution/jo/education/e-learning/jo/education/e-learning/"
-    label: "Research source"
-  - type: "other"
-    url: "https://apkpure.net/ar-english-2-%E2%80%93-faris-series/com.CLASSOLUTION.AREnglish2FarisSeries"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.97608,35.86011"
-    label: "Google Maps location"
+    url: "https://www.classolution.com/"
+    label: "Official website — current Irbid address, phone and email"
+  - type: "official_website"
+    url: "https://www.classolution.com/privacy"
+    label: "Official privacy policy — Classolution AR Arabic application evidence"
