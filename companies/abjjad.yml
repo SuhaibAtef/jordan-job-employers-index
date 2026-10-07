@@ -26,8 +26,6 @@ job_seeker:
   early_career_signal: true
   signals:
     - "Fresh graduate"
-
-  signals: []
 notes: "Amman-based (est. 2012) Arabic ebook subscription platform with 20,000+ titles and 1.5M+ registered readers; iOS/Android apps; raised $1M Series A."
 evidence:
   - type: "official_website"

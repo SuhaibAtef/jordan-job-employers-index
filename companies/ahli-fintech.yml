@@ -26,9 +26,6 @@ job_seeker:
     - "Student programs"
     - "Hackathons"
     - "Historical internship"
-
-  signals:
-    - "Internship"
 notes: "Jordan Ahli Bank's wholly-owned fintech venture studio/accelerator (founded 2017), based at King Hussein Business Park Building 19; runs hackathons across 12 Jordanian universities plus a student incubator — strong fresh-grad pipeline.\nstack research 2026-10-04: 4 searches; one employee data point (RocketReach profile: 'Python Backend Engineer Internship @ Ahli Fintech', 2022) indicates Python backend; company is a fintech venture studio/accelerator (open banking APIs, sandbox) — single data point, stack left unverified."
 evidence:
   - type: "official_website"

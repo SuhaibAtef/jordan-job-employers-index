@@ -30,9 +30,6 @@ job_seeker:
   early_career_signal: true
   signals:
     - "Entry-level roles"
-
-  signals:
-    - "Internship"
 notes: "First SAP Gold Partner in Jordan (est. 2010); SAP Business One implementation/support for SMEs, 200+ clients (Ayla, Al Ameed Coffee). No internship/fresh-grad program found. stack research 2026-10-06: 3 searches + company site; no employee profiles or company job postings with tech requirements found; tags unchanged."
 evidence:
   - type: "official_website"
