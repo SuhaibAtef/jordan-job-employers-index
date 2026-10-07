@@ -30,9 +30,6 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-
-  signals:
-    - "Internship"
 notes: "ClassPass-style fitness membership: one pass for 100s of gyms/studios and 1000s of classes across Amman, Kuwait, Cairo and Beirut; founded 2017 in Amman. No office address or public HR email found. No public internship postings found. | stack verified 2026-10-05: 1 employee profile (Ali Shaker, Mobile developer 2017-2019, via ContactOut) lists Android/iOS dev skills: Java, Swift, Kotlin, Node.js, Firebase; company has native iOS/Android app."
 evidence:
   - type: "official_website"
