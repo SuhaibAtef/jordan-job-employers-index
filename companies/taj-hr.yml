@@ -1,0 +1,38 @@
+name: "Taj HR"
+industry: "HR Technology / Recruitment"
+website: "https://taj-hr.com"
+careers_url: null
+linkedin: null
+hr_email: "cv@taj-hr.com"
+size: "1-10"
+location:
+  area: "Amman"
+  address: "Makkah St, Balsan Complex, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories:
+  - "web"
+technologies: []
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Amman HR-tech recruitment firm combining talent acquisition with AI-driven insights; offers EOR/local-entity services in Jordan and Saudi Arabia; posted a Recruiting Intern role in Amman in Sep 2026. stack research 2026-10-06: 11 searches; recruitment agency — found postings are client placements (GulfTalent back-end engineer, DrJob programming expert); no internal engineering evidence."
+evidence:
+  - type: "official_website"
+    url: "https://taj-hr.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.remoterocketship.com/company/taj-hr/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/taj-hr_hiring-civilengineer-civilengineering-activity-7505953363293786112-0om5"
+    label: "Research source"
+  - type: "other"
+    url: "https://thecareerspotlight.com/2026/09/29/human-resources-jobs-in-amman-and-the-gcc-7/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

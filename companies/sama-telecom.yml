@@ -1,0 +1,48 @@
+name: "Sama Telecom"
+industry: "IoT / telematics / ICT solutions"
+website: "https://sama.jo"
+careers_url: null
+linkedin: null
+hr_email: "info@sama.jo"
+size: "11-50"
+location:
+  area: "Amman"
+  address: "5th Circle, Zahran St. 159, P.O. Box 841005, Amman 11181, Jordan"
+  status: "provided_unverified"
+  latitude: 31.958754
+  longitude: 35.884222
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.958754,35.884222"
+categories:
+  - "data"
+  - "devops"
+  - "iot"
+  - "mobile"
+  - "telecom"
+  - "web"
+technologies:
+  - "C#"
+  - "GIS"
+  - "Huawei Cloud"
+  - "IoT"
+  - "PHP"
+  - "SMS Gateway"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "IoT/telematics provider (JoTrack fleet tracking, JoSchool bus monitoring, SMS marketing); 30+ engineers; info@sama.jo is their published contact email. Pin moved from city-center fallback to verified location (Zahran St 159) from the company's own site data."
+evidence:
+  - type: "official_website"
+    url: "https://sama.jo"
+    label: "Official website"
+  - type: "other"
+    url: "http://sama.jo/wp-content/uploads/2023/08/Sama-SMS-Quotation.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.zoominfo.com/c/sama-telecom--jotrack/451390805"
+    label: "Research source"
+  - type: "other"
+    url: "http://www.sama.jo/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.958754,35.884222"
+    label: "Google Maps location"

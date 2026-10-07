@@ -1,0 +1,46 @@
+name: "Naseej for Technology"
+industry: "Open-source knowledge / digital transformation solutions"
+website: "https://naseej.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "500+"
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "ai"
+  - "edtech"
+  - "web"
+technologies:
+  - "Drupal"
+  - "LMS"
+  - "REST API"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Junior"
+notes: "Saudi open-source solutions provider (est. 1989, Riyadh HQ, 500+ staff; Moodle Certified Partner, WSO2 partner) with Jordan presence through its Amman subsidiary Sprintive (invested 2020). No Jordan-specific junior program found."
+evidence:
+  - type: "official_website"
+    url: "https://naseej.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://en.wikipedia.org/wiki/Naseej"
+    label: "Research source"
+  - type: "other"
+    url: "https://moodle.com/news/naseej-for-technology-is-now-a-moodle-certified-partner/"
+    label: "Research source"
+  - type: "other"
+    url: "https://naseej.com/about-us/partners/wso2/"
+    label: "Research source"
+  - type: "other"
+    url: "https://naseej.com/news/2020/03/naseej-invests-in-sprintive-to-further-enhance-its-portfolio-of-digital-transformation-solutions-based-on-leading-open-source-platforms/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

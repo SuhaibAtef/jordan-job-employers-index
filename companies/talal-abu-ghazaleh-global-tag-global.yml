@@ -1,0 +1,51 @@
+name: "Talal Abu-Ghazaleh Global (TAG.Global)"
+industry: "Professional Services / IT & Education"
+website: "https://www.tag.global"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "501-1,000 employees"
+location:
+  area: "Amman"
+  address: "TAG-Org Building, No. 26, Prince Shaker bin Zaid Street, Shmeisani, Amman"
+  status: "provided_unverified"
+  latitude: 31.96644
+  longitude: 35.89467
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96644,35.89467"
+categories:
+  - "consulting"
+  - "data"
+  - "edtech"
+  - "web"
+technologies:
+  - ".NET"
+  - "Angular"
+  - "C#"
+  - "Drupal"
+  - "Java"
+  - "PHP"
+  - "SQL"
+  - "WordPress"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-headquartered global group (est. 1972, 501-1,000 employees) running TAG-DIT accredited IT-skills training and certification, TAGTech devices, and Talal Abu-Ghazaleh Global Digital University with online master's programs in AI and IT. stack verified 2026-10-05: TAG-Recruit Full Stack Developer posting (C#, ASP.NET web framework/MVC/Core, Web API, LINQ, Entity Framework, SQL; Angular a plus) + PHP Developer at TAG-ITI since 2016 (Topline profile) + TAG-ITI newsletter: website dev services in PHP, Drupal, WordPress, .NET, Java."
+evidence:
+  - type: "official_website"
+    url: "https://www.tag.global"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.talalabughazaleh.com/Uploads/Files/TAG-Bio-Jordan-En.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.tageducanews.com/news.aspx?id=82588&lang=en"
+    label: "Research source"
+  - type: "other"
+    url: "https://contactout.com/company/talal-abu-ghazaleh-global-7631091"
+    label: "Research source"
+  - type: "other"
+    url: "http://www.tagdit.global/UploadFiles/Talal-Abu-Ghazaleh-Profile-English.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.96644,35.89467"
+    label: "Google Maps location"

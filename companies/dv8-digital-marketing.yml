@@ -1,0 +1,37 @@
+name: "DV8 Digital Marketing"
+industry: "Digital Marketing"
+website: "http://dv8dm.com"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/dv8-digital-marketing"
+hr_email: null
+size: "10-49"
+location:
+  area: "Amman"
+  address: "Hamed Mbdaideen Street, #8, Amman 11118, Jordan"
+  status: "provided_unverified"
+  latitude: 31.957533
+  longitude: 35.864252
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.957533,35.864252"
+categories:
+  - "marketing"
+  - "mobile"
+  - "web"
+technologies:
+  - "Social Media Marketing"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Est. 2011 digital agency with in-house web-based and mobile app development alongside marketing (own site: 'Web-based & Mobile App Development', social media, SEM, email marketing). Pin upgraded from city fallback to business-listing coordinates (Hamed Mubaideen St. 8), matching own-site address. info@dv8dm.com is general contact; no HR email or careers page found."
+evidence:
+  - type: "official_website"
+    url: "http://dv8dm.com"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/dv8-digital-marketing"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://www.designrush.com/agency/profile/dv8"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.957533,35.864252"
+    label: "Google Maps location"

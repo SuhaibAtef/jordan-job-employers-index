@@ -1,0 +1,34 @@
+name: "Marketing Masters"
+industry: "Digital Marketing"
+website: "https://masters-magic.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "10-49"
+location:
+  area: "Amman"
+  address: null
+  status: "provided_unverified"
+  latitude: 31.91113
+  longitude: 35.85025
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.91113,35.85025"
+categories:
+  - "marketing"
+  - "web"
+technologies:
+  - "Google Ads"
+  - "Meta Ads"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Full-service agency with in-house web development & SEO team; 35+ clients across Jordan, Gulf, USA; no careers page or grad program found. Pin upgraded from city fallback: decoded from the company's Google business listing plus code WV62+F46 (Marj Al-Hamam, Amman). No street address published; contact via WhatsApp +962 799 434 187 or info@masters-magic.com (general, not HR)."
+evidence:
+  - type: "official_website"
+    url: "https://masters-magic.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://business.google.com/v/marketing-masters-agency/06345292161682755171/ef9a/_"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.91113,35.85025"
+    label: "Google Maps location"

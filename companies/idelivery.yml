@@ -1,0 +1,35 @@
+name: "iDelivery"
+industry: "Last-mile delivery technology"
+website: "http://i-delivery.net/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Radi Annab St., Amman, JO"
+  status: "provided_unverified"
+  latitude: 31.964183
+  longitude: 35.834644
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.964183,35.834644"
+categories:
+  - "data"
+  - "logistics"
+  - "mobile"
+technologies:
+  - "GIS"
+  - "REST API"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-based last-mile courier tech for businesses (on-demand and scheduled deliveries, courier app with live tracking and API integration); phone +962788808878; listed under Shipping Supply & Food Delivery Service in Amman."
+evidence:
+  - type: "official_website"
+    url: "http://i-delivery.net/"
+    label: "Official website"
+  - type: "other"
+    url: "https://i-delivery.app.link/QLAD0lvUpxb"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.964183,35.834644"
+    label: "Google Maps location"

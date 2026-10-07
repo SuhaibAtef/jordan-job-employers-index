@@ -1,0 +1,35 @@
+name: "Arab Open University - Jordan"
+industry: "Higher Education / Blended E-learning"
+website: "https://www.aou.edu.jo"
+careers_url: null
+linkedin: null
+hr_email: "info@aou.edu.jo"
+size: "~90 staff (Jordan branch)"
+location:
+  area: "Amman"
+  address: "Mohammad Al-Shibani Street 4, Tareq, Amman (P.O. Box 1339 Amman 11953), opposite Queen Alia Hospital"
+  status: "provided_unverified"
+  latitude: 32.00783
+  longitude: 35.93229
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.00783,35.93229"
+categories:
+  - "edtech"
+technologies:
+  - "LMS"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Pan-Arab open/blended-learning university (UK Open University partnership); Jordan branch in Amman offers IT & Computing degrees and employs academic and IT support staff. stack verified 2026-10-05: AOU strategic plan names Moodle as the official LMS used branch-wide incl. Jordan; one stale Bayt profile (Amman programmer, Oct 2010-Jan 2011) mentions Oracle - noted, not tagged."
+evidence:
+  - type: "official_website"
+    url: "https://www.aou.edu.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://en.wikipedia.org/wiki/Arab_Open_University"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.aou.edu.jo/students/PublishingImages/Pages/student-guide/AOU Jordan Handbook.pdf.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.00783,35.93229"
+    label: "Google Maps location"

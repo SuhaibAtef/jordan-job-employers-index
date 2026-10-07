@@ -1,0 +1,35 @@
+name: "Hagzi"
+industry: "PropTech / Rental Marketplace"
+website: "https://hagzi.jo"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "ecommerce"
+  - "proptech"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman rental marketplace founded 2018 with 5,000+ verified listings; licensed real-estate agency aiming to make property search as easy as hotel booking. stack research 2026-10-04: 5 web searches + careers page checked, no employee profiles or dev job postings found (careers lists only marketing/customer-service roles); tags left unverified, not verified."
+evidence:
+  - type: "official_website"
+    url: "https://hagzi.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://hagzi.jo/about"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.allblogthings.com/2023/05/find-your-dream-home-with-hagzi-ammans-top-rental-website.html"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

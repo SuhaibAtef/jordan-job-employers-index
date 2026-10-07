@@ -1,0 +1,57 @@
+name: "Netcompany-Intrasoft"
+industry: "IT services & consulting (public sector)"
+website: "https://www.netcompany-intrasoft.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "King Abdullah II Street, Building 191, Khalda, Amman, Jordan"
+  status: "verified"
+  latitude: 31.9965732
+  longitude: 35.8304577
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9965732,35.8304577"
+categories:
+  - "consulting"
+  - "data"
+  - "erp"
+technologies:
+  - "Cloudera"
+  - "Microsoft 365"
+  - "SAP"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Leading European IT group with a regional delivery center out of Jordan covering Palestine, Iraq, Yemen and Qatar; active job postings (incl. service-desk roles) suggest ongoing hiring. Audit 2026-10-03: no verifiable Jordan street address found in public sources — kept city-center fallback (superseded); GPS-verified 2026-10-04 at 191 King Abdullah II St, Khalda, Amman via company contact page + Google Maps pin + Amman Chamber directory; tech items kept as LeadIQ profile (listed source) catalogs vendor tech stacks."
+evidence:
+  - type: "official_website"
+    url: "https://www.netcompany-intrasoft.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://intrasoft.me/contact/"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/Intrasoft+Middle+East/@31.9965732,35.8304577,17z/"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.ammanchamber.org.jo/en/directory/details/86961/intrasoft-middel-east--jordan-co-ltd"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://jordanict.com/company-listings/netcompany-intrasoft"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://intrasoft.me/wp-content/uploads/2026/07/IntrasoftSAP.pdf"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.devex.com/organizations/intrasoft-international-77648"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://jobs.smartrecruiters.com/Netcompany1/744000017290665-it-support-specialist?trid=67e0074e-17dd-4ae4-8b70-df96cba42b02"
+    label: "Research source"
+  - type: "other"
+    url: "https://leadiq.com/c/netcompany/5a1d8a8624000024006421a1"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9965732,35.8304577"
+    label: "Google Maps location"

@@ -1,0 +1,49 @@
+name: "Babil Games"
+industry: "Video Games (mobile publishing)"
+website: "https://www.babilgames.com"
+careers_url: "https://careers.babilgames.com/jobs"
+linkedin: null
+hr_email: null
+size: "51-200"
+location:
+  area: "Amman"
+  address: "King Abdullah II St, 2nd Floor, Amman"
+  status: "provided_unverified"
+  latitude: 32.000123
+  longitude: 35.829999
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.000123,35.829999"
+categories:
+  - "data"
+  - "games"
+  - "mobile"
+  - "web"
+technologies:
+  - "Android"
+  - "HTML"
+  - "iOS"
+  - "JavaScript"
+  - "PHP"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Stillfront-owned MENA mobile publisher (Nida Harb, Strike of Nations) with an Amman branch; described as a hub for internships and developing young talent in Jordan."
+evidence:
+  - type: "official_website"
+    url: "https://www.babilgames.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://careers.babilgames.com/jobs"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://www.globenewswire.com/news-release/2016/12/16/898368/0/en/Stillfront-Group-AB-Stillfront-acquires-Babil-Games-the-leading-MENA-region-mobile-games-publisher.html"
+    label: "Research source"
+  - type: "other"
+    url: "https://rocketreach.co/babil-games-profile_b5e950c8f42e8260"
+    label: "Research source"
+  - type: "other"
+    url: "http://www.babilgames.com/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.000123,35.829999"
+    label: "Google Maps location"

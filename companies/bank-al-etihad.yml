@@ -1,0 +1,42 @@
+name: "Bank al Etihad"
+industry: "Banking / Fintech (digital-first bank)"
+website: "https://www.bankaletihad.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Shmeisani, Abdel Al Raheem Waked Street, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.96526
+  longitude: 35.900102
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96526,35.900102"
+categories:
+  - "devops"
+  - "fintech"
+  - "mobile"
+  - "web"
+technologies:
+  - "CSS"
+  - "Flutter"
+  - "HTML"
+  - "JavaScript"
+  - "React"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Digital-first Jordanian bank (est. 1978, HQ Shmeisani) known for its app and SME/startup focus; backs fintech (was a POSRocket investor). | stack verified 2026-10-05: senior full-stack dev's GitHub-verified skills (React/redux, Flutter, JavaScript, CSS, HTML) via getprog.ai; also DevOps engineer, QA lead + Sr. QA associate, and Oracle E-Business Suite/PL-SQL apps consultant on staff; Bayt Core Systems Developer posting (no tech detail)."
+evidence:
+  - type: "official_website"
+    url: "https://www.bankaletihad.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.tipntag.com/place/s/bank-al-etihad-headquarters-Dakhlieh-Circle-Amman-Jordan"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.cbinsights.com/investor/bank-al-etihad"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.96526,35.900102"
+    label: "Google Maps location"

@@ -1,0 +1,53 @@
+name: "Rubicon Group Holding"
+industry: "Animation / Creative technology"
+website: "https://www.rubiconholding.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "201-500"
+location:
+  area: "Amman"
+  address: "Building GH06, King Hussein Business Park, Amman"
+  status: "verified"
+  latitude: 31.9715311
+  longitude: 35.8358371
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9715311,35.8358371"
+categories:
+  - "design"
+  - "games"
+  - "web"
+technologies:
+  - "Python"
+  - "Unity"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman HQ global entertainment producer (animation, games, themed attractions, edtech); several hundred staff across Amman, LA, Manila and Dubai. stack verified 2026-10-04: Twine portfolio of Senior Multimedia Developer at Rubicon Group Holding cites Unity 3D/Python work; Python/MEL dev for Maya tools & plugins; AroundDeal directory confirms dev roles (Senior Developer, Front End Developer). gps verified 2026-10-06: four independent directories (Mergr, selling.com, searchgenie, topseos) agree on Building GH06, King Hussein Business Park, Amman; the Google Maps 'Rubicon' listing pin (31.9715311, 35.8358371, copied from listing URL) sits inside KHBP adjacent to Autodesk Jordan, corroborating the park location. Note: official site rubiconholding.com is parked, PitchBook lists the company as Out of Business, and the Maps listing is marked permanently closed — this is the last-known office location; company may be defunct."
+evidence:
+  - type: "official_website"
+    url: "https://www.rubiconholding.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://mergr.com/company/rubicon-entertainment"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://selling.com/company/rubicon-group-holding/1963272"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://search.datagenie.co/companies/Rgh-Entertainment-Llc/600000251"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.topseos.com/profile/rubicon-group-holding"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/Rubicon/@31.9715311,35.8358371,17z/data=!3m1!4b1!4m6!3m5!1s0x151ca178ef00123d:0x156fc505f8dbb1a0!8m2!3d31.9715311!4d35.8358371!16s%2Fg%2F1hc6m75d2?entry=ttu&g_ep=EgoyMDI2MTAwNC4wIKXMDSoASAFQAw%3D"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://en.wikipedia.org/wiki/Rubicon_Group_Holding"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.blooloop.com/uncategorised/news/theme-parks-global-architecture-firm-callison-partners-with-rubicon-group-holding-on-destination-resort-in-aqaba-jordan/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9715311,35.8358371"
+    label: "Google Maps location"

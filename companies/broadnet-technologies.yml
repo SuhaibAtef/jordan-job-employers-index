@@ -1,0 +1,30 @@
+name: "BroadNet Technologies"
+industry: "Telecommunications / Messaging & CPaaS"
+website: "https://broadnet.me/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Office 302, 3rd floor, Anwar Paris 2, Paris Street, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.957561
+  longitude: 35.859406
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.957561,35.859406"
+categories:
+  - "telecom"
+technologies:
+  - "SMS Gateway"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Global messaging provider (bulk SMS, SMSC, A2P, SMS firewall, WhatsApp) with an Amman office on Paris Street; 80K+ enterprises served. No public internship/grad evidence found."
+evidence:
+  - type: "official_website"
+    url: "https://broadnet.me/"
+    label: "Official website"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.957561,35.859406"
+    label: "Google Maps location"

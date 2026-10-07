@@ -1,0 +1,52 @@
+name: "Pio-Tech (Pioneers Information Technologies)"
+industry: "Banking Software / Financial Crime & Compliance"
+website: "https://www.pio-tech.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "51-200"
+location:
+  area: "Amman"
+  address: "Wasfi At-Tall St. 342, Khalda, Amman"
+  status: "provided_unverified"
+  latitude: 31.996855
+  longitude: 35.836975
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.996855,35.836975"
+categories:
+  - "ai"
+  - "data"
+  - "devops"
+  - "fintech"
+  - "security"
+technologies:
+  - "AI/ML"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Jordanian banking software house (est. 2003); suites for financial crime & compliance, AML & regulatory reporting, risk management (FATCA, goAML, Basel II/III, IFRS9); 175+ clients across 26 countries; named Best Financial Inclusion Technology Solution Provider Jordan 2026. No internship evidence found."
+evidence:
+  - type: "official_website"
+    url: "https://www.pio-tech.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://jordanict.com/2020/company-profile/pioneers-information-technologies-co-ltd-pio-tech"
+    label: "Research source"
+  - type: "other"
+    url: "https://jordanfinancialservices.com/company-profile/pio-tech-pioneers-information-technologies"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.oshbok.co/companies/pio-tech-pioneers-information-technologies-colt"
+    label: "Research source"
+  - type: "other"
+    url: "https://clutch.co/profile/piotech-pioneers-information-technologies"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.globalbankingandfinance.com/global-banking-finance-review-awards-piotech-named-best-financial-inclusion-technology-solution-provider-jordan-2026/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/330143/Pioneers_Information_Technologies_Co_LtdPio_Tech"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.996855,35.836975"
+    label: "Google Maps location"

@@ -1,0 +1,43 @@
+name: "DareebaTech"
+industry: "Tax Tech / RegTech"
+website: "https://www.dareebatech.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "1-10"
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "mobile"
+  - "web"
+technologies:
+  - "Web platform + mobile apps (Google Play / Apple App Store)"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Jordanian tax-tech (est. 2017, 1-10 employees); first-in-MENA smart online system for electronic income-tax return filing plus instant tax advice; associated with Sanad Law Group. No internship evidence found. | stack research 2026-10-06: 4 searches, one former software engineer (The Org, 2019-2020) but no tech details, no dev job postings. No tags changed."
+evidence:
+  - type: "official_website"
+    url: "https://www.dareebatech.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://lucidityinsights.com/startups/dareebatech-10753"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375850/DareebaTech"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.twoinstitute.com/ent/dareebatech/"
+    label: "Research source"
+  - type: "other"
+    url: "https://dareebatech.com/en/privacy"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

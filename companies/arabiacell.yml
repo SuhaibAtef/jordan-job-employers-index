@@ -1,0 +1,43 @@
+name: "ArabiaCell"
+industry: "Telecommunications / Mobile VAS"
+website: "https://arabiacell.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Dabouq, King Hussein Business Park, Building 8, 1st Floor, P.O. Box 17492, Amman 11195, Jordan"
+  status: "provided_unverified"
+  latitude: 31.97183
+  longitude: 35.83394
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+categories:
+  - "data"
+  - "mobile"
+  - "telecom"
+  - "web"
+technologies:
+  - "iOS"
+  - "SMS Gateway"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Amman mobile VAS company (Bidaya for Telecommunications & IT): bulk SMS, MVAS content platforms, SMS banking/OTP, mobile apps; ran Jordan government SMS services. No public internship/grad evidence found."
+evidence:
+  - type: "official_website"
+    url: "https://arabiacell.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://jordanict.com/2018/company-profile/arabiacell"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/352612/Arabia_Cell_Co"
+    label: "Research source"
+  - type: "other"
+    url: "https://play.google.com/store/apps/details?id=com.eshopshub.abualbashir&hl=en&gl=jo"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+    label: "Google Maps location"

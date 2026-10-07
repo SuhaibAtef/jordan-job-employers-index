@@ -1,0 +1,34 @@
+name: "Zaman Tours"
+industry: "Tour Operator / Tourism Platform"
+website: "https://www.zamantours.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "82 Princess Zain Bent Al Hussein St., Um El Summaq, Amman 11821"
+  status: "provided_unverified"
+  latitude: 31.980177
+  longitude: 35.848742
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.980177,35.848742"
+categories:
+  - "travel"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordanian-owned tour operator (est. 1998) with online private/tailor-made tour booking across Jordan. | stack research 2026-10-05: Google search + company careers page checked — only Reservations Officer/travel-ops postings; no employee dev profiles or engineering job postings found."
+evidence:
+  - type: "official_website"
+    url: "https://www.zamantours.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.zamantours.com/contact-us/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.tripadvisor.in/Attraction_Review-g293986-d4008186-Reviews-Zaman_Tours-Amman_Amman_Governorate.html"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.980177,35.848742"
+    label: "Google Maps location"

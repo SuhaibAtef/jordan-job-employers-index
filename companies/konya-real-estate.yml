@@ -1,0 +1,36 @@
+name: "Konya Real Estate"
+industry: "PropTech / Real Estate Brokerage"
+website: "https://konyare.com"
+careers_url: null
+linkedin: null
+hr_email: "info@konyare.com"
+size: null
+location:
+  area: "Irbid"
+  address: "Abdoun, Irbid Street, Villa 12, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9409
+  longitude: 35.89256
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9409,35.89256"
+categories:
+  - "proptech"
+  - "web"
+technologies:
+  - "WordPress"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman brokerage established Oct 2015 with an online platform of 4,000+ sale/rent listings across Jordan; services include marketing, brokerage, market studies and property management."
+evidence:
+  - type: "official_website"
+    url: "https://konyare.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://konyare.com/about-us/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.halabazaar.com/en/property/6600ccd59e65e/The-Leading-Real-Estate-Platform-2024/2025-in-Amman"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9409,35.89256"
+    label: "Google Maps location"

@@ -1,0 +1,51 @@
+name: "Vardot"
+industry: "Digital agency (Drupal / enterprise web)"
+website: "https://www.vardot.com"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/vardot"
+hr_email: null
+size: "50-249"
+location:
+  area: "Amman"
+  address: "20 Paris St, Swefieh, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.957373
+  longitude: 35.85965
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.957373,35.85965"
+categories:
+  - "ai"
+  - "devops"
+  - "erp"
+  - "web"
+technologies:
+  - "AWS"
+  - "Azure"
+  - "Drupal"
+  - "GraphQL"
+  - "React"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Enterprise Drupal agency founded 2011 (Acquia partner); clients include Al Jazeera, UNRWA, USAID, Royal Hashemite Court; offices in Amman, Santa Clara, Cairo and Doha. GPS upgraded to the office's verified Google business pin at 20 Paris St, Sweifieh (3rd floor, suite 305)."
+evidence:
+  - type: "official_website"
+    url: "https://www.vardot.com"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/vardot"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://www.vardot.com/en/drupal-development-services"
+    label: "Research source"
+  - type: "other"
+    url: "https://clutch.co/profile/vardot?verified=true&location=752#reviews-subheader"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/category/web_design/8/city:all"
+    label: "Research source"
+  - type: "other"
+    url: "https://wellfound.com/company/vardot-1"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.957373,35.85965"
+    label: "Google Maps location"

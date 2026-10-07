@@ -1,0 +1,44 @@
+name: "Kutubee"
+industry: "EdTech"
+website: "https://kutubee.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "81 Islamic College Street, Third Circle, Amman"
+  status: "provided_unverified"
+  latitude: 31.953198
+  longitude: 35.911979
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.953198,35.911979"
+categories:
+  - "edtech"
+  - "mobile"
+  - "web"
+technologies:
+  - "Android"
+  - "HTML"
+  - "iOS"
+  - "JavaScript"
+  - "PHP"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Interactive reading platform (1,700+ Arabic/English/French children's books with read-aloud and AI reading feedback) used by schools in 22+ countries; a digital product of Jabal Amman Publishers, Amman."
+evidence:
+  - type: "official_website"
+    url: "https://kutubee.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.japublishers.com/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.shops1000.com/JO/Amman/237150422983389/Jabal-Amman-Publishers-%D8%AC%D8%A8%D9%84-%D8%B9%D9%85%D8%A7%D9%86-%D9%86%D8%A7%D8%B4%D8%B1%D9%88%D9%86"
+    label: "Research source"
+  - type: "other"
+    url: "https://jordanict.com/2023/company-profile/kutubee"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.953198,35.911979"
+    label: "Google Maps location"

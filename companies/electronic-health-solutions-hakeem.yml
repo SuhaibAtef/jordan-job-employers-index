@@ -1,0 +1,48 @@
+name: "Electronic Health Solutions (Hakeem)"
+industry: "HealthTech (national EHR / health IT)"
+website: "https://ehs.com.jo"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "King Hussein Business Park, King Abdullah II street, Amman, Jordan 11952"
+  status: "provided_unverified"
+  latitude: 31.9731
+  longitude: 35.835
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9731,35.835"
+categories:
+  - "data"
+  - "devops"
+  - "healthtech"
+technologies:
+  - "GitLab CI"
+  - "Oracle Database"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Academy"
+notes: "Non-profit company (est. 2009) running Jordan's national Hakeem EHR program across 276+ public health facilities; runs Hakeem Academy and a MoU with PSUT covering student research and graduation projects. stack verified 2026-10-04: EHS LinkedIn hiring post requires Oracle Database/WebLogic/OHS/APEX/ORDS + GitLab CI/CD pipelines; Bayt lists software devs & data analysts."
+evidence:
+  - type: "official_website"
+    url: "https://ehs.com.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://ehs.com.jo/ehs/electronic-health-solutions-international-ehsi"
+    label: "Research source"
+  - type: "other"
+    url: "https://hakeem.jo"
+    label: "Research source"
+  - type: "other"
+    url: "https://ehs.com.jo/media/news/electronic-health-solutions-and-princess-sumaya-university-technology-sign-mou"
+    label: "Research source"
+  - type: "other"
+    url: "https://epinews.emphnet.net/en/news/eastern-mediterranean/-34"
+    label: "Research source"
+  - type: "other"
+    url: "https://ehs.com.jo/sites/default/files/2024-02/Download%20Document%20-%20RFP-EHS-PROC-06-2024%20.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9731,35.835"
+    label: "Google Maps location"

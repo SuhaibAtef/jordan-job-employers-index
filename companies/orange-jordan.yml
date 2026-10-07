@@ -1,0 +1,58 @@
+name: "Orange Jordan"
+industry: "Integrated telecommunications"
+website: "https://www.orange.jo"
+careers_url: "https://jobs.orange.jo"
+linkedin: null
+hr_email: null
+size: "1001-5000"
+location:
+  area: "Amman"
+  address: "Abdali, The Boulevard, Black Iris Street, Entrance 8, Amman 11118, Jordan"
+  status: "provided_unverified"
+  latitude: 31.964974
+  longitude: 35.905282
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.964974,35.905282"
+categories:
+  - "devops"
+  - "telecom"
+technologies:
+  - "Ansible"
+  - "AWS"
+  - "CI/CD"
+  - "Docker"
+  - "GitHub Actions"
+  - "GitLab CI"
+  - "Grafana"
+  - "Jenkins"
+  - "Kubernetes"
+  - "Linux"
+  - "Terraform"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Fresh graduate"
+    - "Graduate"
+    - "Junior"
+notes: "Leading integrated operator (fixed, mobile, internet, Orange Money); ~1600 employees; jobs portal has dedicated Fresh Graduate and Junior categories. Audit 2026-10-03: GPS upgraded from city-center fallback to HQ pin (31.964974, 35.905282) per Orange's own annual reports (Abdali, The Boulevard, Black Iris Street, Entrance 8). tech_stack reduced to Telecom infrastructure per Wikipedia (Jordan Telecom Group); other items untraceable in listed sources. | stack verified 2026-10-04: Senior Cloud Management & DevOps engineer at Orange Jordan (2023-present) public portfolio lists production tooling: Kubernetes/OpenShift, Docker, Jenkins, GitLab CI, GitHub Actions, Ansible, Terraform, Grafana, AWS, CI/CD, Linux; jobs.orange.jo currently lists network/platform engineering roles incl. Senior Backend Developer."
+evidence:
+  - type: "official_website"
+    url: "https://www.orange.jo"
+    label: "Official website"
+  - type: "careers"
+    url: "https://jobs.orange.jo"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://jobs.orange.jo/search"
+    label: "Research source"
+  - type: "other"
+    url: "https://orange.jobs/gb/en/africa-middle-east/jordan"
+    label: "Research source"
+  - type: "other"
+    url: "https://en.wikipedia.org/wiki/Jordan_Telecom_Group"
+    label: "Research source"
+  - type: "other"
+    url: "https://orange.jo/sites/default/files/documents/95598-Annual%20Report%202024%20EN%20DIGITAL.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.964974,35.905282"
+    label: "Google Maps location"

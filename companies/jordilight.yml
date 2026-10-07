@@ -1,0 +1,40 @@
+name: "JordiLight"
+industry: "Sports tech, Consumer hardware"
+website: "https://jordilight.com"
+careers_url: null
+linkedin: null
+hr_email: "robert@jordilight.com"
+size: "11–50"
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "iot"
+  - "mobile"
+technologies:
+  - "Flutter"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Smart flashlight + companion mobile app for outdoor enthusiasts (Bluetooth control, e-compass, fall sensor); founder/CEO Robert Y. Haddad. Founder email publicly listed in the Flat6Labs cycle brief. No office address published. No public internship postings found.\nstack verified 2026-10-06: official iOS app changelog (App Store) shows Flutter/Dart SDK upgrade — companion app built in Flutter; no job postings or employee profiles found."
+evidence:
+  - type: "official_website"
+    url: "https://jordilight.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://theorg.com/org/jordilight"
+    label: "Research source"
+  - type: "other"
+    url: "https://jordilight.com/products/jordilight"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.flat6labs.com/wp-content/uploads/2023/07/Post-Demo-Day-Amman-Cycle-Four-.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

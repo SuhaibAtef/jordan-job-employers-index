@@ -1,0 +1,42 @@
+name: "Lahza"
+industry: "Computer Vision / AI"
+website: "https://lahza.ai"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "1-10"
+location:
+  area: "Amman"
+  address: null
+  status: "unresolved"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "ai"
+  - "iot"
+technologies:
+  - "Computer Vision"
+  - "Embedded Systems"
+  - "Generative AI"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Junior"
+notes: "Pre-seed Amman startup building an Arabic-first computer vision platform that turns factory cameras into monitoring agents; hiring junior sales and content roles in Sept 2026. [GPS attempt 1, 2026-10-05: inconclusive. No office address found anywhere public. Checked: 6 web searches; Dr. Job postings (computer-vision-ml-mentor, junior-technical-sales, content-marketing-arabic-first) list only 'Amman - Jordan' with no street address; live-browser Google Maps check (4 searches: 'Lahza Amman Jordan', 'Lahza startup Jordan', 'Lahza', 'Lahza AI Amman') found NO business listing for the AI startup — only unrelated matches (creperie لحظة حلوة, AL AZZEH GROUP, hotels/restaurants); no company website, contact page, or LinkedIn company page address exists; no clutch.co/jordanict/jordanyp/yellow-pages profile; no news with office location. Keeping Amman city-center fallback pin with approx_location=true.] [GPS attempt 2, 2026-10-05: inconclusive. New finds vs attempt 1: official website lahza.ai confirmed (Arabic landing page 'لحظة · Lahza — عين على مصنعك', JS-rendered; no contact page/address or embedded map visible); Instagram account @lahza_ai exists; live-browser checked Google Maps ('Lahza Amman Jordan', 'لحظة عمان الأردن', 'Lahza startup Jordan') — NO matching business listing for the AI startup, only unrelated matches (Moment Cafe, creperies, hotels); LinkedIn job posting 'Computer Vision & ML Mentor in Amman, Amman, Jordan' — city only, no street address; drjobpro postings all list only 'Amman - Jordan' (one role says 'Based in Amman or willing to be'); no Crunchbase/CB Insights profile; no clutch.co/jordanict/jordanyp/yellow-pages profile; no news coverage with an office address. Two sources agree only on the city 'Amman' — insufficient for a pin. Keeping Amman city-center fallback with approx_location=true.] [Supplement to attempt 2 (browser deep-dive report, received 2026-10-05): live check of lahza.ai footer says 'LAHZA · Engineered in Germany and Jordan · Amman · lahza.ai' — corroborates Amman, still city-level only; About says team has German industrial background (Kyocera AVX, Ford, Mercedes-Benz), research partners are German Jordanian University and Al Hussein Technical University; contact only via 'Book a call' and WhatsApp +962 79 0909076. LinkedIn company page exists at https://jo.linkedin.com/company/lahza-ai but is behind an authwall (address unread). Drjobpro company profile: https://www.drjobpro.com/lahza-careers-cid-i2272841 (location only 'Amman, Jordan'). Tracxn (https://tracxn.com/d/companies/lahza-ai/...) lists 'Lahza AI, unfunded, founded 2026, Jordan' — country-level only. IMPORTANT anti-confusion: CB Insights' 'lahza' page is a DIFFERENT company — an Israeli fintech (lahza.io, founder 'Salah Yahya') — NOT the Jordanian AI startup; do not use its location. Founder of the Jordanian Lahza is not public anywhere accessible. Still no street address, map listing, or verifiable pin — city-level fallback stands.] [GPS attempt 3 (FINAL), 2026-10-05: UNVERIFIABLE. Exhaustive 40-step live-browser investigation (browser deep-dive): lahza.ai full site + HTML/metadata in AR+EN — no contact page, no embedded map, footer only says 'LAHZA · Engineered in Germany and Jordan · Amman · lahza.ai'; Instagram @lahza_ai login-walled (handle/5 followers only); LinkedIn company page authwalled; Crunchbase/Tracxn/F6S bot/login-walled (snippets say only \"Amman, Jordan\" / \"Amman (Jordan)\"); jordanict.com and StartupsJo searches return no listing; Google Maps (\"Lahza AI Amman Jordan\", \"لحظة Amman Jordan\", \"Lahza\" AI startup Amman) has NO listing for the AI startup — only unrelated businesses (Moment Cafe, AL AZZEH GROUP); phone-number and partner (GJU/HTU, Startup Alley 2026, Yarmouk/Hijjawi visits) searches give event mentions only, all city-level. New corroborating source (city-level only): balkinews.com/article/523754 — Lahza co-organized an AI workshop with Irbid Chamber of Industry. No street/neighborhood address exists anywhere public, and no conflicting address was found — every source agrees on \"Amman, Jordan\" only. Marking gps_unverifiable=true per the 3-attempts rule. A street address would have to come from the company directly (WhatsApp +962 79 0909076 on lahza.ai).] stack verified 2026-10-07: Lahza's own Dr. Job posting (Computer Vision & ML Mentor) describes the team's detection + vision-language pipeline, edge inference, real-time video pipelines, and NVIDIA Jetson/TensorRT/DeepStream edge plans — engineers' actual stack confirmed."
+evidence:
+  - type: "official_website"
+    url: "https://lahza.ai"
+    label: "Official website"
+  - type: "job_post"
+    url: "https://www.drjobpro.com/jordan/jobs/computer-vision-ml-mentor-amman-lahza-MU90SPFM3P0TP3G"
+    label: "Research source"
+  - type: "job_post"
+    url: "https://www.drjobpro.com/jordan/jobs/junior-technical-sales-amman-lahza-MU90SPGP3PSFQI4"
+    label: "Research source"
+  - type: "job_post"
+    url: "https://www.drjobpro.com/jordan/jobs/content-marketing-arabic-first-part-time-amman-lahza-MU90SPF03PFFM7B"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

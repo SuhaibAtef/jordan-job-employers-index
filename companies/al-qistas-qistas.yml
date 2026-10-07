@@ -1,0 +1,36 @@
+name: "Al Qistas (Qistas)"
+industry: "LegalTech / E-services"
+website: "https://alqistas.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories:
+  - "consulting"
+  - "mobile"
+  - "web"
+technologies:
+  - "Android"
+  - "iOS"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Jordanian legal-information e-services platform (laws, regulations database) with mobile apps and an AI research portal; P.O. Box 9028, Amman 11191; +962 6 5538895; no public grad/internship info found."
+evidence:
+  - type: "official_website"
+    url: "https://alqistas.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://jordanict.com/listings?category=44"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

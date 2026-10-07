@@ -1,0 +1,46 @@
+name: "Amman Dynamics"
+industry: "Software development / digital agency"
+website: "https://ammandynamics.com"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/ammandynamics"
+hr_email: "info@ammandynamics.com"
+size: "10-49"
+location:
+  area: "Amman"
+  address: "Shmeisani, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.97494
+  longitude: 35.89424
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97494,35.89424"
+categories:
+  - "games"
+  - "web"
+technologies:
+  - "C#"
+  - "React"
+  - "Ruby"
+  - "TypeScript"
+  - "Unity"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman digital agency (est. 2016) offering web/mobile development, UX/UI and low-no-code builds for SMEs; publicly listed info@ammandynamics.com."
+evidence:
+  - type: "official_website"
+    url: "https://ammandynamics.com"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/ammandynamics"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://ammandynamics.com/contact"
+    label: "Research source"
+  - type: "other"
+    url: "https://ammandynamics.com/about-us"
+    label: "Research source"
+  - type: "other"
+    url: "https://clutch.co/profile/amman-dynamics"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97494,35.89424"
+    label: "Google Maps location"

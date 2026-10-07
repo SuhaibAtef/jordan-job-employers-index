@@ -1,0 +1,39 @@
+name: "Fourth Dimension Systems (FDS)"
+industry: "Cybersecurity / IT Solutions"
+website: "https://fdsme.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "350+ certified experts"
+location:
+  area: "Amman"
+  address: "Macca Towers - Al Salam Gate 1, 3rd Floor, Office 302, Macca Street, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.977029
+  longitude: 35.856037
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.977029,35.856037"
+categories:
+  - "security"
+  - "telecom"
+technologies:
+  - "Cisco"
+  - "EDR/XDR"
+  - "KnowBe4"
+  - "Penetration Testing"
+  - "Proofpoint"
+  - "SMS Gateway"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "IT solutions and cybersecurity provider with 32+ years, 800+ projects and a Jordan office (+962 6 5532900); digital transformation and contact-center services for public and private clients; no public grad/internship info found."
+evidence:
+  - type: "official_website"
+    url: "https://fdsme.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.businesses10.com/JO/Amman/45691646484/Fourth-Dimension-Systems-FDS"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.977029,35.856037"
+    label: "Google Maps location"

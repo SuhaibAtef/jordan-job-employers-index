@@ -1,0 +1,46 @@
+name: "PwC"
+industry: "Professional services / Consulting"
+website: "https://www.pwc.com/"
+careers_url: "https://www.gulftalent.com/jordan/jobs/legal-delivery-centre-associate-347285"
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "14 Hazza' Al-Majali Street, Third Circle, Jabal Amman, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.9562
+  longitude: 35.908114
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9562,35.908114"
+categories:
+  - "ai"
+  - "consulting"
+  - "data"
+  - "erp"
+technologies:
+  - "AI/ML"
+  - "Salesforce"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+notes: "Big Four firm with Amman office (Third Circle, 14 Hazza' Al-Majali St); its Legal Delivery Centre in Jordan hires graduates to work with legal tech and AI tools on contract analysis; address confirmed by independent directory listings (vymaps, top-rated.online) and geocoder street-number match.\nstack verified 2026-10-04: 4 PwC Amman job postings — Legal Delivery Centre (AI contract-analysis tools), Deals Data Analytics senior associate (AI/ML, ETL, BI dashboards), MERC Tax Salesforce support associate."
+evidence:
+  - type: "official_website"
+    url: "https://www.pwc.com/"
+    label: "Official website"
+  - type: "careers"
+    url: "https://www.gulftalent.com/jordan/jobs/legal-delivery-centre-associate-347285"
+    label: "Careers / application page"
+  - type: "job_post"
+    url: "https://www.gulftalent.com/jordan/jobs/executive-assistant-associate-office-management-340794"
+    label: "Research source"
+  - type: "other"
+    url: "https://vymaps.com/JO/PricewaterhouseCoopers-Jordan-PwC--90928/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.top-rated.online/cities/Amman/place/p/8439357/PricewaterhouseCoopers+Jordan+%28PwC%29"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9562,35.908114"
+    label: "Google Maps location"

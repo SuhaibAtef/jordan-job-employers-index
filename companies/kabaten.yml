@@ -1,0 +1,35 @@
+name: "Kabaten"
+industry: "Sports tech"
+website: "https://www.kabaten.com"
+careers_url: null
+linkedin: null
+hr_email: "o.hadid@kabaten.com"
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "mobile"
+  - "web"
+technologies:
+  - "Mobile app"
+  - "Web dashboard"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "B2B football competition-management software (digitizes operations, live data feeds to media) plus a B2C fan social app; CEO Omar Hadid. Founder contact email publicly listed in the Flat6Labs cycle brief. No public internship postings found.\nstack research 2026-10-06: 5 searches + 2 page reads; no employee profiles, job postings, or verifiable company GitHub activity; PitchBook lists Kabaten out of business Dec 2024; tags left unchanged, not verified."
+evidence:
+  - type: "official_website"
+    url: "https://www.kabaten.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.flat6labs.com/wp-content/uploads/2023/07/Post-Demo-Day-Amman-Cycle-Four-.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

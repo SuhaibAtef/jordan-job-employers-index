@@ -1,0 +1,37 @@
+name: "Digital Haze"
+industry: "Cybersecurity Consulting / FinTech"
+website: null
+careers_url: null
+linkedin: null
+hr_email: null
+size: "1-10 (Lucidity Insights)"
+location:
+  area: "Amman"
+  address: "314 Zahran St., P.O. Box 143605, Amman 11814, Jordan"
+  status: "provided_unverified"
+  latitude: 31.95847
+  longitude: 35.85188
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95847,35.85188"
+categories:
+  - "consulting"
+  - "fintech"
+  - "security"
+technologies:
+  - "GRC"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman consultancy (cyber intelligence, cybersecurity, fintech) led by int@j board member Majdi Armouti; channel partner of PayTabs for secure digital payments in the Levant."
+evidence:
+  - type: "other"
+    url: "https://intaj.net/user/2100/"
+    label: "Research source"
+  - type: "other"
+    url: "https://jordanict.com/company-profile/digital-haze"
+    label: "Research source"
+  - type: "other"
+    url: "https://ai.paytabs.com/pr/paytabs-group-partners-with-digital-haze-to-drive-growth-and-inspire-innovation/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95847,35.85188"
+    label: "Google Maps location"

@@ -1,0 +1,53 @@
+name: "Expedia Group"
+industry: "Travel technology"
+website: "https://www.expediagroup.com"
+careers_url: "https://careers.expediagroup.com"
+linkedin: null
+hr_email: null
+size: "10000+"
+location:
+  area: "Amman"
+  address: "213 Zahran Street, Amman"
+  status: "provided_unverified"
+  latitude: 31.960561
+  longitude: 35.873895
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.960561,35.873895"
+categories:
+  - "data"
+  - "devops"
+  - "mobile"
+  - "travel"
+  - "web"
+technologies:
+  - "AWS"
+  - "Elasticsearch"
+  - "Java"
+  - "Kotlin"
+  - "PostgreSQL"
+  - "Spring Boot"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Software development office in Amman (opened May 2017); hires Jordanian developers/engineers onto global projects; visited by King Abdullah. Engineering stack not publicly documented for the Amman office. GPS pinned to verified Maps listing (Zahran St 213); address corroborated by Glassdoor office directory. | stack verified 2026-10-03: employee resume (SDE, Expedia Group Amman 2017-2020) lists Java 11, Kotlin, Spring Boot, PostgreSQL, AWS (ECS, DynamoDB, Elasticsearch, SQS/SNS), CI/CD; company Senior SDE job posting requires expert-level Java/Kotlin."
+evidence:
+  - type: "official_website"
+    url: "https://www.expediagroup.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://careers.expediagroup.com"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://rhc.jo/en/news/king-visits-expedia-groups-amman-office"
+    label: "Research source"
+  - type: "other"
+    url: "https://careers.expediagroup.com/blog/discover-expedia-group-with-davide-corradi-global-seo-senior-manager/"
+    label: "Research source"
+  - type: "other"
+    url: "https://uraiqat.com/portfolio-item/expedia-offices-amman/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.glassdoor.com/Location/All-Expedia-Group-Office-Locations-E9876.htm"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.960561,35.873895"
+    label: "Google Maps location"

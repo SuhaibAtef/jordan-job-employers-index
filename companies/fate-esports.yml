@@ -1,0 +1,42 @@
+name: "FATE Esports"
+industry: "Esports / Gaming"
+website: "https://fateesports.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Abdullah Ben Rawahah St 4 (The Lab), Amman"
+  status: "provided_unverified"
+  latitude: 31.974258
+  longitude: 35.885963
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.974258,35.885963"
+categories:
+  - "games"
+technologies:
+  - "Blocksport (fan app)"
+  - "Shikenso Analytics"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordan HQ esports org (founded 2017, 175+ players from 20 countries, world-champion Tekken roster); runs an Amman training facility with Orange; hires scouts, coaches and analysts. stack research 2026-10-04: 3 web searches, no employee profiles or dev job postings found (esports team; fan app built by third-party Blocksport, analytics by Shikenso); tags left unverified, not verified. stack research 2026-10-05: 2 web searches; org is a competitive esports team (player rosters only), no engineering roles or dev postings found; tags left unverified, not verified."
+evidence:
+  - type: "official_website"
+    url: "https://fateesports.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.viewsonic.com/library/wp-content/uploads/2025/01/ViewSonic-GAMING-FATE-Esports-case-study.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://esportsinsider.com/2024/04/fate-esports-the-lab-esports-facility"
+    label: "Research source"
+  - type: "other"
+    url: "https://lucidityinsights.com/startups/fate-esports-11470"
+    label: "Research source"
+  - type: "other"
+    url: "http://www.fateesports.com/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.974258,35.885963"
+    label: "Google Maps location"

@@ -1,0 +1,51 @@
+name: "Zetta Global"
+industry: "IT Services / IT Consulting"
+website: null
+careers_url: "https://www.drjobpro.com/jordan/jobs/senior-quality-assurance-engineer-manual-amman-zetta-global-MS2FKX3L3PCJXAP"
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.95672
+  longitude: 35.92519
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+categories:
+  - "consulting"
+  - "data"
+  - "devops"
+  - "qa"
+  - "web"
+technologies:
+  - ".NET"
+  - "Azure"
+  - "CI/CD"
+  - "Cypress"
+  - "Docker"
+  - "Google Cloud"
+  - "Java"
+  - "Jenkins"
+  - "Jira"
+  - "JMeter"
+  - "Kubernetes"
+  - "Playwright"
+  - "Python"
+  - "Selenium"
+  - "SQL"
+  - "Terraform"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Houston-headquartered IT consultancy hiring in Amman, including Senior QA (manual) engineers and DevOps engineers via Dr.Job; no company website could be verified."
+evidence:
+  - type: "careers"
+    url: "https://www.drjobpro.com/jordan/jobs/senior-quality-assurance-engineer-manual-amman-zetta-global-MS2FKX3L3PCJXAP"
+    label: "Careers / application page"
+  - type: "job_post"
+    url: "https://www.drjobpro.com/jordan/jobs/devops-engineer-amman-zetta-MUBVOFAQ3P53NMW"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+    label: "Google Maps location"

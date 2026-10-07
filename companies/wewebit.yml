@@ -1,0 +1,47 @@
+name: "WeWebIt"
+industry: "Web & mobile development / e-solutions"
+website: "https://wewebit.com"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/wewebit"
+hr_email: "careers@wewebit.com"
+size: "10-49"
+location:
+  area: "Amman"
+  address: "Wasfi At-Tall St. 342, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.99683
+  longitude: 35.83797
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99683,35.83797"
+categories:
+  - "data"
+  - "design"
+  - "devops"
+  - "ecommerce"
+  - "erp"
+  - "mobile"
+  - "web"
+technologies:
+  - "VPS Hosting"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman web/mobile studio (est. 2012, 'Al Asmaa Programming') offering mobile apps, custom web apps, CRM and eCommerce; publicly lists careers@wewebit.com for applications and info@wewebit.com for general contact."
+evidence:
+  - type: "official_website"
+    url: "https://wewebit.com"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/wewebit"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://wewebit.com/about/"
+    label: "Research source"
+  - type: "other"
+    url: "https://wewebit.com/privacy-policy/"
+    label: "Research source"
+  - type: "other"
+    url: "https://craft.co/wewebit"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99683,35.83797"
+    label: "Google Maps location"

@@ -1,0 +1,50 @@
+name: "Aqaba Digital Hub"
+industry: "Data center & digital infrastructure"
+website: "http://adh.jo"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/aqabadh"
+hr_email: "info@adh.jo"
+size: null
+location:
+  area: "Aqaba"
+  address: "Aqaba city center, Aqaba, Jordan"
+  status: "approximate"
+  latitude: 29.53202
+  longitude: 35.00692
+  maps_url: "https://www.google.com/maps/search/?api=1&query=29.53202,35.00692"
+categories:
+  - "data"
+  - "devops"
+  - "telecom"
+technologies:
+  - "Fiber Networks"
+  - "VPS Hosting"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "MENA digital infrastructure group operating Jordan's largest carrier-neutral, Tier III-certified AI-ready data center in Aqaba, plus AqabaIX (Jordan's first Internet exchange), fiber networks and cloud platforms; 2026 EBRD/EU funding round cited skills development and local talent building."
+evidence:
+  - type: "official_website"
+    url: "http://adh.jo"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/aqabadh"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "http://adh.jo/hub/city-data-center"
+    label: "Research source"
+  - type: "other"
+    url: "https://adh.jo/about/contact"
+    label: "Research source"
+  - type: "other"
+    url: "https://jordanict.com/company-profile/aqaba-digital-hub-adh"
+    label: "Research source"
+  - type: "other"
+    url: "https://solarquarter.com/2026/05/08/ebrd-and-eu-provide-jod-10-million-loan-to-expand-jordans-largest-carrier-neutral-data-centre-and-boost-regional-digital-connectivity/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.ocolo.io/colocation/aqaba-digital-hub/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=29.53202,35.00692"
+    label: "Google Maps location"

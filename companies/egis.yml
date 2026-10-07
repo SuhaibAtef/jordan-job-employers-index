@@ -1,0 +1,43 @@
+name: "Egis"
+industry: "Engineering consultancy / Construction"
+website: "http://www.egis-group.com"
+careers_url: "https://jobs.egis-group.com/job/structural-engineer-building-projects-dmo-in-amman-jid-1329"
+linkedin: null
+hr_email: null
+size: "19,500+ (global)"
+location:
+  area: "Amman"
+  address: "Um Uthainah, Hekmat Al Massri Street, Building no.8, Office no.20, PO Box 1667, Zip Code 11821, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9637
+  longitude: 35.86912
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9637,35.86912"
+categories:
+  - "design"
+  - "security"
+technologies:
+  - "BIM"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+notes: "French global engineering group (100 countries) with a Building Projects Design Management Office in Amman; official address from egis-group.com locations page (Um Uthainah, Hekmat Al Massri St, Bldg 8, Office 20; +962 6 5544355); hires structural/electrical engineers and Graduate Engineers (0-2 years experience). Pin is street-level for Hekmat Al Massri St until a building-level listing is confirmed."
+evidence:
+  - type: "official_website"
+    url: "http://www.egis-group.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://jobs.egis-group.com/job/structural-engineer-building-projects-dmo-in-amman-jid-1329"
+    label: "Careers / application page"
+  - type: "job_post"
+    url: "https://www.drjobpro.com/jordan/jobs/structural-engineer-design-office-amman-egis-group-MTHVFH2E3P6U1NE"
+    label: "Research source"
+  - type: "job_post"
+    url: "https://www.drjobpro.com/jordan/jobs/graduate-engineer-civil-and-roads-design-office-amman-egis-group-MT3L106T3PUPMMR"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.egis-group.com/locations/middle-east/jordan/jordan"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9637,35.86912"
+    label: "Google Maps location"

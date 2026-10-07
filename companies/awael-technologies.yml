@@ -1,0 +1,51 @@
+name: "AWAEL Technologies"
+industry: "Software / ERP"
+website: "https://awaeljo.com"
+careers_url: "https://awaeljo.com/en/careers"
+linkedin: null
+hr_email: "info@awaeljo.com"
+size: "26-50"
+location:
+  area: "Amman"
+  address: "Wasfi Al Tal street, Hadad Center, Building no. 87, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.99357
+  longitude: 35.86058
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99357,35.86058"
+categories:
+  - "data"
+  - "erp"
+  - "mobile"
+  - "web"
+technologies:
+  - ".NET"
+  - "Flutter"
+  - "SQL Server"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+    - "Junior"
+notes: "Est. 1998 in Jordan; builds its own COMO ERP (25+ modules: finance, HR, CRM, POS, production); hiring Junior .NET / Junior Flutter devs and a Flutter intern in Amman - strong fresh-grad signal."
+evidence:
+  - type: "official_website"
+    url: "https://awaeljo.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://awaeljo.com/en/careers"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://awaeljo.com/en/ComoERP"
+    label: "Research source"
+  - type: "job_post"
+    url: "https://awaeljo.com/job/mid-level-net-web-developer/"
+    label: "Research source"
+  - type: "other"
+    url: "https://awaeljo.com/awael-enterprise-resource-planning-erp-edition/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375213/AWAEL_Technologies"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99357,35.86058"
+    label: "Google Maps location"

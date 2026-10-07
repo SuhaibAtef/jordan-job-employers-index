@@ -1,0 +1,45 @@
+name: "FutureTEC"
+industry: "IT Solutions / Cybersecurity"
+website: "https://www.futuretec.me"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "200+ (futuretec.me)"
+location:
+  area: "Amman"
+  address: "3rd Floor, Makkah Towers, Mecca Street, Um Al Summaq (South), Tla'a Ali 11953, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.97694
+  longitude: 35.85567
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97694,35.85567"
+categories:
+  - "ai"
+  - "data"
+  - "devops"
+  - "security"
+technologies:
+  - "Firewalls"
+  - "GRC"
+  - "Penetration Testing"
+  - "SIEM"
+  - "SOC"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Regional IT solutions provider (founded 2005) operating in Kuwait, Jordan and Bahrain across cybersecurity, infrastructure & cloud, and data & AI; partners with Orange Jordan and NETSCOUT on DDoS protection for banks.\nstack verified 2026-10-04: SOC engineers/analysts, security engineer & penetration tester, cloud operations engineer profiles (RocketReach/Datanyze) + company cybersecurity/cloud/Data&AI services (FPT partnership, futuretec.me) + NETSCOUT DDoS partnership -> SIEM, SOC, Penetration Testing, GRC, Firewalls."
+evidence:
+  - type: "official_website"
+    url: "https://www.futuretec.me"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.businesswire.com/news/home/20251117607042/en/FPT-and-FutureTEC-Forge-Exclusive-Partnership-for-Middle-East-Digital-Growth"
+    label: "Research source"
+  - type: "other"
+    url: "https://nationalcybersecurity.com/orange-jordan-fights-ddos-with-netscout-omnis-aed-hacking-cybersecurity-infosec-comptia-pentest-ransomware/"
+    label: "Research source"
+  - type: "other"
+    url: "https://joudmss.com/services/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97694,35.85567"
+    label: "Google Maps location"

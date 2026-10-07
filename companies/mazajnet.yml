@@ -1,0 +1,40 @@
+name: "MazajNet"
+industry: "Digital Marketing / Web & Mobile Development"
+website: "http://mazajnet.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "1-10"
+location:
+  area: "Amman"
+  address: "Jubeiha, Yajooz St. Building #22, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "data"
+  - "ecommerce"
+  - "marketing"
+  - "mobile"
+  - "web"
+technologies:
+  - "Drupal"
+  - "Magento"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Est. 1998 web development company (CMS, Drupal, Magento, e-commerce, mobile apps); long-standing small team. CAUTION: mazajnet.com currently shows an 'under construction' placeholder - company status unclear; address per JordanYP (unverified listing, registered Aug 2023). City-center fallback retained; no exact pin found. No careers page or grad program found."
+evidence:
+  - type: "official_website"
+    url: "http://mazajnet.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375832/MazajNet"
+    label: "Research source"
+  - type: "other"
+    url: "https://topappdevelopmentcompanies.com/kz/directory/web-developers/drupal/ayat"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

@@ -1,0 +1,40 @@
+name: "Agility Logistics Jordan"
+industry: "Logistics / freight forwarding / warehousing"
+website: "https://www.agilitylogistics.com"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/agility"
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Laila Al-Akhyaliyah, Shmeisani, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.969133
+  longitude: 35.898349
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.969133,35.898349"
+categories:
+  - "logistics"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "MENA logistics major (freight, warehousing, e-commerce logistics) with an Amman office at Laila Al-Akhyaliyah, Shmeisani (JordanYP verified listing) and warehouses in Jordan including the Aqaba distribution hub; group runs digital-logistics and e-commerce enablement businesses.\nstack research 2026-10-04: 3 searches (career boards, getprog.ai, employee snippets); only group-level IT roles (Dubai/Riyadh) and Agility Robotics (different company) hits; no Jordan-office engineering evidence; tags unchanged."
+evidence:
+  - type: "official_website"
+    url: "https://www.agilitylogistics.com"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/agility"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/324895/Agility_Logistics"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.courierslist.com/detail/jordan/amman/warehousing-companies/1280007/agility-logistics"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.logisticsmiddleeast.com/logistics/article-4671-top-10-agility-warehouses-in-the-middle-east"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.969133,35.898349"
+    label: "Google Maps location"

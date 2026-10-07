@@ -1,0 +1,38 @@
+name: "ZenHR"
+industry: "HR Software (HRMS SaaS)"
+website: "https://zenhr.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Salah Al-Suhaimat St. 24, Wadi Al Seer, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.957566
+  longitude: 35.867548
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.957566,35.867548"
+categories:
+  - "web"
+technologies:
+  - "REST API"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Cloud HRMS SaaS founded 2017 in Amman, localized for MENA labor laws (payroll, attendance, ZenATS applicant tracking); rated 4.7/5 on Capterra; growing regional team."
+evidence:
+  - type: "official_website"
+    url: "https://zenhr.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.saasworthy.com/product/zenhr"
+    label: "Research source"
+  - type: "other"
+    url: "https://slashdot.org/software/comparison/RippleHire-vs-zenHR/"
+    label: "Research source"
+  - type: "other"
+    url: "https://craft.co/zenhr"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.957566,35.867548"
+    label: "Google Maps location"

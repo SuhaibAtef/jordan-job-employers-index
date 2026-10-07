@@ -1,0 +1,57 @@
+name: "NoNerds"
+industry: "EdTech / AI"
+website: "https://www.nonerdsapp.com"
+careers_url: null
+linkedin: null
+hr_email: "info@nonerdsapp.com"
+size: "1-10"
+location:
+  area: "Amman"
+  address: null
+  status: "unresolved"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "ai"
+  - "edtech"
+  - "mobile"
+technologies:
+  - "Android"
+  - "iOS"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Academy"
+notes: "Amman-built AI-native learning platform (flashcards, quizzes, study paths generated from course content); acquired by Jo Academy in June 2026 for $140K, founder now leads Jo Academy AI. GPS check 2026-10-05 (attempt 1): INCONCLUSIVE. Live-browser sweep found no public street address: official site shows only 'Amman, Jordan' + phone, no embedded office map; Google Maps has NO Jordanian NoNerds listing (only unrelated Dutch NoNerds in Zevenaar, ignored; fuzzy 'Nerd Academy' in Swaileh is a different company); LinkedIn page has no location field; StartupsJo registry lists headquarter as 'Jordan' only; jordanict.com, jordanyp.com, Clutch list nothing; Facebook About tab is login-gated. Acquirer Jo Academy's office (Al Hijaz Tower, Mecca St, Amman) is well-attested but not linkable to NoNerds' team. Keeping Amman city-center pin as honest approx fallback. GPS check 2026-10-05 (attempt 2): INCONCLUSIVE. Exhaustive live-browser sweep: official site footer/contact/terms/privacy show only 'Amman, Jordan' city link + phone/email (no office map; post-acquisition terms name Jo Academy as operator); TikTok @nonerdsjo has no location-tagged posts/office shots; Instagram @nonerdsjo login-walled; X @nonerdsjo does not exist; Facebook page shows Amman only, no street; YouTube channel no address; Apple App Store listing (id6470132800, dev 'avancer') has no street address; Google Play has no NoNerds app; LinkedIn company page login-walled, no public location field; Google Maps has NO NoNerds business listing in Jordan at all (only unrelated 'Nerd Academy' in Swaileh). Jo Academy's office (Al Hijaz Tower, Mecca St 606, Amman) is verified but belongs to the acquirer, not NoNerds — not usable as its pin. Keeping Amman city-center pin as honest approx fallback. GPS check 2026-10-05 (attempt 3): INCONCLUSIVE — final. Live CCD registry sweep (portal.ccd.gov.jo): company-name search for 'NoNerds'/'No Nerds'/نونردز/نردز/نونيردز/نيردز returned ZERO matches under every spelling; partner-name search for الصوفي/الكايد found unrelated people only (no Mohammad Alsufi, no Ahmad Alkayid). Control check: portal DOES show street addresses for registered firms, so absence is meaningful — NoNerds is not CCD-registered. Fresh search angles: founder says 'built NoNerds in Amman... still based' (city-level only); Google Play developer address is 'Jordan' only. Crunchbase/PitchBook profiles are bot-blocked with no address in snippets. No street address exists publicly for this company. | stack research 2026-10-07: 4 searches (acquisition coverage, founder tech, app tech); extensive Jo Academy acquisition press but no employee profiles, dev job postings, or language/framework evidence for the NoNerds platform; tags unchanged."
+evidence:
+  - type: "official_website"
+    url: "https://www.nonerdsapp.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.startupsjo.com/en/Pages/CustomPages/Startup/456"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.linkedin.com/company/nonerdsapp"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://en.incarabia.com/ailearning-platform-nonerds-exits-to-fellow-jordanbased-edtech-joacademy-in-us140000-acquisition-deal-861291.html"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://apps.apple.com/lv/app/nonerds/id6470132800"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.youtube.com/channel/UCiTGtp81skm8mP0cBKMn1KQ"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://joacademy.com"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://link.me/nonerds"
+    label: "Research source"
+  - type: "other"
+    url: "https://techpression.com/19-year-old-founder-sells-ai-edtech-startup-nonerds-to-joacademy/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

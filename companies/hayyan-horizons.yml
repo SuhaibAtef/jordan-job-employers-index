@@ -1,0 +1,49 @@
+name: "Hayyan Horizons"
+industry: "Cybersecurity / IT services"
+website: "https://hayyan.com.jo"
+careers_url: null
+linkedin: null
+hr_email: "career@hayyan.com.jo"
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Sweifieh, Park Plaza, Building #24, 8th floor, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "consulting"
+  - "devops"
+  - "security"
+technologies:
+  - "ELK"
+  - "Nagios"
+  - "Penetration Testing"
+  - "SIEM"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-HQ cybersecurity systems integrator (est. 2015) serving MEA/Europe; SIEM/SOC, vulnerability assessment and penetration testing; actively hiring in Amman (CVs to career@hayyan.com.jo)."
+evidence:
+  - type: "official_website"
+    url: "https://hayyan.com.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://hayyan.com.jo/About/"
+    label: "Research source"
+  - type: "other"
+    url: "https://contactout.com/company/Hayyan-Horizons-45825"
+    label: "Research source"
+  - type: "other"
+    url: "https://jordanict.com/company-profile/cyber-security-solutions-services"
+    label: "Research source"
+  - type: "other"
+    url: "https://hayyan.com.jo/contact/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/jomana-shrouf-10ab13a4_hiring-projectmanager-itjobs-activity-7484937953526366208-Y_nP"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

@@ -1,0 +1,51 @@
+name: "TAG-Recruit"
+industry: "Staffing & Recruiting"
+website: "http://www.tagirecruitment.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories:
+  - "data"
+  - "devops"
+  - "web"
+technologies:
+  - ".NET"
+  - "Angular"
+  - "Ansible"
+  - "AWS"
+  - "C#"
+  - "Git"
+  - "Laravel"
+  - "MySQL"
+  - "PHP"
+  - "Redis"
+  - "SQL Server"
+  - "Terraform"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Talal Abu-Ghazaleh Recruitment & Human Resources Development arm in Amman; listed as a TAG-Org member with its own domain (direct candidate-registration page could not be verified in this pass). | stack verified 2026-10-06: 5 dev/DevOps postings on own job board (tagirecruit.com) for TAG-Org roles show .NET (C#, ASP.NET Core, EF, SQL Server), PHP/Laravel/MySQL, Angular, Ansible/Terraform, AWS"
+evidence:
+  - type: "official_website"
+    url: "http://www.tagirecruitment.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.tag-publication.com/UploadFiles/2020/Marketing/Brochures/TAG-Recruit/TAG_Recruit_brochure_(En).pdf"
+    label: "Research source"
+  - type: "other"
+    url: "http://www.tagi.com/UploadFiles/Talal%20Abu-Ghazaleh%20Resume%20English.pdf?lang=en"
+    label: "Research source"
+  - type: "job_post"
+    url: "https://www.jobs.ps/en/jobs/talal-abu-ghazaleh-organization-v-235"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

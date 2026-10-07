@@ -1,0 +1,32 @@
+name: "Siemens"
+industry: "Industrial technology / Engineering"
+website: "https://www.siemens.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Zaina Commercial Complex, Queen Noor St 44, Shmeisani, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.962399
+  longitude: 35.899117
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.962399,35.899117"
+categories:
+  - "iot"
+technologies:
+  - "PLC/SCADA"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "German industrial-tech giant's Jordan office in Shmeisani (Zaina Commercial Complex, Queen Noor St 44) covers industry, energy and infrastructure."
+evidence:
+  - type: "official_website"
+    url: "https://www.siemens.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/320692/Siemens_AGJordan"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.962399,35.899117"
+    label: "Google Maps location"

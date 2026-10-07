@@ -1,0 +1,46 @@
+name: "Mawdoo3"
+industry: "Digital media / online publishing"
+website: "http://www.mawdoo3.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "201-500"
+location:
+  area: "Amman"
+  address: "King Hussein Business Park Bldg 23, Yaser Sabaaneh St., Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.97183
+  longitude: 35.83394
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+categories:
+  - "web"
+technologies:
+  - "HTML"
+  - "JavaScript"
+  - "PHP"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "World's most-visited Arabic website / Arabic content platform; founded 2010 by Mohammad Jaber and Rami Qawasmi; 177-248 employees; employee profiles list PHP and JavaScript developers on staff. Pin verified as King Hussein Business Park (Bldg 23) campus location."
+evidence:
+  - type: "official_website"
+    url: "http://www.mawdoo3.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://rocketreach.co/mawdoo3com-profile_b55675a2f652e4e3a"
+    label: "Research source"
+  - type: "other"
+    url: "https://rocketreach.co/omar-sari-email_74370133"
+    label: "Research source"
+  - type: "other"
+    url: "https://theorg.com/org/mawdoo3"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.top-rated.online/cities/Wadi+Al-Seer/place/p/16081332/Topic"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.startupgrind.com/events/details/startup-grind-amman-presents-muhannad-ebwini-hyperpay/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+    label: "Google Maps location"

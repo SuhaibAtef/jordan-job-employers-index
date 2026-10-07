@@ -1,0 +1,56 @@
+name: "Fintech Galaxy"
+industry: "FinTech / Open Banking / RegTech"
+website: "https://www.fintech-galaxy.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "data"
+  - "devops"
+  - "fintech"
+  - "web"
+technologies:
+  - "AWS"
+  - "Docker"
+  - "Kubernetes"
+  - "Laravel"
+  - "Node.js"
+  - "PHP"
+  - "PostgreSQL"
+  - "Python"
+  - "Terraform"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Regional open-banking platform (FINX) with real Jordan presence: tested in CBJ JoRegBox sandbox, FINX Comply open-banking compliance sold to INVESTBANK Jordan, Jordan led by Zaid Khatib; ~$9M raised, HQ Dubai. No internship evidence found. | stack verified 2026-10-06: 4 employee profiles (2xThe Org, Toptal, getprog.ai) agree on PHP/Laravel backend APIs + PostgreSQL, AWS EKS/Kubernetes/Terraform/Docker infra."
+evidence:
+  - type: "official_website"
+    url: "https://www.fintech-galaxy.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.finextra.com/pressarticle/104071/fintech-galaxy-achieves-regulatory-approval-to-test-open-banking-in-jordanian-sandbox"
+    label: "Research source"
+  - type: "other"
+    url: "https://ibsintelligence.com/ibsi-news/investbank-taps-fintech-galaxy-for-open-banking-compliance-in-jordan/"
+    label: "Research source"
+  - type: "other"
+    url: "https://ffnews.com/newsarticle/flagstone-posts-record-revenues-and-profits-as-savers-embrace-the-value-of-cash-3/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.openbankingexpo.com/news/fintech-galaxy-marks-first-open-finance-milestone-in-jordan-with-multi-bank-connectivity/"
+    label: "Research source"
+  - type: "other"
+    url: "https://fintechnews.media/2024/06/euronet-and-fintech-galaxy-partner"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

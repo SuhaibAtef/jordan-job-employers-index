@@ -1,0 +1,40 @@
+name: "LeadSynth AI"
+industry: "AI / Sales tech"
+website: "https://leadsynthai.app"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Irbid"
+  address: null
+  status: "approximate"
+  latitude: 32.5569
+  longitude: 35.8469
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.5569,35.8469"
+categories:
+  - "ai"
+  - "web"
+technologies:
+  - "Generative AI"
+  - "JavaScript"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Irbid-based startup (founded early 2025); AI scans real-time conversations on Reddit, X, LinkedIn, Telegram and YouTube for buying intent and automates personalized outreach. (As of July 2026 the SaaS platform was shut down and repositioned as hand-verified lead lists; company remains Jordan-based.)\nstack verified 2026-10-06: founder interview (laffaz) + Chrome Web Store listing for founder-built AI LinkedIn-outreach extension; solo founder = engineer."
+evidence:
+  - type: "official_website"
+    url: "https://leadsynthai.app"
+    label: "Official website"
+  - type: "other"
+    url: "https://laffaz.com/leadsynth-ai-turns-conversations-into-high-intent-sales-leads/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.indiehackers.com/post/leadsynth-getting-me-customers-in-my-sleep-0b3b4334ed"
+    label: "Research source"
+  - type: "other"
+    url: "https://chromewebstore.google.com/detail/leadsynth-linkedin-connec/ldodghdbhjgeofmiadmcbojhhpeihcdm?hl=en"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.5569,35.8469"
+    label: "Google Maps location"

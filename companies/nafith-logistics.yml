@@ -1,0 +1,44 @@
+name: "NAFITH Logistics"
+industry: "Logistics Technology / Fleet"
+website: "https://www.nafith.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "logistics"
+  - "web"
+technologies:
+  - ".NET"
+  - "C#"
+  - "React"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordan-headquartered trade-infrastructure operator (HQ Amman); runs the Aqaba port Truck Control System under PPP concession; 13,000 trucks/day across 6 countries (Jordan, Egypt, Iraq, Oman, UAE, Georgia); 500+ employees; NFIDENT in-house tech arm + Load24 marketplace; ITS America 2009 award; FT commendation.\nstack verified 2026-10-05: 2 employee profiles (Front End Developer at Wuzzuf, Software Developer at Topline) show React.js and C#/.NET; in-house QA team in Amman."
+evidence:
+  - type: "official_website"
+    url: "https://www.nafith.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.freightwaves.com/news/freightdesk-signs-deal-with-jordan"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.cbinsights.com/company/nafith-logistics"
+    label: "Research source"
+  - type: "other"
+    url: "https://foursan.com/news/foursan-group-exits-its-investment-in-nafith-logistics"
+    label: "Research source"
+  - type: "other"
+    url: "https://nafith-jordan.updatestar.com/en"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

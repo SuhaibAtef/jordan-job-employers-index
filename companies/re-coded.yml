@@ -1,0 +1,46 @@
+name: "Re:Coded"
+industry: "Nonprofit / Coding Bootcamps"
+website: "https://www.re-coded.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories:
+  - "data"
+  - "devops"
+  - "web"
+technologies:
+  - "Docker"
+  - "JavaScript"
+  - "MongoDB"
+  - "Node.js"
+  - "SQL"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+    - "Bootcamp"
+notes: "US 501(c)(3) nonprofit running free full-stack coding bootcamps in Jordan (with the EKTA Foundation); reports 92% of job-seeking graduates employed as developers or designers within 6 months."
+evidence:
+  - type: "official_website"
+    url: "https://www.re-coded.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.re-coded.com/blog/recoded-ekta-foundation-partnership"
+    label: "Research source"
+  - type: "other"
+    url: "https://assets-global.website-files.com/63ce921b1a2c847a9792d321/643e2b6290354fafc2f20865_ReCoded%20Backend%20Bootcamp%20Syllabus%202022.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.wamda.com/memakersge/2018/01/teaching-coding-young-refugees-generate-job-opportunities-thousands"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

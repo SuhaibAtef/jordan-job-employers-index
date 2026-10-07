@@ -1,0 +1,39 @@
+name: "Flow Travel & Tourism"
+industry: "Travel Management / DMC"
+website: "https://flowtraveljo.com"
+careers_url: null
+linkedin: null
+hr_email: "info@flowtraveljo.com"
+size: "6-10 employees"
+location:
+  area: "Amman"
+  address: "Wasfi Al Tal St., Complex 305, Khalda, Amman"
+  status: "provided_unverified"
+  latitude: 31.99725
+  longitude: 35.84949
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99725,35.84949"
+categories:
+  - "travel"
+  - "web"
+technologies:
+  - "PHP"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman DMC (est. 1996, 6-10 staff) offering B2B/corporate travel, MICE and online tour booking across Jordan and the Middle East."
+evidence:
+  - type: "official_website"
+    url: "https://flowtraveljo.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://flowtraveljo.com/about-us/?currency=JOD"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/376120/Flow_travel_Tourism"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.travelagents10.com/JO/Amman/352221349180645/Flow-Travel-%26-Tourism"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99725,35.84949"
+    label: "Google Maps location"

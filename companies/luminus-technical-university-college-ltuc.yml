@@ -1,0 +1,58 @@
+name: "Luminus Technical University College (LTUC)"
+industry: "Vocational & Technical Education"
+website: "https://www.ltuc.com/"
+careers_url: null
+linkedin: null
+hr_email: "info@ltuc.com"
+size: null
+location:
+  area: "Amman"
+  address: "Airport Road, near Marj Al Hamam Bridge, Amman (P.O. Box 183334 Amman 11118)"
+  status: "provided_unverified"
+  latitude: 31.8981
+  longitude: 35.86834
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.8981,35.86834"
+categories:
+  - "data"
+  - "edtech"
+  - "web"
+technologies:
+  - "CSS"
+  - "Express"
+  - "Git"
+  - "HTML"
+  - "JavaScript"
+  - "Node.js"
+  - "PostgreSQL"
+  - "React"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+    - "Academy"
+notes: "Jordan's leading vocational university college (est. 1980, 4 campuses, 8,000+ students); runs the Abdul Aziz Al Ghurair School of Advanced Computing (ASAC), a Code Fellows-powered coding academy; reports 70-80% job placement for refugee graduates."
+evidence:
+  - type: "official_website"
+    url: "https://www.ltuc.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.devex.com/organizations/luminus-technical-university-college-ltuc-178045"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.decypha.com/en/company-list/Luminus-Technical-University-College-275385"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.localized.world/organizations/469/abdul-aziz-al-ghurair-school-of-advanced-computing-asac-ltuc"
+    label: "Research source"
+  - type: "other"
+    url: "https://intaj.net/announcements/invitation-to-register-in-asac-upcoming-job-fair/"
+    label: "Research source"
+  - type: "other"
+    url: "https://village.do/company/asacltuc"
+    label: "Research source"
+  - type: "other"
+    url: "https://backstage.anthology.com/sites/default/files/2025-07/Luminus-Technical-University-College_Case-Study-17.07.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.8981,35.86834"
+    label: "Google Maps location"

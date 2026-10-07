@@ -1,0 +1,67 @@
+name: "Yadonia Group"
+industry: "Digital agency (web/mobile/hosting)"
+website: "https://yadonia.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "10-49"
+location:
+  area: "Amman"
+  address: "Building Number 27, Ghazi Arabeyat St., Tla' Al Ali, Amman, Jordan 11953"
+  status: "verified"
+  latitude: 31.986327
+  longitude: 35.8893011
+  maps_url: "https://www.google.com/maps/place/Yadonia+Group+-+Jordan+Branch/@31.986327,35.8893011,17z"
+categories:
+  - "data"
+  - "devops"
+  - "ecommerce"
+  - "mobile"
+  - "web"
+technologies:
+  - "Joomla"
+  - "Laravel"
+  - "Magento"
+  - "MySQL"
+  - "PHP"
+  - "Shopify"
+  - "VPS Hosting"
+  - "WordPress"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Digital agency and managed hosting provider founded 2000; web/mobile development, e-commerce, SEO; offices in Amman and Jeddah. Street-level GPS on Ghazi Arabyat St., Tela Al Ali. | GPS verified 2026-10-05: claimed, owner-managed Google Maps business pin (76 reviews, owner photo uploads + review replies, 'Website designer' category) at Building Number 27, Ghazi Arabeyat St., Tla' Al Ali; company profile PDF on yadonia.com and Clutch, GoodFirms, SemFirms, Lisnic, tipntag directories all agree on the same street address."
+evidence:
+  - type: "official_website"
+    url: "https://yadonia.com"
+    label: "Official website"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/Yadonia+Group+-+Jordan+Branch/@31.986327,35.8893011,17z"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://clutch.co/profile/yadonia-group"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.goodfirms.co/company/yadonia-group"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.semfirms.com/profile/yadonia-group"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.lisnic.com/business-profile/yadonia-group"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.tipntag.com/place/s/yadonia-group-Gardens-Amman-Jordan"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.yadonia.com/Yadonia_Group_Profile.pdf"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://Yadonia.com/services/website-design/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.whtop.com/review/yadonia.com"
+    label: "Research source"
+  - type: "other"
+    url: "https://enterpriseleague.com/company/yadonia-group"
+    label: "Research source"

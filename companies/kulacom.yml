@@ -1,0 +1,47 @@
+name: "Kulacom"
+industry: "Broadband wireless / VoIP / data center"
+website: null
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "300 King Abdullah II Street, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.96401
+  longitude: 35.84346
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96401,35.84346"
+categories:
+  - "data"
+  - "devops"
+  - "telecom"
+technologies:
+  - "Fiber Networks"
+  - "Veeam"
+  - "VMware"
+  - "VoIP"
+  - "VPS Hosting"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Licensed broadband wireless operator (MetroBeam, founded 2006); runs an award-winning data center; partnered with Damamax for fiber access. Pin moved from city-center fallback to verified address (King Abdullah II St). Website nulled: kulacom.jo could not be verified to resolve."
+evidence:
+  - type: "other"
+    url: "https://eskadenia.com/kulacom_outsources_its_billing_management_services_to_eskadenia_software"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/335324/Kulacom"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.telecompaper.com/news/kulacom-jordan-picks-symantec-netbackup--785153"
+    label: "Research source"
+  - type: "other"
+    url: "http://www.araboo.com/site/jordan-kulacom-jo-119620"
+    label: "Research source"
+  - type: "other"
+    url: "https://mail.datacentercatalog.com/jordan/kulacom-dc"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.96401,35.84346"
+    label: "Google Maps location"

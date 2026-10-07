@@ -1,0 +1,41 @@
+name: "NETSYNC"
+industry: "IT Services / Cybersecurity"
+website: "https://www.netsync.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "100-200"
+location:
+  area: "Amman"
+  address: "King Hussein Business Park, Bldg. 5A, 3rd Floor, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.97183
+  longitude: 35.83394
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+categories:
+  - "consulting"
+  - "security"
+  - "telecom"
+technologies:
+  - "Cisco"
+  - "GRC"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "US value-added reseller (HQ Houston) with an Amman office at KHBP; Cisco Master Security Partner doing security assessments, compliance and endpoint/network protection."
+evidence:
+  - type: "official_website"
+    url: "https://www.netsync.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.netsync.com/practices/security/security-assessment/"
+    label: "Research source"
+  - type: "other"
+    url: "https://craft.co/netsync-network-solutions/locations"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.signalhire.com/companies/netsync-network-solutions/email-format"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+    label: "Google Maps location"

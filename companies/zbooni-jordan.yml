@@ -1,0 +1,40 @@
+name: "Zbooni (Jordan)"
+industry: "Fintech / C-commerce Payments"
+website: "https://www.zbooni.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "King Hussein Business Park, Building No 7, V Business Center, Office 304, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "fintech"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "C-commerce platform (WhatsApp/social checkout, order management, payment acceptance); legal entity 'Zbooni Jordan for Marketing and e-commerce LLC' at KHBP Building 7, V Business Center, Office 304; Jordan GM Ahmad Fakhreddin; 1,000+ Jordanian merchants; first platform in Jordan to integrate Valu BNPL. stack research 2026-10-06: 2 searches; Jordan entity is 'Zbooni Jordan for Marketing and e-commerce LLC' (KHBP office); no engineering team, employee profiles, or dev postings found."
+evidence:
+  - type: "official_website"
+    url: "https://www.zbooni.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.zbooni.com/terms/"
+    label: "Research source"
+  - type: "other"
+    url: "https://techafricanews.com/2026/09/14/valu-jordan-and-zbooni-partner-to-expand-digital-commerce-and-bnpl-in-jordan/"
+    label: "Research source"
+  - type: "other"
+    url: "https://mid-east.info/zbooni-hits-200-million-milestone-and-targets-triple-digit-percentage-growth/?amp=1"
+    label: "Research source"
+  - type: "other"
+    url: "https://paymentservices.amazon.com/blog/meet-the-merchant-how-zbooni-is-transforming-digital-retail-with-chat-powered-sales"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

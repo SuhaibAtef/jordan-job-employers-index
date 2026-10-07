@@ -1,0 +1,46 @@
+name: "Siren Analytics"
+industry: "Software development / data analytics / digital transformation"
+website: "https://www.sirenanalytics.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Balsan building, Mecca Street, 2nd Floor, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "data"
+  - "devops"
+  - "mobile"
+  - "web"
+technologies:
+  - "Android"
+  - "iOS"
+  - "Kubernetes"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Digital change agency (JV: CME x Siren Associates) with Amman office on Mecca St; builds gov platforms (Amman is Listening, EMRC e-services) on open-source + RKE2/Kubernetes; Feb 2025 PSUT MoU for student training/workshops in AI, big data and data security."
+evidence:
+  - type: "official_website"
+    url: "https://www.sirenanalytics.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.sirenanalytics.com/main-content/building-a-participatory-open-data-platform"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.sirenanalytics.com/main-content/siren-supports-launch-of-104-e-services-in-jordan"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.sirenanalytics.com/main-content/siren-and-psut-sign-memorandum-of-understanding-on-digital-transformation"
+    label: "Research source"
+  - type: "other"
+    url: "https://intaj.net/user/2832/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

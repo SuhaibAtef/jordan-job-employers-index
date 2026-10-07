@@ -1,0 +1,36 @@
+name: "Playgeko"
+industry: "Sports tech / SaaS club management"
+website: "https://www.playgeko.com"
+careers_url: null
+linkedin: null
+hr_email: "hello@playgeko.com"
+size: "2-9"
+location:
+  area: "Amman"
+  address: "King Hussein Business Park, Building 23, King Abdullah II Street, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.97183
+  longitude: 35.83394
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+categories:
+  - "mobile"
+  - "web"
+technologies:
+  - "REST API"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Mobile-first sports-club management SaaS (est. 2024) with white-label iOS/Android player apps and an admin mobile app; Jordan entity Smart Stadium for Sports Reservations LLC at King Hussein Business Park Bldg 23 (per site footer); hello@playgeko.com."
+evidence:
+  - type: "official_website"
+    url: "https://www.playgeko.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.playgeko.com/en/club"
+    label: "Research source"
+  - type: "other"
+    url: "https://clutch.co/profile/playgeko"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+    label: "Google Maps location"

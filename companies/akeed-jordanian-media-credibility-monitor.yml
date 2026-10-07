@@ -1,0 +1,38 @@
+name: "Akeed (Jordanian Media Credibility Monitor)"
+industry: "Civic Tech / Media"
+website: "https://akeed.jo"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories:
+  - "web"
+technologies: []
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Founded 2014; Jordan Media Institute project (backed by King Abdullah II Fund for Development); tracks media credibility and rumors in Jordanian media with daily/monthly reports; civic-tech accountability lane; site lists only Airport Street, Amman as address; no public grad/internship info found.\nstack research 2026-10-04: 6 searches + akeed.jo site check; JMI media-observatory project, no dev postings or employee tech evidence found (Akeed Tech/akeedsoft.com are unrelated firms). Tags left empty, unverified."
+evidence:
+  - type: "official_website"
+    url: "https://akeed.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://en.wikipedia.org/wiki/Akeed"
+    label: "Research source"
+  - type: "other"
+    url: "https://petra.gov.jo/en/news/akeed-tracks-94-rumors-in-september-most-originating-domestically"
+    label: "Research source"
+  - type: "other"
+    url: "https://mdpi-res.com/d_attachment/socsci/socsci-15-00185/article_deploy/socsci-15-00185.pdf?version=1773394156"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

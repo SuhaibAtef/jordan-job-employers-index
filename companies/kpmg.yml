@@ -1,0 +1,50 @@
+name: "KPMG"
+industry: "Professional services / Advisory"
+website: "http://kpmg.jo"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "400 (Jordan, expanding to 1,000)"
+location:
+  area: "Amman"
+  address: "Building 28, Al-Shareef Abdul Hameed Sharaf St, Shmeisani, Amman 11193, Jordan"
+  status: "provided_unverified"
+  latitude: 31.970045
+  longitude: 35.896542
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.970045,35.896542"
+categories:
+  - "consulting"
+  - "data"
+  - "security"
+technologies:
+  - "automation (KPMG PREVA)"
+  - "cybersecurity"
+  - "data analytics"
+  - "IT advisory"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+notes: "KPMG Jordan (member firm of KPMG Middle East since 2024); signed a 2026 lease for an enlarged Amman HQ, growing from 400 to 1,000 staff with stated youth opportunities; graduate programme covers Consulting Technology & Innovation and Technology Risk/Cybersecurity/Data Analytics; pin corrected to the KPMG business listing at Building 28.\nstack research 2026-10-04: 4 searches (career boards, getprog.ai, KPMG careers); no Jordan-specific engineer/dev profiles or tech job postings found — only global/regional roles and the grad-programme service lines; tags unchanged."
+evidence:
+  - type: "official_website"
+    url: "http://kpmg.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://kpmg.com/jo/en/insights/2026/02/kpmg-signs-new-lease-agreement-for-enlarged-amman-office-to-support-regional-growth.html"
+    label: "Research source"
+  - type: "other"
+    url: "https://kpmg.com/jo/en/about/overview.html"
+    label: "Research source"
+  - type: "other"
+    url: "https://home.kpmg/jo/en/home/about/offices.html"
+    label: "Research source"
+  - type: "other"
+    url: "https://opportunitiesfeed.com/2026/09/26/graduate-programme-6/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.internationalaccountingbulletin.com/news/kpmg-deepens-preva-footprint/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.970045,35.896542"
+    label: "Google Maps location"

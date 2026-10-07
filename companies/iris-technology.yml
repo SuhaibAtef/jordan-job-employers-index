@@ -1,0 +1,50 @@
+name: "IRIS Technology"
+industry: "Systems integration (cybersecurity, networking, infrastructure, cloud)"
+website: null
+careers_url: null
+linkedin: null
+hr_email: null
+size: "50-249"
+location:
+  area: "Amman"
+  address: "Jamjoom Center, Queen Rania Al-Abdullah St 111, Amman 11194"
+  status: "verified"
+  latitude: 31.9961064
+  longitude: 35.8840279
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99538,35.88585"
+categories:
+  - "devops"
+  - "security"
+technologies:
+  - "EDR/XDR"
+  - "Firewalls"
+  - "Veeam"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "System integrator (main offices Riyadh + Amman) for cybersecurity, networking and infrastructure; named a Best Place to Work in Jordan 2023, signaling active hiring culture. Street-level GPS on Queen Rania Al-Abdullah St; no verifiable company website found."
+evidence:
+  - type: "other"
+    url: "https://www.iristechnology.me/contact"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/IRIS+Technology+Jordan/@31.9961064,35.8840279,17z/"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://clutch.co/profile/iris-technology"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://jordanict.com/company-profile/iris-technology"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.bestplacestoworkfor.org"
+    label: "Research source"
+  - type: "other"
+    url: "https://intaj.net/iris-technology-named-a-fortinets-engage-tech-support-partner-etsp/"
+    label: "Research source"
+  - type: "other"
+    url: "https://intaj.net/iris-technologys-2024-recap-a-year-of-growth-innovation-and-collaboration/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99538,35.88585"
+    label: "Google Maps location"

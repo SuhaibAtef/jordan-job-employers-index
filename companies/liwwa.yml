@@ -1,0 +1,53 @@
+name: "Liwwa"
+industry: "Financial Services / fintech (SME lending)"
+website: "https://www.liwwa.com/"
+careers_url: "https://wuzzuf.net/jobs/careers/liwwa-Jordan-88321"
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "257 Prince Muhammad St, Mezzanine Floor, Office #2, 3rd Circle, Amman 11374, Jordan"
+  status: "provided_unverified"
+  latitude: 31.95239
+  longitude: 35.93126
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95239,35.93126"
+categories:
+  - "consulting"
+  - "fintech"
+  - "qa"
+  - "web"
+technologies:
+  - "Java"
+  - "Python"
+  - "Selenium"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Amman-based peer-to-peer/SME lending marketplace founded 2013; 715+ businesses supported, $100M+ lent; no public LinkedIn company page, engineering blog, or HR email found; no publicly documented tech stack or fresh-grad/internship program found. GPS pinned from verified JordanYP plus code XW36+RQV, Prince Muhammad St, Amman (3rd Circle area). | stack verified 2026-10-03: employee QA-automation profile at Liwwa Inc (Twine portfolio, Baraa Issa) shows test automation with Selenium WebDriver + Java, TestNG framework, Python."
+evidence:
+  - type: "official_website"
+    url: "https://www.liwwa.com/"
+    label: "Official website"
+  - type: "careers"
+    url: "https://wuzzuf.net/jobs/careers/liwwa-Jordan-88321"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://craft.co/liwwa-351"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.wamda.com/index.php/2024/05/jordan-liwwa-secures-5-million-loan-dfc"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.entrepreneur.com/en-ae/finance/we-got-funded-jordan-based-liwwa-on-their-latest/278855"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/376073/liwwa"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.twine.net/user1182770"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95239,35.93126"
+    label: "Google Maps location"

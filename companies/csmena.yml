@@ -1,0 +1,41 @@
+name: "CsMena"
+industry: "Business Process Outsourcing"
+website: "https://csmena.com/"
+careers_url: null
+linkedin: null
+hr_email: "hr@csmena.com"
+size: "250-999"
+location:
+  area: "Amman"
+  address: "Queen Rania Street, Sweileh, CsMena Complex, Building Number 415, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 32.023711
+  longitude: 35.8516
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.023711,35.8516"
+categories:
+  - "consulting"
+technologies:
+  - "LiveChat"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Multilingual BPO/call-center outsourcing (est. 2018) at Queen Rania St, Sweileh: inbound/outbound calls, chat and email support, content moderation and HR outsourcing.; stack research 2026-10-04: 2 searches; all employee evidence is call-center/content-moderation roles, no engineering staff or dev job postings found"
+evidence:
+  - type: "official_website"
+    url: "https://csmena.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://csmena.com/contact-us/"
+    label: "Research source"
+  - type: "other"
+    url: "https://csmena.com/call-center-outsourcing-in-jordan-5/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/376162/CsMena"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.livechat.com/marketplace/partners/csmena/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.023711,35.8516"
+    label: "Google Maps location"

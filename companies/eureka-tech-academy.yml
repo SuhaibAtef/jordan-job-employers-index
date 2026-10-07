@@ -1,0 +1,47 @@
+name: "Eureka Tech Academy"
+industry: "EdTech / Kids Coding Academy"
+website: "https://eurekatech.org"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Zarqa"
+  address: "Building/Complex 23, Abdullah Ben Rawaha Street, Al Rabieh, Amman (also a branch in Zarqa)"
+  status: "provided_unverified"
+  latitude: 31.97338
+  longitude: 35.88089
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97338,35.88089"
+categories:
+  - "ai"
+  - "edtech"
+  - "games"
+  - "iot"
+  - "mobile"
+  - "web"
+technologies:
+  - "Robotics"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Academy"
+notes: "Amman-based tech academy for ages 6-16 teaching robotics, coding, AI and web development with certified instructors; branches in Al Rabieh (Amman) and Zarqa."
+evidence:
+  - type: "official_website"
+    url: "https://eurekatech.org"
+    label: "Official website"
+  - type: "other"
+    url: "https://eurekatech.org/tech-academy-in-amman/"
+    label: "Research source"
+  - type: "other"
+    url: "https://eurekatech.org/blog/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/374415/Eureka_Tech_Academy"
+    label: "Research source"
+  - type: "other"
+    url: "https://pic.hu.edu.jo/upload/55000000/%D9%8A%D9%88%D8%B1%D9%8A%D9%83%D8%A7.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97338,35.88089"
+    label: "Google Maps location"

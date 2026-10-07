@@ -1,0 +1,62 @@
+name: "Tamatem Games"
+industry: "Mobile games"
+website: "https://www.tamatem.co"
+careers_url: "https://builtin.com/company/tamatem-games/jobs"
+linkedin: null
+hr_email: null
+size: "51-200"
+location:
+  area: "Amman"
+  address: "King Hussein Business Park, Grow Building No. 23, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.971632
+  longitude: 35.83284
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.971632,35.83284"
+categories:
+  - "data"
+  - "devops"
+  - "games"
+  - "mobile"
+  - "web"
+technologies:
+  - "Django"
+  - "Docker"
+  - "JavaScript"
+  - "MySQL"
+  - "PostgreSQL"
+  - "Python"
+  - "React"
+  - "TypeScript"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Arabic mobile game publisher localizing international games for MENA (plus Tamatem Plus payments platform); active internship postings on BuiltIn ('Intern - Game Artist & Graphic designer', 'Community & Support Intern') indicate grad-friendly hiring. No public HR email found. Audit 2026-10-03: GPS coords confirmed as-is (match King Hussein Business Park) and approx flipped to false — office address verified on tamatem.co's own privacy policy plus craft.co/pitchbook. LinkedIn URL nulled (not evidenced in listed sources). tech_stack trimmed to items from their startup.jobs software-engineer posting (Unity/iOS/Android untraceable)."
+evidence:
+  - type: "official_website"
+    url: "https://www.tamatem.co"
+    label: "Official website"
+  - type: "careers"
+    url: "https://builtin.com/company/tamatem-games/jobs"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://builtin.com/company/tamatem-games"
+    label: "Research source"
+  - type: "job_post"
+    url: "https://www.pyjobs.com/job/software-engineer-wMVYx5WJ"
+    label: "Research source"
+  - type: "other"
+    url: "http://startup.jobs/software-engineer-tamatem-7574862"
+    label: "Research source"
+  - type: "other"
+    url: "https://tamatem.co/privacy-policy/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.prnewswire.co.uk/news-releases/tamatem-the-leading-mobile-games-publisher-raises-3-5mm-to-expand-beyond-the-mena-market-822967550.html"
+    label: "Research source"
+  - type: "other"
+    url: "http://craft.co/tamatem"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.971632,35.83284"
+    label: "Google Maps location"

@@ -1,0 +1,57 @@
+name: "BeeLabs"
+industry: "Video Games / Animation"
+website: "https://beelabs.me"
+careers_url: null
+linkedin: null
+hr_email: "info@beelabs.me"
+size: "1-10"
+location:
+  area: "Amman"
+  address: "Al Husseini Complex, Office no. 16, Al Rabiah, Amman, Jordan"
+  status: "verified"
+  latitude: 31.9770552
+  longitude: 35.8828757
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9770552,35.8828757"
+categories:
+  - "design"
+  - "games"
+  - "mobile"
+technologies:
+  - "Android"
+  - "AR/VR"
+  - "iOS"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Gaming + animation studio (est. 2013) making edutainment apps and VR games; recognized by Queen Rania and long-time collaborator with the Queen Rania Foundation — education-focused angle for grads.\nGPS verified 2026-10-06 (attempt 1): three independent sources agree on \"Al Husseini Complex, Office no. 16, Al Rabiah, Amman\" (MediaPlus official site, GoodFirms, AUB MED GAIMS); BeeLabs' own site embeds a map pin for the shared MediaPlus office at 31.9770552, 35.8828757 (Plus Code XVGM+R5C). Conflicting Google \"BeeLabs\" listing pin (~16 km south, residential street, no business there) treated as weak and distrusted. LinkedIn/Facebook unreachable (login walls). beelabs.me embeds a MediaPlus-labeled office map pin; GoodFirms and AUB MED GAIMS agree on the Al Husseini Complex address; the standalone Google \"BeeLabs\" pin (~16 km south) was distrusted."
+evidence:
+  - type: "official_website"
+    url: "https://beelabs.me"
+    label: "Official website"
+  - type: "other"
+    url: "https://beelabs.me/ (company site: embedded map pin labeled MediaPlus at 31.9770552, 35.8828757; states \"BeeLabs and Media Plus operate from our office in Amman, Jordan\"; shares phone +962 6 552 2826)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://mediaplus.com.jo/ (sister company official contact page: \"Amman, Alrabiah - Al Husseini Complex, Office no. 16 - P.O 6484 Amman 11118 Jordan - Tel: +962 6 5522826\")"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.goodfirms.co/company/beelabs (BeeLabs HQ: \"Alrabiah Al husseini complex, Amman, Amman 6484\")"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://sites.aub.edu.lb/medgaims/stakeholders/ (MEDIA PLUS: \"Al Husseini Complex, Office no. 16 P.O 6484 Amman 11118 Jordan, Tel: +962 6 5522826\")"
+    label: "Location evidence"
+  - type: "other"
+    url: "http://beelabs.me/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.goodfirms.co/company/beelabs"
+    label: "Research source"
+  - type: "other"
+    url: "https://jordanict.com/2019/company-listings/beelabs"
+    label: "Research source"
+  - type: "other"
+    url: "https://jordanict.com/2017/listings_page?page=1&section=all"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9770552,35.8828757"
+    label: "Google Maps location"

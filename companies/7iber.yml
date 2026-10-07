@@ -1,0 +1,52 @@
+name: "7iber"
+industry: "Digital media / Journalism"
+website: "https://www.7iber.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Amman, Jordan"
+  status: "verified"
+  latitude: 31.9558628
+  longitude: 35.927002
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "marketing"
+  - "web"
+technologies:
+  - "Google Analytics"
+  - "WordPress"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman multimedia journalism org (est. 2007, ~12 staff) producing interactive graphics, podcasts and data journalism; runs digital-media training workshops. | stack research 2026-10-06: 4 searches, no employee profiles or dev postings found | GPS 2026-10-06: verified office pin — official contact page states \"Building 6, Sharia College St., Jabal al-Luweibdeh, Amman\" and the Google Maps business pin sits on Al-Shariaah College St. in the same area; LinkedIn confirms the Luweibdeh neighborhood. Tipntag cafe listing (Jabal Amman/First Circle) appears to be a stale venue entry, not the office."
+evidence:
+  - type: "official_website"
+    url: "https://www.7iber.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.7iber.com/contact-us-arabic/"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps (listing \"7iber\" - XW4G+8RR, Al-Shariaah College St., Amman, Jordan; pin 31.9558628, 35.927002)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://jo.linkedin.com/company/7iber"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.tipntag.com/place/s/7iber-cafe-First-Circle-Amman-Jordan"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://en.wikipedia.org/wiki/7iber"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.devex.com/organizations/7iber-162862"
+    label: "Research source"
+  - type: "other"
+    url: "https://dfkcompany.com/7iber/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

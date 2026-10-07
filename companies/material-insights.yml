@@ -1,0 +1,56 @@
+name: "Material Insights"
+industry: "AI / machine vision software"
+website: null
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "King Hussein Business Park, Bldg. #16 (GF), Amman 11196, Jordan"
+  status: "provided_unverified"
+  latitude: 31.97183
+  longitude: 35.83394
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+categories:
+  - "ai"
+  - "devops"
+  - "mobile"
+  - "web"
+technologies:
+  - "C++"
+  - "Computer Vision"
+  - "Dart"
+  - "Docker"
+  - "Flutter"
+  - "Git"
+  - "Java"
+  - "JavaScript"
+  - "Python"
+  - "PyTorch"
+  - "React"
+  - "REST API"
+  - "Spring Boot"
+  - "TypeScript"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Fresh graduate"
+    - "Graduate"
+notes: "Amman startup (KHBP Bldg 16; registered as IMS Jordan for Technical Services, US arm FADI-AMT LLC) building machine-vision systems and database apps; postings explicitly target fresh graduates with no experience required — strong entry-level target."
+evidence:
+  - type: "other"
+    url: "https://d3sw8n59epysgp.cloudfront.net/open+positions/2025-3+_Full-Stack+Developer+Postion.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://mi-website-assets.s3.us-east-1.amazonaws.com/open+positions/2024-10_Mobile+App+Developer+.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://d3sw8n59epysgp.cloudfront.net/open+positions/2024-06-05_AI+Engineer+Postion.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://topline.com/people/rami-janini"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+    label: "Google Maps location"

@@ -1,0 +1,49 @@
+name: "Jordan Data Systems (JDS)"
+industry: "Information Technology and Services"
+website: "https://www.jds.com.jo/"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/jordan-data-systems-jds-/"
+hr_email: "info@jds.com.jo"
+size: "60+"
+location:
+  area: "Amman"
+  address: "3rd Floor, Midis Group Building, 324 King Abdullah II St, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.960641
+  longitude: 35.845121
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.960641,35.845121"
+categories:
+  - "consulting"
+  - "data"
+  - "devops"
+  - "erp"
+  - "security"
+  - "telecom"
+technologies:
+  - "Cisco"
+  - "Firewalls"
+  - "Oracle Database"
+  - "Oracle Fusion"
+  - "Oracle NetSuite"
+  - "VMware"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Founded 1981, part of Midis Group; end-to-end IT solutions & systems integration incl. a NetSuite ERP practice; 60+ staff (50+ engineers). No internship program found."
+evidence:
+  - type: "official_website"
+    url: "https://www.jds.com.jo/"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/jordan-data-systems-jds-/"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://www.azdan.com/blog/20-oracle-netsuite-solution-providers-middle-east"
+    label: "Research source"
+  - type: "other"
+    url: "https://beta1.decypha.com/en/company-list/Jordan-Data-Systems-Co-LLC-118302"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.960641,35.845121"
+    label: "Google Maps location"

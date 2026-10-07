@@ -1,0 +1,48 @@
+name: "Labiba for Artificial Intelligence"
+industry: "AI / Conversational AI"
+website: "https://labiba.ai"
+careers_url: "https://labiba.ai/sa/en/formtemplate/digital-marketing-specialist"
+linkedin: null
+hr_email: "info@labiba.ai"
+size: "20-30"
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "ai"
+technologies:
+  - "Generative AI"
+  - "NLP"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-headquartered AI company (founded 2016) building chatbots, voice bots and agentic AI for enterprises and governments (banking, telecom, healthcare); advertises Jordan-based roles on its careers page. No street-level office address publicly listed for the Jordan office (contact page lists KSA/UAE/Bahrain offices)."
+evidence:
+  - type: "official_website"
+    url: "https://labiba.ai"
+    label: "Official website"
+  - type: "careers"
+    url: "https://labiba.ai/sa/en/formtemplate/digital-marketing-specialist"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://labiba.ai/sa/en/contact"
+    label: "Research source"
+  - type: "other"
+    url: "https://brandfetch.com/labiba.ai"
+    label: "Research source"
+  - type: "other"
+    url: "https://enterpriseleague.com/company/labiba-for-artificial-intelligence"
+    label: "Research source"
+  - type: "other"
+    url: "https://thestartupscene.me/MenaEcosystems/7-MENA-Startups-Transforming-Customer-Support-with-AI"
+    label: "Research source"
+  - type: "other"
+    url: "https://jordanict.com/2018/company-profile/labibaai"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

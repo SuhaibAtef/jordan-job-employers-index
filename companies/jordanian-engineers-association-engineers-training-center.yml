@@ -1,0 +1,43 @@
+name: "Jordanian Engineers Association (Engineers Training Center)"
+industry: "Professional Association / Engineering Training"
+website: "https://www.jea.org.jo"
+careers_url: null
+linkedin: null
+hr_email: "training@jea.org.jo"
+size: "501-1,000 employees"
+location:
+  area: "Amman"
+  address: "Sate' Al-Husari Street, Abdali, Amman (JEA headquarters)"
+  status: "provided_unverified"
+  latitude: 31.96925
+  longitude: 35.89196
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96925,35.89196"
+categories:
+  - "ai"
+  - "security"
+technologies:
+  - "AI/ML"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Academy"
+notes: "Professional body of 143,000+ engineers running the Engineers Academy for Development & Training (AI/ML, renewable energy, PMP, digital marketing courses) and an engineering business incubator (RAM); employs 501-1,000 staff."
+evidence:
+  - type: "official_website"
+    url: "https://www.jea.org.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://jea.org.jo/EBV4.0/Root_Storage/AR/ETC_plan_2025_-_WTN.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://en.wikipedia.org/wiki/Jordanian_Engineers_Association"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanpulse.com/article/1994"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.zoominfo.com/c/jordan-engineers-association/346027095"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.96925,35.89196"
+    label: "Google Maps location"

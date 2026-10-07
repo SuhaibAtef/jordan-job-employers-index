@@ -1,0 +1,42 @@
+name: "Quality Professionals (Q-Pros)"
+industry: "IT System Testing and Evaluation"
+website: "https://www.q-pros.com"
+careers_url: "https://www.bayt.com/en/company/quality-professionals-q-pros-2043064/"
+linkedin: "https://www.linkedin.com/company/q-pros"
+hr_email: "jor@q-pros.com"
+size: "501-1000"
+location:
+  area: "Amman"
+  address: "Raed Khalaf Center, Abdullah Ghosheh Street, P.O. Box 2949, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.96774
+  longitude: 35.85519
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96774,35.85519"
+categories:
+  - "design"
+  - "qa"
+technologies:
+  - "Jira"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Independent software QA/testing provider (501-1,000 employees per LinkedIn) with a Testing Center of Excellence (TCoE) in Amman; regularly hires in Amman (e.g., senior frontend roles per LinkedIn). stack verified 2026-10-05: company QA Engineer job posting (functional/performance testing, manual+automation tools, Jira/TFS defect tracking), active Senior Quality Engineer hiring in Amman (LinkedIn company page), Clutch verified reviews (application, manual, performance testing)."
+evidence:
+  - type: "official_website"
+    url: "https://www.q-pros.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://www.bayt.com/en/company/quality-professionals-q-pros-2043064/"
+    label: "Careers / application page"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/q-pros"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://themanifest.com/jo/software-testing/companies"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.slideserve.com/5111/software-qa-testing-service-provider-powerpoint-ppt-presentation"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.96774,35.85519"
+    label: "Google Maps location"

@@ -1,0 +1,39 @@
+name: "Xina AI"
+industry: "Conversational AI"
+website: "https://www.xina.tech/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "King Hussein St. 264, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.971681
+  longitude: 35.909783
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.971681,35.909783"
+categories:
+  - "ai"
+technologies:
+  - "Generative AI"
+  - "NLP"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-based Arabic conversational AI startup (founded 2020, $1M seed 2021); interactive voice assistant & chatbot covering Arabic dialects; partners include Nvidia, Microsoft for Startups, HubSpot. GPS upgraded from city fallback to Google Maps business listing (xina.tech)."
+evidence:
+  - type: "official_website"
+    url: "https://www.xina.tech/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.wamda.com/en/2021/09/jordan-xina-ai-raises-1-million-seed-round"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.thesaasnews.com/news/conversational-ai-platform-xina-ai-raises-1-million-in-seed-round"
+    label: "Research source"
+  - type: "other"
+    url: "https://jordanict.com/2023/company-profile/xina"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.971681,35.909783"
+    label: "Google Maps location"

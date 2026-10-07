@@ -1,0 +1,38 @@
+name: "Relevancy"
+industry: "Digital Marketing / Digital Transformation"
+website: "https://relevancy.agency"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Amman - 3rd Circle - Grand Complex - Third Floor"
+  status: "provided_unverified"
+  latitude: 31.955614
+  longitude: 35.912794
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.955614,35.912794"
+categories:
+  - "marketing"
+  - "web"
+technologies:
+  - "Google Ads"
+  - "Social Media Marketing"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Academy"
+notes: "Google Premier Partner agency with digital transformation focus; runs Relevancy Academy training - fresh-grad upskilling evidence. Pin upgraded from city fallback to business-listing coordinates (Building 14, Grand Complex, Queen Misbah Street, 3rd Circle). Hello@relevancy.agency is general contact, not an HR email. No careers page found."
+evidence:
+  - type: "official_website"
+    url: "https://relevancy.agency"
+    label: "Official website"
+  - type: "other"
+    url: "https://relevancy.agency/contact-us-relevancy-agency/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375773/Relevancy"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.955614,35.912794"
+    label: "Google Maps location"

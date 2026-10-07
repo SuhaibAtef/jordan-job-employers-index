@@ -1,0 +1,51 @@
+name: "Mad Hook Games"
+industry: "Video Games"
+website: "https://www.madhook.io"
+careers_url: null
+linkedin: null
+hr_email: "support@madhook.io"
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Al-Isteqrar St. 4, Amman, Jordan"
+  status: "verified"
+  latitude: 31.9412475
+  longitude: 35.8474478
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9412475,35.8474478"
+categories:
+  - "games"
+  - "mobile"
+technologies:
+  - "Android"
+  - "Game Platforms"
+  - "iOS"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+notes: "Indie studio (est. 2018, 28 staff) with 20+ games and 80M+ downloads; first Arabic studio to publish on PlayStation 5; runs a training program for new graduates to join the game industry. | GPS verified 2026-10-06: claimed, owner-maintained Google Maps listing 'Mad Hook' (owner photo May 2023, category 'Corporate office', 5 reviews) pins 31.9412475,35.8474478, address label 'Al-Isteqrar St., Amman, Jordan', plus code WRRW+FX; JordanYP lists 'Al-Isteqrar St. 4, Amman, Jordan' (unverified directory listing). Official site gives city level only ('Amman, Jordan') — consistent, no conflict. Building no. 4 per JordanYP only."
+evidence:
+  - type: "official_website"
+    url: "https://www.madhook.io"
+    label: "Official website"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9412475,35.8474478"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375973/Mad_Hook"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.madhook.io/about-us.php"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://madhook.io/about-us.php"
+    label: "Research source"
+  - type: "other"
+    url: "https://madhook.io/news.php"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.pocketgamer.biz/cross-platform-games-are-the-future-of-gaming/"
+    label: "Research source"
+  - type: "other"
+    url: "https://madhook.io/privacy-policy.php"
+    label: "Research source"

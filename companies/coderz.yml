@@ -1,0 +1,58 @@
+name: "CoderZ"
+industry: "Information Technology and Services"
+website: "https://www.coderz-tech.com/"
+careers_url: "https://jobs.coderz-tech.com/"
+linkedin: "https://www.linkedin.com/company/coderztech/"
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Wasfi At-Tall St., Amman, Jordan (Hajj & Investment Fund Building 2, 4th floor)"
+  status: "provided_unverified"
+  latitude: 31.988326
+  longitude: 35.875963
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.988326,35.875963"
+categories:
+  - "ai"
+  - "consulting"
+  - "ecommerce"
+  - "erp"
+  - "mobile"
+  - "web"
+technologies:
+  - ".NET"
+  - "AI/ML"
+  - "CMS"
+  - "JavaScript"
+  - "Microsoft 365"
+  - "REST API"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Academy"
+notes: "Amman software house + IT training academy (web/mobile app development, AI integration, digital transformation consulting); active careers site with 8 open roles including Front-End Developer, Senior .NET Developer and Senior AI Engineer / Data Scientist in Amman. Live-browser verified 2026-10-03: claimed Maps listing pin 31.9883197,35.8759651 (~1m of recorded coords); contact page city-only (no conflict); LinkedIn /company/coderztech found (employees gated). Stack trimmed: Microsoft BI unsupported; other 9 items corroborated by profile PDF + job postings (Senior .NET: ASP.NET MVC/C#/.NET Core/REST APIs; Senior AI/DS: LangChain, RAG, vector DBs, Python)."
+evidence:
+  - type: "official_website"
+    url: "https://www.coderz-tech.com/"
+    label: "Official website"
+  - type: "careers"
+    url: "https://jobs.coderz-tech.com/"
+    label: "Careers / application page"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/coderztech/"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "http://www.coderz-tech.com/"
+    label: "Research source"
+  - type: "other"
+    url: "https://coderz-tech.com/CoderzProfile23.pdf"
+    label: "Research source"
+  - type: "job_post"
+    url: "https://jobs.coderz-tech.com/Careers/Job/front-end-developer"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/CoderZ+For+Software+and+Training/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.988326,35.875963"
+    label: "Google Maps location"

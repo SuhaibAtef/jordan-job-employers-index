@@ -1,0 +1,36 @@
+name: "PROTEI"
+industry: "Telecommunications / VAS Platforms"
+website: "https://www.protei.me"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Wasfi Al-Tal Street, Al Otoum Business Center No. 98, Suite 205, P.O. Box 961741, Amman 11196, Jordan"
+  status: "provided_unverified"
+  latitude: 31.987263
+  longitude: 35.877814
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.987263,35.877814"
+categories:
+  - "telecom"
+technologies:
+  - "SMS Gateway"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Telecom VAS platform vendor (RBT aggregation, messaging) with an Amman office; master aggregator across four MENA operators. HQ outside Jordan. No public internship/grad evidence found."
+evidence:
+  - type: "official_website"
+    url: "https://www.protei.me"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.protei.me/rbt-aggregation/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.protei.me/wp-content/uploads/2026/02/Protei-Company-Profile-2026.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.987263,35.877814"
+    label: "Google Maps location"

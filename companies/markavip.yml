@@ -1,0 +1,49 @@
+name: "MarkaVIP"
+industry: "E-commerce (flash-sale fashion retail)"
+website: null
+careers_url: null
+linkedin: "https://www.linkedin.com/company/1317067"
+hr_email: null
+size: "501-1,000"
+location:
+  area: "Amman"
+  address: "Mathari Al Naimat Complex, Mecca Al Mukarramah St 174, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.95121
+  longitude: 35.91933
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95121,35.91933"
+categories:
+  - "ai"
+  - "devops"
+  - "ecommerce"
+  - "web"
+technologies:
+  - "Magento"
+  - "Nginx"
+  - "PHP"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-born flash-sale fashion e-commerce platform (founded 2010, acquired by Jollychic 2018) serving MENA; large Amman tech/ops team - grads can target engineering roles (PHP/Magento). Address from JordanYP verified listing; markavip.com is no longer live (site dead as of Oct 2026)."
+evidence:
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/1317067"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://www.cbinsights.com/company/markavip"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375999/MarkaVIP"
+    label: "Research source"
+  - type: "other"
+    url: "https://leadiq.com/c/markavip/5a1d970a230000530085ac14"
+    label: "Research source"
+  - type: "other"
+    url: "https://discovery.patsnap.com/company/markavip/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.tipntag.com/place/s/markavip-1-Um-al-Summaq-Amman-Jordan/page/2"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95121,35.91933"
+    label: "Google Maps location"

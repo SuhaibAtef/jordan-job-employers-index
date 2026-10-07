@@ -1,0 +1,41 @@
+name: "Yella Message"
+industry: "Software / Bulk Messaging SaaS"
+website: "https://yellamessage.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Queen Rania Street, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 32.024218
+  longitude: 35.856827
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.024218,35.856827"
+categories:
+  - "marketing"
+  - "web"
+technologies:
+  - "Email Marketing"
+  - "REST API"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Cloud SaaS for bulk SMS, email and WhatsApp messaging (est. 2024, Amman). No public internship/grad evidence found."
+evidence:
+  - type: "official_website"
+    url: "https://yellamessage.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.jordanyp.com/category/SMS_marketing/city:Amman"
+    label: "Research source"
+  - type: "other"
+    url: "https://enests.co/companies/jo/programming-and-tech"
+    label: "Research source"
+  - type: "other"
+    url: "https://prime-web.andro.io/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.024218,35.856827"
+    label: "Google Maps location"

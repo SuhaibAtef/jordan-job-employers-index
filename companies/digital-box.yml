@@ -1,0 +1,45 @@
+name: "Digital Box"
+industry: "Digital agency (web/app/SEO)"
+website: "https://digitalboxit.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Wasfi Al-Tal St, Tla'a Al Ali, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.992709
+  longitude: 35.865427
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.992709,35.865427"
+categories:
+  - "devops"
+  - "marketing"
+  - "web"
+technologies:
+  - ".NET"
+  - "Angular"
+  - "AWS"
+  - "CSS"
+  - "Google Cloud"
+  - "JavaScript"
+  - "Next.js"
+  - "PHP"
+  - "Python"
+  - "React"
+  - "Vue.js"
+  - "WordPress"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Web, app and SEO agency in Amman; builds SaaS platforms, dashboards and mobile apps; publishes its tech stack openly on its site."
+evidence:
+  - type: "official_website"
+    url: "https://digitalboxit.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://digitalboxit.com/en"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.992709,35.865427"
+    label: "Google Maps location"

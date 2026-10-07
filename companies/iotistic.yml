@@ -1,0 +1,39 @@
+name: "IOTISTIC"
+industry: "IoT / Fleet Management"
+website: "https://www.iotistic.com"
+careers_url: "https://www.iotistic.com/careers"
+linkedin: "https://www.linkedin.com/company/iotistic"
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Paris St. 15, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.9571444
+  longitude: 35.8594982
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9571444,35.8594982"
+categories:
+  - "ai"
+  - "iot"
+technologies:
+  - "Embedded Systems"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman IoT company (part of Acacus Group) designing/manufacturing devices for vehicle fleet management and driver support; has a careers page inviting applicants."
+evidence:
+  - type: "official_website"
+    url: "https://www.iotistic.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://www.iotistic.com/careers"
+    label: "Careers / application page"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/iotistic"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://finalscout.com/company/iotistic"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9571444,35.8594982"
+    label: "Google Maps location"

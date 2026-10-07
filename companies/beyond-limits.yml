@@ -1,0 +1,44 @@
+name: "Beyond Limits"
+industry: "AI Engineering (Cognitive AI)"
+website: "https://beyond.ai"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "201-500"
+location:
+  area: "Amman"
+  address: "Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.968794
+  longitude: 35.898969
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.968794,35.898969"
+categories:
+  - "ai"
+  - "devops"
+  - "web"
+technologies:
+  - "AI/ML"
+  - "Docker"
+  - "JavaScript"
+  - "Node.js"
+  - "PHP"
+  - "Python"
+  - "React"
+  - "TypeScript"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "US AI engineering company (Caltech/NASA JPL roots, hybrid ML + symbolic AI) with an Amman engineering and data-science presence and active Jordan hiring. stack verified 2026-10-07: 2 getprog.ai Amman engineer profiles + theorg profile show React/Node.js/Python/PHP/TypeScript/JavaScript/Docker at BeyondAI/Beyond Limits"
+evidence:
+  - type: "official_website"
+    url: "https://beyond.ai"
+    label: "Official website"
+  - type: "job_post"
+    url: "https://uiuxjobsboard.com/job/548321-ux-researcher-amman-jordan"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.twine.net/irshaidt"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.968794,35.898969"
+    label: "Google Maps location"

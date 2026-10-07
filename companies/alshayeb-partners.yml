@@ -1,0 +1,43 @@
+name: "AlShayeb Partners"
+industry: "Open-source ERP (Odoo) / auditing & advisory"
+website: "https://www.alshayebco.com"
+careers_url: null
+linkedin: null
+hr_email: "info@alshayebco.com"
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "data"
+  - "erp"
+  - "web"
+technologies:
+  - "Odoo"
+  - "PostgreSQL"
+  - "Python"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Odoo Silver Partner (est. 1973 auditing firm; Bethlehem HQ with Amman office); 30+ Odoo projects implemented in 2024, ranked Top 3 in Jordan; sponsored Odoo Business Show 2025 at Grand Hyatt Amman. Odoo development internships advertised. stack verified 2026-10-07: Odoo Silver Partner listing + employee GitHub profile (Odoo v18-19 module dev, Python backend, PostgreSQL) show Odoo/Python/PostgreSQL."
+evidence:
+  - type: "official_website"
+    url: "https://www.alshayebco.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.odoo.com/tr_TR/partners/alshayeb-partners-19640716?country_id=108"
+    label: "Research source"
+  - type: "other"
+    url: "http://www.alshayebco.com/blog/news-3/odoo-road-show-event-4"
+    label: "Research source"
+  - type: "other"
+    url: "http://www.alshayebco.com/website/info"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

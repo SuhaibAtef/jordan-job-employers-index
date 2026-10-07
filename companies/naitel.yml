@@ -1,0 +1,60 @@
+name: "NaiTel"
+industry: "Telecommunications"
+website: "https://www.naitel.jo"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/naitel/"
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Abdoun, Salman Qudah Street, Jordan Kuwaiti Bank Building, 1st Floor, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.94053
+  longitude: 35.88197
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.94053,35.88197"
+categories:
+  - "devops"
+  - "telecom"
+technologies:
+  - "Fiber Networks"
+  - "Internet Exchange"
+  - "MPLS"
+  - "Starlink"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Licensed Jordanian telecom provider (est. 2012, founder/CEO Eyad Abu Khorma); telecom arm of Aqaba Digital Hub; operates a Tier III carrier-neutral data center in Aqaba and the AqabaIX internet exchange; first authorized Starlink reseller in Jordan; built the Coral Bridge subsea cable with Telecom Egypt and signed a MEDUSA cable deal (Oct 2026). ADDRESS CONFLICT: datacentermap lists '314 Zahran St, 7th floor, office #715, Amman 11118' but the company's own site footer (naitel.jo) lists Abdoun - Salman Qudah St., Jordan Kuwaiti Bank Building, 1st Floor for Amman (Aqaba office: Al-Makateb Area, Al-Dostoor Neighborhood). Company's page used per policy - pending live-browser pin check. Live-browser verified 2026-10-03: address conflict resolved — naitel.jo footer confirms Abdoun/Salman Qudah St. (Zahran St. listing superseded); claimed Maps pin 31.9405258,35.8819693. LinkedIn from footer icon. Stack trimmed: VSAT unsupported as named (satellite offered as Starlink)."
+evidence:
+  - type: "official_website"
+    url: "https://www.naitel.jo"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/naitel/"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "http://www.naitel.jo/sites/default/files/2025-11/Starlink-NaiTel.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.datacentermap.com/c/naitel/?rw=true"
+    label: "Research source"
+  - type: "other"
+    url: "https://datacenterhawk.com/marketplace/providers/naitel"
+    label: "Research source"
+  - type: "other"
+    url: "https://totaltele.com/sparkle-signs-mou-with-naitel-and-ilevant-to-build-a-new-digital-corridor-connecting-europe-with-asia/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.thefastmode.com/technology-solutions/44138-naitel-telecom-egypt-complete-coral-bridge-subsea-cable"
+    label: "Research source"
+  - type: "other"
+    url: "https://wisevoter.com/world/2026/10/01/naitel-medusa-connectivity-agreement"
+    label: "Research source"
+  - type: "other"
+    url: "https://naitel.jo/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=Naitel+Office+Amman"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.94053,35.88197"
+    label: "Google Maps location"

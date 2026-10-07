@@ -1,0 +1,44 @@
+name: "Sajilni"
+industry: "Event Management / Ticketing SaaS"
+website: "https://www.sajilni.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "AL-Hashem Complex, 3rd Floor, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.957471
+  longitude: 35.855007
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.957471,35.855007"
+categories:
+  - "data"
+  - "web"
+technologies:
+  - "Java"
+  - "MySQL"
+  - "PHP"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Founded 2011 in Amman (Oasis500); event discovery, ticketing and registration SaaS with seat maps, multi-channel payments and post-event analytics. stack verified 2026-10-05: former Java dev (Wellfound people page) + employee CV lists PHP/MySQL/JS/Bootstrap"
+evidence:
+  - type: "official_website"
+    url: "https://www.sajilni.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375960/Sajilni"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.datanyze.com/companies/sajilni/429707066"
+    label: "Research source"
+  - type: "other"
+    url: "https://parsers.vc/startup/sajilni.com/"
+    label: "Research source"
+  - type: "other"
+    url: "https://yourstory.com/companies/sajilni"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.957471,35.855007"
+    label: "Google Maps location"

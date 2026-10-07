@@ -1,0 +1,34 @@
+name: "CogniVerse Intelligence"
+industry: "AI / Deep tech"
+website: "https://cogniverseai.net"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "ai"
+  - "web"
+technologies:
+  - "Generative AI"
+  - "Python"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-based AI-native deep-tech company building an enterprise 'Decision Layer' platform (AXIS) with multi-agent orchestration; actively hiring entry-level AI & ML engineers (0-2 yrs) onsite in Amman."
+evidence:
+  - type: "official_website"
+    url: "https://cogniverseai.net"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/cogniverse-intelligence_were-hiring-ai-ml-engineers-entry-level-activity-7459872690745659392-Jwos"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

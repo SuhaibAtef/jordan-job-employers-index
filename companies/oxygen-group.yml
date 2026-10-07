@@ -1,0 +1,33 @@
+name: "Oxygen Group"
+industry: "Smart Building Automation"
+website: "https://www.oxgn-grp.com/Index"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.95672
+  longitude: 35.92519
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+categories:
+  - "ai"
+  - "iot"
+technologies:
+  - "PLC/SCADA"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-HQ smart-automation company (smart homes, access control, AI, industrial automation, low-voltage systems) with offices in Oman, Saudi Arabia and UAE; no public careers page or HR email seen."
+evidence:
+  - type: "official_website"
+    url: "https://www.oxgn-grp.com/Index"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.oxgn-grp.com/AboutUs/Best-Automation-Company-in-Amman-Jordan"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+    label: "Google Maps location"

@@ -1,0 +1,44 @@
+name: "Trixel Studios"
+industry: "3D animation / AR/VR production"
+website: "https://www.trixelcg.com"
+careers_url: null
+linkedin: null
+hr_email: "info@trixelcg.com"
+size: "10-49"
+location:
+  area: "Amman"
+  address: "Al Madenah Street, Al-Basem Center, 4th Floor, Office #7, Amman 11937, Jordan"
+  status: "provided_unverified"
+  latitude: 31.99978
+  longitude: 35.83061
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99978,35.83061"
+categories:
+  - "design"
+  - "games"
+technologies:
+  - "BIM"
+  - "Unity"
+  - "Unreal Engine"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman CGI/animation studio (est. 2010) producing VR/AR, 3D animation, archviz and games; an Autodesk Certified Training Center running 3D training courses — relevant for aspiring grads (public email Info@Trixelcg.com, +962 6 553 3149)."
+evidence:
+  - type: "official_website"
+    url: "https://www.trixelcg.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://trixelcg.com/"
+    label: "Research source"
+  - type: "other"
+    url: "https://clutch.co/profile/trixel-studios"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.youtube.com/watch?v=AOuF_MzNDes"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.allspots.com/jo/directory/%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1+%D9%85%D8%B1%D8%A7%D9%83%D8%B2+%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-Computer+training+centers/Trixel+Studios-.html"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99978,35.83061"
+    label: "Google Maps location"

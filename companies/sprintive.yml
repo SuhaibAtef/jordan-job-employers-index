@@ -1,0 +1,51 @@
+name: "Sprintive"
+industry: "Open-source digital agency (Drupal)"
+website: "https://sprintive.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "10-49"
+location:
+  area: "Amman"
+  address: "Al Jalal Complex, Suhayb Ben Sinan St., Amman 11181, Jordan"
+  status: "provided_unverified"
+  latitude: 31.967507
+  longitude: 35.905283
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.967507,35.905283"
+categories:
+  - "marketing"
+  - "mobile"
+  - "web"
+technologies:
+  - "Drupal"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+    - "Junior"
+notes: "Amman-HQ open-source agency (est. 2016; Gold Drupal Certified Partner, 44 people per Drupal.org); subsidiary of Saudi open-source firm Naseej since 2020; ships Drupal products SprintHire, Musaed, Sprintive Guard. No public junior/intern program found."
+evidence:
+  - type: "official_website"
+    url: "https://sprintive.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://jordanict.com/company-profile/sprintive"
+    label: "Research source"
+  - type: "other"
+    url: "https://new.drupal.org/sprintive"
+    label: "Research source"
+  - type: "other"
+    url: "https://sprintive.com/company/media-center/naseej-investment-sprintive"
+    label: "Research source"
+  - type: "other"
+    url: "https://naseej.com/news/2020/03/naseej-invests-in-sprintive-to-further-enhance-its-portfolio-of-digital-transformation-solutions-based-on-leading-open-source-platforms/"
+    label: "Research source"
+  - type: "other"
+    url: "https://themanifest.com/jo/web-development/drupal/companies/amman"
+    label: "Research source"
+  - type: "other"
+    url: "https://sprintive.com/contact-us"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.967507,35.905283"
+    label: "Google Maps location"

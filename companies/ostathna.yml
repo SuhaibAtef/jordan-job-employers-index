@@ -1,0 +1,39 @@
+name: "Ostathna"
+industry: "EdTech / Online Tutoring"
+website: "https://ostathna.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "1-10"
+location:
+  area: "Amman"
+  address: "Wasfi At-Tall St."
+  status: "approximate"
+  latitude: 31.99357
+  longitude: 35.86058
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99357,35.86058"
+categories:
+  - "edtech"
+  - "web"
+technologies:
+  - "Web platform"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman 24/7 online tutoring and homework-help platform for MENA students (est. 2020, 1-10 people); subscription-based with upcoming app. Pin upgraded from city-center fallback to Wasfi Al-Tal Street (per JordanYP directory listing). No public hiring found. stack research 2026-10-05: 5 searches; no employee profiles, GitHub repos, or dev job postings found (1-10 person edtech, site is a minimal platform-choice page); tags unchanged"
+evidence:
+  - type: "official_website"
+    url: "https://ostathna.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375677/Ostathna"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/category/edtech_educational_technology"
+    label: "Research source"
+  - type: "other"
+    url: "https://ostathna.com/index"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99357,35.86058"
+    label: "Google Maps location"

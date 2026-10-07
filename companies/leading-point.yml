@@ -1,0 +1,45 @@
+name: "Leading Point"
+industry: "AI / Identity Verification (e-KYC)"
+website: "https://www.leading-point.com"
+careers_url: null
+linkedin: null
+hr_email: "contactus@leadingpoint.com"
+size: "200-500"
+location:
+  area: "Amman"
+  address: "Wasfi At-Tall St. 90, P.O. Box 3053, Amman 11953"
+  status: "provided_unverified"
+  latitude: 31.986577
+  longitude: 35.878774
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.986577,35.878774"
+categories:
+  - "ai"
+technologies:
+  - "Computer Vision"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Jordanian AI product company (founded 2006, ~200-500 employees); VisionPoint is an AI-powered e-KYC identity-verification and document-scanning product; offices in Amman, KSA, UAE, Oman, Qatar. No internship evidence found."
+evidence:
+  - type: "official_website"
+    url: "https://www.leading-point.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://leading-point.com/"
+    label: "Research source"
+  - type: "other"
+    url: "https://leading-point.com/wp-content/uploads/2025/09/VisionPoint-Brochure-v0.1.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.signalhire.com/companies/leading-point"
+    label: "Research source"
+  - type: "other"
+    url: "https://leadiq.com/c/leading-point-software/5a1d82c724000024005d8988"
+    label: "Research source"
+  - type: "other"
+    url: "https://leading-point.com/wp-content/uploads/2025/09/Netcell-Brochure-v3.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.986577,35.878774"
+    label: "Google Maps location"

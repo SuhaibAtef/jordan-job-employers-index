@@ -1,0 +1,54 @@
+name: "AppTrainers"
+industry: "Mobile app training & consulting"
+website: "https://www.apptrainers.com"
+careers_url: null
+linkedin: null
+hr_email: "info@apptrainers.com"
+size: "2-9"
+location:
+  area: "Amman"
+  address: "Queen Rania St, Abu Alhaj Complex, office 710, Amman"
+  status: "verified"
+  latitude: 31.9879855
+  longitude: 35.8950749
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9879855,35.8950749"
+categories:
+  - "ai"
+  - "consulting"
+  - "data"
+  - "games"
+  - "mobile"
+technologies:
+  - "Android"
+  - "iOS"
+  - "PhoneGap"
+  - "Unity"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman mobile-app training & consulting company (est. 2012) running iOS/Android/PhoneGap/Unity courses; launched AppTrainers Lab with Al-Ahliyya Amman University to train students — strong fresh-grad fit. GPS verified 2026-10-06: company contact page (apptrainers.com/contact) states Amman, Queen Rania Street; its embedded map carries the same place ID as the Google Maps pin 31.9879855,35.8950749 (address label \"Queen Rania St, Amman\", category Software company, 4.9/42 reviews). jordanyp (owner-validated, updated 2016) gives building detail \"Abu Alhaj complex, 7th floor, office 710\"; current company site names no building, so building/office detail treated as dated."
+evidence:
+  - type: "official_website"
+    url: "https://www.apptrainers.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://apptrainers.com/contact"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/AppTrainers/@31.9879855,35.8950749,17z/data=!3m1!4b1!4m6!3m5!1s0x151c9f81f3c9bbd3:0x44d5ffeb75d7a13c!8m2!3d31.9879855!4d35.8950749"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/374313/app-trainers"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.facebook.com/AppTrainers/"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.slideshare.net/slideshow/apptrainers-company-profile-2/63044291"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/373779/AppTrainers"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9879855,35.8950749"
+    label: "Google Maps location"

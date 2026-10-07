@@ -1,0 +1,45 @@
+name: "Cloudvests"
+industry: "Cloud / DevOps Consulting"
+website: "https://www.cloudvests.com"
+careers_url: "https://www.cloudvests.com/careers"
+linkedin: null
+hr_email: null
+size: "~15"
+location:
+  area: "Amman"
+  address: "Yajouz Street, Al-Jubeiha, Amman (Caracas-Commercial Complex, Office #118), Jordan"
+  status: "approximate"
+  latitude: 32.02865
+  longitude: 35.86674
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.02865,35.86674"
+categories:
+  - "consulting"
+  - "devops"
+  - "support"
+technologies:
+  - "Alibaba Cloud"
+  - "AWS"
+  - "Azure"
+  - "Google Cloud"
+  - "Huawei Cloud"
+  - "Veeam"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "AWS Advanced Tier partner headquartered in Amman (~15 employees, est. 2020) offering DevOps-as-a-service and cloud architecture/operations; open Amman roles plus cloud certification programs for staff."
+evidence:
+  - type: "official_website"
+    url: "https://www.cloudvests.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://www.cloudvests.com/careers"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://www.goodfirms.co/company/cloudvests-llc"
+    label: "Research source"
+  - type: "other"
+    url: "https://cloudvests.com/portfolio/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.02865,35.86674"
+    label: "Google Maps location"

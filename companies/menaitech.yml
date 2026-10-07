@@ -1,0 +1,46 @@
+name: "MenaITech"
+industry: "HR software"
+website: "https://www.menaitech.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "201-500"
+location:
+  area: "Amman"
+  address: "Dahyet Al Amir Rashid, Mamdouh Al-Sarayrah Street, Building 28, Amman 11831"
+  status: "provided_unverified"
+  latitude: 31.9749
+  longitude: 35.85
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9749,35.85"
+categories:
+  - "data"
+  - "devops"
+  - "web"
+technologies:
+  - ".NET"
+  - "Azure"
+  - "Git"
+  - "PHP"
+  - "SQL Server"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Fresh graduate"
+    - "Graduate"
+notes: "Cloud HR/payroll suite (MenaPay, MenaHR, MenaME, Curio) for MENA enterprises; signed a cooperation agreement with Al-Ahliyya Amman University to train students, fresh graduates and jobseekers. GPS (31.9749, 35.85) confirmed against Maps listing pin (31.974745, 35.849972). hr_email removed — not found on public contact page (Tel/Fax only). LinkedIn removed — not publicly evidenced in sources. | stack verified 2026-10-04: 4 employee profiles show PHP web apps + .NET + MS SQL Server (2x Bayt Web App Developer profiles at MenaITech; Twine portfolio Web App Developer Mar 2024–Aug 2025: PHP apps, Git, CI/CD deploys to Azure; Twine Database Specialist Apr–Aug 2025: cloud/SaaS DBs), plus Topline PHP Developer listing and fastbase QA engineers. Vague website-marketing raw items replaced with evidence-backed tags."
+evidence:
+  - type: "official_website"
+    url: "https://www.menaitech.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://menaitech.com/en/"
+    label: "Research source"
+  - type: "other"
+    url: "https://menaitech.com/en/contact/"
+    label: "Research source"
+  - type: "other"
+    url: "https://intaj.net/menaitech-signed-a-cooperation-agreement-with-al-ahliyya-amman-university/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9749,35.85"
+    label: "Google Maps location"

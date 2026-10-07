@@ -1,0 +1,41 @@
+name: "Digital Gates"
+industry: "IT services / Software staff augmentation"
+website: "https://digitalgates.net"
+careers_url: null
+linkedin: null
+hr_email: "careers@digitalgates.net"
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Office 211, Building GH10, Business Park, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.972718
+  longitude: 35.834635
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.972718,35.834635"
+categories:
+  - "consulting"
+  - "devops"
+  - "marketing"
+  - "web"
+technologies:
+  - ".NET"
+  - "Azure"
+  - "JavaScript"
+  - "React"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-based software staff augmentation and digital transformation provider serving clients in the UK, Saudi Arabia, UAE and Qatar; actively hiring in Amman (React Native Developer and other roles). Engineering base at GH Building 10."
+evidence:
+  - type: "official_website"
+    url: "https://digitalgates.net"
+    label: "Official website"
+  - type: "other"
+    url: "https://theorg.com/org/digital-gates?p=mohammad-fahmawi"
+    label: "Research source"
+  - type: "job_post"
+    url: "https://jaabz.com/jobs/105374-uiux-designer"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.972718,35.834635"
+    label: "Google Maps location"

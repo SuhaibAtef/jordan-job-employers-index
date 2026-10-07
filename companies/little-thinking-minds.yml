@@ -1,0 +1,50 @@
+name: "Little Thinking Minds"
+industry: "E-Learning Providers"
+website: "https://littlethinkingminds.com/"
+careers_url: "https://job-boards.greenhouse.io/littlethinkingminds"
+linkedin: "https://www.linkedin.com/company/little-thinking-minds"
+hr_email: null
+size: "51-200"
+location:
+  area: "Amman"
+  address: "Q. Nour St. 44, Amman"
+  status: "provided_unverified"
+  latitude: 31.962358
+  longitude: 35.899213
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.962358,35.899213"
+categories:
+  - "devops"
+  - "edtech"
+  - "mobile"
+  - "web"
+technologies:
+  - "AWS"
+  - "CI/CD"
+  - "iOS"
+  - "WordPress"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Award-winning Arabic literacy edtech (I Read Arabic); acquired by US-based Seesaw in Apr 2025 but remains HQ'd in Amman with hybrid Amman-based roles (recent Greenhouse postings: Director of Product, Technical Program Manager, Senior DevOps Engineer)."
+evidence:
+  - type: "official_website"
+    url: "https://littlethinkingminds.com/"
+    label: "Official website"
+  - type: "careers"
+    url: "https://job-boards.greenhouse.io/littlethinkingminds"
+    label: "Careers / application page"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/little-thinking-minds"
+    label: "LinkedIn company page"
+  - type: "job_post"
+    url: "https://www.promoteproject.com/job/3797/remote-senior-devops-engineer-little-thinking-minds-1129296"
+    label: "Research source"
+  - type: "other"
+    url: "https://en.incarabia.com/usbased-seesaw-acquires-jordanbased-little-thinking-minds-730891.html"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.littlethinkingminds.com/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.962358,35.899213"
+    label: "Google Maps location"

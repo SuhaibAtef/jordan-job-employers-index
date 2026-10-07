@@ -1,0 +1,67 @@
+name: "MERAKI Academy"
+industry: "EdTech (coding bootcamp)"
+website: "https://go.meraki-academy.com"
+careers_url: "https://go.meraki-academy.com/Careers"
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Amman, Jordan"
+  status: "unresolved"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "data"
+  - "edtech"
+  - "web"
+technologies:
+  - "CSS"
+  - "Express"
+  - "HTML"
+  - "JavaScript"
+  - "MongoDB"
+  - "MySQL"
+  - "Node.js"
+  - "PostgreSQL"
+  - "React"
+  - "TypeScript"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+    - "Academy"
+    - "Bootcamp"
+notes: "Amman-based (est. 2020) part-time online coding bootcamp turning beginners into software engineers with 700+ hours and 85-95% graduate employment; publicly hires remote career coaches/staff. | stack verified 2026-10-04: coding bootcamp - taught stack per 3 graduate GitHub/CV profiles + curriculum references: MERN/PERN (JavaScript/TypeScript, React, Node.js, Express, MongoDB, PostgreSQL/MySQL, HTML, CSS). | GPS check 2026-10-06 (attempt 1): remote-first/online-only — official site meraki-academy.com publishes no street address (contact via WhatsApp +962787875915, consultations on Zoom); Careers page states 'Remote in Jordan - Work from anywhere'; no Google Maps business listing exists for the bootcamp (only unrelated 'meraki institute' and lookalikes); LinkedIn is city-level only ('Amman, JO'); JordanYP address field is blank ('Amman, Jordan'); Instagram bio shows no address; no news about any office. No two sources agree on a street location and no authoritative source confirms one. Company appears to have no public office — keeping Amman city-center fallback pin (approx). | GPS check 2026-10-06 (attempt 2): live browser re-check (official contact page, Google Maps search 'Meraki Academy Amman Jordan', LinkedIn page, JordanYP) + fresh web search. Still no street address: official site contact via WhatsApp/Zoom only; no Google Maps business listing for the bootcamp; LinkedIn city-level only; JordanYP profile itself describes it as an online part-time bootcamp 'looking for a strategic partner (investor) to help us open a new branch' (i.e. no physical office exists). No two sources agree on a street location and no authoritative source confirms one. Keeping Amman city-center fallback pin (approx). | Live-browser report 2026-10-06 (attempt 2): NO street address on official site (contact links are WhatsApp wa.me/962787875915 only; email info@meraki-academy.com); NO Google Maps business listing for 'Meraki Academy Amman Jordan' (only unrelated lookalikes: 'meraki institute', An-Nahdah St., and a US 'Meraki Academy', Rising Sun MD); official LinkedIn page /school/MerakiAcademyJO shows only 'Primary: Amman, JO' / Headquarters 'Amman'; JordanYP listing marked UNVERIFIED with empty address field; LinkedIn job posts all tagged [Remote]; careers page 'Remote in Jordan - Work from anywhere'. Certainty bar not met - online-only company with no public office. | GPS check 2026-10-06 (attempt 3, FINAL): 55-step live-browser sweep — official site (go.meraki-academy.com, meraki-academy.com, contact pages, all CTA links lead only to WhatsApp wa.me/962787875915, email info@meraki-academy.com, no street address, no embedded map), Instagram bio/posts, Facebook page, X/Twitter, Google search incl. Arabic 'أكاديمية ميراكي عمان عنوان', Google Maps ('Meraki Academy Amman Jordan' — no business listing for the bootcamp, only unrelated lookalikes: 'meraki institute' An-Nahdah St. and a US 'Meraki Academy'), Jordan Industrial Property Dept trademark registry (ippd.mit.gov.jo), Companies Control Dept company registry (ccd.gov.jo), startupsjo, Crunchbase, YouTube, Linktree. Still no street address anywhere. JordanYP profile (https://www.jordanyp.com/company/375924/MERAKI_Academy) explicitly describes it as an ONLINE bootcamp 'looking for a strategic partner (investor) to help us open a new branch' — i.e. no physical office exists yet. Certainty bar cannot be met: no two sources agree on a street location and no authoritative source confirms one. Marking gps_unverifiable=true; keeping Amman city-center fallback pin (approx_location=true)."
+evidence:
+  - type: "official_website"
+    url: "https://go.meraki-academy.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://go.meraki-academy.com/Careers"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://meraki-academy.com (official site, no street address)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375924/MERAKI_Academy (address field blank; profile describes online bootcamp seeking investor to open first branch)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://meraki-academy.com (live browser contact check 2026-10-06, no street address)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.linkedin.com/school/MerakiAcademyJO (official page linked from company site; location 'Primary: Amman, JO', no street address)"
+    label: "Location evidence"
+  - type: "other"
+    url: "Live-browser sweep 2026-10-06 (attempt 3): 55 steps — official site contact/about pages, Instagram, Facebook, X, Google Maps search, ippd.mit.gov.jo trademark registry, ccd.gov.jo company registry, startupsjo, Crunchbase, YouTube, Linktree — no street address found anywhere; no Google Maps business listing for the bootcamp"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375924/MERAKI_Academy"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.hireejobsgulf.com/amman-jobs/career-coach-492686"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

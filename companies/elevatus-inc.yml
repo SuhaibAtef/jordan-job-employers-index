@@ -1,0 +1,43 @@
+name: "Elevatus Inc"
+industry: "HR tech / AI"
+website: "https://elevatus.jobs"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "16"
+location:
+  area: "Amman"
+  address: "King Hussein Business Park, King Abdullah II St, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.971664
+  longitude: 35.832434
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.971664,35.832434"
+categories:
+  - "ai"
+  - "web"
+technologies:
+  - "Next.js"
+  - "React"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-founded (2018) AI-powered hiring platform: career sites, ATS, video assessment and resume matching (client examples include Orange); 16 employees. GPS upgraded from city fallback to Google Maps business listing (elevatus.io).\nstack verified 2026-10-06: 2 engineer profiles (TheOrg, Wuzzuf) show React/Next.js frontend; AI video-assessment product per press."
+evidence:
+  - type: "official_website"
+    url: "https://elevatus.jobs"
+    label: "Official website"
+  - type: "other"
+    url: "https://gust.com/companies/elevatus-inc"
+    label: "Research source"
+  - type: "other"
+    url: "http://www.elevatus.io/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.prnewswire.co.uk/news-releases/elevatus-empowers-omantel-to-evaluate-five-thousand-applicants-in-two-days-through-ai-driven-video-assessments-301978965.html"
+    label: "Research source"
+  - type: "other"
+    url: "https://laffaz.com/elevatus-clients-revenues-covid-19/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.971664,35.832434"
+    label: "Google Maps location"

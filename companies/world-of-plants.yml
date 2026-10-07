@@ -1,0 +1,39 @@
+name: "World of Plants"
+industry: "AgriTech / AI Plant Diagnostics"
+website: "https://worldofplants.ai"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "ai"
+  - "iot"
+  - "mobile"
+technologies:
+  - "AI/ML"
+  - "Android"
+  - "iOS"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "AI plant-disease diagnosis from photos plus Android/iOS app with free agricultural consultations; offers delivery inside Jordan per its own site; listed in GIZ's Jordan green-business ecosystem mapping (Sept 2025)."
+evidence:
+  - type: "official_website"
+    url: "https://worldofplants.ai"
+    label: "Official website"
+  - type: "other"
+    url: "https://worldofplants.ai/en/%D8%AD%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D9%81%D8%A7%D8%B1-%D9%83%D9%84%D8%A8-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.giz.de/sites/default/files/media/pkb-document/2025-10/giz2025-en-jordan-green-business-ecosystem.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

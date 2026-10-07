@@ -1,0 +1,40 @@
+name: "SOURCEitHR"
+industry: "HR Outsourcing / Payroll / EOR"
+website: "https://sourceithr.com"
+careers_url: "https://sourceithr.com/careers/"
+linkedin: null
+hr_email: "info@sourceithr.com"
+size: "11-50"
+location:
+  area: "Amman"
+  address: "21 Thi Al Q'idah Street, Teeba Commercial Center, 1st Floor, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories:
+  - "consulting"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-headquartered HR management company offering payroll outsourcing, EOR, staffing and HR analytics tools across 8 MENA countries; offers a mobile app and web-based self-service HR platform; runs a careers page with job inquiries. stack research 2026-10-06: 11 searches; no dev team or engineering postings found (subsidiary of MenaITech; 1 payroll consultant CV on GulfTalent lists SAP FI/CO/Oracle/MenaITech platform skills — personal certs, not company stack)."
+evidence:
+  - type: "official_website"
+    url: "https://sourceithr.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://sourceithr.com/careers/"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://sourceithr.com/professional-employer-organization/employer-of-record-and-staffing-services/"
+    label: "Research source"
+  - type: "other"
+    url: "https://sourceithr.com/wp-content/uploads/2026/02/Arabic-Company-Profile-jordan.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375237/SourceitHR"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

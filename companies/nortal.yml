@@ -1,0 +1,37 @@
+name: "Nortal"
+industry: "IT services / Digital transformation consulting"
+website: "https://nortal.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "1001-5000"
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories:
+  - "consulting"
+  - "devops"
+  - "web"
+technologies:
+  - "Java"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Estonian strategic technology services firm (1001-5000 employees) with 4 employees in Jordan and active Amman hiring (Senior Java Engineer, cloud-native). Nortal acquired Accela's Middle East division in 2025 (Nortal now exclusive Accela licensing entity in the ME). Street address unverified — kept as city fallback."
+evidence:
+  - type: "official_website"
+    url: "https://nortal.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://leadiq.com/c/nortal/5a1d8ad82400002400653583"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.advfn.com/stock-market/stock-news/97190511/nortal-announces-acquisition-of-accela-middle-ea"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

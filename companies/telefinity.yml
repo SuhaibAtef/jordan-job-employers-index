@@ -1,0 +1,54 @@
+name: "TeleFinity"
+industry: "Telecom Software"
+website: "https://tele-finity.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "100-200"
+location:
+  area: "Amman"
+  address: "Mecca St. 164, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.976318
+  longitude: 35.85845
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.976318,35.85845"
+categories:
+  - "data"
+  - "telecom"
+  - "web"
+technologies:
+  - ".NET"
+  - "C#"
+  - "JavaScript"
+  - "jQuery"
+  - "SQL Server"
+  - "VoIP"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Founded 2005 in Amman; computer-telephony software products (InFinity IP PBX, LogFinity call recording, IVR, call-center platforms) sold across MENA, Europe and Asia. stack verified 2026-10-05: 2 employee profiles (Sr .Net Developer Raed Shabatat: ASP.NET MVC, C#, SQL Server, jQuery; Omar Abuhadid: ASP.NET, C#, MS SQL Server) + VoIP engineer at TeleFinity show .NET/C#, SQL Server, JavaScript/jQuery, VoIP."
+evidence:
+  - type: "official_website"
+    url: "https://tele-finity.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.signalhire.com/companies/telefinity"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/345089/Telefinity_Computer_Telephony_Solutions"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.1888pressrelease.com/telefinity-signs-partnership-agreement-with-tawasol-telefin-pr-307691.html"
+    label: "Research source"
+  - type: "other"
+    url: "https://people.bayt.com/raed-shabatat/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.gulftalent.com/people/omar-abuhadid-1201379"
+    label: "Research source"
+  - type: "other"
+    url: "https://topline.com/people/jaber-260525105"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.976318,35.85845"
+    label: "Google Maps location"

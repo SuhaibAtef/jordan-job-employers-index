@@ -1,0 +1,45 @@
+name: "KAIZEN365 Technology"
+industry: "IT Managed Services / Cloud Consulting"
+website: "https://www.kaizen365-tech.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "10-49"
+location:
+  area: "Amman"
+  address: "Khelda, Tla Al Ali, Building #219, Office #46, Amman 11947, Jordan"
+  status: "provided_unverified"
+  latitude: 31.99725
+  longitude: 35.84949
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99725,35.84949"
+categories:
+  - "consulting"
+  - "devops"
+  - "security"
+  - "support"
+technologies:
+  - "Veeam"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Amman-based managed IT services provider (est. 2017, 10-49 people) offering cloud consulting, cybersecurity, and managed services; no internship evidence found."
+evidence:
+  - type: "official_website"
+    url: "https://www.kaizen365-tech.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.startupranking.com/startup/kaizen365-technology"
+    label: "Research source"
+  - type: "other"
+    url: "https://themanifest.com/company/kaizen365-technology"
+    label: "Research source"
+  - type: "other"
+    url: "https://Clutch.co/profile/kaizen365-technology"
+    label: "Research source"
+  - type: "other"
+    url: "https://intaj.net/user/2740/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99725,35.84949"
+    label: "Google Maps location"

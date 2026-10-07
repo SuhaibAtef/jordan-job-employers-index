@@ -1,0 +1,47 @@
+name: "Alefredo EdTech"
+industry: "EdTech (international curriculum learning platform)"
+website: "https://alefredobooks.com"
+careers_url: null
+linkedin: null
+hr_email: "Hr@alefredoedtech.com"
+size: null
+location:
+  area: "Amman"
+  address: "King Hussein Business Park (next to HTU), Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.9731
+  longitude: 35.835
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9731,35.835"
+categories:
+  - "ai"
+  - "edtech"
+  - "erp"
+technologies:
+  - "Generative AI"
+  - "Jira"
+  - "Microsoft 365"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+    - "Graduate"
+notes: "Amman edtech (est. 2020) for IB/British/AP curricula with mock exams and past papers; acquired UK Tutor House ($600K, 2026); publicly posted an AI Engineer Internship for undergraduates with a public HR email."
+evidence:
+  - type: "official_website"
+    url: "https://alefredobooks.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.wamda.com:443/2026/02/jordan-alefredo-edtech-acquires-uk-tutor-house-600000-deal"
+    label: "Research source"
+  - type: "other"
+    url: "https://alefredobooks.com/about-us-alefredo-books/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/ahmad-fareed-al-saif-704314a0_exciting-ai-activity-7211286300258103296-_A9w"
+    label: "Research source"
+  - type: "other"
+    url: "https://en.incarabia.com/jordanbased-alefredo-acquires-ukbased-tutor-house-to-build-integrated-aipowered-learning-ecosystem-826752.html"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9731,35.835"
+    label: "Google Maps location"

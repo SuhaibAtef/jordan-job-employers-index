@@ -1,0 +1,38 @@
+name: "Apprikot"
+industry: "Software / Mobile VAS Development"
+website: null
+careers_url: null
+linkedin: null
+hr_email: null
+size: "~37"
+location:
+  area: "Amman"
+  address: "Amman, Jordan (shares Beecell offices)"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "data"
+  - "design"
+  - "mobile"
+  - "telecom"
+  - "web"
+technologies:
+  - "Android"
+  - "iOS"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Technology supplier and development arm of Beecell International (mobile VAS group): native iOS/Android apps, enterprise mobile apps, web dev and UX. No standalone website verified; no public internship/grad evidence found."
+evidence:
+  - type: "other"
+    url: "https://jordanict.com/2017/company-profile/apprikot"
+    label: "Research source"
+  - type: "other"
+    url: "https://jordanict.com/2017/node/210"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

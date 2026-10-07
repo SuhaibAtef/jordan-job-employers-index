@@ -1,0 +1,48 @@
+name: "ArabiaWeather"
+industry: "Weather Services"
+website: "https://www.arabiaweather.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "30+"
+location:
+  area: "Amman"
+  address: "King Hussein Business Park, Amman"
+  status: "provided_unverified"
+  latitude: 31.97183
+  longitude: 35.83394
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+categories:
+  - "consulting"
+  - "mobile"
+technologies:
+  - "Android"
+  - "iOS"
+  - "Kotlin"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Largest Arabic weather platform (ArabiaWeather.com + Android/iOS/Huawei apps, top-100 site in SA/Jordan) serving consumers and B2B sectors like aviation, agriculture and energy; 30+ team in Amman with offices in Dubai and Riyadh. No dedicated careers page or active job postings found; no specific fresh-grad/internship evidence. Audit 2026-10-03: GPS confirmed via reverse-geocode (pin resolves to King Hussein Business Park); 'AWS' dropped from tech_stack (not traceable to listed sources). | stack verified 2026-10-06: getprog profile of ex-ArabiaWeather Android engineer shows Kotlin/Android; apps published under Arabiaweather Inc."
+evidence:
+  - type: "official_website"
+    url: "https://www.arabiaweather.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://en.wikipedia.org/wiki/ArabiaWeather"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.arabiaweather.com/en/weather-forecast/amman/1797/jo"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.arabiaweather.com/en/posts/461?subdomain=eg"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.supercomputingonline.com/latest/big-data/58346-arabiaweather-looks-to-european-market"
+    label: "Research source"
+  - type: "other"
+    url: "https://Wellfound.com/company/arabiaweather"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+    label: "Google Maps location"

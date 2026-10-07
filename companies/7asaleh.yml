@@ -1,0 +1,36 @@
+name: "7asaleh"
+industry: "Fintech / Family Banking (kids)"
+website: null
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "fintech"
+  - "mobile"
+technologies:
+  - "iOS"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordanian kids/family fintech: gamified pocket-money app with branded debit cards, chores, allowances and savings goals for ages 7-17. | stack research 2026-10-06: 4 searches, app built by external agency (WeTheMakers), no employee profiles or dev postings found"
+evidence:
+  - type: "other"
+    url: "https://ibsintelligence.com/ibsi-news/3-platforms-in-jordan-offering-innovative-fintech-solutions/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.umniah.com/explore-the8log/7asaleh-digital-money-saving-tool-for-new-generation/"
+    label: "Research source"
+  - type: "other"
+    url: "https://apprecs.com/ios/1634617551/7asaleh"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

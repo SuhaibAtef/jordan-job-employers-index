@@ -1,0 +1,39 @@
+name: "Monty Mobile"
+industry: "Telecommunications / SMS Hub & VAS"
+website: "https://montymobile.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "300+"
+location:
+  area: "Amman"
+  address: "Office 501, Campbell Grey Living, Al-Weibdeh, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "telecom"
+technologies:
+  - "SMS Gateway"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "GSMA-certified SMS hub and roaming broker (300+ staff, 11 offices incl. Amman); signed as Zain Jordan's exclusive international A2P SMS provider; VAS/BSS and SMS-monetization products. No public internship/grad evidence found."
+evidence:
+  - type: "official_website"
+    url: "https://montymobile.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://india.entrepreneur.com/leadership/monty-mobiles-ceo-is-transforming-mobile-operators-into/340454"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.eyeballsandclicks.com/article/314483190-zain-jordan-signs-a-global-agreement-with-monty-mobile-to-terminate-a2p-sms"
+    label: "Research source"
+  - type: "other"
+    url: "https://ccnewwebsite.s3.amazonaws.com/static/ccnewwebsite/application_document/dced4c01-8408-475a-9067-907bde04dcd0.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

@@ -1,0 +1,56 @@
+name: "Quality Business Solutions (QBS)"
+industry: "IT Services / Government Technology"
+website: "https://qbs.jo"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/2953418"
+hr_email: null
+size: "10-49 employees"
+location:
+  area: "Ajloun"
+  address: "70 Esam Ajlouni Street, Shmeisani, Amman 11195, Jordan"
+  status: "provided_unverified"
+  latitude: 31.97207
+  longitude: 35.90601
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97207,35.90601"
+categories:
+  - "consulting"
+  - "data"
+  - "erp"
+  - "web"
+technologies:
+  - ".NET"
+  - "Microsoft 365"
+  - "REST API"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Amman IT provider focused on government technology transformation; claims 250+ government entities served (ministries of health, education, finance, municipalities); HQ 70 Esam Ajlouni St, Shmeisani per three independent directories; no public grad/internship info found."
+evidence:
+  - type: "official_website"
+    url: "https://qbs.jo"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/2953418"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://ironsoftware.com/customers/case-studies/ironpdf-casestudy-qbs/"
+    label: "Research source"
+  - type: "other"
+    url: "https://clutch.co/profile/quality-business-solutions"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.goodfirms.co/company/quality-business-solutions"
+    label: "Research source"
+  - type: "other"
+    url: "https://contactout.com/company/Quality-Business-Solutions-QBS-35362"
+    label: "Research source"
+  - type: "other"
+    url: "https://prospectoo.com/company/QualityBusinessSolutions-QBS-2953418/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.datanyze.com/people/Abed-Yousef-Khazneh/11085080581"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97207,35.90601"
+    label: "Google Maps location"

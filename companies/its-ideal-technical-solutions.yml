@@ -1,0 +1,50 @@
+name: "ITS — Ideal Technical Solutions"
+industry: "Digital infrastructure & cloud consulting"
+website: "https://www.its-jo.com"
+careers_url: null
+linkedin: null
+hr_email: "info@its-jo.com"
+size: null
+location:
+  area: "Amman"
+  address: "Amman, Jordan — 3rd Circle"
+  status: "unresolved"
+  latitude: 31.954
+  longitude: 35.91108
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.954,35.91108"
+categories:
+  - "ai"
+  - "consulting"
+  - "data"
+  - "devops"
+  - "edtech"
+  - "security"
+technologies:
+  - "LMS"
+  - "REST API"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman digital-transformation firm with cloud, AI/data, cybersecurity and digital-infrastructure service lines plus LMS/e-learning academies; bilingual Arabic/English delivery, government and enterprise clients. | GPS check 2026-10-03 (attempt 1): own site (its-jo.com) states only 'Amman, Jordan — 3rd Circle', no street address or embedded map; no Google Maps business listing exists for this firm; no LinkedIn company page; zero directory hits (jordanyp.com, jordanict.com; clutch.co blocked by Cloudflare challenge — skipped, Clutch profiles are company-written so not independent evidence anyway); similarly-named firms (MEMF ITS Amman, D&B Riyadh, Canada/UK) are different companies; own site shows two different phone numbers (+962 7 7035 8344 vs +962 7 9360 1800). No second source confirms any office location; not verified. Pin kept at geocoded 3rd Circle center (31.954, 35.91108), approx. | GPS check 2026-10-03 (attempt 2): 33-step live-browser deep dive (its-jo.com contact section, company-profile page, full company-profile PDF, Google Maps searches for 'Ideal Technical Solutions Amman' and 'ITS Amman', EN + Arabic (الابتكار الأمثل للحلول التقنية) web searches, Facebook lookup) plus 3 web searches — still no street address, map pin, or business listing published anywhere; own site still only states 'Amman, Jordan — 3rd Circle'; no Facebook/LinkedIn page found; zero directory hits. Similarly-named results (MEMF ITS Amman smart-grid firm, Riyadh 'IDEAL TECHNICAL SOLUTIONS', iSolution/ismena.com, ITON/iton-jo.com) are different companies; distrusted all. Not verified. Pin kept at geocoded 3rd Circle center (31.954, 35.91108), approx. Report detail: full HTML of its-jo.com read — no embedded map iframe or coordinate params; JSON-LD Organization schema gives streetAddress '3rd Circle' only; 16-page profile PDF confirms 'AMMAN, JORDAN — 3RD CIRCLE' (sales@its-jo.com, +962 7 9360 1800) vs homepage +962 7 7035 8344 — both official numbers, no real conflict. Google Maps searches for the name and both phones returned NO listing for this firm (no pin). No FB/Instagram/LinkedIn/X page indexed. Conflicting hits are different firms: MEMF ITS (smart-grid, Amman), Ideal Technical Solutions Canada (Richmond BC), idealtechnicalsolutions.com (different domain/firm). | stack research 2026-10-06: 5 searches (employee snippets, job postings on akhtaboot/wuzzuf/gulftalent, its-jo.com), no Jordan-specific employee/job-posting evidence; tags left as-is"
+evidence:
+  - type: "official_website"
+    url: "https://www.its-jo.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.its-jo.com/#contact"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://its-jo.com/company-profile/"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.its-jo.com/company-profile/"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/Ideal+for+Information+Technology+Solutions+and+Services/@31.9674944,35.8552991,17z"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.its-jo.com/company-profile/ITS-Company-Profile.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.954,35.91108"
+    label: "Google Maps location"

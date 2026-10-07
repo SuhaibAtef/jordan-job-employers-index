@@ -1,0 +1,50 @@
+name: "websitejo"
+industry: "Information Technology / Web Development Outsourcing"
+website: "https://websitejo.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "10-49"
+location:
+  area: "Amman"
+  address: "University Street, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.99797
+  longitude: 35.88235
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99797,35.88235"
+categories:
+  - "consulting"
+  - "mobile"
+  - "web"
+technologies:
+  - ".NET"
+  - "Django"
+  - "Flutter"
+  - "Laravel"
+  - "Node.js"
+  - "React"
+  - "Vue.js"
+  - "WordPress"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Web development and outsourcing agency (Amman, est. 2011): web/mobile apps, e-commerce, app maintenance and support for international SMB clients."
+evidence:
+  - type: "official_website"
+    url: "https://websitejo.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://techbehemoths.com/company/websitejo"
+    label: "Research source"
+  - type: "other"
+    url: "https://Clutch.co/profile/websitejo"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.goodfirms.co/company/websitejo"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.designrush.com/agency/profile/websitejo"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99797,35.88235"
+    label: "Google Maps location"

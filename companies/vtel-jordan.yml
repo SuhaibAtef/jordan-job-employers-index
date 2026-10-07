@@ -1,0 +1,43 @@
+name: "VTEL Jordan"
+industry: "Telecom infrastructure / ISP"
+website: "http://www.vtel.jo/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Al Reem Center, Arar Mustafa Wahbi Al Tal St 244, Wadi Saqra, Amman"
+  status: "provided_unverified"
+  latitude: 31.962192
+  longitude: 35.890565
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.962192,35.890565"
+categories:
+  - "iot"
+  - "telecom"
+technologies:
+  - "Fiber Networks"
+  - "IoT"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Regional provider of fiber internet, IoT and smart data centers headquartered in Amman; operating since 2008. GPS upgraded from city-center fallback to verified Google Maps business pin (Al Reem Center, Arar St 244; address confirmed in RIPE member listing). Website added from verified business listing. stack verified 2026-10-07: employee evidence confirms network-operations roles (Sr. Network Operations Engineer at VTEL Jordan per public profile; RIPE LIR record shows VTEL as an ISP/data-center operator in Amman); fiber network operations tags corroborated."
+evidence:
+  - type: "official_website"
+    url: "http://www.vtel.jo/"
+    label: "Official website"
+  - type: "other"
+    url: "https://Theorg.com/org/vtel-jordan/org-chart/ahmed-abdelrazzaq"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/322390/Vtel_Holdings_Ltd"
+    label: "Research source"
+  - type: "other"
+    url: "https://www-public.telecom-sudparis.eu/~maigron/rir-stats/ripe-allocations/ipv4/by-lir/jo-ipv4-by-lir.html"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.ripe.net/membership/member-support/list-of-members/jo/vtel-jordan/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.962192,35.890565"
+    label: "Google Maps location"

@@ -1,0 +1,46 @@
+name: "Kharabeesh"
+industry: "Digital media / Animation"
+website: "https://www.kharabeesh.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "51-200"
+location:
+  area: "Amman"
+  address: "Abu Al Dhahab Complex, Nufan As-Saoud Al-Edwan St. 22, Amman"
+  status: "provided_unverified"
+  latitude: 31.974926
+  longitude: 35.860521
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.974926,35.860521"
+categories:
+  - "design"
+  - "marketing"
+technologies:
+  - "2D/3D animation"
+  - "Digital content platforms"
+  - "Maya"
+  - "Video production"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Jordanian animation/digital-content pioneer (founded 2005, Amman HQ), part of Think Arabia media group; commercial work for Samsung, Pepsi; one of YouTube's top-ten channels. Audit 2026-10-03: GPS upgraded from fallback to real HQ pin (Abu Al Dhahab Complex, Nufan As-Saoud Al-Edwan St. 22 — corroborated by business listing, CB Insights and Datanyze). | stack check 2026-10-03: media/animation studio — employee profile (videographer/video editor, wuzzuf) supports existing video-production raw tags but normalizer has no animation/video tags; their Google Play apps suggest mobile work but no engineer/job-posting evidence to tag. Left unverified. | stack recheck 2026-10-04 (run 2): still no software-engineering evidence — indexed employee profiles are motion graphic designers / YouTube account managers (theorg, gulftalent); no dev job postings found; normalizer has no animation/video-production tags and Unity/Unreal would be guesses. Left unverified. | stack verified 2026-10-04: animation studio; 3 employee profiles (animator intern 2020, bayt; visual-designer trainer, behance — lists Adobe Illustrator/Photoshop/After Effects/Premiere/XD + Maya Autodesk; film director 2014-2017, gulftalent — lists Premiere/After Effects/Photoshop) confirm Adobe/Maya animation pipeline; no software-engineering stack exists — empty stack confirmed."
+evidence:
+  - type: "official_website"
+    url: "https://www.kharabeesh.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://en.wikipedia.org/wiki/Kharabeesh"
+    label: "Research source"
+  - type: "other"
+    url: "https://Theorg.com/org/kharabeesh"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.wamda.com/en/2015/04/how-animation-studio-kharabeesh-drew-own-success"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.cbinsights.com/company/kharabeesh"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.974926,35.860521"
+    label: "Google Maps location"

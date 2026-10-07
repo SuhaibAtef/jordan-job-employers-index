@@ -1,0 +1,54 @@
+name: "PROTECH"
+industry: "Cybersecurity / IT solutions"
+website: "https://protech-jo.com"
+careers_url: null
+linkedin: null
+hr_email: "info@protech-jo.com"
+size: "51-200"
+location:
+  area: "Amman"
+  address: "Tla'a Al Ali, Wasfi Al Tal St., Building 21, Amman"
+  status: "verified"
+  latitude: 31.9929837
+  longitude: 35.8631998
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.992981,35.863191"
+categories:
+  - "devops"
+  - "security"
+technologies:
+  - "Firewalls"
+  - "Penetration Testing"
+  - "Veeam"
+  - "VMware"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman cybersecurity/IT firm since 2004; Mandiant Gold Partner; Veeam Levant Partner of the Year 2023; engaged University of Jordan students at Cybersecurity Day. GPS kept as-is: Tla'a Al Ali / Wasfi Al Tal-area coordinates plausible for the stated address; no exact verifiable pin found. info@protech-jo.com confirmed in a public directory listing. | gps_verified 2026-10-04: official contact page (protech-jo.com/contact-us/) states 'Tla'a Al Ali - Along Wasfi Al Tal St., Building No. 21, Next to the housing bank and post office'; Google Maps 'PROTECH Company' listing shows the identical address label verbatim, is well-maintained (31 reviews/4.8, owner responses, 'By owner' photos, hours, website protech-jo.com + phone +962 6 537 1444 matching company), pin 31.9929837,35.8631998. Independent roundup (micromindercs.com) and arabianlocal verified listing corroborate. No conflicts."
+evidence:
+  - type: "official_website"
+    url: "https://protech-jo.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://protech-jo.com/contact-us/"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/PROTECH+Company/@31.9929837,35.8631998,17z/data=!3m1!4b1!4m6!3m5!1s0x151ca01448cdf3f3:0x249766636e55140c!8m2!3d31.9929837!4d35.8631998!16s%2Fg%2F12qfmn4jf"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.micromindercs.com/blog/cybersecurity-companies-in-jordan"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://arabianlocal.com/8324/pro-technology-company"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://protech-jo.com/our-participation-in-cybersecurity-day-at-the-university-of-jordan/"
+    label: "Research source"
+  - type: "other"
+    url: "https://protech-jo.com/media-center/news/page/3/?et_blog"
+    label: "Research source"
+  - type: "other"
+    url: "https://intaj.net/protech-receives-veeam-software-competency-partner-certification-in-ransomware-and-disaster-recovery-a-first-in-jordan/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.992981,35.863191"
+    label: "Google Maps location"

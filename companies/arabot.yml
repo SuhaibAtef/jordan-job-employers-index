@@ -1,0 +1,56 @@
+name: "Arabot"
+industry: "Conversational AI"
+website: "https://arabot.io"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Khalaf wa Shttai 93, Medina Al Munawwara St., Amman, Jordan"
+  status: "verified"
+  latitude: 31.9719387
+  longitude: 35.8645938
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9719387,35.8645938"
+categories:
+  - "ai"
+technologies:
+  - "AI/ML"
+  - "Generative AI"
+  - "NLP"
+  - "REST API"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Conversational AI company (founded 2016, Amman office plus KSA/UAE) with proprietary AI chatbot platform and Arabic NLP; built Aramex's WhatsApp chatbot. GPS verified 2026-10-05: official contact-page embedded map + claimed, well-maintained Google listing ('Boto for internet applications') both place office at Khalaf wa Shttai Towers, Al-Madina Al-Monawara St 93, Amman (31.9719387, 35.8645938); LinkedIn agrees on street, house-no 95 (minor)."
+evidence:
+  - type: "official_website"
+    url: "https://arabot.io"
+    label: "Official website"
+  - type: "other"
+    url: "https://arabot.io/en/contact-us"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps?ll=31.971939,35.864594&z=16&t=m&hl=en&gl=US&mapclient=embed&cid=13443916836523345639"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/Arabot+Amman"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.linkedin.com/company/arabot"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/376064/Arabot"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://arabot.io/en/blog-post/1"
+    label: "Research source"
+  - type: "other"
+    url: "https://laffaz.com/jordan-based-arabot-raises-1mn-for-regional-expansion/"
+    label: "Research source"
+  - type: "other"
+    url: "https://Theorg.com/org/arabot"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9719387,35.8645938"
+    label: "Google Maps location"

@@ -1,0 +1,42 @@
+name: "Terhaal Adventures"
+industry: "Adventure Tour Operator / Tourism Platform"
+website: "https://terhaal.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Al-Sina'ah, Bayader Wadi Al-Seer, Amman"
+  status: "provided_unverified"
+  latitude: 31.95563
+  longitude: 35.84277
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95563,35.84277"
+categories:
+  - "travel"
+  - "web"
+technologies:
+  - "WordPress"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman adventure travel operator (hiking, cycling, trekking, canyoning) with online bookable trips and group departures. NOTE: directory listings conflict on the office address — an older listing gives Al-Sina'ah, Bayader Wadi Al-Seer (matching this pin), while newer listings give Ali Nasuh Al Tahir St., Sweifieh (Building #48, 2nd floor); no Maps listing confirmed the exact pin."
+evidence:
+  - type: "official_website"
+    url: "https://terhaal.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/341941/Terhaal_Ecoadventure"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.tourtravelworld.com/travel-agents/terhaal-adventures-in-amman-41064/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.tipntag.com/place/s/terhaal-adventures-Seventh-Circle-Amman-Jordan"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.allspots.com/jo/directory/Travel+agencies-%D8%B3%D9%81%D8%B1+%D9%88%D9%83%D8%A7%D9%84%D8%A7%D8%AA/Terhaal-%D8%AA%D8%B1%D8%AD%D8%A7%D9%84.html"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95563,35.84277"
+    label: "Google Maps location"

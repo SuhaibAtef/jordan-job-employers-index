@@ -1,0 +1,50 @@
+name: "Technzone"
+industry: "Custom software, AI solutions & digital products"
+website: "https://www.technzone.com"
+careers_url: null
+linkedin: null
+hr_email: "info@technzone.com"
+size: "10-49"
+location:
+  area: "Amman"
+  address: "King Hussein Business Park, Bldg #15, Amman, Jordan"
+  status: "verified"
+  latitude: 31.9727151
+  longitude: 35.8336835
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9727151,35.8336835"
+categories:
+  - "ai"
+  - "design"
+  - "mobile"
+  - "web"
+technologies:
+  - ".NET"
+  - "Angular"
+  - "iOS"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Digital product company HQ in Riyadh with Amman branch (King Hussein Business Park Bldg #15, ~11-50 staff) building insurtech, healthtech, smart-mobility platforms and LLM-powered AI apps. No public internship/fresh-grad programme found. | stack verified 2026-10-04: employee profiles show ASP.NET Core REST APIs (.NET intern), Angular incl. Angular Universal SSR (2 frontend devs), and a Senior iOS developer; added ASP.NET Core, Angular, iOS. | GPS verified 2026-10-06: official site + Clutch independently agree on King Hussein Business Park, Bldg #15, Amman (same phone +962 79 519 2265); live Google Maps listing 'Located in: King Hussein Business Park' at pin 31.9727151,35.8336835 (~250m inside park grounds). Maps listing looks unclaimed/thin so pin set from its coordinates but evidence is site+Clutch."
+evidence:
+  - type: "official_website"
+    url: "https://www.technzone.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.technzone.com/ (Our Offices: Jordan Branch - Amman: King Hussein Business Park, Bldg #15, Amman, Jordan, +962 79 519 2265)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://clutch.co/profile/technzone (Headquarters: King Hussein Business Park, Bldg #15 Amman, Jordan, +962 79 519 2265)"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/Technzone/ (label: Al-Sha'b, Amman, 'Located in: King Hussein Business Park', pin 31.9727151, 35.8336835; listing appears unclaimed/thin - phone/website match, no owner responses)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://jordanict.com/2020/listings?category=41"
+    label: "Research source"
+  - type: "other"
+    url: "https://ensun.io/company/technzone-64a3e79a4302f9be376b615e"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9727151,35.8336835"
+    label: "Google Maps location"

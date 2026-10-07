@@ -1,0 +1,53 @@
+name: "Vitas Jordan"
+industry: "Microfinance / Lending"
+website: "https://vitasjordan.com"
+careers_url: null
+linkedin: null
+hr_email: "Customerservice@vitasjordan.com"
+size: "201-500"
+location:
+  area: "Amman"
+  address: "Farah Building, 3rd floor, Al-Wakalat Street, Sweifieh, Amman"
+  status: "verified"
+  latitude: 31.9573438
+  longitude: 35.8606264
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9573438,35.8606264"
+categories:
+  - "fintech"
+technologies:
+  - "TMX Digital Lending platform"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Microfinance lender (est. 2013, part of Vitas Group / Global Communities); digitized field lending through the TMX Digital Lending platform; 27,000+ borrowers across 17+ branches. No public office address found. | stack research 2026-10-04: 3 searches; employee (Head of Risk & Info Unit) confirms core system is Web-Abacus, vendor-built/maintained by CHF International SDS; website by agency (code-pro.io); no in-house dev stack evidence. | GPS verified 2026-10-07: head office at Farah Building, 3rd floor, Al-Wakalat Street, Sweifieh, Amman — confirmed by official contact page + branches page, owner-managed Google Maps head-office pin (31.9573438, 35.8606264), LinkedIn company page (\"Swefieh (Al-Wakalat Street), Farah Building # 13\"), and RocketReach/arab.org/future-pioneers snippets; branch listings (Shatara Commercial Complex, Al Amani 1 Complex) are separate branches."
+evidence:
+  - type: "official_website"
+    url: "https://vitasjordan.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://vitasjordan.com/en/contact-us"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://vitasjordan.com/en/branch"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/Vitas+Jordan"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://jo.linkedin.com/company/vitas-jordan"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.jordanfinancialservices.com/2022/company-profile/vitas-jordan"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://rocketreach.co/vitas-jordan-financing-a-better-world-profile_b44e66cffd93bd2c"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://theorg.com/org/vitas-jordan?focus=p-9481260"
+    label: "Research source"
+  - type: "other"
+    url: "https://tlxmobility.com/wp-content/uploads/2026/06/case-study-TMX_Vitas.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9573438,35.8606264"
+    label: "Google Maps location"

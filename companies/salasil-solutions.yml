@@ -1,0 +1,38 @@
+name: "Salasil Solutions"
+industry: "EdTech (e-learning / video learning platform)"
+website: "https://www.salasil.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "King Hussein Business Park, King Abdullah II St., Building No. 7, 2nd Floor, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.9731
+  longitude: 35.835
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9731,35.835"
+categories:
+  - "edtech"
+technologies:
+  - "REST API"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman edtech (est. 2015) building Salasil Desktop, a video-based e-learning/LMS platform with virtual classrooms, gamification and assessments; based at KHBP. stack research 2026-10-07: 4 searches, no employee profiles or dev postings found"
+evidence:
+  - type: "official_website"
+    url: "https://www.salasil.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://slashdot.org/software/comparison/Salasil-Desktop-vs-YuJa/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/category/E_Learning/city:Amman"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/376016/Salasil_Solutions"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9731,35.835"
+    label: "Google Maps location"

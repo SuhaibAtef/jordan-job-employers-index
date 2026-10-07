@@ -1,0 +1,39 @@
+name: "Coders Enterprise Web & Mobile Solutions"
+industry: "Information Technology / Software Outsourcing"
+website: "https://codersme.com/"
+careers_url: null
+linkedin: null
+hr_email: "info@codersme.com"
+size: "10-49"
+location:
+  area: "Amman"
+  address: "Zaytona Complex (B), Paris St, Al Swefiyeh, Amman 11185, Jordan"
+  status: "approximate"
+  latitude: 31.95656
+  longitude: 35.85967
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95656,35.85967"
+categories:
+  - "consulting"
+  - "web"
+technologies:
+  - "Drupal"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Drupal-focused web & mobile agency in Amman (offices in Jordan, Syria and KSA) doing outsourced custom software for startups and enterprises across MENA, Europe and the Americas."
+evidence:
+  - type: "official_website"
+    url: "https://codersme.com/"
+    label: "Official website"
+  - type: "other"
+    url: "http://www.codersme.com/en/terms-and-conditions"
+    label: "Research source"
+  - type: "other"
+    url: "https://new.drupal.org/coders-enterprise-web-mobile-solutions"
+    label: "Research source"
+  - type: "other"
+    url: "https://techbehemoths.com/company/coders-enterprise-web-mobile-solutions"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95656,35.85967"
+    label: "Google Maps location"

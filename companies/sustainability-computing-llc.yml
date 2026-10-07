@@ -1,0 +1,45 @@
+name: "Sustainability Computing LLC"
+industry: "IT services, hosting & cloud"
+website: "https://www.alestidama.com"
+careers_url: null
+linkedin: null
+hr_email: "sales@alestidama.com"
+size: null
+location:
+  area: "Amman"
+  address: "198 Madina Monawara Street, Khazindar Complex, Office 302, P.O. Box 744, Amman 11831, Jordan"
+  status: "provided_unverified"
+  latitude: 31.98794
+  longitude: 35.86711
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.98794,35.86711"
+categories:
+  - "consulting"
+  - "devops"
+  - "erp"
+  - "support"
+  - "telecom"
+technologies:
+  - "Odoo"
+  - "VMware"
+  - "VoIP"
+  - "VPS Hosting"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman IT firm (est. 2013) providing web/email/VM hosting on its own on-premises servers, private cloud storage, virtualization, VoIP and open-source ERP (ERPNext/Odoo); runs on open-source firewalls and enterprise Linux/Windows."
+evidence:
+  - type: "official_website"
+    url: "https://www.alestidama.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.alestidama.com/contact/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/category/Internet_security/city:Amman"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/category/web_hosting/city:Amman"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.98794,35.86711"
+    label: "Google Maps location"

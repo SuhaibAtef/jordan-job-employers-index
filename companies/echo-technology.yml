@@ -1,0 +1,46 @@
+name: "Echo Technology"
+industry: "IT services / software"
+website: "https://echo-tech.com"
+careers_url: null
+linkedin: null
+hr_email: "hr@echo-tech.com"
+size: "51-200"
+location:
+  area: "Amman"
+  address: "Arar Street, Wadi Saqra, Amman"
+  status: "provided_unverified"
+  latitude: 31.959292
+  longitude: 35.89963
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.959292,35.89963"
+categories:
+  - "consulting"
+  - "mobile"
+  - "web"
+technologies:
+  - ".NET"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "IT provider and major Microsoft partner in the region (est. 2008); websites/portals, e-services, mobile apps and document management systems. GPS upgraded from city-center fallback to verified Google Maps business pin (Arar St, Wadi Saqra). Published hiring email found in their LinkedIn hiring post. stack verified 2026-10-06: getprog.ai employee profile for Mahmoud Hamad, Senior Software Engineer at Echo Technology (.NET developer there since 2016), plus Microsoft-partnered products on echo-tech.com (EchoBus CMS \"Trusted by Microsoft Corp\", TERA document management)."
+evidence:
+  - type: "official_website"
+    url: "https://echo-tech.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/374152/Echo_Tecnology"
+    label: "Research source"
+  - type: "other"
+    url: "https://selling.com/company/echo-technology/110583623"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.computers1000.com/JO/Amman/148359821892895/Echo-Technology"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.echo-tech.com/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/echo-technology_hiring-businessanalyst-salesrepresentative-activity-7502258891171360769-Jpfo"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.959292,35.89963"
+    label: "Google Maps location"

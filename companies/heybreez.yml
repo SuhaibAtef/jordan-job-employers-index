@@ -1,0 +1,61 @@
+name: "HeyBreez"
+industry: "Voice AI infrastructure"
+website: "https://heybreez.ai"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "unresolved"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "ai"
+technologies:
+  - "Generative AI"
+  - "NLP"
+  - "REST API"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "MENA-born voice-AI infrastructure startup (founded 2025, HQ Delaware, offices Amman + Dubai); $3.8M raised in 2026; >1M calls/month; Arabic-first voice automation. Amman street address unverified. | GPS attempt 1 (2026-10-03): exhaustive live-browser check inconclusive — no street-level Amman address exists publicly. Checked: heybreez.ai (contact page is a demo form with no address; About page no address; ToS lists only Delaware registered office 108 West 13th St, Wilmington DE); Google Maps has NO HeyBreez listing in Amman ('Partial match' to the city itself; only unrelated 'Breez' in Delaware disregarded); LinkedIn company page (linkedin.com/company/heybreezai) behind sign-in auth wall — unread; JordanYP and jordanict.com internal searches returned zero results; Lunara Partners, InforCapital, fundedstartupsdaily and news (Startup Scene, Inc. Arabia, heybreez.ai seed-round blog) all say 'Amman, Jordan' city-level only; Instagram hiring post lists roles as 'UAE / Amman · Hybrid' with no office street. Street address would likely require direct outreach (hello@heybreez.ai). City-center fallback pin kept with approx_location=true.\nGPS attempt 2 (2026-10-03): second exhaustive live-browser check still inconclusive — NO street-level Amman address exists publicly. Checked: heybreez.ai/careers = 404 (no jobs page); contact page = demo form, no address; about page = no address; privacy statement lists only Delaware registered-agent address (108 West 13th St, Wilmington DE); Google Maps search 'HeyBreez Amman' returns NO business listing (city-level partial match only); Crunchbase org page (crunchbase.com/organization/breez-ai) blocked by Cloudflare challenge, snippet says founder 'based out of Amman, Jordan' (city level); LinkedIn jobs: Senior Account Manager lists 'Dubai... Amman / UAE Hybrid' (no street), Sales/BD lists 'Amman, Jordan' but body says '(Remote)'; LinkedIn company page behind auth wall — unread; neighborhood searches (Abdali/Abdoun/Sweifieh/Shmeisani/Khalda/KHBP/Mecca St/Airport Rd) return zero street mentions; investor/press (Wamda, Lunara, premieralts) all say 'Amman, Jordan' city-level only. Per certainty bar: no verifiable pin; city-center fallback kept with approx_location=true.\nGPS attempt 3 (2026-10-03): third exhaustive live-browser check, still NO street-level Amman address exists publicly. Confirmed city-level with high confidence: 7+ independent sources agree the operating office is in Amman — official seed-round blog (heybreez.ai/blog/heybreez-seed-round: 'headquartered in the US with offices in Amman and Dubai'), LinkedIn company page (linkedin.com/company/heybreezai: 'headquartered in Delaware, with offices in Amman, Jordan, and Dubai'), Wamda, Inc. Arabia, founderland.ai, lunarapartners.vc, inforcapital.com. Checked with no street address: official site (only address listed is the Delaware registered-agent domicile 108 West 13th St, Wilmington DE — NOT an office), Google Maps search 'HeyBreez Amman' (NO business listing at all), Bing Maps, jordanict.com, jordanyp.com, clutch.co, worldyellowpages.com (all no match), akhtaboot.com (CAPTCHA wall, not attempted), Instagram/Facebook and LinkedIn jobs (login walls). Small HQ conflict: some investor snippets say 'headquartered in Amman' while company legal pages say Delaware — consistent with Delaware C-Corp domicile + real Amman operations. Per certainty bar, no verifiable pin can be placed; MARKED gps_unverifiable=true so the queue moves on. City-center fallback pin kept with approx_location=true. Street address would require direct outreach (hello@heybreez.ai)."
+evidence:
+  - type: "official_website"
+    url: "https://heybreez.ai"
+    label: "Official website"
+  - type: "other"
+    url: "https://heybreez.ai/blog/heybreez-seed-round"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://heybreez.ai/privacy"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://heybreez.ai/terms"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.linkedin.com/company/heybreezai"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.wamda.com/2026/08/voice-ai-startup-heybreez-raises-2-5-million-seed-round"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://inforcapital.com/companies/heybreez/"
+    label: "Research source"
+  - type: "other"
+    url: "https://techparley.com/heybreez-raises-2-5m-to-scale-ai-voice-infrastructure-as-monthly-calls-surpass-one-million/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.fundedstartupsdaily.com/company/heybreez/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.lunarapartners.com/heybreez.html"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.thesaasnews.com/news/heybreez-raises-2-5m-seed/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

@@ -1,0 +1,33 @@
+name: "Go Jordan Travel and Tourism"
+industry: "Tour Operator / Tourism Platform"
+website: "https://www.gojordantours.com/"
+careers_url: null
+linkedin: null
+hr_email: "info@gojordantours.com"
+size: null
+location:
+  area: "Wadi Musa"
+  address: "Petra Main Parking, Wadi Musa"
+  status: "provided_unverified"
+  latitude: 30.32433
+  longitude: 35.46793
+  maps_url: "https://www.google.com/maps/search/?api=1&query=30.32433,35.46793"
+categories:
+  - "travel"
+  - "web"
+technologies:
+  - "WordPress"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Wadi Musa-based tour operator with online day-tour and holiday-package booking (WordPress site) and publicly listed contact email. Company lists its address as 'Petra Main Parking Lot'; pin upgraded to the Petra Visitor Center/main parking area."
+evidence:
+  - type: "official_website"
+    url: "https://www.gojordantours.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.slideserve.com/gojordantours/immerse-yourself-in-spiritual-heritage-jordan-islamic-tour-with-gojordan-tours"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=30.32433,35.46793"
+    label: "Google Maps location"

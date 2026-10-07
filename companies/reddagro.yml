@@ -1,0 +1,36 @@
+name: "ReddAgro"
+industry: "AgriTech / Precision Farming"
+website: "https://reddagro.com"
+careers_url: null
+linkedin: null
+hr_email: "inquiries@reddagro.com"
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "iot"
+technologies:
+  - "Greenhouse automation"
+  - "Precision farming software"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Agri-tech company: precision farming, greenhouse control/automation and agriculture supply-chain management tools; AGRIVI partner for Jordan/MENA. Contact is the public inquiries address, not a dedicated HR email. stack research 2026-10-05: 3 searches, no employee dev profiles or job postings found; team is agricultural engineers, software via AGRIVI partnership."
+evidence:
+  - type: "official_website"
+    url: "https://reddagro.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.agrivi.com/news/agrivi-partners-up-with-reddagro-agtech-company-to-bring-cutting-edge-technology-to-agriculture-companies-in-the-middle-east/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.foodnavigator.com/Article/2024/11/14/meet-the-14-agtech-start-ups-set-to-take-centre-stage-at-world-agri-tech-measa/?int_campaign=Headlines&int_campaign_type=Right_column"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

@@ -1,0 +1,47 @@
+name: "Jo Academy"
+industry: "EdTech (online learning platform)"
+website: "https://www.joacademy.com/en"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/jo-academy"
+hr_email: null
+size: "201-500"
+location:
+  area: "Amman"
+  address: "Al Hijaz Towers, Mecca Street, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.976038
+  longitude: 35.860946
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.976038,35.860946"
+categories:
+  - "ai"
+  - "edtech"
+technologies:
+  - "Generative AI"
+  - "LMS"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+notes: "Amman edtech (est. 2013) with virtual classrooms from primary to university; $28M Series B (Feb 2025); expanding to Saudi; large 201-500 team implies ongoing graduate hiring."
+evidence:
+  - type: "official_website"
+    url: "https://www.joacademy.com/en"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/jo-academy"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://en.arageek.com/top-startups-in-jordan-amman"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.startupblink.com/top-startups/jordan"
+    label: "Research source"
+  - type: "other"
+    url: "https://prospectoo.com/company/JoAcademy-68485109/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.joacademy.com/en/teachers/mahmoud-zaatar/subject-exams"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.976038,35.860946"
+    label: "Google Maps location"

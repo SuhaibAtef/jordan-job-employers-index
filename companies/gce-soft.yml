@@ -1,0 +1,42 @@
+name: "GCE Soft"
+industry: "Enterprise software / ERP"
+website: "https://gcesoft.com.jo"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "IT Center, Queen Rania St, Amman"
+  status: "approximate"
+  latitude: 31.99155
+  longitude: 35.86906
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99155,35.86906"
+categories:
+  - "data"
+  - "erp"
+  - "web"
+technologies:
+  - ".NET"
+  - "C#"
+  - "Crystal Reports"
+  - "Oracle Database"
+  - "SQL Server"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Trainee"
+notes: "Amman software house established 1993; builds Alpha ERP and business software; street confirmed by company site. | stack verified 2026-10-05: 3 employee profiles (Tech Dev Manager Mohamed Al Moustafa: C#/SQL Server/Oracle; Sr Consultant Ahmad Najim: VB.NET/SQL Server/Crystal Reports; Dep GM Ziad Barghouthi: .NET) + trainee GitHub project at GCESoft (ASP.NET Core MVC/Web API, SQL Server)"
+evidence:
+  - type: "official_website"
+    url: "https://gcesoft.com.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://gcesoft.com.jo/en/alpha-erp/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/348256/GCE_Soft"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99155,35.86906"
+    label: "Google Maps location"

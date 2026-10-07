@@ -1,0 +1,35 @@
+name: "Jordan Aviation"
+industry: "Airline / Aviation"
+website: "https://www.jordanaviation.jo/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "King Faisal Bin Abdul Aziz St. 55 (Jordan Aviation Building), Um Uthaina, Amman"
+  status: "provided_unverified"
+  latitude: 31.969271
+  longitude: 35.870596
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.969271,35.870596"
+categories:
+  - "ai"
+  - "travel"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-based airline operating worldwide charter flights, wet-lease services and air transport for UN peacekeeping forces. Publicly listed contact is info@jordanaviation.jo (general customer service); no HR-specific email found, so hr_email stays null. stack research 2026-10-05: 4 searches + careers page check, no dev/IT postings found (wuzzuf shows no open jobs)"
+evidence:
+  - type: "official_website"
+    url: "https://www.jordanaviation.jo/"
+    label: "Official website"
+  - type: "other"
+    url: "https://en.wikipedia.org/wiki/Jordan_Aviation"
+    label: "Research source"
+  - type: "other"
+    url: "https://jo.wego.com/en/airlines/jordan-aviation-r5"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.969271,35.870596"
+    label: "Google Maps location"

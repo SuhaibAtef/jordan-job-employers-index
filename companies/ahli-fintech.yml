@@ -1,0 +1,43 @@
+name: "AHLI FINTECH"
+industry: "Fintech / Venture Studio & Accelerator"
+website: "https://ahlifintech.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "King Hussein Business Park, Building 19, Floor 1, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "fintech"
+  - "web"
+technologies:
+  - "Python"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Jordan Ahli Bank's wholly-owned fintech venture studio/accelerator (founded 2017), based at King Hussein Business Park Building 19; runs hackathons across 12 Jordanian universities plus a student incubator — strong fresh-grad pipeline.\nstack research 2026-10-04: 4 searches; one employee data point (RocketReach profile: 'Python Backend Engineer Internship @ Ahli Fintech', 2022) indicates Python backend; company is a fintech venture studio/accelerator (open banking APIs, sandbox) — single data point, stack left unverified."
+evidence:
+  - type: "official_website"
+    url: "https://ahlifintech.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://ahlifintech.com/2024/02/25/launch-of-the-second-cohort-of-the-ahli-fintech-accelerator-program/"
+    label: "Research source"
+  - type: "other"
+    url: "https://ahlifintech.com/2023/03/01/ahli-fintech-and-crown-prince-foundation-celebrate-successful-conclusion-of-second-hackathon/"
+    label: "Research source"
+  - type: "other"
+    url: "https://ahli.com/innovation-as-a-mindset/"
+    label: "Research source"
+  - type: "other"
+    url: "http://pitchbook.com/profiles/investor/437602-06"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

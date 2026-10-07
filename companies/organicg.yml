@@ -1,0 +1,37 @@
+name: "OrganicG"
+industry: "AgriTech / Organic Fertilizer"
+website: "https://organic-g.com"
+careers_url: null
+linkedin: null
+hr_email: "info@organic-g.com"
+size: null
+location:
+  area: "Amman"
+  address: "Wasfi Al-Tal Street, Amman"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "iot"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Turns organic waste into affordable high-efficiency organic fertilizers; joined Zain's ZINC accelerator (July 2025, JOD 10k + logistical support); GM Mousa Samara. More production than software - no IT roles evidenced. stack research 2026-10-05: 2 searches, no employee profiles or dev postings found; production-focused fertilizer startup, no IT roles evidenced."
+evidence:
+  - type: "official_website"
+    url: "https://organic-g.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://organic-g.com/blog/fertilizer-inputs/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanpulse.com/article/8725"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.foodnavigator.com/Article/2024/11/14/meet-the-14-agtech-start-ups-set-to-take-centre-stage-at-world-agri-tech-measa/?int_campaign=Headlines&int_campaign_type=Right_column"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

@@ -1,0 +1,49 @@
+name: "Hamilton Smart Technologies"
+industry: "Open-source ERP (Odoo) / digital transformation"
+website: "https://www.hst.jo/"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/89933672"
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Building 20, 1st Floor, King Hussein Business Park, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.971993
+  longitude: 35.833407
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.971993,35.833407"
+categories:
+  - "ai"
+  - "consulting"
+  - "data"
+  - "devops"
+  - "ecommerce"
+  - "erp"
+  - "mobile"
+technologies:
+  - "Odoo"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+    - "Junior"
+notes: "Amman-HQ Odoo Silver Partner (est. 2008) implementing open-source Odoo ERP plus BI, AI and cloud; also runs an omnichannel OXM platform. No public junior/intern program found."
+evidence:
+  - type: "official_website"
+    url: "https://www.hst.jo/"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/89933672"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://www.Odoo.com/nl_NL/partners/hamilton-smart-engineering-for-information-technology-10370828?grade_id=2&country_id=108"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.odoo.com/partners/grade/silver-2/country/jordan-108"
+    label: "Research source"
+  - type: "other"
+    url: "https://prospectoo.com/company/HamiltonSmartTechnologies-89933672/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.971993,35.833407"
+    label: "Google Maps location"

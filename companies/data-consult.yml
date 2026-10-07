@@ -1,0 +1,48 @@
+name: "Data Consult"
+industry: "IT Services / Systems Integration"
+website: "https://dcgroup.com"
+careers_url: "https://dcgroup.com/careers.html"
+linkedin: null
+hr_email: null
+size: "150+ professionals"
+location:
+  area: "Amman"
+  address: "85 Al Shareef Naser Bin Jameel St., Shmeisani, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.97777
+  longitude: 35.88853
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97777,35.88853"
+categories:
+  - "consulting"
+  - "devops"
+  - "security"
+  - "telecom"
+technologies:
+  - "Cisco"
+  - "Firewalls"
+  - "SOC"
+  - "VMware"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Established 1992 (HQ Lebanon, Jordan office in Shmeisani); enterprise systems integrator and managed-services provider serving government and telecom sectors; Jordan contact info_jordan@dcgroup.com, +962 6 565 2291; no public grad/internship info found."
+evidence:
+  - type: "official_website"
+    url: "https://dcgroup.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://dcgroup.com/careers.html"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://dcgroup.com/contact.html"
+    label: "Research source"
+  - type: "other"
+    url: "https://amcham.jo/?sptp_member=data-consult"
+    label: "Research source"
+  - type: "other"
+    url: "https://in.kompass.com/c/data-consult-s-a-l/lb000870/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97777,35.88853"
+    label: "Google Maps location"

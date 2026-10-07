@@ -1,0 +1,43 @@
+name: "TJDEED Technology"
+industry: "IT service management / cybersecurity"
+website: "https://www.tjdeed.com"
+careers_url: null
+linkedin: null
+hr_email: "info@tjdeed.com"
+size: "101-200"
+location:
+  area: "Amman"
+  address: "Mecca Street, Al Hussaini complex 147 (Al Saradeq), Floor No.3, Office No. 309, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.9758
+  longitude: 35.85881
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9758,35.85881"
+categories:
+  - "ai"
+  - "devops"
+  - "erp"
+  - "security"
+  - "support"
+technologies:
+  - "Azure"
+  - "EDR/XDR"
+  - "Microsoft 365"
+  - "SIEM"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+notes: "ManageEngine partner for ITSM/endpoint security (120+ staff, 7 offices); took part in Jan 2026 cybersecurity job fair for ~40 graduates - fresh-grad friendly. GPS upgraded to exact business-listing pin for their Amman HQ (Mecca St. 147, Al Hussaini complex); address verified on their contact page. stack verified 2026-10-07: System Engineer job posting on tjdeed.com lists cybersecurity (XDR, NDR, EDR, SIEM) and cloud (Azure/AWS) familiarity; corroborated by ManageEngine-partner ITSM work."
+evidence:
+  - type: "official_website"
+    url: "https://www.tjdeed.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://tjdeed.com/contact/"
+    label: "Research source"
+  - type: "other"
+    url: "https://entasher.com/agency/tjdeedtechnology"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9758,35.85881"
+    label: "Google Maps location"

@@ -1,0 +1,67 @@
+name: "UWallet"
+industry: "Financial Services / Fintech (mobile payments)"
+website: "https://uwallet.jo"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "25 Abdul Rahim Al-Waked Street, Shmeisani, Amman, Jordan"
+  status: "verified"
+  latitude: 31.967843
+  longitude: 35.9021763
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.967843,35.9021763"
+categories:
+  - "consulting"
+  - "data"
+  - "fintech"
+  - "mobile"
+technologies:
+  - "Android"
+  - "Mastercard"
+  - "Payment Gateway"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Central Bank of Jordan-licensed mobile wallet launched 2014 by an Umniah-led consortium (66% Umniah + six banks); past Amman job ads for Business Analyst/Back Office roles, recent Jordan Post digital-wallet partnership. No verifiable map pin found (building-level geocode failed; jordanict profile has no map); GPS remains Amman city-center approximation. Address corroborated by CB Insights HQ listing. | GPS VERIFIED 2026-10-05: current HQ is 25 Abdul Rahim Al-Waked St., Shmeisani, Amman (31.967843, 35.9021763) — stated on uwallet.jo's own contact page (EN+AR) and pinned on the same street by its Google Maps business listing. Old Mecca St./Al Hamdani Complex address appears outdated (2014 launch-era); address updated."
+evidence:
+  - type: "official_website"
+    url: "https://uwallet.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://uwallet.jo/en/contact-us/"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://uwallet.jo/%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%85%D8%B9%D9%86%D8%A7/"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/uwallet/@31.967843,35.9021763"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://uwallet.jo/en/about-us/"
+    label: "Research source"
+  - type: "other"
+    url: "https://uwallet.jo/en/faqs-2/"
+    label: "Research source"
+  - type: "other"
+    url: "https://uwallet.jo/en/uwallet-new-services/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.cbinsights.com/company/uwallet"
+    label: "Research source"
+  - type: "other"
+    url: "https://jordanict.com/company-profile/uwallet"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanpulse.com/article/14218"
+    label: "Research source"
+  - type: "other"
+    url: "https://everything.pk/jobs-detail-722211--business-analyst-officer-senior-officer-uwallet-jobs-in-amman-jordan.html"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.samenacouncil.org/samena_daily_news?news=81283"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.967843,35.9021763"
+    label: "Google Maps location"

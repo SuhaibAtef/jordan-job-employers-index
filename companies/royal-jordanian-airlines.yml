@@ -1,0 +1,48 @@
+name: "Royal Jordanian Airlines"
+industry: "Airline / aviation IT"
+website: "https://www.rj.com"
+careers_url: "https://careers.royaljordanian.com/"
+linkedin: "https://www.linkedin.com/company/royal-jordanian"
+hr_email: null
+size: "500+"
+location:
+  area: "Amman"
+  address: "Tripoli St, Zahran, Amman (Royal Jordanian HQ pin)"
+  status: "provided_unverified"
+  latitude: 31.95706
+  longitude: 35.87774
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95706,35.87774"
+categories:
+  - "ai"
+  - "consulting"
+  - "data"
+  - "travel"
+  - "web"
+technologies:
+  - ".NET"
+  - "HTML"
+  - "REST API"
+  - "SQL"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordan's national carrier; IT roles posted on their careers site include entry-level ones (e.g. E-Services Developer listed as 'Entry level, 0-2 years'). Audit 2026-10-03: GPS upgraded from fallback to geocoded 'Royal Jordanian' named place (Tripoli St, Zahran); previously listed address was 'Building 37, 5th Circle, Mohammad Ali Janah Street'. LinkedIn company URL verified via third-party profile pages."
+evidence:
+  - type: "official_website"
+    url: "https://www.rj.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://careers.royaljordanian.com/"
+    label: "Careers / application page"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/royal-jordanian"
+    label: "LinkedIn company page"
+  - type: "job_post"
+    url: "https://careers.royaljordanian.com/en/jordan/jobs/end-user-support-agent-5484433/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.globalterminalsinfo.com/royal-jordanian-airlines/royal-jordanian-bcn-terminal-barcelona-el-prat-airport/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95706,35.87774"
+    label: "Google Maps location"

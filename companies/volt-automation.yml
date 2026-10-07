@@ -1,0 +1,36 @@
+name: "Volt Automation"
+industry: "Industrial Automation / IIoT"
+website: "http://va.jo"
+careers_url: null
+linkedin: null
+hr_email: "info@va.jo"
+size: null
+location:
+  area: "Amman"
+  address: "80, Amir Ben Malek St., Khalda, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.98635
+  longitude: 35.84831
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.98635,35.84831"
+categories:
+  - "iot"
+technologies:
+  - "IoT"
+  - "PLC/SCADA"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman industrial-automation integrator (est. 2016); ABB partner implementing the ABB Genix Industrial IoT/AI Suite for Jordan's water sector with GIZ and the Water Authority of Jordan. Address and info@va.jo confirmed on official site (site gives no building/floor/postal detail)."
+evidence:
+  - type: "official_website"
+    url: "http://va.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.automation.com/article/jordan-water-industry-abb-digital-ai-technology-resource-scarcity"
+    label: "Research source"
+  - type: "other"
+    url: "https://h2oglobalnews.com/abb-jordan-digital-water-efficiency/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.98635,35.84831"
+    label: "Google Maps location"

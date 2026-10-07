@@ -1,0 +1,49 @@
+name: "Umniah"
+industry: "Mobile telecommunications"
+website: "https://www.umniah.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "1001-5000"
+location:
+  area: "Amman"
+  address: "Abdul Rahim Al-Waked St., Shmeisani, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.967905
+  longitude: 35.902783
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.967905,35.902783"
+categories:
+  - "data"
+  - "mobile"
+  - "telecom"
+  - "web"
+technologies:
+  - ".NET"
+  - "5G"
+  - "Fiber Networks"
+  - "PHP"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+    - "Graduate"
+notes: "Third mobile operator in Jordan (Batelco subsidiary); Youth Unit trained 400+ students/graduates; posted Network Engineer internships — fresh-grad friendly. Pin moved from city-center fallback to Umniah HQ pin from the company's own site data (address updated accordingly)."
+evidence:
+  - type: "official_website"
+    url: "https://www.umniah.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://en.wikipedia.org/wiki/Umniah"
+    label: "Research source"
+  - type: "other"
+    url: "https://rocketreach.co/umniah-profile_b5c64480f42e0cbe"
+    label: "Research source"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/network-engineer-internship-jea-at-umniah-4468551219"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.umniah.com/business/about-umniah/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.967905,35.902783"
+    label: "Google Maps location"

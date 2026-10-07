@@ -1,0 +1,45 @@
+name: "AI Makers"
+industry: "AI services / Software"
+website: "https://www.ai-makers.com/"
+careers_url: null
+linkedin: null
+hr_email: "hr@ai-makers.com"
+size: null
+location:
+  area: "Ma'an"
+  address: "Complex No 38, Khair Al Deen Al Maani St 38, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 32.01095
+  longitude: 35.83277
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.01095,35.83277"
+categories:
+  - "ai"
+  - "consulting"
+  - "data"
+  - "web"
+technologies:
+  - ".NET"
+  - "C#"
+  - "CSS"
+  - "Git"
+  - "HTML"
+  - "JavaScript"
+  - "SQL Server"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Junior"
+notes: "Amman AI/software studio building AI-powered solutions (MLOps, CI/CD, monitoring); hiring junior full-stack .NET developers (0-2 yrs) in Jordan via hr@ai-makers.com. Address confirmed on company site; pin reverse-geocodes to full address (Khair Al Deen Al Maani St 38, Sweileh, Amman)."
+evidence:
+  - type: "official_website"
+    url: "https://www.ai-makers.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/ai-makers-jo_hiring-dotnetdeveloper-fullstackdeveloper-activity-7469025305182007296-FtF1"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.yasteq.com/JO/Amman/102822608295408/AI-Makers"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.01095,35.83277"
+    label: "Google Maps location"

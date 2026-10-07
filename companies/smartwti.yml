@@ -1,0 +1,42 @@
+name: "SmartWTI"
+industry: "IoT / Smart Water Management (SaaS)"
+website: "https://smartwti.com/"
+careers_url: null
+linkedin: null
+hr_email: "info@smartwti.com"
+size: "2-10"
+location:
+  area: "Amman"
+  address: "Office No. 111, ground floor, building No. 7, King Hussein Complex for Business, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.97183
+  longitude: 35.83394
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+categories:
+  - "iot"
+  - "web"
+technologies:
+  - "IoT"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "IoT+AI water/energy management platform for municipalities, industry and farms; GSMA grant project 'Blue Future for Schools' (up to 40 schools in refugee-hosting communities); address confirmed on company store contact page but no GPS-level evidence, so pin stays a King Hussein area fallback; no public careers page seen."
+evidence:
+  - type: "official_website"
+    url: "https://smartwti.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://store.smartwti.com/contacts/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.entrepreneur.com/en-ae/starting-a-business/startup-spotlight-jordan-based-smart-wti-offers/463035"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.euroquity.com/en/company/smartwti"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/digital-grantees-portfolio/smartwti/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+    label: "Google Maps location"

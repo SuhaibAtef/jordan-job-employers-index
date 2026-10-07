@@ -1,0 +1,41 @@
+name: "Inspire for Solutions Development"
+industry: "IT Services / QA / DevOps Consulting"
+website: "https://inspirejo.com"
+careers_url: "https://inspirejo.com/vacancies/qa-engineer-vacancy-amman"
+linkedin: null
+hr_email: "career@inspirejo.com"
+size: null
+location:
+  area: "Amman"
+  address: "Amman, Jordan"
+  status: "approximate"
+  latitude: 31.95672
+  longitude: 35.92519
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+categories:
+  - "consulting"
+  - "devops"
+  - "qa"
+technologies:
+  - "Postman"
+  - "SoapUI"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "IT consultancy with QA (functional/non-functional, test automation, API testing) and DevOps (release automation, environment management) practices; actively hiring mid-level QA engineers in Amman (2-6 yrs) via its vacancies page."
+evidence:
+  - type: "official_website"
+    url: "https://inspirejo.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://inspirejo.com/vacancies/qa-engineer-vacancy-amman"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://inspirejo.com/quality-assurance"
+    label: "Research source"
+  - type: "other"
+    url: "https://inspirejo.com/devops"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+    label: "Google Maps location"

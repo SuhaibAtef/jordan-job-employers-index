@@ -1,0 +1,56 @@
+name: "ZainTECH"
+industry: "ICT / digital solutions (Zain Group)"
+website: "https://zaintech.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Abdallah Ghosheh St. 1, Amman"
+  status: "provided_unverified"
+  latitude: 31.959986
+  longitude: 35.857136
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.959986,35.857136"
+categories:
+  - "ai"
+  - "data"
+  - "devops"
+  - "iot"
+  - "security"
+  - "support"
+  - "telecom"
+  - "web"
+technologies:
+  - "Ansible"
+  - "AWS"
+  - "Azure"
+  - "CI/CD"
+  - "Cisco"
+  - "Kubernetes"
+  - "Linux"
+  - "Oracle Cloud"
+  - "Python"
+  - "SOC"
+  - "Terraform"
+  - "VPN"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Zain Group's ICT arm (est. 2021, absorbed STS); operates in Jordan; earned CREST SOC accreditation in Jordan — strong cybersecurity hiring signal. | stack verified 2026-10-04: ZainTECH job postings (Senior Support Engineer-Public Cloud: AWS/Azure/Oracle OCI; Cloud Network Engineer: Kubernetes, Terraform, Ansible, Cisco; Senior Cloud Engineer AWS: Python, CI/CD; SOC Analyst post: managed SOC)"
+evidence:
+  - type: "official_website"
+    url: "https://zaintech.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://jordanict.com/node/944"
+    label: "Research source"
+  - type: "other"
+    url: "https://cloudprwire.us/zaintech-earns-crest-accreditation-for-soc-excellence-in-jordan-and-ksa/"
+    label: "Research source"
+  - type: "other"
+    url: "http://www.zaintech.com/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.959986,35.857136"
+    label: "Google Maps location"

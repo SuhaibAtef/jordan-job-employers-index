@@ -1,0 +1,38 @@
+name: "Vortigate"
+industry: "AR/VR/XR development"
+website: "http://www.vortigate.com/"
+careers_url: null
+linkedin: null
+hr_email: "sales@vortigate.com"
+size: "10-49"
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "games"
+  - "web"
+technologies:
+  - "C#"
+  - "C++"
+  - "HTML"
+  - "Unity"
+  - "Unreal Engine"
+  - "Vuforia"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "AR/VR/MR studio founded 2023 in Amman (serving Saudi Arabia, Dubai, Jordan) building immersive VR/AR/MR experiences; homepage invites applicants via a 'Join Our Team' section (listed contact is sales@vortigate.com, no dedicated HR email)."
+evidence:
+  - type: "official_website"
+    url: "http://www.vortigate.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://clutch.co/profile/vortigate"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

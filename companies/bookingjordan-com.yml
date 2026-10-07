@@ -1,0 +1,41 @@
+name: "BookingJordan.com"
+industry: "Online Travel Agency / Tourism Platform"
+website: "https://www.bookingjordan.com/"
+careers_url: null
+linkedin: null
+hr_email: "info@bookingjordan.com"
+size: null
+location:
+  area: "Amman"
+  address: "6th Circle, Amman"
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories:
+  - "mobile"
+  - "travel"
+  - "web"
+technologies:
+  - "Android"
+  - "iOS"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman/Petra-based online travel shop for Jordan tours with secure online booking and billing; developing custom tourism software for personalized itineraries; has iOS and Android apps (app badges on homepage). Tripadvisor lists office at 6th Circle, Amman; no exact pin publicly available."
+evidence:
+  - type: "official_website"
+    url: "https://www.bookingjordan.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.bookingjordan.com/tours/ru/jordan/amman-hotels/petra-dead-sea-from-amman?date=29/03/2024&adults=1&category=3"
+    label: "Research source"
+  - type: "other"
+    url: "https://evintra-v3.s3.eu-central-1.amazonaws.com/destinations/8448/files/103783/aCqs3g6LQbkDT9z5bLaq12RUlKxVzoWRuamKR6KO.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.tripadvisor.co.za/Attraction_Review-g293986-d4059588-Reviews-Booking_Jordan_Tours-Amman_Amman_Governorate.html"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

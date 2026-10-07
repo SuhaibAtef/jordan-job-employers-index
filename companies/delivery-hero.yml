@@ -1,0 +1,44 @@
+name: "Delivery Hero"
+industry: "Food delivery technology"
+website: "https://www.deliveryhero.com"
+careers_url: "https://careers.deliveryhero.com"
+linkedin: "https://www.linkedin.com/company/delivery-hero-se"
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Qatari Jordanian Investment & Real Estate Development Co., Abdullah Ghosheh St. 44, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.96647
+  longitude: 35.85574
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96647,35.85574"
+categories:
+  - "ai"
+  - "logistics"
+  - "mobile"
+  - "web"
+technologies:
+  - "AI/ML"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Berlin-based global food-delivery tech company (talabat's parent); Jordan presence is via talabat: Amman office address per Delivery Hero's own talabat locations page, and actively hiring Amman roles (talabat-brand: sales coordinators, graphic designer, demand planning, etc.). Note: Uber launched a takeover offer for Delivery Hero shares in Jul 2026, expected H2 2027."
+evidence:
+  - type: "official_website"
+    url: "https://www.deliveryhero.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://careers.deliveryhero.com"
+    label: "Careers / application page"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/delivery-hero-se"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://careers.deliveryhero.com/locations-talabat"
+    label: "Research source"
+  - type: "other"
+    url: "https://ent.news/2026/7/853.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.96647,35.85574"
+    label: "Google Maps location"

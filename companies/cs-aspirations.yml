@@ -1,0 +1,43 @@
+name: "CS-Aspirations"
+industry: "Web & mobile development / digital agency"
+website: "https://www.cs-aspirations.com"
+careers_url: null
+linkedin: null
+hr_email: "info@cs-aspirations.com"
+size: "2-9"
+location:
+  area: "Amman"
+  address: "Amir Ben Malek St. 35, Khalda, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.9877
+  longitude: 35.84821
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9877,35.84821"
+categories:
+  - "data"
+  - "marketing"
+  - "mobile"
+  - "web"
+technologies:
+  - "Android"
+  - "Flutter"
+  - "iOS"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman digital agency (est. 2017, 2-9 employees) building custom mobile apps for Android and iOS, websites, e-commerce and SEO; 500+ projects per company site; public email info@cs-aspirations.com."
+evidence:
+  - type: "official_website"
+    url: "https://www.cs-aspirations.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.cs-aspirations.com/Article/300344/Website-Design-Jordan"
+    label: "Research source"
+  - type: "other"
+    url: "https://clutch.co/profile/cs-aspirations?project_cost=10000"
+    label: "Research source"
+  - type: "other"
+    url: "https://find-lead.com/cs-aspirations-details"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9877,35.84821"
+    label: "Google Maps location"

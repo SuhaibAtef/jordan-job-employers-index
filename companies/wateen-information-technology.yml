@@ -1,0 +1,49 @@
+name: "WATEEN Information Technology"
+industry: "Information Technology and Services"
+website: "http://wit-jo.com/"
+careers_url: null
+linkedin: null
+hr_email: "info@wit-jo.com"
+size: "10-50 employees"
+location:
+  area: "Amman"
+  address: "Office 809, AbulHaj Building, 148 Queen Rania Street, Jbeiha, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.99884
+  longitude: 35.88088
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99884,35.88088"
+categories:
+  - "consulting"
+  - "devops"
+  - "erp"
+  - "security"
+technologies:
+  - "Azure"
+  - "Firewalls"
+  - "Microsoft 365"
+  - "SIEM"
+  - "Veeam"
+  - "VMware"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman IT services firm founded 2008 (10-50 employees); secure infrastructure, cloud, servers, HCI, intelligent switching and traffic aggregation with data-protection/cybersecurity services."
+evidence:
+  - type: "official_website"
+    url: "http://wit-jo.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.signalhire.com/companies/wateen-information-technology-jordan"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.selling.com/company/wateen-information-technology/190289587"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.open-e.com/buy/open-e-partners/wateen-information-technology/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.rasmal.com/cybersecurity-companies-in-jordan/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99884,35.88088"
+    label: "Google Maps location"

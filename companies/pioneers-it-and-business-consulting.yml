@@ -1,0 +1,30 @@
+name: "Pioneers IT & Business Consulting"
+industry: "IT consulting (Microsoft Dynamics)"
+website: "https://pioneersconsult.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Muhammad Suleiman St, Amman"
+  status: "approximate"
+  latitude: 31.978299
+  longitude: 35.843241
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.978299,35.843241"
+categories:
+  - "consulting"
+  - "erp"
+technologies:
+  - "Microsoft Dynamics 365"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Microsoft Dynamics / CloudOffix partner founded 2009, operating in Jordan and KSA, providing business applications consulting; street-level pin from business listing."
+evidence:
+  - type: "official_website"
+    url: "https://pioneersconsult.com"
+    label: "Official website"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.978299,35.843241"
+    label: "Google Maps location"

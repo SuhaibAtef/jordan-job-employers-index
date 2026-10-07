@@ -1,0 +1,44 @@
+name: "Robotack"
+industry: "Customer Loyalty & Engagement"
+website: "https://robotack.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Seventh Circle, Om Al-Ezz Ben Abd As-Salam Street, Al-Husseini Compound, 5th Floor, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.96574
+  longitude: 35.85969
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96574,35.85969"
+categories:
+  - "games"
+  - "mobile"
+  - "telecom"
+  - "web"
+technologies:
+  - ".NET"
+  - "Android"
+  - "Java"
+  - "SMS Gateway"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman customer engagement platform (founded 2017); RoboCard loyalty product with gamification, conversational commerce and messaging for brands.\nstack verified 2026-10-07: 2 Bayt employee profiles (Android Developer at Robotack 2018-2020; Full-Stack Java Web Developer 2018-2020, loyalty systems/SQL) + Selling.com technographic ASP.NET."
+evidence:
+  - type: "official_website"
+    url: "https://robotack.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://selling.com/company/robotack/132834056"
+    label: "Research source"
+  - type: "other"
+    url: "https://bouncewatch.com/company/robotack"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375761/Robotack"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.96574,35.85969"
+    label: "Google Maps location"

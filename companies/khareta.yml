@@ -1,0 +1,39 @@
+name: "Khareta"
+industry: "PropTech / Real Estate Marketplace"
+website: "https://khareta.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Dabouq, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.99144
+  longitude: 35.82048
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99144,35.82048"
+categories:
+  - "ecommerce"
+  - "proptech"
+technologies: []
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+notes: "Data-driven real estate marketplace (est. 2019); Flat6Labs Amman cycle-2 graduate with US$120K seed; verified listings via website and mobile apps. stack research 2026-10-04: 4 searches, no employee profiles or dev postings found (attempt 1 of 3)"
+evidence:
+  - type: "official_website"
+    url: "https://khareta.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.cbinsights.com/company/khareta"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.top-rated.online/cities/Dabouq/place/p/15184271/Khareta"
+    label: "Research source"
+  - type: "other"
+    url: "https://scceu.org/flat6labs-invests-in-seven-jordanian-startups/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99144,35.82048"
+    label: "Google Maps location"

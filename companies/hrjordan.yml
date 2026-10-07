@@ -1,0 +1,37 @@
+name: "HRJordan"
+industry: "HR Outsourcing / Payroll / EOR"
+website: "https://hrjordan.com"
+careers_url: null
+linkedin: null
+hr_email: "info@hrjordan.com"
+size: "2-9"
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories:
+  - "consulting"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-based HR outsourcing, payroll and Employer of Record provider with Jordan labor-law compliance focus; publishes hiring guides for Jordanian SMEs. | stack research 2026-10-06: 2 searches; HR outsourcing/payroll/EOR provider, 2-9 staff per Clutch; no employee profiles or dev postings found"
+evidence:
+  - type: "official_website"
+    url: "https://hrjordan.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://hrjordan.com/blog/hiring-guide-for-smes"
+    label: "Research source"
+  - type: "other"
+    url: "https://clutch.co/profile/hrjordan"
+    label: "Research source"
+  - type: "other"
+    url: "https://medium.com/@yomly-hr-payroll-software-uae/top-10-payroll-software-for-jordan-2026-list-1c1ccc8ed856"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

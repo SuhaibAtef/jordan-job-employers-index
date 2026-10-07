@@ -1,0 +1,36 @@
+name: "Host Jordan"
+industry: "Web hosting & cloud"
+website: "https://hostjordan.com"
+careers_url: null
+linkedin: null
+hr_email: "cloud@hostjordan.com"
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories:
+  - "devops"
+  - "security"
+  - "web"
+technologies:
+  - "PHP"
+  - "VPS Hosting"
+  - "WordPress"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordanian hosting company (est. 2007) with engineers in Amman running cPanel shared hosting, .jo domain registration, VPS and dedicated servers on its own platform; support by local engineers."
+evidence:
+  - type: "official_website"
+    url: "https://hostjordan.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.jordanyp.com/category/web_hosting/city:Amman"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

@@ -1,0 +1,46 @@
+name: "Applied Science Private University (ASU)"
+industry: "Higher Education / Private University"
+website: "https://www.asu.edu.jo/en/Pages/default.aspx"
+careers_url: null
+linkedin: null
+hr_email: "info@asu.edu.jo"
+size: "349 faculty members"
+location:
+  area: "Amman"
+  address: "Al Arab Street 21, Shafa Badran, Amman 11937"
+  status: "provided_unverified"
+  latitude: 32.04001
+  longitude: 35.9004
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.04001,35.9004"
+categories:
+  - "ai"
+  - "devops"
+  - "edtech"
+  - "iot"
+  - "telecom"
+technologies:
+  - "Cisco"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Academy"
+notes: "Largest private university in Jordan (est. 1991, 349 faculty) with a Faculty of IT (Computer Science, Software Engineering, Data Science & AI), a Cisco academy, and Pearson-BTEC computing diplomas; runs an Innovation Center and Entrepreneurship hub."
+evidence:
+  - type: "official_website"
+    url: "https://www.asu.edu.jo/en/Pages/default.aspx"
+    label: "Official website"
+  - type: "other"
+    url: "http://www.asu.edu.jo/en/About-ASU/Pages/History-of-the-University.aspx"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.asu.edu.jo:443/en/ASU-Center/ICE/Pages/team.aspx"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.asu.edu.jo/en/it/i_mashal/Pages/Personal-Information.aspx"
+    label: "Research source"
+  - type: "other"
+    url: "http://www.asu.edu.jo/en/Technical_College/Pages/About-College.aspx"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.04001,35.9004"
+    label: "Google Maps location"

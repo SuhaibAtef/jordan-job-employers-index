@@ -1,0 +1,50 @@
+name: "99brightminds"
+industry: "IT outsourcing / offshore development centers"
+website: "https://99brightminds.com"
+careers_url: null
+linkedin: null
+hr_email: "info@99brightminds.com"
+size: "10-49"
+location:
+  area: "Amman"
+  address: "Office 101, Bld. No. 249, Wasfi Al Tal St., Khalda, Amman, Jordan"
+  status: "verified"
+  latitude: 31.99725
+  longitude: 35.84949
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99725,35.84949"
+categories:
+  - "consulting"
+  - "devops"
+  - "web"
+technologies:
+  - "AWS"
+  - "Docker"
+  - "Java"
+  - "Kubernetes"
+  - "Node.js"
+  - "PHP"
+  - "Python"
+  - "React"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-based IT outsourcing firm building offshore development centers and staff-augmentation teams for GCC/EU clients; actively delivering engineering teams in Jordan. Street-level GPS: Wasfi Al Tal St., Khalda (address confirmed on their contact page). | GPS verified 2026-10-03: official contact page and Clutch.co profile both list Office 101, Bld. 249, Wasfi Al Tal St., Khalda; pin geocodes to Wasfi Al Tal St, Khalda. | Note 2026-10-03: a sparse unclaimed Google business listing labeled 'brightminds, Queen Rania St 337' (categorized as Education center, 1 review) pins ~2.9km away at 32.0212614,35.8614879 — conflicts with the company's own contact page + Clutch (Wasfi Al Tal St., Khalda); kept the company-published address as authoritative."
+evidence:
+  - type: "official_website"
+    url: "https://99brightminds.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://99brightminds.com/contact/"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://clutch.co/profile/99brightminds?verified=true"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://99brightminds.com/services/"
+    label: "Research source"
+  - type: "other"
+    url: "https://clutch.co/profile/99brightminds"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99725,35.84949"
+    label: "Google Maps location"

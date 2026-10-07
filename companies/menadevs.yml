@@ -1,0 +1,43 @@
+name: "MENADevs"
+industry: "AI / Talent development"
+website: "https://www.menadevs.jo"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "120+"
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "ai"
+  - "data"
+  - "devops"
+  - "web"
+technologies:
+  - "AI/ML"
+  - "AWS"
+  - "Generative AI"
+  - "Laravel"
+  - "Node.js"
+  - "PostgreSQL"
+  - "Python"
+  - "React"
+  - "Vue.js"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman startup empowering youth in AI with 120+ programmers and data engineers; ran a Generative AI hackathon with Jordan Source; careers advertised via menadevs.jo.; stack verified 2026-10-06: Foundit posting 'Senior Applied AI Engineer at MENADevs' requires Python for AI/ML + LLM systems; employee GitHub/CVs show Laravel, Vue.js, AWS, React, Node.js, PostgreSQL; staff are AI/prompt engineers (RLHF, SFT)."
+evidence:
+  - type: "official_website"
+    url: "https://www.menadevs.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://jordansource.com/en/Blog/39"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

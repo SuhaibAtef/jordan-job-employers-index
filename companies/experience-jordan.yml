@@ -1,0 +1,42 @@
+name: "Experience Jordan"
+industry: "Adventure Tour Operator / Tourism Platform"
+website: "https://www.experiencejordan.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Abd Ar-Rahim Al-Hajj Muhammad St. 41, Amman 11185"
+  status: "provided_unverified"
+  latitude: 31.958854
+  longitude: 35.864157
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.958854,35.864157"
+categories:
+  - "travel"
+  - "web"
+technologies:
+  - "WordPress"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman adventure tour operator (Experience Jordan Adventures) with online booking for hiking/trekking tours (Dana, Petra, Wadi Rum)."
+evidence:
+  - type: "official_website"
+    url: "https://www.experiencejordan.com/"
+    label: "Official website"
+  - type: "other"
+    url: "http://www.experiencejordan.com/wp-content/uploads/2016/01/Experience-Jordan-Adventure-Tour-Operator-160106.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.budgetyourtrip.com/jordan/tours-t_hiking"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.top-rated.online/cities/Wadi+Al-Seer/place/p/1872404/Experience+Jordan+Adventures"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.tripadvisor.ca/ShowUserReviews-g293986-d4400471-r942332540-Experience_Jordan_Adventures-Amman_Amman_Governorate.html"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.958854,35.864157"
+    label: "Google Maps location"

@@ -1,0 +1,55 @@
+name: "Quark Software"
+industry: "Web & mobile development"
+website: "https://www.quarksoftware.net"
+careers_url: null
+linkedin: null
+hr_email: "info@quarksoftware.net"
+size: "10-49"
+location:
+  area: "Amman"
+  address: "Al Jubaiha, Amman 11941"
+  status: "verified"
+  latitude: 32.0285209
+  longitude: 35.8685498
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.0285209,35.8685498"
+categories:
+  - "data"
+  - "design"
+  - "mobile"
+  - "web"
+technologies:
+  - "Dart"
+  - "Flutter"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Small Amman web dev firm (est. 2019) doing web, mobile apps and UX/UI; clients include Zain Jordan. No public internship/fresh-grad programme found. | stack check 2026-10-04: tried 4 searches + site fetch; only directory-level info (The Manifest: founded 2019, web + mobile app dev) and services marketing copy; no employee/job-posting evidence — left unverified | stack verified 2026-10-04: 2 employee profiles (Flutter dev on Twine 2023-2025; Flutter dev intern on GitHub) + directory services listing all show Flutter app development; added Flutter, Dart. | gps 2026-10-05 VERIFIED: official contact page + footer say Al Jubaiha; the site's embedded Google map pin shares the exact same place ID as the claimed/maintained Google listing (owner photos, hours, site+phone match, owner reply to review) at 32.0285209,35.8685498 near Fares As-Saoudi St/Yajouz Rd; StartupsJo office pin ~15-20m away; Clutch snippet, LinkedIn (Amman), FB page title all agree. No street-level address published anywhere."
+evidence:
+  - type: "official_website"
+    url: "https://www.quarksoftware.net"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.quarksoftware.net/en/contact-us"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/Quark+Software/"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.startupsjo.com/en/Pages/CustomPages/Startup/676"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://clutch.co/profile/quark-software"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.linkedin.com/company/quark-software"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.facebook.com/quark.software"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://themanifest.com/company/quark-software"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.0285209,35.8685498"
+    label: "Google Maps location"

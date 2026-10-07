@@ -1,0 +1,35 @@
+name: "Schneider Electric"
+industry: "Energy management / Industrial automation"
+website: "https://www.se.com/jo/en/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Rizeq Rashdan St, Bldg 13, 2nd floor, Shmeisani (behind Housing Bank), Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.962777
+  longitude: 35.844106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.962777,35.844106"
+categories:
+  - "iot"
+technologies:
+  - "PLC/SCADA"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "French energy-tech multinational's Jordan office on Rizeq Rashdan St, Shmeisani (electrification, automation, digitalization); active business listing 'Schneider Electric Jordan' confirms this pin and phone +962 6 516 7887; public contact customercare.jo@schneider-electric.com is customer care, not HR."
+evidence:
+  - type: "official_website"
+    url: "https://www.se.com/jo/en/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/330031/Schneider_Electric"
+    label: "Research source"
+  - type: "other"
+    url: "https://meta.ai?place_id=1120345373167025"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.962777,35.844106"
+    label: "Google Maps location"

@@ -1,0 +1,65 @@
+name: "Devorise AI"
+industry: "AI Consulting / Agentic AI"
+website: "https://devorise.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "10-49"
+location:
+  area: "Amman"
+  address: "Alhusseini Complex, Al Ezz Ben Abd As Salam, 7th Circle 10, Amman, Jordan"
+  status: "verified"
+  latitude: 31.9582488
+  longitude: 35.8554668
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9582488,35.8554668"
+categories:
+  - "ai"
+  - "consulting"
+  - "data"
+  - "devops"
+  - "web"
+technologies:
+  - "Docker"
+  - "Generative AI"
+  - "PostgreSQL"
+  - "Prisma"
+  - "REST API"
+  - "TypeScript"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman AI studio (founded 2023) designing and deploying autonomous agentic AI systems; ships AI booking agents with WhatsApp integration. [GPS verified 2026-10-05: Google Maps pin (owner-managed listing) at Alhusseini Complex, 7th Circle, Amman matches company site's \"Based at the 7th Circle in Amman\".]"
+evidence:
+  - type: "official_website"
+    url: "https://devorise.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://devorise.com/ (footer: \"Based at the 7th Circle in Amman\")"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/Devorise+Ai/@31.9582488,35.8528919,17z (owner-managed listing, pin 31.9582488,35.8554668)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://clutch.co/profile/devorise-ai (Amman, Jordan)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://themanifest.com/company/devorise-ai (Amman, Jordan)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.linkedin.com/company/devoriseai (HQ: Amman, Amman)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://clutch.co/profile/devorise-ai"
+    label: "Research source"
+  - type: "other"
+    url: "https://devorise.com/blog"
+    label: "Research source"
+  - type: "other"
+    url: "https://github.com/devorise-ai/al-daoud-v1"
+    label: "Research source"
+  - type: "other"
+    url: "http://themanifest.com/jo/artificial-intelligence/companies/amman"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9582488,35.8554668"
+    label: "Google Maps location"

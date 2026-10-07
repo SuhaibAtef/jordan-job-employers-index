@@ -1,0 +1,45 @@
+name: "INJAZ"
+industry: "Nonprofit / Youth Employability & Training"
+website: "https://www.injaz.org.jo"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/injaz-jordan"
+hr_email: "hr-careers@injaz.org.jo"
+size: "201-500 employees"
+location:
+  area: "Amman"
+  address: "6 Al-Sakhra Al-Musharrafah Street, Abdoun, Amman"
+  status: "provided_unverified"
+  latitude: 31.95185
+  longitude: 35.89474
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95185,35.89474"
+categories:
+  - "ai"
+  - "data"
+technologies: []
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Leading Jordanian youth-employability nonprofit (est. 1999, 800,000+ beneficiaries, 201-500 staff); runs digital and financial-literacy programs, internships, job fairs and entrepreneurship training; regularly hiring (CVs to hr-careers@injaz.org.jo).\nstack research 2026-10-05: 3 searches, no employee dev profiles or engineering job postings found (wuzzuf hits were for a different company, Injaz Digital Egypt); INJAZ Jordan is a youth-employability nonprofit with no in-house software engineering team evident."
+evidence:
+  - type: "official_website"
+    url: "https://www.injaz.org.jo"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/injaz-jordan"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://leadiq.com/c/injaz-jordan/5a1d9ca32300005e008c6143/email-format"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.highperformr.ai/company/injaz-jordan"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.brookings.edu/wp-content/uploads/2016/07/FINAL-INJAZ-Case-Study.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/injaz-jordan_were-hiring-partnership-officer-location-activity-7472924373197381632-C9cv"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95185,35.89474"
+    label: "Google Maps location"

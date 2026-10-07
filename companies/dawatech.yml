@@ -1,0 +1,40 @@
+name: "Dawatech"
+industry: "HealthTech / Pharmacy SaaS (POS)"
+website: "https://dawatech.com/"
+careers_url: null
+linkedin: null
+hr_email: "info@dawatech.com"
+size: null
+location:
+  area: "Amman"
+  address: "49 Yathreb St, Dabouq, Amman"
+  status: "provided_unverified"
+  latitude: 32.015051
+  longitude: 35.833482
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.015051,35.833482"
+categories:
+  - "fintech"
+  - "healthtech"
+  - "web"
+technologies: []
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Jordan pharmacy management SaaS (POS, digital inventory, accounting, B2B marketplace) founded by pharmacist Mohammad Musleh; ~40% of Jordanian community pharmacies use it; 7-figure seed led by Access Bridge Ventures. No public internship postings found. stack research 2026-10-05: 5 searches incl. employee snippets, getprog/akhtaboot site queries, Arabic job postings + company site opened; no employee profiles or dev job postings found"
+evidence:
+  - type: "official_website"
+    url: "https://dawatech.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://dawatech.com/contactus"
+    label: "Research source"
+  - type: "other"
+    url: "https://dawatech.com/blog/dawatech-blog-1/post/pharmacy-management-system-control-your-pharmacy-with-ease-3"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.startupmgzn.com/english/news/jordan-based-dawatech-secures-a-7-digit-seed-investment/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.015051,35.833482"
+    label: "Google Maps location"

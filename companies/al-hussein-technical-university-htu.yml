@@ -1,0 +1,49 @@
+name: "Al Hussein Technical University (HTU)"
+industry: "Higher Education / Technical University"
+website: "https://htu.edu.jo"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/al-hussein-technical-university-htu"
+hr_email: "jobs@htu.edu.jo"
+size: "51-200 employees"
+location:
+  area: "Amman"
+  address: "King Hussein Business Park, Building 17, Amman"
+  status: "provided_unverified"
+  latitude: 31.97244
+  longitude: 35.83253
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97244,35.83253"
+categories:
+  - "design"
+  - "devops"
+  - "edtech"
+  - "iot"
+technologies:
+  - "AWS"
+  - "BIM"
+  - "Embedded Systems"
+  - "LMS"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+    - "Trainee"
+notes: "Crown Prince Foundation technical university with hands-on engineering and IT degrees; runs HTUx free upskilling tracks and an 18-month Semiconductor Champions program for fresh engineering graduates; actively hiring instructors and teaching assistants. stack verified 2026-10-06: Moodle plugin developer + AWS cloud trainee employee profiles; instructor vacancies require Revit/BIM; added Moodle, AWS, Autodesk Revit."
+evidence:
+  - type: "official_website"
+    url: "https://htu.edu.jo"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/al-hussein-technical-university-htu"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://htu.edu.jo/news/al-hussein-technical-university-(htu)-hosts-inaugural-htux-2033-conference:-fast-tracks-to-the-future-of-learning-and-work"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/al-hussein-technical-university-htu_become-a-semiconductor-champion-the-activity-7482373259896909824-5d7M"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/al-hussein-technical-university-htu_joinus-htu-hiring-activity-7501250503100657664--YC4"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97244,35.83253"
+    label: "Google Maps location"

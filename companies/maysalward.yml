@@ -1,0 +1,52 @@
+name: "Maysalward"
+industry: "Video Games"
+website: "https://maysalward.com"
+careers_url: "https://maysalward.com/careers"
+linkedin: null
+hr_email: "info@maysalward.com"
+size: null
+location:
+  area: "Amman"
+  address: "The Abdali, The Boulevard Avenue, Rafiq Al Hariri Street, Central Square, Entrance 3, Amman"
+  status: "provided_unverified"
+  latitude: 31.96182
+  longitude: 35.89088
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96182,35.89088"
+categories:
+  - "data"
+  - "games"
+  - "mobile"
+  - "web"
+technologies:
+  - "C#"
+  - "iOS"
+  - "MySQL"
+  - "OpenGL"
+  - "PHP"
+  - "Unity"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "First Middle Eastern mobile game studio (founded 2003), titles like Dominoes Pro and Trix Plus with 100+ games on App Store/Google Play; co-founded and managed the Jordan Gaming Lab (2011-2026); over 50% of team are women. Careers page lists open Unity and iOS developer roles and runs youth training programs and game dev challenges — strong fresh-grad pipeline."
+evidence:
+  - type: "official_website"
+    url: "https://maysalward.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://maysalward.com/careers"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://maysalward.com/aboutus"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.pocketgamer.biz/the-top-30-mena-game-makers-of-2025/"
+    label: "Research source"
+  - type: "other"
+    url: "https://maysalward.com/a-look-into-the-future-of-mobile-gaming-in-the-arab-world-through-jordan"
+    label: "Research source"
+  - type: "other"
+    url: "https://maysalward.com/contact"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.96182,35.89088"
+    label: "Google Maps location"

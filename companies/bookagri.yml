@@ -1,0 +1,38 @@
+name: "Bookagri"
+industry: "AgriTech / AgriTourism"
+website: "https://bookagri.com"
+careers_url: null
+linkedin: null
+hr_email: "info@bookagri.com"
+size: null
+location:
+  area: "Amman"
+  address: "Marj Al-Hamam, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "iot"
+  - "travel"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Agritourism booking platform connecting visitors with 30+ farm experiences across Jordan; founded 2015 by Rudaina Haddad; supports rural self-employment. No public hiring page found. | stack research 2026-10-05: 3 searches, no employee dev profiles or dev postings found (founder/CEO non-technical; company-published Android app v1.4, 2022 on APKPure exists but no staff evidence ties it to internal tech)."
+evidence:
+  - type: "official_website"
+    url: "https://bookagri.com"
+    label: "Official website"
+  - type: "other"
+    url: "http://mc-5126cf56-570a-4992-b7aa-ea41-cd.azurewebsites.net/en/explore-jordan/sustainable-ecotourism/sustainable-experiences/bookagri"
+    label: "Research source"
+  - type: "other"
+    url: "https://vc4a.com/medup/blog/bookagri-the-story-of-rudaina-haddad/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.sitelike.org/similar/bookagri.com/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

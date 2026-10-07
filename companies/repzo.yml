@@ -1,0 +1,50 @@
+name: "Repzo"
+industry: "Sales Force Automation / SaaS"
+website: "https://repzo.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "26 Utbah Bin Ghazwan Street, Amman 11183, Jordan"
+  status: "provided_unverified"
+  latitude: 31.9889
+  longitude: 35.85267
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9889,35.85267"
+categories:
+  - "ai"
+  - "data"
+  - "erp"
+  - "mobile"
+  - "web"
+technologies:
+  - "Android"
+  - "Computer Vision"
+  - "CSS"
+  - "iOS"
+  - "jQuery"
+  - "Zoho"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-based mobile CRM with reporting, forecasting and analytics for field sales teams; adding AI capabilities and image recognition across MENA."
+evidence:
+  - type: "official_website"
+    url: "https://repzo.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://leadiq.com/c/repzo-inc/5a1db3cd2300005400ad45df"
+    label: "Research source"
+  - type: "other"
+    url: "https://laffaz.com/jordan-based-repzo-raises-750k-in-series-a-round-led-by-jabbar/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.startupmgzn.com/english/news/repzo-raises-750000-usd-in-pre-series-a-round-led-by-jabbar/"
+    label: "Research source"
+  - type: "other"
+    url: "https://pitchbook.com/profiles/company/233074-99"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9889,35.85267"
+    label: "Google Maps location"

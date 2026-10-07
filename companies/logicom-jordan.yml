@@ -1,0 +1,46 @@
+name: "Logicom Jordan"
+industry: "IT distribution / managed services"
+website: "https://www.logicom.net"
+careers_url: "https://www.logicom.net/careers/distribution/jordan/presales-engineer-ibm-software-cloud-logicom-distribution-amman-jordan/"
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Jordan Trade Center, Queen Rania St 134, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.997809
+  longitude: 35.882345
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.997809,35.882345"
+categories:
+  - "consulting"
+  - "devops"
+  - "security"
+  - "support"
+  - "telecom"
+technologies:
+  - "Cisco"
+  - "EDR/XDR"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Regional IT distributor and solutions provider (Logicom Group, listed on Cyprus Stock Exchange); active careers page with Amman postings, e.g. Presales Engineer (IBM Software & Cloud). GPS upgraded to Logicom's own distribution-site business pin at Jordan Trade Center, Queen Rania St 134 (jordanyp lists a Samar Qand, Rabieh address). stack verified 2026-10-06: official logicom.net Amman postings for IBM Software & Cloud, Cisco, Sophos presales/product roles + employee profile (Networking, C, SQL)."
+evidence:
+  - type: "official_website"
+    url: "https://www.logicom.net"
+    label: "Official website"
+  - type: "careers"
+    url: "https://www.logicom.net/careers/distribution/jordan/presales-engineer-ibm-software-cloud-logicom-distribution-amman-jordan/"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://www.jordanyp.com/companies/لوجيكوم_الاردن"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.intel.com/content/www/us/en/partner/showcase/storefront/a5S3b0000002keiEAA/logicom-jordan.html"
+    label: "Research source"
+  - type: "other"
+    url: "https://distribution.logicom.net/countries/jordan/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.997809,35.882345"
+    label: "Google Maps location"

@@ -1,0 +1,38 @@
+name: "CyberEcho"
+industry: "Computer and Network Security"
+website: "https://cyberecho.io"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Amman, Jordan (offices in Dubai)"
+  status: "approximate"
+  latitude: 31.95672
+  longitude: 35.92519
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+categories:
+  - "devops"
+  - "security"
+technologies:
+  - "CI/CD"
+  - "IAM"
+  - "SOC"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Cyber security consultancy HQ'd in Amman with Dubai offices (int@j member); subscription packaged services for startups/fintechs - external/internal/web/mobile/physical/wireless pen testing, incident response, virtual CISO, DevSecOps pipeline security."
+evidence:
+  - type: "official_website"
+    url: "https://cyberecho.io"
+    label: "Official website"
+  - type: "other"
+    url: "https://intaj.net/newsletter/3rd-week-of-september-2022/"
+    label: "Research source"
+  - type: "other"
+    url: "https://sitesmm.com/cyberecho.io/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+    label: "Google Maps location"

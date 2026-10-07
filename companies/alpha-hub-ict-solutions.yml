@@ -1,0 +1,46 @@
+name: "Alpha Hub ICT Solutions"
+industry: "Cybersecurity / Networking"
+website: "https://www.alpha-hub.com"
+careers_url: null
+linkedin: null
+hr_email: "info@alpha-hub.com"
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Crown Complex, 3rd floor, Shtana St., Khalda, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.979761
+  longitude: 35.851314
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.979761,35.851314"
+categories:
+  - "security"
+technologies:
+  - "EDR/XDR"
+  - "Penetration Testing"
+  - "SOC"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman cybersecurity solutions provider (est. 2005) offering threat intelligence, incident response and network/IP-telephony security; Gold Sponsor of the World Cyber Security Summit Jordan."
+evidence:
+  - type: "official_website"
+    url: "https://www.alpha-hub.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.zoominfo.com/c/alpha-hub/354514403"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.crunchbase.com/organization/alpha-hub-ict-solutions"
+    label: "Research source"
+  - type: "other"
+    url: "https://intaj.net/user/2227/"
+    label: "Research source"
+  - type: "other"
+    url: "https://u.today/press-releases/world-cyber-security-summit-in-jordan-brought-together-global-cyber-security-experts"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/category/Cyber_Security/city:Amman"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.979761,35.851314"
+    label: "Google Maps location"

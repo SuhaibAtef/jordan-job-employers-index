@@ -1,0 +1,57 @@
+name: "BitOasis"
+industry: "Crypto Exchange / Fintech"
+website: "https://bitoasis.net"
+careers_url: "https://careers.smartrecruiters.com/Bitoasis/"
+linkedin: "https://www.linkedin.com/company/bitoasis-technologies-fze/"
+hr_email: null
+size: "51-200"
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "fintech"
+  - "mobile"
+technologies:
+  - "Android"
+  - "Flutter"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Fresh graduate"
+    - "Graduate"
+notes: "Largest MENA crypto exchange (acquired by CoinDCX), HQ Dubai, with an Amman office (~33+ people per The Org) — no Amman street address evidenced; DrJob Amman postings accept fresh graduates / up to 1 year of experience, and QA roles are based in Amman, Jordan."
+evidence:
+  - type: "official_website"
+    url: "https://bitoasis.net"
+    label: "Official website"
+  - type: "careers"
+    url: "https://careers.smartrecruiters.com/Bitoasis/"
+    label: "Careers / application page"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/bitoasis-technologies-fze/"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://web3.career/web3-companies/bitoasis+amman"
+    label: "Research source"
+  - type: "job_post"
+    url: "https://www.drjobpro.com/jordan/jobs/client-payment-officer-limited-contract-6-months-amman-bitoasis-MRSFHZNR3P8RK9U"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.drjobpro.com/bitoasis-careers-cid-i289917"
+    label: "Research source"
+  - type: "other"
+    url: "https://leadiq.com/c/bitoasis/5a1d833c24000024005deec8"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.crypto-reporter.com/press-releases/indias-largest-crypto-exchange-coindcx-acquires-mena-regions-crypto-leader-bitoasis-69577/"
+    label: "Research source"
+  - type: "other"
+    url: "http://finberg.com.tr/portfolyo_sirketler/bitoasis/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

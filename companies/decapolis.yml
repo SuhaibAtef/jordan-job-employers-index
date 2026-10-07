@@ -1,0 +1,40 @@
+name: "Decapolis"
+industry: "AgriTech / Food Safety"
+website: "https://decapolis.io"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "25-100"
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "iot"
+  - "web"
+technologies:
+  - "Blockchain"
+  - "IoT"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Blockchain food-safety traceability platform (Decapolis Food Guard, QR-code farm-to-fork records); Fresh Del Monte took a 39% stake in 2022; ~25-100 staff per Owler. No public entry-level hiring page found."
+evidence:
+  - type: "official_website"
+    url: "https://decapolis.io"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.cbinsights.com/company/decapolis"
+    label: "Research source"
+  - type: "other"
+    url: "https://itbusinessnet.com/2022/10/fresh-del-monte-and-tech-start-up-decapolis-join-forces-to-provide-industrywide-blockchain-traceability-solutions/"
+    label: "Research source"
+  - type: "other"
+    url: "https://food.greyb.com/blog/blockchain-food-traceability-startups/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

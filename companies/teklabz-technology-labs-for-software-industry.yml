@@ -1,0 +1,38 @@
+name: "TEKLABZ (Technology Labs for Software Industry)"
+industry: "GIS / Geospatial Software (telecom)"
+website: "http://teklabz.com/"
+careers_url: null
+linkedin: null
+hr_email: "info@teklabz.com"
+size: "11-50"
+location:
+  area: "Amman"
+  address: "58 Prince Shaker Bin Zayd, Floor 1, Suite 4, Shemisani, Amman 11194, Jordan"
+  status: "provided_unverified"
+  latitude: 31.9664
+  longitude: 35.89321
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9664,35.89321"
+categories:
+  - "data"
+  - "telecom"
+  - "web"
+technologies:
+  - "GIS"
+  - "React"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman GIS consultancy (Esri + Ericsson partner) building geo-spatial network inventory systems for telecom operators; address and info@teklabz.com confirmed in their own Schematics Generator deck; public job postings for JS/React developers with GIS knowledge."
+evidence:
+  - type: "official_website"
+    url: "http://teklabz.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.slideshare.net/slideshow/teklabz-schematics-generator-20314356/20314356"
+    label: "Research source"
+  - type: "other"
+    url: "https://everything.pk/jobs-detail-737300--javascript-developer-jobs-in-amman-jordan.html"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9664,35.89321"
+    label: "Google Maps location"

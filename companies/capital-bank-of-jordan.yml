@@ -1,0 +1,53 @@
+name: "Capital Bank of Jordan"
+industry: "Banking / Fintech (digital banking group)"
+website: "https://www.capitalbank.jo/"
+careers_url: "https://jo.linkedin.com/company/capitalbankjo/jobs"
+linkedin: "https://www.linkedin.com/company/capitalbankjo"
+hr_email: null
+size: "2,400"
+location:
+  area: "Amman"
+  address: "Sulieman Al Nabulsi Street, Building 26, Abdali Boulevard, Amman 11194, Jordan"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "data"
+  - "fintech"
+  - "mobile"
+  - "web"
+technologies:
+  - ".NET"
+  - "Dart"
+  - "Flutter"
+  - "Git"
+  - "Python"
+  - "REST API"
+  - "SQL"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-HQ bank (est. 1995) that launched Blink, Jordan's first digital-only neobank (2022, built with Codebase Technologies); regional group across Jordan, Iraq, KSA and UAE. Official registered office per the bank's own filings: Sulieman Al Nabulsi St, Building 26, Abdali Boulevard.; stack verified 2026-10-06: Capital Bank 'Mobile Software Engineer - Digital Banking' posting requires Flutter, Dart, REST APIs, Git; LinkedIn lists 'Senior Software Engineer (.Net)' Amman; Toptal portfolio shows Python 3, SQL at Capital Bank."
+evidence:
+  - type: "official_website"
+    url: "https://www.capitalbank.jo/"
+    label: "Official website"
+  - type: "careers"
+    url: "https://jo.linkedin.com/company/capitalbankjo/jobs"
+    label: "Careers / application page"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/capitalbankjo"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://en.wikipedia.org/wiki/Capital_Bank_(Jordan)"
+    label: "Research source"
+  - type: "other"
+    url: "https://healthmagazine.ae/press_release/capital-bank-of-jordan-launches-blink-neobank-using-codebase-technologies-digibanctm-platform/"
+    label: "Research source"
+  - type: "other"
+    url: "https://capitalbank.jo/-/media/pdfs/investor-relations/new/en/capital-bank-consolidated-financial-statements-q1-2025.ashx"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

@@ -1,0 +1,46 @@
+name: "Posta Plus"
+industry: "Logistics / courier / e-commerce fulfillment"
+website: "https://www.postaplus.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "200-500"
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.95121
+  longitude: 35.91933
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95121,35.91933"
+categories:
+  - "ecommerce"
+  - "logistics"
+  - "mobile"
+  - "web"
+technologies:
+  - ".NET"
+  - "C#"
+  - "Flutter"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Kuwait-founded regional courier/logistics provider (est. 2005, HQ Kuwait) operating express, e-commerce fulfillment, warehousing and customs clearance across MENA. No independently verified Jordan office address found (previously listed Shafa Badran address could not be evidenced) - pin is a city-center fallback. stack verified 2026-10-04: employee profile (Software Developer, Posta Plus Courier And Cargo, 2018-2020) lists C#, .NET Framework, .NET Core; Flutter Developer profile (2023-2025); company ships Posta Plus + MYBOX POSTA mobile apps."
+evidence:
+  - type: "official_website"
+    url: "https://www.postaplus.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.signalhire.com/companies/postaplus"
+    label: "Research source"
+  - type: "other"
+    url: "https://oerlive.com/interviews/logistics-hisham-albahar-posta-plus-interview/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.bahrainthisweek.com/posta-plus-expands-operations-in-the-united-states/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.logisticsmiddleeast.com/tags/posta-plus"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95121,35.91933"
+    label: "Google Maps location"

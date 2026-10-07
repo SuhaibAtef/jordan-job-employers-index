@@ -1,0 +1,56 @@
+name: "Jordan Payments and Clearing Company (JoPACC)"
+industry: "Financial Services / Payment systems"
+website: "https://www.jopacc.com"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/12672879"
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Wadi Saqra, Arar Street, Building #195, 5th Floor, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.9604
+  longitude: 35.89493
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96040,35.89493"
+categories:
+  - "consulting"
+  - "fintech"
+technologies:
+  - "REST API"
+  - "webMethods"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+notes: "Operates Jordan's national payment systems (CliQ instant payments, JoMoPay mobile wallets, eFAWATEERcom, ACH, electronic cheque clearing); established 2017, owned by the Central Bank of Jordan and 21 banks; runs JOIN Fincubator with a graduate-focused fintech track in partnership with Orange Jordan. Uses webMethods API management (Software AG) for its open-banking APIs (TSME partnership). Coords are street-level geocode of Arar St, Wadi Saqra - pending live-browser pin check (a business directory lists the pin at 31.960401,35.894925, unverified). Live-browser verified 2026-10-03: claimed Google Maps listing \"Jordan Payments & Clearing Company (JoPACC)\" pin at 31.9604046,35.8949282 matches company contact address (Arar St, Bldg 195); jopacc.com loads normally; LinkedIn sign-in gated (no employee cross-check possible)."
+evidence:
+  - type: "official_website"
+    url: "https://www.jopacc.com"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/12672879"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "http://www.jopacc.com/who-we-are/about-jopacc"
+    label: "Research source"
+  - type: "other"
+    url: "http://www.jopacc.com/what-we-do/systems-platforms/what-cliq"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.thefastmode.com/technology-solutions/46630-orange-jordan-jopacc-partner-to-boost-fintech-opportunities-for-graduates"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.zoominfo.com/c/jopacccom/470700459"
+    label: "Research source"
+  - type: "other"
+    url: "https://prospectoo.com/company/JordanPaymentsClearingCompanyJoPACC-12672879/"
+    label: "Research source"
+  - type: "other"
+    url: "https://itbssolution.com/jopacc-and-tsme-renew-partnership-to-reshape-jordans-financial-sector/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=Jordan+Payments+Clearing+Company+Amman"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.96040,35.89493"
+    label: "Google Maps location"

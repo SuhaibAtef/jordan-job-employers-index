@@ -1,0 +1,47 @@
+name: "Binance"
+industry: "Crypto Exchange / Fintech"
+website: "https://binance.com/en"
+careers_url: "https://www.binance.com/en/careers/job-openings"
+linkedin: "https://www.linkedin.com/company/binance"
+hr_email: null
+size: "5,001-10,000"
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "fintech"
+  - "web"
+technologies:
+  - "Blockchain"
+  - "REST API"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+notes: "World's largest crypto exchange (300M+ registered users) hiring in Amman, including Arabic/English customer support roles that explicitly welcome outstanding new graduates; Binance Accelerator Program also targets students/recent grads."
+evidence:
+  - type: "official_website"
+    url: "https://binance.com/en"
+    label: "Official website"
+  - type: "careers"
+    url: "https://www.binance.com/en/careers/job-openings"
+    label: "Careers / application page"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/binance"
+    label: "LinkedIn company page"
+  - type: "job_post"
+    url: "https://www.binance.com/en/careers/commitment?type=Binance+Accelerator+Program"
+    label: "Research source"
+  - type: "other"
+    url: "https://Web3.career/customer-support-specialist-arabic-binance/37035"
+    label: "Research source"
+  - type: "other"
+    url: "https://web3.career/customer-service-representative-arabic-english-binance/58857"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

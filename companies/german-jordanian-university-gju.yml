@@ -1,0 +1,37 @@
+name: "German Jordanian University (GJU)"
+industry: "Higher Education / Applied Sciences University"
+website: "https://www.gju.edu.jo"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman–Madaba Road"
+  address: "Amman Madaba Street, P.O. Box 35247, Amman 11180 (main campus on the Amman–Madaba road, Hasban area)"
+  status: "unresolved"
+  latitude: 31.77671
+  longitude: 35.80244
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.77671,35.80244"
+categories:
+  - "data"
+  - "edtech"
+technologies:
+  - "Julia"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Public German-Jordanian applied-sciences university with mandatory industry internships and a German Year abroad; active CS/engineering research (e.g., Julia-based modeling) and employs faculty plus research staff."
+evidence:
+  - type: "official_website"
+    url: "https://www.gju.edu.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.gju.edu.jo/news/gju-student-completes-research-visit-germany-22720"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.gju.edu.jo/news/scholarships-available-bachelor%E2%80%99s-degree-translation-german%E2%80%93english%E2%80%93arabic-gju-22446"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.77671,35.80244"
+    label: "Google Maps location"

@@ -1,0 +1,40 @@
+name: "Sawaaid"
+industry: "Health tech, Home healthcare"
+website: "https://www.sawaaidhct.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Al Madeena Al Mnawara St, Al Basem 2 Complex, 2nd Fl, Office 201, Amman 11953"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "healthtech"
+  - "web"
+technologies:
+  - "Web platform"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Home-healthcare marketplace platform connecting patients with care providers; founded 2021, Flat6Labs-backed. Office address confirmed by CB Insights. No HR email published publicly (contact page lists only phone +962 796444366 and a form). No public internship postings found.\nstack research 2026-10-06: 5 searches, no employee profiles or dev job postings found; apps credited to ArabiaCell dev agency (package com.arabiacell.*)."
+evidence:
+  - type: "official_website"
+    url: "https://www.sawaaidhct.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.cbinsights.com/company/sawaaid"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.sawaaidhct.com/our-services/"
+    label: "Research source"
+  - type: "other"
+    url: "https://o.parsers.vc/startup/sawaaidhct.com/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

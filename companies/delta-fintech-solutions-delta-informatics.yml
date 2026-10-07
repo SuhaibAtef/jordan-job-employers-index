@@ -1,0 +1,33 @@
+name: "Delta Fintech Solutions (Delta Informatics)"
+industry: "FinTech Software"
+website: "https://delta.com.jo"
+careers_url: null
+linkedin: null
+hr_email: "info@delta.com.jo"
+size: null
+location:
+  area: "Amman"
+  address: "Mecca St. 20, Amman"
+  status: "approximate"
+  latitude: 31.97608
+  longitude: 35.86011
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97608,35.86011"
+categories:
+  - "data"
+  - "fintech"
+technologies:
+  - "Oracle Database"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordanian enterprise software house whose Delta Fintech unit builds loan/leasing management suites fully in-house (it built Tamweelcom's Oracle-based loan platform); enquiries go directly to its engineers — dev team. Address and email confirmed on its own homepage."
+evidence:
+  - type: "official_website"
+    url: "https://delta.com.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://delta.com.jo/wp-content/uploads/2024/07/Tamweelkom-Case-Study.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97608,35.86011"
+    label: "Google Maps location"

@@ -1,0 +1,57 @@
+name: "Webship.co"
+industry: "Application Testing / QA Automation"
+website: "https://webship.co"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "2-9"
+location:
+  area: "Amman"
+  address: "7 Paris Street, 3rd Floor, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.95656
+  longitude: 35.85967
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95656,35.85967"
+categories:
+  - "devops"
+  - "qa"
+  - "web"
+technologies:
+  - "Cucumber"
+  - "Drupal"
+  - "Git"
+  - "GitHub Actions"
+  - "GitLab CI"
+  - "Node.js"
+  - "PHP"
+  - "Playwright"
+  - "Selenium"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Tiny Amman QA-automation shop (est. 2022, 2-9 people) specializing in automated functional acceptance testing; maintains the open-source webship-js testing tool on GitHub, useful for grads to study or contribute to."
+evidence:
+  - type: "official_website"
+    url: "https://webship.co"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.goodfirms.co/company/webship-co"
+    label: "Research source"
+  - type: "other"
+    url: "https://Clutch.co/profile/webshipco"
+    label: "Research source"
+  - type: "other"
+    url: "https://github.com/webship/webship_portal/blob/HEAD/AGENTS.md"
+    label: "Research source"
+  - type: "other"
+    url: "https://dev.to/webshipco/testing-website-search-using-webship-js-tool-2nd6"
+    label: "Research source"
+  - type: "other"
+    url: "https://webship.co/docs/webship-js/1.0.x/installation"
+    label: "Research source"
+  - type: "other"
+    url: "https://webship.co/blog/testing-radio-buttons-webship-js"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95656,35.85967"
+    label: "Google Maps location"

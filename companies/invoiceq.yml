@@ -1,0 +1,56 @@
+name: "InvoiceQ"
+industry: "Fintech / SaaS E-invoicing"
+website: "https://jo.invoiceq.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "~26 employees"
+location:
+  area: "Amman"
+  address: "Building 19, King Hussein Business Park, Amman 11831, Jordan"
+  status: "provided_unverified"
+  latitude: 31.97183
+  longitude: 35.83394
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+categories:
+  - "devops"
+  - "erp"
+  - "fintech"
+  - "web"
+technologies:
+  - "eFAWATEERcom"
+  - "Microsoft Dynamics 365"
+  - "QuickBooks"
+  - "REST API"
+  - "VPS Hosting"
+  - "Xero"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Founded 2020 in Amman; SaaS e-invoicing platform recognized by Jordan's ISTD and Saudi ZATCA; raised $1.2M pre-Series A (Oasis500, Orange VC, Flat6Labs); Amman office at KHBP building 19; no public grad/internship info found."
+evidence:
+  - type: "official_website"
+    url: "https://jo.invoiceq.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://jo.invoiceq.com/en/whos-invoiceq/"
+    label: "Research source"
+  - type: "other"
+    url: "https://meatechwatch.com/2024/12/18/invoiceq-raises-1-2-million-in-pre-series-a-round-to-expand-e-invoicing-solutions-in-mena/"
+    label: "Research source"
+  - type: "other"
+    url: "https://ahli.com/e-invoicing-solutions-for-startups-through-ahli-fintech-and-invoiceq/"
+    label: "Research source"
+  - type: "other"
+    url: "https://alienszone.com/organizations/invoiceq"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.cbinsights.com/company/invoiceq/alternatives-competitors"
+    label: "Research source"
+  - type: "other"
+    url: "https://invoiceq.com/en/e-invoicing-articles/zatca-compliant-e-invoicing-software/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+    label: "Google Maps location"

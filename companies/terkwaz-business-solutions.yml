@@ -1,0 +1,63 @@
+name: "Terkwaz Business Solutions"
+industry: "Web/mobile design & development agency"
+website: "https://terkwaz.com"
+careers_url: null
+linkedin: null
+hr_email: "info@terkwaz.com"
+size: "10-49"
+location:
+  area: "Amman"
+  address: "Wasfi AlTal St. - Almehaneyeh Towers - 176, Amman 11183"
+  status: "verified"
+  latitude: 31.9926
+  longitude: 35.86568
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9926,35.86568"
+categories:
+  - "data"
+  - "design"
+  - "mobile"
+  - "web"
+technologies:
+  - ".NET"
+  - "Android"
+  - "Java"
+  - "PHP"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Amman design & development agency (est. 2017, 11+ staff) for web design, UI/UX, custom software and mobile apps; 4.8/5 on The Manifest. Company website was unreachable (HTTP 521) on 2026-10-03. No public internship/fresh-grad programme found. GPS verified 2026-10-06: company's own old site footer (Wayback snapshot Dec 20 2021) stated \"Wasfi AlTal St. - Almehaneyeh Towers - 176 - Amman - Jordan\"; LinkedIn company page (linkedin.com/company/terkwazjo) confirms \"Wasfi Al Tal st., Al Mehanyyeh Tower, Amman, khalda\"; clutch.co and lisnic.com both give Wasfi Al Tal Street 176; independent geocode of Al Mehaneyeh Towers resolves to 31.9926,35.86568. The \"195\" variant on jordanyp.com/semfirms.com conflicts and was discarded. Google Maps listing (تركواز للبرمجيات) rejected: unclaimed, no address, 1 review, pin dropped in Saudi Arabia (24.83,45.07)."
+evidence:
+  - type: "official_website"
+    url: "https://terkwaz.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://clutch.co/profile/terkwaz-business-solutions"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.lisnic.com/business-profile/terkwaz-business-solutions"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.courierslist.com/detail/jordan/amman/warehouse-management-software/1828442/terkwaz-business-solutions"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.linkedin.com/company/terkwazjo"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375039/Terkwaz_Business_Solutions"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://dfkcompany.com/terkwaz-business-solutions/"
+    label: "Research source"
+  - type: "other"
+    url: "https://themanifest.com/jo/design/agencies"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.semfirms.com/profile/terkwaz-business-solutions"
+    label: "Research source"
+  - type: "other"
+    url: "https://jordanict.com/2020/listings?category=41"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9926,35.86568"
+    label: "Google Maps location"

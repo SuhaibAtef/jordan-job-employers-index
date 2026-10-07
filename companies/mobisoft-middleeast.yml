@@ -1,0 +1,38 @@
+name: "MobiSoft Middleeast"
+industry: "Enterprise mobile solutions"
+website: "https://mobisoft-me.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "2-9"
+location:
+  area: "Amman"
+  address: "185 Wasfi Altal Str., Khalda - Wahet Ammon Building, Amman 11953, Jordan"
+  status: "provided_unverified"
+  latitude: 31.99273
+  longitude: 35.86385
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99273,35.86385"
+categories:
+  - "data"
+  - "erp"
+  - "mobile"
+technologies:
+  - "GIS"
+  - "REST API"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Enterprise mobile/wireless apps company (founded 2001); delivered mobile-based population censuses for Oman, Jordan, Palestine and government inspection apps. Audit 2026-10-03: GPS upgraded — the old pin (31.99725, 35.84949) did not match the office; new pin (31.99273, 35.86385) decoded from the verified jordanyp listing's plus code (XVV7+4C8) and independently corroborated by the Google Maps business listing tied to mobisoft-me.com. Address reconfirmed on clutch.co and goodfirms. tech_stack reduced to GIS (evidenced); iOS/Android/Windows Mobile untraceable in sources. | stack verified 2026-10-06: GIS confirmed via Clutch (mobile census w/ GIS visualization) + FalconMap GIS platform (jordanict.com); added REST API from API-driven architecture description"
+evidence:
+  - type: "official_website"
+    url: "https://mobisoft-me.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.goodfirms.co/company/mobisoft-middleeast"
+    label: "Research source"
+  - type: "other"
+    url: "http://clutch.co/profile/mobisoft-middleeast"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99273,35.86385"
+    label: "Google Maps location"

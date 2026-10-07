@@ -1,0 +1,34 @@
+name: "STRIDE Business Solutions"
+industry: "ERP consulting"
+website: "http://stridebs.com/"
+careers_url: null
+linkedin: null
+hr_email: "info@stridebs.com"
+size: null
+location:
+  area: "Amman"
+  address: "King Hussein Business Park, King Abdullah II St 242, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.97183
+  longitude: 35.83394
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+categories:
+  - "consulting"
+  - "erp"
+technologies:
+  - "Odoo"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Odoo Gold Partner (Jordan & KSA); 50+ Odoo implementations; vertical ERPs incl. STRIDELAB (labs), EPMS, Roots. No internship program found."
+evidence:
+  - type: "official_website"
+    url: "http://stridebs.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.stridebs.com/contactus"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+    label: "Google Maps location"

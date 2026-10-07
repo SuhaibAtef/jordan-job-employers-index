@@ -1,0 +1,46 @@
+name: "ICSFS (ICS Financial Systems)"
+industry: "Core banking software"
+website: "https://www.icsfs.com"
+careers_url: "https://icsfs.com/careers/"
+linkedin: null
+hr_email: null
+size: "200-500"
+location:
+  area: "Amman"
+  address: "Khalda, Al Hakam Bin Amr St., P.O. Box 950499, Amman 11195"
+  status: "provided_unverified"
+  latitude: 31.99771
+  longitude: 35.8391
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99771,35.8391"
+categories:
+  - "data"
+  - "devops"
+  - "fintech"
+  - "qa"
+  - "web"
+technologies:
+  - ".NET"
+  - "Java"
+  - "JavaScript"
+  - "Jenkins"
+  - "REST API"
+  - "Selenium"
+  - "SQL"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Junior"
+notes: "Core banking software vendor (ICS BANKS suite); Amman careers postings include Test Automation Engineer (1-3 yrs) and Security Code Auditor - junior-friendly roles."
+evidence:
+  - type: "official_website"
+    url: "https://www.icsfs.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://icsfs.com/careers/"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://icsfs.com/contact-us/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99771,35.8391"
+    label: "Google Maps location"

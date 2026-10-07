@@ -1,0 +1,41 @@
+name: "PROSYS"
+industry: "Software / ERP & media solutions"
+website: "https://prosysjo.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "King Abdullah II St, Amman"
+  status: "provided_unverified"
+  latitude: 31.966372
+  longitude: 35.843045
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.966372,35.843045"
+categories:
+  - "data"
+  - "erp"
+  - "mobile"
+  - "web"
+technologies:
+  - ".NET"
+  - "Android"
+  - "JavaScript"
+  - "jQuery"
+  - "React Native"
+  - "REST API"
+  - "SQL"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-founded software company (est. 2005) building ERP and media software, expanded across KSA, the Gulf and MENA. | stack verified 2026-10-05: company's own hiring posts (engineering10 mirror of PROSYS page, 2020): .NET/ASP.NET MVC, API tech, SQL, jQuery, HTML/CSS, Android, React Native; separate .NET ERP developer call"
+evidence:
+  - type: "official_website"
+    url: "https://prosysjo.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.prosysjo.com/web/Products.aspx"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.966372,35.843045"
+    label: "Google Maps location"

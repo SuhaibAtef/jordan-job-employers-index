@@ -1,0 +1,47 @@
+name: "MUJEER"
+industry: "Software development (ERP/web/mobile)"
+website: "https://mujeer.com"
+careers_url: null
+linkedin: null
+hr_email: "wecare@mujeer.com"
+size: null
+location:
+  area: "Amman"
+  address: "53 Al-Fadeleyah Street, 2nd Floor, Shmeisani, Amman 11194, Jordan"
+  status: "verified"
+  latitude: 31.9629222
+  longitude: 35.8983423
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96238,35.89853"
+categories:
+  - "data"
+  - "erp"
+  - "mobile"
+  - "web"
+technologies:
+  - "iOS"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Software development company in Amman (Shmeisani); custom ERP, mobile apps and websites; lists an HR Manager on its team page. wecare@ is its public general-contact email (verified on mujeer.com/en/). Street-level GPS on Al-Fadeleyah St.\nstack research 2026-10-06: 3 searches; company site lists ERP/mobile/web services but no employee profiles or dev job postings found; tags unchanged"
+evidence:
+  - type: "official_website"
+    url: "https://mujeer.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://mujeer.com/en/contact"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/MUJEER/@31.9629222,35.8983423,17z"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.linkedin.com/company/mujeer"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.facebook.com/mujeer.co/about"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://mujeer.com/en/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.96238,35.89853"
+    label: "Google Maps location"

@@ -1,0 +1,32 @@
+name: "Jordan Horizons Tours (JHT)"
+industry: "Travel Agency / DMC / Tourism Platform"
+website: "https://johtt.com/"
+careers_url: null
+linkedin: null
+hr_email: "info@johtt.com"
+size: null
+location:
+  area: "Amman"
+  address: "Wasfi Al Tal St., Khawaja Center, 5th Floor, Office E-9, Amman"
+  status: "provided_unverified"
+  latitude: 31.98494
+  longitude: 35.88293
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.98494,35.88293"
+categories:
+  - "travel"
+  - "web"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Licensed Amman DMC/travel agency (15+ years) with online tailor-made tour booking, MICE services and secure payments; footer shows a 'We Are Hiring' section. stack research 2026-10-05: 3 searches (dev/jobs, akhtaboot/gulftalent/github, wuzzuf), no employee profiles or dev postings found"
+evidence:
+  - type: "official_website"
+    url: "https://johtt.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://johtt.com/en/best-travel-agency-in-jordan/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.98494,35.88293"
+    label: "Google Maps location"

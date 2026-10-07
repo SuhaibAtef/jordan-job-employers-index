@@ -1,0 +1,38 @@
+name: "SquareOne Technologies"
+industry: "IT services / Digital transformation"
+website: "https://www.squareonemea.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "51-200"
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories:
+  - "ai"
+  - "consulting"
+  - "data"
+technologies:
+  - "Data & AI"
+  - "RPA"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Dubai-based digital transformation firm (51-200 staff) with employees in Jordan/Amman; hiring RPA Technical Lead in Amman; focuses on automation, data & AI and intelligent content services. No public Jordan office address found — kept on employee/hiring presence. stack research 2026-10-06: 5 searches; employee profile (RPA consultant, Automation Anywhere-certified since 2020) + partner page (Hyland sell partner, Qlik, Kore.ai, Microsoft low-code) confirm vendor stack, but none map to canonical tags; tags unchanged."
+evidence:
+  - type: "official_website"
+    url: "https://www.squareonemea.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.drjobpro.com/jordan/software-systems-jobs-in-amman?page=4"
+    label: "Research source"
+  - type: "other"
+    url: "https://leadiq.com/c/squareone-technologies/5a1d8afb240000240065ac87"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

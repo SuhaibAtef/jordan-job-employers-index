@@ -1,0 +1,37 @@
+name: "Petra Recruitment"
+industry: "Staffing & Recruiting"
+website: "http://www.petrarecruitment.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "4th Floor, Building 148, Wasfi Al Tal St, Pearl Al Rezeq Complex, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.99088
+  longitude: 35.86977
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99088,35.86977"
+categories:
+  - "web"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Certified Amman recruitment firm specializing in headhunting, recruitment and visa documentation, connecting job seekers with employers across industries. Address confirmed on the company homepage; pin upgraded to the geocoded building location. Listed careers URL (petra-mp.com) no longer resolves, so it was removed. stack research 2026-10-06: 2 searches; recruitment agency (16-25 staff), no employee engineer profiles or dev job postings found."
+evidence:
+  - type: "official_website"
+    url: "http://www.petrarecruitment.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.zoominfo.com/c/petra-recruitment/409950275"
+    label: "Research source"
+  - type: "other"
+    url: "https://search.datagenie.co/companies/Petra-Recruiting-Co-/810095270"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.dubai-forever.com/jordan-hotel-jobs.html"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99088,35.86977"
+    label: "Google Maps location"

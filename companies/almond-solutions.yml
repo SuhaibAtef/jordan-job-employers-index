@@ -1,0 +1,38 @@
+name: "Almond Solutions"
+industry: "Digital Marketing / Web Development"
+website: "https://www.almondsolutions.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "1-10"
+location:
+  area: "Amman"
+  address: "Queen Rania Street, Amman - Jordan"
+  status: "provided_unverified"
+  latitude: 31.992825
+  longitude: 35.88941
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.992825,35.88941"
+categories:
+  - "erp"
+  - "marketing"
+  - "web"
+technologies:
+  - "Google Ads"
+  - "Zoho"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Est. 2005 veteran web + digital marketing agency (Zoho CRM partner, email hosting services) that runs digital marketing training courses - training focus suggests fresh-grad relevance. Pin upgraded from city fallback to Google business listing coordinates on Queen Rania St. No careers page found."
+evidence:
+  - type: "official_website"
+    url: "https://www.almondsolutions.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.almondsolutions.com/blog/how-to-integrate-twilio-sms-with-zoho-crm"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.designrush.com/agency/profile/almond-solutions"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.992825,35.88941"
+    label: "Google Maps location"

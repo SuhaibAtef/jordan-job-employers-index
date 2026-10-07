@@ -1,0 +1,42 @@
+name: "INSIGHT Business Solutions"
+industry: "Microsoft Dynamics 365 consulting"
+website: "http://www.insight-jo.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "51-200"
+location:
+  area: "Amman"
+  address: "53 Abdulla Ghosheh Street, Suite #510, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.967469
+  longitude: 35.854932
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.967469,35.854932"
+categories:
+  - "consulting"
+  - "data"
+  - "devops"
+  - "erp"
+technologies:
+  - "Azure"
+  - "Microsoft Dynamics 365"
+  - "Power BI"
+  - "Power Platform"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Dynamics 365 implementation consultancy; no public fresh-grad/internship hiring evidence found. GPS upgraded from city-center fallback to verified Google Maps business pin (Abdallah Ghosheh St 53; confirmed on their contact page and jordanyp listing)."
+evidence:
+  - type: "official_website"
+    url: "http://www.insight-jo.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.insight-jo.com/contact"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/374362/insight-business-solutions/qa"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.967469,35.854932"
+    label: "Google Maps location"

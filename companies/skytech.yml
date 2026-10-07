@@ -1,0 +1,45 @@
+name: "SkyTech"
+industry: "Information Technology and Services"
+website: "https://www.e-skytech.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "50-249"
+location:
+  area: "Amman"
+  address: "152 Mecca Street, Al Husseini Complex, 1st Floor, office #102, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.97681
+  longitude: 35.8548
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97681,35.8548"
+categories:
+  - "consulting"
+  - "data"
+  - "erp"
+technologies:
+  - "Crystal Reports"
+  - "Microsoft Dynamics 365"
+  - "Odoo"
+  - "SAP"
+  - "Zoho"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+notes: "SAP REX Gold Partner in Amman; 70+ SAP Business One implementations; also partners for Odoo, Zoho and Dynamics 365. Participated in SAP Young Professionals Program training unemployed Jordanian graduates (2019)."
+evidence:
+  - type: "official_website"
+    url: "https://www.e-skytech.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/374153/SkyTech_SAP_REX_Gold_Partner/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.goodfirms.co/implementation-services/erp-consulting/jordan"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.itp.net/commsmea/network-infrastructure/86822-sap-marks-graduation-of-young-professional-program-in-jordan"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97681,35.8548"
+    label: "Google Maps location"

@@ -1,0 +1,39 @@
+name: "Huawei Jordan"
+industry: "Telecom equipment vendor"
+website: "https://www.huawei.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Zahra Plaza Building, Office 404, Zahran Street / 7th Circle, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.964896
+  longitude: 35.905484
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.964896,35.905484"
+categories:
+  - "devops"
+  - "telecom"
+technologies:
+  - "5G"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Huawei's Jordan entity (registered as Huawei Technologies Investment Co. Ltd); strategic network partner to Jordanian operators. Audit 2026-10-03: existing coords verified — they match the 'Huawei Head Office' business-listing pin in Amman; approx flipped to false. | stack research 2026-10-06: 5 searches (employee snippets, wuzzuf/getprog.ai, job postings), no Jordan-specific engineering evidence for Huawei's Jordan branch office; tags left as-is"
+evidence:
+  - type: "official_website"
+    url: "https://www.huawei.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.info-clipper.com/en/company/jordan/huawei-technologies-investmnet-co-ltd.jod8ucdxd.html"
+    label: "Research source"
+  - type: "other"
+    url: "https://mma.prnewswire.com/media/2191297/About_HUAWEI_Consumer_BG.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://meta.ai?place_id=1308919493478539"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.964896,35.905484"
+    label: "Google Maps location"

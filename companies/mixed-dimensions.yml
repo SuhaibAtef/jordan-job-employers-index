@@ -1,0 +1,63 @@
+name: "Mixed Dimensions"
+industry: "3D Printing Software"
+website: "https://makeprintable.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Um Uthainah, Al Kufa Street, Kolaghassi Capital, Building # 57, Amman, Jordan"
+  status: "verified"
+  latitude: 31.96627
+  longitude: 35.87436
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96627,35.87436"
+categories:
+  - "devops"
+  - "games"
+  - "mobile"
+  - "web"
+technologies:
+  - "Android"
+  - "C#"
+  - "C++"
+  - "Game Platforms"
+  - "iOS"
+  - "Laravel"
+  - "PHP"
+  - "Python"
+  - "Ruby"
+  - "Unity"
+  - "Unreal Engine"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "3D-printing software startup founded in Amman (50+ engineers in Amman; SF HQ) — makers of MakePrintable and GamePrint; joined Unity's Verified Solutions Program. No current job postings (Wellfound shows none); company has since rebranded and its sites are dead/redirected. GPS verified 2026-10-04: Amman office address confirmed by two independent sources — info-clipper registry-derived company profile and the Amman Design Week 2017 workshop page both give 'Um Uthainah, Al Kufa Street, Kolaghassi Capital, Building # 57, Amman'; pin geocoded to Building 57 on Al Kufa Street. A conflicting unclaimed Google Maps pin ('Mixed Dimensions Inc.' near Arar St 218) was discounted as unclaimed and inconsistent with the company-stated address.\nstack verified 2026-10-06: senior R&D engineer Bayt profile (Sep 2016-present) lists c++ unreal, c# unity-plugin, windows app, server tools, android app, ios app, playstation, xbox, python, ruby, php laravel"
+evidence:
+  - type: "official_website"
+    url: "https://makeprintable.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.info-clipper.com/en/company/jordan/mixed-dimensions-company.jod980pc5.html"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://web.archive.org/web/20170921051845/http://www.ammandesignweek.com/program/3d-printing-101-1"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://3dprintingindustry.com/?p=113932"
+    label: "Research source"
+  - type: "other"
+    url: "https://3dprintingindustry.com/?p=76232"
+    label: "Research source"
+  - type: "other"
+    url: "https://wellfound.com/company/mxd3d"
+    label: "Research source"
+  - type: "other"
+    url: "https://3dprint.com/282883/mixed-dimensions-releases-sdk-for-3d-printed-made-with-unity-game-figurines/amp/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.arounddeal.com/c/mixed-dimensions-inc/g4zsvjkdos"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.96627,35.87436"
+    label: "Google Maps location"

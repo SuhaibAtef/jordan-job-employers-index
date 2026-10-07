@@ -1,0 +1,59 @@
+name: "Alawneh Exchange"
+industry: "Currency Exchange / FinTech"
+website: "https://alawnehexchange.com"
+careers_url: null
+linkedin: null
+hr_email: "info@alawnehex.com"
+size: "240"
+location:
+  area: "Amman"
+  address: "15 Abdul Hamid Shoman St, 2nd Floor, Shmeisani, Amman"
+  status: "verified"
+  latitude: 31.967648
+  longitude: 35.898084
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.967648,35.898084"
+categories:
+  - "fintech"
+technologies:
+  - "AlawnehPay e-wallet (Digibanc API-first platform)"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Currency exchange house (est. 1966) with 51 branches and 2M+ customers; launched the CBJ-licensed AlawnehPay e-wallet built on Codebase Technologies' Digibanc API-first platform; a Head of IT role exists — dedicated IT team. | stack research 2026-10-04: 5 searches — IT dept exists (Head of InfoSec, CTO, Head of IT) but AlawnehPay was built end-to-end by vendor Codebase Technologies/Digibanc; no dev-stack evidence for Alawneh engineers | gps 2026-10-07: head office '15 Abdul Hamid Shoman St, 2nd Floor, Shmeisani, Amman' confirmed by official contact page + SWIFT registry ALELJOAMXXX + MIRA INFORM 2019; pin = claimed Shmeisani Maps listing on same street (retail branch, district corroboration)."
+evidence:
+  - type: "official_website"
+    url: "https://alawnehexchange.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://alawnehexchange.com/contact-us/ — official contact page: 'Head Office Address: 15, Abdul Hamid Shoman Street, 2nd Floor, Shmeisani, Amman, Jordan'"
+    label: "Location evidence"
+  - type: "other"
+    url: "SWIFT registry BIC ALELJOAMXXX (wise.com/gb/swift-codes/ALAWJOAX): registered address 'ABDULHAMID SHOMAN STR 15', Amman, Jordan — independent financial-registry confirmation"
+    label: "Location evidence"
+  - type: "other"
+    url: "MIRA INFORM credit report 2019: registered office '15 Abdul Hamid Shoman Street, 2nd Floor, Shmeisani, Amman 11194'"
+    label: "Location evidence"
+  - type: "other"
+    url: "Claimed Google Maps listing 'Alawneh Exchange AShumaysani' (Salah Al Deen Al Haj Abd Complex, Abdul Hamid Shoman St), pin 31.967648, 35.898084, phone 06 500 3030 matching company number — retail branch on same street; corroborates district, not used as HQ pin"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://alawnehexchange.com/en"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.codebtech.com/building-alawnehpay-jordans-next-generation-digital-wallet/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanfinancialservices.com/2024/company-profile/alawneh-exchange"
+    label: "Research source"
+  - type: "other"
+    url: "https://realityshows.einnews.com/pr_news/921770003/alawneh-exchange-launches-alawneh-pay-on-codebase-technologies-digibanc-as-mena-digital-payments-head-to-462-41b"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.zoominfo.com/p/Nader-Afaneh/-1339076362"
+    label: "Research source"
+  - type: "other"
+    url: "https://mirainform.com/secure/mirareports/creditreports/2019/Mar-2019/27-Mar-2019/ALAWNEH EXCHANGE - 561317.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.967648,35.898084"
+    label: "Google Maps location"

@@ -1,0 +1,35 @@
+name: "Uber Jordan"
+industry: "Ride-hailing / delivery tech"
+website: "https://www.uber.com/jo/en/?userId"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/uber-com"
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.95121
+  longitude: 35.91933
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95121,35.91933"
+categories:
+  - "ai"
+  - "logistics"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Global mobility platform operating Uber Taxi in Jordan since 2019; CEO met Jordan's Crown Prince (Sept 2026) on deepening its Jordan footprint. No independently verified Jordan office address found (listed Zarqa office is permanently closed) - pin is a city-center fallback.\nstack research 2026-10-04: 3 searches, ops-only country office (driver ops/city management), engineering is global; no employee profiles or dev postings found"
+evidence:
+  - type: "official_website"
+    url: "https://www.uber.com/jo/en/?userId"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/uber-com"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://theprofiler.co.za/weeks-after-exiting-nigeria-and-uganda-uber-ceo-meets-jordans-crown-prince-as-expansion-plans-emerge"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95121,35.91933"
+    label: "Google Maps location"

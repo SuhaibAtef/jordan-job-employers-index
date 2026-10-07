@@ -1,0 +1,41 @@
+name: "Telecom Enterprise"
+industry: "Telecommunications / Value-Added Services (VAS)"
+website: "http://www.tele-ent.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "~15"
+location:
+  area: "Amman"
+  address: "Queen Rania Street, Abu El Hajj Commercial Complex, Floor 7, Office 713, Amman, Jordan"
+  status: "approximate"
+  latitude: 32.04856
+  longitude: 35.88933
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.04856,35.88933"
+categories:
+  - "consulting"
+  - "telecom"
+  - "web"
+technologies:
+  - "HTML"
+  - "JavaScript"
+  - "PHP"
+  - "SMS Gateway"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Managed VAS and content services for mobile operators in MENA since 2010 (USSD advertising platform, TE-Cards POS, gaming top-up apps). No public internship/grad evidence found."
+evidence:
+  - type: "official_website"
+    url: "http://www.tele-ent.com"
+    label: "Official website"
+  - type: "other"
+    url: "http://tele-ent.com"
+    label: "Research source"
+  - type: "other"
+    url: "https://rocketreach.co/telecom-enterprise-profile_b5df0f8af42e4fb7"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.04856,35.88933"
+    label: "Google Maps location"

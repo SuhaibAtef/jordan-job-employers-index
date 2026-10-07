@@ -1,0 +1,41 @@
+name: "Smart Green"
+industry: "AgriTech / Smart Irrigation"
+website: "https://sg-agritech.com"
+careers_url: null
+linkedin: null
+hr_email: "info@sg-agritech.com"
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "ai"
+  - "devops"
+  - "iot"
+technologies:
+  - "AI/ML"
+  - "IoT"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Fertigo smart irrigation/fertigation system using AI, IoT and cloud; launched 2020 in Jordan and Canada by Mohammad Zeinati; active operations across Saudi Arabia, Canada, Spain and Jordan (Jerash and Jordan Valley farms per its own site). No public entry-level hiring page found."
+evidence:
+  - type: "official_website"
+    url: "https://sg-agritech.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://Www.entrepreneur.com/en-ae/growth-strategies/startup-spotlight-jordan-based-smart-green-is-on-a-mission/463323"
+    label: "Research source"
+  - type: "other"
+    url: "https://sg-agritech.com/smart-irrigation-fertigation-system/"
+    label: "Research source"
+  - type: "other"
+    url: "https://south.euneighbours.eu/news/emphasis-empowers-4-jordanian-smes-to-forge-open-innovation-partnerships-in-the-mediterranean-region/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

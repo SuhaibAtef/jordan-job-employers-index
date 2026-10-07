@@ -1,0 +1,48 @@
+name: "Valu Jordan"
+industry: "Fintech / Consumer Finance (BNPL)"
+website: null
+careers_url: null
+linkedin: null
+hr_email: "Careers-jo@valugroup.com"
+size: null
+location:
+  area: "Amman"
+  address: "King Hussein Business Park, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "data"
+  - "devops"
+  - "fintech"
+  - "mobile"
+  - "web"
+technologies:
+  - ".NET"
+  - "AWS"
+  - "C#"
+  - "CI/CD"
+  - "Flutter"
+  - "REST API"
+  - "SQL Server"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Egyptian fintech Valu's Jordan arm; CBJ-licensed specialized financing company offering BNPL plans up to 60 months via 1,000+ merchants; HQ at King Hussein Business Park with branches at Sweifieh Village, KHBP and Taj Mall. stack verified 2026-10-06: Lead Mobile Developer profile owns the Jordan customer app end-to-end (Flutter, flutter packages, CI/CD); Valu .NET Developer posting lists C#, ASP.NET Core, REST APIs, SQL Server, AWS."
+evidence:
+  - type: "other"
+    url: "https://waya.media/valu-officially-launches-operations-in-jordan/"
+    label: "Research source"
+  - type: "other"
+    url: "https://entarabi.com/en/2026/09/valu-officially-launches-in-jordan-with-bnpl-and-digital-financing-services/"
+    label: "Research source"
+  - type: "other"
+    url: "https://techafricanews.com/2026/09/14/valu-jordan-and-zbooni-partner-to-expand-digital-commerce-and-bnpl-in-jordan/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/rima-al-adham-929b878a_valu-jordan-is-looking-for-a-motivated-and-activity-7503390052610117632-2flK"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

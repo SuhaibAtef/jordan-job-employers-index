@@ -1,0 +1,43 @@
+name: "JO Eagle (Jordanian Eagle for Security & Protection)"
+industry: "Computer and Network Security"
+website: "https://joeagle.com/"
+careers_url: null
+linkedin: null
+hr_email: "info@joeagle.com"
+size: "51-100 employees"
+location:
+  area: "Amman"
+  address: "Umm Motawee Al-Aslameyah St., Building No. 6, Al Jandawil, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.9608
+  longitude: 35.84459
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9608,35.84459"
+categories:
+  - "security"
+technologies:
+  - "IAM"
+  - "Penetration Testing"
+  - "SOC"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordanian security firm founded 2008; 24/7 managed security incl. pen testing, application security, threat intel and compliance (staffed by ex-military/police); also physical security & guarding."
+evidence:
+  - type: "official_website"
+    url: "https://joeagle.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/374969/Jordanian_Eagle_for_Security_Protection"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.micromindercs.com/blog/cybersecurity-companies-in-jordan"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.rasmal.com/cybersecurity-companies-in-jordan/"
+    label: "Research source"
+  - type: "other"
+    url: "http://a-listware.com/blog/list-of-cybersecurity-companies-amman"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9608,35.84459"
+    label: "Google Maps location"

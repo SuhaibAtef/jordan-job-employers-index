@@ -1,0 +1,38 @@
+name: "Wafii"
+industry: "Fintech / Loyalty"
+website: "https://wafii.co/"
+careers_url: null
+linkedin: null
+hr_email: "info@wafii.co"
+size: null
+location:
+  area: "Amman"
+  address: "3rd Circle, Amman 11195"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "fintech"
+  - "mobile"
+technologies:
+  - "Android"
+  - "iOS"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Amman cashback loyalty platform by Stark Software Technologies LLC (founded 2018); Wafii app lets users scan grocery receipts to earn cashback, Wafii Card accepted at 200+ merchants incl. Jordan restaurants. No public internship postings found. Stack verified 2026-10-05: Google Play + App Store listings by STARK SOFTWARE TECHNOLOGIES LLC show live Android and iOS apps."
+evidence:
+  - type: "official_website"
+    url: "https://wafii.co/"
+    label: "Official website"
+  - type: "other"
+    url: "https://play.google.com/store/apps/details?id=io.starktech.wafiicr.wafii&pli=1"
+    label: "Research source"
+  - type: "other"
+    url: "https://zyda.com/en/blog/7-restaurant-loyalty-programs"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

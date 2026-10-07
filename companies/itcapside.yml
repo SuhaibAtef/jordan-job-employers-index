@@ -1,0 +1,44 @@
+name: "ITCapside"
+industry: "Cybersecurity Consulting"
+website: "https://itcapside.com"
+careers_url: null
+linkedin: null
+hr_email: "info@itcapside.com"
+size: null
+location:
+  area: "Amman"
+  address: "Tabarbour St., Journalists' Circle, Building No. 22, 2nd floor, Office No. 26, Amman 11947, Jordan"
+  status: "provided_unverified"
+  latitude: 32.000251
+  longitude: 35.947998
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.000251,35.947998"
+categories:
+  - "consulting"
+  - "security"
+technologies:
+  - "EDR/XDR"
+  - "Firewalls"
+  - "Penetration Testing"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-based offensive-security firm (est. 2020): penetration testing, vulnerability assessments, red team ops, DFIR and managed SOC; runs a training center with beginner-to-advanced pentest courses - a good entry point for grads."
+evidence:
+  - type: "official_website"
+    url: "https://itcapside.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://itcapside.com/about/"
+    label: "Research source"
+  - type: "other"
+    url: "https://itcapside.com/training-center/"
+    label: "Research source"
+  - type: "other"
+    url: "https://pecb.com/en/newsReleases/pecb-signs-a-partnership-agreement-with-itcapside"
+    label: "Research source"
+  - type: "other"
+    url: "https://elioplus.com/profiles/channel-partners/36121/alpha-hub-ict-solutions"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.000251,35.947998"
+    label: "Google Maps location"

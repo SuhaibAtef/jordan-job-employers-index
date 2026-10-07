@@ -1,0 +1,40 @@
+name: "Microfund for Women"
+industry: "Microfinance / Lending"
+website: "https://microfund.org.jo"
+careers_url: null
+linkedin: null
+hr_email: "info@microfund.org.jo"
+size: "710"
+location:
+  area: "Amman"
+  address: "Wadi Saqra, Arar Street, Building 238/B, Amman"
+  status: "verified"
+  latitude: 31.9613977
+  longitude: 35.8918095
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9613977,35.8918095"
+categories:
+  - "data"
+  - "fintech"
+technologies:
+  - "Oracle Database"
+  - "SQL"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Non-profit women-focused microfinance company under CBJ supervision; 710 staff, 60 branches, 100,900 active beneficiaries; runs 82 university scholarships and has a jobs (وظائف) page. | stack verified 2026-10-04: ex-employee profile (Oracle Developer 2012-2013) says MFW's system maintained/developed in Oracle Forms/Reports + SQL/PLSQL; current staff include Director of IT & Fintech and Manager, Information Security. | gps verified 2026-10-07: official contact page address + own map pin; Google Maps HQ listing (owner-managed, 135 reviews) same address, pin 31.9613977,35.8918095; Tanmeyah network member profile matches. No conflicting sources."
+evidence:
+  - type: "official_website"
+    url: "https://microfund.org.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.microfund.org.jo/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84/ (official contact page: Wadi Saqra - Arar Street - Building 238/B + embedded map pin)"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "google.com/maps place listing /g/11j7by_plr (HQ listing, address label matches official verbatim, pin 31.9613977,35.8918095, 135 reviews, owner-managed photos, phone/website match)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://tanmeyahjo.com/ar/شركة-صندوق-المرأة-للتمويل-الأصغر/ (Tanmeyah microfinance network member profile: same HQ address)"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9613977,35.8918095"
+    label: "Google Maps location"

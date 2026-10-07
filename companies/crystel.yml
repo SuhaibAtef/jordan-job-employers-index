@@ -1,0 +1,45 @@
+name: "Crystel"
+industry: "Business Process Outsourcing"
+website: "https://www.crystel.co"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "50-249"
+location:
+  area: "Amman"
+  address: "K. Hussein St. 264, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.971686
+  longitude: 35.909786
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.971686,35.909786"
+categories:
+  - "consulting"
+  - "security"
+technologies:
+  - "Firewalls"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+    - "Fresh graduate"
+    - "Graduate"
+notes: "Jordan's first independent multilingual BPO (est. 2007); runs walk-in interviews for call-center agents (no experience required) and recently posted a Helpdesk Technical Support Intern role aimed at fresh graduates. stack verified 2026-10-04: Crystel Technology team hiring post (LinkedIn) lists Network & Security Officer requiring hands-on Fortinet/FortiGate; IT/support team only, no software dev roles found."
+evidence:
+  - type: "official_website"
+    url: "https://www.crystel.co"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.crystel.co/media/queen-rania-of-jordan-visited-crystel-bpo-offices-in-amman"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.crystel.co/locations/jordan"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/374548/Crystel"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/odaifabed_until-thursday-activity-7449858618360954880-GNQa"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.971686,35.909786"
+    label: "Google Maps location"

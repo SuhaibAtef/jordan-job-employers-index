@@ -1,0 +1,54 @@
+name: "Nokia Jordan"
+industry: "Telecom equipment vendor"
+website: "https://www.nokia.com"
+careers_url: "https://www.nokia.com/careers"
+linkedin: "https://www.linkedin.com/company/nokia/"
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "1st floor, Edgo Tower, Rafiq Al Hariri Avenue, Abdali, Amman, Jordan"
+  status: "verified"
+  latitude: 31.9638919
+  longitude: 35.906863
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9638919,35.906863"
+categories:
+  - "telecom"
+technologies:
+  - "Cisco"
+  - "Fiber Networks"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Nokia's official worldwide-offices page (nokia.com) lists Amman as '1st floor, Edgo Tower, Rafiq Al Hariri Avenue, Abdali, Amman, PO Box 940696'. GPS verified 2026-10-04: Google Maps 'Nokia' corporate-office pin (31.9638919, 35.906863, plus code XW74+HP) sits ~14m from the managed Edgo Atrium Building pin (31.963983, 35.9069685, plus code XW74+HQ), Rafic Hariri St, Abdali Boulevard. Legacy JordanYP 'Nokia Siemens Networks' listing (Queen Noor St, Shmeisani, last updated 2021) treated as stale former entity address; company's own current page wins. Only other Nokia-branded pins are warehouses (Al-Bayadir, 31.882305, 35.9591253), not offices.\nstack verified 2026-10-06: employee profile (Nokia 5G supervisor, 5G network deployment/integration in Jordan) + public Zain 5G RAN deployment (AirScale/Massive MIMO) and Orange Jordan fiber-to-home announcements"
+evidence:
+  - type: "official_website"
+    url: "https://www.nokia.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://www.nokia.com/careers"
+    label: "Careers / application page"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/nokia/"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://www.nokia.com/contact-us/worldwide-offices/middle-east-and-africa/"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/Nokia/@31.9638919,35.9042827,17z/data=!3m1!4b1!4m6!3m5!1s0x151ca10e90c8c43f:0x6c3ec92d55f8baeb!8m2!3d31.9638919!4d35.906863!16s%2Fg%2F11y1dtdxx_"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/Edgo+Atrium+Building/@31.9638919,35.9042827,17z/data=!4m6!3m5!1s0x151ca071085aa0c7:0xfe3797277ca8ccdf!8m2!3d31.963983!4d35.9069685!16s%2Fg%2F11dxbcc987"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/347583/Nokia_Siemens_Networks"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.Globenewswire.Com/news-release/2025/02/17/3027029/0/en/Nokia-upgrades-Orange-Jordan-s-broadband-network-gateway-to-enhance-connectivity-across-the-Kingdom.html"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.telecomtv.com/content/broadband/orange-jordan-and-nokia-deploy-fiber-to-the-home-network-to-support-new-ultra-broadband-services-28444/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9638919,35.906863"
+    label: "Google Maps location"

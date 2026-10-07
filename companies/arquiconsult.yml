@@ -1,0 +1,34 @@
+name: "Arquiconsult"
+industry: "Information Systems / ERP consulting"
+website: "https://arquiconsult.com"
+careers_url: "https://arquiconsult.com/en/finance-junior-functional-consultant-dynamics-365-amman-jordan/"
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "consulting"
+  - "erp"
+technologies:
+  - "Microsoft Dynamics 365"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Junior"
+notes: "Multinational Microsoft Dynamics 365 consultancy with an Amman office; advertised a Finance Junior Functional Consultant role (Dynamics 365, 1-3 yrs exp) in Amman - entry-friendly. stack verified 2026-10-07: own careers page advertises Dynamics 365 F&O functional-consultant roles in Amman - Microsoft Dynamics 365 confirmed."
+evidence:
+  - type: "official_website"
+    url: "https://arquiconsult.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://arquiconsult.com/en/finance-junior-functional-consultant-dynamics-365-amman-jordan/"
+    label: "Careers / application page"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

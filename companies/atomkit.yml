@@ -1,0 +1,55 @@
+name: "Atomkit"
+industry: "AI & Software Development"
+website: "https://atomkit.com"
+careers_url: null
+linkedin: null
+hr_email: "hello@atomkit.com"
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Al-Swaifyeh, Al-Yanabii Street, Building 14 (Hawa Complex), Office 15, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.956451
+  longitude: 35.863317
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.956451,35.863317"
+categories:
+  - "ai"
+  - "data"
+  - "devops"
+  - "iot"
+  - "web"
+technologies:
+  - "AI/ML"
+  - "AWS"
+  - "Generative AI"
+  - "IoT"
+  - "Laravel"
+  - "PHP"
+  - "React"
+  - "Vue.js"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman technology partner (est. 2009, local presence in Amman/Riyadh/Doha) building custom LLMs, AI agents, predictive analytics and AI dashboards."
+evidence:
+  - type: "official_website"
+    url: "https://atomkit.com"
+    label: "Official website"
+  - type: "other"
+    url: "http://atomkit.com"
+    label: "Research source"
+  - type: "other"
+    url: "https://atomkit.com/privacy-policy/"
+    label: "Research source"
+  - type: "other"
+    url: "https://atomkit.com/projects/khayal-app/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.arounddeal.com/c/atomkit/e5bthalmfz"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.fastbase.com/countryindex/Jordan/W/Web-hosting-company"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.956451,35.863317"
+    label: "Google Maps location"

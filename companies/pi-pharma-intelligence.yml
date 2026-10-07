@@ -1,0 +1,42 @@
+name: "Pi Pharma Intelligence"
+industry: "Health tech, Pharma intelligence"
+website: "https://www.pipharmaintelligence.com"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/pi-pharma-intelligence/"
+hr_email: null
+size: "20+"
+location:
+  area: "Amman"
+  address: "168-B, Dabouq Complex, King Abdullah Street, Amman"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "healthtech"
+  - "web"
+technologies:
+  - "Laravel"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Web-based pharma intelligence platform (Pi Insight, Pi Reports, Pi FORESaiGHT) for MENA drug data, patents, pricing and market access; founded 2018, Oasis500-backed. Office address confirmed by DHArab; postal 19154. No public HR email found."
+evidence:
+  - type: "official_website"
+    url: "https://www.pipharmaintelligence.com"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/pi-pharma-intelligence/"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://www.wipo.int/web/ip-advantage/w/stories/pi-pharma-intelligence"
+    label: "Research source"
+  - type: "other"
+    url: "https://dharab.com/dbentry/pi-pharma-intelligence/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.menagg.com/post/pi-pharma-intelligence-and-mena-pharma-forge-strategic-partnership-to-accelerate-north-american-phar"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

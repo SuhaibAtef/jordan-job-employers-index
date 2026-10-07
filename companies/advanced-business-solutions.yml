@@ -1,0 +1,43 @@
+name: "Advanced Business Solutions"
+industry: "Information Technology and Services"
+website: "https://www.e2abs.com"
+careers_url: null
+linkedin: null
+hr_email: "info@e2abs.com"
+size: "50-249"
+location:
+  area: "Amman"
+  address: "38 Sulaiman Al Hadidi St., Abdoun Al Shamali, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.95994
+  longitude: 35.873899
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95994,35.873899"
+categories:
+  - "consulting"
+  - "erp"
+technologies:
+  - "SAP"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "First SAP Gold Partner in Jordan (est. 2010); SAP Business One implementation/support for SMEs, 200+ clients (Ayla, Al Ameed Coffee). No internship/fresh-grad program found. stack research 2026-10-06: 3 searches + company site; no employee profiles or company job postings with tech requirements found; tags unchanged."
+evidence:
+  - type: "official_website"
+    url: "https://www.e2abs.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/374157/Advanced_Business_Solutions_SAP_Gold_Partner"
+    label: "Research source"
+  - type: "other"
+    url: "https://Clutch.co/profile/advanced-business-solutions-sap-partner"
+    label: "Research source"
+  - type: "other"
+    url: "https://waseela.com/waseela-partners-with-advanced-business-solutions-to-implement-sap-business-one-erp-system-across-4-countries-jordan-uae-ksa-qatar/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.e2abs.com/wp-content/uploads/2021/06/SAP-Business-One-Standard-Reports-ABS.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95994,35.873899"
+    label: "Google Maps location"

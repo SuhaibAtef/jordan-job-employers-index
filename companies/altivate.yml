@@ -1,0 +1,39 @@
+name: "Altivate"
+industry: "IT consulting / Digital transformation"
+website: "https://www.altivate.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "3rd Circle, Jordan Insurance Building C, Flr 6, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories:
+  - "consulting"
+  - "devops"
+  - "erp"
+technologies:
+  - "AWS"
+  - "Google Cloud"
+  - "SAP"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "SAP Gold Partner headquartered in Riyadh with an Amman office (3rd Circle, Jordan Insurance Building C, Flr 6, per official contact page); hiring AI Projects Lead in Amman; stack spans SAP, AWS and Google Cloud. Old Freshteam careers URL is dead — removed."
+evidence:
+  - type: "official_website"
+    url: "https://www.altivate.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.altivate.com/contact/"
+    label: "Research source"
+  - type: "job_post"
+    url: "https://www.bayt.com/en/international/jobs/altivate-jobs/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

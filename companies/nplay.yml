@@ -1,0 +1,35 @@
+name: "Nplay"
+industry: "Creative Technology / AR-VR"
+website: "https://nplay.tech"
+careers_url: null
+linkedin: null
+hr_email: "info@nplay.tech"
+size: "10-49"
+location:
+  area: "Amman"
+  address: "Wasfi At-Tall St., Almehaniah Commercial Towers, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.992605
+  longitude: 35.865515
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.992605,35.865515"
+categories:
+  - "ai"
+  - "erp"
+  - "games"
+technologies:
+  - "AR/VR"
+  - "Odoo"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman creative-technology company (founded 2018) building VR/AR experiences, digital twins, hologram systems and AI tools. | stack verified 2026-10-07: own site (nplay.tech) states ERP/Odoo & API integrations + web/platform dev; VR/AR product evidence (training simulators, digital twins, holograms); no public employee profiles or dev job postings found."
+evidence:
+  - type: "official_website"
+    url: "https://nplay.tech"
+    label: "Official website"
+  - type: "other"
+    url: "https://themanifest.com/jo/virtual-reality/companies/amman"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.992605,35.865515"
+    label: "Google Maps location"

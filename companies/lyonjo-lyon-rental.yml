@@ -1,0 +1,57 @@
+name: "LyonJO / Lyon Rental"
+industry: "Car rental / travel technology"
+website: "https://www.lyon-jo.com"
+careers_url: null
+linkedin: null
+hr_email: "support@lyon-jo.com"
+size: null
+location:
+  area: "Amman"
+  address: "7th Circle, Al-Mawaddah St., Amman, Jordan (site also lists a Bayader/Arab Revolt Sq. office and an Airport Rd/Gulf Gas Station office; no map pin supports the Bayader text)"
+  status: "verified"
+  latitude: 31.9455433
+  longitude: 35.8437352
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9455433,35.8437352"
+categories:
+  - "data"
+  - "travel"
+  - "web"
+technologies:
+  - "Git"
+  - "Laravel"
+  - "PHP"
+  - "REST API"
+  - "SQL"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Junior"
+notes: "Car rental, transportation and tourism company in Amman with in-house tech team and LyonJO booking app. Actively hires junior backend devs (public hiring post sought 1-2 yrs PHP Laravel) — good entry-level target. GPS kept as-is: Bayader-area coordinates plausible for the stated address; no exact verifiable pin. hr_email corrected: their public site publishes support@lyon-jo.com (rafat@lyon-jo.com had no public evidence). [GPS verified 2026-10-04: claimed Google Maps listing \"Lyon Jo Car Rental\" (268 reviews, matching phone +962 7 7747 7748 and lyon-jo.com), the company's own embedded map, its \"View Location\" map links, its Facebook map pin, Bing's address panel, and an OpenSooq seller location (Swefieh) all agree on the 7th Circle / Al-Mawaddah St. pin 31.9455433, 35.8437352. The Bayader/Arab Revolt Square–against-Manaseer-Gas-Station address appears only as text on the site/Facebook; no listing or pin supports it and the company's own map links resolve to the 7th Circle pin. Distinct Airport Rd office: \"Marvell rental car\" listing at Gulf Station, Airport Rd (31.7309879, 35.9439266), matching the site's \"Inside of Gulf Gas Station - Before the Airport Bridge\" description.]"
+evidence:
+  - type: "official_website"
+    url: "https://www.lyon-jo.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.lyon-jo.com/contactus.php"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.lyon-jo.com/about.php"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/Lyon+Jo+Car+Rental+Amman"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://maps.app.goo.gl/JMwv1LSusz7VTfnL6"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.facebook.com/Lyongroups/"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.findglocal.com/JO/Amman/400142290781108/Lyon-Groups"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://jo.opensooq.com/en/search/286845848"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9455433,35.8437352"
+    label: "Google Maps location"

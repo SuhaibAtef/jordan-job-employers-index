@@ -1,0 +1,50 @@
+name: "Almomani Cyber Solutions"
+industry: "Cybersecurity (SOC services)"
+website: "https://almomanicybersolutions.com"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/almomani-cyber-solutions"
+hr_email: "bootcamp@almomanicybersolutions.com"
+size: null
+location:
+  area: "Amman"
+  address: "Al Quds Center Building 224, Office 210, Wasfi Al Tall street, Amman 11953"
+  status: "verified"
+  latitude: 31.99559
+  longitude: 35.85681
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99559,35.85681"
+categories:
+  - "consulting"
+  - "devops"
+  - "security"
+  - "telecom"
+technologies:
+  - "Cisco"
+  - "Firewalls"
+  - "Linux"
+  - "SIEM"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Fresh graduate"
+    - "Graduate"
+    - "Bootcamp"
+notes: "Amman-based SOC; runs a 1-month intensive SOC Analyst bootcamp explicitly targeting IT/cybersecurity fresh graduates (Splunk, incident response, WAF). Email shown is their published bootcamp application address. No verifiable street address or map pin found (LinkedIn post says 'Amman, Jordan — On-site at our SOC'); GPS kept on city-center fallback. GPS VERIFIED 2026-10-03: company's own contact-page footer (EN+AR) publishes 'Al Quds Center Building 224, Office 210, Wasfi Al Tall street, Amman 11953'; pin geocoded to Al Quds Center on Wasfi Al Tal street, Tla' Al Ali (reverse-geocode: Wasfi Al Tal 226, same block). Google Maps listing is unclaimed/thin (no address, 0 reviews/photos) but sits in the same district with no conflict. | stack verified 2026-10-06: company site lists Splunk/Cisco/F5 BIG-IP/Juniper team certs; own LinkedIn bootcamp post details Splunk ES, firewall/WAF tuning, Linux server ops"
+evidence:
+  - type: "official_website"
+    url: "https://almomanicybersolutions.com"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/almomani-cyber-solutions"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://almomanicybersolutions.com/en/contact/"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://almomanicybersolutions.com/ar/contact/"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/Almomani+Cyber+Solutions/@31.9894226,35.8397482,15z/data=!3m1!4b1!4m6!3m5!1s0x2369e5eb882f216b:0x53153181dfc7ad4f!8m2!3d31.9894226!4d35.8397482!16s%2Fg%2F11zhp7r335"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99559,35.85681"
+    label: "Google Maps location"

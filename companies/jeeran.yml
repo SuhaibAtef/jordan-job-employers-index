@@ -1,0 +1,43 @@
+name: "Jeeran"
+industry: "Local discovery / reviews platform"
+website: "https://jeeran.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Al Waha 2 Complex, Abd Al Rahim Al Hajj Mohammad St 57, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.95862
+  longitude: 35.861535
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95862,35.861535"
+categories:
+  - "devops"
+  - "mobile"
+  - "web"
+technologies:
+  - "Docker"
+  - "JavaScript"
+  - "PHP"
+  - "Python"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Local places/reviews guide for the Arab world (restaurants, services); HQ Amman, funded by 500 Global; website still active with steady traffic. GPS confirmed: coordinates match the verified Google Maps business listing for Al Waha 2 Complex exactly. Tech stack items (WordPress, Google Font API, DNSSEC) removed — not traceable to any listed source. | stack verified 2026-10-03: getprog.ai employee profile (senior engineering + technical management at Jeeran) shows Python/PHP/JavaScript/Docker/cloud-native tooling; RocketReach profile corroborates JS/HTML/PHP."
+evidence:
+  - type: "official_website"
+    url: "https://jeeran.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.crunchbase.com/organization/jeeran"
+    label: "Research source"
+  - type: "other"
+    url: "https://rocketreach.co/jeeran-profile_b5c42aecf42e0de3"
+    label: "Research source"
+  - type: "other"
+    url: "https://jo.jeeran.com/amman/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95862,35.861535"
+    label: "Google Maps location"

@@ -1,0 +1,38 @@
+name: "TebCan"
+industry: "HealthTech (doctor booking / telemedicine)"
+website: "https://tebcan.com"
+careers_url: null
+linkedin: null
+hr_email: "support@tebcan.com"
+size: null
+location:
+  area: "Amman"
+  address: "221 Zahran St., Sweifieh, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.96041
+  longitude: 35.87257
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96041,35.87257"
+categories:
+  - "healthtech"
+  - "mobile"
+  - "web"
+technologies:
+  - "Android"
+  - "Angular"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordanian online doctor-booking and teleconsultation platform covering Amman clinics/hospitals with online payments; publicly lists a support email for contact.\nstack verified 2026-10-04: tebcan.com page source uses Angular front-end API (AngularApi endpoints); official Android app (Tebcan LLC, 100k+ installs) on Google Play."
+evidence:
+  - type: "official_website"
+    url: "https://tebcan.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://tebcan.com/en/Jordan/online/Doctors/addiction/amman"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.1888pressrelease.com/tebcan-expands-presence-in-the-region-with-new-office-openin-pr-645346.html"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.96041,35.87257"
+    label: "Google Maps location"

@@ -1,0 +1,50 @@
+name: "RealSoft Advanced Applications"
+industry: "Custom software / BI consulting"
+website: "https://www.realsoft-me.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "51-200"
+location:
+  area: "Amman"
+  address: "185 Wasfi Altal St., Khalda, Wahet Ammon Bldg, Office #303, Amman"
+  status: "verified"
+  latitude: 31.992837
+  longitude: 35.863598
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99725,35.84949"
+categories:
+  - "consulting"
+  - "data"
+  - "web"
+technologies:
+  - "GIS"
+  - "Oracle Database"
+  - "PostgreSQL"
+  - "Power BI"
+  - "Python"
+  - "SQL"
+  - "SQL Server"
+  - "Tableau"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman software house since 2002 (~100 staff); delivered national census and election systems plus e-services with the Ministry of Digital Economy. Street-level GPS on Wasfi Al Tal St., Khalda. | stack verified 2026-10-04: own BI job posting on realsoft-me.com (Power BI, SQL Server, Oracle, Tableau, Python) + team listings (GIS Specialist, AI Engineer) + DBA resume (PostgreSQL) | GPS VERIFIED 2026-10-04: official contact page (185 Wasfi Altal str., Khalda, Wahet Ammon Bldg #303) agrees with claimed, 46-review Google Maps listing @31.992837,35.863598 (Software company, phone+site match official); independently confirmed by intaj.net, clutch.co, cybo.com, LinkedIn snippet — all Wasfi Al Tal/Eltal St. One sparse jordanyp.com listing gave a conflicting Queen Rania/University St. address (0 reviews, stale) and was distrusted."
+evidence:
+  - type: "official_website"
+    url: "https://www.realsoft-me.com/"
+    label: "Official website"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/RealSoft+Advanced+Applications/@31.992837,35.863598,1010m/data=!3m2!1e3!4b1!4m6!3m5!1s0x151ca1ce4c899f25:0x2a876911b2c14aae!8m2!3d31.992837!4d35.863598!16s%2Fg%2F11btxck1sh"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.intaj.net/network/realsoft-advanced-applications"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://jordanict.com/company-profile/realsoft-advanced-applications"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://clutch.co/profile/realsoft-advanced-applications"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99725,35.84949"
+    label: "Google Maps location"

@@ -1,0 +1,48 @@
+name: "Sympaweb"
+industry: "Web design & digital marketing agency"
+website: "https://sympaweb.com"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/sympaweb-com"
+hr_email: null
+size: "2-9"
+location:
+  area: "Amman"
+  address: "Al Madina Al Munawara St, Bld 244, Amman 11953"
+  status: "verified"
+  latitude: 31.9953237
+  longitude: 35.8712746
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9953237,35.8712746"
+categories:
+  - "ecommerce"
+  - "marketing"
+  - "web"
+technologies:
+  - "PHP"
+  - "WordPress"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Arabic-language web design, programming and marketing agency in Amman (est. 2019, <10 staff): websites, e-commerce, branding, SEO. No public internship/fresh-grad programme found. | stack verified 2026-10-04: Manifest client review (WordPress site built in PHP, team of 3 devs) + directory listing both show WordPress + PHP; added WordPress, PHP. | GPS VERIFIED 2026-10-06: Google Maps business pin (31.9953237, 35.8712746, \"ش. المدينة المنورة\") agrees with official Facebook page address (Al-Madina Al-Munawwarah Str. Bld 244, Amman 11953); company contact page confirms the street."
+evidence:
+  - type: "official_website"
+    url: "https://sympaweb.com"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/sympaweb-com"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://sympaweb.com/contact"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/Sympaweb/@31.9953237,35.8712746,17z/"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.facebook.com/Sympaweb"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://themanifest.com/jo/web-development/php/companies"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9953237,35.8712746"
+    label: "Google Maps location"

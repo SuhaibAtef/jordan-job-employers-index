@@ -1,0 +1,28 @@
+name: "Middle East Recruitment"
+industry: "Staffing & Recruiting"
+website: "http://www.mer.jo/index.php?lang=ar"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: null
+  status: "provided_unverified"
+  latitude: 31.9927257
+  longitude: 35.8712227
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9927257,35.8712227"
+categories:
+  - "web"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-headquartered recruitment firm placing Jordanian talent with Gulf employers (construction, hospitality, healthcare); reports 30+ team members, 500+ trained annually and in-person/video interview rooms. Office location taken from the company's own embedded Google Map on its site. | stack research 2026-10-06: 2 searches, no employee profiles or own dev postings found (recruitment placement firm mer.jo)"
+evidence:
+  - type: "official_website"
+    url: "http://www.mer.jo/index.php?lang=ar"
+    label: "Official website"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9927257,35.8712227"
+    label: "Google Maps location"

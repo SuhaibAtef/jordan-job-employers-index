@@ -1,0 +1,52 @@
+name: "Optimiza"
+industry: "ICT systems integration / digital transformation"
+website: "https://optimizasolutions.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "201-500"
+location:
+  area: "Amman"
+  address: "Mecca Towers, Complex No. 172, Mecca Al Mukarramah St, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.977294
+  longitude: 35.854125
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.977294,35.854125"
+categories:
+  - "ai"
+  - "data"
+  - "devops"
+  - "erp"
+  - "web"
+technologies:
+  - ".NET"
+  - "Angular"
+  - "Java"
+  - "REST API"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Academy"
+notes: "Publicly listed ICT systems integrator founded 1983 (Al-Faris National Investment Group); 400+ experts across Jordan, UAE, KSA, Egypt and Morocco; runs Optimiza Academy. GPS upgraded to verified Google Maps business pin (Mecca Towers, Mecca Al Mukarramah St; confirmed in their annual report). Website confirmed resolving to the actual company.\nstack verified 2026-10-06: 4 current Bayt.com job postings — Full-Stack Java Developer, Senior Full Stack Developer (Angular/Java), Windows Application Developer (.NET), Full Stack Team Leader"
+evidence:
+  - type: "official_website"
+    url: "https://optimizasolutions.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.zoominfo.com/c/optimiza/462619645"
+    label: "Research source"
+  - type: "other"
+    url: "https://contactout.com/company/OPTIMIZA-9426"
+    label: "Research source"
+  - type: "other"
+    url: "https://enterpriseleague.com/company/optimiza"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.courierslist.com/detail/jordan/amman/fleet-management-software/1923736/optimiza"
+    label: "Research source"
+  - type: "other"
+    url: "https://optimiza.me/wp-content/uploads/2023/05/التقرير-السنوي-وتقرير-الحوكمة-AD22Mar2023-final_compressed.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.977294,35.854125"
+    label: "Google Maps location"

@@ -1,0 +1,50 @@
+name: "Mafateeh Group"
+industry: "ERP consulting (Odoo)"
+website: "http://www.mafateehgroup.com/"
+careers_url: null
+linkedin: null
+hr_email: "info@mafateehgroup.com"
+size: null
+location:
+  area: "Amman"
+  address: "Wahib Al Afyouni St. (7th Circle area), Amman"
+  status: "verified"
+  latitude: 31.9563142
+  longitude: 35.8548096
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9563142,35.8548096"
+categories:
+  - "consulting"
+  - "ecommerce"
+  - "erp"
+  - "web"
+technologies:
+  - "Odoo"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Odoo ERP implementation partner in Amman (CRM, inventory, accounting, e-commerce); also does web/e-commerce and digital marketing. Audit 2026-10-03: coords improved from city fallback to street-level geocode of Wahib Al Afyouni St. (kept approx=true; building number not published). hr_email retained from company site citation but contact page was unreachable during audit — re-verify before publishing.\nGPS VERIFIED 2026-10-04: official contact page (mafateehgroup.com/en/contact) gives 'Amman, Jordan / Wahib Al Afyouni St.'; claimed, owner-managed Google Maps listing 'Mafateeh IT & Media Solutions - مفاتيح للحلول التقنية' (5.0 rating, 10 owner photos, same phone +962770609728) labels address 'XV43+GV9 Wahab, Wahib Al-Afyouni St. 11181, Amman, Jordan' pinned at 31.9563142,35.8548096; company Medium articles say '7th Circle - Al-Naiemaat Building, 3rd Floor' — live-map check shows Wahib Al Afyouni St. runs through the 7th Circle district, so no genuine conflict. Bar met: 2 independent sources agree + authoritative source. Low-authority scraper (findglocal) 'Amir Ben Malek Street' label discarded as contradicted.\nstack research 2026-10-06: 3 searches; company/partner marketing posts confirm Odoo implementation + module customization, but no employee profiles or dev job postings found; tags unchanged"
+evidence:
+  - type: "official_website"
+    url: "http://www.mafateehgroup.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.mafateehgroup.com/en/contact"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.mafateehgroup.com/"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9563142,35.8548096"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://medium.com/@madrasa5005/how-mafateeh-company-bridges-odoo-systems-with-the-strategies-of-any-digital-marketing-agency-a6181da7bcd6"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://clutch.co/profile/mafateeh"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.facebook.com/mafateehmedia/about"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://medium.com/@alabeernationalschool/transform-your-business-operations-with-the-best-erp-software-995abf891398"
+    label: "Research source"

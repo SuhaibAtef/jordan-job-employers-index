@@ -1,0 +1,39 @@
+name: "Tazweed Technologies"
+industry: "Information Technology and Services"
+website: "http://tazweed.tech"
+careers_url: null
+linkedin: null
+hr_email: "info@tazweed.tech"
+size: null
+location:
+  area: "Amman"
+  address: "Dabouq, Amman 11822, Jordan"
+  status: "approximate"
+  latitude: 31.95672
+  longitude: 35.92519
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+categories:
+  - "consulting"
+  - "security"
+technologies:
+  - "SOC"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman ICT/ITO provider (a Mezzan Holding company); managed ICT business unit includes MSSP and MDR cybersecurity services plus datacenter, networking and unified communications infrastructure."
+evidence:
+  - type: "official_website"
+    url: "http://tazweed.tech"
+    label: "Official website"
+  - type: "other"
+    url: "https://jordanict.com/company-profile/tazweed-technologies"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.selling.com/company/tazweed-a-mezzan-holding/131262320"
+    label: "Research source"
+  - type: "other"
+    url: "https://intaj.net/newsletters/?pg=3"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+    label: "Google Maps location"

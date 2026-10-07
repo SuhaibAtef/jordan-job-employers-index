@@ -1,0 +1,55 @@
+name: "Specialized Technical Services (STS)"
+industry: "Information Technology and Services"
+website: "https://www.stsarabia.com"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/stsmiddleeast"
+hr_email: null
+size: "251-500"
+location:
+  area: "Amman"
+  address: "Abdullah Ghosheh Street, Bldg. 1, Shaban Bldg., 7th Circle, Amman 11195, Jordan"
+  status: "provided_unverified"
+  latitude: 31.96001
+  longitude: 35.8571
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96001,35.85710"
+categories:
+  - "consulting"
+  - "telecom"
+technologies:
+  - "Cisco"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "ICT/digital transformation provider (cloud, cybersecurity, system integration, IoT, big data & analytics) founded 1989 in Amman; acquired by ZainTECH (Oct 2023); a 2025-2026 public CV documents a Cybersecurity Intern (SOC Analyst) at STS Amman using Splunk, Tenable Nessus and Python. Website corrected from sts.com.jo (dead) to stsarabia.com (canonical domain per company directories; fetch returned HTTP 500 during verification, likely transient). LinkedIn slug 'stsmiddleeast' seen in an official post URL but unverifiable without live browser - flag for LinkedIn check. Coords are street-level geocode of Abdullah Ghosheh St, 7th Circle - pending live-browser pin check. Live-browser verified 2026-10-03: claimed Maps listing pin 31.960014,35.8571024 (Abdallah Ghosheh St 1) corroborated by Bing Maps card; LinkedIn resolved to /company/stsmiddleeast (employees gated). Stack trimmed: Python/Splunk/Nessus unsupported (Cisco Gold Direct + Microsoft Gold Certified partner, Workable job postings). stsarabia.com currently down (HTTP 500/timeout; content mirrored at sts.itmam-testing.com)."
+evidence:
+  - type: "official_website"
+    url: "https://www.stsarabia.com"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/stsmiddleeast"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://www.cbinsights.com/company/specialized-technical-services"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.yasteq.com/JO/Amman/1643690919244284/STS%2C-A-Zaintech-Company"
+    label: "Research source"
+  - type: "other"
+    url: "https://ibsintelligence.com/ibsi-news/zaintech-to-acquire-sts-to-expand-its-service-offerings/"
+    label: "Research source"
+  - type: "other"
+    url: "https://portfolio.aktham.net/cv/aktham_alarabi_cv.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.tipntag.com/place/s/specialized-technical-services-sts-1-Seventh-Circle-Amman-Jordan"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.cafraj.com/news/n/news/jo-petroleum-product-marketing-company-chooses-sts-as-a-technology-partner-to-accelerate-its-digital-transformation-strategy.html"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=Specialized+Technical+Services+STS+Amman"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.96001,35.85710"
+    label: "Google Maps location"

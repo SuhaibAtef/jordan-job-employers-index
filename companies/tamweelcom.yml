@@ -1,0 +1,55 @@
+name: "Tamweelcom"
+industry: "Microfinance / Lending"
+website: "https://tamweelcom.org"
+careers_url: null
+linkedin: null
+hr_email: "info@tamweelcom.org"
+size: "500+"
+location:
+  area: "Ma'an"
+  address: "Sweileh, Khair Al-Din Al Maani St., Jerisat Center 2, Bldg 29, Amman"
+  status: "verified"
+  latitude: 32.011949
+  longitude: 35.832396
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.011949,35.832396"
+categories:
+  - "data"
+  - "fintech"
+  - "mobile"
+technologies:
+  - "Oracle Database"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Non-profit microfinance institution founded 1999 by the Noor Al-Hussein Foundation; 95,000+ clients and 39 branches; runs an e-wallet and mobile app with an Oracle-based digital loan platform; focuses on women and youth.\ngps 2026-10-07: Verified head-office pin 32.0118807, 35.8324269. Company's own site (tamweelcom.org footer) states head office at Sweileh, Khair Al-Din Al Maani St., Jerisat Center 2, Bldg 29; claimed Google Maps 'Tamweelcom Head Office' listing (official site link, hours, 36 reviews, owner photos, no claim prompt) pins to the same spot, and a second Maps listing names Jerisat Center 2 / Khair Al-Din Al-Ma'ani St. explicitly ~20m away."
+evidence:
+  - type: "official_website"
+    url: "https://tamweelcom.org"
+    label: "Official website"
+  - type: "other"
+    url: "https://tamweelcom.org/ (site footer states head office: Sweileh, Khair Al-Din Al Maani St., Jerisat Center 2, Bldg 29, Amman)"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/Tamweelcom+Head+Office/@32.0118807,35.8228997,16z/data=!4m10!1m2!2m1!1sTamweelcom+Sweileh+Amman!3m6!1s0x151ca160cbeb5947:0x7e2441babe47ca11!8m2!3d32.0118807!4d35.8324269!16s%2Fg%2F11j4vnrjh2?entry=ttu (claimed listing: official site link, hours, 36 reviews, owner photos)"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/Tamweelcom/@32.0118807,35.8228997,16z/data=!4m10!1m2!2m1!1sTamweelcom+Sweileh+Amman!3m6!1s0x151ca1fe8a1c0d99:0xbb37a9bccd9e3f74!8m2!3d32.011978!4d35.832397!16s%2Fg%2F12qhjgnvn?entry=ttu (address label: Jerisat Center 2, Khair Al-Din Al-Ma'ani St., Amman; ~20m from head-office pin)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://tamweelcom.org/en/webforms/contact-us (verbatim head-office address: Amman – Sweileh – Intersection of Jordan Standards and Metrology Org – Al Rahmaniyah – Khair Al Deen Al Maani St. – Jureisat Center 2 – Bldg 29; Arabic page identical)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://tamweelcom.org/ar/branch (Head Office branch map link pins to 32.011949, 35.832396 — plus code 2R6J+QXC Amman)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.linkedin.com/company/jordan-micro-credit-company-tamweelcom- (Locations: Sweileh, Amman Governorate; Khair Al-Din Al-Maani St. first floor; Kheir Al-Dein Al-Maiane St. BLG# 29)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://bitscale.ai/directory/tamweelcom"
+    label: "Research source"
+  - type: "other"
+    url: "https://delta.com.jo/wp-content/uploads/2024/07/Tamweelkom-Case-Study.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.011949,35.832396"
+    label: "Google Maps location"

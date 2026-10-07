@@ -1,0 +1,37 @@
+name: "iPlant"
+industry: "AgriTech / Vertical Farming (CEA)"
+website: null
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.95672
+  longitude: 35.92519
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+categories:
+  - "iot"
+technologies:
+  - "hydroponics"
+  - "renewable energy integration"
+  - "vertical farming / controlled environment agriculture"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman vertical-farming startup developing GreenSpin (solar-powered controlled-environment agriculture system); selected by IWMI/WFP for water security in refugee-hosting communities; publicly posted hiring on LinkedIn; no website, no HR email, no office address found.\nstack research 2026-10-05: 3 searches, no employee dev profiles or engineering job postings found; only a freelance-built marketing website repo (github.com/iroofgr/iplant-website) and agriculture-role postings; no in-house software stack evident."
+evidence:
+  - type: "other"
+    url: "https://www.cgiar.org/news-events/news/iwmi-and-jordans-private-sector-collaborate-on-solutions-for-water-security/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/iplant_hiring-agriculture-startup-activity-7019781516280901632-jYCH"
+    label: "Research source"
+  - type: "other"
+    url: "https://cgspace.cgiar.org/server/api/core/bitstreams/067a9764-01b2-4456-a820-6483fcb587ff/content"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+    label: "Google Maps location"

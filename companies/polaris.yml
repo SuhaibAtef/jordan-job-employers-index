@@ -1,0 +1,38 @@
+name: "Polaris"
+industry: "Information Technology and Services"
+website: "https://www.polaris-tek.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "9, Ahmed Al Dalahmeh St., Amman, 11814, Jordan"
+  status: "provided_unverified"
+  latitude: 31.99915
+  longitude: 35.82995
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99915,35.82995"
+categories:
+  - "consulting"
+  - "data"
+  - "devops"
+technologies:
+  - "AWS"
+  - "Mendix"
+  - "Oracle Database"
+  - "Veeam"
+  - "VMware"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman IT infrastructure firm; Mendix Top Cloud Partner MEA FY21, Oracle Field Delivery Partner; managed & consultancy services, AWS marketplace listing, digital transformation."
+evidence:
+  - type: "official_website"
+    url: "https://www.polaris-tek.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.micromindercs.com/blog/cybersecurity-companies-in-jordan"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99915,35.82995"
+    label: "Google Maps location"

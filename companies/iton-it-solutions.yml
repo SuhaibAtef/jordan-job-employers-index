@@ -1,0 +1,40 @@
+name: "ITON IT Solutions"
+industry: "Computer & Network Security"
+website: "https://www.iton-jo.com/"
+careers_url: null
+linkedin: null
+hr_email: "info@iton-jo.com"
+size: "1-20 employees"
+location:
+  area: "Amman"
+  address: "Adnan Hussein Complex, Queen Rania Al Abdullah St 44, Amman 11953, Jordan"
+  status: "provided_unverified"
+  latitude: 31.99067
+  longitude: 35.89316
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99067,35.89316"
+categories:
+  - "consulting"
+  - "devops"
+  - "security"
+technologies:
+  - "EDR/XDR"
+  - "Firewalls"
+  - "IAM"
+  - "Veeam"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordanian managed service provider est. 2007 (1-20 employees); cloud, backup & disaster recovery, networking and cybersecurity; WALLIX privileged-access-management partner."
+evidence:
+  - type: "official_website"
+    url: "https://www.iton-jo.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.wallix.com/partners/var/iton-it-solutions/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.selling.com/company/iton-it-solutions/119077905"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99067,35.89316"
+    label: "Google Maps location"

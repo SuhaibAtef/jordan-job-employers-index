@@ -1,0 +1,48 @@
+name: "Whyise"
+industry: "Impact Analytics SaaS / AI"
+website: "https://whyise.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "1-10"
+location:
+  area: "Amman"
+  address: "Mecca St. 33, Floor 5, Um Uthaina, Amman 11941, Jordan"
+  status: "provided_unverified"
+  latitude: 31.96512
+  longitude: 35.887538
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96512,35.887538"
+categories:
+  - "ai"
+  - "data"
+  - "web"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Founded 2018 in Amman by Reem Khouri; AI-powered impact-analytics SaaS for ESG/SDG measurement and reporting; raised $675K+ (Ahli Fintech, ISSF, Wamda). | stack research 2026-10-05: 5 searches + 1 page opened; only evidence is 1 Wuzzuf profile ('Full Stack Developer at Whyise') with no stack detail — no employee profiles or dev job postings found."
+evidence:
+  - type: "official_website"
+    url: "https://whyise.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.wamda.com/index.php/2020/08/whyise-raises-675000-participation-wamda"
+    label: "Research source"
+  - type: "other"
+    url: "https://magnitt.com/news/amman-based-startup-whyise-raises-seed-round-38170"
+    label: "Research source"
+  - type: "other"
+    url: "https://ahli.com/ahli-fintech-leads-seed-investment-with-issf-in-ai-powered-impact-analytics-platform-whyise/"
+    label: "Research source"
+  - type: "other"
+    url: "https://jordanict.com/2021/company-profile/whyise"
+    label: "Research source"
+  - type: "other"
+    url: "https://pitchbook.com/profiles/company/433118-71"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/376033/Whyise"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.96512,35.887538"
+    label: "Google Maps location"

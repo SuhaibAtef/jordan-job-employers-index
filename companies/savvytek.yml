@@ -1,0 +1,40 @@
+name: "Savvytek"
+industry: "IT solutions / systems integration (open-source)"
+website: "https://www.savvytek.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "318 King Abdullah II St, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "data"
+  - "devops"
+technologies:
+  - "Linux"
+  - "Oracle Database"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordan-HQ IT solutions provider with offices in USA, Saudi Arabia and Qatar; Red Hat Premier Partner and Oracle Platinum Partner; delivers services helping clients migrate from proprietary software to open source."
+evidence:
+  - type: "official_website"
+    url: "https://www.savvytek.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.zoominfo.com/c/savvytek/105677203"
+    label: "Research source"
+  - type: "other"
+    url: "http://www.thefreelibrary.com/Red+Hat+deepens+its+partnership+with+Savvytek+in+Jordan-a0227578099"
+    label: "Research source"
+  - type: "other"
+    url: "https://abc-gcc.net/companies/23/484375/savvytek"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

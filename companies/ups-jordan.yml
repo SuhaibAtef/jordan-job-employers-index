@@ -1,0 +1,37 @@
+name: "UPS Jordan"
+industry: "Logistics / package delivery"
+website: "https://www.ups.com"
+careers_url: "https://www.upsjobs.com"
+linkedin: "https://www.linkedin.com/company/ups"
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "XRWJ+RG2, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.997016
+  longitude: 35.831258
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.997016,35.831258"
+categories:
+  - "logistics"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Global package-delivery giant with a Jordan operation (courierslist listing 'Ups Jordan', XRWJ+RG2, Amman); hires across operations, tech and corporate roles via upsjobs.com. | stack research 2026-10-04: no Jordan-specific engineering evidence found (employee-snippet, getprog.ai, akhtaboot, job-board searches; global UPS IT roles not Jordan-specific). Tags left unverified."
+evidence:
+  - type: "official_website"
+    url: "https://www.ups.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://www.upsjobs.com"
+    label: "Careers / application page"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/ups"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://www.courierslist.com/detail/jordan/amman/shipping-service/1214595/ups-jordan"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.997016,35.831258"
+    label: "Google Maps location"

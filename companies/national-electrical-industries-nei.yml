@@ -1,0 +1,35 @@
+name: "National Electrical Industries (NEI)"
+industry: "Smart City / Electrical Manufacturing"
+website: "https://nei.com.jo/"
+careers_url: null
+linkedin: null
+hr_email: "info@nei.com.jo"
+size: null
+location:
+  area: "Sahab"
+  address: "Abdullah II Industrial City, Sahab, Jordan"
+  status: "provided_unverified"
+  latitude: 31.84939
+  longitude: 36.00937
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.84939,36.00937"
+categories:
+  - "iot"
+technologies:
+  - "IoT"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Est. 1984 manufacturer of electrical/lighting systems in Sahab; NEI City cloud platform + IoT smart poles (cameras, weather stations, EV charging, 5G) for smart-city projects. Address and info@nei.com.jo confirmed in official NEI presentation."
+evidence:
+  - type: "official_website"
+    url: "https://nei.com.jo/"
+    label: "Official website"
+  - type: "other"
+    url: "https://nei.com.jo/wp-content/uploads/2026/06/NEI-Smart-Solution.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://nei.com.jo/wp-content/uploads/2026/06/NEI-Smart-Presentation.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.84939,36.00937"
+    label: "Google Maps location"

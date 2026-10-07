@@ -1,0 +1,53 @@
+name: "OpenSooq"
+industry: "Online classifieds marketplace"
+website: "https://opensooq.com"
+careers_url: null
+linkedin: null
+hr_email: "careers@opensooq.com"
+size: "201-500"
+location:
+  area: "Amman"
+  address: "Al Hijaz Towers Complex, Mecca St. 158, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.976105
+  longitude: 35.860934
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.976105,35.860934"
+categories:
+  - "devops"
+  - "ecommerce"
+  - "web"
+technologies:
+  - "AWS"
+  - "HTML"
+  - "JavaScript"
+  - "Node.js"
+  - "PHP"
+  - "Sequelize"
+  - "Socket.io"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+notes: "Leading mobile-first classifieds marketplace in MENA (founded 2012, 461 employees); raised $24M in 2021 to add 400 people to the Jordan team, indicating large-scale graduate intake. Public LinkedIn company URL not verifiable; hiring via careers@opensooq.com (publicly posted on OpenSooq's own job listings). GPS upgraded to the office's verified Google business pin at Al Hijaz Towers Complex, Mecca St. 158."
+evidence:
+  - type: "official_website"
+    url: "https://opensooq.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://rocketreach.co/opensooqcom-lswq-lmftwh-profile_b5edb2b2f42e7fad"
+    label: "Research source"
+  - type: "other"
+    url: "http://review.wfsbo.com/websitestat/GeneratePageSpeed/domain/opensooq.com/language/en"
+    label: "Research source"
+  - type: "other"
+    url: "https://kr-asia.com/jordans-opensooq-raises-usd-24-million-to-grow-its-mobile-first-classifieds-marketplace"
+    label: "Research source"
+  - type: "other"
+    url: "https://jo.opensooq.com/"
+    label: "Research source"
+  - type: "other"
+    url: "https://ly.opensooq.com/en/job-posters/285744958"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.976105,35.860934"
+    label: "Google Maps location"

@@ -1,0 +1,38 @@
+name: "Kuehne+Nagel Jordan"
+industry: "Logistics / freight forwarding / supply chain"
+website: "https://kuehne-nagel.com"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/kuehne-nagel"
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Al-Thaqafah, Shmeisani, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.9541033
+  longitude: 35.9073505
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9541033,35.9073505"
+categories:
+  - "ai"
+  - "logistics"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Swiss-headquartered global freight forwarder (sea/air/land, contract logistics, e-commerce fulfillment) with a Shmeisani office in Amman (JordanYP listing: Al-Thaqafah, Shmeisani).\nstack research 2026-10-04: 3 searches, branch ops office; only Amman posting is Secretary/Admin (GulfTalent), global IT roles centralized elsewhere; no employee profiles or dev postings found"
+evidence:
+  - type: "official_website"
+    url: "https://kuehne-nagel.com"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/kuehne-nagel"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/358918/Kuehne_Nagel_Jordan_Ltd_Co"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.courierslist.com/detail/jordan/amman/warehousing-companies/1280018/kuehnenagel-uk-limited-jordan"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9541033,35.9073505"
+    label: "Google Maps location"

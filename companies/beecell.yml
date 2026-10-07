@@ -1,0 +1,48 @@
+name: "Beecell"
+industry: "Telecommunications / Digital Media & VAS"
+website: "https://beecell.com/"
+careers_url: "https://beecell.com/"
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Al-Anis 2 Street 28, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.969742
+  longitude: 35.856984
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.969742,35.856984"
+categories:
+  - "data"
+  - "devops"
+  - "mobile"
+  - "telecom"
+  - "web"
+technologies:
+  - "Android"
+  - "Java"
+  - "Linux"
+  - "Oracle Database"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman digital-media/VAS group (20 years): content production & aggregation with direct operator connectivity in 20 countries (270M subscribers), corporate solutions; careers section on homepage invites CVs (email shown as image only). stack verified 2026-10-05: 5+ employee profiles (Java Developers Mohammad Younis & Mohammed Alshalabi, Oracle & DB Admin, DevOps/Linux Engineer, Android app com.beecellapps.so2alak) show Java, Oracle Database, Linux, DevOps, Android."
+evidence:
+  - type: "official_website"
+    url: "https://beecell.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://jordanict.com/2017/company-category/mobile-content-services-apps"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.arounddeal.com/p/alaa-hijjawi/w0puwdiqjr"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.twine.net/user974787"
+    label: "Research source"
+  - type: "other"
+    url: "https://wuzzuf.net/me/Lana-Manaseer-abc56a9eee"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.969742,35.856984"
+    label: "Google Maps location"

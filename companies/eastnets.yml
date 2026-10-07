@@ -1,0 +1,39 @@
+name: "Eastnets"
+industry: "Fintech / AML & compliance software"
+website: "https://eastnets.com"
+careers_url: "https://www.eastnets.com/careers"
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Petra Building, 2nd Floor, Khalil Mardam St, Shmeisani, Amman"
+  status: "provided_unverified"
+  latitude: 31.966754
+  longitude: 35.900108
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.966754,35.900108"
+categories:
+  - "data"
+  - "fintech"
+  - "security"
+  - "web"
+technologies:
+  - "Java"
+  - "Oracle Database"
+  - "Spring Boot"
+  - "SQL"
+  - "SQL Server"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "AML/compliance software company (SafeWatch screening platform) with Amman office in Shmeisani; careers page lists Jordan-based roles. | stack verified 2026-10-05: 2 Bayt employee profiles (Eastnets Amman: 2012-13 Technical Team Leader lists SafeWatch AML stack J2EE/Java/Spring/Hibernate/Oracle 10g/SQL Server; 2021-22 Full Stack Java Web Developer) + Glassdoor employee reviews listing Java Developer roles and 'old technology stack like jsf or primefaces' (corroborates JSF/PrimeFaces UI layer)."
+evidence:
+  - type: "official_website"
+    url: "https://eastnets.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://www.eastnets.com/careers"
+    label: "Careers / application page"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.966754,35.900108"
+    label: "Google Maps location"

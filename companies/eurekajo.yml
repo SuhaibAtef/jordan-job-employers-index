@@ -1,0 +1,41 @@
+name: "EurekaJo"
+industry: "PropTech / Real Estate Marketplace"
+website: "https://eurekajo.com"
+careers_url: null
+linkedin: null
+hr_email: "info@eurekajo.com"
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "ecommerce"
+  - "mobile"
+  - "proptech"
+technologies:
+  - "Android"
+  - "iOS"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordan-focused real estate app by Canberra For Electronic Trading / Eureka Inc; free property listings for sale/rent (apartments, villas, land, farms) with ~190K Android downloads."
+evidence:
+  - type: "official_website"
+    url: "https://eurekajo.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://apps.apple.com/us/app/eurekajo-properties-in-jordan/id1617968807"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.appbrain.com/app/eurekajo-properties-in-jordan/com.eurekajo.mobile"
+    label: "Research source"
+  - type: "other"
+    url: "https://appstorespy.com/android-google-play/com.eurekajo.mobile-trends-revenue-statistics-downloads-ratings"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

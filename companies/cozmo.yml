@@ -1,0 +1,37 @@
+name: "Cozmo"
+industry: "E-commerce (online supermarket)"
+website: "https://cozmo.jo"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Cozmo Centre, Issa Al-Naouri Street, 7th Circle, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.952533
+  longitude: 35.855392
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.952533,35.855392"
+categories:
+  - "ecommerce"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordan's leading supermarket chain (est. 2003, THE Group) that launched the Kingdom's first supermarket e-commerce site (cozmo.jo) in 2016 with home delivery; HQ store at Cozmo Centre, 7th Circle, Issa Al-Naouri Street, Amman (Google listing 'COZMO').\nstack research 2026-10-04: 6 searches + 1 page open, no employee profiles or dev postings found (app package jo.thegroup.cozmo by The Group.jo; 'Power Cozmo' results are a different company)"
+evidence:
+  - type: "official_website"
+    url: "https://cozmo.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://cozmo.jo/about-cozmo"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.tipntag.com/place/s/cozmo-Swefieh-Amman-Jordan/page/20"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.interiola.com/JO/Amman/339400283281178/Cozmo-Home"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.952533,35.855392"
+    label: "Google Maps location"

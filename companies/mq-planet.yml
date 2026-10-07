@@ -1,0 +1,37 @@
+name: "MQ Planet"
+industry: "Hosting & data centers"
+website: "https://mqplanet.com"
+careers_url: null
+linkedin: null
+hr_email: "sales@mqplanet.com"
+size: null
+location:
+  area: "Amman"
+  address: "Yajouz Street, Al-Jubaiha, Building 8, Office 318, 11194 Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 32.02611
+  longitude: 35.85659
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.02611,35.85659"
+categories:
+  - "data"
+  - "devops"
+  - "fintech"
+  - "security"
+technologies:
+  - "Firewalls"
+  - "MetaTrader"
+  - "VPS Hosting"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-based (Galya for Information Technology) hosting and data-center provider offering dedicated servers, VPS, cloud hosting, anti-DDoS and MetaTrader 4/5 forex platforms; also builds custom software and CRM tools."
+evidence:
+  - type: "official_website"
+    url: "https://mqplanet.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://mqplanet.com/company/contact-us"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.02611,35.85659"
+    label: "Google Maps location"

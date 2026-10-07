@@ -1,0 +1,47 @@
+name: "GateToPay"
+industry: "Payments / FinTech"
+website: "https://www.gatetopay.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Prince Rashed District, Mamdouh Al-Sarayrah St., Bldg No. 58, Ground & 3rd Floor, Amman 11118"
+  status: "verified"
+  latitude: 31.9740163
+  longitude: 35.8454088
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97425,35.84711"
+categories:
+  - "fintech"
+technologies:
+  - "REST API"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "CBJ-licensed payment infrastructure provider (cards, wallets, acceptance, money movement; Card-as-a-Service and BIN sponsorship as Mastercard Principal Member), est. 2014; developer APIs, SDKs and webhooks indicate an in-house engineering team. | gps_verified 2026-10-06: official contact page (gatetopay.com/en/contact) states \"Prince Rashed District, Mamdouh Al-Sarayrah St., Bldg No. 58, Ground & 3rd Floor, Amman, Jordan\"; Google Maps \"Gate To Pay\" listing pins 31.9740163,35.8454088 on Mamdouh Al Sarayrah St (reverse-geocodes to Bldg 59, adjacent) — two independent sources agree. | stack research 2026-10-07: 5 searches (gate topay, sedrapay, wuzzuf, akhtaboot, getprog) + gatotopay.com + sedrapay.com pages; no employee profiles or dev job postings found; identified as SedraPay payment infra provider, no public stack evidence"
+evidence:
+  - type: "official_website"
+    url: "https://www.gatetopay.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.gatetopay.com/en/contact"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/Gate+To+Pay/@31.9740163,35.8454088,17z"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.gatetopay.com/en"
+    label: "Research source"
+  - type: "other"
+    url: "https://newsroom.mastercard.com/news/eemea/en/newsroom/press-releases/en/2026/july/gatetopay-joins-mastercard-s-product-express-program-for-fintech-enablement-in-jordan/"
+    label: "Research source"
+  - type: "other"
+    url: "https://gatetopay.com/en/pricing"
+    label: "Research source"
+  - type: "other"
+    url: "https://gatetopay.com/en?from=AppAgg.com"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97425,35.84711"
+    label: "Google Maps location"

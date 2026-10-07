@@ -1,0 +1,41 @@
+name: "Cenovity"
+industry: "Business Technology Consulting / Cybersecurity"
+website: "https://www.cenovity.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "10-49"
+location:
+  area: "Amman"
+  address: "25 Abdulla Bin Rawaha Street, Rabieh, Amman 11195, Jordan"
+  status: "provided_unverified"
+  latitude: 31.97349
+  longitude: 35.880821
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97349,35.880821"
+categories:
+  - "ai"
+  - "consulting"
+  - "devops"
+  - "security"
+technologies:
+  - "AI/ML"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-headquartered (est. 2016) AI- and cybersecurity-led consulting firm serving MENA with enterprise risk assessments, security frameworks and digital transformation work."
+evidence:
+  - type: "official_website"
+    url: "https://www.cenovity.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://clutch.co/profile/cenovity"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.goodfirms.co/company/cenovity"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.sortlist.com/agency/cenovity"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97349,35.880821"
+    label: "Google Maps location"

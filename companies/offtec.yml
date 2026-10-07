@@ -1,0 +1,40 @@
+name: "Offtec"
+industry: "IT Solutions / Network Security"
+website: "http://www.offtec.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "12 Queen Misbah Street, 3rd Circle, Amman 11118, Jordan"
+  status: "provided_unverified"
+  latitude: 31.955352
+  longitude: 35.912939
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.955352,35.912939"
+categories:
+  - "security"
+technologies:
+  - "Firewalls"
+  - "IAM"
+  - "Penetration Testing"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman business technology group with an IT security department since 2004 (first Microsoft Gold Security Partner in Jordan); sells WAF, SWG/SEG, DDoS protection and NAC solutions."
+evidence:
+  - type: "official_website"
+    url: "http://www.offtec.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.furniture1000.com/JO/Amman/121217981282163/OFFTEC"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.micromindercs.com/blog/amman-ot-security-cybersecurity-companies"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.thefreelibrary.com/OFFTEC+first+MS+Gold+Security+Partner+in+Jordan-a0183536979"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.955352,35.912939"
+    label: "Google Maps location"

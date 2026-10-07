@@ -1,0 +1,38 @@
+name: "Shabkati Network Solutions"
+industry: "Network solutions / ICT infrastructure"
+website: "https://shabkati.com"
+careers_url: null
+linkedin: null
+hr_email: "info@shabkati.com"
+size: "2-10"
+location:
+  area: "Amman"
+  address: "Mecca St., Amman, P.O. Box 18024 Amman 11195"
+  status: "provided_unverified"
+  latitude: 31.975415
+  longitude: 35.862216
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.975415,35.862216"
+categories:
+  - "security"
+  - "telecom"
+technologies:
+  - "Cisco"
+  - "EDR/XDR"
+  - "Firewalls"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Small ICT infrastructure firm (DOT Group) specializing in networking, security and surveillance for enterprises; no public fresh-grad program found."
+evidence:
+  - type: "official_website"
+    url: "https://shabkati.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://tkxel.com/blog/it-companies-in-jordan/"
+    label: "Research source"
+  - type: "other"
+    url: "https://shabkati.com/partners/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.975415,35.862216"
+    label: "Google Maps location"

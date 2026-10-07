@@ -1,0 +1,43 @@
+name: "CFI Financial Group"
+industry: "Fintech / online trading (brokerage)"
+website: "https://cfi.trade/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "501-1000"
+location:
+  area: "Amman"
+  address: "CFI Plaza, Mecca Street next to Arab Bank, P.O.Box 17545, Postal Code 11195, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.9759
+  longitude: 35.85253
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9759,35.85253"
+categories:
+  - "ai"
+  - "fintech"
+  - "security"
+  - "web"
+technologies:
+  - "AI/ML"
+  - "Blockchain"
+  - "Generative AI"
+  - "MetaTrader"
+  - "Python"
+  - "SOC"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "MENA online-trading broker regulated in Jordan; Amman head office on Mecca Street. Their Backoffice Officer posting states 'No Previous experience is requested' — entry-level friendly. Audit 2026-10-03: GPS confirmed as-is; head-office address verified in CFI's own regulatory documents. LinkedIn URL nulled (not evidenced in listed sources; odd ae. subdomain). tech_stack cleared: none of the items are traceable to the listed sources (the matching tech job postings are for CFI's Cyprus entity, not the Jordan office). stack verified 2026-10-03: group job postings — Python backend/support roles, ML Engineer (Databricks/LLMs/RAG), blockchain/crypto integrations, SOC analyst, MetaTrader 5 platform (engineering hires are group-level; Amman office is brokerage)"
+evidence:
+  - type: "official_website"
+    url: "https://cfi.trade/"
+    label: "Official website"
+  - type: "other"
+    url: "https://en.wikipedia.org/wiki/CFI_Financial_Group"
+    label: "Research source"
+  - type: "other"
+    url: "https://media.cfifinancial.com/website-prod/documents/jo/Regulatory-Forms/JO-EN-Customer-Agreement-Global-Individuals-Jun-2026.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9759,35.85253"
+    label: "Google Maps location"

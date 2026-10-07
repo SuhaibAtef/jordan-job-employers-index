@@ -1,0 +1,51 @@
+name: "Talentspace.ai"
+industry: "HR tech / AI recruitment"
+website: "https://talentspace.ai"
+careers_url: "https://drive.talentspace.ai/recruitment/recruitment_portal/job_detail/1"
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Al-Yanabii Street, 6th Circle, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.956374
+  longitude: 35.863308
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.956374,35.863308"
+categories:
+  - "ai"
+  - "web"
+technologies:
+  - "Angular"
+  - "CSS"
+  - "HTML"
+  - "JavaScript"
+  - "Node.js"
+  - "React"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Amman AI-powered recruitment platform (founded 2020, registered in Jordan, 11-50 employees); ran front-end internships converting top interns to full-time; AI job matching and resume parsing. GPS upgraded: Google Maps business listing (Al-Yanabii Street, 6th Circle) corroborated by the company's own privacy policy (6th Circle, Amman)."
+evidence:
+  - type: "official_website"
+    url: "https://talentspace.ai"
+    label: "Official website"
+  - type: "careers"
+    url: "https://drive.talentspace.ai/recruitment/recruitment_portal/job_detail/1"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://talentspace.ai/terms-and-conditions/"
+    label: "Research source"
+  - type: "other"
+    url: "https://talentspace.ai/privacy-policy/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.cbinsights.com/compare/talentprise-vs-talentspaceai"
+    label: "Research source"
+  - type: "other"
+    url: "https://lucidityinsights.com/startups/talentspace-ai-11456"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.956374,35.863308"
+    label: "Google Maps location"

@@ -1,0 +1,45 @@
+name: "Datos Solution"
+industry: "Custom software development / cloud consulting"
+website: "https://datossolution.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "10-49"
+location:
+  area: "Amman"
+  address: "4th floor Makkah Towers, Mecca Street, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.97694
+  longitude: 35.85567
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97694,35.85567"
+categories:
+  - "consulting"
+  - "data"
+  - "devops"
+  - "mobile"
+  - "web"
+technologies:
+  - "AWS"
+  - "Flutter"
+  - "Google Cloud"
+  - "Laravel"
+  - "MySQL"
+  - "Node.js"
+  - "PHP"
+  - "PostgreSQL"
+  - "React"
+  - "Vue.js"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman software firm (also registered USA) delivering custom software, mobile apps, ERP, e-commerce and web platforms; office confirmed as 4th floor Makkah Towers, Mecca Street on its own site; no public fresh-grad program found."
+evidence:
+  - type: "official_website"
+    url: "https://datossolution.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://tkxel.com/blog/it-companies-in-jordan/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97694,35.85567"
+    label: "Google Maps location"

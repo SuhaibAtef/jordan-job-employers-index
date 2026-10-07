@@ -1,0 +1,37 @@
+name: "IT-Guard"
+industry: "Information Technology and Services"
+website: "https://www.itgshield.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Queen Rania St, Amman 11191, Jordan"
+  status: "approximate"
+  latitude: 31.95672
+  longitude: 35.92519
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+categories:
+  - "consulting"
+  - "web"
+technologies:
+  - "JavaScript"
+  - "PHP"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman IT security company founded 2005; cybersecurity, pen testing, network security, risk management and compliance; local engineers hold IT-Guard training certifications (3CX, BitDefender)."
+evidence:
+  - type: "official_website"
+    url: "https://www.itgshield.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://rocketreach.co/it-guard-profile_b414181eff887104"
+    label: "Research source"
+  - type: "other"
+    url: "https://people.bayt.com/khsrour/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+    label: "Google Maps location"

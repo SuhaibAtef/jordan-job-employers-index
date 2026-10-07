@@ -1,0 +1,38 @@
+name: "Abu Sheikha Exchange"
+industry: "Currency Exchange"
+website: "https://abusheikhaex.com"
+careers_url: null
+linkedin: null
+hr_email: "info@abusheikha.com"
+size: null
+location:
+  area: "Amman"
+  address: "Wasfi Al Tal St. 133, Amman"
+  status: "approximate"
+  latitude: 31.99357
+  longitude: 35.86058
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99357,35.86058"
+categories:
+  - "fintech"
+technologies:
+  - "Online currency converter"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Bills itself as Jordan's first money exchange; publishes live international FX rates with an online currency converter; branches across Jordan's governorates. | stack research 2026-10-04: 4 searches, no IT staff profiles, dev roles, or job postings found"
+evidence:
+  - type: "official_website"
+    url: "https://abusheikhaex.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://abusheikhaex.com/branches/alzarqa"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.tripadvisor.co.nz/ShowTopic-g293985-i2131-k14143762-Money_exchange-Jordan.html"
+    label: "Research source"
+  - type: "other"
+    url: "https://jo.near-place.com/abu-sheikha-for-exchange-al-sabeel-complex-wasfi-al-tal-st-10"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99357,35.86058"
+    label: "Google Maps location"

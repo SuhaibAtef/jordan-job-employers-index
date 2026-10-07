@@ -1,0 +1,36 @@
+name: "Oasis500"
+industry: "Venture Capital / Startup Accelerator"
+website: "https://oasis500.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Building #7, King Hussein Business Park, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.97183
+  longitude: 35.83394
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+categories: []
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Founded 2010; Jordan's flagship seed accelerator and early-stage investor (backed InvoiceQ, CoinMENA, Tamatem, Abjjad); tech-ecosystem lane; portfolio startups are entry-level hiring channels; no public careers page found.\nstack research 2026-10-05: 3 searches, no engineering roles or dev postings found; seed accelerator (10-49 staff), no in-house engineering evidence."
+evidence:
+  - type: "official_website"
+    url: "https://oasis500.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://meatechwatch.com/2024/12/18/invoiceq-raises-1-2-million-in-pre-series-a-round-to-expand-e-invoicing-solutions-in-mena/"
+    label: "Research source"
+  - type: "other"
+    url: "https://rocketreach.co/oasis500-profile_b5d411aaf42e3eec"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/376000/Oasis500"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+    label: "Google Maps location"

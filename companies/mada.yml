@@ -1,0 +1,40 @@
+name: "Mada"
+industry: "FinTech / BNPL"
+website: "https://mada-bnpl.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "King Abdullah II St, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.96264
+  longitude: 35.84384
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96264,35.84384"
+categories:
+  - "fintech"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Founded 2018 in Amman; BNPL app splitting purchases into 4 interest-free installments (200+ partner stores); $1.55M pre-seed Sep 2025 (Vision Ventures); operating in the Central Bank of Jordan's regulatory sandbox. stack research 2026-10-05: 5 searches, no employee profiles or dev job postings (fintech press coverage only)"
+evidence:
+  - type: "official_website"
+    url: "https://mada-bnpl.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://mada-bnpl.com/en"
+    label: "Research source"
+  - type: "other"
+    url: "https://thestartupscene.me/INVESTMENTS/Jordan-s-Mada-Secures-1-5M-in-Funding-to-Boost-BNPL-Product"
+    label: "Research source"
+  - type: "other"
+    url: "https://lucidityinsights.com/startups/mada-16635"
+    label: "Research source"
+  - type: "other"
+    url: "https://startuprise.org/jordans-mada-raises-1-55-million-to-grow-bnpl-services/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.96264,35.84384"
+    label: "Google Maps location"

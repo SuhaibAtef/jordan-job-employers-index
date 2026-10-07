@@ -1,0 +1,53 @@
+name: "Algebra Intelligence"
+industry: "Energy AI / IoT"
+website: "http://www.algebraintelligence.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Makkah Towers, Mecca St., Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.97694
+  longitude: 35.85567
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97694,35.85567"
+categories:
+  - "ai"
+  - "iot"
+  - "mobile"
+  - "web"
+technologies:
+  - "AI/ML"
+  - "Android"
+  - "Angular"
+  - "C#"
+  - "iOS"
+  - "Java"
+  - "Kotlin"
+  - "PHP"
+  - "Python"
+  - "Spring Boot"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman AI-driven energy monitoring startup (founded 2020); TaQTaK product offers real-time plant monitoring, predictive maintenance and energy forecasting. | stack verified 2026-10-07: GulfTalent profile of IoT Integration Engineer (Dec 2023-present) lists Python/Java/Kotlin/C#/PHP skills, Java web-services+Angular and Spring Boot certs; TaQTaK ships Android/iOS/web platform (Ibtikar Fund)."
+evidence:
+  - type: "official_website"
+    url: "http://www.algebraintelligence.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://dfkcompany.com/algebra-intelligence/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.wamda.com/2021/05/algebra-intelligence-raises-310000-pre-seed-funding"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/category/Artificial_Intelligence"
+    label: "Research source"
+  - type: "other"
+    url: "https://pitchbook.com/profiles/company/465722-11"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97694,35.85567"
+    label: "Google Maps location"

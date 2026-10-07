@@ -1,0 +1,53 @@
+name: "CODEXAL"
+industry: "Information Technology / Artificial Intelligence"
+website: "https://codexal.co/"
+careers_url: "https://codexal.co/en/internships/qa-testing.php"
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Zahran Street, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories:
+  - "ai"
+  - "devops"
+  - "qa"
+technologies:
+  - "CI/CD"
+  - "Computer Vision"
+  - "Cypress"
+  - "Generative AI"
+  - "NLP"
+  - "Postman"
+  - "Selenium"
+  - "WebRTC"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Software & AI company headquartered in Amman (presence in California and Riyadh); builds web/mobile apps, AI/OCR pipelines and IoT integrations, and runs an open-registration 3-month QA testing training program in Amman (Selenium, Cypress, Postman)."
+evidence:
+  - type: "official_website"
+    url: "https://codexal.co/"
+    label: "Official website"
+  - type: "careers"
+    url: "https://codexal.co/en/internships/qa-testing.php"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://codexal.co/en/"
+    label: "Research source"
+  - type: "other"
+    url: "https://codexal.co/en/privacy.php"
+    label: "Research source"
+  - type: "other"
+    url: "https://meet.codexal.co/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.goodfirms.co/company/codexal"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

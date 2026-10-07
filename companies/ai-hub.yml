@@ -1,0 +1,30 @@
+name: "AI HUB"
+industry: "AI services / Talent"
+website: null
+careers_url: null
+linkedin: "https://jo.linkedin.com/company/aihub-talentpool"
+hr_email: null
+size: "2-10"
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "ai"
+  - "consulting"
+technologies: []
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Amman AI-focused startup (founded 2024) running hands-on AI/data programs, AI solutions & automation for businesses, and AI-powered recruitment & internships — strong fresh-grad/intern pipeline.\nstack research 2026-10-04: 3 searches; LinkedIn company page (aihub-talentpool, 2-10 employees, Amman, founded 2024) lists 'Website & Software Development' as a specialty, but no employee profiles or job postings naming specific tech. Tags left empty, unverified."
+evidence:
+  - type: "linkedin_company"
+    url: "https://jo.linkedin.com/company/aihub-talentpool"
+    label: "LinkedIn company page"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

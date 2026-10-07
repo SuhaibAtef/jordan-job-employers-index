@@ -1,0 +1,43 @@
+name: "Nestrom"
+industry: "AgriTech / Field Service Management (IIoT)"
+website: null
+careers_url: null
+linkedin: null
+hr_email: null
+size: "1-10"
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.95672
+  longitude: 35.92519
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+categories:
+  - "iot"
+  - "mobile"
+technologies:
+  - "Android"
+  - "IoT"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman agri-tech startup (founded 2017) turning farms into smart farms via SaaS + IIoT sensors; seed-backed by 500 Startups, Wamda Capital and Techstars; no public office address found so address cleared to null; website unreachable as of Oct 2026; The Org lists 1-10 employees."
+evidence:
+  - type: "other"
+    url: "https://www.menabytes.com/nestrom-seed/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/376053/Nestrom"
+    label: "Research source"
+  - type: "other"
+    url: "https://theorg.com/org/nestrom"
+    label: "Research source"
+  - type: "other"
+    url: "https://lucidityinsights.com/startups/nestrom-685"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.abudhabistartup.com/startups/nestrom/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+    label: "Google Maps location"

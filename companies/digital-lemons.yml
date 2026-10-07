@@ -1,0 +1,45 @@
+name: "Digital Lemons"
+industry: "Digital Marketing / AI SaaS"
+website: "https://digitallemons.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Mecca St., Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.974373
+  longitude: 35.84763
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.974373,35.84763"
+categories:
+  - "ai"
+  - "marketing"
+  - "mobile"
+  - "web"
+technologies:
+  - "AI SaaS products"
+  - "Mobile development"
+  - "Performance marketing"
+  - "SEO"
+  - "Web development"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Founded 2015 as Jordan's first performance marketing company; now builds AI-native SaaS tools (Fixle AI SEO, Synk.Prop real estate ops, AutoParting catalog-to-commerce) - in-house dev. Pin upgraded from city fallback to Google business listing coordinates (Mecca St.); note JordanYP cites Sweifieh/Paris St. as alternate address. No careers page or grad program found. | stack research 2026-10-05: 5 searches + company site, no employee profiles or dev job postings found; builds AI-native SaaS (Fixle AI, Synk.Prop, AutoParting->Shopify) but no tech-stack evidence."
+evidence:
+  - type: "official_website"
+    url: "https://digitallemons.com"
+    label: "Official website"
+  - type: "other"
+    url: "http://www.digitallemons.com/"
+    label: "Research source"
+  - type: "other"
+    url: "https://parsers.vc/startup/digitallemons.com/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375806/Digital_Lemons"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.974373,35.84763"
+    label: "Google Maps location"

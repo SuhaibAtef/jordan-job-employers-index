@@ -1,0 +1,44 @@
+name: "Paratune"
+industry: "Software & digital solutions (Odoo/web/apps)"
+website: "https://paratune.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Hosni Sober Str, near 8th Circle, International Complex 47, 1st Floor, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.954152
+  longitude: 35.839406
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.954152,35.839406"
+categories:
+  - "data"
+  - "ecommerce"
+  - "erp"
+  - "mobile"
+  - "web"
+technologies:
+  - "Flutter"
+  - "Laravel"
+  - "MySQL"
+  - "Odoo"
+  - "PHP"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Software and digital transformation company in Amman; Odoo ERP implementations, mobile apps, websites and digital marketing. Contact emails on its FAQ page were redacted placeholders — no verifiable HR email. Pin moved from city-center fallback to verified HQ pin (International Complex, Bayader) from the company's own site data. stack verified 2026-10-06: 2 employee profiles (Backend Developer PHP/Laravel/MySQL; Flutter Developer intern on GoodSpouse app) + Paratune careers page lists Backend Developer (Laravel)"
+evidence:
+  - type: "official_website"
+    url: "https://paratune.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://paratune.com/en/"
+    label: "Research source"
+  - type: "other"
+    url: "https://paratune.com/en/faq"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.954152,35.839406"
+    label: "Google Maps location"

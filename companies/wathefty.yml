@@ -1,0 +1,31 @@
+name: "Wathefty"
+industry: "Internet / Job Board"
+website: "https://wathefty.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories: []
+technologies: []
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+notes: "Arabic-language Jordanian job board (وظيفتي) publishing Jordan vacancies; recent posts include fresh-graduate-friendly IT roles (e.g. GISTEC web developer, fresh to 1 year). stack research 2026-10-06: 3 searches (employee snippets, wuzzuf/gulftalent, own hiring); no dev employee profiles or dev postings found - Arabic job board, jobs site runs WordPress only"
+evidence:
+  - type: "official_website"
+    url: "https://wathefty.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://wathefty.com/single.php?post=8519"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

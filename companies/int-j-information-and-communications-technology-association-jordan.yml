@@ -1,0 +1,39 @@
+name: "int@j (Information & Communications Technology Association - Jordan)"
+industry: "Industry Association / Civic Tech"
+website: "https://www.intaj.net"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Ground Floor, #4 Abraj Al Rabieh, Abdullah Bin Rawaha St, Al Rabieh, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.97385
+  longitude: 35.88346
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97385,35.88346"
+categories:
+  - "security"
+  - "web"
+technologies: []
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Founded 2000; Jordan's ICT industry association and collective voice of 2,200+ tech companies; runs human-capital programs bridging academia and industry with structured internships - directly relevant to fresh IT grads. Moved to Abraj Al Rabieh, Al Rabieh in June 2025. stack research 2026-10-05: 3 searches; industry association with no engineering staff (business-development team, web dev outsourced per Clutch review); no employee profiles or dev job postings found."
+evidence:
+  - type: "official_website"
+    url: "https://www.intaj.net"
+    label: "Official website"
+  - type: "other"
+    url: "http://www.intaj.net/"
+    label: "Research source"
+  - type: "other"
+    url: "http://intaj.net/media-center/Announcements/intj-has-moved-%E2%80%93-your-second-home-awaits"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.intaj.net/media-center/articles/article/%D9%85%D9%82%D8%A7%D9%84-%D8%A8%D9%82%D9%84%D9%85-%D9%86%D8%B6%D8%A7%D9%84-%D8%A7%D9%84%D8%A8%D9%8A%D8%B7%D8%A7%D8%B1-%D8%AD%D9%88%D9%84-%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D8%AE%D8%B1%D9%8A%D8%AC%D9%8A-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D9%8A%D8%B9%D8%A7%D8%AA-%D9%88%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D9%86%D9%85%D9%88-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97385,35.88346"
+    label: "Google Maps location"

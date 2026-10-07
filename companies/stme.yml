@@ -1,0 +1,35 @@
+name: "STME"
+industry: "IT Infrastructure / Systems Integration"
+website: "https://stme.com"
+careers_url: "https://stme.com/careers/"
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Zahran St, Abdoun, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.95185
+  longitude: 35.89474
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95185,35.89474"
+categories:
+  - "devops"
+  - "security"
+  - "support"
+technologies:
+  - "Veeam"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Founded 1982; regional systems integrator with an Amman office (Zahran St, Abdoun, +962 6 559 0006); large-scale data-center and infrastructure projects; no public grad/internship info found."
+evidence:
+  - type: "official_website"
+    url: "https://stme.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://stme.com/careers/"
+    label: "Careers / application page"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95185,35.89474"
+    label: "Google Maps location"

@@ -1,0 +1,31 @@
+name: "Orient Jordan"
+industry: "Staffing & Recruiting"
+website: "https://www.orientjordan.com"
+careers_url: null
+linkedin: null
+hr_email: "Gm@orientjordan.com"
+size: null
+location:
+  area: "Amman"
+  address: "Gardens Street, Waha Ammoun Building, 7th Floor, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.98574
+  longitude: 35.88051
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.98574,35.88051"
+categories:
+  - "web"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman recruitment consultancy (Gardens Street, Waha Ammoun Building) supplying specialized manpower across the Middle East, with a focus on medical personnel. Address and email per the company profile PDF hosted on its own domain. stack research 2026-10-06: 3 searches (employee snippets, job boards, careers page); no dev employee profiles or dev postings found - medical-recruitment consultancy, site runs WordPress only"
+evidence:
+  - type: "official_website"
+    url: "https://www.orientjordan.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.orientjordan.com/wp-content/uploads/2021/01/orient_compressed.pdf"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.98574,35.88051"
+    label: "Google Maps location"

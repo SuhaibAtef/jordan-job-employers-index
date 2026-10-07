@@ -1,0 +1,38 @@
+name: "UBA - United Business Applications"
+industry: "ERP/CRM business applications"
+website: "https://uba.com.jo"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "50-249"
+location:
+  area: "Amman"
+  address: "28 Sate El Hosari, 4th Floor Anshassi Square Building, Shmeisani, Amman 11194"
+  status: "provided_unverified"
+  latitude: 31.97032
+  longitude: 35.89216
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97032,35.89216"
+categories:
+  - "data"
+  - "devops"
+  - "erp"
+technologies:
+  - "Azure"
+  - "Microsoft Dynamics 365"
+  - "Odoo"
+  - "Power BI"
+  - "Power Platform"
+  - "Salesforce"
+  - "SAP"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Business applications consultancy implementing ERP/CRM (Sage, Dynamics 365, Odoo, Salesforce); no public fresh-grad/internship program found. Audit 2026-10-03: GPS upgraded from fallback to geocoded street address (28 Sate El Hosari); map data places the pin in Abdali district on the Shmeisani border."
+evidence:
+  - type: "official_website"
+    url: "https://uba.com.jo"
+    label: "Official website"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97032,35.89216"
+    label: "Google Maps location"

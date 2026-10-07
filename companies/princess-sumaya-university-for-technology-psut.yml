@@ -1,0 +1,43 @@
+name: "Princess Sumaya University for Technology (PSUT)"
+industry: "Higher Education / Technology University"
+website: "https://www.psut.edu.jo"
+careers_url: null
+linkedin: null
+hr_email: "info@psut.edu.jo"
+size: null
+location:
+  area: "Amman"
+  address: "Khalil Saket Street, Al-Jubeiha, Amman 11941 (P.O. Box 1438)"
+  status: "provided_unverified"
+  latitude: 32.0234
+  longitude: 35.87615
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.0234,35.87615"
+categories:
+  - "edtech"
+  - "mobile"
+technologies:
+  - "Firebase"
+  - "Flutter"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Non-profit tech university (King Hussein School of Computing Sciences, King Abdullah II School of Engineering); runs a Consultation and Training Center offering courses like Software QA Engineering; PSUT Career Program with Coursera for students, alumni and staff."
+evidence:
+  - type: "official_website"
+    url: "https://www.psut.edu.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://psut.edu.jo/en/contact-us-3"
+    label: "Research source"
+  - type: "other"
+    url: "https://psut.edu.jo/en/news/princess-sumaya-university-of-technology-honors-its-graduate-and-replit-company-founder-amjad-masad"
+    label: "Research source"
+  - type: "other"
+    url: "https://github.com/mousa-ai/lost_and_found_psut/blob/HEAD/README.md"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/leen-madadha-8a9832317_psut-centerofconsultancyandtraining-activity-7478399250515808257-kQMZ"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.0234,35.87615"
+    label: "Google Maps location"

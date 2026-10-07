@@ -1,0 +1,48 @@
+name: "JOSEQUAL"
+industry: "Digital Marketing / Software Development"
+website: "https://josequal.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "20+"
+location:
+  area: "Amman"
+  address: "Dakhlia Circle - Khaled Ben Al-Walid St. 193, Adel Al-Qasem Complex, 4th Floor - Office 403, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.969637
+  longitude: 35.914233
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.969637,35.914233"
+categories:
+  - "ai"
+  - "data"
+  - "marketing"
+  - "mobile"
+  - "web"
+technologies:
+  - "Dart"
+  - "Firebase"
+  - "Flutter"
+  - "Generative AI"
+  - "Kotlin"
+  - "Laravel"
+  - "Next.js"
+  - "React Native"
+  - "SQL"
+  - "Swift"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Software house + digital marketing agency under one roof; own about page lists AI Engineer, Mobile Lead, Tech Lead Engineer and Human Resource roles; contact form for applications, no public careers page found. Pin upgraded from city fallback to business-listing coordinates on Khaled Ben Al-Walid St. info@josequal.com is general contact, not an HR email. stack verified 2026-10-05: company services page (Next.js, Laravel web; React Native, Swift, Kotlin mobile), Senior Flutter Developer employee profile at JoSequal (Flutter, Firebase), Flutter Developer job posting (Firebase, Dart, SQL)."
+evidence:
+  - type: "official_website"
+    url: "https://josequal.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://josequal.com/about"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.josequal.com/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.969637,35.914233"
+    label: "Google Maps location"

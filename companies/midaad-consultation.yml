@@ -1,0 +1,40 @@
+name: "Midaad Consultation"
+industry: "Open-source ERP (Odoo)"
+website: "http://midaad.com"
+careers_url: null
+linkedin: null
+hr_email: "info@midaad.com"
+size: null
+location:
+  area: "Amman"
+  address: "Mecca St, Abraj Alhijaz 141, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "erp"
+technologies:
+  - "Odoo"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+    - "Junior"
+notes: "Amman Odoo Silver Partner (subsidiary of Dot Group) implementing open-source Odoo ERP for SMBs; 65 references on Odoo. No public junior/intern program found."
+evidence:
+  - type: "official_website"
+    url: "http://midaad.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.odoo.com/partners/midaad-consultation-7723666"
+    label: "Research source"
+  - type: "other"
+    url: "http://midaad.com/website/info"
+    label: "Research source"
+  - type: "other"
+    url: "https://Elioplus.com/profiles/channel-partners/193261/midaad-consultations"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

@@ -1,0 +1,44 @@
+name: "Waseela"
+industry: "Telecommunications / ICT Systems Integration"
+website: "https://waseela.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "201-500"
+location:
+  area: "Amman"
+  address: "Al Husseini Complex, Office 406, Al-Madina Al-Monawara Street, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.974056
+  longitude: 35.864925
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.974056,35.864925"
+categories:
+  - "ai"
+  - "devops"
+  - "iot"
+  - "security"
+  - "telecom"
+technologies:
+  - "5G"
+  - "IoT"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Amman-HQ master systems integrator (est. 2007) delivering large-scale ICT/telecom projects (5G coverage, IoT, smart cities, cybersecurity) for telecom service providers across MENA. No public internship/grad evidence found."
+evidence:
+  - type: "official_website"
+    url: "https://waseela.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.businesswire.com/news/home/20240731802639/en/Airgain-Expands-Into-Growing-Middle-East-Market-With-Waseela-Partnership"
+    label: "Research source"
+  - type: "other"
+    url: "https://theorg.com/org/waseela-telecom"
+    label: "Research source"
+  - type: "other"
+    url: "https://waseela.com/waseela-announced-relocating-to-a-new-office-in-amman-jordan-2/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.974056,35.864925"
+    label: "Google Maps location"

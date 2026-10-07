@@ -1,0 +1,55 @@
+name: "Mozon Technologies"
+industry: "ERP & enterprise software (SaaS)"
+website: "https://mozon-tech.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "10-49"
+location:
+  area: "Amman"
+  address: "Amman, Jordan (Arjan area)"
+  status: "verified"
+  latitude: 31.9822495
+  longitude: 35.9161713
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9822495,35.9161713"
+categories:
+  - "erp"
+  - "web"
+technologies:
+  - "HTML"
+  - "Laravel"
+  - "React"
+  - "WordPress"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Jordanian software house since 2002 with 1500+ client orgs; builds Mozon ERP SaaS plus custom web dev (Laravel/React/WordPress). No public address published on their site; no public internship/fresh-grad programme found.\n[GPS 2026-10-05] VERIFIED: company contact page publishes no street address (Head office: Jordan – Amman), but its embedded Amman map resolves to Google pin 31.9822495, 35.9161713; same pin on claimed, well-maintained Google Maps listing (4.9*, 55 reviews, owner responses, Software company). Clutch lists \"Haroun Ar-Rashid St. 100, Amman, 11184\" and jordanYP Verified listing says Arjan, Amman (same phone 065655019) — area consistent with the pin."
+evidence:
+  - type: "official_website"
+    url: "https://mozon-tech.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://mozon-tech.com/en/contact-us/"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/Mozon+Technologies/@31.9822495,35.9161713,17z/data=!3m1!4b1!4m6!3m5!1s0x151b5fff491aff83:0xc23c7eea7897c589!8m2!3d31.9822495!4d35.9161713!16s%2Fg%2F11c5gf7d4w"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://Clutch.co/profile/mozon-technologies"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/376176/Mozon_Technologies"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://mozon-tech.com/en/"
+    label: "Research source"
+  - type: "other"
+    url: "https://mozon-tech.com/en/business-lines/web-development/"
+    label: "Research source"
+  - type: "other"
+    url: "https://themanifest.com/jo/web-development/wordpress/companies"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9822495,35.9161713"
+    label: "Google Maps location"

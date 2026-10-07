@@ -1,0 +1,40 @@
+name: "JorMall (Central Ecommerce Co Ltd)"
+industry: "Telecommunications / Bulk SMS Services"
+website: "https://www.josms.net"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "consulting"
+  - "telecom"
+technologies:
+  - "SMS Gateway"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Licensed Jordanian bulk-SMS vendor (est. 2000) serving 3,500+ organizations with a 5M-number profiled database; offers RCS, location and voucher messages via josms.net gateway. No public internship/grad evidence found."
+evidence:
+  - type: "official_website"
+    url: "https://www.josms.net"
+    label: "Official website"
+  - type: "other"
+    url: "https://trc.gov.Jo/EBV4.0/Root_Storage/AR/bb7e223f-c999-4cf1-b701-72b8d5b10426_JorMall_comments_on_the_draft_of_Competition_safegaurd.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://pkg.go.dev/github.com/samerzmd/go-jormall-sms"
+    label: "Research source"
+  - type: "other"
+    url: "https://jordanict.com/2018/company-profile/jormall"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

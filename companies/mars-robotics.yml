@@ -1,0 +1,36 @@
+name: "MARS Robotics"
+industry: "Robotics / Autonomous systems"
+website: "http://www.marsrobotic.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Irbid"
+  address: null
+  status: "approximate"
+  latitude: 32.5569
+  longitude: 35.8469
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.5569,35.8469"
+categories:
+  - "iot"
+technologies:
+  - "Drones"
+  - "Embedded Systems"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Irbid-based autonomous UAV/robotics company (majority stake acquired by UAE's EDGE); designs and develops Unmanned Aerial Systems (Group 1-4) including autopilot hardware/software and ground control stations, and trains a limited number of young engineers selected on performance. No public Irbid street address found."
+evidence:
+  - type: "official_website"
+    url: "http://www.marsrobotic.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.defaiya.com/news/Defense%20News/Asia/2023/05/23/edge-acquires-majority-stake-in-mars-robotics-of-jordan&text=EDGE"
+    label: "Research source"
+  - type: "other"
+    url: "https://defence-industry.eu/edge-acquires-majority-stake-in-mars-robotics/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.5569,35.8469"
+    label: "Google Maps location"

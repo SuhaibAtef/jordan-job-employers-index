@@ -1,0 +1,36 @@
+name: "I 24 Connect"
+industry: "Business Process Outsourcing"
+website: "https://i24connect.cloud/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "50-249"
+location:
+  area: "Amman"
+  address: "19 Paris Street, First floor, Unit # 109, Amman 11185, Jordan"
+  status: "approximate"
+  latitude: 31.95656
+  longitude: 35.85967
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95656,35.85967"
+categories:
+  - "consulting"
+  - "telecom"
+technologies:
+  - "VoIP"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman outsourcing provider (est. 2013, part of Tawakul group UAE): contact center, back-office, telesales/telemarketing plus social/chat/email support."
+evidence:
+  - type: "official_website"
+    url: "https://i24connect.cloud/"
+    label: "Official website"
+  - type: "other"
+    url: "https://Clutch.co/profile/i-24-connect"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375194/i24connect"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95656,35.85967"
+    label: "Google Maps location"

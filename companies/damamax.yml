@@ -1,0 +1,47 @@
+name: "Damamax"
+industry: "Telecom / fiber broadband (Al-Hadatha Telecom and Technology)"
+website: "https://www.damamax.jo"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Jad Center, Al Madina Al Munawara St., Al Haramein Circle, Amman (HQ)"
+  status: "provided_unverified"
+  latitude: 31.96916
+  longitude: 35.86416
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96916,35.86416"
+categories:
+  - "devops"
+  - "security"
+  - "telecom"
+technologies:
+  - "Cisco"
+  - "Fiber Networks"
+  - "MPLS"
+  - "SOC"
+  - "VPS Hosting"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Backbone operator turned retail fiber ISP (first FTTP in Jordan); transforming into ICT/managed security provider with EBRD-backed expansion. Audit 2026-10-03: GPS upgraded from fallback to geocoded HQ address (Jad Center, Al Madina Al Munawara St., per damamax.jo Contact Us page); damamax.jo confirmed as official website."
+evidence:
+  - type: "official_website"
+    url: "https://www.damamax.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://contactout.com/company/DAMAMAX-33907"
+    label: "Research source"
+  - type: "other"
+    url: "https://jordanict.com/company-profile/damamax"
+    label: "Research source"
+  - type: "other"
+    url: "https://finchannel.com/ebrd-and-eu-help-damamax-to-improve-telecommunications-services-in-jordan/79457/world-2/2020/11/"
+    label: "Research source"
+  - type: "other"
+    url: "https://damamax.jo/en/ContactUs"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.96916,35.86416"
+    label: "Google Maps location"

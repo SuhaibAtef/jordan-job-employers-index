@@ -1,0 +1,43 @@
+name: "Ebtikar AI"
+industry: "AI consultancy / services"
+website: "https://www.ebtikarai.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "provided_unverified"
+  latitude: 31.956061
+  longitude: 35.928431
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.956061,35.928431"
+categories:
+  - "ai"
+  - "consulting"
+technologies:
+  - "Generative AI"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Academy"
+notes: "Jordan AI consultancy & solutions partner (bootstrapped): AI strategy, governance and custom agent development via PRISM X framework plus Ebtikar AI Academy; hiring developers in Amman. GPS upgraded from city fallback to Google Maps business listing (ebtikarai.com)."
+evidence:
+  - type: "official_website"
+    url: "https://www.ebtikarai.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.ebtikarai.com/contact"
+    label: "Research source"
+  - type: "other"
+    url: "https://ahmad-alqunbar.com/"
+    label: "Research source"
+  - type: "other"
+    url: "https://connect.onegiantleap.com/event/leap-2025/exhibitor/RXhoaWJpdG9yXzIwOTUxNTA="
+    label: "Research source"
+  - type: "other"
+    url: "https://www.rankmyai.com/rankings/top-ai-tools-jordan"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.956061,35.928431"
+    label: "Google Maps location"

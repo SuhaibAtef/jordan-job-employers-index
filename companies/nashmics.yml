@@ -1,0 +1,40 @@
+name: "NashmiCs"
+industry: "Business Process Outsourcing"
+website: "https://nashmics.com/"
+careers_url: "https://nashmics.com/career"
+linkedin: null
+hr_email: "hr@nashmics.com"
+size: "250-999"
+location:
+  area: "Amman"
+  address: "154 Wasfi Al-Tal St, Al-Waha Circle, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.98888
+  longitude: 35.87527
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.98888,35.87527"
+categories:
+  - "consulting"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Contact center/BPO (Amman, est. 2020): inbound/outbound calls, chat, email, content moderation plus corporate training & coaching; posts customer-service agent openings with a public HR email.\nstack research 2026-10-04: 5 searches + nashmics.com/career open; generic join-us page, only customer-service agent postings; no developer profiles or IT postings found"
+evidence:
+  - type: "official_website"
+    url: "https://nashmics.com/"
+    label: "Official website"
+  - type: "careers"
+    url: "https://nashmics.com/career"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://nashmics.com/services/Inbound-and-Outbound-calls"
+    label: "Research source"
+  - type: "other"
+    url: "http://clutch.co/profile/nashmics"
+    label: "Research source"
+  - type: "job_post"
+    url: "https://wathefty.com/jobs/2023/06/21/%d9%88%d8%b8%d9%80%d9%80%d9%80%d9%80%d8%a7%d8%a6%d9%81-%d8%b4%d9%80%d9%80%d9%80%d8%ba%d8%b1%d8%a9-%d9%81%d9%8a-%d9%86%d8%b4%d9%85%d9%8a-%d9%84%d9%80%d9%80%d9%80%d8%ae%d8%af%d9%85%d8%a7%d9%84%d9%80%d9%80%d8%b9%d9%85%d9%84%d8%a7%d8%a1/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.98888,35.87527"
+    label: "Google Maps location"

@@ -1,0 +1,41 @@
+name: "Maxis IT Solutions"
+industry: "Business software"
+website: "http://maxis-jo.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "10-49"
+location:
+  area: "Amman"
+  address: "Teiba Commercial Complex 2, 3rd Floor, Jadah St, Khalda, Amman 11822, Jordan"
+  status: "approximate"
+  latitude: 31.97953
+  longitude: 35.84537
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97953,35.84537"
+categories:
+  - "erp"
+  - "web"
+technologies:
+  - "Accounting software (desktop & web)"
+  - "Travel & tourism management software (desktop & web)"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Est. 2005 in Amman; develops and supports its own travel-agency & accounting software for 500+ clients in Jordan/MENA. No internship program found.; stack research 2026-10-04: 3 searches + own site; Technologies-We-Use page names only tech logos (asp/js/jquery/sql), no employee profiles or dev job postings found"
+evidence:
+  - type: "official_website"
+    url: "http://maxis-jo.com/"
+    label: "Official website"
+  - type: "other"
+    url: "http://maxis-jo.com/About"
+    label: "Research source"
+  - type: "other"
+    url: "http://maxis-jo.com/Contact"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.goodfirms.co/company/maxis-solutions"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97953,35.84537"
+    label: "Google Maps location"

@@ -1,0 +1,39 @@
+name: "Dumyah"
+industry: "E-commerce / Retail"
+website: "https://www.dumyah.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "ai"
+  - "ecommerce"
+technologies: []
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Jordan's largest e-commerce platform for women/mothers (maternity, baby, beauty, toys); founded 2016 in Amman by Kayed Qunibi and Zeina Zuaiter; ~26 staff, tech team in-house. No public internship postings found. Stack research 2026-10-05: 5 searches incl. co-founder/CTO Laith Ekermawi profile; no employee or job-posting tech evidence."
+evidence:
+  - type: "official_website"
+    url: "https://www.dumyah.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.dumyah.com/en/about-us"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.f6s.com/companies/b2c-e-commerce/mo"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.arounddeal.com/c/dumyah-com/t8ddhwfldw"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

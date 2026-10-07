@@ -1,0 +1,29 @@
+name: "ISTQ"
+industry: "Cloud hosting"
+website: "https://istqservers.jo"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories:
+  - "devops"
+technologies:
+  - "VPS Hosting"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordanian (.jo) cloud hosting provider offering fully automated provisioning of dedicated servers, VPS and web hosting from a data center inside Jordan, billing in JOD with backups in Jordan or Europe; small new entrant."
+evidence:
+  - type: "official_website"
+    url: "https://istqservers.jo"
+    label: "Official website"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

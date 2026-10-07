@@ -1,0 +1,55 @@
+name: "Ericsson Jordan"
+industry: "Telecom equipment vendor"
+website: "https://www.ericsson.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "51-200"
+location:
+  area: "Amman"
+  address: "Building 5, 4th Floor, King Hussein Business Park, Al Sha'b St., 11194 Amman, Jordan"
+  status: "verified"
+  latitude: 31.9708514
+  longitude: 35.8316638
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9708514,35.8316638"
+categories:
+  - "ai"
+  - "data"
+  - "devops"
+  - "iot"
+  - "telecom"
+technologies:
+  - "5G"
+  - "AI/ML"
+  - "VoIP"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+    - "Graduate"
+notes: "Ericsson's Jordan office (70+ staff); supports graduates via internships/training and the free Ericsson Educate program with Orange Jordan (5G, IoT, AI courses for students). Audit 2026-10-03: address confirmed on verified jordanyp listing ('King Hussein Business Complex, King Abdullah II St 242'); pin placed at King Hussein Business Park area per geocode — kept approx=true since the exact office building is not separately published. GPS verify 2026-10-03: verified — Ericsson's own presence page (indexed text; live page blocked by bot check) + an Ericsson employee's email signature (2013 IANA list) + company-validated jordanyp listing all agree: Building 5, 4th floor, King Hussein Business Park (Al Sha'b St. / King Abdullah II St 242, 11194 Amman), landline +962-6-5540787 matches across all three. Conflicting Google 'permanently closed' flag at same complex and unclaimed sparse 'Ericsson AB Jordan' pin on Al-Istethmar St (31.9622,35.9081) both distrusted per the certainty bar; company's own page wins. Pin set to the park's verified map pin."
+evidence:
+  - type: "official_website"
+    url: "https://www.ericsson.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/jordan"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://lists.iana.org/hyperkitty/list/tz@iana.org/message/33U3NA2EECPJGRDLE6I2LN2KF3FLJ2H6/"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/327582/EricssonJordan"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/King+Hussein+Business+Park/@31.9708514,35.8316638,17z/"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://jordan-times.com/ericssons-legacy-pioneering-jordans-digital-revolution-and-sustainable-future/"
+    label: "Research source"
+  - type: "other"
+    url: "https://mail.telecomreview.com/articles/telecom-vendors/8139-ericsson-catalyzes-digitalization-new-office-new-leader-and-new-era-in-jordan-s-ict-scene/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9708514,35.8316638"
+    label: "Google Maps location"

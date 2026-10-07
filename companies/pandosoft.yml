@@ -1,0 +1,55 @@
+name: "PandoSoft"
+industry: "Custom software development"
+website: "https://www.pando-soft.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "10-49"
+location:
+  area: "Amman"
+  address: "Mecca Street, Ghaith Center, 4th Floor, Amman, Jordan 11821"
+  status: "verified"
+  latitude: 31.9759311
+  longitude: 35.8580513
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9759311,35.8580513"
+categories:
+  - "ai"
+  - "devops"
+  - "mobile"
+  - "web"
+technologies:
+  - ".NET"
+  - "AI/ML"
+  - "AWS"
+  - "Firebase"
+  - "Flutter"
+  - "Google Cloud"
+  - "Java"
+  - "JavaScript"
+  - "Node.js"
+  - "PHP"
+  - "Python"
+  - "Vue.js"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Custom software/mobile/web dev house (founded 2020, Amman) serving SMB/midmarket clients. Audit 2026-10-03: existing coords corroborated by geocode of 'Ghaith Center, Mecca Street' (same pin returned) — confirmed as-is, kept approx=true (moderate confidence). GPS VERIFIED 2026-10-04: company-owned archived contact page (2023-10-04) stated '4th floor, 167 Ghaith Center, Mecca Street, Amman, Jordan' with embedded Google Map link; claimed Google Maps listing labels 'Fourth Floor, ALGhaith Center, Mecca St., Amman, Jordan' (pin 31.9759311, 35.8580513, owner photos, category 'Software company'); Clutch/Vendorland/Cybo/Krowdbase agree. Bar met: authoritative company source + claimed Maps pin + 4 independent directories."
+evidence:
+  - type: "official_website"
+    url: "https://www.pando-soft.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://web.archive.org/web/20231004092837/https://pando-soft.com/en/contact-us/"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/PandoSoft/@31.9759311,35.8554764,17z/"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://clutch.co/profile/pandosoft"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://vendorland.com/company/pandosoft"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9759311,35.8580513"
+    label: "Google Maps location"

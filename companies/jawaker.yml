@@ -1,0 +1,47 @@
+name: "Jawaker"
+industry: "Computer games"
+website: "https://www.jawaker.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Emmar Towers, Zahran St 42, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.954673
+  longitude: 35.903534
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.954673,35.903534"
+categories:
+  - "devops"
+  - "games"
+  - "web"
+technologies:
+  - "AWS"
+  - "C#"
+  - "Cloudflare"
+  - "Java"
+  - "Ruby"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Social card-game network (Tarneeb, Trix, Baloot, Hand); founded 2009, HQ Abu Dhabi with Amman office, acquired by Stillfront 2021 for $205M; careers page says culture 'nurtures up-and-coming talents' with flat hierarchy and conference support. Public LinkedIn company URL and HR email not verifiable. GPS confirmed as the office's verified Google business pin at Emmar Towers, Zahran St 42."
+evidence:
+  - type: "official_website"
+    url: "https://www.jawaker.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://theorg.com/org/jawaker"
+    label: "Research source"
+  - type: "other"
+    url: "https://leadiq.com/c/jawaker/5a1da6022300005c00990782"
+    label: "Research source"
+  - type: "other"
+    url: "https://app.zenats.com/public_job/uSHaDoMQicP18B4Ae5OIHQ?source=linkedin_job_post"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.stillfront.com/en/stillfront-group-acquires-jawaker-and-continues-expansion-in-the-mena-region-and-intends-to-raise-new-financing/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.954673,35.903534"
+    label: "Google Maps location"

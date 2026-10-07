@@ -1,0 +1,41 @@
+name: "Jordan Open Source Association (JOSA)"
+industry: "Civic Tech / Nonprofit"
+website: "https://www.josa.ngo"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories:
+  - "security"
+  - "web"
+technologies:
+  - "Git"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Fresh graduate"
+    - "Graduate"
+notes: "Nonprofit civic-tech org active since 2011, registered under Jordan's Ministry of Digital Economy and Entrepreneurship; works on open government, open data and digital rights, trains students and ICT graduates; volunteer/community-driven, good for fresh grads building open-source portfolios."
+evidence:
+  - type: "official_website"
+    url: "https://www.josa.ngo"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.josa.ngo/about-us"
+    label: "Research source"
+  - type: "other"
+    url: "https://ooni.org/partners/josa/"
+    label: "Research source"
+  - type: "other"
+    url: "https://github.com/safwanljd/linuxsocietyhugo/blob/HEAD/content/news/josa-git-training/index.en.md"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

@@ -1,0 +1,43 @@
+name: "Microsoft Jordan"
+industry: "Software / Cloud"
+website: "https://www.microsoft.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "100000+"
+location:
+  area: "Amman"
+  address: "King Hussein Business Park, Building GH3 (Google Maps lists \"Building 3\"), 2nd Floor, End of Mecca Street, King Abdullah II St 242, Amman 11181"
+  status: "verified"
+  latitude: 31.972833
+  longitude: 35.835229
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.972833,35.835229"
+categories:
+  - "ai"
+  - "devops"
+  - "erp"
+  - "web"
+technologies:
+  - ".NET"
+  - "Azure"
+  - "Microsoft 365"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Microsoft's Jordan country office at King Hussein Business Park; enterprise & cloud business. (Stack reflects Microsoft's platform portfolio.) Coordinates are consistent with King Hussein Business Park but were not re-verified against an exact office pin; kept approximate. GPS verified 2026-10-04: well-maintained Google business listing (official Jordan phone +962-6-5503444, Software Company category) names Building 3, King Hussein Business Park with pin 31.972755/35.83509; jordanict.com 2018 ICT profile independently confirms Microsoft Jordan at 'the heart of King Hussein Business Park'. Two independent sources agree on KHBP; pin kept at the listing's exact location. | 2026-10-04 live-browser follow-up: Microsoft's own worldwide directory is the authoritative source (Building GH3, 2nd Floor); the Google Maps listing is UNCLAIMED ('Claim this business' shown), so it corroborates but is not authority. Minor naming discrepancy: official 'Building GH3' vs Maps 'Building 3' — likely the same building, flagged here."
+evidence:
+  - type: "official_website"
+    url: "https://www.microsoft.com/"
+    label: "Official website"
+  - type: "other"
+    url: "Microsoft official worldwide offices directory (https://www.microsoft.com/en-us/worldwide): 'End of Mecca Street, King Hussein Business Park, Building GH3, 2nd Floor, P.O. BOX 3321, Amman 11181 - Jordan', phone +962 6 5503444"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "Google Maps business listing 'Microsoft' (Software company; phone +962 6 550 3444; unclaimed, shows 'Claim this business'): address label 'King Hussein Business Park, Building 3, King Abdullah II St 242, Amman'; pin 31.972833/35.835229 read from place URL (https://www.google.com/maps/place/Microsoft/@31.9728327,35.8352287,17z/)"
+    label: "Location evidence"
+  - type: "other"
+    url: "jordanict.com 'Who's Who in Jordan ICT' profile (https://jordanict.com/2022/node/1014): 'Microsoft Jordan is strategically located at the heart of King Hussein Business Park'; KHBP tenant page archived 2025-03-26 confirms Microsoft as a KHBP tenant"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.972833,35.835229"
+    label: "Google Maps location"

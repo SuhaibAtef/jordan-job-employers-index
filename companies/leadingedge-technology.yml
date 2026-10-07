@@ -1,0 +1,36 @@
+name: "LeadingEdge Technology"
+industry: "Information Technology and Services"
+website: "https://www.leadingedge-me.com/en"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "consulting"
+  - "data"
+technologies:
+  - "Oracle Database"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Oracle-partner IT & business-process services firm HQ'd in Amman; actively advertising ERP System Consultant roles in Amman (Bayt, Oct 2026) - entry-friendly hiring signal."
+evidence:
+  - type: "official_website"
+    url: "https://www.leadingedge-me.com/en"
+    label: "Official website"
+  - type: "job_post"
+    url: "https://www.bayt.com/en/jordan/jobs/erp-system-consultant-jobs-in-amman/?jobId=1747306"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.selling.com/company/leadingedge-technology/131388550"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

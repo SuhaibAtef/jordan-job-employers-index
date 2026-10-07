@@ -1,0 +1,40 @@
+name: "Samsung Electronics Levant"
+industry: "Consumer electronics / Technology"
+website: "http://www.samsung.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "King Hussein Business Park, Building 5, King Abdullah II St 242, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.971807
+  longitude: 35.83567
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.971807,35.83567"
+categories:
+  - "ai"
+  - "iot"
+  - "web"
+technologies:
+  - "AI/ML"
+  - "Java"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Trainee"
+    - "Academy"
+notes: "Samsung's Levant regional subsidiary in Amman (King Hussein Business Park); primarily a sales/distribution office for the Levant market rather than an engineering hub. | stack check 2026-10-04: Levant office is sales/marketing/customer-service per Samsung Jordan careers and press (retail marketing, customer service dept; Samsung Academy at UJ is a student training lab, not Samsung engineering). No Jordan engineering evidence; global Samsung R&D sits outside this record. Left unverified. stack check 2026-10-04: no current software-engineering evidence (regional sales/service office; job postings are CS field ops, data analysts; only historical 2012-2013 R&D/HTML5/Android trainee activity found) — stack left empty, not verified. | stack verified 2026-10-04: 2 employee profiles show Samsung Amman engineers (GulfTalent: Software Engineer Amman, Java + Machine Learning; personal site: Machine Learning Engineer at Samsung Amman) + Sr. Software Engineer interview, Amman 2018."
+evidence:
+  - type: "official_website"
+    url: "http://www.samsung.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://images.samsung.com/is/content/samsung/iran-aboutsamsung-2012_E_07"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.remitly.com/us/en/swift-codes/jordan/sectjoa1xxx/samsung-electronics-levant-jordan-co-ltd"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.971807,35.83567"
+    label: "Google Maps location"

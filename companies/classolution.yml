@@ -1,0 +1,42 @@
+name: "Classolution"
+industry: "E-learning / EdTech"
+website: "https://classolution.com"
+careers_url: null
+linkedin: null
+hr_email: "info@classolution.com"
+size: null
+location:
+  area: "Amman"
+  address: "Mecca St, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.97608
+  longitude: 35.86011
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97608,35.86011"
+categories:
+  - "edtech"
+  - "games"
+  - "mobile"
+technologies:
+  - "Android"
+  - "AR/VR"
+  - "iOS"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Founded 2012 in Amman; builds custom e-learning courses, mobile learning apps and AR kids' apps (Faris Series); 3,500+ hours of learning content delivered across MENA. | stack verified 2026-10-05: company publishes iOS/Android AR kids' apps (Faris Series) on App Store/Google Play — evidence of Android, iOS, AR/VR; no employee/job-posting evidence found."
+evidence:
+  - type: "official_website"
+    url: "https://classolution.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.jordanyp.com/product/26386/E_Learning_solutions"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.b2bco.com/classolution/jo/education/e-learning/jo/education/e-learning/"
+    label: "Research source"
+  - type: "other"
+    url: "https://apkpure.net/ar-english-2-%E2%80%93-faris-series/com.CLASSOLUTION.AREnglish2FarisSeries"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97608,35.86011"
+    label: "Google Maps location"

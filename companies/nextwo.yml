@@ -1,0 +1,51 @@
+name: "Nextwo"
+industry: "IT outsourcing / offshore development centers"
+website: "https://nextwo.com/"
+careers_url: "https://nextwo.com/careers"
+linkedin: "https://sa.linkedin.com/company/nextwo.com"
+hr_email: "info@nextwo.com"
+size: null
+location:
+  area: "Amman"
+  address: "Al-Madina Al-Monawara St 66, Amman"
+  status: "provided_unverified"
+  latitude: 31.969226
+  longitude: 35.864706
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.969226,35.864706"
+categories:
+  - "ai"
+  - "consulting"
+  - "data"
+  - "devops"
+  - "erp"
+  - "web"
+technologies:
+  - ".NET"
+  - "AI/ML"
+  - "Java"
+  - "Oracle Database"
+  - "Power BI"
+  - "React"
+  - "SAP"
+  - "Tableau"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+notes: "HQ in Riyadh with delivery centers in Amman and Cairo; builds offshore development centers and RPO teams for Saudi enterprises and markets Jordanian STEM-graduate talent."
+evidence:
+  - type: "official_website"
+    url: "https://nextwo.com/"
+    label: "Official website"
+  - type: "careers"
+    url: "https://nextwo.com/careers"
+    label: "Careers / application page"
+  - type: "linkedin_company"
+    url: "https://sa.linkedin.com/company/nextwo.com"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://nextwo.com/contact"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.969226,35.864706"
+    label: "Google Maps location"

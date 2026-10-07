@@ -1,0 +1,40 @@
+name: "ADSTRA"
+industry: "AI / Fintech (financial-crime prevention)"
+website: null
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Caracas Building, Yajouz Street, Al-Jbeiha, Amman 11910"
+  status: "provided_unverified"
+  latitude: 32.02574
+  longitude: 35.85605
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.02574,35.85605"
+categories:
+  - "ai"
+  - "fintech"
+technologies:
+  - "AI/ML"
+  - "Generative AI"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordanian AI company (ذراع التحول الرقمي); Sept 2026 strategic deal with Orange Money (1.7M wallets) for AI AML/sanctions screening; founder/CEO Mohammad Bdair. stack verified 2026-10-06: Orange Money deal (Sept 2026) + own site confirm AI/ML platform and AI agents in production (19 institutional customers); existing tags confirmed, no change needed."
+evidence:
+  - type: "other"
+    url: "https://www.jordanict.com/company-profile/adstra"
+    label: "Research source"
+  - type: "other"
+    url: "https://developingtelecoms.com/telecom-technology/oss-service-management/20886-orange-money-to-use-ai-to-combat-financial-crimes-in-jordan.html"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.techceodaily.com/fintech/orange-money-adstra-ai-aml-deal"
+    label: "Research source"
+  - type: "other"
+    url: "https://techbehemoths.com/company/adstra-company"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.02574,35.85605"
+    label: "Google Maps location"

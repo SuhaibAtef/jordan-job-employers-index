@@ -1,0 +1,37 @@
+name: "Dakkak Tours International"
+industry: "Tour Operator / DMC"
+website: "http://www.dakkak.com/"
+careers_url: null
+linkedin: null
+hr_email: "info@dakkak.com"
+size: "~50 employees"
+location:
+  area: "Amman"
+  address: "36 Al Sharif Naser Bin Jamil St., Al Khair Building, Shmeisani, Amman"
+  status: "provided_unverified"
+  latitude: 31.974662
+  longitude: 35.887097
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.974662,35.887097"
+categories:
+  - "travel"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Full-service DMC since 1955 with a 50-member multilingual team; fully computerized ticketing, reservations and tour management. | stack research 2026-10-05: Google search + dakkak.com checked — employee profiles (gulftalent) show sales/travel staff only; no dev team or engineering postings found."
+evidence:
+  - type: "official_website"
+    url: "http://www.dakkak.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.slideshare.net/slideshow/dakkak-tours-international-company-profile/6004913"
+    label: "Research source"
+  - type: "other"
+    url: "https://rocketreach.co/dakkak-tours-international-profile_b5cef10af42e0999"
+    label: "Research source"
+  - type: "other"
+    url: "http://www.tours.com/tour_operators/dakkak-tours-international.htm"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.974662,35.887097"
+    label: "Google Maps location"

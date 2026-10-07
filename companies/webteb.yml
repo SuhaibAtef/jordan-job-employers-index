@@ -1,0 +1,41 @@
+name: "WebTeb"
+industry: "HealthTech / Digital Media"
+website: "https://webteb.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "15 Arar Street"
+  status: "approximate"
+  latitude: 31.954
+  longitude: 35.91944
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.954,35.91944"
+categories:
+  - "healthtech"
+  - "mobile"
+technologies:
+  - "Android"
+  - "iOS"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Arabic-language health & wellness information portal (founded 2011, Amman HQ) connecting users with doctors, hospitals and pharmacies. Pin upgraded from city-center fallback to HQ address (CB Insights); public contact email not verifiable on company sources, set to null. No public grad/internship postings found. stack verified 2026-10-05: former mobile dev at WebTeb (RocketReach public profile, skills iOS/Android) + company's 2014 press release launching its iOS app, Android app announced."
+evidence:
+  - type: "official_website"
+    url: "https://webteb.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.cbinsights.com/company/webteb"
+    label: "Research source"
+  - type: "other"
+    url: "https://bouncewatch.com/company/webteb"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/376066/WebTeb/qa"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.954,35.91944"
+    label: "Google Maps location"

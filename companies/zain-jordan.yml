@@ -1,0 +1,54 @@
+name: "Zain Jordan"
+industry: "Mobile telecommunications"
+website: "http://www.jo.zain.com/"
+careers_url: "https://careers.zain.com"
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Bldg. #5 King Abdullah II St., near 8th Circle, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.963068
+  longitude: 35.844498
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.963068,35.844498"
+categories:
+  - "data"
+  - "mobile"
+  - "security"
+  - "telecom"
+technologies:
+  - "Android"
+  - "Flutter"
+  - "Penetration Testing"
+  - "SIEM"
+  - "SOC"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+    - "Fresh graduate"
+    - "Graduate"
+notes: "Pioneer mobile operator in Jordan (Zain Group); runs the Zain Youth Program with one-year internships for fresh graduates (e.g. Threat Management Intern, Media Intern) plus the ZINC innovation campus. Pin moved from city-center fallback to verified Zain HQ (King Abdullah II St, near 8th Circle). Website corrected to Zain Jordan (jo.zain.com) instead of the group site."
+evidence:
+  - type: "official_website"
+    url: "http://www.jo.zain.com/"
+    label: "Official website"
+  - type: "careers"
+    url: "https://careers.zain.com"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://careers.zain.com/vacancy/176111"
+    label: "Research source"
+  - type: "other"
+    url: "https://careers.zain.com/vacancy/174860"
+    label: "Research source"
+  - type: "other"
+    url: "https://careers.zain.com/vacancy/174564?utm_id=97758_v0_s00_e0_tv2_a1demo0edcalmo"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.tipntag.com/place/s/zain-jordan-hq-1-Eighth-Circle-Amman-Jordan"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.963068,35.844498"
+    label: "Google Maps location"

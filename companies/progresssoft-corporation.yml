@@ -1,0 +1,55 @@
+name: "ProgressSoft Corporation"
+industry: "Fintech"
+website: "https://www.progressoft.com"
+careers_url: "https://www.progressoft.com/careers"
+linkedin: null
+hr_email: null
+size: "201-500"
+location:
+  area: "Amman"
+  address: "51 S. B. A. Waqqas Street, Um Uthaina, Amman 11941"
+  status: "provided_unverified"
+  latitude: 31.9686
+  longitude: 35.8773
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9686,35.8773"
+categories:
+  - "ai"
+  - "data"
+  - "devops"
+  - "fintech"
+  - "web"
+technologies:
+  - "Apache Airflow"
+  - "Java"
+  - "JavaScript"
+  - "Nginx"
+  - "Python"
+  - "PyTorch"
+  - "Spring Boot"
+  - "TensorFlow"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+    - "Fresh graduate"
+    - "Graduate"
+notes: "Fintech payment software for banks and central banks (real-time payments, e-check clearing, digital onboarding); runs a summer internship program open to fresh graduates and hires fresh Java grads via an 'Associate Java Developer - Induction' track."
+evidence:
+  - type: "official_website"
+    url: "https://www.progressoft.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://www.progressoft.com/careers"
+    label: "Careers / application page"
+  - type: "job_post"
+    url: "https://www.progressoft.com/careers/internship"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.progressoft.com/company/contactus"
+    label: "Research source"
+  - type: "job_post"
+    url: "https://BuiltIn.com/job/associate-java-developer-induction/4255215"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9686,35.8773"
+    label: "Google Maps location"

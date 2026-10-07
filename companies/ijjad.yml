@@ -1,0 +1,51 @@
+name: "Ijjad"
+industry: "Software development (web / mobile)"
+website: "https://www.ijjad.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "1-10"
+location:
+  area: "Amman"
+  address: "Shmeisani, Amman, Jordan"
+  status: "verified"
+  latitude: 31.97085
+  longitude: 35.89635
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "data"
+  - "mobile"
+  - "web"
+technologies:
+  - "JavaScript"
+  - "Node.js"
+  - "React"
+  - "React Native"
+  - "TypeScript"
+  - "Vue.js"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Boutique Amman software house (founded 2020, <10 staff); delivered 20+ government/enterprise digital products. Contact: +962 79 565 0502. jordanyp places the office in Shmeisani; no exact street address or map pin published — city-center fallback kept. GPS attempt 1 (2026-10-04): inconclusive — CONFLICT. Company's own site/contact page only states \"Amman, Jordan\" (no street, no embedded map). Google Maps has ONE listing: \"Ijjad — Website designer\", address label \"Al-Qalqashandi St., Amman, Jordan\" (plus code XVHX+X3), pin 31.9799382, 35.8977318 (geocoder confirms Al-Qalqashandi St. is in Al-Abdali district, NOT Shmeisani); the listing looks claimed and maintained (matching phone +962 7 9565 0502 and website www.ijjad.com, owner replies to reviews, fitting category). BUT the owner-verified JordanYP directory (\"Verified Business — validated by the company owner\") lists \"Shmesani, Amman, Jordan\", and Ijjad's own blog byline says \"Shmeisani, Amman, Jordan\". Two owner-endorsed sources disagree on the neighborhood (Al-Abdali vs Shmeisani), so neither counts as an authoritative confirmation. LinkedIn/Facebook blocked by auth walls; Clutch/Akhtaboot blocked by human-verification. Kept the honest Shmeisani-area fallback pin (approx_location=true). Evidence URLs: https://www.ijjad.com/ijjad-web-design-contact, https://www.jordanyp.com/company/375336/Ijjad, https://www.ijjad.com/payment-gateway-fees-saudi-arabia-2026"
+evidence:
+  - type: "official_website"
+    url: "https://www.ijjad.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.ijjad.com/payment-gateway-fees-saudi-arabia-2026 (company's own site: founder byline says team is 'Shmeisani, Amman, Jordan')"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375336/Ijjad (directory: 'Shmesani, Amman, Jordan', phone 0795650502)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.goodfirms.co/company/ijjad (Headquarter: 'Shemsani, Amman, Amman 11194', phone 00962795650502)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.designrush.com/agency/profile/ijjad (remote company, Amman, 11194, Jordan - consistent, no street)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375336/Ijjad"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

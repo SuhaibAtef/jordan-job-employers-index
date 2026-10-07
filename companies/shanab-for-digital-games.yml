@@ -1,0 +1,56 @@
+name: "Shanab for Digital Games"
+industry: "Video Games"
+website: "https://shanabgames.com"
+careers_url: null
+linkedin: null
+hr_email: "support@shanabgames.com"
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Wasfi Al Tal street, Khalda, Amman"
+  status: "verified"
+  latitude: 31.9935596
+  longitude: 35.859851
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9935596,35.859851"
+categories:
+  - "games"
+  - "mobile"
+technologies:
+  - "Android"
+  - "iOS"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Amman mobile studio with 8 localized games and 12M+ installs (Grand, Desert King); no public internship program found. | GPS verified 2026-10-06: company's own website footer (shanabgames.com) lists 'Wasfi Al Tal, St., Amman, Jordan'; LinkedIn company Locations shows 'Wasfi Al Tal, 3rd Floor, Amman 11953'; Google Maps listing 'Wasfi At-Tall St.' pins 31.9935596,35.859851 (listing phone matches company site); ZoomInfo lists 'Khalda Wasfi Altal St'. No conflicting address found anywhere."
+evidence:
+  - type: "official_website"
+    url: "https://shanabgames.com"
+    label: "Official website"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/Shanab+Games/@31.9935596,35.859851,17z/"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.linkedin.com/company/shanab-games"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.zoominfo.com/c/shanab-games/"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://play.google.com/store/apps/details?id=com.shanabstudio.grand"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.androidrank.org/developer?id=8626204177560960396"
+    label: "Research source"
+  - type: "other"
+    url: "https://apkpure.net/developer/Shanab%20for%20Digital%20Games"
+    label: "Research source"
+  - type: "other"
+    url: "https://shanabgames.com/privacy-policy/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.selling.com/company/shanab-games/106672055"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9935596,35.859851"
+    label: "Google Maps location"

@@ -1,0 +1,53 @@
+name: "Adam Wa Mishmish"
+industry: "EdTech (kids Arabic learning)"
+website: "https://www.adamwamishmish.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "1-10"
+location:
+  area: "Amman"
+  address: "Khaled Bin Al Waleed St, Jabal Al-Hussein, Al-Abdali, Amman, Jordan"
+  status: "verified"
+  latitude: 31.97051
+  longitude: 35.91322
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97051,35.91322"
+categories:
+  - "data"
+  - "devops"
+  - "ecommerce"
+  - "edtech"
+  - "web"
+technologies:
+  - "AWS"
+  - "WooCommerce"
+  - "WordPress"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman edtech (est. 2016) teaching kids Arabic through music, cartoons, books and a learn-through-play mobile app (40+ lessons); $475K seed round; small 1-10 team.\nGPS check attempt 1 (2026-10-06): no street-level address exists in any public source. Own contact page (adamwamishmish.com/contact) shows only \"Amman, Jordan\", no map. No Google Maps listing (EN + Arabic searches). LinkedIn company page HQ explicitly \"N/A\". The Org/F6S/job postings/The National/Wikipedia all city-level Amman only. App Store \"Business Park Development zone\" address ruled out - belongs to partner Maysalward, not the company. Small 2-10 person team, postings suggest remote; street address never published.\nGPS check attempt 2 (2026-10-06): VERIFIED via Jordan Media Commission official licensing registry (mc.gov.jo): license #2 registered to \"Adam wa Mishmish Production and Distribution Co.\", GM Luma Baher Al Adnani (co-founder/CEO), address Amman / Khaled Bin Al-Waleed St / Jabal Al-Hussein / Al-Abdali district - 9. Street existence cross-checked on Google Maps. No Google Maps business listing exists (Maps: \"can't find\"); company site contact page shows no address; LinkedIn/FB behind login walls. Pin is street-segment level (exact building unverified) so approx_location stays true; registry address may be the legal/registered address rather than a walk-in office."
+evidence:
+  - type: "official_website"
+    url: "https://www.adamwamishmish.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://mc.gov.jo/Pages/viewpage?pageID=54"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/Khaled+Bin+Al+Waleed+Street+Jabal+Al+Hussein+Amman"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://en.wikipedia.org/wiki/Adam_Wa_Mishmish"
+    label: "Research source"
+  - type: "other"
+    url: "https://rocketreach.co/adam-wa-mishmish-profile_b41feb07ff6a5f89"
+    label: "Research source"
+  - type: "other"
+    url: "https://selling.com/company/adam-wa-mishmish/62669783"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.adamwamishmish.com/mobile-app/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97051,35.91322"
+    label: "Google Maps location"

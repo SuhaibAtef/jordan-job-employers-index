@@ -1,0 +1,36 @@
+name: "Katra Marketing"
+industry: "Digital Marketing"
+website: "https://katramarketing.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "2-9"
+location:
+  area: "Amman"
+  address: "Kulliat Al Shareia 8, Jebel Al-Weibdeh, Amman 11191, Jordan"
+  status: "provided_unverified"
+  latitude: 31.955835
+  longitude: 35.926774
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.955835,35.926774"
+categories:
+  - "marketing"
+  - "web"
+technologies:
+  - "Social Media Marketing"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Est. 2014 marketing consulting agency offering website development + SEO/SMM/training courses in Jordan and UAE; pin upgraded from city fallback using own-site address (Kulliat Al Shareiah St 9) cross-checked with Google business listing. info@katramarketing.com is general contact; no careers page or grad program found."
+evidence:
+  - type: "official_website"
+    url: "https://katramarketing.com"
+    label: "Official website"
+  - type: "other"
+    url: "http://katramarketing.com/faq.html"
+    label: "Research source"
+  - type: "other"
+    url: "https://rocketreach.co/katra-marketing-profile_b4493d29fcdfc5c8"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.955835,35.926774"
+    label: "Google Maps location"

@@ -1,0 +1,31 @@
+name: "Mash World"
+industry: "Digital agency / Creative technology"
+website: "https://mash.world"
+careers_url: null
+linkedin: null
+hr_email: "hello@mash.world"
+size: null
+location:
+  area: "Amman"
+  address: "Bldg 67, Paris St, Swefieh, Amman"
+  status: "approximate"
+  latitude: 31.95656
+  longitude: 35.85967
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95656,35.85967"
+categories:
+  - "web"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman digital agency building websites and digital experiences; office address and contact email per own site; pin is street-level fallback. stack research 2026-10-05: 4 searches; no employee profiles or dev job postings found; own site only (brands as WordPress agency, UX design, native iOS/Android apps) - own-site claim noted, no employee/posting evidence."
+evidence:
+  - type: "official_website"
+    url: "https://mash.world"
+    label: "Official website"
+  - type: "other"
+    url: "https://mash.world/contact/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95656,35.85967"
+    label: "Google Maps location"

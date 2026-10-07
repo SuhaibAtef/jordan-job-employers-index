@@ -1,0 +1,50 @@
+name: "iHorizons"
+industry: "IT services / Digital transformation"
+website: "https://ihorizons.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories:
+  - "ai"
+  - "consulting"
+  - "data"
+  - "devops"
+  - "web"
+technologies:
+  - ".NET"
+  - "Azure"
+  - "CSS"
+  - "Google Cloud"
+  - "JavaScript"
+  - "jQuery"
+  - "PostgreSQL"
+  - "Python"
+  - "PyTorch"
+  - "React"
+  - "SQL"
+  - "TensorFlow"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Digital transformation and enterprise IT services firm founded 1996, headquartered in Doha with an office in Amman (directory listings place it at Yajouz/Jbaiha, Amman); runs a careers page with job listings (Built In lists Amman roles). stack verified 2026-10-05: 4 employee profiles (Bayt Frontend Dev at iHorizons/Amman: jQuery, Vanilla.js, Bootstrap, ASP.NET; SlideShare CV: Ext JS on Knowledge Server; Himalayas .NET Dev: .NET + PostgreSQL + Azure AD) + 2 job postings (Front End ReactJS; Senior ML: Python/TensorFlow/PyTorch/SQL/Google Cloud). Ext JS has no canonical tag, noted here."
+evidence:
+  - type: "official_website"
+    url: "https://ihorizons.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://ihorizons.com/contact-us"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/358234/IHorizons_Co"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

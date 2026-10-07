@@ -1,0 +1,45 @@
+name: "Software Consultancy"
+industry: "Oracle Cloud consulting"
+website: "http://www.sc.com.jo"
+careers_url: null
+linkedin: null
+hr_email: "careers@sc.com.jo"
+size: "6-10"
+location:
+  area: "Amman"
+  address: "Queen Rania St 351, 5th floor, Marar Commercial Complex, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 32.022833
+  longitude: 35.85961
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.022833,35.85961"
+categories:
+  - "consulting"
+  - "devops"
+  - "erp"
+technologies:
+  - "Oracle Cloud"
+  - "Oracle Fusion"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Oracle Gold Partner (est. 2015/16, Amman); implements Oracle Fusion Cloud ERP/CRM/HCM/SCM; holds 4 Oracle Cloud expertise certs (int@j). Previously listed at Zahran Street, Jawheret Al Swifeih Complex (Sweifieh) per owner-verified JordanYP listing (2017). No internship program found."
+evidence:
+  - type: "official_website"
+    url: "http://www.sc.com.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.g2.com/products/oracle-ebs-projects/implementation?order=g2_score&page=12"
+    label: "Research source"
+  - type: "other"
+    url: "https://intaj.net/software-consultancy-obtained-4-oracle-cloud-expertise-certifications-in-erp-hcm-scm-platform-integration/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/374643/SoftwareConsultancy"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/software-consultancy-sc.com.jo-_telesales-open-vacancy-software-consultancy-activity-6310794465959378944-818i"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.022833,35.85961"
+    label: "Google Maps location"

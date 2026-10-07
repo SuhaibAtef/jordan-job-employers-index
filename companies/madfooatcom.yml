@@ -1,0 +1,46 @@
+name: "MadfooatCom"
+industry: "IT Services and IT Consulting / Fintech (payments)"
+website: null
+careers_url: "https://wellfound.com/company/madfoo3atcom-for-epayments-psc"
+linkedin: "https://jo.linkedin.com/company/madfoatcom"
+hr_email: null
+size: "51-200"
+location:
+  area: "Amman"
+  address: "King Hussein Business Park, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.97183
+  longitude: 35.83394
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+categories:
+  - "consulting"
+  - "fintech"
+  - "web"
+technologies:
+  - "Java"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Operates eFAWATEERcom, Jordan's national electronic bill presentment and payment gateway (built/operated under Central Bank of Jordan tender since 2014); fresh-grad evidence: CFYE-partnered youth training program and agent network employment for young Jordanians. GPS upgraded to King Hussein Business Park pin. Website nulled: www.madfooat.com does not resolve (confirmed multiple times); official product site is efawateercom.jo. stack research 2026-10-06: 4 searches, no employee profiles or dev postings found."
+evidence:
+  - type: "careers"
+    url: "https://wellfound.com/company/madfoo3atcom-for-epayments-psc"
+    label: "Careers / application page"
+  - type: "linkedin_company"
+    url: "https://jo.linkedin.com/company/madfoatcom"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/376072/MadfooatCom"
+    label: "Research source"
+  - type: "other"
+    url: "https://theorg.com/org/madfooatcom/org-chart/abdullah-al-masri"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.zoominfo.com/c/madfooatcom/346885518"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.finextra.com/newsarticle/26059/jordan-launches-national-electronic-billing-and-payment-system"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+    label: "Google Maps location"

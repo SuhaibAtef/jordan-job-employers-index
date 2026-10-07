@@ -1,0 +1,40 @@
+name: "Midis Group"
+industry: "IT distribution / Technology solutions"
+website: "https://www.midisgroup.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Al Rayan Tower, Queen Alia St. Bldg No. 31, Amman (ABC Jordan affiliate)"
+  status: "provided_unverified"
+  latitude: 31.97664
+  longitude: 35.90467
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97664,35.90467"
+categories:
+  - "devops"
+technologies:
+  - "Azure"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Fresh graduate"
+    - "Graduate"
+notes: "Regional IT group (Mideast Data Systems) with Jordan affiliate ABC Jordan and Apple distributor ABM Care at Al Rayan Tower, Amman; actively hiring in Amman including an associate presales role flagged ideal for fresh graduates. stack verified 2026-10-06: ABC Jordan profile (Dell Titanium Black partner) lists Microsoft Azure Stack + virtualization platforms; added Azure; Dell infra products noted but have no canonical tags."
+evidence:
+  - type: "official_website"
+    url: "https://www.midisgroup.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.midisgroup.com/affiliates/advanced-business-computing-for-information-technology-abc-jordan/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.abc.com.jo/"
+    label: "Research source"
+  - type: "job_post"
+    url: "https://www.bayt.com/en/jordan/jobs/infrastructure-management-jobs-in-amman/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.97664,35.90467"
+    label: "Google Maps location"

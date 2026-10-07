@@ -1,0 +1,45 @@
+name: "SmartZone"
+industry: "IT services / E-commerce"
+website: "https://smartzone-jo.com"
+careers_url: null
+linkedin: null
+hr_email: "info@smartzonejo.com"
+size: null
+location:
+  area: "Amman"
+  address: "Bldg No. 5, May Ziadeh St, Alkhalidi, Jabal Amman, Amman"
+  status: "approximate"
+  latitude: 31.95075
+  longitude: 35.906
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95075,35.906"
+categories:
+  - "consulting"
+  - "data"
+  - "ecommerce"
+  - "erp"
+  - "mobile"
+technologies:
+  - "ERPNext"
+  - "Flutter"
+  - "Odoo"
+  - "SQL Server"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman IT & e-commerce company established 2018 (Flutter apps, web development, ERP); address and email per own site; pin is street-level fallback."
+evidence:
+  - type: "official_website"
+    url: "https://smartzone-jo.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://smartzone-jo.com/en/services/Mobile-application-development/Mobile-App-Development"
+    label: "Research source"
+  - type: "other"
+    url: "https://smartzone-jo.com/en/services/Website-development-and-design/Database-Development-and-Management"
+    label: "Research source"
+  - type: "other"
+    url: "https://smartzone-jo.com/en/services/ERP-Systems/Mobile-App-ERP-Development"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95075,35.906"
+    label: "Google Maps location"

@@ -1,0 +1,47 @@
+name: "Complete Chain"
+industry: "Digital Marketing / Web Development"
+website: "http://completechaintech.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "26-50"
+location:
+  area: "Amman"
+  address: "Al-Gardens Street - AL Riyadh Complex (504), Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.989497
+  longitude: 35.8737821
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.989497,35.8737821"
+categories:
+  - "devops"
+  - "ecommerce"
+  - "marketing"
+  - "security"
+  - "web"
+technologies:
+  - "Azure"
+  - "Drupal"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Junior"
+notes: "Est. 2015 Drupal-focused web solutions provider for government/enterprise; trains client teams - junior-friendly environment. Pin upgraded from city fallback using the company's own 'View Map' location (Wasfi At-Tall St 124/126, Tla' Al Ali), consistent with independent business listing. info@completechaintech.com not found published on site - no HR email. No careers page found."
+evidence:
+  - type: "official_website"
+    url: "http://completechaintech.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.completechaintech.com/"
+    label: "Research source"
+  - type: "other"
+    url: "https://techbehemoths.com/company/complete-chain"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.drupal.org/node/3335641"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375065/Complete_Chain"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.989497,35.8737821"
+    label: "Google Maps location"

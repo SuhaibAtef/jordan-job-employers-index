@@ -1,0 +1,42 @@
+name: "Olivery"
+industry: "Logistics SaaS / Delivery Management"
+website: "https://website.olivery.app"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "King Faisal Street, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.95175
+  longitude: 35.93313
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95175,35.93313"
+categories:
+  - "logistics"
+  - "web"
+technologies: []
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Founded 2020 (Ramallah/Amman); low-code/no-code B2B logistics SaaS — order management, driver tracking, automated routing, COD reconciliation; 200+ clients across 9 countries; seed from Ibtikar Fund & Flat6Labs (Jul 2025). stack research 2026-10-05: 5 searches; only 1 GitHub profile of a former full-stack intern (Flutter/Dart/Firebase/Python/SQL) with no tech tied to Olivery itself; no job postings or other employee evidence found."
+evidence:
+  - type: "official_website"
+    url: "https://website.olivery.app"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.wamda.com/2025/07/olivery-secures-seed-investment-ibtikar-fund-flat6labs"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.fwdstart.me/p/olivery-raises-seed-round-to-scale-no-code-delivery-software-across-mena"
+    label: "Research source"
+  - type: "other"
+    url: "https://website.olivery.app/contact-us/"
+    label: "Research source"
+  - type: "other"
+    url: "https://en.arageek.com/olivery-secures-seed-funding-to-revolutionise-middle-eastern-logistics-with-ai"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95175,35.93313"
+    label: "Google Maps location"

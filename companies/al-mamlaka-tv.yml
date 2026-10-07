@@ -1,0 +1,45 @@
+name: "Al Mamlaka TV"
+industry: "Broadcasting / Digital media"
+website: "https://www.almamlakatv.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "201-500"
+location:
+  area: "Amman"
+  address: "King Hussein Business Park, Amman"
+  status: "provided_unverified"
+  latitude: 31.973231
+  longitude: 35.834399
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.973231,35.834399"
+categories:
+  - "mobile"
+technologies:
+  - "Android"
+  - "iOS"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordanian public-service 24h news channel (est. 2018) with digital news portal, live streaming and iOS/Android apps; digital team produces interactive infographics and data journalism."
+evidence:
+  - type: "official_website"
+    url: "https://www.almamlakatv.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://en.wikipedia.org/wiki/Al-Mamlaka"
+    label: "Research source"
+  - type: "other"
+    url: "https://play.google.com/store/apps/details?id=ac.news.almamlaka"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.youtube.com/watch?v=cWSfnHSOuMg"
+    label: "Research source"
+  - type: "other"
+    url: "http://www.almamlakatv.com/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.signalhire.com/companies/almamlaka-tv-qnat-almmlkt"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.973231,35.834399"
+    label: "Google Maps location"

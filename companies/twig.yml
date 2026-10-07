@@ -1,0 +1,33 @@
+name: "TWIG"
+industry: "AgriTech / Landscaping Platform"
+website: null
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "iot"
+  - "mobile"
+technologies:
+  - "Mobile app"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Mobile-first platform for landscaping/garden-maintenance services and workforce management, plus smart home-gardening software; founded 2019 (Ali Al Rawashdeh, Ayat Shahin, Mohammed Al Houmsi); seed funding from Miqdadi AMC (2020). No current website/LinkedIn found - status may be dated. stack research 2026-10-05: 3 searches, no employee profiles or dev postings found; company appears dormant (no current site/LinkedIn); only evidenced: mobile-first per 2020 laffaz seed-funding piece."
+evidence:
+  - type: "other"
+    url: "https://laffaz.com/twig-jordanian-agritech-seed-funding/"
+    label: "Research source"
+  - type: "other"
+    url: "https://magnitt.com/news/twig-seed-funding-52446"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

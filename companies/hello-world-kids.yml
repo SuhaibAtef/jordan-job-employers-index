@@ -1,0 +1,62 @@
+name: "Hello World Kids"
+industry: "E-Learning Providers"
+website: "https://hellocode.me/"
+careers_url: null
+linkedin: null
+hr_email: "info@helloworldkids.org"
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Makkah Al-Mukarramah Street, Building No. 33, Floor 5, Amman"
+  status: "verified"
+  latitude: 31.9680429
+  longitude: 35.8795878
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "devops"
+  - "edtech"
+  - "web"
+technologies:
+  - "AWS"
+  - "CI/CD"
+  - "GraphQL"
+  - "JavaScript"
+  - "Laravel"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordanian edtech founded 2015 by Hanan Khader; teaches coding to kids (6-12) via 200+ schools and the HelloCode platform (SmoothY language built in JavaScript). No dedicated careers page found; general contact email publicly listed. Audit 2026-10-03: address confirmed verbatim on hellocode.me contact page (also lists info@helloworldkids.org); no verifiable map pin found, so GPS stays on city-center fallback. SmallBasic dropped from tech_stack (untraceable).\nstack verified 2026-10-06: 2 employee profiles (Yousef Al-Khrissat GitHub: Senior SWE Feb-Nov 2023 lists Laravel/AWS/RabbitMQ/GraphQL/CI/CD; Angham Bani Younes: full-stack dev at HWK) + company states SmoothY built in JavaScript"
+evidence:
+  - type: "official_website"
+    url: "https://hellocode.me/"
+    label: "Official website"
+  - type: "other"
+    url: "https://hellocode.me/en/"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://maps.app.goo.gl/ynfbdV9rEJKVhse88"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.google.jo/maps/place/Hello+World+Kids/@31.9680922,35.8796526,17z/data=!4m6!3m5!1s0x151ca10b8e6390e5:0x52466863c0ea92e8!8m2!3d31.9680429!4d35.8795878!16s%2Fg%2F11gy89kcwk"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://im.linkedin.com/company/helloworldkids"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://jordanict.com/company-listings/hello-world-kids"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://magnitt.com/news/helloworldkids-launches-self-learning-coding-plaftorm-hellocodeme-43713"
+    label: "Research source"
+  - type: "other"
+    url: "http://www.jpu.edu.jo/newsletter/wp-content/uploads/2017/04/Book1-Unit1.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://adigitalboom.com/news/jordan-based-ed-tech-hello-world-kids-raises-pre-series-a/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/376059/Hello_World_Kids"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

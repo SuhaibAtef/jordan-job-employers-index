@@ -1,0 +1,50 @@
+name: "DSTeck"
+industry: "Web design & SEO agency"
+website: "https://dsteck.com"
+careers_url: null
+linkedin: null
+hr_email: "info@dsteck.com"
+size: "2-9"
+location:
+  area: "Amman"
+  address: "12 Wasfi Al-Tal Street - Office 301, Amman, Jordan"
+  status: "verified"
+  latitude: 31.98365
+  longitude: 35.89103
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.98365,35.89103"
+categories:
+  - "design"
+  - "marketing"
+  - "web"
+technologies:
+  - "PWA"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Amman web app & website development company since 2008 (PWA, SEO, UX design); 170+ clients including Safeway Jordan. No public internship/fresh-grad programme found. [GPS verified 2026-10-05] Official contact page states 12 Wasfi Al-Tal Street - Office 301 and its embedded map pins the same spot; claimed Google Maps listing \"DSTeck - SEO & Web Design Company\" (45 reviews, 4.8*) at 31.9836,35.8910 matches; SEM Firms, JordanYP, DesignRush all give the same street address. stack research 2026-10-07: 4 searches, no employee profiles or dev postings found (Clutch reviews confirm WordPress work but no engineering evidence)"
+evidence:
+  - type: "official_website"
+    url: "https://dsteck.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://dsteck.com/contact-us/"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://dsteck.com/about-us/"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/DSTeck+-+SEO+%26+Web+Design+Company/@31.9836481,35.8910267,17z/"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.semfirms.com/profile/dsteck"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375754/DSTeck?amp=1"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.designrush.com/agency/profile/dsteck"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.98365,35.89103"
+    label: "Google Maps location"

@@ -1,0 +1,42 @@
+name: "Kitchefy"
+industry: "Restaurant Technology"
+website: "https://www.kitchefy.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Wasfi Al-Tal St 168, Amman"
+  status: "approximate"
+  latitude: 31.992508
+  longitude: 35.865706
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.992508,35.865706"
+categories:
+  - "mobile"
+  - "web"
+technologies:
+  - "Flutter"
+  - "GraphQL"
+  - "JavaScript"
+  - "jQuery"
+  - "Next.js"
+  - "React"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Amman foodtech founded 2021 by Abdullah Absi, Ahmad Akel and Marwan Abu Sakha; pivoted from cloud kitchens to a restaurant management / cloud POS system; $350K pre-seed 2022 (Oasis500, Beyond Capital, Injaz). No public internship postings found. GPS from Google business listing for Wasfi Al-Tal St 168 (listing shows 'Permanently Closed'; company now shows Riyadh HQ address on kitchefy.com).\nstack verified 2026-10-05: front-end developer at Kitchefy (gulftalent.com/people/ali-hamdan-10593392) lists React/ReactJS, Next.js, Flutter, GraphQL, JavaScript, jQuery; software engineer at Kitchefy, Amman (theorg.com) also confirmed; consistent with their cloud POS/RMS web platform + mobile apps (kitchefy.com)."
+evidence:
+  - type: "official_website"
+    url: "https://www.kitchefy.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.techloy.com/jordans-foodtech-startup-kitchefy-secures-350-thousands-funding/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/376062/Kitchefy"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.992508,35.865706"
+    label: "Google Maps location"

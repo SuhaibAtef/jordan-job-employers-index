@@ -1,0 +1,41 @@
+name: "iSolution"
+industry: "IT services / Cloud & digital transformation"
+website: "https://www.ismena.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "The Edgo Atrium, Rafic Hariri St - Boulevard 2nd floor - Office 228, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories:
+  - "consulting"
+  - "data"
+  - "devops"
+  - "erp"
+technologies:
+  - "Google Cloud"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Google Premier Partner (MENA) founded 2011 with a verified Jordan directory listing (iSolutions Jordan, Abdali Boulevard) tied to ismena.com; hiring Head of Development and Lead Developer roles in Amman."
+evidence:
+  - type: "official_website"
+    url: "https://www.ismena.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/374979/iSolutions_Jordan"
+    label: "Research source"
+  - type: "other"
+    url: "https://ismena.com/"
+    label: "Research source"
+  - type: "job_post"
+    url: "https://www.bayt.com/en/jordan/jobs/?jobId=70962365&page=7"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

@@ -1,0 +1,42 @@
+name: "Javna"
+industry: "Telecommunications / CPaaS"
+website: "https://www.javna.com/"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "51-100"
+location:
+  area: "Amman"
+  address: "Adnan Halawa Trading Center A35, As-Senaah St., Bayader Wadi Al-Seer, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.945658
+  longitude: 35.843869
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.945658,35.843869"
+categories:
+  - "ai"
+  - "telecom"
+technologies:
+  - "Generative AI"
+  - "REST API"
+  - "SMS Gateway"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Amman-HQ omnichannel CPaaS (SMS API, WhatsApp Business Platform, AI chatbots, OTP verify); badged Meta Business Partner, 1,300+ brands, founded 2001. No public internship/grad evidence found."
+evidence:
+  - type: "official_website"
+    url: "https://www.javna.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/344518/Javna_Mobile_Media_Technology_Solutions"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.crunchbase.com/organization/javna-wireless-software-solutions"
+    label: "Research source"
+  - type: "other"
+    url: "http://images.decypha.feedgfm.com/en/company-list/------------Javna-Software-Solutions-Co-Ltd---272401"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.945658,35.843869"
+    label: "Google Maps location"

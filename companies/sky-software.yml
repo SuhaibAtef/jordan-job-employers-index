@@ -1,0 +1,43 @@
+name: "Sky Software"
+industry: "Hospitality Software (SaaS)"
+website: "https://www.skyits.com/"
+careers_url: null
+linkedin: null
+hr_email: "info@skyits.com"
+size: null
+location:
+  area: "Amman"
+  address: "Ahmad Al-Tarawneh Street, Jbaiha, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 32.020692
+  longitude: 35.869768
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.020692,35.869768"
+categories:
+  - "web"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Founded 1997 in Amman; hospitality software products (Cloud SaaS + desktop: PMS, restaurant management, Bayan HRMS, materials/quality management); preferred vendor for IHG, Rotana, Four Seasons MEA, Kempinski. stack research 2026-10-05: 5 searches + 1 Wuzzuf employee profile (Full Stack Developer, mentions microservices/APIs but no named languages); no job postings naming tech; no tech evidence found."
+evidence:
+  - type: "official_website"
+    url: "https://www.skyits.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/347040/Sky_Software_Co"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/366296/Sky_Software"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.hoteliermiddleeast.com/suppliers/supplier-profile/35100-supplier-profile-sky-software"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanict.com/2016/company-profile/sky-software"
+    label: "Research source"
+  - type: "other"
+    url: "https://skyits.com/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.020692,35.869768"
+    label: "Google Maps location"

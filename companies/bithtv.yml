@@ -1,0 +1,38 @@
+name: "BithTV"
+industry: "AI Video / Content Creation SaaS"
+website: "http://www.bith.tv"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "1-10"
+location:
+  area: "Amman"
+  address: "Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9518
+  longitude: 35.94042
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+categories:
+  - "ai"
+  - "web"
+technologies: []
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Founded 2020 in Amman as a gaming clip-sharing platform (raised $205K seed led by Oasis500); pivoted to Bith.ai, an AI product-video generation SaaS for e-commerce brands (bith.tv now redirects to the Bith.ai dashboard). stack research 2026-10-05: 5 searches, no employee profiles, job postings or engineering evidence (funding/team profiles only)"
+evidence:
+  - type: "official_website"
+    url: "http://www.bith.tv"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.wamda.com/2021/08/jordans-bithtv-raises-205000-seed-round"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.preqin.com/data/profile/asset/bithtv/441464"
+    label: "Research source"
+  - type: "other"
+    url: "https://dfkcompany.com/bithtv/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+    label: "Google Maps location"

@@ -1,0 +1,58 @@
+name: "ESKADENIA Software"
+industry: "Enterprise software"
+website: "https://eskadenia.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "201-500"
+location:
+  area: "Amman"
+  address: "233 Al-Madina Al-Munawara Street, Amman 11821, Jordan"
+  status: "provided_unverified"
+  latitude: 31.995105
+  longitude: 35.870495
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.995105,35.870495"
+categories:
+  - "data"
+  - "devops"
+  - "erp"
+  - "web"
+technologies:
+  - ".NET"
+  - "Angular"
+  - "Azure"
+  - "C#"
+  - "JavaScript"
+  - "MongoDB"
+  - "MySQL"
+  - "Node.js"
+  - "Oracle Database"
+  - "REST API"
+  - "SQL Server"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Junior"
+notes: "CMMI level 3 enterprise software house founded 2000 (telecom, insurance, ERP, education, healthcare products); its own job postings include Junior-Mid Level (0-3 yrs) developer roles — fresh-grad friendly. Pin moved from city-center fallback to verified office (Al-Madina Al-Munawara St 233)."
+evidence:
+  - type: "official_website"
+    url: "https://eskadenia.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://eskadenia.com/full_stack_developers_front_back_end_developers"
+    label: "Research source"
+  - type: "other"
+    url: "https://eskadenia.com/senior-full-stack-developer-net-angular"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.cbinsights.com/company/eskadenia-software"
+    label: "Research source"
+  - type: "other"
+    url: "https://contactout.com/company/ESKADENIA-Software-7775"
+    label: "Research source"
+  - type: "other"
+    url: "http://www.eskadenia.com/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.995105,35.870495"
+    label: "Google Maps location"

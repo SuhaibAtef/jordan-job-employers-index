@@ -1,0 +1,49 @@
+name: "TruTed"
+industry: "Software agency (web, mobile, cloud)"
+website: "https://truted.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "50+"
+location:
+  area: "Amman"
+  address: "Queen Rania St, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.99797
+  longitude: 35.88235
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99797,35.88235"
+categories:
+  - "data"
+  - "devops"
+  - "ecommerce"
+  - "mobile"
+  - "web"
+technologies:
+  - "Angular"
+  - "Flutter"
+  - "Kotlin"
+  - "MongoDB"
+  - "Node.js"
+  - "Shopify"
+  - "Swift"
+  - "WordPress"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman software agency (est. 2016 by Mohammad Al-Sallal) building websites, cross-platform mobile apps and cloud systems; 50+ team across 5 offices, 450+ projects, Spark Award 2019. No public email, LinkedIn or careers page found on site."
+evidence:
+  - type: "official_website"
+    url: "https://truted.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://truted.com/about/"
+    label: "Research source"
+  - type: "other"
+    url: "https://truted.com/services"
+    label: "Research source"
+  - type: "other"
+    url: "https://clutch.co/profile/truted"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99797,35.88235"
+    label: "Google Maps location"

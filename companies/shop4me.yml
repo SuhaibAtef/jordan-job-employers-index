@@ -1,0 +1,40 @@
+name: "Shop4Me"
+industry: "B2B procurement marketplace"
+website: "https://shop4me.com/"
+careers_url: "https://wellfound.com/company/shop4me/jobs"
+linkedin: null
+hr_email: null
+size: "1-10"
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "ecommerce"
+  - "mobile"
+  - "web"
+technologies:
+  - "Android"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "B2B marketplace that helps businesses (restaurants, retail, clinics, offices) procure food & beverages, disposables and packaging directly from suppliers; founded by Eihab Elzinary, pre-seed Apr 2022; Jordan operations (+962 7 9918 3030). Wellfound jobs page exists but lists no open roles."
+evidence:
+  - type: "official_website"
+    url: "https://shop4me.com/"
+    label: "Official website"
+  - type: "careers"
+    url: "https://wellfound.com/company/shop4me/jobs"
+    label: "Careers / application page"
+  - type: "other"
+    url: "https://apprecs.com/android/com.shop4me.customer.native.android/shop4me%3A-supplying-businesses"
+    label: "Research source"
+  - type: "other"
+    url: "https://village.do/company/shop4me-global"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

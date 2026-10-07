@@ -1,0 +1,55 @@
+name: "Jeeny"
+industry: "Ride-hailing and delivery (Jeeny Xpress)"
+website: "https://www.jeeny.me"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Mecca Street, Al Hijaz Tower, Building 158, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.975671
+  longitude: 35.8609
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.975671,35.8609"
+categories:
+  - "ai"
+  - "design"
+  - "devops"
+  - "logistics"
+  - "marketing"
+  - "web"
+technologies:
+  - "Figma"
+  - "Google Analytics"
+  - "Grafana"
+  - "HTML"
+  - "Jenkins"
+  - "Webpack"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+notes: "Ride-hailing + delivery app operating in Saudi Arabia and Jordan; Jordan regional office at Mecca Street, Al Hijaz Tower, Building 158, Amman (Google business listing 'Jeeny Head Office', Mecca St. 158); has hired fresh CS graduates as Associate Software Engineers (grad hiring track record)."
+evidence:
+  - type: "official_website"
+    url: "https://www.jeeny.me"
+    label: "Official website"
+  - type: "other"
+    url: "https://jeeny.me/"
+    label: "Research source"
+  - type: "other"
+    url: "https://vouchercue.com/store/jeeny/"
+    label: "Research source"
+  - type: "other"
+    url: "https://curvice.com/mobile-application/jeeny-contact-details/"
+    label: "Research source"
+  - type: "other"
+    url: "https://leadiq.com/c/jeeny/5b3149ae3d00000801f86ee5"
+    label: "Research source"
+  - type: "other"
+    url: "https://pucit.edu.pk/looking-for-fresh-cs-graduates-in-lahore-at-jeeny/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.975671,35.8609"
+    label: "Google Maps location"

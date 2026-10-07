@@ -1,0 +1,42 @@
+name: "Mind Rockets"
+industry: "Assistive Technology / AI"
+website: "https://www.mindrocketsinc.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "1-10"
+location:
+  area: "Amman"
+  address: "Wasfi At-Tall St. 112, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.988337
+  longitude: 35.875949
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.988337,35.875949"
+categories:
+  - "ai"
+  - "games"
+  - "mobile"
+technologies:
+  - "AR/VR"
+  - "iOS"
+  - "NLP"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-based AI company building 3D animated avatars that translate text and speech into 8 sign languages; winner of Get in the Ring 2017/18."
+evidence:
+  - type: "official_website"
+    url: "https://www.mindrocketsinc.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://pitchbook.com/profiles/company/452790-64"
+    label: "Research source"
+  - type: "other"
+    url: "https://magnitt.com/startups/mind-rockets-inc-4015"
+    label: "Research source"
+  - type: "other"
+    url: "https://cairoscene.com/Business/Meet-the-2-Arab-Winners-of-One-of-the-Biggest-Entrepeneurial-Conferences-Worldwide"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.988337,35.875949"
+    label: "Google Maps location"

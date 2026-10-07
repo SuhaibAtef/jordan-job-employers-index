@@ -1,0 +1,46 @@
+name: "Jordan University of Science and Technology (JUST)"
+industry: "Higher Education / Science & Technology University"
+website: "https://www.just.edu.jo"
+careers_url: null
+linkedin: null
+hr_email: "public@just.edu.jo"
+size: null
+location:
+  area: "Irbid"
+  address: "P.O. Box 3030, Irbid 22110 — campus at Ar Ramtha, on the Amman–Damascus international road, south of Ramtha"
+  status: "provided_unverified"
+  latitude: 32.49503
+  longitude: 35.99122
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.49503,35.99122"
+categories:
+  - "edtech"
+  - "web"
+technologies:
+  - ".NET"
+  - "LMS"
+  - "PHP"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Fresh graduate"
+    - "Graduate"
+notes: "Major public STEM university at Ar Ramtha, Irbid Governorate (23,000+ students, 143 degree programs); runs Maharat open online courses and a career office that regularly posts engineering/IT job opportunities for fresh graduates. stack verified 2026-10-05: ex-ITCC web developer bio: 7+ years web development using Microsoft ASP.NET at JUST ITCC; JUST news: Center for E-Learning built OE platform + in-house custom Moodle plugins (PHP)."
+evidence:
+  - type: "official_website"
+    url: "https://www.just.edu.jo"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.just.edu.jo/aboutjust/Pages/JUST_Location.aspx"
+    label: "Research source"
+  - type: "other"
+    url: "https://en.wikipedia.org/wiki/Jordan_University_of_Science_and_Technology"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.just.edu.jo/Deanships/DeanshipofStudentsAffairs/Pages/display.aspx?List=News&SID=123"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.just.edu.jo:443/Pages/ExploreProgram.aspx?guid=d0e68512-d5af-4439-8b5b-9e35780aca99"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.49503,35.99122"
+    label: "Google Maps location"

@@ -1,0 +1,46 @@
+name: "Al Bawaba"
+industry: "Digital media / Content syndication"
+website: "https://www.albawaba.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "11-50"
+location:
+  area: "Amman"
+  address: "The Plenary, 4th Floor, Al-Sharif Abdul Hamid Sharaf St. 74, Shmeisani, Amman"
+  status: "provided_unverified"
+  latitude: 31.975839
+  longitude: 35.897238
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.975839,35.897238"
+categories:
+  - "data"
+  - "devops"
+  - "web"
+technologies:
+  - "Drupal"
+  - "Git"
+  - "jQuery"
+  - "Linux"
+  - "MySQL"
+  - "PHP"
+  - "WordPress"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman HQ independent MENA news network (est. 2000) with portals, blogs and games zone; runs SyndiGate content-syndication marketplace licensing from 1,100+ publishers. stack research 2026-10-04: 5 web searches, no employee profiles or dev job postings found (news publisher; mobile site/apps built by third-party vendor Marfeel); tags left unverified, not verified. stack verified 2026-10-05: 2 employee profiles + vendor case study - Senior PHP Developer at SyndiGate (owned/operated by Al Bawaba Middle East Ltd, Amman) uses Symfony/XML/FTP (Symfony has no canonical tag); former Al Bawaba web developer used PHP, Drupal, MySQL, jQuery, Linux, git; Vardot lists Al Bawaba News as Drupal build."
+evidence:
+  - type: "official_website"
+    url: "https://www.albawaba.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://en.wikipedia.org/wiki/Al_Bawaba"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/346254/Al_Bawaba_Middle_East"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.tokenpost.com/news/business/3454"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.975839,35.897238"
+    label: "Google Maps location"

@@ -1,0 +1,43 @@
+name: "Kaleela"
+industry: "EdTech / Language Learning"
+website: "https://kaleela.com"
+careers_url: null
+linkedin: null
+hr_email: "info@kaleela.com"
+size: null
+location:
+  area: "Amman"
+  address: "14 King Faisal Bin Abdelaziz St, Amman 11831"
+  status: "approximate"
+  latitude: 31.9624
+  longitude: 35.87115
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9624,35.87115"
+categories:
+  - "edtech"
+  - "mobile"
+technologies:
+  - "Android"
+  - "iOS"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman Arabic-learning app (iOS/Android, MSA + dialects) by Reach Publishers; markets to parents teaching children Arabic. Pin upgraded from city-center fallback to developer address published on Google Play listing. Support email info@kaleela.com published on the Play Store listing. No public hiring found."
+evidence:
+  - type: "official_website"
+    url: "https://kaleela.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://kaleela.com/pt/arabic-learning-app-how-your-child-can-benefit-from-one"
+    label: "Research source"
+  - type: "other"
+    url: "https://play.google.com/store/apps/details?id=com.reachpublishers.kaleela&hl=en_ZA"
+    label: "Research source"
+  - type: "other"
+    url: "https://play.google.com/store/apps/details?id=com.reachpublishers.kaleela"
+    label: "Research source"
+  - type: "other"
+    url: "https://jordanict.com/listings?category=43"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9624,35.87115"
+    label: "Google Maps location"

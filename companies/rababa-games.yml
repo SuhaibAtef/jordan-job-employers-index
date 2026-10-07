@@ -1,0 +1,44 @@
+name: "RABABA Games"
+industry: "Video Games"
+website: "https://rababagames.com"
+careers_url: null
+linkedin: null
+hr_email: "info@rababagames.com"
+size: "11-50"
+location:
+  area: "Amman"
+  address: "Yajouz Rd., Caracas Center Office 302, Al Jubayha, Amman"
+  status: "provided_unverified"
+  latitude: 32.025955
+  longitude: 35.856388
+  maps_url: "https://www.google.com/maps/search/?api=1&query=32.025955,35.856388"
+categories:
+  - "games"
+  - "mobile"
+technologies:
+  - "Android"
+  - "Game Platforms"
+  - "iOS"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordan-based studio behind Hajwala (120M+ downloads, also on PlayStation); CEO describes a collaborative culture where experienced professionals and newcomers thrive."
+evidence:
+  - type: "official_website"
+    url: "https://rababagames.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://appwisp.com/app/ios/com.RababaGames.SnakeAndLadder"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.pocketgamer.biz/rababa-games-ceo-talks-being-self-funded-exploring-new-platforms-and-expansion-opportunities/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375955/Rababa_Games"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.top-rated.online/cities/Sweileh/place/p/15186694/RABABA+Games"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=32.025955,35.856388"
+    label: "Google Maps location"

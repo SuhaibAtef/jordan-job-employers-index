@@ -1,0 +1,37 @@
+name: "Flex-Ops"
+industry: "Software / ERP consulting"
+website: "https://flex-ops.com/"
+careers_url: null
+linkedin: null
+hr_email: "info@flex-ops.com"
+size: "30"
+location:
+  area: "Amman"
+  address: "Amman, Kilo Circle, Black Stone Complex, Office No. 105, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "consulting"
+  - "erp"
+  - "web"
+technologies:
+  - ".NET"
+  - "Laravel"
+  - "Odoo"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Official Odoo Gold Partner in Jordan; 110+ Odoo implementations; also builds FlexHR (SaaS HR) and TMBill restaurant POS/CRM products. No internship program found."
+evidence:
+  - type: "official_website"
+    url: "https://flex-ops.com/"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.odoo.com/partners/flex-ops-5853393"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

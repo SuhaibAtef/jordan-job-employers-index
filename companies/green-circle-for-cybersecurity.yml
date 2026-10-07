@@ -1,0 +1,48 @@
+name: "Green Circle for Cybersecurity"
+industry: "Cybersecurity / Information Technology"
+website: "http://grcico.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "296 (Revelio Labs, Mar 2026)"
+location:
+  area: "Amman"
+  address: "Mecca Street 240, office 104, Amman 11910, Jordan"
+  status: "provided_unverified"
+  latitude: 31.975223
+  longitude: 35.843989
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.975223,35.843989"
+categories:
+  - "security"
+technologies:
+  - "GRC"
+  - "Penetration Testing"
+  - "SIEM"
+  - "SOC"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Graduate"
+notes: "Amman MSSP and consultancy (est. 2017) offering managed SOC, VAPT, red teaming, GRC and AI security; runs the 'Cyber Zero to Hero' talent pipeline with EC-Council scholarships and on-the-job apprenticeships aimed at IT graduates and career starters."
+evidence:
+  - type: "official_website"
+    url: "http://grcico.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://greencircle.arabsuntech.com/services/red-team-testing"
+    label: "Research source"
+  - type: "other"
+    url: "https://intaj.net/members-service/vulnerability-assessment-and-penetration-services/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.eccouncil.org/ec-council-in-news/ec-council-teams-up-with-green-circle-to-support-cybersecurity-career-starters-in-jordan-with-the-cct-scholarship/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.reveliolabs.com/companies/green-circle-for-cybersecurity/employees"
+    label: "Research source"
+  - type: "other"
+    url: "https://techbehemoths.com/company/green-circle-for-cybersecurity"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.975223,35.843989"
+    label: "Google Maps location"

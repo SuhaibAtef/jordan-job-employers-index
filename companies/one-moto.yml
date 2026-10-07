@@ -1,0 +1,41 @@
+name: "ONE MOTO"
+industry: "Electric Vehicles / Fleet"
+website: "https://one-moto.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "iot"
+technologies:
+  - "4kW motor, 150km range, 72V swappable battery"
+  - "AI-backed cloud system for fleet and rider management"
+  - "Electric delivery motorcycles"
+  - "One App Connectivity"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Dubai-based EV manufacturer with Jordan presence ('Delivering in Amman, Jordan'); Byka Fleet electric delivery motorcycles with app connectivity and AI-backed cloud fleet/rider management.; stack research 2026-10-05: 3 searches, no employee profiles or dev postings found; R&D is UAE/UK-based, Jordan presence is distribution-only ('Delivering in Amman')"
+evidence:
+  - type: "official_website"
+    url: "https://one-moto.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://one-moto.com/commercial/byka-fleet/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.agbi.com/logistics/2023/10/one-moto-100-cities/"
+    label: "Research source"
+  - type: "other"
+    url: "https://one-moto.com/delivering-in-amman-jordan-the-one-moto-expansion-journey-continues/?query-21-page=7&cst"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

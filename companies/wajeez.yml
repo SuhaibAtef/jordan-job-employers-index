@@ -1,0 +1,48 @@
+name: "Wajeez"
+industry: "E-Learning Providers"
+website: "https://www.wajeez.com/"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/72175298"
+hr_email: "support@wajeez.co"
+size: "51-100"
+location:
+  area: "Amman"
+  address: "Abd Ar-Rahim Al-Hajj Muhammad St. 67, Amman"
+  status: "provided_unverified"
+  latitude: 31.958439
+  longitude: 35.858974
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.958439,35.858974"
+categories:
+  - "edtech"
+  - "mobile"
+  - "web"
+technologies:
+  - "Android"
+  - "iOS"
+  - "Next.js"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Arabic audiobook/book-summary subscription app (6M users claimed), founded by Mohammad Zatara and Rami Abu Jbara; site contact also lists a Riyadh office while press and directories confirm the Amman office. Public support email listed; no HR-specific address found. Audit 2026-10-03: GPS upgraded from city-center fallback to the maps business listing pin tied to wajeez.co (31.958439, 35.858974), matching the stated street address. support@wajeez.co and LinkedIn page verified in wajeez.com footer. tech_stack kept: Next.js (site's _next/ assets), iOS/Android (app-store badges on site)."
+evidence:
+  - type: "official_website"
+    url: "https://www.wajeez.com/"
+    label: "Official website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/72175298"
+    label: "LinkedIn company page"
+  - type: "other"
+    url: "http://www.wajeez.co/"
+    label: "Research source"
+  - type: "other"
+    url: "https://royalcentral.co.uk/east/queen-rania-visits-technology-startup-wajeez-164422/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.crunchbase.com/organization/wajeez"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/376069/Wajeez"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.958439,35.858974"
+    label: "Google Maps location"

@@ -1,0 +1,53 @@
+name: "Vezeeta"
+industry: "Health tech, Digital health"
+website: "https://jordan.vezeeta.com/en"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "14 Zahran Street, Amman 11183, Jordan"
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "data"
+  - "devops"
+  - "healthtech"
+  - "mobile"
+  - "web"
+technologies:
+  - ".NET"
+  - "Android"
+  - "AWS"
+  - "C#"
+  - "Docker"
+  - "Elasticsearch"
+  - "iOS"
+  - "Jenkins"
+  - "Kubernetes"
+  - "MySQL"
+  - "Redis"
+  - "Swift"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Digital healthcare booking platform + practice-management software for clinics; operates a Jordan office in Amman (Third Circle, 14 Zahran Street — confirmed on vezeeta.com and business directories). No public HR email found.\nstack verified 2026-10-06: backend engineer profile lists C#/.NET MVC/.NET Core/Redis/MySql/RabbitMQ/Elasticsearch/AWS; Senior iOS posting requires Swift/Objective-C; Android engineer profiles; AppSec posting requires .NET/AWS/Kubernetes; getprog notes Docker/Jenkins microservices. Objective-C/RabbitMQ have no canonical tags (noted only)."
+evidence:
+  - type: "official_website"
+    url: "https://jordan.vezeeta.com/en"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.lacartes.com/business/Vezeeta/932672"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.linkcentre.com/profile/davidmitchell143/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.vezeeta.com/en-lb"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

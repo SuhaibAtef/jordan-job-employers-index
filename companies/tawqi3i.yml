@@ -1,0 +1,38 @@
+name: "Tawqi3i"
+industry: "eSignature / trusted digital services"
+website: "https://www.tawqi3i.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "consulting"
+  - "mobile"
+technologies:
+  - "Android"
+  - "iOS"
+  - "REST API"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Jordan's first digital-signature platform with iOS/Android apps (eIDAS-compliant), powering the SANAD national e-gateway and remote bank signing with Jordan Ahli Bank. No public email or office address found (phone-only contact sales)."
+evidence:
+  - type: "official_website"
+    url: "https://www.tawqi3i.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://apps.apple.com/sa/app/tawqi3i-%D8%AA%D9%88%D9%82%D9%8A%D8%B9%D9%8A/id1567218327"
+    label: "Research source"
+  - type: "other"
+    url: "https://ahli.com/jordan-ahli-bank-becomes-the-first-bank-in-jordan-to-launch-a-certified-remote-digital-signature-service-for-its-customers/"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

@@ -1,0 +1,37 @@
+name: "Romman Smart Applications"
+industry: "Mobile apps (consumer)"
+website: "https://rommanapps.com"
+careers_url: "https://rommanapps.com"
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Amman"
+  address: "Ibn Mudaa St, Amman"
+  status: "provided_unverified"
+  latitude: 31.95759
+  longitude: 35.857224
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95759,35.857224"
+categories:
+  - "data"
+  - "mobile"
+technologies:
+  - "Android"
+  - "iOS"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Independent mobile product company est. 2012, HQ Jordan (+UAE), Arabic-first apps (Islamic, utility, kids, games) with millions of installs; jobs page lists open Jordan roles incl. iOS/Android developers, UX/UI designer and data analyst."
+evidence:
+  - type: "official_website"
+    url: "https://rommanapps.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.aihitdata.com/company/02F59DDA/romman-smart-applications/overview"
+    label: "Research source"
+  - type: "other"
+    url: "https://androidrank.org/developers/ranking/jordan"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95759,35.857224"
+    label: "Google Maps location"

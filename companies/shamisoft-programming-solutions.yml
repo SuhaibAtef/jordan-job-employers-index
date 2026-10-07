@@ -1,0 +1,33 @@
+name: "ShamiSoft Programming Solutions"
+industry: "Software / ERP & accounting"
+website: "https://shamisoft.com"
+careers_url: null
+linkedin: null
+hr_email: "info@ShamiSoft.com"
+size: null
+location:
+  area: "Amman"
+  address: "(53) Abdallah Ghosheh St, Office (502), Amman"
+  status: "approximate"
+  latitude: 31.96774
+  longitude: 35.85519
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96774,35.85519"
+categories:
+  - "erp"
+  - "mobile"
+technologies:
+  - "Android"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman software house since 1991 developing ERP and accounting software; address and email per own site; pin is street-level fallback. | stack verified 2026-10-05: publishes own Android apps (Google Play dev account ShamiSoft Programming Solutions: Learn Arabic, Kinz Amman) + ERP/accounting/HR/CRM product suite on own site; no backend language evidenced"
+evidence:
+  - type: "official_website"
+    url: "https://shamisoft.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.jordanyp.com/category/Software_applications/city:Amman"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.96774,35.85519"
+    label: "Google Maps location"

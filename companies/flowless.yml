@@ -1,0 +1,41 @@
+name: "Flowless"
+industry: "AgriTech / Precision Irrigation"
+website: "https://flowless.co"
+careers_url: null
+linkedin: null
+hr_email: null
+size: null
+location:
+  area: "Jordan Valley"
+  address: null
+  status: "approximate"
+  latitude: 31.9539
+  longitude: 35.9106
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+categories:
+  - "ai"
+  - "iot"
+  - "mobile"
+technologies:
+  - "AI/ML"
+  - "IoT"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "AI-driven precision irrigation (AgriWise) with LoRaWAN field sensors and mobile dashboard; HQ Ramallah, Palestine - qualifies via Jordan operations: AgriWise deployed on Jordan Valley palm farms (both sides of the Valley per its own case study) plus Jordanian partner Senara. No public hiring page found."
+evidence:
+  - type: "official_website"
+    url: "https://flowless.co"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.flowless.co/technology/agriwise/"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.flowless.co/wp-content/uploads/2025/07/smart-irrigation.pdf"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.wamda.com/2020/03/liquid-assets-conserving-palestine-water-supplies"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+    label: "Google Maps location"

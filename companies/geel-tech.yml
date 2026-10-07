@@ -1,0 +1,40 @@
+name: "Geel Tech"
+industry: "Software development agency"
+website: "https://geeltech.com"
+careers_url: "https://geeltech.com/careers-en"
+linkedin: null
+hr_email: "info@geeltech.com"
+size: "10-49"
+location:
+  area: "Amman"
+  address: "Wakalat St. 17, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.95783
+  longitude: 35.860625
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95783,35.860625"
+categories:
+  - "mobile"
+  - "web"
+technologies:
+  - "Android"
+  - "Flutter"
+  - "iOS"
+  - "Laravel"
+  - "PHP"
+  - "React"
+  - "React Native"
+  - "Vue.js"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-based web/mobile agency (founded 2010) serving Jordan/GCC; standard stack is Flutter mobile + Laravel backend/CMS. Careers page explicitly welcomes early-career applicants — good fresh-grad target. GPS upgraded to the office's Google business pin at Wakalat St. 17."
+evidence:
+  - type: "official_website"
+    url: "https://geeltech.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://geeltech.com/careers-en"
+    label: "Careers / application page"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95783,35.860625"
+    label: "Google Maps location"

@@ -1,0 +1,33 @@
+name: "Lion Guard LLC"
+industry: "IT infrastructure & physical security systems"
+website: "https://lionguard.net"
+careers_url: null
+linkedin: null
+hr_email: "Info@lionguard.net"
+size: null
+location:
+  area: "Amman"
+  address: "Wasfi Al Tall Street, West Amman, Jordan"
+  status: "approximate"
+  latitude: 31.99725
+  longitude: 35.84949
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99725,35.84949"
+categories:
+  - "iot"
+  - "security"
+technologies:
+  - "IoT"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "100% Jordanian IT infrastructure and low-current-systems specialist (est. 2021) delivering security, automation and connectivity projects for clients including UNRWA, Jordan Atomic Energy Commission and Jordan Kuwait Bank; partnerships with Hikvision, Dahua and Honeywell."
+evidence:
+  - type: "official_website"
+    url: "https://lionguard.net"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.issuewire.com/lion-guard-sets-the-bar-with-its-new-smart-security-services-in-amman-jordan-1711038227178882"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99725,35.84949"
+    label: "Google Maps location"

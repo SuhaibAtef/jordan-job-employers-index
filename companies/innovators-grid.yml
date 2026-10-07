@@ -1,0 +1,40 @@
+name: "Innovators Grid"
+industry: "Enterprise Software (GRC / Risk Management)"
+website: "https://innovatorsgrid.com"
+careers_url: "https://www.linkedin.com/posts/mustafa-thaer-87901a286_were-hiring-junior-qa-engineer-innovators-activity-7505494266283016192-AhqK"
+linkedin: null
+hr_email: "info@innovatorsgrid.com"
+size: null
+location:
+  area: "Amman"
+  address: "Amman, Jordan"
+  status: "approximate"
+  latitude: 31.95672
+  longitude: 35.92519
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+categories:
+  - "data"
+  - "erp"
+  - "qa"
+technologies:
+  - "Cypress"
+  - "Playwright"
+  - "Postman"
+  - "Selenium"
+  - "SQL"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+    - "Junior"
+notes: "Amman IT company building risk/audit/compliance software (InnovRM, InnovIA, InnovCM, InnovBCM); actively hiring Junior QA Engineer in Amman (0-1 yrs, internships count) - strong fresh-grad fit."
+evidence:
+  - type: "official_website"
+    url: "https://innovatorsgrid.com"
+    label: "Official website"
+  - type: "careers"
+    url: "https://www.linkedin.com/posts/mustafa-thaer-87901a286_were-hiring-junior-qa-engineer-innovators-activity-7505494266283016192-AhqK"
+    label: "Careers / application page"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+    label: "Google Maps location"

@@ -1,0 +1,41 @@
+name: "Istikana"
+industry: "VOD / Family Entertainment"
+website: "https://www.istikana.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "1-10"
+location:
+  area: "Amman"
+  address: "28 Al Rawda Street"
+  status: "approximate"
+  latitude: 31.99527
+  longitude: 35.89377
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99527,35.89377"
+categories:
+  - "ai"
+  - "mobile"
+  - "web"
+technologies:
+  - "Android"
+  - "iOS"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman Arabic subscription VOD platform (est. 2011, 9 employees) with children's programming and cartoons; apps on web, mobile, Chromecast and Smart TV. Pin upgraded from city-center fallback to office address published on the company's own About page (28 Al Rawda Street, Dahiyet al Rasheed, Amman 11183). No public hiring found."
+evidence:
+  - type: "official_website"
+    url: "https://www.istikana.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://www.wamda.com/2012/06/istikana-inks-deal-to-offer-videos-on-samsung-smart-tvs"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/324225/Istikana"
+    label: "Research source"
+  - type: "other"
+    url: "https://pitchbook.com/profiles/company/107169-85"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.99527,35.89377"
+    label: "Google Maps location"

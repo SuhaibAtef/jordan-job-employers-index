@@ -1,0 +1,38 @@
+name: "STS - Specialized Technical Services"
+industry: "IT services / systems integration"
+website: "https://stsarabia.com"
+careers_url: null
+linkedin: null
+hr_email: null
+size: "1001-2000"
+location:
+  area: "Amman"
+  address: "Abdallah Ghosheh St. 1, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.960016
+  longitude: 35.857105
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.960016,35.857105"
+categories:
+  - "consulting"
+  - "data"
+  - "devops"
+  - "erp"
+  - "fintech"
+  - "security"
+technologies:
+  - "Firewalls"
+  - "Microsoft 365"
+  - "Payment Gateway"
+  - "SIEM"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Trainee"
+notes: "Large regional systems integrator (acquired by ZainTech in Oct 2023) delivering cloud, networking, data center and payment solutions; no public fresh-grad program found. GPS upgraded to the office's verified Google business pin at Abdallah Ghosheh St. 1. stack verified 2026-10-06: system engineer trainee profile (Windows Server/Exchange/Microsoft 365) + STS Security Analyst job posting in Jordan (SIEM, firewalls, IPS)"
+evidence:
+  - type: "official_website"
+    url: "https://stsarabia.com"
+    label: "Official website"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.960016,35.857105"
+    label: "Google Maps location"

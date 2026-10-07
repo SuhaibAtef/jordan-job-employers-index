@@ -1,0 +1,62 @@
+name: "Eon Dental"
+industry: "HealthTech (dental technology / clear aligners)"
+website: "https://www.eondental.com"
+careers_url: null
+linkedin: null
+hr_email: "[email protected]"
+size: "201-500"
+location:
+  area: "Amman"
+  address: "Al-Jahraa St., Building 385, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: 31.968085
+  longitude: 35.842284
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.968085,35.842284"
+categories:
+  - "data"
+  - "devops"
+  - "healthtech"
+  - "qa"
+  - "web"
+technologies:
+  - "CI/CD"
+  - "Docker"
+  - "Elasticsearch"
+  - "Express"
+  - "Git"
+  - "Go"
+  - "GraphQL"
+  - "JavaScript"
+  - "MongoDB"
+  - "Next.js"
+  - "Node.js"
+  - "PHP"
+  - "Postman"
+  - "React"
+  - "REST API"
+  - "SQL"
+  - "Three.js"
+  - "TypeScript"
+job_seeker:
+  early_career_signal: false
+  signals: []
+notes: "Amman-headquartered (est. 2011) clear-aligner manufacturer with cloud treatment-planning software and 3M+ aligners produced; $26M Series B; lists a public contact email on its trade profile.\nstack verified 2026-10-04: getprog.ai Senior Backend profile (PHP, Node.js, Go, REST/GraphQL, SQL/NoSQL, React) + Eon Dental frontend engineer resume/GitHub (React, Next.js, TypeScript, Express, MongoDB, Docker, CI/CD, Elasticsearch, Three.js 3D viewer)."
+evidence:
+  - type: "official_website"
+    url: "https://www.eondental.com"
+    label: "Official website"
+  - type: "other"
+    url: "https://lmtmag.com/eondental"
+    label: "Research source"
+  - type: "other"
+    url: "https://www.dental-tribune.com/news/eon-dental-and-gc-orthodontics-introduce-movaligners/"
+    label: "Research source"
+  - type: "other"
+    url: "https://mid-east.info/eon-bites-into-the-clear-aligner-market-with-26m-in-series-b-funding/"
+    label: "Research source"
+  - type: "other"
+    url: "https://theorg.com/org/eon-dental?focus=p-10665193"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.968085,35.842284"
+    label: "Google Maps location"

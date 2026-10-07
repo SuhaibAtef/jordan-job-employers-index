@@ -1,0 +1,43 @@
+name: "Cleto Technologies"
+industry: "Hospitality software (POS/digital menus) & custom software"
+website: "https://cleto.tech"
+careers_url: null
+linkedin: null
+hr_email: "info@cleto.tech"
+size: "10-49"
+location:
+  area: "Amman"
+  address: "Khalda, Wasfi Al-Tal St, Amman"
+  status: "verified"
+  latitude: 31.9929523
+  longitude: 35.8620527
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9929523,35.8620527"
+categories:
+  - "ecommerce"
+  - "fintech"
+technologies:
+  - "Cloud POS"
+job_seeker:
+  early_career_signal: true
+  signals:
+    - "Internship"
+notes: "Amman software firm (est. 2020, 10-15 staff) building cloud POS, QR digital menus and analytics for Jordan's restaurants/retail; office in Khalda on Wasfi Al-Tal St. No public internship/fresh-grad programme found. stack research 2026-10-04: no employee profiles or job postings found (6 web searches + cleto.tech homepage checked); tags left unverified, not verified. stack research 2026-10-05: 5 web searches + Clutch profile + cleto.tech homepage; no employee profiles or dev job postings found (Clutch self-report only: AWS app framework, Linux server); tags left unverified, not verified. GPS verified 2026-10-06: company's own contact footer states office at Khalda, Wasfi Tal-street; claimed Google Maps listing agrees exactly (address label \"Wasfi-Altal Street, Amman, Jordan\", category Software company, 5-star/5 reviews, owner photos, business hours) with pin at 31.9929523,35.8620527 on Wasfi At-Tall St in Khalda; Facebook page intro snippet corroborates \"Khalda\". Street/area-level pin, exact building not published. Clutch self-report says \"Amman, Shiemasani\" — no street, misspelled neighborhood, likely stale; company's own page wins."
+evidence:
+  - type: "official_website"
+    url: "https://cleto.tech"
+    label: "Official website"
+  - type: "other"
+    url: "https://cleto.tech (company contact page: \"Office Amman, Jordan, Khalda, Wasfi Tal-street\")"
+    label: "Location evidence"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/Cleto+Technologies/@31.9929523,35.8620527,17z (claimed listing: \"Wasfi-Altal Street, Amman, Jordan\"; Software company; owner photos + hours; pin sits on Wasfi At-Tall St near Trio Palace Halls, Khalda)"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://www.facebook.com/profile.php?id=61564615085770 (page intro snippet: \"Khalda\")"
+    label: "Location evidence"
+  - type: "other"
+    url: "https://clutch.co/profile/cleto-technologies"
+    label: "Research source"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9929523,35.8620527"
+    label: "Google Maps location"
