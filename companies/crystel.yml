@@ -1,45 +1,39 @@
 name: "Crystel"
-industry: "Business Process Outsourcing"
-website: "https://www.crystel.co"
-careers_url: null
+description: "Crystel is a Jordan-founded business-process-outsourcing and customer-experience company operating multilingual contact-center services from multiple Jordan locations and regional offices."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Business Process Outsourcing / Customer Experience"
+website: "https://www.crystel.co/"
+careers_url: "https://www.crystel.co/careers"
 linkedin: null
-hr_email: null
-size: "50-249"
+hr_email: "hr@crystel.co"
+size: null
 location:
   area: "Amman"
-  address: "K. Hussein St. 264, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.971686
-  longitude: 35.909786
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.971686,35.909786"
+  address: null
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "consulting"
-  - "security"
-technologies:
-  - "Firewalls"
+  - "support"
+technologies: []
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-    - "Fresh graduate"
-    - "Graduate"
-notes: "Jordan's first independent multilingual BPO (est. 2007); runs walk-in interviews for call-center agents (no experience required) and recently posted a Helpdesk Technical Support Intern role aimed at fresh graduates. stack verified 2026-10-04: Crystel Technology team hiring post (LinkedIn) lists Network & Security Officer requiring hands-on Fortinet/FortiGate; IT/support team only, no software dev roles found."
+    - "Historical fresh-graduate technical-support internship evidence"
+notes: "Verified 2026-10-07. Crystel's official locations page confirms active operations in Amman, Aqaba and Karak; its careers and contact pages direct Jordan applicants to hr@crystel.co. The previous King Hussein Street address and exact coordinates were removed because the current first-party locations page does not publish a street address. Historical fresh-graduate technical-support internship evidence is retained as an early-career signal, not as a currently open vacancy."
 evidence:
   - type: "official_website"
-    url: "https://www.crystel.co"
+    url: "https://www.crystel.co/"
     label: "Official website"
-  - type: "other"
-    url: "https://www.crystel.co/media/queen-rania-of-jordan-visited-crystel-bpo-offices-in-amman"
-    label: "Research source"
-  - type: "other"
+  - type: "official_website"
     url: "https://www.crystel.co/locations/jordan"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/374548/Crystel"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.linkedin.com/posts/odaifabed_until-thursday-activity-7449858618360954880-GNQa"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.971686,35.909786"
-    label: "Google Maps location"
+    label: "Official Jordan locations page — Amman, Aqaba and Karak"
+  - type: "careers_page"
+    url: "https://www.crystel.co/careers"
+    label: "Official careers page — Jordan applications via hr@crystel.co"
+  - type: "official_website"
+    url: "https://www.crystel.co/contact-us"
+    label: "Official contact page — Jordan HR and general contact details"
