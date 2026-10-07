@@ -1,11 +1,16 @@
 name: "Al Qistas (Qistas)"
+description: "Qistas is an Amman-founded legal-technology company building Arabic legal research and AI products for law firms, corporate legal teams, government bodies and courts. Its current platform combines a verified corpus of legislation, judgments and commentary with AI tools for research, contracts, litigation, legislative drafting and advisory workflows."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "LegalTech / E-services"
-website: "https://alqistas.com"
+website: "https://qistas.com"
 careers_url: null
-linkedin: null
-hr_email: null
-size: null
+linkedin: "https://www.linkedin.com/company/qistasai"
+hr_email: "hr@qistas.com"
+size: "51-200"
 location:
+  status: "provided_unverified"
+  address: "Zahran Gate Complex, 1st Floor, Queen Alia Airport St. / Dair Ghbar Bridge, Amman 11191, Jordan"
   area: "Amman"
   address: null
   status: "approximate"
@@ -17,10 +22,18 @@ categories:
   - "mobile"
   - "web"
 technologies:
-  - "Android"
-  - "iOS"
+  - "AI/ML"
+  - "Azure OpenAI"
+  - "FAISS"
+  - "LangChain"
+  - "LLM"
+  - "Milvus"
+  - "Pinecone"
+  - "Python"
+  - "RAG"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false  signals: []
+
   signals:
     - "Internship"
 notes: "Jordanian legal-information e-services platform (laws, regulations database) with mobile apps and an AI research portal; P.O. Box 9028, Amman 11191; +962 6 5538895; no public grad/internship info found."
@@ -34,3 +47,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/qistasai_now-hiring-data-scientist-legal-ai-activity-7390632398322958336-pObs"
+    label: "Legal AI Data Scientist role with Python, RAG, LangChain and vector databases"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/sales-development-representative-at-qistas-%D9%82%D8%B3%D8%B7%D8%A7%D8%B3-4373793527"
+    label: "Recent Amman hiring evidence"

@@ -1,8 +1,11 @@
 name: "Alpha Hub ICT Solutions"
+description: "Alpha Hub ICT Solutions is an Amman cybersecurity and networking solutions provider. Its public footprint centers on enterprise security, threat detection and response, network and communications security, and partnerships with international cybersecurity vendors."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "Cybersecurity / Networking"
 website: "https://www.alpha-hub.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/alpha-hub-ict-solutions"
 hr_email: "info@alpha-hub.com"
 size: "11-50"
 location:
@@ -44,3 +47,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.979761,35.851314"
     label: "Google Maps location"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/aseel-obaidat-3974bb16a"
+    label: "Employee profile confirming Alpha Hub ICT Solutions employment and cybersecurity focus"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/laithq189_cyb-cybersecurity-jordan-activity-6859165550203957248-vj55"
+    label: "Historical Alpha Hub cybersecurity-event evidence"

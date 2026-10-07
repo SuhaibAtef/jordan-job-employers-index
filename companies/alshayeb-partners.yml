@@ -1,10 +1,13 @@
 name: "AlShayeb Partners"
+description: "AlShayeb Partners combines audit, accounting and advisory services with Odoo ERP implementation and business-technology consulting. The firm operates from Bethlehem with an Amman presence and supports organizations with finance, ERP and digital-transformation projects."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "Open-source ERP (Odoo) / auditing & advisory"
 website: "https://www.alshayebco.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/alshayeb-partners"
 hr_email: "info@alshayebco.com"
-size: null
+size: "2-10"
 location:
   area: "Amman"
   address: null

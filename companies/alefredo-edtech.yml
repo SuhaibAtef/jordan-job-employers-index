@@ -1,10 +1,13 @@
 name: "Alefredo EdTech"
+description: "Alefredo EdTech is an Amman education-technology company focused on international curricula. Its platform provides mock exams, teacher-created learning materials and academic-book services, and the company has expanded through the acquisition of UK tutoring platform Tutor House."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "EdTech (international curriculum learning platform)"
-website: "https://alefredobooks.com"
+website: "https://alefredoedtech.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/alefredo-books"
 hr_email: "Hr@alefredoedtech.com"
-size: null
+size: "11-50"
 location:
   area: "Amman"
   address: "King Hussein Business Park (next to HTU), Amman, Jordan"

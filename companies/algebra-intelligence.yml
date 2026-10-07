@@ -1,11 +1,16 @@
 name: "Algebra Intelligence"
+description: "Algebra Intelligence is an Amman energy-technology company using AI, IoT and analytics to monitor energy assets, forecast consumption and detect operational inefficiencies. Its products target sectors such as telecom towers, commercial real estate and renewable-energy operations."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Energy AI / IoT"
 website: "http://www.algebraintelligence.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/algebra-intelligence"
 hr_email: null
 size: "11-50"
 location:
+  status: "verified"
+  address: "Makkah Towers Complex, Al-Salam 2 Gate, Office 413, Mecca St., Amman 11821, Jordan"
   area: "Amman"
   address: "Makkah Towers, Mecca St., Amman, Jordan"
   status: "provided_unverified"

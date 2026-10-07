@@ -1,11 +1,16 @@
 name: "Almond Solutions"
+description: "Almond Solutions is an Amman digital-transformation, web and digital-marketing consultancy. It combines website and marketing services with Zoho-based CRM, workplace, automation and business-operations implementations."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Digital Marketing / Web Development"
 website: "https://www.almondsolutions.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/almond-solutions"
 hr_email: null
-size: "1-10"
+size: "2-10"
 location:
+  status: "verified"
+  address: "Queen Rania Street, Amman, Jordan"
   area: "Amman"
   address: "Queen Rania Street, Amman - Jordan"
   status: "provided_unverified"
@@ -36,3 +41,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.992825,35.88941"
     label: "Google Maps location"
+  - type: "official_website"
+    url: "https://www.almondsolutions.com/about-us"
+    label: "Current official address and Zoho-focused service description"

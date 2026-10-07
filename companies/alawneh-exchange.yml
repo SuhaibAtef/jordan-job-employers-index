@@ -1,10 +1,13 @@
 name: "Alawneh Exchange"
+description: "Alawneh Exchange is a long-established Jordanian financial-services company operating currency-exchange, remittance and payment services through a large nationwide branch network. It also supports digital-payment services including AlawnehPay and cash-in/cash-out services."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Currency Exchange / FinTech"
 website: "https://alawnehexchange.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/alawneh-exchange-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%88%D9%86%D9%87-%D9%84%D9%84%D8%B5%D8%B1%D8%A7%D9%81%D8%A9/"
 hr_email: "info@alawnehex.com"
-size: "240"
+size: "1001-5000"
 location:
   area: "Amman"
   address: "15 Abdul Hamid Shoman St, 2nd Floor, Shmeisani, Amman"

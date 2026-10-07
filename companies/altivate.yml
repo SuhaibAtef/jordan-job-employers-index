@@ -1,11 +1,16 @@
 name: "Altivate"
+description: "Altivate is a regional digital-transformation and enterprise-technology consultancy specializing in SAP, cloud, analytics, business intelligence and AI. Its Amman office supports delivery across SAP ERP, AWS, Azure, Google Cloud, Power BI and related enterprise platforms."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "IT consulting / Digital transformation"
 website: "https://www.altivate.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/altivate"
 hr_email: null
-size: null
+size: "201-500"
 location:
+  status: "verified"
+  address: "Prince Muhammad St. 257, Jordan Insurance Building C, Floor 6, Amman, Jordan"
   area: "Amman"
   address: "3rd Circle, Jordan Insurance Building C, Flr 6, Amman, Jordan"
   status: "approximate"
@@ -17,9 +22,14 @@ categories:
   - "devops"
   - "erp"
 technologies:
+  - "AI/ML"
   - "AWS"
+  - "Azure"
   - "Google Cloud"
+  - "Power BI"
   - "SAP"
+  - "SAP S/4HANA"
+  - "Tableau"
 job_seeker:
   early_career_signal: false
   signals: []
