@@ -1,12 +1,17 @@
 name: "Al Bawaba"
+description: "Al Bawaba is an Amman-founded digital media network publishing news and business content for Middle Eastern audiences. Its network also includes SyndiGate, a content-licensing and syndication operation, combining journalism with digital publishing and distribution technology."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "Digital media / Content syndication"
 website: "https://www.albawaba.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/al-bawaba-news"
 hr_email: null
 size: "11-50"
 location:
-  area: "Amman"
+  status: "provided_unverified"
+  address: "Plenary Mall, Al Shareef Abd Al Hameed Sharaf St. 74, Amman 11844, Jordan"
+  area: "Shmeisani, Amman"
   address: "The Plenary, 4th Floor, Al-Sharif Abdul Hamid Sharaf St. 74, Shmeisani, Amman"
   status: "provided_unverified"
   latitude: 31.975839
@@ -44,3 +49,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.975839,35.897238"
     label: "Google Maps location"
+  - type: "linkedin_company"
+    url: "https://jo.linkedin.com/company/albawaba-business"
+    label: "Current Al Bawaba Business profile with Plenary Mall address"

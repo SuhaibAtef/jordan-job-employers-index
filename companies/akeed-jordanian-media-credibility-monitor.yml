@@ -1,11 +1,16 @@
 name: "Akeed (Jordanian Media Credibility Monitor)"
+description: "AKEED is the Jordanian Media Credibility Monitor, a Jordan Media Institute project that tracks rumors and evaluates the credibility of media coverage using published standards. It produces regular monitoring reports and functions as a media-accountability and fact-checking initiative."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "Civic Tech / Media"
 website: "https://akeed.jo"
 careers_url: null
 linkedin: null
-hr_email: null
+hr_email: "info@akeed.jo"
 size: null
 location:
+  status: "provided_unverified"
+  address: "Airport Street, Amman, Jordan"
   area: "Amman"
   address: null
   status: "approximate"
@@ -16,7 +21,8 @@ categories:
   - "web"
 technologies: []
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false  signals: []
+
   signals:
     - "Internship"
 notes: "Founded 2014; Jordan Media Institute project (backed by King Abdullah II Fund for Development); tracks media credibility and rumors in Jordanian media with daily/monthly reports; civic-tech accountability lane; site lists only Airport Street, Amman as address; no public grad/internship info found.\nstack research 2026-10-04: 6 searches + akeed.jo site check; JMI media-observatory project, no dev postings or employee tech evidence found (Akeed Tech/akeedsoft.com are unrelated firms). Tags left empty, unverified."
@@ -36,3 +42,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
     label: "Google Maps location"
+  - type: "official_website"
+    url: "https://www.akeed.jo/en/index.html"
+    label: "Current official site, Airport Street contact and 2026 monitoring reports"
+  - type: "other"
+    url: "https://petra.gov.jo/index.php/en/news/akeed-monitors-121-rumours-in-may-as-economic-living-cost-issues-drive-misinformation"
+    label: "2026 Petra report confirming AKEED remains active and affiliated with Jordan Media Institute"

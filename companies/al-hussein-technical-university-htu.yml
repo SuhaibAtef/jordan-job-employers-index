@@ -1,12 +1,17 @@
 name: "Al Hussein Technical University (HTU)"
+description: "Al Hussein Technical University is an Amman technical university established by the Crown Prince Foundation. It focuses on applied engineering, computing and technology education, and also runs employability, upskilling and industry-linked training programs for students and graduates."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Higher Education / Technical University"
 website: "https://htu.edu.jo"
 careers_url: null
-linkedin: "https://www.linkedin.com/company/al-hussein-technical-university-htu"
+linkedin: "https://www.linkedin.com/school/al-hussein-technical-university-htu/"
 hr_email: "jobs@htu.edu.jo"
-size: "51-200 employees"
+size: "201-500"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "Al Sha'ab Street / King Abdullah II Street, King Hussein Business Park, Amman 11831, Jordan"
+  area: "King Hussein Business Park, Amman"
   address: "King Hussein Business Park, Building 17, Amman"
   status: "provided_unverified"
   latitude: 31.97244

@@ -1,12 +1,17 @@
 name: "AI Makers"
+description: "AI Makers is a Jordan technology company that turns AI concepts into production software, including AI agents, workflow automation, computer-vision systems and custom enterprise platforms. Its public materials also emphasize MLOps, CI/CD, security, monitoring and integration with business systems."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "AI services / Software"
 website: "https://www.ai-makers.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/ai-makers-jo"
 hr_email: "hr@ai-makers.com"
 size: null
 location:
-  area: "Ma'an"
+  status: "provided_unverified"
+  address: "Complex 38, Khair Al Deen Al Maani St. 38, Amman, Jordan"
+  area: "Amman"
   address: "Complex No 38, Khair Al Deen Al Maani St 38, Amman, Jordan"
   status: "provided_unverified"
   latitude: 32.01095
@@ -43,3 +48,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=32.01095,35.83277"
     label: "Google Maps location"
+  - type: "official_website"
+    url: "https://www.ai-makers.com/Contact.html"
+    label: "Current official contact page and exact Amman address"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/abdallah-hyassat"
+    label: "Current Head of AI profile and ongoing hiring/product evidence"

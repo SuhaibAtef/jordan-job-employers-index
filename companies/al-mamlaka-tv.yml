@@ -1,12 +1,17 @@
 name: "Al Mamlaka TV"
+description: "AlMamlaka TV is Jordan’s public-service news broadcaster, operating a 24-hour television channel and digital news platform. Beyond broadcast journalism, its digital operation includes mobile apps, streaming, data and interactive content, and it is currently hiring technology roles including artificial-intelligence specialists."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Broadcasting / Digital media"
 website: "https://www.almamlakatv.com"
 careers_url: null
-linkedin: null
-hr_email: null
+linkedin: "https://www.linkedin.com/company/almamlakatv"
+hr_email: "careers@almamlakatv.com"
 size: "201-500"
 location:
-  area: "Amman"
+  status: "provided_unverified"
+  address: "Building 12, King Hussein Business Park, Amman, Jordan"
+  area: "King Hussein Business Park, Amman"
   address: "King Hussein Business Park, Amman"
   status: "provided_unverified"
   latitude: 31.973231
@@ -15,10 +20,16 @@ location:
 categories:
   - "mobile"
 technologies:
+  - "AI/ML"
   - "Android"
   - "iOS"
+  - "Python"
+  - "R"
+  - "SAS"
 job_seeker:
-  early_career_signal: false
+  early_career_signal: true  signals:
+    - "Historical junior / fresh-graduate roles"
+
   signals: []
 notes: "Jordanian public-service 24h news channel (est. 2018) with digital news portal, live streaming and iOS/Android apps; digital team produces interactive infographics and data journalism."
 evidence:
@@ -43,3 +54,12 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.973231,35.834399"
     label: "Google Maps location"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/mai%E2%80%99en-amr-728b0020b/ar"
+    label: "Current AlMamlaka TV employee profile"
+  - type: "job_post"
+    url: "https://jordan.mimusjobs.com/job/ai-specailist/"
+    label: "September 2026 AI Specialist vacancy, 1-2 years, careers email"
+  - type: "job_post"
+    url: "https://jobs-arabic.com/%D9%88%D8%B8%D8%A7%D8%A6%D9%81-%D8%B4%D8%A7%D8%BA%D8%B1%D8%A9-%D9%84%D8%AF%D9%89-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9-%D9%85%D8%B1%D8%AD%D8%A8-%D8%A8%D8%AD%D8%AF%D9%8A/"
+    label: "Historical junior graphic-designer role welcoming 0-2 years"

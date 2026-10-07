@@ -1,12 +1,17 @@
 name: "Ahli Microfinance Company"
+description: "Ahli Microfinance provides financial and non-financial services to micro-entrepreneurs and small-business owners in Jordan. It offers lending products and business-support services intended to expand financial inclusion and support income-generating activity."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "Microfinance / Lending"
 website: "https://amc.com.jo"
 careers_url: "https://amc.com.jo/en/career/loan-officer"
-linkedin: "https://www.linkedin.com/company/64540688"
+linkedin: "https://www.linkedin.com/company/ahli-microfinance"
 hr_email: null
 size: "201-500"
 location:
-  area: "Amman"
+  status: "provided_unverified"
+  address: "King Abdullah II St., Building 449, Al Jandaweel, Amman 11115, Jordan"
+  area: "Al Jandaweel, Amman"
   address: "King Abdullah II St., Al Jandaweel, Bldg 449, Amman 11115"
   status: "provided_unverified"
   latitude: 31.959521

@@ -1,8 +1,11 @@
 name: "AI HUB"
+description: "AI HUB is an Amman-based AI community, training and services startup. It runs practical AI and data programs, delivers AI-powered business solutions and automation, connects talent with organizations and explicitly promotes AI-powered recruitment and internship opportunities."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "AI services / Talent"
 website: null
 careers_url: null
-linkedin: "https://jo.linkedin.com/company/aihub-talentpool"
+linkedin: "https://www.linkedin.com/company/aihub-talentpool/"
 hr_email: null
 size: "2-10"
 location:
@@ -17,7 +20,10 @@ categories:
   - "consulting"
 technologies: []
 job_seeker:
-  early_career_signal: true
+  early_career_signal: true  signals:
+    - "Internships"
+    - "Student and young-professional programs"
+
   signals:
     - "Internship"
 notes: "Amman AI-focused startup (founded 2024) running hands-on AI/data programs, AI solutions & automation for businesses, and AI-powered recruitment & internships — strong fresh-grad/intern pipeline.\nstack research 2026-10-04: 3 searches; LinkedIn company page (aihub-talentpool, 2-10 employees, Amman, founded 2024) lists 'Website & Software Development' as a specialty, but no employee profiles or job postings naming specific tech. Tags left empty, unverified."

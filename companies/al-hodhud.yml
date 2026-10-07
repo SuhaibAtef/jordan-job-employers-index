@@ -1,4 +1,7 @@
 name: "Al Hodhud"
+description: "Al Hodhud is a Jordanian Arabic educational-content company best known for children’s learning products such as Salma, which uses digital activities and learning-through-play to develop Arabic reading skills. Public evidence confirms continued educational use of the product, but the company has little current hiring or employee information online."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "Kids EdTech / Digital Content"
 website: "http://www.alhodhud.com"
 careers_url: null
@@ -32,3 +35,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
     label: "Google Maps location"
+  - type: "official_website"
+    url: "https://alhodhud.com/2011/04/11/%E2%80%9Csalma-reading-learning-games%E2%80%9D/"
+    label: "Official product description for the Salma Arabic reading program"
+  - type: "other"
+    url: "https://search.mandumah.com/Record/1520380"
+    label: "2024 academic study documenting use of the Al Hodhud application in Amman"

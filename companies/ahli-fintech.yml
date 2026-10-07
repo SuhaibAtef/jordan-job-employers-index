@@ -1,10 +1,13 @@
 name: "AHLI FINTECH"
+description: "AHLI FINTECH is the fintech venture-building, investment and accelerator arm associated with Jordan Ahli Bank. It incubates and funds early-stage fintech companies, provides access to open-banking APIs and banking infrastructure, and runs ecosystem programs, training and startup activities."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "Fintech / Venture Studio & Accelerator"
 website: "https://ahlifintech.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/ahlifintech"
 hr_email: null
-size: null
+size: "2-10"
 location:
   area: "Amman"
   address: "King Hussein Business Park, Building 19, Floor 1, Amman, Jordan"
@@ -18,7 +21,11 @@ categories:
 technologies:
   - "Python"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: true  signals:
+    - "Student programs"
+    - "Hackathons"
+    - "Historical internship"
+
   signals:
     - "Internship"
 notes: "Jordan Ahli Bank's wholly-owned fintech venture studio/accelerator (founded 2017), based at King Hussein Business Park Building 19; runs hackathons across 12 Jordanian universities plus a student incubator — strong fresh-grad pipeline.\nstack research 2026-10-04: 4 searches; one employee data point (RocketReach profile: 'Python Backend Engineer Internship @ Ahli Fintech', 2022) indicates Python backend; company is a fintech venture studio/accelerator (open banking APIs, sandbox) — single data point, stack left unverified."
@@ -41,3 +48,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
     label: "Google Maps location"
+  - type: "linkedin_company"
+    url: "https://jo.linkedin.com/company/ahlifintech"
+    label: "Current company profile, size, employees and fintech venture-building mandate"
