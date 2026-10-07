@@ -28,8 +28,6 @@ job_seeker:
   early_career_signal: true
   signals:
     - "Historical entry-level sales roles"
-
-  signals: []
 notes: "Est. 2008-2010 marketing agency with creative/web execution (front-end devs, UX/UI, e-commerce solutions) and SMS gateway services; no exact office pin found - city fallback retained. No careers page or grad program found."
 evidence:
   - type: "official_website"
