@@ -1,11 +1,15 @@
 name: "Aspire IT Services"
+description: "Aspire is an Amman technology consulting and engineering company providing digital transformation, product and software engineering, QA and quality engineering, cloud and DevOps, data and analytics, managed services and intelligent automation to regional and international clients."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "IT services and consulting (software outsourcing)"
 website: "https://aspire.jo/"
-careers_url: null
+careers_url: "https://aspire.jo/careers/"
 linkedin: "https://www.linkedin.com/company/aspire-it-services/"
 hr_email: null
 size: "201-500"
 location:
+  status: "verified"
   area: "Amman"
   address: "#120 Queen Rania Street, P.O.Box 840098, Amman 11181, Jordan"
   status: "provided_unverified"
@@ -34,7 +38,11 @@ technologies:
   - "Tableau"
   - "TypeScript"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: true  signals:
+    - "Internship"
+    - "EPIC Academy"
+    - "Training and development"
+
   signals:
     - "Internship"
     - "Academy"

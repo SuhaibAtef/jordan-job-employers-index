@@ -1,11 +1,15 @@
 name: "Aumet"
+description: "Aumet is a B2B healthcare-technology company providing pharmacy ERP, procurement, marketplace and data products that connect pharmacies, healthcare providers, manufacturers and distributors. Its Amman team is part of a regional operation spanning Jordan, Saudi Arabia, Egypt and Oman."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "HealthTech (pharmaceutical procurement / pharmacy OS)"
 website: "https://aumet.com"
 careers_url: "https://www.bayt.com/en/jordan/jobs/aumet-inc-jobs-in-amman/"
 linkedin: "https://www.linkedin.com/company/aumetinc"
 hr_email: null
-size: null
+size: "51-200"
 location:
+  status: "verified"
   area: "Amman"
   address: "King Hussein Business Park, Building 23, King Abdullah II Street, Amman, Jordan"
   status: "provided_unverified"

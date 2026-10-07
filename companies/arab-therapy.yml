@@ -1,10 +1,13 @@
 name: "Arab Therapy"
+description: "Arab Therapy is an Arabic digital mental-health platform providing online psychological therapy and employer mental-wellness programs across the Arab world. Its Amman technology team builds the product’s web and mobile experiences while the company expands clinical and B2B services regionally."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "HealthTech (digital mental health)"
 website: "http://www.arabtherapy.com"
 careers_url: null
-linkedin: "https://www.linkedin.com/company/80802502"
+linkedin: "https://www.linkedin.com/company/arab-therapy-"
 hr_email: null
-size: "11-50"
+size: "51-200"
 location:
   area: "Amman"
   address: "Mecca St. 123, Amman, Jordan"
@@ -18,6 +21,7 @@ categories:
   - "mobile"
   - "web"
 technologies:
+  - "Flutter"
   - "Laravel"
   - "PHP"
 job_seeker:
@@ -61,3 +65,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.97394,35.86739"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/flutter-developer-at-arab-therapy-%D8%B9%D8%B1%D8%A8-%D8%AB%D9%8A%D8%B1%D8%A7%D8%A8%D9%8A-4342758256"
+    label: "Amman Flutter Developer role"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/arab-therapy-_were-hiring-performance-marketing-activity-7407012133768556544-XnFg"
+    label: "Recent Amman hiring evidence"

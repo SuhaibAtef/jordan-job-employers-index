@@ -1,10 +1,13 @@
 name: "Aramex"
+description: "Aramex is a global transportation and logistics company providing international and domestic express delivery, freight forwarding, warehousing and supply-chain services. Although now headquartered in Dubai, it was founded in Amman and maintains a significant Jordan technology and operations footprint."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Transportation & Logistics"
 website: "http://www.aramex.com/"
 careers_url: "https://www.aramex.com/careers"
 linkedin: "https://www.linkedin.com/company/aramex/"
 hr_email: null
-size: "5001-10000"
+size: "10000+"
 location:
   area: "Amman"
   address: "Khalil Al Salem Street, Building 18, Tla' Al-Ali, Amman, Jordan"
@@ -18,8 +21,11 @@ categories:
   - "web"
 technologies:
   - ".NET"
+  - "ASP.NET"
   - "C#"
+  - "HTML/CSS"
   - "JavaScript"
+  - "REST API"
   - "SQL Server"
 job_seeker:
   early_career_signal: true
@@ -55,3 +61,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.995436,35.864502"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/corporate-software-engineer-at-aramex-3913651671"
+    label: "Amman corporate software-engineer role with .NET, ASP.NET, SQL Server and REST APIs"

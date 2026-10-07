@@ -1,12 +1,17 @@
 name: "Archizone Academy"
+description: "Archizone Academy is an Amman technical-training provider and Autodesk academic partner specializing in architecture, civil, mechanical and electrical engineering software. It trains students and working engineers in Revit, BIM, AutoCAD, Civil 3D, Navisworks, Dynamo, 3ds Max and related design tools."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Construction Tech / BIM Training"
-website: "https://archizone-jo.com"
+website: "https://archizone-onlineacademy.com/"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/archizone-academy/"
 hr_email: null
-size: null
+size: "2-10"
 location:
-  area: "Amman"
+  status: "provided_unverified"
+  address: "Jordan University Street, opposite the main gate, 5th Floor, Office 507, Amman, Jordan"
+  area: "Jordan University Street, Amman"
   address: "Queen Rania Street, Al-Hassan & Al-Shahrour Complex 276, 5th Floor, Office 507, Amman, Jordan"
   status: "provided_unverified"
   latitude: 32.0137
@@ -18,7 +23,13 @@ categories:
   - "design"
   - "security"
 technologies:
+  - "AutoCAD"
   - "BIM"
+  - "Civil 3D"
+  - "Dynamo"
+  - "Navisworks"
+  - "Revit"
+  - "3ds Max"
 job_seeker:
   early_career_signal: true
   signals:

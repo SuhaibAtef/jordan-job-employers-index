@@ -1,11 +1,16 @@
 name: "Arabot"
+description: "Arabot builds enterprise conversational-AI and customer-engagement products, including AI agents, chatbots, workflow automation and private-LLM solutions. Its platform processes high-volume customer conversations and serves enterprises across the region, with an Amman engineering presence alongside its Saudi headquarters."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Conversational AI"
 website: "https://arabot.io"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/arabot"
 hr_email: null
 size: "11-50"
 location:
+  status: "verified"
+  address: "Al-Madina Al-Monawara Street 95, Amman, Jordan"
   area: "Amman"
   address: "Khalaf wa Shttai 93, Medina Al Munawwara St., Amman, Jordan"
   status: "verified"
@@ -16,9 +21,14 @@ categories:
   - "ai"
 technologies:
   - "AI/ML"
+  - "Azure"
+  - "Containers"
   - "Generative AI"
+  - "LLM"
+  - "MySQL"
   - "NLP"
   - "REST API"
+  - "Selenium"
 job_seeker:
   early_career_signal: false
   signals: []
@@ -54,3 +64,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9719387,35.8645938"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/infrastructure-engineer-at-arabot-1432944846"
+    label: "Historical Amman infrastructure role with Linux, Azure, containers and MySQL"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/test-automation-engineer-at-arabot-1432946347"
+    label: "Historical Amman test-automation role with Selenium and API testing"

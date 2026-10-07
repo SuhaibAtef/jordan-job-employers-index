@@ -1,11 +1,15 @@
 name: "Atomkit"
+description: "Atomkit is an Amman-based digital-transformation and software consultancy delivering custom applications, mobile products, business automation, systems integration, AI, machine learning, data science, BI and computer-vision solutions. It also operates staffing and technology-consulting services."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "AI & Software Development"
 website: "https://atomkit.com"
-careers_url: null
-linkedin: null
-hr_email: "hello@atomkit.com"
+careers_url: "https://atomkit.com/career/"
+linkedin: "https://www.linkedin.com/company/atomkit/"
+hr_email: "careers@atomkit.com"
 size: "11-50"
 location:
+  status: "verified"
   area: "Amman"
   address: "Al-Swaifyeh, Al-Yanabii Street, Building 14 (Hawa Complex), Office 15, Amman, Jordan"
   status: "provided_unverified"
@@ -53,3 +57,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.956451,35.863317"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/posts/atomkit_job-description-we-are-looking-for-a-web-activity-6278230231090368513-WAKu"
+    label: "Historical web-designer hiring post and careers email"
