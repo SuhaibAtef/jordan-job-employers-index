@@ -25,9 +25,6 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-
-  signals:
-    - "Internship"
 notes: "Jordanian blockchain firm that partnered with the Ministry of Digital Economy & Entrepreneurship to build the MODEE DLT national blockchain network, integrated with the Sanad digital-identity system; no public website, office address, or fresh-grad/internship evidence found."
 evidence:
   - type: "other"
