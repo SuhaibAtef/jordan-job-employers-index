@@ -1,34 +1,52 @@
 name: "CogniVerse Intelligence"
-industry: "AI / Deep tech"
-website: "https://cogniverseai.net"
+description: "CogniVerse Intelligence is an Amman-based AI-native deep-technology company building enterprise decision-intelligence systems, data platforms, RAG/LLM applications and multi-agent orchestration through its AXIS platform."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Artificial Intelligence / Deep Technology"
+website: "https://cogniverseai.net/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/cogniverse-intelligence"
 hr_email: null
 size: null
 location:
   area: "Amman"
   address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
-  - "web"
+  - "data"
+  - "devops"
 technologies:
+  - "AWS"
+  - "Azure"
+  - "Docker"
   - "Generative AI"
+  - "Git"
+  - "LLMOps"
   - "Python"
+  - "PyTorch"
+  - "RAG"
+  - "SQL"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman-based AI-native deep-tech company building an enterprise 'Decision Layer' platform (AXIS) with multi-agent orchestration; actively hiring entry-level AI & ML engineers (0-2 yrs) onsite in Amman."
+  early_career_signal: true
+  signals:
+    - "Current entry-level AI & ML Engineer hiring"
+    - "Current entry-level Data Engineer hiring"
+    - "0-2 years experience; internships/projects count"
+notes: "Verified 2026-10-07. Current CogniVerse LinkedIn hiring explicitly advertises entry-level AI/ML and Data Engineer roles onsite in Amman with 0-2 years of experience, including internships/projects. The public engineering requirements include Python, SQL, Git, RAG/LLM systems, PyTorch, Docker and AWS/Azure. The previous generic Amman center coordinate was removed because current evidence verifies the city, not an exact office pin."
 evidence:
   - type: "official_website"
-    url: "https://cogniverseai.net"
+    url: "https://cogniverseai.net/"
     label: "Official website"
-  - type: "other"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/cogniverse-intelligence"
+    label: "LinkedIn company page — Amman hiring and company profile"
+  - type: "job_post"
     url: "https://www.linkedin.com/posts/cogniverse-intelligence_were-hiring-ai-ml-engineers-entry-level-activity-7459872690745659392-Jwos"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Current entry-level and mid-senior AI/ML hiring in Amman"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/ai-ml-engineer-entry-level-at-cogniverse-ai-4408885400"
+    label: "Entry-level AI & ML Engineer role in Amman"
