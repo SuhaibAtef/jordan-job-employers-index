@@ -26,9 +26,6 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-
-  signals:
-    - "Internship"
 notes: "Amman mobile VAS company (Bidaya for Telecommunications & IT): bulk SMS, MVAS content platforms, SMS banking/OTP, mobile apps; ran Jordan government SMS services. No public internship/grad evidence found."
 evidence:
   - type: "official_website"
