@@ -33,8 +33,6 @@ job_seeker:
   signals:
     - "Youth training"
     - "Free digital-skills programs"
-
-  signals: []
 notes: "Amman mobile-app training & consulting company (est. 2012) running iOS/Android/PhoneGap/Unity courses; launched AppTrainers Lab with Al-Ahliyya Amman University to train students — strong fresh-grad fit. GPS verified 2026-10-06: company contact page (apptrainers.com/contact) states Amman, Queen Rania Street; its embedded map carries the same place ID as the Google Maps pin 31.9879855,35.8950749 (address label \"Queen Rania St, Amman\", category Software company, 4.9/42 reviews). jordanyp (owner-validated, updated 2016) gives building detail \"Abu Alhaj complex, 7th floor, office 710\"; current company site names no building, so building/office detail treated as dated."
 evidence:
   - type: "official_website"
