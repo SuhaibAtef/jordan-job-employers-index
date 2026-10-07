@@ -1,11 +1,15 @@
 name: "Adam Wa Mishmish"
+description: "Adam Wa Mishmish is a Jordanian Arabic edutainment brand for young children. It produces music-based educational cartoons, books and interactive learning apps intended to help children learn and enjoy Arabic through songs, stories, play and gamified activities."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "EdTech (kids Arabic learning)"
 website: "https://www.adamwamishmish.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/adamwamishmish"
 hr_email: null
-size: "1-10"
+size: "2-10"
 location:
+  status: "unresolved"
   area: "Amman"
   address: "Khaled Bin Al Waleed St, Jabal Al-Hussein, Al-Abdali, Amman, Jordan"
   status: "verified"

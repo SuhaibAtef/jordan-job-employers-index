@@ -1,11 +1,16 @@
 name: "ADADK"
+description: "ADADK develops smart-water and environmental-intelligence technology using connected sensors, AI, IoT and analytics to detect leaks, monitor water quality and improve resource efficiency. Its current footprint spans Berlin and other markets, with a listed Jordan location in Aqaba and an active engineering careers page."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "IoT / Smart Water (leak detection)"
-website: "http://www.adadk.tech/"
-careers_url: null
+website: "https://www.adadk.tech"
+careers_url: "https://www.adadk.tech/job"
 linkedin: "https://www.linkedin.com/company/adadk"
 hr_email: null
 size: "11-50"
 location:
+  status: "provided_unverified"
+  address: "3030, Aqaba, Jordan"
   area: "Aqaba"
   address: null
   status: "approximate"
@@ -19,10 +24,11 @@ categories:
   - "mobile"
 technologies:
   - "AI/ML"
-  - "AR/VR"
   - "Embedded Systems"
   - "IoT"
   - "React Native"
+  - "Robotics"
+  - "Smart Sensing"
 job_seeker:
   early_career_signal: false
   signals: []

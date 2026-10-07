@@ -1,10 +1,13 @@
 name: "24online"
+description: "24Online is an Amman software-development and managed-IT company serving businesses and institutions with mobile and web development, UX/UI, cloud services, infrastructure support and IT outsourcing. Its current public footprint shows an active engineering organization and a careers page with software and technical-support roles."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Managed IT services"
 website: "https://24online.jo"
-careers_url: null
+careers_url: "https://24online.jo/careers/"
 linkedin: "https://www.linkedin.com/company/24onlinejo"
 hr_email: null
-size: null
+size: "11-50"
 location:
   area: "Amman"
   address: "Ward Complex, Suite 205, 131 King Abdullah II St., Amman, Jordan 11910"
@@ -19,9 +22,12 @@ categories:
   - "support"
   - "web"
 technologies:
-  - "Cloud enablement & migrations"
-  - "Mobile & web app development"
-  - "Technology outsourcing / IT planning & support"
+  - "Angular"
+  - "AWS"
+  - "Flutter"
+  - "Java"
+  - "React"
+  - "UX/UI"
 job_seeker:
   early_career_signal: false
   signals: []

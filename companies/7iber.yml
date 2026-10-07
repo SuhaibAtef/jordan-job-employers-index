@@ -1,8 +1,11 @@
 name: "7iber"
+description: "7iber is an independent Amman-based digital journalism organization producing long-form reporting, analysis, multimedia stories and data-driven coverage focused on Jordan and the Arab region. It also conducts media and journalism training."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "Digital media / Journalism"
 website: "https://www.7iber.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/7iber"
 hr_email: null
 size: "11-50"
 location:

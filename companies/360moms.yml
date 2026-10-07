@@ -1,10 +1,13 @@
 name: "360Moms"
+description: "360Moms is an Arabic parenting and family-tech platform that provides expert-backed content, digital guidance and tools for mothers and families. Its current positioning emphasizes an AI-powered Arab parents advisor, and it continues to hire in Jordan for commercial and creative roles."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "Parenting Platform / Family Tech"
 website: "https://www.360moms.net"
 careers_url: null
-linkedin: null
-hr_email: null
-size: null
+linkedin: "https://www.linkedin.com/company/360moms"
+hr_email: "info@360moms.net"
+size: "11-50"
 location:
   area: "Amman"
   address: "King Hussein Business Park, King Abdullah II Street, Al Madeneh Al Tebieh 242"
@@ -24,7 +27,9 @@ technologies:
   - "Laravel"
   - "PHP"
 job_seeker:
-  early_career_signal: false
+  early_career_signal: true  signals:
+    - "Internship"
+
   signals: []
 notes: "Amman parenting platform for Arabic-speaking mothers: expert Q&A, webinars, rewards discount app and AI mom advisor. Founded 2016 by Dina Abdulmajeed. Pin upgraded from city-center fallback to KHBP HQ address (CB Insights, owner-verified JordanYP listing, PitchBook agree). No public HR email found (app support shows dina@360moms.net on a third-party mirror only), set to null. No public hiring found. | stack verified 2026-10-06: own Full Stack Web Developer posting (jobs.ps) requires PHP, Laravel, JavaScript, HTML/CSS, RESTful APIs, relational DBs"
 evidence:
@@ -49,3 +54,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.98993,35.82902"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/graphic-design-intern-at-360moms-4387592125"
+    label: "2026 Amman Graphic Design Intern posting"

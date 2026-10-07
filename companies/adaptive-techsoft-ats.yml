@@ -1,10 +1,13 @@
 name: "Adaptive TechSoft (ATS)"
+description: "Adaptive TechSoft develops enterprise information systems for healthcare and education, including hospital information systems, electronic medical records, student information systems and university e-services. Its Amman engineering branch actively hires across Java, Oracle, DevOps and database disciplines."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Software / E-services"
 website: "https://ats-ware.com"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/adaptive-techsoft"
-hr_email: null
-size: null
+hr_email: "job@ats-ware.com"
+size: "201-500"
 location:
   area: "Amman"
   address: "Queen Rania St., Abu-Alhaj Building, 6th floor, office 607, Amman 11196, Jordan"
@@ -20,11 +23,21 @@ categories:
   - "mobile"
   - "web"
 technologies:
-  - "Android"
+  - "Azure DevOps"
+  - "Docker"
   - "Java"
+  - "Kubernetes"
+  - "Linux"
+  - "Maven"
+  - "Oracle APEX"
   - "Oracle Database"
+  - "PL/SQL"
+  - "Spring Boot"
+  - "Terraform"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: true  signals:
+    - "Historical fresh-graduate hiring"
+
   signals:
     - "Internship"
 notes: "Established 1992; builds hospital information systems and university e-services (e-registration, e-payment, correspondence management); 80+ hospitals and 63+ universities as partners; hires Java/Oracle developers; no public internship page found."
@@ -53,3 +66,12 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.998773,35.880738"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/devops-engineer-at-adaptive-techsoft-4457259454"
+    label: "Current Amman DevOps role with Java 17, Spring Boot, CI/CD, Docker and cloud tooling"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/oracle-apex-developer-at-adaptive-techsoft-4206753269"
+    label: "Historical Amman Oracle APEX developer role"
+  - type: "linkedin_employee"
+    url: "https://www.linkedin.com/posts/ashwaq-abu-hejleh-b390871b3_amman-jobs-freshgraduate-activity-7053327421504200704-JcF4"
+    label: "HR employee post showing historical fresh-graduate technical hiring"

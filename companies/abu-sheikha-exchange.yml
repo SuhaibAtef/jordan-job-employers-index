@@ -1,10 +1,13 @@
 name: "Abu Sheikha Exchange"
+description: "Abu Sheikha Exchange is a Jordanian financial-services company providing currency exchange and money-transfer services through a nationwide branch network. Its current LinkedIn profile describes a workforce of roughly 200 people and a network of 25 branches."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "Currency Exchange"
 website: "https://abusheikhaex.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/abusheikha-exchange"
 hr_email: "info@abusheikha.com"
-size: null
+size: "201-500"
 location:
   area: "Amman"
   address: "Wasfi Al Tal St. 133, Amman"
@@ -36,3 +39,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.99357,35.86058"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/branch-manager-at-abu-sheikha-exchange-4139911602"
+    label: "Historical Amman Branch Manager hiring evidence"

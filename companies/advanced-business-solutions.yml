@@ -1,12 +1,17 @@
 name: "Advanced Business Solutions"
+description: "Advanced Business Solutions is an Amman software and consulting company focused on SAP Business One implementations for small and midsize organizations. It provides ERP implementation, hosting, managed services, business intelligence, reporting and SAP HANA-related services across Jordan and regional markets."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Information Technology and Services"
 website: "https://www.e2abs.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/e2abs"
 hr_email: "info@e2abs.com"
-size: "50-249"
+size: "51-200"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "Building 38, 3rd Floor, Suleiman Al Hadidi St., Abdoun Al Shamali, Amman 11814, Jordan"
+  area: "Abdoun Al Shamali, Amman"
   address: "38 Sulaiman Al Hadidi St., Abdoun Al Shamali, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.95994
@@ -16,9 +21,15 @@ categories:
   - "consulting"
   - "erp"
 technologies:
-  - "SAP"
+  - "Crystal Reports"
+  - "Power BI"
+  - "SAP Business One"
+  - "SAP HANA"
+  - "T-SQL"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: true  signals:
+    - "Entry-level roles"
+
   signals:
     - "Internship"
 notes: "First SAP Gold Partner in Jordan (est. 2010); SAP Business One implementation/support for SMEs, 200+ clients (Ayla, Al Ameed Coffee). No internship/fresh-grad program found. stack research 2026-10-06: 3 searches + company site; no employee profiles or company job postings with tech requirements found; tags unchanged."
@@ -41,3 +52,12 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.95994,35.873899"
     label: "Google Maps location"
+  - type: "company_listing"
+    url: "https://www.sap.com/partners/profile/advanced-business-solutions"
+    label: "SAP partner profile corroborating Suleiman Al Hadidi 38 address"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/bi-associate-consultant-at-advanced-business-solutions-4309460297"
+    label: "BI Associate Consultant role with SQL, HANA SQL, Crystal Reports and Power BI"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/associate-sales-consultant-at-advanced-business-solutions-4309263184"
+    label: "Entry-level Amman Associate Sales Consultant role"
