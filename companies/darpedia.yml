@@ -1,40 +1,35 @@
 name: "Darpedia"
-industry: "PropTech / Home Design"
-website: "https://darpedia.com"
+description: "Darpedia is an active Amman digital platform connecting homeowners and developers with engineers, designers, contractors and suppliers across construction, décor and interior design."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "PropTech / Construction & Design Marketplace"
+website: "https://www.darpedia.com/"
 careers_url: null
 linkedin: null
 hr_email: null
-size: "1-20"
+size: null
 location:
   area: "Amman"
   address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "devops"
   - "proptech"
-technologies:
-  - "AWS"
+  - "web"
+technologies: []
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "Jordan-based platform connecting homeowners with interior design professionals; raised US$200K angel round ~6 weeks after launch (70+ professionals onboarded). No careers/internship info found. NOTE: darpedia.com currently loads a generic 'creative community' phone-signup page, suggesting the original home-design platform is inactive or the domain was repurposed."
+  early_career_signal: false
+  signals: []
+notes: "Verified 2026-10-07. The previous note that darpedia.com appeared inactive or repurposed is no longer accurate. The current official About page identifies Darpedia as an active platform operated by Al-Faris Al-Abyad for Commercial Brokerage, registration no. 81462 / national no. 200212223, in Amman, Jordan. The unsupported AWS tag, internship signal and generic Amman coordinate were removed."
 evidence:
   - type: "official_website"
-    url: "https://darpedia.com"
-    label: "Official website"
+    url: "https://www.darpedia.com/"
+    label: "Current Darpedia platform"
+  - type: "official_website"
+    url: "https://www.darpedia.com/about"
+    label: "Official About page — active 2026 operator and Amman registration"
   - type: "other"
     url: "https://mena.entrepreneur.com/finance/jordan-based-home-design-startup-darpedia-raises-angel/301160"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.selling.com/company/darpedia/242254139"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.startupmgzn.com/english/news/a-6-week-old-startup-raises-us-200000-find-out-how/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Historical startup funding evidence"
