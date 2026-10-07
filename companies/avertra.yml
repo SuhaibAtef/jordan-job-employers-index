@@ -1,12 +1,17 @@
 name: "Avertra"
+description: "Avertra is a utility-focused enterprise software and digital-transformation company. Its products and consulting services help energy and water utilities modernize customer experience, billing, field operations and analytics, with an Amman delivery and engineering office and a graduate-focused training academy."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Enterprise software / digital transformation for utilities and energy"
 website: "https://avertra.com/"
 careers_url: "https://builtin.com/company/avertra-corp/jobs"
-linkedin: null
+linkedin: "https://www.linkedin.com/company/avertra/"
 hr_email: null
 size: "201-500"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "301 Wasfi El Tall Street, Khalda, Amman, Jordan"
+  area: "Khalda, Amman"
   address: "Abdoun, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.954991
@@ -43,3 +48,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.954991,35.885384"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://www.bayt.com/en/jordan/jobs/software-engineering-jobs-in-amman/"
+    label: "Current 2026 Avertra Senior QA hiring in Amman"

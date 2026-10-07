@@ -1,12 +1,17 @@
 name: "Bayt.com"
+description: "Bayt.com is a major MENA online recruitment platform connecting employers with job seekers through job listings, CV search, recruiting software, employer branding and career services. Its Amman office is a regional operating and technology location within a company serving tens of millions of professionals."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "HR tech / Online recruitment"
 website: "https://www.bayt.com"
 careers_url: "https://www.bayt.com/en/jordan/jobs/software-engineer-back-end-5393757/"
-linkedin: null
+linkedin: "https://www.linkedin.com/company/bayt.com/"
 hr_email: null
-size: null
+size: "201-500"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "King Hussein Business Park, 4th Floor, Amman, Jordan"
+  area: "King Hussein Business Park, Amman"
   address: "Sobhi Al-Qotob St 16, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.98882

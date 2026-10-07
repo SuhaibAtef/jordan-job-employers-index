@@ -1,10 +1,13 @@
 name: "Beecell"
+description: "Beecell is a digital-media and telecom-services company that produces and distributes mobile content, operates direct carrier billing and operator connectivity, and builds mobile applications, content platforms, CMS and service-delivery systems across multiple markets."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "Telecommunications / Digital Media & VAS"
 website: "https://beecell.com/"
 careers_url: "https://beecell.com/"
-linkedin: null
+linkedin: "https://www.linkedin.com/company/beecell"
 hr_email: null
-size: null
+size: "51-200"
 location:
   area: "Amman"
   address: "Al-Anis 2 Street 28, Amman, Jordan"
@@ -46,3 +49,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.969742,35.856984"
     label: "Google Maps location"
+  - type: "linkedin_company"
+    url: "https://jo.linkedin.com/company/beecell"
+    label: "Current size, employee roster, DCB focus and 2026 Jordan activity"

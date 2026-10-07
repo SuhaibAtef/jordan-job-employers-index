@@ -1,8 +1,11 @@
 name: "Babil Games"
+description: "Babil Games is a MENA-focused mobile-game publisher and developer, part of Stillfront Group. From its Amman branch and Dubai headquarters it localizes, publishes and operates free-to-play games for Arabic-speaking audiences and continues to hire game-art and AI talent in Jordan."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Video Games (mobile publishing)"
 website: "https://www.babilgames.com"
 careers_url: "https://careers.babilgames.com/jobs"
-linkedin: null
+linkedin: "https://www.linkedin.com/company/babil-games/"
 hr_email: null
 size: "51-200"
 location:
@@ -24,7 +27,10 @@ technologies:
   - "JavaScript"
   - "PHP"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: true  signals:
+    - "Internship"
+    - "Young-talent development"
+
   signals:
     - "Internship"
 notes: "Stillfront-owned MENA mobile publisher (Nida Harb, Strike of Nations) with an Amman branch; described as a hub for internships and developing young talent in Jordan."

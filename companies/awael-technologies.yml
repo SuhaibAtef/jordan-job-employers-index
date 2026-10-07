@@ -1,11 +1,15 @@
 name: "AWAEL Technologies"
+description: "Awael Technologies is a Jordanian software and IT-solutions company best known for its COMO ERP platform. It provides ERP, cloud, networking, infrastructure and digital-transformation solutions and currently hires junior developers and software-development interns in Amman."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Software / ERP"
 website: "https://awaeljo.com"
 careers_url: "https://awaeljo.com/en/careers"
-linkedin: null
+linkedin: "https://www.linkedin.com/company/awael-business-computers"
 hr_email: "info@awaeljo.com"
-size: "26-50"
+size: "51-200"
 location:
+  status: "provided_unverified"
   area: "Amman"
   address: "Wasfi Al Tal street, Hadad Center, Building no. 87, Amman, Jordan"
   status: "approximate"
@@ -22,7 +26,10 @@ technologies:
   - "Flutter"
   - "SQL Server"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: true  signals:
+    - "Internship"
+    - "Junior"
+
   signals:
     - "Internship"
     - "Junior"
@@ -49,3 +56,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.99357,35.86058"
     label: "Google Maps location"
+  - type: "linkedin_company"
+    url: "https://jo.linkedin.com/company/awael-business-computers"
+    label: "Current size, Amman HQ and company services"

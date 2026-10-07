@@ -1,10 +1,13 @@
 name: "Bayut.jo"
+description: "Bayut.jo is the Jordan real-estate portal within Dubizzle Group’s regional classifieds ecosystem. It connects buyers, renters and investors with property listings and agency inventory, while the group’s engineering arm develops large-scale web, mobile, data and AI systems for Bayut and other classifieds brands."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "PropTech / Real Estate Portal"
 website: "https://bayut.jo"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/dubizzle-group"
 hr_email: null
-size: null
+size: "1001-5000"
 location:
   area: "Amman"
   address: null
@@ -41,3 +44,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
     label: "Google Maps location"
+  - type: "linkedin_employee"
+    url: "https://www.linkedin.com/company/dubizzlelabs"
+    label: "Current Dubizzle Labs engineering organization supporting Bayut products"

@@ -1,11 +1,16 @@
 name: "Bayanat"
+description: "Bayanat.com is an Amman digital-transformation provider focused on banks and financial institutions. It delivers fintech and banking systems, Oracle cloud and consulting services, KYC and digital onboarding, e-payment solutions, cloud migration, support, training and outsourcing."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "FinTech / Banking Software"
 website: "https://www.al-bayanat.com/"
 careers_url: null
-linkedin: "https://www.linkedin.com/company/bayanat-amman-jordan"
+linkedin: "https://www.linkedin.com/company/bayanat-com"
 hr_email: "info@al-bayanat.com"
 size: "11-50"
 location:
+  status: "provided_unverified"
+  address: "14 Al-Sharif Hussein St., Amman 11181, Jordan"
   area: "Amman"
   address: "Sharif Hussein Bin Ali Street, Riyadh Center, Zahran Area, Amman, Jordan"
   status: "approximate"
@@ -35,3 +40,11 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.95666,35.90832"
     label: "Google Maps location"
+
+technologies:
+  - "AI CRM"
+  - "Creatio"
+  - "Oracle Cloud"
+  - "Oracle IaaS"
+  - "Oracle PaaS"
+  - "Oracle SaaS"
