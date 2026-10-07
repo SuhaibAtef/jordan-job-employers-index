@@ -29,8 +29,6 @@ job_seeker:
   signals:
     - "Recent-graduate SDE roles"
     - "Student opportunities"
-
-  signals: []
 notes: "Amazon MENA corporate/regional office in Abdali, Amman (inaugurated by the Crown Prince, 2021); 1,220+ Jordanian employees with roles in data processing, AI, tech development and customer service; hires Software Development Engineers (SDE I/II) for the Amman MENA tech team."
 evidence:
   - type: "careers"
