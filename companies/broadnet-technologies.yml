@@ -1,10 +1,13 @@
 name: "BroadNet Technologies"
+description: "BroadNet Technologies is a global business-messaging and CPaaS provider delivering bulk SMS, A2P messaging, SMS gateways and firewalls, HLR lookup, omnichannel messaging and fraud-control services. The company is headquartered in Beirut and publicly lists Jordan among the markets it serves, while the historical source dataset records an Amman office."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "Telecommunications / Messaging & CPaaS"
 website: "https://broadnet.me/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/broadnet-technology-llc"
 hr_email: null
-size: null
+size: "51-200"
 location:
   area: "Amman"
   address: "Office 302, 3rd floor, Anwar Paris 2, Paris Street, Amman, Jordan"
@@ -17,7 +20,8 @@ categories:
 technologies:
   - "SMS Gateway"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false  signals: []
+
   signals:
     - "Internship"
 notes: "Global messaging provider (bulk SMS, SMSC, A2P, SMS firewall, WhatsApp) with an Amman office on Paris Street; 80K+ enterprises served. No public internship/grad evidence found."
@@ -28,3 +32,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.957561,35.859406"
     label: "Google Maps location"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/broadnet-technology-llc_broadnet-activity-7004043496890195968-lEKx"
+    label: "Company post explicitly listing Jordan among operating markets"

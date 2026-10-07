@@ -1,11 +1,15 @@
 name: "CFI Financial Group"
+description: "CFI Financial Group is a regulated online-trading and investment-services group offering access to equities, currencies, commodities and other markets. It maintains a substantial Amman office and currently hires Jordan-based finance, crypto customer-service and other roles while developing AI-driven trading tools at group level."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Fintech / online trading (brokerage)"
 website: "https://cfi.trade/"
-careers_url: null
-linkedin: null
+careers_url: "https://www.linkedin.com/company/cfi-financial-group/jobs"
+linkedin: "https://www.linkedin.com/company/cfi-financial-group"
 hr_email: null
 size: "501-1000"
 location:
+  status: "verified"
   area: "Amman"
   address: "CFI Plaza, Mecca Street next to Arab Bank, P.O.Box 17545, Postal Code 11195, Amman, Jordan"
   status: "provided_unverified"
@@ -41,3 +45,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9759,35.85253"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/senior-financial-controller-at-cfi-financial-group-4469000226"
+    label: "Current Amman Senior Financial Controller role"

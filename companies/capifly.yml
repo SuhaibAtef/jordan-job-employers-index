@@ -1,12 +1,20 @@
 name: "Capifly"
+description: "Capifly is a Shariah-compliant venture-debt and non-dilutive financing provider for high-growth technology companies in MENA and Southeast Asia. It underwrites startup financing using financial and operating data and maintains a hybrid Amman team while its current company headquarters is listed in Riyadh."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "FinTech / Venture Debt"
 website: "http://www.growthcapifly.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/growth-capifly"
 hr_email: null
-size: null
+size: "2-10"
 location:
-  area: "Amman"
+  maps_url: null
+  longitude: null
+  latitude: null
+  status: "approximate"
+  address: null
+  area: "Amman (hybrid team)"
   address: "Amman, Jordan"
   status: "approximate"
   latitude: 31.9518
@@ -35,3 +43,15 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
     label: "Google Maps location"
+
+technologies:
+  - "Django"
+  - "Python"
+  - "SQL"
+  - "Vue.js"
+  - type: "job_post"
+    url: "https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7401220680869969920/"
+    label: "Hybrid Amman Senior Investment Analyst role"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/rashed-alkhatib-444543171"
+    label: "Current employee repost of Full Stack Engineer Python/Django + Vue.js role for Remote/Amman"

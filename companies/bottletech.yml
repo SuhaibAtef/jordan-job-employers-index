@@ -1,11 +1,16 @@
 name: "BottleTech"
+description: "BottleTech is an Amman software company building AI automation and custom business software for Jordan and Gulf clients. Its current products include AI assistants, business-process automation, web/software development and Kashif, an AI-accessible website-audit tool."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "Custom software & digital transformation"
 website: "https://bottletech.net"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/bottletechjo"
 hr_email: null
-size: "10-49"
+size: "11-50"
 location:
+  status: "unresolved"
+  address: "Amman, Jordan"
   area: "Amman"
   address: "Amman (Clutch and GoodFirms both list King Hussein Business Park — unconfirmed by company)"
   status: "unresolved"
@@ -20,20 +25,17 @@ categories:
   - "qa"
   - "web"
 technologies:
-  - "Appium"
-  - "AWS"
-  - "Azure"
+  - "AI Automation"
+  - "AI Chatbots"
   - "Blockchain"
-  - "Cypress"
-  - "Git"
-  - "MongoDB"
-  - "MySQL"
+  - "CodeIgniter"
+  - "Laravel"
   - "PHP"
-  - "PostgreSQL"
-  - "REST API"
-  - "Selenium"
+  - "QA"
+  - "Web Development"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false  signals: []
+
   signals:
     - "Internship"
 notes: "Amman custom software house (est. 2021/2022) building AI automations, web/mobile apps and business systems; 41-49 staff. No public internship/fresh-grad programme found.\nstack verified 2026-10-07: employee GitHub (Backend Developer Sep-Dec 2025, CodeIgniter/PHP, REST APIs, Git) + Senior QA Engineer remote job posting (Selenium, Cypress, Appium) + bottletech.net backend page (MySQL, MongoDB, PostgreSQL) + Clutch-declared platform mix (AWS 60%)."
@@ -77,3 +79,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://eg.linkedin.com/jobs/view/senior-php-developer-full-time-remote-at-bottletech-"
+    label: "Recent senior PHP/Laravel/CodeIgniter hiring reflected on company updates"

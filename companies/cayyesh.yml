@@ -1,11 +1,16 @@
 name: "Cayyesh"
+description: "Cayyesh is a Jordan-founded AdTech and loyalty platform designed to connect payment-card activity with merchant cashback and personalized offers. It partnered with payment providers such as MEPS, but current operating status is unclear: public startup profiles remain accessible while the company’s visible hiring and product activity is historical."
+verification_status: "unresolved"
+last_verified: "2026-10-07"
 industry: "Retail Technology / Marketing & Loyalty"
 website: "https://www.cayyesh.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/cayyesh"
 hr_email: null
 size: null
 location:
+  status: "unresolved"
+  address: "Amman, Jordan"
   area: "Amman"
   address: null
   status: "approximate"
@@ -30,3 +35,12 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
     label: "Google Maps location"
+  - type: "company_listing"
+    url: "https://flat6labs.com/ar/Company/%D9%83%D9%8A%D9%91%D8%B4/"
+    label: "Flat6Labs portfolio profile describing Cayyesh product and Jordan market"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/sales-support-specialist-at-cayyesh-3709604443"
+    label: "Historical Amman role for 0-3 years experience"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/cayyesh_jordan-cayyesh-meps-activity-6804776612236668928-LKob"
+    label: "Historical MEPS partnership and product evidence"

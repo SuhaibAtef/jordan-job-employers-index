@@ -1,11 +1,16 @@
 name: "BookingJordan.com"
+description: "BookingJordan.com, operated as Booking Jordan Tours, is an Amman-based inbound travel company arranging private day tours, transfers, overnight packages and customized cultural, hiking and religious itineraries across Jordan. Its website supports direct online booking and mobile booking tools."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "Online Travel Agency / Tourism Platform"
 website: "https://www.bookingjordan.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/bookingjordantours"
 hr_email: "info@bookingjordan.com"
 size: null
 location:
+  status: "approximate"
+  address: "Amman, Jordan"
   area: "Amman"
   address: "6th Circle, Amman"
   status: "approximate"
@@ -39,3 +44,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
     label: "Google Maps location"
+  - type: "official_website"
+    url: "https://www.bookingjordan.com/About-Us"
+    label: "Current official service description and mobile-app information"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/mohammadalmasadeh"
+    label: "Current CEO profile links Booking Jordan Tours and bookingjordan.com"

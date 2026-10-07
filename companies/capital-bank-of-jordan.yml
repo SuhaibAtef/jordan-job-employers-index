@@ -1,11 +1,15 @@
 name: "Capital Bank of Jordan"
+description: "Capital Bank of Jordan is a regional banking group providing retail, SME, corporate, investment and digital banking services across Jordan and neighboring markets. Its Amman headquarters supports a substantial technology and data organization, and the bank currently runs a Banking Academy alongside software, architecture and data hiring."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "Banking / Fintech (digital banking group)"
 website: "https://www.capitalbank.jo/"
-careers_url: "https://jo.linkedin.com/company/capitalbankjo/jobs"
+careers_url: "https://www.linkedin.com/company/capitalbankjo/jobs"
 linkedin: "https://www.linkedin.com/company/capitalbankjo"
 hr_email: null
-size: "2,400"
+size: "1001-5000"
 location:
+  status: "verified"
   area: "Amman"
   address: "Sulieman Al Nabulsi Street, Building 26, Abdali Boulevard, Amman 11194, Jordan"
   status: "approximate"
@@ -26,7 +30,9 @@ technologies:
   - "REST API"
   - "SQL"
 job_seeker:
-  early_career_signal: false
+  early_career_signal: true  signals:
+    - "Banking Academy"
+
   signals: []
 notes: "Amman-HQ bank (est. 1995) that launched Blink, Jordan's first digital-only neobank (2022, built with Codebase Technologies); regional group across Jordan, Iraq, KSA and UAE. Official registered office per the bank's own filings: Sulieman Al Nabulsi St, Building 26, Abdali Boulevard.; stack verified 2026-10-06: Capital Bank 'Mobile Software Engineer - Digital Banking' posting requires Flutter, Dart, REST APIs, Git; LinkedIn lists 'Senior Software Engineer (.Net)' Amman; Toptal portfolio shows Python 3, SQL at Capital Bank."
 evidence:

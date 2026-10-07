@@ -1,12 +1,16 @@
 name: "CertaCure"
+description: "CertaCure is an Amman healthcare-IT company developing hospital information systems, electronic medical-record workflows, PACS, clinical decision support and voice-recognition integrations for hospitals and healthcare providers."
+verification_status: "verified"
+last_verified: "2026-10-07"
 industry: "HealthTech (hospital information systems)"
 website: "https://certacure.com"
 careers_url: "https://certacure.com/careers-location/jo/"
-linkedin: null
+linkedin: "https://www.linkedin.com/company/certacure"
 hr_email: null
 size: "11-50"
 location:
-  area: "Amman"
+  status: "provided_unverified"
+  area: "Mecca Street, Amman"
   address: "Mecca Street 147 Bldg, 2nd Floor, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.975453

@@ -1,4 +1,7 @@
 name: "Cenovity"
+description: "Cenovity is an Amman-founded business-technology consultancy focused on AI, data intelligence, cybersecurity, digital transformation, managed services and technology strategy. It positions technology work around measurable growth, profitability, productivity and organizational resilience."
+verification_status: "partial"
+last_verified: "2026-10-07"
 industry: "Business Technology Consulting / Cybersecurity"
 website: "https://www.cenovity.com"
 careers_url: null
@@ -39,3 +42,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.97349,35.880821"
     label: "Google Maps location"
+  - type: "official_website"
+    url: "https://www.cenovity.com/"
+    label: "Current AI/cybersecurity business-technology services"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/mohammad-dabbas"
+    label: "Current Cenovity strategy and technology leader profile"
