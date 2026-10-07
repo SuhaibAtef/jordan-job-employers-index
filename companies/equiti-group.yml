@@ -1,38 +1,44 @@
 name: "Equiti Group"
-industry: "Fintech / Online Trading"
-website: "https://www.equiti.com"
-careers_url: null
-linkedin: null
+description: "Equiti Group is a global financial-technology and multi-asset trading group with a regulated Jordan subsidiary in Amman. Its technology organization builds trading, mobile, brokerage, reliability and payment systems for international markets."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Financial Services / FinTech / Online Trading"
+website: "https://www.equiti.com/jo-en/"
+careers_url: "https://www.equiti.com/sc-en/about-us/"
+linkedin: "https://www.linkedin.com/company/equiti/"
 hr_email: null
 size: "201-500"
 location:
-  area: "Amman"
-  address: "Al-Abdali Boulevard, Suleiman Al Nabulsi St 32, Jouba Complex, Second Floor, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.96343
-  longitude: 35.904658
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96343,35.904658"
+  area: "Al-Abdali Boulevard, Amman"
+  address: "Jouba Complex, 2nd Floor, 32 Suleiman Al Nabulsi St., Al-Abdali Boulevard, Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
+  - "devops"
   - "fintech"
+  - "mobile"
+  - "qa"
+  - "web"
 technologies:
-  - "MetaTrader"
+  - "MetaTrader 4"
+  - "MetaTrader 5"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Jordan-born global fintech/trading group; JSC-regulated Equiti Group Limited Jordan (Reg. 50248) registered at Jouba Complex, Al-Abdali Boulevard; multi-asset trading on MT4/MT5 plus payment software."
+  signals:
+    - "Current Amman mobile and SRE hiring"
+notes: "Verified 2026-10-07. Equiti's current Jordan legal pages continue to publish the registered address at Jouba Complex, second floor, 32 Suleiman Al Nabulsi St., Al-Abdali Boulevard. LinkedIn lists 201-500 employees and an Amman location. Current October 2026 hiring includes Mobile Developer, Senior Mobile Developer and Site Reliability Engineer positions in Amman. The previous approximate coordinate was removed. No current fresh-graduate/internship role was identified in this pass."
 evidence:
   - type: "official_website"
-    url: "https://www.equiti.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://www1.equiti.com/media/8725/website-terms-and-conditions-english.pdf"
-    label: "Research source"
-  - type: "other"
-    url: "https://eq-cdn.equiti-me.com/website/documents/regulations-cy.pdf"
-    label: "Research source"
-  - type: "other"
-    url: "https://api.equiti.com/media/8716/client-complaints-handling-procedure-english.pdf"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.96343,35.904658"
-    label: "Google Maps location"
+    url: "https://www.equiti.com/jo-en/legal/"
+    label: "Current Jordan legal page — regulated entity and exact Amman registered address"
+  - type: "official_website"
+    url: "https://www.equiti.com/sc-en/about-us/"
+    label: "Corporate About/Careers page — global offices including Amman and job listings"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/equiti/"
+    label: "Current LinkedIn — 201-500 employees, Amman location and live hiring"
+  - type: "job_post"
+    url: "https://www.linkedin.com/company/equiti/jobs"
+    label: "Current jobs listing — Amman mobile developer and site-reliability roles"

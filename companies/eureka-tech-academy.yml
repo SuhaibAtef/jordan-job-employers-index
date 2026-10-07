@@ -1,17 +1,20 @@
 name: "Eureka Tech Academy"
-industry: "EdTech / Kids Coding Academy"
+description: "Eureka Tech Academy is a Jordanian technology and engineering education organization for children and teenagers, teaching programming, robotics, AI, electronics, IoT, mobile development and entrepreneurship through branches in Amman and Zarqa."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Education / Technology Academy"
 website: "https://eurekatech.org"
 careers_url: null
-linkedin: null
-hr_email: null
-size: null
+linkedin: "https://www.linkedin.com/company/%D9%8F%D9%8F%D9%8Feureka-tech-academy"
+hr_email: "partners@eurekatech.org"
+size: "11-50"
 location:
-  area: "Zarqa"
-  address: "Building/Complex 23, Abdullah Ben Rawaha Street, Al Rabieh, Amman (also a branch in Zarqa)"
-  status: "provided_unverified"
-  latitude: 31.97338
-  longitude: 35.88089
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97338,35.88089"
+  area: "Al Rabieh, Amman"
+  address: "Villa 23, Abdullah Ben Rawaha Street, Al Rabieh, Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
   - "edtech"
@@ -20,28 +23,20 @@ categories:
   - "mobile"
   - "web"
 technologies:
+  - "AI"
+  - "IoT"
+  - "Python"
   - "Robotics"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Academy"
-notes: "Amman-based tech academy for ages 6-16 teaching robotics, coding, AI and web development with certified instructors; branches in Al Rabieh (Amman) and Zarqa."
+    - "Current part-time technology coach hiring"
+    - "Academy / teaching opportunities"
+notes: "Verified 2026-10-07. Current LinkedIn lists Eureka Tech Academy as an Amman-headquartered educational organization founded in 2014 with 11-50 employees; its primary location is Villa 23, Abdullah Ben Rawaha Street, Al Rabieh. It also lists branches in Khalda and Zarqa. Current 2026 hiring includes Business Development & Administration in Amman and part-time technology/programming/robotics coaches across Khalda, Rabieh and Zarqa. partners@eurekatech.org is currently used for an official vacancy; coach applications use eureka.edu.jo@gmail.com. The old coordinate was removed."
 evidence:
   - type: "official_website"
     url: "https://eurekatech.org"
-    label: "Official website"
-  - type: "other"
-    url: "https://eurekatech.org/tech-academy-in-amman/"
-    label: "Research source"
-  - type: "other"
-    url: "https://eurekatech.org/blog/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/374415/Eureka_Tech_Academy"
-    label: "Research source"
-  - type: "other"
-    url: "https://pic.hu.edu.jo/upload/55000000/%D9%8A%D9%88%D8%B1%D9%8A%D9%83%D8%A7.pdf"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.97338,35.88089"
-    label: "Google Maps location"
+    label: "Official academy website"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/%D9%8F%D9%8F%D9%8Feureka-tech-academy"
+    label: "Current LinkedIn — exact Rabieh HQ, 11-50 employees and active hiring"

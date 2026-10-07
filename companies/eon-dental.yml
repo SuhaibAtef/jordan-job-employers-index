@@ -1,17 +1,20 @@
 name: "Eon Dental"
-industry: "HealthTech (dental technology / clear aligners)"
-website: "https://www.eondental.com"
-careers_url: null
-linkedin: null
-hr_email: "[email protected]"
+description: "Eon Dental is an Amman-headquartered medical-device and dental-technology company that develops and manufactures clear-aligner systems. Software, automation, AI, data science, 3D technology and manufacturing engineering are integrated across its product lifecycle."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Medical Equipment Manufacturing / Dental Technology"
+website: "https://www.eondental.com/"
+careers_url: "https://careers.eondental.com/jobs"
+linkedin: "https://www.linkedin.com/company/eondental"
+hr_email: null
 size: "201-500"
 location:
-  area: "Amman"
-  address: "Al-Jahraa St., Building 385, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.968085
-  longitude: 35.842284
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.968085,35.842284"
+  area: "Al Jahraa Street, Amman"
+  address: "Al Jahraa Street, Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "data"
   - "devops"
@@ -37,26 +40,24 @@ technologies:
   - "SQL"
   - "Three.js"
   - "TypeScript"
+  - "Unity"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman-headquartered (est. 2011) clear-aligner manufacturer with cloud treatment-planning software and 3M+ aligners produced; $26M Series B; lists a public contact email on its trade profile.\nstack verified 2026-10-04: getprog.ai Senior Backend profile (PHP, Node.js, Go, REST/GraphQL, SQL/NoSQL, React) + Eon Dental frontend engineer resume/GitHub (React, Next.js, TypeScript, Express, MongoDB, Docker, CI/CD, Elasticsearch, Three.js 3D viewer)."
+  early_career_signal: true
+  signals:
+    - "2026 students and graduates recruitment"
+    - "Apprenticeships"
+    - "Current Amman technology roles"
+notes: "Verified 2026-10-07. Current LinkedIn identifies Eon Dental as an Amman-headquartered medical-equipment manufacturer founded in 2008 with 201-500 employees and a primary location on Al Jahraa Street. The previously stored Building 385 and coordinate were not corroborated by current first-party evidence and were removed. Eon's current careers site lists Amman Product Manager, Senior Unity Developer and Clinical Designer roles. Its dedicated HTU Expo 2026 page explicitly recruits students and graduates across software development, automation, AI, data science, 3D, quality and infrastructure and documents apprenticeships that have converted into full-time roles. The malformed placeholder HR email was removed."
 evidence:
   - type: "official_website"
-    url: "https://www.eondental.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://lmtmag.com/eondental"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.dental-tribune.com/news/eon-dental-and-gc-orthodontics-introduce-movaligners/"
-    label: "Research source"
-  - type: "other"
-    url: "https://mid-east.info/eon-bites-into-the-clear-aligner-market-with-26m-in-series-b-funding/"
-    label: "Research source"
-  - type: "other"
-    url: "https://theorg.com/org/eon-dental?focus=p-10665193"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.968085,35.842284"
-    label: "Google Maps location"
+    url: "https://www.eondental.com/"
+    label: "Official website — clear-aligner technology and manufacturing"
+  - type: "careers_page"
+    url: "https://careers.eondental.com/jobs"
+    label: "Current careers page — live Amman technology and operations roles"
+  - type: "careers_page"
+    url: "https://careers.eondental.com/pages/htu-expo-2026-eon-dental"
+    label: "2026 students and graduates recruitment — technology, AI, data, QA and apprenticeships"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/eondental"
+    label: "Current LinkedIn — 201-500 employees, Amman HQ and Al Jahraa Street location"

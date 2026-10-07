@@ -1,19 +1,21 @@
-name: "Evokey"
-industry: "Web/mobile development & SEO agency"
+name: "EvoKey"
+description: "EvoKey is a Jordanian software-development and technology consultancy founded in 2020. It provides web and mobile development, cloud and integration services, e-commerce, product development, UI/UX, SEO and app-store optimization."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "IT Services and IT Consulting / Software Development"
 website: "https://evokey.tech"
 careers_url: null
-linkedin: null
-hr_email: "info@evokey.tech"
-size: "10-49"
+linkedin: "https://www.linkedin.com/company/evokey"
+hr_email: null
+size: "11-50"
 location:
-  area: "Amman"
-  address: "Dabouq Complex, King Abdullah II St, 1st floor, Dabouq, Amman"
+  area: "Dabouq, Amman"
+  address: "Dabouq Complex, 1st Floor, King Abdullah II Street, Dabouq, Amman, Jordan"
   status: "verified"
-  latitude: 31.9977989
-  longitude: 35.8301188
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9977989,35.8301188"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "data"
   - "ecommerce"
   - "marketing"
   - "mobile"
@@ -31,41 +33,16 @@ technologies:
   - "WooCommerce"
   - "WordPress"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "Amman digital agency (est. 2020) for web/mobile apps, UI/UX, cloud and SEO; publishes Vue.js/Laravel/Node.js/Flutter/WordPress/Magento/WooCommerce/PHP/HTML5/Android/iOS stack on its homepage. No public internship/fresh-grad programme found. GPS 2026-10-05 attempt 1: INCONCLUSIVE - company contradicts itself: contact page \"Visit our office\" + embedded map pin + Facebook page + Google Maps listing say \"Amman, Dabouq - King Abdullah II St - Dabouq Complex - 1st floor\" (pin 31.9977989,35.8301188), while company homepage footer + contact footer + Lestow directory + AppBrain (Evokey Play-store app, 2022) + JordanYP say \"Wasfi Al-Tal / Amon Oasis\". Possible recent office move; pins ~3 km apart. Unverifiable by bar - need 2nd check. GPS 2026-10-05 attempt 2: VERIFIED at Dabouq - \"Visit our office\" block on evokey.tech/contact-us/ (re-fetched live) reads \"Amman, Dabouq - King Abdullah II Street - Dabouq Complex - 1st floor\"; the same address is on their Facebook page (EvokeyJo) and the Google Maps listing \"EvoKey\" (\"First Floor, King Abdullah II St, Khalda Circle, Amman, Jordan\", 4.8* 22 reviews, pin 31.9977989,35.8301188). The \"Wasfi Al-Tall / Amon Oasis\" text survives only in the contact-page footer widgets and old directories (Lestow, JordanYP, AppBrain 2022); the footer also contains unmaintained lorem-ipsum placeholder blocks, so it is stale. Certainty met via clause (b): company's own official contact page confirms Dabouq, corroborated by Maps listing + Facebook (clause a). Office moved from Amon Oasis (Wasfi Al-Tall) to Dabouq. ATTEMPT 2 ADDENDUM (live-browser report): move dated precisely - Wayback snapshot 2026-05-02 of contact page still showed Wasfi Al-Tall, Facebook/LinkedIn announced the relocation on 2026-05-20 (\"new office\", #new_office). LinkedIn company page (8.5k followers, company-maintained) lists Headquarters = Dabouq, Amman; Primary = King Abdullah II Street, Dabouq, Amman, JO. Google Maps listing \"EvoKey\" is UNCLAIMED and stale (last review ~Feb 2026) but its label already matches the new office; the contact page's embedded map pins that same listing (pin 31.9977989,35.8301188, plus code XRXJ+42). No job postings/news about the move found. Verification stands (clause b + LinkedIn corroboration)."
+  early_career_signal: false
+  signals: []
+notes: "Verified 2026-10-07. EvoKey's current official site and contact page identify its office as Dabouq Complex, first floor, King Abdullah II Street, Amman, and LinkedIn independently lists Dabouq as headquarters with the same street and an 11-50 employee size band. LinkedIn also confirms a recent office relocation. The old exact coordinate and stale/contradictory Wasfi Al-Tal footer evidence were removed. The previously asserted internship signal was removed because no current public internship or fresh-graduate program was found."
 evidence:
   - type: "official_website"
     url: "https://evokey.tech"
-    label: "Official website"
-  - type: "other"
+    label: "Official website — software services, technology stack and current Dabouq address"
+  - type: "official_website"
     url: "https://evokey.tech/contact-us/"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://www.facebook.com/EvokeyJo/"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://lestow.com/profile/evokey"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://www.AppBrain.com/app/clear-water/tech.evokey.clear"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/376202/Evokey"
-    label: "Location evidence"
-  - type: "other"
-    url: "Google Maps listing 'EvoKey' (Software company, place_id 2173292823461788, unclaimed but well-maintained: 4.8*, 22 reviews, 51 photos) - address label 'First Floor, King Abdullah II St, Khalda Circle, Amman, Jordan', pin 31.9977989,35.8301188"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://evokey.tech/contact-us/ (re-verified 2026-10-05: main \"Visit our office\" block = Dabouq; footer still shows stale Wasfi Al-Tall text alongside unmaintained placeholder widgets, proving footer is stale)"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://evokey.tech/about-us/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.goodfirms.co/company/evokey"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9977989,35.8301188"
-    label: "Google Maps location"
+    label: "Official contact page — Dabouq Complex, King Abdullah II Street"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/evokey"
+    label: "Current LinkedIn — 11-50 employees, Dabouq headquarters and recent relocation"

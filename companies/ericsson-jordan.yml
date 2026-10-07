@@ -1,17 +1,20 @@
 name: "Ericsson Jordan"
-industry: "Telecom equipment vendor"
-website: "https://www.ericsson.com"
-careers_url: null
+description: "Ericsson maintains a long-standing Amman office supporting telecommunications networks, enterprise connectivity and regional technology services. Its Jordan footprint covers mobile-network technologies including 5G, cloud-native telecom platforms, OSS/BSS and AI-enabled network operations."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Telecommunications / Network Technology"
+website: "https://www.ericsson.com/"
+careers_url: "https://www.ericsson.com/en/careers"
 linkedin: null
 hr_email: null
-size: "51-200"
+size: null
 location:
-  area: "Amman"
-  address: "Building 5, 4th Floor, King Hussein Business Park, Al Sha'b St., 11194 Amman, Jordan"
+  area: "King Hussein Business Park, Amman"
+  address: "Building 5, 4th Floor, King Hussein Business Park, Al Sha'b St., Amman 11194, Jordan"
   status: "verified"
-  latitude: 31.9708514
-  longitude: 35.8316638
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9708514,35.8316638"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
   - "data"
@@ -19,37 +22,27 @@ categories:
   - "iot"
   - "telecom"
 technologies:
+  - "4G/LTE"
   - "5G"
   - "AI/ML"
-  - "VoIP"
+  - "Cloud Native"
+  - "OSS/BSS"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-    - "Graduate"
-notes: "Ericsson's Jordan office (70+ staff); supports graduates via internships/training and the free Ericsson Educate program with Orange Jordan (5G, IoT, AI courses for students). Audit 2026-10-03: address confirmed on verified jordanyp listing ('King Hussein Business Complex, King Abdullah II St 242'); pin placed at King Hussein Business Park area per geocode — kept approx=true since the exact office building is not separately published. GPS verify 2026-10-03: verified — Ericsson's own presence page (indexed text; live page blocked by bot check) + an Ericsson employee's email signature (2013 IANA list) + company-validated jordanyp listing all agree: Building 5, 4th floor, King Hussein Business Park (Al Sha'b St. / King Abdullah II St 242, 11194 Amman), landline +962-6-5540787 matches across all three. Conflicting Google 'permanently closed' flag at same complex and unclaimed sparse 'Ericsson AB Jordan' pin on Al-Istethmar St (31.9622,35.9081) both distrusted per the certainty bar; company's own page wins. Pin set to the park's verified map pin."
+    - "Historical Jordan fresh-graduate hiring"
+    - "Global early-career programs"
+notes: "Verified 2026-10-07. Ericsson's current official Jordan presence page publishes Building 5, fourth floor, King Hussein Business Park, Al Sha'b St., Amman and matching local telephone/fax details. The old business-park coordinate was removed because the first-party address is more precise. Ericsson continues to recruit in Amman in 2026, including current account-management and regional technology roles. A historical Jordan Account Manager posting explicitly targeted a fresh graduate; current early-career programs are global rather than a confirmed open Jordan graduate vacancy, so the signal is scoped accordingly."
 evidence:
   - type: "official_website"
-    url: "https://www.ericsson.com"
-    label: "Official website"
-  - type: "other"
     url: "https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/jordan"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://lists.iana.org/hyperkitty/list/tz@iana.org/message/33U3NA2EECPJGRDLE6I2LN2KF3FLJ2H6/"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/327582/EricssonJordan"
-    label: "Location evidence"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/place/King+Hussein+Business+Park/@31.9708514,35.8316638,17z/"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://jordan-times.com/ericssons-legacy-pioneering-jordans-digital-revolution-and-sustainable-future/"
-    label: "Research source"
-  - type: "other"
-    url: "https://mail.telecomreview.com/articles/telecom-vendors/8139-ericsson-catalyzes-digitalization-new-office-new-leader-and-new-era-in-jordan-s-ict-scene/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9708514,35.8316638"
-    label: "Google Maps location"
+    label: "Official Jordan presence page — exact King Hussein Business Park office"
+  - type: "careers_page"
+    url: "https://www.ericsson.com/en/careers"
+    label: "Official Ericsson careers portal"
+  - type: "job_post"
+    url: "https://jobs.ericsson.com/careers/job/563121775712779-account-manager-umniah-amman-amman-jordan"
+    label: "Current Ericsson Amman Account Manager role"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/account-manager-at-ericsson-3906311702"
+    label: "Historical Jordan junior/fresh-graduate Account Manager hiring evidence"

@@ -1,43 +1,49 @@
-name: "EVO"
-industry: "EV Charging / Automotive Tech"
-website: "https://evoapp.org"
+name: "EVO App"
+description: "EVO is a Jordan-origin electric-vehicle charging technology company building an in-house charging-station management system, driver and operator applications, fleet-management tools and EV infrastructure software for the MENA region."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "EV Charging Technology / Mobility Software"
+website: "https://evoapp.org/"
 careers_url: null
-linkedin: null
-hr_email: "info@evoapp.org"
-size: null
+linkedin: "https://www.linkedin.com/company/evo-charging-app"
+hr_email: null
+size: "2-10"
 location:
-  area: "Amman"
+  area: "Amman / Jordan operations"
   address: "Amman, Jordan"
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
-  - "ecommerce"
   - "fintech"
   - "iot"
   - "mobile"
 technologies:
   - "AI/ML"
   - "Android"
-  - "CliQ"
+  - "CSMS"
   - "iOS"
-  - "Payment Gateway"
+  - "Payment integrations"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Jordanian EV charging startup (co-founders Ibrahim Al Bawaliz CEO, Bilal Al Bawaliz CPO, Layth Alkhateeb COO, Samer Aldawaleeb CTO); app manages EV charging with interactive map, charger availability, QR start, live session monitoring and in-app wallet payments. | stack verified 2026-10-05: evoapp.org confirms in-house engineering team (CTO Samer Aldawaleeb); iOS+Android apps with CarPlay/Android Auto, in-app AI assistant + AI load forecasting, wallet payments via CliQ/Zain Cash/Dinarak/UWallet/Orange Money. No named backend/frontend framework found publicly."
+  early_career_signal: true
+  signals:
+    - "Recent entry-level Amman sales hiring"
+notes: "Verified 2026-10-07. EVO's current LinkedIn describes a 2-10 person EV-software company founded in 2023 and highlights its Jordan charging-network operations, although the company profile currently lists Riyadh as headquarters. Jordan public reporting and founder communications describe EVO as a Jordanian-developed platform and fully in-house CSMS. A recent Amman Sales Specialist vacancy was classified entry level and requested 1-2 years of B2B/SaaS experience. No current Jordan street address was found, so the old generic Amman coordinate was removed."
 evidence:
   - type: "official_website"
-    url: "https://evoapp.org"
-    label: "Official website"
+    url: "https://evoapp.org/"
+    label: "Official EVO EV-charging platform"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/evo-charging-app"
+    label: "Current LinkedIn — 2-10 employees, EV CSMS/software and Jordan operations"
+  - type: "linkedin_employee"
+    url: "https://www.linkedin.com/posts/ibawaliz_we-are-excited-to-participate-in-ev-auto-activity-7379136093075525634-wxAI"
+    label: "Founder statement — fully in-house developed EV solutions and CSMS"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/sales-specialist-at-evo-app-4331788311"
+    label: "Recent entry-level Amman Sales Specialist role"
   - type: "other"
     url: "https://pt1.petra.gov.jo/en/news/jordanian-startup-evo-develops-local-app-for-managing-ev-charging"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.similarweb.com/app/google/com.evoapp.org/jordan/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Petra report — Jordanian-developed EV charging platform"

@@ -1,39 +1,36 @@
 name: "Eqra Tech"
-industry: "Mobile apps (Android) / Systems integration"
+description: "Eqra Tech is a Jordanian mobile-software publisher and education-technology developer behind Android applications including Tasmee and educational platforms used for Quran recitation and school-study support."
+verification_status: "verified"
+last_verified: "2026-10-07"
+industry: "Mobile Software / Education Technology"
 website: "https://eqratech.com"
 careers_url: null
 linkedin: null
 hr_email: null
 size: "1-10"
 location:
-  area: "Amman"
-  address: "101 Wasfi Eltal Street, Amman 11198"
-  status: "provided_unverified"
-  latitude: 31.98692
-  longitude: 35.87714
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.98692,35.87714"
+  area: "Wasfi Al Tal Street, Amman"
+  address: "101 Wasfi Eltal Street, Amman 11198, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "data"
+  - "edtech"
   - "mobile"
 technologies:
   - "Android"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman software company (1-10 staff) active since 2014 with Android apps and ~2.3M installs (Tasmee, Quran tutor 1M+ each); address per AndroidRank and Google Play developer listing."
+notes: "Verified 2026-10-07. A current Google Play developer disclosure for IQRA FOR TECHNOLOGY, updated July 2026, publishes 101 Wasfi Eltal Street, Amman 11198, phone numbers and @eqratech.com support contacts. This is stronger current location evidence than the old inferred map coordinate, which was removed. The public product footprint remains Android-focused; no current careers page or hiring evidence was found."
 evidence:
   - type: "official_website"
     url: "https://eqratech.com"
     label: "Official website"
   - type: "other"
-    url: "https://AndroidRank.org/developer?id=Eqra+Tech"
-    label: "Research source"
+    url: "https://play.google.com/store/apps/details?id=com.eqra.android.alnajah.academy"
+    label: "Current Google Play developer disclosure — exact Amman address and 2026 app update"
   - type: "other"
-    url: "https://www.appbrain.com/dev/Eqra+Tech/"
-    label: "Research source"
-  - type: "other"
-    url: "https://play.google.com/store/apps/details?id=com.eqra.android.tasmee&hl=en_US&gl=IE"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.98692,35.87714"
-    label: "Google Maps location"
+    url: "https://play.google.com/store/apps/details?id=com.eqra.android.tasmee"
+    label: "Eqra Tech Android product evidence"
