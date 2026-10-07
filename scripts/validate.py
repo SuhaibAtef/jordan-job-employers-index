@@ -46,6 +46,10 @@ for path in files:
                 errors.append(f"{path}: duplicate evidence reference {ref}")
             refs.add(norm)
 
+    tech = data.get("technologies", [])
+    if not isinstance(tech, list) or any(not isinstance(x, str) for x in tech):
+        errors.append(f"{path}: technologies must be a list of strings")
+
     status=(data.get("location") or {}).get("status")
     if status not in allowed:
         errors.append(f"{path}: unsupported location.status {status!r}")
