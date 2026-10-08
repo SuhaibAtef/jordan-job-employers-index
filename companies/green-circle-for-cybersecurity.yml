@@ -1,12 +1,17 @@
 name: "Green Circle for Cybersecurity"
+description: "Green Circle for Cybersecurity is an Amman-headquartered managed-security and cybersecurity consultancy with operations in Jordan, Saudi Arabia and the UK. It provides SOC services, threat intelligence, incident response, penetration testing, GRC, security consulting, training and AI-driven security services."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Cybersecurity / Information Technology"
 website: "http://grcico.com"
 careers_url: null
-linkedin: null
-hr_email: null
-size: "296 (Revelio Labs, Mar 2026)"
+linkedin: "https://www.linkedin.com/company/grcico"
+hr_email: "hr@grcico.com"
+size: "201-500"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "Mecca Street 240, Um Essumaq, Amman 11910, Jordan"
+  area: "Um Essumaq, Amman"
   address: "Mecca Street 240, office 104, Amman 11910, Jordan"
   status: "provided_unverified"
   latitude: 31.975223
@@ -22,7 +27,8 @@ technologies:
 job_seeker:
   early_career_signal: true
   signals:
-    - "Graduate"
+    - "Cybersecurity career-starter programs"
+    - "Graduate training"
 notes: "Amman MSSP and consultancy (est. 2017) offering managed SOC, VAPT, red teaming, GRC and AI security; runs the 'Cyber Zero to Hero' talent pipeline with EC-Council scholarships and on-the-job apprenticeships aimed at IT graduates and career starters."
 evidence:
   - type: "official_website"
@@ -46,3 +52,12 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.975223,35.843989"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/grcico_were-hiring-senior-sales-manager-green-activity-7485310995171749888-eKi6"
+    label: "Current Amman hiring and HR email"
+  - type: "job_post"
+    url: "https://www.linkedin.com/company/grcico/?originalSubdomain=jo"
+    label: "Current Cyber Security Engineer hiring"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=Green+Circle+Cybersecurity+Mecca+Street+240+Amman"
+    label: "Google Maps search matching the Mecca Street office"

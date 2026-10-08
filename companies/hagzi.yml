@@ -1,11 +1,16 @@
 name: "Hagzi"
+description: "Hagzi.com is a Jordan real-estate marketplace focused on verified mid- and long-term rental listings. It uses structured property data and digital landlord/tenant workflows to reduce the time required to search, evaluate and rent a home."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "PropTech / Rental Marketplace"
 website: "https://hagzi.jo"
 careers_url: null
-linkedin: null
-hr_email: null
-size: null
+linkedin: "https://www.linkedin.com/company/hagzi-com"
+hr_email: "Careers@hagzi.com"
+size: "11-50"
 location:
+  status: "approximate"
+  address: "Amman, Jordan"
   area: "Amman"
   address: null
   status: "approximate"
@@ -17,8 +22,9 @@ categories:
   - "proptech"
 technologies: []
 job_seeker:
-  early_career_signal: false
-  signals: []
+  early_career_signal: true
+  signals:
+    - "Entry-level roles"
 notes: "Amman rental marketplace founded 2018 with 5,000+ verified listings; licensed real-estate agency aiming to make property search as easy as hotel booking. stack research 2026-10-04: 5 web searches + careers page checked, no employee profiles or dev job postings found (careers lists only marketing/customer-service roles); tags left unverified, not verified."
 evidence:
   - type: "official_website"

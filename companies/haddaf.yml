@@ -1,4 +1,7 @@
 name: "Haddaf"
+description: "Haddaf was launched in Jordan as an Arabic fantasy-football game centered on the Saudi Pro League. Historical accelerator materials document the product and founders, but the website is no longer reliably reachable and current employer activity could not be independently established."
+verification_status: "unresolved"
+last_verified: "2026-10-08"
 industry: "Sports tech, Gaming"
 website: "https://www.haddaf.com"
 careers_url: null
@@ -6,7 +9,12 @@ linkedin: null
 hr_email: "omar@haddaf.com"
 size: null
 location:
-  area: "Amman"
+  maps_url: null
+  longitude: null
+  latitude: null
+  status: "unresolved"
+  address: null
+  area: "Amman (historical)"
   address: null
   status: "approximate"
   latitude: 31.9539
@@ -18,9 +26,8 @@ categories:
 technologies:
   - "Mobile game"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
+  early_career_signal: false
+  signals: []
 notes: "Arabic fantasy-football mobile game for the Saudi Pro League; users build virtual teams from real players and compete on leaderboards. No public internship postings found. haddaf.com domain currently unreachable (Cloudflare origin DNS error) but publicly listed as the company's site in the Flat6Labs cycle brief. stack research 2026-10-05: 3 searches; no employee profiles or dev postings; Android app removed from Play Store Mar 2025 (released Aug 2024), company inactive since Jul 2023 Flat6Labs cycle; tags unchanged"
 evidence:
   - type: "official_website"

@@ -1,12 +1,17 @@
 name: "Go Jordan Travel and Tourism"
+description: "Go Jordan Travel and Tourism is a Wadi Musa travel company and inbound tour operator serving Petra and destinations across Jordan. It organizes private tours, holiday packages, transfers and customized travel itineraries from its base beside Petra’s main visitor parking area."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Tour Operator / Tourism Platform"
 website: "https://www.gojordantours.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/gojordantravelandtourism"
 hr_email: "info@gojordantours.com"
-size: null
+size: "11-50"
 location:
-  area: "Wadi Musa"
+  status: "verified"
+  address: "Petra Main Parking Lot, Wadi Musa, Petra, Jordan"
+  area: "Wadi Musa / Petra"
   address: "Petra Main Parking, Wadi Musa"
   status: "provided_unverified"
   latitude: 30.32433
@@ -31,3 +36,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=30.32433,35.46793"
     label: "Google Maps location"
+  - type: "linkedin_company"
+    url: "https://jo.linkedin.com/company/gojordantravelandtourism"
+    label: "Current Wadi Musa headquarters, Petra Main Parking Lot location and employee roster"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=Go+Jordan+Travel+Tourism+Petra+Main+Parking+Lot+Wadi+Musa"
+    label: "Google Maps search for the Petra office area"

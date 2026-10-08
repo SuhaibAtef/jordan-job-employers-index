@@ -1,12 +1,17 @@
 name: "Globitel"
+description: "Globitel is an Amman-headquartered telecom and customer-experience software company. It develops roaming, value-added-services, workforce-optimization, speech analytics, contact-center and AI products used by telecom operators and enterprises across multiple countries."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Telecom software"
 website: "https://www.globitel.com"
-careers_url: null
+careers_url: "https://globitel.com/careers/"
 linkedin: "https://www.linkedin.com/company/globitel"
-hr_email: "info@globitel.com"
-size: "201-500"
+hr_email: "jobs@globitel.com"
+size: "51-200"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "King Hussein Business Park, Building 16, 4th Floor, King Abdullah II St., Amman, Jordan"
+  area: "King Hussein Business Park, Amman"
   address: "King Hussein Business Park, Building 16, 4th Floor, King Abdullah II St, Amman"
   status: "provided_unverified"
   latitude: 31.973047
@@ -17,14 +22,23 @@ categories:
   - "devops"
   - "telecom"
 technologies:
-  - "Cisco"
-  - "Linux"
-  - "MySQL"
-  - "Oracle Database"
-  - "SQL Server"
+  - "AI/ML"
+  - "Docker"
+  - "Hugging Face"
+  - "LLM"
+  - "MariaDB"
+  - "MCP"
+  - "NLP"
+  - "OpenCV"
+  - "PostgreSQL"
+  - "Python"
+  - "RAG"
 job_seeker:
-  early_career_signal: false
-  signals: []
+  early_career_signal: true
+  signals:
+    - "Junior AI roles"
+    - "Junior QA roles"
+    - "Junior technical-support roles"
 notes: "Telecom and CX software (roaming, workforce optimization, SpeechLog, AI virtual agent Volai) serving 35+ countries. GPS upgraded to verified Google Maps business pin (King Abdullah II St, KHBP Building 16, 4th Floor). info@globitel.com confirmed on their public contact page."
 evidence:
   - type: "official_website"
@@ -39,3 +53,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.973047,35.833327"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/ai-engineer-at-globitel-4453168396"
+    label: "Current junior Amman AI Engineer role"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=Globitel+Building+16+King+Hussein+Business+Park+Amman"
+    label: "Google Maps office result matching Building 16"

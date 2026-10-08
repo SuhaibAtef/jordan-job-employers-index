@@ -1,12 +1,17 @@
 name: "German Jordanian University (GJU)"
+description: "German Jordanian University is a public applied-sciences university modeled on the German Fachhochschule system. Its main campus is on the Amman–Madaba western corridor, and its programs emphasize applied engineering, computing, industry partnerships, research and a mandatory German-year internship experience for many students."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Higher Education / Applied Sciences University"
 website: "https://www.gju.edu.jo"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/school/german-jordanian-university/"
 hr_email: null
-size: null
+size: "1001-5000"
 location:
-  area: "Amman–Madaba Road"
+  status: "verified"
+  address: "Al-Mushaqqar, Naour, Amman–Madaba Western Highway, Jordan"
+  area: "Al-Mushaqqar / Naour, Amman–Madaba Highway"
   address: "Amman Madaba Street, P.O. Box 35247, Amman 11180 (main campus on the Amman–Madaba road, Hasban area)"
   status: "unresolved"
   latitude: 31.77671
@@ -20,7 +25,7 @@ technologies:
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
+    - "Mandatory industry internships for students"
 notes: "Public German-Jordanian applied-sciences university with mandatory industry internships and a German Year abroad; active CS/engineering research (e.g., Julia-based modeling) and employs faculty plus research staff."
 evidence:
   - type: "official_website"
@@ -35,3 +40,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.77671,35.80244"
     label: "Google Maps location"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=German+Jordanian+University+Amman+Madaba+Street"
+    label: "Google Maps main-campus listing on Amman–Madaba Street"

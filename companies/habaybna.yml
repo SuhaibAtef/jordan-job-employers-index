@@ -1,12 +1,17 @@
 name: "Habaybna"
+description: "Habaybna is an Amman digital-health and parenting platform focused on early-childhood development. Its mobile product helps parents follow developmental milestones, receive age-appropriate guidance and support early detection and intervention during a child’s first five years."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "EdTech / parenting mobile app"
 website: "https://habaybna.net"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/habaybnadotnet"
 hr_email: null
-size: null
+size: "2-10"
 location:
-  area: "Amman"
+  status: "provided_unverified"
+  address: "King Hussein Business Park, Amman 11190, Jordan"
+  area: "King Hussein Business Park, Amman"
   address: null
   status: "approximate"
   latitude: 31.9539
@@ -38,3 +43,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
     label: "Google Maps location"
+  - type: "other"
+    url: "https://play.google.com/store/apps/details?id=io.codepro.habaybna.google"
+    label: "Current Google Play developer listing and Jordan developer contact"

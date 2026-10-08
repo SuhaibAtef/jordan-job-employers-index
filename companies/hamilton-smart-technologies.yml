@@ -1,12 +1,17 @@
 name: "Hamilton Smart Technologies"
+description: "Hamilton Smart Technologies is an Amman digital-transformation and ERP consultancy. It implements Odoo and other enterprise platforms, builds websites and custom applications, and provides BI, cloud, systems and business-process consulting."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Open-source ERP (Odoo) / digital transformation"
 website: "https://www.hst.jo/"
 careers_url: null
-linkedin: "https://www.linkedin.com/company/89933672"
+linkedin: "https://www.linkedin.com/company/hstjo"
 hr_email: null
 size: "11-50"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "Level 1, Building 20, King Hussein Business Park, Amman, Jordan"
+  area: "King Hussein Business Park, Amman"
   address: "Building 20, 1st Floor, King Hussein Business Park, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.971993
@@ -21,12 +26,17 @@ categories:
   - "erp"
   - "mobile"
 technologies:
+  - "Java"
+  - "Microsoft"
+  - "Next.js"
   - "Odoo"
+  - "Oracle"
+  - "Python"
+  - "React"
+  - "SAP"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-    - "Junior"
+  early_career_signal: false
+  signals: []
 notes: "Amman-HQ Odoo Silver Partner (est. 2008) implementing open-source Odoo ERP plus BI, AI and cloud; also runs an omnichannel OXM platform. No public junior/intern program found."
 evidence:
   - type: "official_website"
@@ -47,3 +57,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.971993,35.833407"
     label: "Google Maps location"
+  - type: "company_listing"
+    url: "https://www.odoo.com/partners/hamilton-smart-engineering-for-information-technology-10370828"
+    label: "Odoo partner profile corroborating Building 20 office"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=Hamilton+Smart+Technologies+Building+20+Business+Park+Amman"
+    label: "Google Maps business result for Building 20 office"

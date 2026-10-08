@@ -1,12 +1,17 @@
 name: "GTS One ERP"
+description: "Global Technology Systems Jordan develops and implements GTS One ERP and related business-management software. Its Amman team works on ERP, retail solutions, SAP Business One integration, Microsoft Dynamics integration, project-management systems and IT consulting."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "PropTech / Property Management Software"
 website: "https://gtsys.com.jo"
 careers_url: null
-linkedin: "https://www.linkedin.com/company/Gtsysjo"
+linkedin: "https://www.linkedin.com/company/globaltechnologysystems-jordan"
 hr_email: "info@gtsys.com.jo"
-size: null
+size: "11-50"
 location:
-  area: "Amman"
+  status: "provided_unverified"
+  address: "Adel Qasem Building, Office 409, Jabal Al-Hussein, Amman, Jordan"
+  area: "Jabal Al-Hussein, Amman"
   address: "Office 412, Adel AlQassem, Jabal AlHussin, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.97051
@@ -17,8 +22,10 @@ categories:
   - "proptech"
   - "web"
 technologies:
-  - ".NET"
+  - "ASP.NET"
   - "C#"
+  - "Microsoft Dynamics AX"
+  - "SAP Business One"
   - "SQL"
 job_seeker:
   early_career_signal: false

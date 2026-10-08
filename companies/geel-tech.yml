@@ -1,12 +1,17 @@
 name: "Geel Tech"
+description: "Geel Tech is an Amman custom-software company building web applications, mobile apps and digital products for clients in Jordan and the wider MENA region. Its current engineering hiring centers on Flutter, PHP/Laravel, JavaScript, APIs and full-stack product delivery."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Software development agency"
 website: "https://geeltech.com"
 careers_url: "https://geeltech.com/careers-en"
-linkedin: null
+linkedin: "https://www.linkedin.com/company/geeltech/"
 hr_email: "info@geeltech.com"
-size: "10-49"
+size: "11-50"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "Wakalat St., Amman 11185, Jordan"
+  area: "Wakalat Street, Amman"
   address: "Wakalat St. 17, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.95783
@@ -16,17 +21,21 @@ categories:
   - "mobile"
   - "web"
 technologies:
-  - "Android"
+  - "Dart"
+  - "Firebase"
   - "Flutter"
-  - "iOS"
+  - "Git"
+  - "HTML/CSS"
+  - "JavaScript"
   - "Laravel"
+  - "MySQL"
   - "PHP"
-  - "React"
-  - "React Native"
+  - "REST API"
   - "Vue.js"
 job_seeker:
-  early_career_signal: false
-  signals: []
+  early_career_signal: true
+  signals:
+    - "Entry-level software roles"
 notes: "Amman-based web/mobile agency (founded 2010) serving Jordan/GCC; standard stack is Flutter mobile + Laravel backend/CMS. Careers page explicitly welcomes early-career applicants — good fresh-grad target. GPS upgraded to the office's Google business pin at Wakalat St. 17."
 evidence:
   - type: "official_website"
@@ -38,3 +47,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.95783,35.860625"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/flutter-developer-at-geel-tech-4266730231"
+    label: "Amman Flutter Developer posting"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/laravel-developer-at-geel-tech-4385040373"
+    label: "Entry-level Amman full-stack/Laravel role"
