@@ -1,11 +1,16 @@
 name: "Innovators Grid"
+description: "Innovators Grid is an Amman enterprise-software company building governance, risk, audit, compliance and business-continuity products. Its platform suite includes tools for risk management, internal audit, compliance and operational resilience."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Enterprise Software (GRC / Risk Management)"
 website: "https://innovatorsgrid.com"
 careers_url: "https://www.linkedin.com/posts/mustafa-thaer-87901a286_were-hiring-junior-qa-engineer-innovators-activity-7505494266283016192-AhqK"
-linkedin: null
+linkedin: "https://www.linkedin.com/company/innovators-grid"
 hr_email: "info@innovatorsgrid.com"
-size: null
+size: "11-50"
 location:
+  status: "approximate"
+  address: "Amman, Jordan"
   area: "Amman"
   address: "Amman, Jordan"
   status: "approximate"
@@ -25,8 +30,8 @@ technologies:
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-    - "Junior"
+    - "Junior QA"
+    - "Internships count as experience"
 notes: "Amman IT company building risk/audit/compliance software (InnovRM, InnovIA, InnovCM, InnovBCM); actively hiring Junior QA Engineer in Amman (0-1 yrs, internships count) - strong fresh-grad fit."
 evidence:
   - type: "official_website"
@@ -38,3 +43,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/innovators-grid_hiring-juniorqaengineer-qaengineer-activity-7505169066223955968-7ESI"
+    label: "Current on-site Amman Junior QA role for 0-1 years; internships count"

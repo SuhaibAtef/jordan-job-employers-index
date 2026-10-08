@@ -1,11 +1,16 @@
 name: "Ijjad"
+description: "Ijjad is a small Amman web and software-development agency building websites, e-commerce platforms, mobile applications, SaaS products and Arabic/English digital experiences for Jordanian and Gulf clients."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Software development (web / mobile)"
 website: "https://www.ijjad.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/ijjad"
 hr_email: null
-size: "1-10"
+size: "2-10"
 location:
+  status: "unresolved"
+  address: "Amman, Jordan"
   area: "Amman"
   address: "Shmeisani, Amman, Jordan"
   status: "verified"

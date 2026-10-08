@@ -1,4 +1,7 @@
 name: "Infobip"
+description: "Infobip is a global cloud-communications and customer-engagement platform providing SMS, WhatsApp, voice, email, authentication and omnichannel APIs. Its Amman office supports regional business operations, customers and partners as part of a company with a large in-house engineering organization."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "CPaaS / Cloud communications"
 website: "https://www.infobip.com/"
 careers_url: "https://www.infobip.com/jobs-at-infobip"
@@ -6,7 +9,9 @@ linkedin: "https://www.linkedin.com/company/infobip"
 hr_email: null
 size: "1001-5000"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "Princess Basma St., Building 194, 3rd Floor, Abdoun, Amman, Jordan"
+  area: "Abdoun, Amman"
   address: "Abdoun, Princess Basma St., building 194, 3rd Floor, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.9554
@@ -39,3 +44,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9554,35.88466"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/company/infobip/jobs"
+    label: "Current Infobip jobs page showing an Amman vacancy"

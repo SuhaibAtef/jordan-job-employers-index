@@ -1,12 +1,20 @@
 name: "inDrive"
+description: "inDrive is a global mobility platform operating ride-hailing and related urban-services products in Jordan. The service is available in Amman, but current evidence does not substantiate a local corporate engineering office; technology hiring is primarily organized through the company’s global careers platform."
+verification_status: "partial"
+last_verified: "2026-10-08"
 industry: "Ride-hailing / Mobility Tech"
 website: "https://indrive.com/"
 careers_url: "https://careers.indrive.com/"
 linkedin: "https://www.linkedin.com/company/indrive/"
 hr_email: null
-size: "3,000 employees"
+size: "1001-5000"
 location:
-  area: "Amman"
+  maps_url: null
+  longitude: null
+  latitude: null
+  status: "unresolved"
+  address: null
+  area: "Jordan operations / no office verified"
   address: null
   status: "approximate"
   latitude: 31.9518

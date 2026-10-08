@@ -1,4 +1,7 @@
 name: "IcoNics Group"
+description: "IcoNics Group is a Jordan outsourcing and business-process-services company providing call-center operations, customer service, telesales, quality assurance and back-office support. Its public hiring footprint is concentrated on contact-center roles in Amman."
+verification_status: "partial"
+last_verified: "2026-10-08"
 industry: "Business Process Outsourcing"
 website: "https://iconicsme.com/"
 careers_url: "https://iconicsme.com/career/"
@@ -6,7 +9,9 @@ linkedin: "https://www.linkedin.com/company/90785996"
 hr_email: "hr@iconicsme.com"
 size: "250-999"
 location:
-  area: "Amman"
+  status: "approximate"
+  address: "Tabarbour, Amman, Jordan"
+  area: "Tabarbour, Amman"
   address: "Tabarbour Street, Amman, Jordan"
   status: "approximate"
   latitude: 32.00462
@@ -16,8 +21,9 @@ categories:
   - "consulting"
 technologies: []
 job_seeker:
-  early_career_signal: false
-  signals: []
+  early_career_signal: true
+  signals:
+    - "Fresh-graduate call-center roles"
 notes: "Call-center/BPO outsourcing in Amman (Tabarbour) and Aqaba (est. ~2021); serves e-commerce, healthcare, telecom and hospitality; publishes call-center hiring posts and lists a public HR email. stack research 2026-10-04: 3 searches (employee profiles, job boards, careers) found no developer profiles or IT job postings; pure call-center BPO."
 evidence:
   - type: "official_website"
@@ -41,3 +47,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=32.00462,35.9504"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/weiconicsgroupwebpo_we-are-hiring-position-call-center-agent-activity-7111956846898216960-oseI"
+    label: "Historical Amman call-center hiring explicitly welcoming fresh graduates"

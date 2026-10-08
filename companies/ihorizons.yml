@@ -1,12 +1,20 @@
 name: "iHorizons"
+description: "iHorizons is a Doha-headquartered digital-transformation and enterprise-technology company providing software development, AI, ERP, automation, cloud, managed operations and consulting across MENA. Historical and directory evidence supports an Amman delivery presence, but the current LinkedIn location list does not expose a Jordan office."
+verification_status: "partial"
+last_verified: "2026-10-08"
 industry: "IT services / Digital transformation"
 website: "https://ihorizons.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/ihorizons"
 hr_email: null
-size: null
+size: "201-500"
 location:
-  area: "Amman"
+  maps_url: null
+  longitude: null
+  latitude: null
+  status: "unresolved"
+  address: null
+  area: "Amman presence / exact office unresolved"
   address: null
   status: "approximate"
   latitude: 31.9518

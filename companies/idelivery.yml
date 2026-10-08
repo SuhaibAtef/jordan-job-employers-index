@@ -1,4 +1,7 @@
 name: "iDelivery"
+description: "iDelivery is an Amman last-mile delivery service and technology platform providing on-demand and scheduled business deliveries. Its courier workflow includes live tracking and API integration, but its current public employee and hiring footprint is limited."
+verification_status: "partial"
+last_verified: "2026-10-08"
 industry: "Last-mile delivery technology"
 website: "http://i-delivery.net/"
 careers_url: null
@@ -6,6 +9,8 @@ linkedin: null
 hr_email: null
 size: null
 location:
+  status: "provided_unverified"
+  address: "Radi Annab St., Amman, Jordan"
   area: "Amman"
   address: "Radi Annab St., Amman, JO"
   status: "provided_unverified"
