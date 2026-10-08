@@ -1,11 +1,16 @@
 name: "Huawei Jordan"
+description: "Huawei Jordan is the local operation of Huawei, supporting telecom operators, enterprise customers and ICT projects in Jordan across carrier networks, cloud, data-center, enterprise networking and digital infrastructure. Current LinkedIn employee profiles confirm an active engineering and enterprise team in Amman."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Telecom equipment vendor"
 website: "https://www.huawei.com"
-careers_url: null
-linkedin: null
+careers_url: "https://career.huawei.com/"
+linkedin: "https://www.linkedin.com/company/huawei"
 hr_email: null
-size: null
+size: "10000+"
 location:
+  status: "verified"
+  address: "Huawei Head Office, XW74+X55, Amman, Jordan"
   area: "Amman"
   address: "Zahra Plaza Building, Office 404, Zahran Street / 7th Circle, Amman, Jordan"
   status: "provided_unverified"
@@ -18,8 +23,9 @@ categories:
 technologies:
   - "5G"
 job_seeker:
-  early_career_signal: false
-  signals: []
+  early_career_signal: true
+  signals:
+    - "Historical fresh-graduate engineering traineeships"
 notes: "Huawei's Jordan entity (registered as Huawei Technologies Investment Co. Ltd); strategic network partner to Jordanian operators. Audit 2026-10-03: existing coords verified — they match the 'Huawei Head Office' business-listing pin in Amman; approx flipped to false. | stack research 2026-10-06: 5 searches (employee snippets, wuzzuf/getprog.ai, job postings), no Jordan-specific engineering evidence for Huawei's Jordan branch office; tags left as-is"
 evidence:
   - type: "official_website"
@@ -37,3 +43,15 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.964896,35.905484"
     label: "Google Maps location"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=Huawei+Head+Office+Amman+Jordan"
+    label: "Current Google Maps corporate-office listing"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/saleh-jweihan-395548b4"
+    label: "Current Huawei employee in Amman"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/raed-saadeh-bb48a21b9"
+    label: "Current Huawei core-network engineer in Jordan"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/hamzeh-al-jezawi-0824b693"
+    label: "Employee profile preserving historical Huawei Jordan fresh-graduate traineeship evidence"

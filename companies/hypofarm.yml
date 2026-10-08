@@ -1,11 +1,16 @@
 name: "HypoFarm"
+description: "HypoFarm is an Amman indoor-agriculture company producing fresh leafy vegetables and building hydroponic growing systems. It uses controlled-environment agriculture to grow year-round produce with an emphasis on water efficiency, food safety and sustainable farming."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "AgriTech / Hydroponics"
 website: "https://hypo-farm.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/hypofarm"
 hr_email: null
-size: null
+size: "2-10"
 location:
+  status: "approximate"
+  address: "Amman, Jordan"
   area: "Amman"
   address: null
   status: "approximate"

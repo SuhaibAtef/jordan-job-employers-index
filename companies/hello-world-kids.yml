@@ -1,12 +1,17 @@
 name: "Hello World Kids"
+description: "Hello World Kids is an Amman education-technology company that teaches children programming and computational thinking. It operates the HelloCode learning platform and develops structured coding curricula, teacher resources and kid-focused programming experiences for schools and families."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "E-Learning Providers"
 website: "https://hellocode.me/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/helloworldkids"
 hr_email: "info@helloworldkids.org"
 size: "11-50"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "Makkah Al-Mukarramah Street 33, Floor 5, Amman, Jordan"
+  area: "Mecca Street, Amman"
   address: "Makkah Al-Mukarramah Street, Building No. 33, Floor 5, Amman"
   status: "verified"
   latitude: 31.9680429
@@ -60,3 +65,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
     label: "Google Maps location"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=Hello+World+Kids+Mecca+St+33+Amman"
+    label: "Current Google Maps training-center listing at Mecca St. 33"

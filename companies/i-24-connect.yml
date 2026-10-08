@@ -1,11 +1,16 @@
 name: "I 24 Connect"
+description: "I 24 Connect is an Amman business-process outsourcing company providing customer service, telesales, telemarketing, lead generation, surveys, back-office support, social-media support, chat and email support for regional clients."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Business Process Outsourcing"
-website: "https://i24connect.cloud/"
+website: "http://www.i24connect.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/i-24-connect"
 hr_email: null
-size: "50-249"
+size: "51-200"
 location:
+  status: "provided_unverified"
+  address: "19 Paris Street, First Floor, Unit 109, Amman 11185, Jordan"
   area: "Amman"
   address: "19 Paris Street, First floor, Unit # 109, Amman 11185, Jordan"
   status: "approximate"

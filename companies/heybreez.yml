@@ -1,12 +1,20 @@
 name: "HeyBreez"
+description: "HeyBreezAI is an Amman-founded enterprise voice-AI infrastructure startup. It provides the operational layer for deploying and managing production voice agents, including call orchestration, retries, callbacks, integrations and reliability workflows for enterprise-scale deployments."
+verification_status: "partial"
+last_verified: "2026-10-08"
 industry: "Voice AI infrastructure"
 website: "https://heybreez.ai"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/heybreezai/"
 hr_email: null
-size: null
+size: "11-50"
 location:
-  area: "Amman"
+  maps_url: null
+  longitude: null
+  latitude: null
+  status: "unresolved"
+  address: "Amman, Jordan"
+  area: "Amman office / street not public"
   address: null
   status: "unresolved"
   latitude: 31.9539

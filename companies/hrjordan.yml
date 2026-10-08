@@ -1,11 +1,16 @@
 name: "HRJordan"
+description: "HR Jordan is an Amman human-resources services firm providing Employer of Record, payroll outsourcing, HR advisory, recruitment, workforce compliance and market-entry support for companies hiring in Jordan and the wider Levant."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "HR Outsourcing / Payroll / EOR"
 website: "https://hrjordan.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/hr-jordan"
 hr_email: "info@hrjordan.com"
-size: "2-9"
+size: "11-50"
 location:
+  status: "approximate"
+  address: "Amman 11732, Jordan"
   area: "Amman"
   address: null
   status: "approximate"

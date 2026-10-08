@@ -1,12 +1,17 @@
 name: "Hayyan Horizons"
+description: "Hayyan Horizons is an Amman-headquartered cybersecurity systems integrator and IT-services company serving the Middle East and Africa. It designs and deploys SIEM, SASE/SSE, Zero Trust, GRC, network security, threat-intelligence and professional cybersecurity services."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Cybersecurity / IT services"
 website: "https://hayyan.com.jo"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/hayyan"
 hr_email: "career@hayyan.com.jo"
 size: "11-50"
 location:
-  area: "Amman"
+  status: "provided_unverified"
+  address: "Park Plaza, Building 24, 8th Floor, Sweifieh, Amman, Jordan"
+  area: "Sweifieh, Amman"
   address: "Sweifieh, Park Plaza, Building #24, 8th floor, Amman, Jordan"
   status: "approximate"
   latitude: 31.9539
@@ -17,13 +22,19 @@ categories:
   - "devops"
   - "security"
 technologies:
-  - "ELK"
-  - "Nagios"
-  - "Penetration Testing"
+  - "CASB"
+  - "Cloudflare"
+  - "GRC"
+  - "Netskope"
+  - "SASE"
   - "SIEM"
+  - "SSE"
+  - "Zero Trust"
+  - "Zscaler"
 job_seeker:
-  early_career_signal: false
-  signals: []
+  early_career_signal: true
+  signals:
+    - "Entry-level cybersecurity roles"
 notes: "Amman-HQ cybersecurity systems integrator (est. 2015) serving MEA/Europe; SIEM/SOC, vulnerability assessment and penetration testing; actively hiring in Amman (CVs to career@hayyan.com.jo)."
 evidence:
   - type: "official_website"
@@ -47,3 +58,12 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
     label: "Google Maps location"
+  - type: "linkedin_company"
+    url: "https://jo.linkedin.com/company/hayyan"
+    label: "Current Amman headquarters and cybersecurity specialization"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/cybersecurity-engineer-at-hayyan-horizons-4431045010"
+    label: "Recent Amman Cybersecurity Engineer role and careers email"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/network-and-security-engineer-at-hayyan-horizons-4429844587"
+    label: "Recent Amman network/security engineering role"
