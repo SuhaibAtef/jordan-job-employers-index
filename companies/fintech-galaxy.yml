@@ -1,12 +1,20 @@
 name: "Fintech Galaxy"
+description: "Fintech Galaxy is a Dubai-headquartered open-finance and open-banking infrastructure company. In Jordan it has an active market operation led locally and has received Central Bank approval to test open-banking services, while providing FINX compliance and connectivity products to Jordanian financial institutions."
+verification_status: "partial"
+last_verified: "2026-10-08"
 industry: "FinTech / Open Banking / RegTech"
 website: "https://www.fintech-galaxy.com"
-careers_url: null
-linkedin: null
+careers_url: "https://www.fintech-galaxy.com/company/careers/"
+linkedin: "https://www.linkedin.com/company/fintechgalaxy"
 hr_email: null
 size: "11-50"
 location:
-  area: "Amman"
+  maps_url: null
+  longitude: null
+  latitude: null
+  status: "unresolved"
+  address: null
+  area: "Jordan (market operations)"
   address: null
   status: "approximate"
   latitude: 31.9539
@@ -28,9 +36,8 @@ technologies:
   - "Python"
   - "Terraform"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
+  early_career_signal: false
+  signals: []
 notes: "Regional open-banking platform (FINX) with real Jordan presence: tested in CBJ JoRegBox sandbox, FINX Comply open-banking compliance sold to INVESTBANK Jordan, Jordan led by Zaid Khatib; ~$9M raised, HQ Dubai. No internship evidence found. | stack verified 2026-10-06: 4 employee profiles (2xThe Org, Toptal, getprog.ai) agree on PHP/Laravel backend APIs + PostgreSQL, AWS EKS/Kubernetes/Terraform/Docker infra."
 evidence:
   - type: "official_website"
@@ -54,3 +61,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
     label: "Google Maps location"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/zaidkhatib"
+    label: "Current Fintech Galaxy Jordan operations leader"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/fintechgalaxy_openbanking-openfinance-jordan-activity-7297526911503630336-fw82"
+    label: "Current Jordan open-banking implementation evidence"

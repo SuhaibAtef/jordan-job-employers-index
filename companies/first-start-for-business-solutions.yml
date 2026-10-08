@@ -1,11 +1,16 @@
 name: "First Start for Business Solutions"
+description: "First Start for Business Solutions provides business-process outsourcing, facilities management, payroll and HR outsourcing, staffing, collections, logistics, maintenance and related support services across Jordan and the region. Its Amman headquarters continues to recruit for operational and professional roles."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Business Process Outsourcing / Facility Management"
-website: "https://www.firststartest.com"
+website: "https://www.fsmena.com"
 careers_url: null
-linkedin: null
-hr_email: "info@firststartest.com"
+linkedin: "https://www.linkedin.com/company/first-start"
+hr_email: "recruit.jo@fsmena.com"
 size: "501-1000"
 location:
+  status: "verified"
+  address: "118 Al Madinah Al Monawarah St., Jad Center 103, Amman 11953, Jordan"
   area: "Amman"
   address: "Al Madinah Al Monawara Street 118, Jad Center, First floor 103, Amman, Jordan"
   status: "provided_unverified"
@@ -16,8 +21,9 @@ categories:
   - "consulting"
 technologies: []
 job_seeker:
-  early_career_signal: false
-  signals: []
+  early_career_signal: true
+  signals:
+    - "Historical internship progression"
 notes: "BPO/KPO plus facility-management outsourcing since 1999 (Amman, Cairo, Dubai); 950+ professionals serving 30+ international clients.\nstack research 2026-10-04: 5 searches + firststartest.com/fsmena.com site open; facilities-management + BPO (CAFM/AI claims are marketing, no dev careers page), no employee profiles or dev postings found"
 evidence:
   - type: "official_website"
@@ -32,3 +38,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.976181,35.865957"
     label: "Google Maps location"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/deema-jayyousi-a6120a161"
+    label: "Current HR employee who documents progression from intern to senior HR officer"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/company/first-start"
+    label: "Current Jordan hiring updates including Accountant and engineering roles"

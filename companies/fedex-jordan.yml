@@ -1,12 +1,17 @@
 name: "FedEx Jordan"
+description: "FedEx serves Jordan through express shipping, international parcel delivery, freight and logistics services. The Amman footprint is primarily operational and customer-service oriented; no Jordan-specific software-engineering organization was substantiated in this review."
+verification_status: "partial"
+last_verified: "2026-10-08"
 industry: "Logistics / express delivery"
 website: "https://www.fedex.com/"
 careers_url: null
-linkedin: "https://www.linkedin.com/company/fedex-meisa"
+linkedin: "https://www.linkedin.com/company/fedex"
 hr_email: null
 size: null
 location:
-  area: "Amman"
+  status: "provided_unverified"
+  address: "Abdul Rahim Al-Waked St., Building 27, Shmeisani, Amman, Jordan"
+  area: "Shmeisani, Amman"
   address: "Abdul Rahim Al-Waked St. Bldg. #27, Shmeisani, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.96903

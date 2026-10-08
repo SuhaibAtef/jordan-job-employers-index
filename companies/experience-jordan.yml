@@ -1,11 +1,16 @@
 name: "Experience Jordan"
+description: "Experience Jordan Adventures is an Amman inbound adventure-tour operator specializing in hiking, biking, trekking and experiential sightseeing across Jordan. It helped develop the Jordan Trail and Jordan Bike Trail and operates private and small-group itineraries."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Adventure Tour Operator / Tourism Platform"
 website: "https://www.experiencejordan.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/experiencejordan"
 hr_email: null
-size: null
+size: "11-50"
 location:
+  status: "verified"
+  address: "Abd Ar-Rahim Al-Hajj Muhammad St. 41, Sweifieh, Amman 11185, Jordan"
   area: "Amman"
   address: "Abd Ar-Rahim Al-Hajj Muhammad St. 41, Amman 11185"
   status: "provided_unverified"
@@ -40,3 +45,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.958854,35.864157"
     label: "Google Maps location"
+  - type: "official_website"
+    url: "https://www.experiencejordan.com/contact-us/"
+    label: "Current official address and contact page"

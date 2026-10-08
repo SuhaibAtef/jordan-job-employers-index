@@ -1,11 +1,16 @@
 name: "FATE Esports"
+description: "FATE Esports is a Jordan-based competitive esports organization managing professional players, teams, talent and gaming content across regional and international competitions. It also operates The Lab, a dedicated esports training and gaming facility in Amman."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Esports / Gaming"
 website: "https://fateesports.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/fateesports"
 hr_email: null
 size: "11-50"
 location:
+  status: "verified"
+  address: "Abdullah Bin Rawahah St. 1, Amman 11183, Jordan"
   area: "Amman"
   address: "Abdullah Ben Rawahah St 4 (The Lab), Amman"
   status: "provided_unverified"
@@ -40,3 +45,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.974258,35.885963"
     label: "Google Maps location"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=FATE+Esports+Lab+Abdullah+Ben+Rawahah+St+4+Amman"
+    label: "Current Google Maps listing for FATE Esports Lab"

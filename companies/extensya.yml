@@ -1,12 +1,17 @@
 name: "Extensya"
+description: "Extensya is a Jordan-headquartered business-process outsourcing and customer-experience company operating contact centers and back-office services across Jordan and the region. It hires at scale for customer service and support roles and also maintains internal systems and software teams."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Business Process Outsourcing"
 website: "https://www.extensya.com"
 careers_url: "https://www.extensya.com/extensya-jobs-in-jordan/"
-linkedin: null
+linkedin: "https://www.linkedin.com/company/extensya"
 hr_email: "Careers@extensya.com"
 size: "1001-5000"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "Al Madinah Al Munawarah St., Al Masaken Building 156, Amman, Jordan"
+  area: "Al Madinah Al Munawarah St., Amman"
   address: "Queen Rania St, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.99562
@@ -22,8 +27,9 @@ technologies:
   - "jQuery"
   - "React"
 job_seeker:
-  early_career_signal: false
-  signals: []
+  early_career_signal: true
+  signals:
+    - "Entry-level customer service"
 notes: "Regional BPO/contact-center provider (est. 2008) with centers in Jordan and Saudi Arabia, serving MENA, US and European clients in 7+ languages; hires frequently including entry-level customer-service roles (CVs to Careers@extensya.com). stack verified 2026-10-04: Asem Mosleh, Systems Development Team Leader at Extensya (Wuzzuf profile, 3y8m) lists React, JavaScript, HTML, CSS, jQuery; prior senior software dev roles; IT/system-support team also confirmed."
 evidence:
   - type: "official_website"
@@ -41,3 +47,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.99562,35.88582"
     label: "Google Maps location"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=Extensya+Masaken+Capital+Al+Madinah+Al+Munawarah+Amman"
+    label: "Current Google Maps business listing at Masaken Capital / Al Madinah Al Munawarah St."
+  - type: "job_post"
+    url: "https://jo.linkedin.com/posts/extensya_extensya-customerservice-vacancies-activity-7067831771471503361-0ZuE"
+    label: "Historical direct-interview customer-service hiring and exact office address"

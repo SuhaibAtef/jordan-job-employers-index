@@ -1,12 +1,17 @@
 name: "EY"
+description: "EY Jordan is the Amman office of the global EY professional-services network, providing assurance, tax, strategy, transactions and consulting services. Its local consulting work includes technology, cyber, Oracle and people consulting, and EY continues to recruit graduates in Amman."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Professional services / Technology consulting"
 website: "http://www.ey.com/"
 careers_url: "https://www.gulftalent.com/mobile/jordan/jobs/ey-consulting-graduate-program-325984"
-linkedin: null
+linkedin: "https://www.linkedin.com/company/ernstandyoung"
 hr_email: null
-size: null
+size: "10000+"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "Building 300, King Abdullah II Street, Amman 11118, Jordan"
+  area: "Wadi Al-Seer, Amman"
   address: "XR7V+HCW, Wadi Al-Seer, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.960815
@@ -26,7 +31,7 @@ technologies:
 job_seeker:
   early_career_signal: true
   signals:
-    - "Graduate"
+    - "Graduate programs"
 notes: "Big Four firm with a growing Amman Technology Consulting practice (cyber, Oracle, insurance tech); runs an EY Consulting Graduate Program and a FAAS Graduate Program in Amman; active business listing 'Ernst & Young' (phone +962 6 580 0777) confirms this pin; office sits in Wadi Al-Seer, not Shmeisani."
 evidence:
   - type: "official_website"
@@ -50,3 +55,12 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.960815,35.844533"
     label: "Google Maps location"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=EY+Ernst+Young+Amman+Jordan"
+    label: "Current Google Maps EY Amman listing and phone"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/ey-amman-consulting-graduate-program-at-ey-4427162997"
+    label: "Current EY Amman Consulting Graduate Program"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/ey-amman-assurance-audit-graduate-opportunities-at-ey-4450955138"
+    label: "Current EY Amman Audit Graduate Opportunities"
