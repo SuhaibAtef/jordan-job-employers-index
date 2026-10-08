@@ -1,12 +1,17 @@
 name: "InvoiceQ"
+description: "InvoiceQ is an Amman e-invoicing and tax-compliance software company. Its platform connects businesses and ERP/POS systems to national e-invoicing frameworks across Jordan, Saudi Arabia and the Gulf, with compliance tooling, APIs and integrations for finance teams."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Fintech / SaaS E-invoicing"
-website: "https://jo.invoiceq.com"
+website: "https://www.invoiceq.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/invoiceqsystem"
 hr_email: null
-size: "~26 employees"
+size: "51-200"
 location:
-  area: "Amman"
+  status: "provided_unverified"
+  address: "King Hussein Business Park, Building 19, Amman 11831, Jordan"
+  area: "King Hussein Business Park, Amman"
   address: "Building 19, King Hussein Business Park, Amman 11831, Jordan"
   status: "provided_unverified"
   latitude: 31.97183
@@ -25,9 +30,8 @@ technologies:
   - "VPS Hosting"
   - "Xero"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
+  early_career_signal: false
+  signals: []
 notes: "Founded 2020 in Amman; SaaS e-invoicing platform recognized by Jordan's ISTD and Saudi ZATCA; raised $1.2M pre-Series A (Oasis500, Orange VC, Flat6Labs); Amman office at KHBP building 19; no public grad/internship info found."
 evidence:
   - type: "official_website"

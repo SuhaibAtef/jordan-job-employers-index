@@ -1,4 +1,7 @@
 name: "IoT Jordan"
+description: "IoT Jordan is a Jordanian smart-buildings and technology-solutions company offering IoT, automation, networking, security and digital-transformation systems for hotels, commercial properties and residential projects. Its current public footprint is limited and the company website has been unreliable, so employer activity remains only partially verified."
+verification_status: "partial"
+last_verified: "2026-10-08"
 industry: "Construction Tech / Smart Buildings"
 website: "https://iotjordan.com"
 careers_url: null
@@ -6,6 +9,8 @@ linkedin: null
 hr_email: null
 size: null
 location:
+  status: "approximate"
+  address: "Amman, Jordan"
   area: "Amman"
   address: null
   status: "approximate"
@@ -30,3 +35,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
     label: "Google Maps location"
+  - type: "company_listing"
+    url: "https://www.iotjordan.com/data/IoT%20Jordan%20Comapny%20Profile%20V1.0.2_compressed.pdf"
+    label: "Company profile describing IoT and smart-building services"

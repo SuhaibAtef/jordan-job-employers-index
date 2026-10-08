@@ -1,12 +1,17 @@
 name: "INSIGHT Business Solutions"
+description: "INSIGHT Business Solutions is an Amman enterprise-technology consultancy specializing in Microsoft Dynamics 365, ERP, HR and business applications. It implements Dynamics 365 Finance and Operations, Business Central and HR solutions, provides training and support, and develops its own INSAN human-resources platform."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Microsoft Dynamics 365 consulting"
 website: "http://www.insight-jo.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/insightbusinesssolutions"
 hr_email: null
 size: "51-200"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "53 Abdulla Ghosheh Street, Suite 510, Amman 11831, Jordan"
+  area: "Abdulla Ghosheh Street, Amman"
   address: "53 Abdulla Ghosheh Street, Suite #510, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.967469
@@ -23,9 +28,8 @@ technologies:
   - "Power BI"
   - "Power Platform"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
+  early_career_signal: false
+  signals: []
 notes: "Dynamics 365 implementation consultancy; no public fresh-grad/internship hiring evidence found. GPS upgraded from city-center fallback to verified Google Maps business pin (Abdallah Ghosheh St 53; confirmed on their contact page and jordanyp listing)."
 evidence:
   - type: "official_website"
@@ -40,3 +44,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.967469,35.854932"
     label: "Google Maps location"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=INSIGHT+Business+Solutions+53+Abdulla+Ghosheh+Street+Amman"
+    label: "Current Google Maps business listing at Abdallah Ghosheh St. 53"

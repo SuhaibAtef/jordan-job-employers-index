@@ -1,12 +1,17 @@
 name: "IQRA'A Audiobooks"
+description: "IQRA’A is an Amman education and media-production company that evolved from an audiobook startup into a broader Arabic content-production studio. It produces animation, illustration, voice-over, interactive learning content, ebooks and digital educational media."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "EdTech / Audiobooks"
-website: "http://www.iqraaaudiobooks.com"
+website: "http://www.iqraa.io"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/iqra-a-audiobooks"
 hr_email: null
-size: "11+"
+size: "11-50"
 location:
-  area: "Amman"
+  status: "provided_unverified"
+  address: "Marj Al-Hamam, Amman 01111, Jordan"
+  area: "Marj Al-Hamam, Amman"
   address: null
   status: "approximate"
   latitude: 31.9539

@@ -1,11 +1,16 @@
 name: "iPlant"
+description: "iPlant is an Amman agritech company developing controlled-environment agriculture and hydroponic systems. Its products combine vertical farming, water-efficient growing, automation and solar-powered infrastructure for farms and food-production projects."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "AgriTech / Vertical Farming (CEA)"
-website: null
+website: "https://www.iplantjo.com/"
 careers_url: null
-linkedin: null
-hr_email: null
-size: null
+linkedin: "https://www.linkedin.com/company/iplant"
+hr_email: "info@iplantjo.com"
+size: "2-10"
 location:
+  status: "approximate"
+  address: "Amman, Jordan"
   area: "Amman"
   address: null
   status: "approximate"

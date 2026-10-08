@@ -1,12 +1,17 @@
 name: "Inspire for Solutions Development"
+description: "Inspire for Solutions Development is an Amman IT consulting and software-services company focused on quality engineering, integration, DevOps, business intelligence and database solutions. Its current hiring spans QA, BI/database and software-integration roles."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "IT Services / QA / DevOps Consulting"
 website: "https://inspirejo.com"
 careers_url: "https://inspirejo.com/vacancies/qa-engineer-vacancy-amman"
-linkedin: null
+linkedin: "https://www.linkedin.com/company/inspire-for-solutions-development"
 hr_email: "career@inspirejo.com"
 size: null
 location:
-  area: "Amman"
+  status: "provided_unverified"
+  address: "Queen Rania St. 148, Abu Al-Haj Commercial Complex, Office 408, Amman, Jordan"
+  area: "Queen Rania Street, Amman"
   address: "Amman, Jordan"
   status: "approximate"
   latitude: 31.95672
@@ -17,11 +22,20 @@ categories:
   - "devops"
   - "qa"
 technologies:
+  - ".NET"
+  - "C++"
+  - "ETL"
+  - "IBM Cognos"
+  - "Java"
   - "Postman"
+  - "Power BI"
   - "SoapUI"
+  - "SQL Server"
+  - "T-SQL"
 job_seeker:
-  early_career_signal: false
-  signals: []
+  early_career_signal: true
+  signals:
+    - "Historical fresh-graduate integration role"
 notes: "IT consultancy with QA (functional/non-functional, test automation, API testing) and DevOps (release automation, environment management) practices; actively hiring mid-level QA engineers in Amman (2-6 yrs) via its vacancies page."
 evidence:
   - type: "official_website"
@@ -39,3 +53,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
     label: "Google Maps location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/junior-integration-engineer-at-inspire-for-solutions-development-"
+    label: "Historical 0-1 year Junior Integration Engineer role"

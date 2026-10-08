@@ -1,12 +1,17 @@
 name: "int@j (Information & Communications Technology Association - Jordan)"
+description: "int@j is Jordan’s information and communications technology industry association. It represents technology companies, advocates on policy and market issues, supports exports and investment, and runs workforce-development programs that connect students and graduates with employers."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Industry Association / Civic Tech"
 website: "https://www.intaj.net"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/int-j/"
 hr_email: null
-size: null
+size: "2-10"
 location:
-  area: "Amman"
+  status: "provided_unverified"
+  address: "Ground Floor, Abdullah Bin Rawaha St., Al Rabieh, Amman, Jordan"
+  area: "Al Rabieh, Amman"
   address: "Ground Floor, #4 Abraj Al Rabieh, Abdullah Bin Rawaha St, Al Rabieh, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.97385
@@ -19,7 +24,9 @@ technologies: []
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
+    - "TechForward student-industry projects"
+    - "Career accelerator programs"
+    - "Internship ecosystem"
 notes: "Founded 2000; Jordan's ICT industry association and collective voice of 2,200+ tech companies; runs human-capital programs bridging academia and industry with structured internships - directly relevant to fresh IT grads. Moved to Abraj Al Rabieh, Al Rabieh in June 2025. stack research 2026-10-05: 3 searches; industry association with no engineering staff (business-development team, web dev outsourced per Clutch review); no employee profiles or dev job postings found."
 evidence:
   - type: "official_website"

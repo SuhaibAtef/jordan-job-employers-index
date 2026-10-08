@@ -1,12 +1,17 @@
 name: "IrisGuard"
+description: "IrisGuard develops iris-biometric identity and payment technology used for digital identity, financial inclusion, humanitarian aid and secure transactions. Its Jordan office supports deployments including government digital identity and refugee-assistance programs."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Biometrics / Identity technology"
 website: "https://www.irisguard.com"
-careers_url: "https://www.irisguard.com/careers"
-linkedin: null
+careers_url: "https://www.irisguard.com/about-us/careers/"
+linkedin: "https://www.linkedin.com/company/irisguard"
 hr_email: null
-size: null
+size: "11-50"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "342 Wasfi Al Tal St., Suite 401, Khalda, Amman 11183, Jordan"
+  area: "Khalda, Amman"
   address: "Wasfi Al Tal St., Khalda, Amman"
   status: "provided_unverified"
   latitude: 31.99683
@@ -42,3 +47,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.99683,35.83797"
     label: "Google Maps location"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=IrisGuard+342+Wasfi+Al+Tal+Amman"
+    label: "Current Google Maps IrisGuard office with matching address and phone"

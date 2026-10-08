@@ -1,12 +1,17 @@
 name: "IOTISTIC"
+description: "IOTISTIC is an IoT and fleet-technology company within Acacus Group. It designs connected devices and software for vehicle tracking, driver behavior, ADAS, fleet management and IoT deployments, with an Amman engineering and operations office."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "IoT / Fleet Management"
 website: "https://www.iotistic.com"
 careers_url: "https://www.iotistic.com/careers"
 linkedin: "https://www.linkedin.com/company/iotistic"
 hr_email: null
-size: null
+size: "11-50"
 location:
-  area: "Amman"
+  status: "provided_unverified"
+  address: "Paris St. 15, Office 302, Amman 11185, Jordan"
+  area: "Paris Street, Amman"
   address: "Paris St. 15, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.9571444
@@ -16,7 +21,11 @@ categories:
   - "ai"
   - "iot"
 technologies:
+  - "AI/ML"
+  - "ADAS"
   - "Embedded Systems"
+  - "Fleet Telematics"
+  - "IoT"
 job_seeker:
   early_career_signal: false
   signals: []

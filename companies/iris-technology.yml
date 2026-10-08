@@ -1,12 +1,17 @@
 name: "IRIS Technology"
+description: "IRIS Technology is a regional systems integrator providing cybersecurity, cloud, infrastructure, AI/data, OT/ICS security, GRC, penetration testing, managed services and digital-transformation solutions. Its Jordan branch operates from Queen Rania Al Abdullah Street in Amman."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Systems integration (cybersecurity, networking, infrastructure, cloud)"
-website: null
+website: "https://www.iristechnology.me/"
 careers_url: null
 linkedin: null
-hr_email: null
+hr_email: "JORDAN@iristechnology.me"
 size: "50-249"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "Jamjoom Center 111, Queen Rania Al Abdullah Street, Amman 11194, Jordan"
+  area: "Queen Rania Al Abdullah Street, Amman"
   address: "Jamjoom Center, Queen Rania Al-Abdullah St 111, Amman 11194"
   status: "verified"
   latitude: 31.9961064
@@ -16,8 +21,16 @@ categories:
   - "devops"
   - "security"
 technologies:
+  - "AI/ML"
+  - "Cloud"
+  - "DevSecOps"
   - "EDR/XDR"
   - "Firewalls"
+  - "GRC"
+  - "Odoo"
+  - "OT/ICS"
+  - "Penetration Testing"
+  - "SIEM"
   - "Veeam"
 job_seeker:
   early_career_signal: false
@@ -48,3 +61,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.99538,35.88585"
     label: "Google Maps location"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=IRIS+Technology+Jordan+Jamjoom+Center+111+Queen+Rania+Amman"
+    label: "Current Google Maps IRIS Technology Jordan listing with matching phone"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/hamzah-salameh"
+    label: "Current IRIS Technology employee evidence"
