@@ -1,12 +1,17 @@
 name: "FutureTEC"
+description: "FutureTEC is a regional cybersecurity, cloud and enterprise-infrastructure company providing information security, managed security, data-center modernization, business continuity, data management and digital-transformation services. It has an active Amman office and a growing Jordan team."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "IT Solutions / Cybersecurity"
 website: "https://www.futuretec.me"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/future-technology-systems-co."
 hr_email: null
-size: "200+ (futuretec.me)"
+size: "51-200"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "3rd Floor, Makkah Towers, Mecca Street, Um Al Summaq (South), Tla'a Ali 11953, Amman, Jordan"
+  area: "Mecca Street, Amman"
   address: "3rd Floor, Makkah Towers, Mecca Street, Um Al Summaq (South), Tla'a Ali 11953, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.97694
@@ -43,3 +48,12 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.97694,35.85567"
     label: "Google Maps location"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=FutureTEC+Amman+Jordan"
+    label: "Current Google Maps FutureTEC Amman business listing"
+  - type: "linkedin_employee"
+    url: "https://www.linkedin.com/posts/zaid-al-noubani-1b2848b7_welcome-aboard-new-joiners-for-jordan-team-activity-7368624401732243457-egg9"
+    label: "Jordan-team growth evidence"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/accountant-at-future-technology-systems-co-futuretec-4407882136"
+    label: "Recent Amman hiring evidence"

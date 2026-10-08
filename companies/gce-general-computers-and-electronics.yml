@@ -1,12 +1,17 @@
 name: "GCE (General Computers & Electronics)"
+description: "General Computers & Electronics is a long-established Jordanian IT systems integrator and technology provider. It delivers enterprise infrastructure, cybersecurity, geospatial solutions, cloud, digital transformation, fleet and tracking solutions, training and vendor-based technology services."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "IT Services / Fleet Management"
 website: "https://www.gce.com.jo"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/general-computers-and-electronics-co"
 hr_email: "info@gce.com.jo"
-size: "150+"
+size: "51-200"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "Queen Rania St. 156, Amman, Jordan"
+  area: "Queen Rania Street, Amman"
   address: null
   status: "approximate"
   latitude: 31.9539
@@ -17,7 +22,11 @@ categories:
   - "data"
   - "devops"
 technologies:
+  - ".NET"
+  - "Cybersecurity"
   - "GIS"
+  - "GRC"
+  - "JavaScript"
   - "Veeam"
 job_seeker:
   early_career_signal: false
@@ -36,3 +45,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
     label: "Google Maps location"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=GCE+General+Computers+Electronics+Queen+Rania+St+156+Amman"
+    label: "Current Google Maps GCE listing"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/full-stack-engineer-at-general-computers-electronics-co-3234919448"
+    label: "Historical Amman .NET/JavaScript full-stack role"

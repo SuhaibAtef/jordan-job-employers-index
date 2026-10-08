@@ -1,11 +1,15 @@
 name: "GateToPay"
+description: "Gate to Pay is a Central Bank of Jordan-licensed fintech and payment-services provider offering acquiring, card issuing, remittance, wallets, white-label payment infrastructure and APIs. It operates from Amman and continues to expand its commercial and product footprint."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Payments / FinTech"
 website: "https://www.gatetopay.com"
 careers_url: null
-linkedin: null
-hr_email: null
-size: null
+linkedin: "https://www.linkedin.com/company/gatetopay"
+hr_email: "hr@gatetopay.com"
+size: "51-200"
 location:
+  status: "verified"
   area: "Amman"
   address: "Prince Rashed District, Mamdouh Al-Sarayrah St., Bldg No. 58, Ground & 3rd Floor, Amman 11118"
   status: "verified"
@@ -45,3 +49,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.97425,35.84711"
     label: "Google Maps location"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=Gate+To+Pay+Mamdouh+Al-Sarayrah+St+58+Amman"
+    label: "Current Google Maps listing at Building 58"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/company/gatetopay"
+    label: "Current Amman sales hiring and HR email"

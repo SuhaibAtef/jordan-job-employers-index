@@ -1,12 +1,17 @@
 name: "Foodics"
+description: "Foodics is a restaurant-technology and payments company providing cloud POS, restaurant management, payments, online ordering and related business software. It maintains a Jordan office in Amman and continues to hire local sales, product and engineering talent."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Restaurant-tech SaaS (cloud POS, payments, ERP)"
 website: "https://www.foodics.com/"
-careers_url: "https://startup.jobs/company/foodics"
+careers_url: "https://apply.workable.com/foodics/"
 linkedin: "https://www.linkedin.com/company/foodics/"
 hr_email: null
 size: null
 location:
-  area: "Amman"
+  status: "verified"
+  address: "Mecca St. 158, Amman, Jordan"
+  area: "Mecca Street, Amman"
   address: "Mecca St. 158, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.975938
@@ -23,8 +28,9 @@ technologies:
   - "Flutter"
   - "iOS"
 job_seeker:
-  early_career_signal: false
-  signals: []
+  early_career_signal: true
+  signals:
+    - "Entry-level roles"
 notes: "MENA restaurant-tech SaaS (cloud POS, payments, ERP; acquired POSRocket) with an Amman office (Google listing 'Foodics Jordan', Mecca St. 158); actively hiring engineers in Jordan (Senior Flutter Developer and Senior Backend Engineer (.NET), Jordan postings on startup.jobs Oct 2026; Senior iOS Engineer role advertised)."
 evidence:
   - type: "official_website"
@@ -48,3 +54,15 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.975938,35.861049"
     label: "Google Maps location"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=Foodics+Jordan+Mecca+St+158+Amman"
+    label: "Current Google Maps Foodics Jordan office"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/sales-executive-at-foodics-4453683819"
+    label: "Current entry-level Amman Sales Executive role"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/senior-product-manager-at-foodics-4436965323"
+    label: "Recent Amman product hiring"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/associate-product-manager-at-foodics-4110434385"
+    label: "Historical Amman Associate Product Manager role"

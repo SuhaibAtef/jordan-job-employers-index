@@ -1,12 +1,17 @@
 name: "Fourth Dimension Systems (FDS)"
+description: "Fourth Dimension Systems is a regional enterprise IT and cybersecurity provider delivering digital service management, network and endpoint security, contact-center platforms, cloud, AI and managed services. Its Amman branch serves Jordanian enterprise and government customers."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Cybersecurity / IT Solutions"
 website: "https://fdsme.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/fourth-dimension-systems"
 hr_email: null
-size: "350+ certified experts"
+size: "201-500"
 location:
-  area: "Amman"
+  status: "verified"
+  address: "Macca Towers, Al Salam Gate 1, 3rd Floor, Office 302, Mecca Street, Amman, Jordan"
+  area: "Mecca Street, Amman"
   address: "Macca Towers - Al Salam Gate 1, 3rd Floor, Office 302, Macca Street, Amman, Jordan"
   status: "provided_unverified"
   latitude: 31.977029
@@ -23,9 +28,8 @@ technologies:
   - "Proofpoint"
   - "SMS Gateway"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
+  early_career_signal: false
+  signals: []
 notes: "IT solutions and cybersecurity provider with 32+ years, 800+ projects and a Jordan office (+962 6 5532900); digital transformation and contact-center services for public and private clients; no public grad/internship info found."
 evidence:
   - type: "official_website"
@@ -37,3 +41,12 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.977029,35.856037"
     label: "Google Maps location"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/fourth-dimension-systems_our-amman-office-location-has-been-changed-activity-6760913498366111744-QXDa"
+    label: "Company announcement moving Amman office to Mecca Tower, Salam 1"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=Fourth+Dimension+Systems+FDS+Macca+Towers+Amman"
+    label: "Current Google Maps FDS office at Macca Towers"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/fourth-dimension-systems_hiring-fds-activity-6974730387616862209-k7UR"
+    label: "Historical Jordan technical-engineer hiring"

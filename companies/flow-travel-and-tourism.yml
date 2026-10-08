@@ -1,12 +1,17 @@
 name: "Flow Travel & Tourism"
+description: "Flow Travel & Tourism is an Amman destination-management and travel company handling inbound groups, corporate travel, events, accommodation and tour services across Jordan and the region. Its current public profile shows an active Amman team and ongoing travel operations."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Travel Management / DMC"
 website: "https://flowtraveljo.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/flow-travel-tourism/"
 hr_email: "info@flowtraveljo.com"
-size: "6-10 employees"
+size: "11-50"
 location:
-  area: "Amman"
+  status: "provided_unverified"
+  address: "Khalda Street, Amman 11953, Jordan"
+  area: "Khalda, Amman"
   address: "Wasfi Al Tal St., Complex 305, Khalda, Amman"
   status: "provided_unverified"
   latitude: 31.99725

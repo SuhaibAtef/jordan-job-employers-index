@@ -1,12 +1,17 @@
 name: "GCE Soft"
+description: "GCE Soft, the General Center for Software Development, is an Amman enterprise-software company behind Alpha ERP and related business applications. Its current team develops ERP, BI, database and operational software and remains active in Jordan after more than three decades."
+verification_status: "verified"
+last_verified: "2026-10-08"
 industry: "Enterprise software / ERP"
 website: "https://gcesoft.com.jo"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/gcesoft/"
 hr_email: null
 size: null
 location:
-  area: "Amman"
+  status: "provided_unverified"
+  address: "IT Center, Queen Rania Street, Amman, Jordan"
+  area: "Queen Rania Street, Amman"
   address: "IT Center, Queen Rania St, Amman"
   status: "approximate"
   latitude: 31.99155
@@ -20,12 +25,14 @@ technologies:
   - ".NET"
   - "C#"
   - "Crystal Reports"
-  - "Oracle Database"
+  - "IBM Cognos"
+  - "Power BI"
   - "SQL Server"
+  - "T-SQL"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Trainee"
+    - "Historical trainee experience"
 notes: "Amman software house established 1993; builds Alpha ERP and business software; street confirmed by company site. | stack verified 2026-10-05: 3 employee profiles (Tech Dev Manager Mohamed Al Moustafa: C#/SQL Server/Oracle; Sr Consultant Ahmad Najim: VB.NET/SQL Server/Crystal Reports; Dep GM Ziad Barghouthi: .NET) + trainee GitHub project at GCESoft (ASP.NET Core MVC/Web API, SQL Server)"
 evidence:
   - type: "official_website"
@@ -40,3 +47,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.99155,35.86906"
     label: "Google Maps location"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/amjad-abdelkarim-ab58a1232"
+    label: "Current GCE Soft employee profile and 2026 product activity"

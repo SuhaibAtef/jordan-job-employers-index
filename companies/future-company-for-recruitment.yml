@@ -1,4 +1,7 @@
 name: "Future Company for Recruitment"
+description: "Future Company for Recruitment is an Amman recruitment agency historically serving healthcare, engineering, education and other staffing markets. Its public website is currently limited and current employee/hiring evidence is insufficient to treat it as a strongly verified active employer."
+verification_status: "unresolved"
+last_verified: "2026-10-08"
 industry: "Staffing & Recruiting"
 website: "http://futurejordan.com/cv/"
 careers_url: null
@@ -6,7 +9,9 @@ linkedin: null
 hr_email: "info@futurejordan.com"
 size: null
 location:
-  area: "Amman"
+  status: "unresolved"
+  address: "Sports City Circle / Al Omari Complex area, Amman, Jordan"
+  area: "Amman (historical)"
   address: "Sport City Circle, Al Omari Complex, 3rd Floor, P.O. Box 1687, Amman 11941, Jordan"
   status: "approximate"
   latitude: 31.98741

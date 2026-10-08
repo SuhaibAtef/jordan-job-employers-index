@@ -1,12 +1,20 @@
 name: "Gamiphy"
+description: "Gamiphy rebranded to Coretava, a software platform for customer loyalty, personalization, retail media and workforce engagement. The current company is headquartered in San Francisco and publicly lists locations in the US, Brazil and Mexico; a current Amman office is not supported by the latest company profile."
+verification_status: "partial"
+last_verified: "2026-10-08"
 industry: "Marketing Technology / Gamification SaaS"
-website: "https://gamiphy.co/"
+website: "https://coretava.com"
 careers_url: null
-linkedin: "https://www.linkedin.com/company/gamiphy/"
+linkedin: "https://www.linkedin.com/company/coretava"
 hr_email: null
 size: "11-50"
 location:
-  area: "Amman"
+  maps_url: null
+  longitude: null
+  latitude: null
+  status: "unresolved"
+  address: null
+  area: "No current Jordan office verified"
   address: "Amman, Jordan"
   status: "approximate"
   latitude: 31.9518
@@ -49,3 +57,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
     label: "Google Maps location"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/erikbullen_coretava-formerly-gamiphy-linkedin-activity-7054814941643460609-Z-sL"
+    label: "Rebrand evidence from Gamiphy to Coretava"
