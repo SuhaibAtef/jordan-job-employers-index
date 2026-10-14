@@ -1,6 +1,7 @@
 from pathlib import Path
 from html import escape
 import json, re, yaml
+from progress import build_progress, classify_status
 
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/"_site"
@@ -27,6 +28,7 @@ for path in sorted((ROOT/"companies").glob("*.yml")):
     base=slugify(c["name"])
     used[base]=used.get(base,0)+1
     c["_slug"]=base if used[base]==1 else f"{base}-{used[base]}"
+    c["_source_path"]=path.relative_to(ROOT).as_posix()
     evtypes=sorted({e.get("type") for e in c.get("evidence",[]) if e.get("type")})
     c["_evidence_types"]=evtypes
     c["_has_job_evidence"]="job_post" in evtypes or "careers" in evtypes
@@ -75,8 +77,9 @@ def company_profile(c):
     cats="".join(f'<span class="chip green">{esc(x)}</span>' for x in c.get("categories",[])) or '<span class="muted">No categories</span>'
     sig="".join(f'<span class="chip green">{esc(x)}</span>' for x in (c.get("job_seeker") or {}).get("signals",[])) or '<span class="muted">No explicit early-career signal found in stored research</span>'
     description=company_description(c)
+    company_status=classify_status(c)[1]
     body=f"""<div class="profile"><a class="back" href="../index.html">← All employers</a>
-<section class="panel"><div class="eyebrow">Employer evidence profile</div><h1>{esc(c["name"])}</h1><div class="muted">{esc(c.get("industry") or "Industry not classified")}</div><div class="actions" style="margin-top:14px">{''.join(actions)}</div></section>
+<section class="panel"><div class="eyebrow">Employer evidence profile</div><h1>{esc(c["name"])}</h1><div class="muted">{esc(c.get("industry") or "Industry not classified")}</div><div class="muted" style="margin-top:6px">Company verification: <b>{esc(company_status)}</b> · <a href="../progress.html">All verification progress</a></div><div class="actions" style="margin-top:14px">{''.join(actions)}</div></section>
 <section class="panel"><h2>What the company does</h2><p class="description">{esc(description)}</p></section>
 <section class="panel"><h2>Job-seeker snapshot</h2><div class="kv">
 <div>Reported city / area</div><div>{esc(loc.get("area") or "Unresolved")} {location_chip(c)}</div>
@@ -113,7 +116,7 @@ def options(items):
     return "".join(f'<option value="{esc(x)}">{esc(x)}</option>' for x in items)
 
 body=f"""<main class="wrap">
-<section class="hero"><div><div class="eyebrow">Jordan · evidence-first employer research</div><h1>Find employers worth applying to.</h1><p>Search 500 companies by role-relevant technology, sector, location confidence, application path and the evidence behind each claim.</p></div>
+<section class="hero"><div><div class="eyebrow">Jordan · evidence-first employer research</div><h1>Find employers worth applying to.</h1><p>Search 500 companies by role-relevant technology, sector, location confidence, application path and the evidence behind each claim.</p><p style="margin-top:16px"><a class="btn primary" href="progress.html">View company verification progress →</a></p></div>
 <div class="stats"><div class="stat"><b>{len(companies)}</b><span>Employers</span></div><div class="stat"><b>{verified}</b><span>Verified locations</span></div><div class="stat"><b>{careers}</b><span>Career links</span></div><div class="stat"><b>{early}</b><span>Early-career signals</span></div></div></section>
 <section class="filters">
 <div class="filter-grid">
@@ -201,5 +204,6 @@ render();
 
 (OUT/"index.html").write_text(page("Jordan Job Employers Index",body),encoding="utf-8")
 (OUT/"companies.json").write_text(json.dumps(public,ensure_ascii=False,indent=2),encoding="utf-8")
+build_progress(companies, OUT)
 (OUT/".nojekyll").write_text("",encoding="utf-8")
 print(f"Built {len(companies)} employer pages.")
