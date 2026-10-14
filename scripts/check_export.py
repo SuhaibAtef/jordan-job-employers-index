@@ -6,7 +6,7 @@ import tempfile
 
 html = (Path(__file__).resolve().parents[1] / "_site" / "index.html").read_text(encoding="utf-8")
 assert 'id="exportTracker"' in html, "Missing application tracker export button"
-scripts = re.findall(r"<script(?:\\s[^>]*)?>([\\s\\S]*?)</script>", html)
+scripts = re.findall(r"<script(?:\s[^>]*)?>([\s\S]*?)</script>", html)
 assert scripts, "No JavaScript found in generated page"
 js = scripts[-1]
 for marker in (
