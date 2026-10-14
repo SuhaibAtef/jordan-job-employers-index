@@ -44,7 +44,7 @@ def jsdata(x): return json.dumps(x,ensure_ascii=False).replace("</","<\\/")
 CSS=r"""
 :root{--bg:#f4f6f7;--surface:#fff;--surface2:#eef2f3;--ink:#172129;--muted:#61707b;--line:#d6dee2;--strong:#9eabb3;--accent:#006d5b;--accent2:#dff1ec;--warn:#9b5b00;--warnbg:#fff0d8;--bad:#8b3d35;--badbg:#fae8e6;--link:#05639d}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.5 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}a{color:var(--link);text-underline-offset:3px}.wrap{width:min(1480px,100%);margin:auto;padding:24px clamp(14px,3vw,38px) 60px}.hero{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(280px,.6fr);gap:24px;align-items:end;padding:12px 0 25px}.eyebrow{text-transform:uppercase;letter-spacing:.09em;font-size:11px;color:var(--accent);font-weight:800}.hero h1{font-size:clamp(34px,5vw,64px);line-height:1;letter-spacing:-.045em;margin:7px 0 12px}.hero p{max-width:780px;color:var(--muted);font-size:17px;margin:0}.stats{display:grid;grid-template-columns:repeat(2,1fr);border:1px solid var(--line);background:var(--surface)}.stat{padding:15px;border-right:1px solid var(--line);border-bottom:1px solid var(--line)}.stat:nth-child(2n){border-right:0}.stat:nth-last-child(-n+2){border-bottom:0}.stat b{display:block;font-size:24px}.stat span{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
-.filters{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 94%,transparent);backdrop-filter:blur(10px);border:1px solid var(--line);padding:14px;box-shadow:0 10px 30px rgba(23,33,41,.06)}.filter-grid{display:grid;grid-template-columns:minmax(240px,2fr) repeat(5,minmax(130px,1fr));gap:9px}.field label{display:block;font-size:10px;color:var(--muted);font-weight:800;text-transform:uppercase;letter-spacing:.05em;margin-bottom:5px}.field input,.field select,.multi summary{width:100%;min-height:40px;border:1px solid var(--strong);background:var(--surface);color:var(--ink);padding:8px 10px;border-radius:4px}.multi{position:relative}.multi summary{cursor:pointer;list-style:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.multi summary::-webkit-details-marker{display:none}.menu{position:absolute;z-index:10;top:44px;left:0;width:min(330px,80vw);background:var(--surface);border:1px solid var(--strong);box-shadow:0 16px 35px rgba(0,0,0,.14);padding:9px}.menu input{width:100%;min-height:36px;border:1px solid var(--line);padding:7px;margin-bottom:6px}.options{max-height:235px;overflow:auto}.opt{display:flex;gap:8px;align-items:center;padding:5px;font-size:12px}.opt input{width:auto;min-height:0;margin:0}.filters2{display:grid;grid-template-columns:repeat(4,minmax(140px,1fr)) auto;gap:9px;margin-top:9px}.quick{display:flex;gap:7px;flex-wrap:wrap;margin-top:10px}.quick button,.clear{border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:7px 10px;cursor:pointer;font-size:12px}.quick button.on{background:var(--accent2);border-color:var(--accent);color:var(--accent)}.clear{border-radius:4px;font-weight:700}.summary{display:flex;justify-content:space-between;gap:14px;align-items:baseline;margin:23px 0 9px}.summary h2{margin:0;font-size:20px}.summary span{color:var(--muted);font-size:12px}.results{border-top:2px solid var(--ink)}.card{display:grid;grid-template-columns:minmax(230px,1.25fr) minmax(170px,.8fr) minmax(200px,1fr) minmax(240px,1.25fr) minmax(170px,.75fr);gap:16px;padding:17px 12px;background:var(--surface);border-bottom:1px solid var(--line);align-items:start}.card:hover{background:#fbfcfc}.name{font-weight:800;font-size:17px;line-height:1.25}.muted{color:var(--muted)}.small{font-size:12px}.chips{display:flex;gap:5px;flex-wrap:wrap}.chip{font-size:10px;background:var(--surface2);padding:4px 6px;border-radius:3px}.chip.green{background:var(--accent2);color:var(--accent)}.chip.warn{background:var(--warnbg);color:var(--warn)}.chip.bad{background:var(--badbg);color:var(--bad)}.actions{display:flex;gap:6px;flex-wrap:wrap}.btn{display:inline-block;text-decoration:none;border:1px solid var(--line);padding:6px 8px;border-radius:3px;font-size:11px;font-weight:700}.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}.evidence{margin-top:8px}.evidence summary{cursor:pointer;color:var(--link);font-size:11px;font-weight:700}.evidence ul{margin:8px 0 0;padding-left:18px;font-size:11px}.empty{padding:50px;text-align:center;background:var(--surface);color:var(--muted)}.profile{max-width:1100px;margin:25px auto;padding:0 18px}.back{display:inline-block;margin-bottom:15px}.panel{background:var(--surface);border:1px solid var(--line);padding:18px;margin-bottom:14px}.panel h1{margin:0 0 5px;font-size:32px}.panel h2{font-size:15px;margin:0 0 10px}.description{font-size:16px;line-height:1.65;margin:0;max-width:920px}.kv{display:grid;grid-template-columns:170px 1fr;gap:7px 14px}.kv>:nth-child(odd){color:var(--muted)}table{width:100%;border-collapse:collapse;font-size:12px}th,td{text-align:left;vertical-align:top;padding:8px;border-bottom:1px solid var(--line)}th{color:var(--muted);font-size:10px;text-transform:uppercase;letter-spacing:.05em}
+.filters{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--bg) 94%,transparent);backdrop-filter:blur(10px);border:1px solid var(--line);padding:14px;box-shadow:0 10px 30px rgba(23,33,41,.06)}.filter-grid{display:grid;grid-template-columns:minmax(240px,2fr) repeat(5,minmax(130px,1fr));gap:9px}.field label{display:block;font-size:10px;color:var(--muted);font-weight:800;text-transform:uppercase;letter-spacing:.05em;margin-bottom:5px}.field input,.field select,.multi summary{width:100%;min-height:40px;border:1px solid var(--strong);background:var(--surface);color:var(--ink);padding:8px 10px;border-radius:4px}.multi{position:relative}.multi summary{cursor:pointer;list-style:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.multi summary::-webkit-details-marker{display:none}.menu{position:absolute;z-index:10;top:44px;left:0;width:min(330px,80vw);background:var(--surface);border:1px solid var(--strong);box-shadow:0 16px 35px rgba(0,0,0,.14);padding:9px}.menu input{width:100%;min-height:36px;border:1px solid var(--line);padding:7px;margin-bottom:6px}.options{max-height:235px;overflow:auto}.opt{display:flex;gap:8px;align-items:center;padding:5px;font-size:12px}.opt input{width:auto;min-height:0;margin:0}.filters2{display:grid;grid-template-columns:repeat(4,minmax(140px,1fr)) auto;gap:9px;margin-top:9px}.quick{display:flex;gap:7px;flex-wrap:wrap;margin-top:10px}.quick button,.clear{border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:7px 10px;cursor:pointer;font-size:12px}.quick button.on{background:var(--accent2);border-color:var(--accent);color:var(--accent)}.clear{border-radius:4px;font-weight:700}.summary{display:flex;justify-content:space-between;gap:14px;align-items:center;margin:23px 0 9px;flex-wrap:wrap}.summary .export{background:var(--accent);border-color:var(--accent);color:#fff;border-radius:4px;padding:10px 15px;font-size:13px}.summary .export:hover{background:#00594b}.summary .export:disabled{background:var(--surface2);border-color:var(--line);color:var(--muted);cursor:not-allowed}.summary .hint{display:block;color:var(--muted);font-size:12px;margin-top:3px}.summary h2{margin:0;font-size:20px}.summary span{color:var(--muted);font-size:12px}.results{border-top:2px solid var(--ink)}.card{display:grid;grid-template-columns:minmax(230px,1.25fr) minmax(170px,.8fr) minmax(200px,1fr) minmax(240px,1.25fr) minmax(170px,.75fr);gap:16px;padding:17px 12px;background:var(--surface);border-bottom:1px solid var(--line);align-items:start}.card:hover{background:#fbfcfc}.name{font-weight:800;font-size:17px;line-height:1.25}.muted{color:var(--muted)}.small{font-size:12px}.chips{display:flex;gap:5px;flex-wrap:wrap}.chip{font-size:10px;background:var(--surface2);padding:4px 6px;border-radius:3px}.chip.green{background:var(--accent2);color:var(--accent)}.chip.warn{background:var(--warnbg);color:var(--warn)}.chip.bad{background:var(--badbg);color:var(--bad)}.actions{display:flex;gap:6px;flex-wrap:wrap}.btn{display:inline-block;text-decoration:none;border:1px solid var(--line);padding:6px 8px;border-radius:3px;font-size:11px;font-weight:700}.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}.evidence{margin-top:8px}.evidence summary{cursor:pointer;color:var(--link);font-size:11px;font-weight:700}.evidence ul{margin:8px 0 0;padding-left:18px;font-size:11px}.empty{padding:50px;text-align:center;background:var(--surface);color:var(--muted)}.profile{max-width:1100px;margin:25px auto;padding:0 18px}.back{display:inline-block;margin-bottom:15px}.panel{background:var(--surface);border:1px solid var(--line);padding:18px;margin-bottom:14px}.panel h1{margin:0 0 5px;font-size:32px}.panel h2{font-size:15px;margin:0 0 10px}.description{font-size:16px;line-height:1.65;margin:0;max-width:920px}.kv{display:grid;grid-template-columns:170px 1fr;gap:7px 14px}.kv>:nth-child(odd){color:var(--muted)}table{width:100%;border-collapse:collapse;font-size:12px}th,td{text-align:left;vertical-align:top;padding:8px;border-bottom:1px solid var(--line)}th{color:var(--muted);font-size:10px;text-transform:uppercase;letter-spacing:.05em}
 @media(max-width:1050px){.filter-grid{grid-template-columns:repeat(3,1fr)}.field.search{grid-column:1/-1}.filters2{grid-template-columns:repeat(3,1fr)}.card{grid-template-columns:1.2fr 1fr 1fr}.card .wide{grid-column:1/-1}}
 @media(max-width:720px){.wrap{padding:12px}.hero{grid-template-columns:1fr}.filters{position:static}.filter-grid,.filters2{grid-template-columns:1fr 1fr}.field.search{grid-column:1/-1}.card{grid-template-columns:1fr}.card .wide{grid-column:auto}.kv{grid-template-columns:1fr}.kv>:nth-child(odd){font-weight:700}}
 """
@@ -136,7 +136,7 @@ body=f"""<main class="wrap">
 </div>
 <div class="quick"><button data-quick="apply">Application ready</button><button data-quick="early">Intern / junior / graduate signal</button><button data-quick="jobs">Job-post evidence</button><button data-quick="employee">LinkedIn employee evidence</button><button data-quick="verified">Verified location</button></div>
 </section>
-<div class="summary"><h2 id="count">{len(companies)} employers</h2><span>Location confidence is shown separately from city/area.</span></div>
+<div class="summary"><div><h2 id="count">{len(companies)} employers</h2><span class="hint">Download the filtered companies to track applications in Google Sheets or Excel. Personal fields start empty.</span></div><button class="clear export" type="button" id="exportTracker">Download application tracker (.csv)</button></div>
 <section class="results" id="results"></section>
 </main>
 <script id="data" type="application/json">{jsdata(public)}</script>
@@ -148,6 +148,60 @@ const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}}[c]));
 const statusLabel=s=>({{verified:'Verified',provided_unverified:'Provided · not reverified',approximate:'Approximate',unresolved:'Unresolved'}}[s]||s);
 const statusClass=s=>s==='verified'?'green':s==='unresolved'?'bad':'warn';
+let currentRows=[];
+const TRACKER_COLUMNS=[
+  ['Company Name',c=>c.name],
+  ['Company ID',c=>c._slug],
+  ['Website',c=>c.website],
+  ['Career Site Link',c=>c.careers_url],
+  ['Company Email',()=> ''],
+  ['HR Email',c=>c.hr_email],
+  ['HR LinkedIn',()=> ''],
+  ['Employees worldwide (est.)',()=> ''],
+  ['Employees in Jordan (est.)',()=> ''],
+  ['Mobile stack (language/framework)',()=> ''],
+  ['Company Reach / Business Model',()=> ''],
+  ['Notes on Company',c=>c.description],
+  ['Private Notes',()=> ''],
+  ['Personal Contacts',()=> ''],
+  ['Application Status',()=> ''],
+  ['Application Notes',()=> ''],
+  ['Industry',c=>c.industry],
+  ['Reported company size',c=>c.size],
+  ['Reported city / area',c=>(c.location||{{}}).area],
+  ['Location confidence',c=>(c.location||{{}}).status],
+  ['Technologies (reported)',c=>(c.technologies||[]).join('; ')],
+  ['Company LinkedIn',c=>c.linkedin],
+  ['Employer evidence profile',c=>new URL('companies/'+c._slug+'.html',window.location.href).href],
+  ['Job title',()=> ''],
+  ['Job posting URL',()=> ''],
+  ['Application date',()=> ''],
+  ['Follow-up date',()=> '']
+];
+function csvCell(value){{
+  let text=String(value??'');
+  // Neutralize spreadsheet formulas in all data-derived text cells.
+  if(/^\s*[=+\-@]/.test(text))text="'"+text;
+  return '"'+text.replace(/"/g,'""')+'"';
+}}
+function exportTracker(){{
+  if(!currentRows.length)return;
+  const rows=[
+    TRACKER_COLUMNS.map(([header])=>csvCell(header)),
+    ...currentRows.map(c=>TRACKER_COLUMNS.map(([,get])=>csvCell(get(c))))
+  ];
+  const csv=String.fromCharCode(0xFEFF)+rows.map(r=>r.join(',')).join('\\r\\n');
+  const blob=new Blob([csv],{{type:'text/csv;charset=utf-8;'}});
+  const href=URL.createObjectURL(blob);
+  const link=document.createElement('a');
+  link.href=href;
+  link.download='jordan-application-tracker-'+new Date().toISOString().slice(0,10)+'.csv';
+  document.body.appendChild(link);
+  link.click();
+  link.remove();
+  setTimeout(()=>URL.revokeObjectURL(href),1000);
+}}
+$('exportTracker').addEventListener('click',exportTracker);
 
 function fillChecks(id,items,set,summaryId,label){{
   const box=$(id); box.innerHTML='';
@@ -195,7 +249,9 @@ function card(c){{
 function render(){{
  let rows=DATA.filter(match), sort=$('sort').value;
  rows.sort((a,b)=>sort==='name'?a.name.localeCompare(b.name):sort==='apply'?((b._apply_ready?1:0)-(a._apply_ready?1:0)||evidenceScore(b)-evidenceScore(a)||a.name.localeCompare(b.name)):(evidenceScore(b)-evidenceScore(a)||a.name.localeCompare(b.name)));
+ currentRows=rows;
  $('count').textContent=rows.length+' employers';
+ $('exportTracker').disabled=rows.length===0;
  $('results').innerHTML=rows.length?rows.map(card).join(''):'<div class="empty"><b>No employers match these filters.</b><div>Clear or broaden one of the filters.</div></div>';
 }}
 render();
