@@ -1,19 +1,21 @@
 name: "Istikana"
-industry: "VOD / Family Entertainment"
-website: "https://www.istikana.com"
+description: "Istikana is an Amman-based subscription video-on-demand (SVOD) platform founded in 2011. It distributes Arabic independent feature and short films, documentaries, hard-to-find classics, and other Arabic-language entertainment through its website and supported viewing devices, with a focus on independent Arab cinema."
+verification_status: "partial"
+last_verified: "2026-10-14"
+industry: "Entertainment / Subscription Video-on-Demand (SVOD)"
+website: "https://www.istikana.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/istikanatv"
 hr_email: null
-size: "1-10"
+size: "11-50"
 location:
-  area: "Amman"
-  address: "28 Al Rawda Street"
-  status: "approximate"
-  latitude: 31.99527
-  longitude: 35.89377
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99527,35.89377"
+  area: "Amman - Dahiyet al Rasheed"
+  address: "28 Al Rawda Street, Dahiyet al Rasheed, Amman 11183, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=28%20Al%20Rawda%20Street%20Dahiyet%20al%20Rasheed%20Amman"
 categories:
-  - "ai"
   - "mobile"
   - "web"
 technologies:
@@ -22,20 +24,26 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman Arabic subscription VOD platform (est. 2011, 9 employees) with children's programming and cartoons; apps on web, mobile, Chromecast and Smart TV. Pin upgraded from city-center fallback to office address published on the company's own About page (28 Al Rawda Street, Dahiyet al Rasheed, Amman 11183). No public hiring found."
+notes: "Reviewed 2026-10-14. Istikana's official About page confirms its Amman office at 28 Al Rawda Street, Dahiyet al Rasheed; the street address is verified, but no reliable office-level latitude/longitude was established, so previous coordinates were removed. LinkedIn reports 11-50 employees (company-wide), a 2011 founding year, and Amman headquarters; the previous 1-10 size estimate was replaced. The company currently promotes independent Arab cinema and related entertainment; its official site and LinkedIn show web, mobile and smart-TV viewing. Android and iOS denote public client applications, not independently verified programming languages or an internal engineering stack. Apple's listing remains accessible but shows a last published update in 2023; a third-party catalog reports that the Android Google Play listing was removed in May 2025, so current Android store availability is not asserted. No official careers page, publicly advertised HR-specific email, current job vacancy or early-career opportunity was found. Published content@istikana.com, press@istikana.com and support@istikana.com are business/press/support contacts, not HR. Company-level status remains partial because current hiring details and internal technology evidence are unresolved despite the verified address."
 evidence:
   - type: "official_website"
-    url: "https://www.istikana.com"
-    label: "Official website"
+    url: "https://www.istikana.com/"
+    label: "Official platform homepage — live Arabic cinema and entertainment catalog"
+  - type: "official_website"
+    url: "https://www.istikana.com/en/about"
+    label: "Official About page — business model, device support, Amman office street address and non-HR contacts"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/istikanatv"
+    label: "Company LinkedIn — 2011 founding, Amman headquarters and 11-50 global employees"
   - type: "other"
-    url: "https://www.wamda.com/2012/06/istikana-inks-deal-to-offer-videos-on-samsung-smart-tvs"
-    label: "Research source"
+    url: "https://apps.apple.com/us/app/istikana-arabic-cinema/id925229499"
+    label: "Apple App Store — Istikana LLC iOS client; most recent listed release March 2023"
   - type: "other"
-    url: "https://www.jordanyp.com/company/324225/Istikana"
-    label: "Research source"
+    url: "https://www.ammannewstoday.com/article/565283411-istikana-arab-independent-cinema-streaming-platform-expands-smart-tv-reach-with-netrange"
+    label: "2022 company press release — Smart TV app and distribution partnership (historical)"
   - type: "other"
-    url: "https://pitchbook.com/profiles/company/107169-85"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.99527,35.89377"
-    label: "Google Maps location"
+    url: "https://www.appbrain.com/app/istikana-arab-cinema/com.istikana.android.app.play"
+    label: "Historical Android application catalog — reports Google Play removal in May 2025"
+  - type: "official_website"
+    url: "https://www.istikana.com/en/faq"
+    label: "Official FAQ — subscriptions and support contact, not HR recruiting"
