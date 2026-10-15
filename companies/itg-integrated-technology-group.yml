@@ -1,17 +1,26 @@
 name: "ITG (Integrated Technology Group)"
-industry: "Enterprise software (education / government / ERP)"
-website: "https://www.itgsolutions.com"
-careers_url: "https://www.itgsolutions.com/internship-program-at-itg/"
-linkedin: null
+description: >-
+  Integrated Technology Group (ITG), founded in Jordan in 1989, develops and
+  implements enterprise, government and education software platforms. Its
+  products include EduWave for education management and e-learning, WaveERP
+  for enterprise resource planning, WaveGRP for government resource planning,
+  and WaveDMS for document management. ITG also provides implementation,
+  training and technical support across regional markets.
+verification_status: "partial"
+last_verified: "2026-10-15"
+industry: "IT Services and IT Consulting / Education and Enterprise Software"
+website: "https://www.itgsolutions.com/en/"
+careers_url: "https://www.itgsolutions.com/en/careers/"
+linkedin: "https://www.linkedin.com/company/integrated-technology-group-itg"
 hr_email: "internship@itgsolutions.com"
 size: "201-500"
 location:
-  area: "Amman"
-  address: "41 Ahmad Shawqi St, Jabal Al Webdeh, Amman 11194"
-  status: "provided_unverified"
-  latitude: 31.956531
-  longitude: 35.917365
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.956531,35.917365"
+  area: "Jabal Al Webdeh, Amman"
+  address: "41 Ahmad Shawqi Street, Jabal Al Webdeh, Amman 11194, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=41%20Ahmad%20Shawqi%20Street%20Jabal%20Al%20Webdeh%20Amman"
 categories:
   - "data"
   - "devops"
@@ -21,52 +30,77 @@ categories:
   - "web"
 technologies:
   - ".NET"
-  - "Android"
-  - "Angular"
+  - "ASP.NET"
   - "C#"
   - "CSS"
-  - "Flutter"
+  - "ETL"
   - "HTML"
-  - "iOS"
-  - "Java"
   - "JavaScript"
   - "jQuery"
-  - "Kotlin"
   - "LMS"
-  - "Oracle Database"
-  - "REST API"
+  - "PL/SQL"
+  - "SQL"
   - "SQL Server"
-  - "Swift"
-  - "Vue.js"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-    - "Fresh graduate"
-    - "Graduate"
-notes: "Enterprise software group (EduWave, WaveGRP/ERP/DMS); runs a public internship program open to fresh graduates.\nstack verified 2026-10-06: Amman postings (Technical Lead via founditgulf, Senior Database Developer on itgsolutions.com) show .NET/C#/MSSQL/Oracle/SQL/JS-jQuery stack; wuzzuf employee profiles (5+) show Android/Kotlin/Java, iOS/Swift, Flutter, Vue.js/Angular."
+    - "Official internship program for university students and fresh graduates (1-4 months), with software development, QA, infrastructure and other tracks"
+    - "Public internship application email internship@itgsolutions.com; current intake capacity not confirmed"
+    - "2026 TechForward university-student AI/ATS collaboration and PSUT Career Day participation"
+    - "Official careers page listed September-October 2026 Amman roles, including Senior Database Developer and Sales Manager; these are not entry-level vacancies"
+notes: >-
+  Reviewed 2026-10-15 (Jordan local date). ITG's official Jordan contact page and its current
+  LinkedIn company profile independently agree on 41 Ahmad Shawqi Street,
+  Jabal Al Webdeh, Amman; this verifies the street address, not the precision
+  of a map pin. Prior numeric coordinates (31.956531, 35.917365) were not
+  independently confirmed as a building-level location and were removed.
+  LinkedIn reports 201-500 employees for the global company; Jordan ICT's
+  profile describes 350+ professionals across operations, not a Jordan-only
+  headcount. The official internship page lists student/fresh-graduate
+  eligibility, 1-4 month training and internship@itgsolutions.com, but does
+  not confirm current cohort availability; this is a dedicated internship
+  inbox, not a verified general HR recruitment email. Official careers pages
+  displayed September-October 2026 Amman roles including Senior Database
+  Developer (minimum five years of experience) and Sales Manager (ten years),
+  plus a Cairo AI/ML position; vacancies and eligibility can change.
+  .NET/C#/ASP.NET/SQL Server/HTML/CSS/JavaScript/jQuery come from a 2025
+  ITG Cairo team-lead posting; SQL/PL-SQL/ETL come from a September 2026
+  Amman database posting. These are advertised role requirements across
+  different ITG offices, not a fully verified Jordan engineering stack.
+  Historical employee-profile-based Android, Angular, Flutter, iOS, Java,
+  Kotlin, REST API, Swift and Vue.js claims were excluded pending primary
+  evidence. LMS refers to the published EduWave product category.
+  Company-level verification remains partial because internal technology
+  coverage and current internship intake are not fully established, despite
+  verified company identity, address, official career channels and activity.
 evidence:
   - type: "official_website"
-    url: "https://www.itgsolutions.com"
-    label: "Official website"
+    url: "https://www.itgsolutions.com/en/"
+    label: "Official ITG site: EduWave, WaveERP, WaveGRP, WaveDMS and services"
+  - type: "official_website"
+    url: "https://www.itgsolutions.com/en/contact-us/"
+    label: "Official Jordan contact page: 41 Ahmad Shawqi Street, Jabal Al Webdeh, Amman 11194"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/integrated-technology-group-itg"
+    label: "Company LinkedIn: founded 1989, 201-500 global employees, Jordan office address and solutions"
   - type: "careers"
-    url: "https://www.itgsolutions.com/internship-program-at-itg/"
-    label: "Careers / application page"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/374302/integrated-technology-group"
-    label: "Research source"
-  - type: "other"
+    url: "https://www.itgsolutions.com/en/careers/"
+    label: "Official careers portal: October 2026 and September 2026 Amman roles"
+  - type: "careers"
+    url: "https://www.itgsolutions.com/en/internship-program-at-itg/"
+    label: "Official student/fresh-graduate internship program and application instructions"
+  - type: "job_post"
+    url: "https://www.itgsolutions.com/en/senior-database-developer-amman-jordan-ref-itg_62/"
+    label: "September 2026 Amman role: SQL, PL/SQL, ETL; five years' experience"
+  - type: "job_post"
+    url: "https://stg.itgsolutions.com/en/team-leader-net-development-egypt-cairo-hr-ref-itg_43/"
+    label: "November 2025 Cairo team-lead role: .NET, C#, ASP.NET, SQL Server, HTML, CSS, JavaScript and jQuery"
+  - type: "official_website"
     url: "https://www.itgsolutions.com/en/category/news/"
-    label: "Research source"
+    label: "2026 official news: TechForward student collaboration and PSUT Career Day participation"
+  - type: "company_listing"
+    url: "https://mail.jordanict.com/company-profile/integrated-technology-group-itg"
+    label: "Jordan ICT directory: 1989 establishment, sector, ITG solutions and 350+ global professionals"
   - type: "other"
-    url: "https://jordanict.com/company-profile/integrated-technology-group-itg"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.highperformr.ai/company/integrated-technology-group-itg"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.courierslist.com/detail/jordan/amman/warehouse-management-software/1828400/integrated-technology-group-itg"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.956531,35.917365"
-    label: "Google Maps location"
+    url: "https://www.intaj.net/media-center/Announcements/flutter-training-incubator-itg-academy"
+    label: "Historical 2021 intaj internship announcement corroborating internship email, not a current vacancy"
