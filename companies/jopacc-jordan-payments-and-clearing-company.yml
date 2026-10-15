@@ -1,54 +1,87 @@
 name: "JoPACC (Jordan Payments and Clearing Company)"
-industry: "Financial Services / national payments infrastructure"
-website: "https://www.jopacc.com/Default/En"
+description: >-
+  Jordan Payments and Clearing Company (JoPACC), established in 2017, operates
+  Jordan's domestic retail and micro-payment infrastructure: CliQ instant
+  payments, JoMoPay mobile wallets, eFAWATEERcom bill payments, the Automated
+  Clearing House (ACH), and electronic cheque clearing (ECCU). Owned by the
+  Central Bank of Jordan and 21 operating banks, it also runs JOIN Fincubator
+  for fintech entrepreneurship and university talent programs.
+verification_status: "partial"
+last_verified: "2026-10-15"
+industry: "Financial Services / Payment Infrastructure and Fintech"
+website: "https://www.jopacc.com/"
 careers_url: null
-linkedin: "https://www.linkedin.com/company/12672879"
-hr_email: "info@jopacc.com"
+linkedin: "https://www.linkedin.com/company/jopacc/"
+hr_email: null
 size: "11-50"
 location:
   area: "Amman"
-  address: "Wadi Saqra, Arar Street, Building # 195, 5th Floor, Amman – Jordan"
-  status: "provided_unverified"
+  address: "Building 195, 5th Floor, Arar Street, Wadi Saqra, Amman 11195, Jordan"
+  status: "verified"
   latitude: 31.960401
   longitude: 35.894925
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.960401,35.894925"
 categories:
-  - "consulting"
+  - "data"
   - "fintech"
 technologies:
   - "CliQ"
-  - "REST API"
+  - "ISO 20022"
+  - "Open APIs"
 job_seeker:
   early_career_signal: true
   signals:
     - "Internship"
     - "Academy"
-notes: "Owned by Central Bank of Jordan and commercial banks; operates national payment systems (CliQ instant payments, JoMoPay, eFAWATEERcom, ACH, ECCU); fresh-grad evidence: documented internship program, JOIN Fincubator student programs, and university MoUs (PSUT, Orange Digital Center Coding Academy, Al al-Bayt University). Audit 2026-10-03: GPS confirmed as-is; address and info@jopacc.com contact verified verbatim on jopacc.com.\nstack research 2026-10-06: 5 web searches (wuzzuf/bayt careers, jopacc.com careers, GitHub angles) found no employee profiles or dev job postings; only ISO 20022/CLIq ops info."
+    - "Hackathon"
+notes: >-
+  Reviewed 2026-10-15. Official website confirms five payment systems and JOIN
+  Fincubator; official About page reports Central Bank of Jordan and 21 banks
+  as owners. LinkedIn reports 11-50 employees. Street address corroborated by
+  company LinkedIn, official privacy policy and Central Bank of Jordan register.
+  Existing coordinates retained from prior 2026-10-03 GPS review, approximate
+  building pin rather than surveyed entrance. info@jopacc.com is a general
+  contact, NOT an HR email; no official careers portal or current direct
+  employment vacancy confirmed. January 2026 university agreement describes
+  JOIN internships and training; 2026 university hackathon confirms student
+  engagement, NOT an active employee hiring opportunity. CliQ is a product,
+  ISO 20022 a messaging standard, and Open APIs a JOIN integration offering:
+  none establishes JoPACC's internal programming stack. Unsupported REST API
+  claim removed.
 evidence:
   - type: "official_website"
-    url: "https://www.jopacc.com/Default/En"
-    label: "Official website"
+    url: "https://www.jopacc.com/"
+    label: "Official website and payment platforms"
+  - type: "other"
+    url: "https://www.jopacc.com/who-we-are/about-jopacc"
+    label: "Official About: ownership and operations"
   - type: "linkedin_company"
-    url: "https://www.linkedin.com/company/12672879"
-    label: "LinkedIn company page"
+    url: "https://www.linkedin.com/company/jopacc/"
+    label: "Company LinkedIn: size and address"
   - type: "other"
-    url: "http://www.jopacc.com/faqs/efawateercom-faqs"
-    label: "Research source"
+    url: "https://www.cbj.gov.jo/EBV4.0/Root_Storage/EN/EB_List_Page/A_general_register_of_licensed_companies.pdf"
+    label: "Central Bank register: office address"
   - type: "other"
-    url: "https://prospectoo.com/company/JordanPaymentsClearingCompanyJoPACC-12672879/"
-    label: "Research source"
+    url: "https://www.jopacc.com/privacy-policy"
+    label: "Official office address"
   - type: "other"
-    url: "https://itbssolution.com/jopacc-and-tsme-renew-partnership-to-reshape-jordans-financial-sector/"
-    label: "Research source"
+    url: "https://www.jopacc.com/what-we-do/systems-platforms/what-jomopay"
+    label: "ISO 20022 payment standard"
+  - type: "other"
+    url: "https://www.jopacc.com/what-we-do/join-fincubator/about-join"
+    label: "JOIN Fincubator and Open APIs"
+  - type: "other"
+    url: "https://www.jopacc.com/media-center/news/jopacc-and-al-al-bayt-university-aabu-sign-mou-empower-students-field-financial"
+    label: "2026 university internship and training programs"
+  - type: "other"
+    url: "https://www.jopacc.com/media-center/news/join-fincubator-concludes-first-phase-third-edition-university-hackathon-fintech"
+    label: "2026 university hackathon"
+  - type: "other"
+    url: "https://www.jopacc.com/media-center/news/jopacc-signs-memorandum-understanding-american-university-madaba-foster-fintech"
+    label: "2026 university talent program"
   - type: "other"
     url: "https://www.psut.edu.jo/en/news/a-memorandum-of-understanding-between-princess-sumaya-university-for-technology-and-the-jopacc-company"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jopacc.com/media-center/news/jopacc-and-orange-jordan-sign-mou-empower-digital-talent-and-advance-fintech"
-    label: "Research source"
-  - type: "other"
-    url: "https://ahlifintech.com/2025/11/16/fintech-innovation-empowered-through-ahli-fintech-and-jopacc-partnership/"
-    label: "Research source"
+    label: "Independent university partnership"
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.960401,35.894925"
-    label: "Google Maps location"
+    label: "Existing approximate building coordinates"
