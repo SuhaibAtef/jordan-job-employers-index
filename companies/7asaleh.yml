@@ -1,12 +1,16 @@
 name: "7asaleh"
-description: "7asaleh (حصالة) is a Jordanian family-fintech and financial-education product for children and teenagers, pairing supervised allowances, chores, savings goals and spending with a parent-controlled mobile experience and prepaid/debit-card concept."
+description: >-
+  7asaleh (حصالة) is a Jordanian family-fintech and financial-literacy startup
+  documented for a parent-supervised mobile money-management product for children
+  and teenagers, combining allowances, chores, savings goals and a prepaid-card
+  concept. Its current operating status could not be confirmed in October 2026.
 verification_status: "partial"
-last_verified: "2026-10-07"
+last_verified: "2026-10-16"
 industry: "Family Fintech / Financial Education"
 website: "https://7asaleh.com"
 careers_url: null
 linkedin: null
-hr_email: "info@7asaleh.com"
+hr_email: null
 size: null
 location:
   area: "Jordan"
@@ -29,20 +33,35 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Verified 2026-10-07 from current/recent public profiles. StartupsJo lists 7ASALEH with headquarters in Jordan, contact Nayef Elfayez and info@7asaleh.com, but does not provide a current city address. The previous Amman pin therefore lacked sufficient support and has been removed. Umniah documented the product and founder in 2024. The original product build was delivered by WeTheMakers in 2021 using React Native, TypeScript, NestJS, MongoDB, Firebase, Docker and Drone CI; this is product-build evidence, not proof of an in-house engineering team. The official domain is still referenced publicly but could not be independently reached during this verification. An app-tracking source reports the Android app was removed from Google Play on 2026-01-19. No current careers page, public company LinkedIn page or recent hiring evidence was found."
+notes: >-
+  Reviewed 2026-10-16. StartupsJo lists 7ASALEH (حصالة), Jordan headquarters,
+  founder contact Nayef Elfayez, general contact info@7asaleh.com and phone
+  +962797300700; this is not a verified HR/recruiting mailbox. It provides no
+  independently usable current street address or coordinates, so location remains
+  unresolved. Umniah's October 2024 profile describes the family-fintech product
+  and founder, but does not establish continued operations in 2026. WeTheMakers
+  documents a 2021 contracted product build using React Native, TypeScript,
+  NestJS, MongoDB, Firebase, Docker and Drone CI; these are historical
+  project technologies, not proof of the current internal engineering stack.
+  AppBrain's iOS listing reports the 7asaleh app was removed from Apple's
+  App Store on 2026-01-19 (not a verified Google Play removal). The official
+  domain could not be reached during this review. No confirmed current company
+  LinkedIn profile, careers portal, open internal vacancy, company size or
+  dedicated HR email was found. Partial status reflects documented historical
+  identity and product, not verified current activity.
 evidence:
   - type: "company_listing"
     url: "https://www.startupsjo.com/en/Pages/CustomPages/Startup/584"
-    label: "StartupsJo profile — Jordan headquarters, founder contact and info@7asaleh.com"
+    label: "StartupsJo startup profile — Jordan, founder and general contact details (checked 2026-10-16)"
   - type: "other"
     url: "https://www.umniah.com/explore-the8log/7asaleh-digital-money-saving-tool-for-new-generation/"
-    label: "Umniah profile — family financial-literacy product, founder and incubator history"
+    label: "Umniah October 2024 feature — product, founder and incubator history"
   - type: "company_listing"
     url: "https://wethemakers.dev/build/work/7asaleh"
-    label: "Product case study — family-fintech scope and 2021 implementation stack"
+    label: "WeTheMakers first-party 2021 case study — contracted product build and historical technology stack"
   - type: "other"
     url: "https://ibsintelligence.com/ibsi-news/3-platforms-in-jordan-offering-innovative-fintech-solutions/"
-    label: "Fintech industry profile — personal-finance and digital-payment solution for families"
+    label: "Fintech industry profile — personal finance and digital payments for families"
   - type: "other"
     url: "https://www.appbrain.com/appstore/7asaleh/ios-1634617551"
-    label: "App availability evidence — reports Android removal from Google Play on 2026-01-19"
+    label: "AppBrain iOS listing — reports Apple App Store removal on 2026-01-19"
