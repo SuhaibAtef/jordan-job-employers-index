@@ -1,43 +1,72 @@
 name: "Jeeran"
-industry: "Local discovery / reviews platform"
+description: >-
+  Jeeran is a Jordanian-founded Arabic local-discovery and user-review platform
+  that historically helped people find, rate and discuss restaurants, services
+  and other places across Amman and other Middle Eastern cities. The company
+  maintains a public LinkedIn profile, but current platform availability,
+  operating activity and hiring could not be confirmed in October 2026.
+verification_status: "partial"
+last_verified: "2026-10-15"
+industry: "Online Media / Local Discovery / User Reviews"
 website: "https://jeeran.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/jeeran"
 hr_email: null
 size: "11-50"
 location:
   area: "Amman"
-  address: "Al Waha 2 Complex, Abd Al Rahim Al Hajj Mohammad St 57, Amman, Jordan"
+  address: "Abdul Raheem Al-Haj Mohammad Street, Sweifieh, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.95862
-  longitude: 35.861535
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95862,35.861535"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "devops"
   - "mobile"
   - "web"
-technologies:
-  - "Docker"
-  - "JavaScript"
-  - "PHP"
-  - "Python"
+technologies: []
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Local places/reviews guide for the Arab world (restaurants, services); HQ Amman, funded by 500 Global; website still active with steady traffic. GPS confirmed: coordinates match the verified Google Maps business listing for Al Waha 2 Complex exactly. Tech stack items (WordPress, Google Font API, DNSSEC) removed — not traceable to any listed source. | stack verified 2026-10-03: getprog.ai employee profile (senior engineering + technical management at Jeeran) shows Python/PHP/JavaScript/Docker/cloud-native tooling; RocketReach profile corroborates JS/HTML/PHP."
+  early_career_signal: true
+  signals:
+    - "Historical 2019 paid three-month internship (not confirmed open in 2026)"
+notes: >-
+  Reviewed 2026-10-15. Jeeran's public LinkedIn profile describes its
+  user-generated local reviews and places platform, lists Amman headquarters,
+  11-50 employees and a PO Box (9162, Amman 11191), but does not confirm an
+  active physical office. The company website jeeran.com returned a 502 error
+  during review, and the historical jo.jeeran.com careers page was inaccessible;
+  this is insufficient to establish that the company has ceased operations.
+  An unverified JordanYP directory listing, registered in 2012, places the
+  company on Abdul Raheem Al-Haj Mohammad Street in Sweifieh, without
+  identifying the Al Waha 2 building or unit. The former street-number-57
+  building coordinates refer to a building, not a confirmed Jeeran office,
+  so unsupported coordinates and maps URL were removed. A Bayt employer
+  profile contains historical recruiting copy, not current vacancies.
+  A 2019 repost documents paid three-month internships in software
+  engineering, sales, marketing, customer service and design, with possible
+  full-time conversion; this is historical early-career evidence only.
+  No current job, application channel, HR email or active internship was found.
+  Previously listed Python, PHP, JavaScript and Docker stack claims were not
+  independently substantiated by company engineering documentation or current
+  attributable vacancies and were removed rather than asserted as current.
 evidence:
   - type: "official_website"
     url: "https://jeeran.com/"
-    label: "Official website"
+    label: "Historically advertised official domain; unavailable (502) on 2026-10-15"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/jeeran"
+    label: "Jeeran company profile — Amman headquarters, 11-50 employees, reviews platform and PO Box"
+  - type: "company_listing"
+    url: "https://www.bayt.com/en/company/jeeran-165015/"
+    label: "Historical employer profile and recruiting description; not a current vacancy listing"
+  - type: "company_listing"
+    url: "https://www.jordanyp.com/company/333410/Jeeran_for_Software_Development"
+    label: "Unverified 2012 directory listing — Sweifieh street address; current office unconfirmed"
+  - type: "job_post"
+    url: "https://www.tawzeefjo.com/2019/04/10/%D8%AA%D8%B9%D9%84%D9%86-%D8%B4%D8%B1%D9%83%D8%A9-%D8%AC%D9%8A%D8%B1%D8%A7%D9%86-%D8%B9%D9%86-%D8%AD%D8%A7%D8%AC%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D9%89/"
+    label: "2019 repost of paid three-month Jeeran internship program; not a current opening"
+  - type: "company_listing"
+    url: "https://www.cbinsights.com/company/jeeran"
+    label: "Historical Jeeran company overview and Amman PO Box; not proof of current operations"
   - type: "other"
-    url: "https://www.crunchbase.com/organization/jeeran"
-    label: "Research source"
-  - type: "other"
-    url: "https://rocketreach.co/jeeran-profile_b5c42aecf42e0de3"
-    label: "Research source"
-  - type: "other"
-    url: "https://jo.jeeran.com/amman/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.95862,35.861535"
-    label: "Google Maps location"
+    url: "https://www.address-mideast.com/JO/al-waha-2-complex-abd-al-rahim-al-hajj-mohammad-st-57-amman-jordan"
+    label: "Building-level listing only; does not identify Jeeran as tenant or verify prior coordinates"
