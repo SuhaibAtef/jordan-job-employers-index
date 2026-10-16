@@ -1,40 +1,69 @@
 name: "JordiLight"
-industry: "Sports tech, Consumer hardware"
+description: >-
+  JordiLight develops and sells a connected multi-purpose outdoor lighting device
+  that combines flashlight, headlamp, lantern and work-light functions. Its
+  companion mobile app provides Bluetooth lighting control, while the hardware
+  includes a compass and fall-detection features.
+industry: "Consumer electronics / connected outdoor lighting (IoT)"
 website: "https://jordilight.com"
 careers_url: null
-linkedin: null
-hr_email: "robert@jordilight.com"
-size: "11–50"
+linkedin: "https://www.linkedin.com/company/jordilight"
+hr_email: null
+size: "11–50 (LinkedIn-reported)"
 location:
   area: "Amman"
   address: null
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "iot"
   - "mobile"
 technologies:
   - "Flutter"
+  - "Dart"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "Smart flashlight + companion mobile app for outdoor enthusiasts (Bluetooth control, e-compass, fall sensor); founder/CEO Robert Y. Haddad. Founder email publicly listed in the Flat6Labs cycle brief. No office address published. No public internship postings found.\nstack verified 2026-10-06: official iOS app changelog (App Store) shows Flutter/Dart SDK upgrade — companion app built in Flutter; no job postings or employee profiles found."
+  early_career_signal: false
+  signals: []
+notes: >-
+  Founded in 2020 according to company LinkedIn. LinkedIn lists Delaware,
+  United States, as headquarters, whereas StartupsJo identifies Jordan and
+  founder Robert Haddad's public profile places him in Amman. This supports a
+  Jordanian founder/team connection but does not establish an operating office
+  address in Amman. No street address or office-level coordinates could be
+  corroborated; the former Amman city-centre pin was removed. Employee range
+  is self-reported on LinkedIn, not independently audited. The Apple App Store
+  changelog explicitly names a Flutter/Dart SDK upgrade, supporting the mobile
+  companion app stack but not a complete internal engineering stack. The
+  published robert@jordilight.com is the founder's business contact, not a
+  verified HR mailbox; support@jordilight.com is customer support. No dedicated
+  careers page, currently accepting vacancy, or internship was confirmed on
+  2026-10-16; the previously recorded Internship signal lacked evidence.
 evidence:
   - type: "official_website"
-    url: "https://jordilight.com"
-    label: "Official website"
+    url: "https://jordilight.com/"
+    label: "Official product site: connected lighting, Bluetooth app, compass and safety features"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/jordilight"
+    label: "Company profile: consumer electronics, 11–50 employees, 2020 founding, Delaware headquarters"
   - type: "other"
-    url: "https://theorg.com/org/jordilight"
-    label: "Research source"
+    url: "https://www.startupsjo.com/en/Pages/CustomPages/Startup/443"
+    label: "Jordan startup directory: founder contact and Jordan headquarters claim"
   - type: "other"
-    url: "https://jordilight.com/products/jordilight"
-    label: "Research source"
+    url: "https://apps.apple.com/us/app/jordilight/id1559245574"
+    label: "Official iOS app listing: Flutter/Dart SDK in release notes"
   - type: "other"
     url: "https://www.flat6labs.com/wp-content/uploads/2023/07/Post-Demo-Day-Amman-Cycle-Four-.pdf"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Flat6Labs 2023 Amman accelerator brief: founder, hardware and app team"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375932/JORDILIGHT"
+    label: "Jordan directory: Amman city listing without a street address"
+  - type: "official_website"
+    url: "https://jordilight.com/pages/contact"
+    label: "Official customer contact page; no HR channel identified"
+  - type: "official_website"
+    url: "https://jordilight.com/pages/track-order"
+    label: "Official order-support email; not an HR address"
+verification_status: "partial"
+last_verified: 2026-10-16
