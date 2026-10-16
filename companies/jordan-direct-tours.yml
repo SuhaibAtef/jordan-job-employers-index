@@ -1,14 +1,21 @@
 name: "Jordan Direct Tours"
-industry: "Tour Operator / Tourism Platform"
+description: >-
+  Jordan Direct Tours is an Amman-based inbound tour operator established in
+  2000. It arranges customized private and small-group tours, itineraries,
+  accommodations, and guided transportation across Jordan, including Petra,
+  Wadi Rum, Jerash, and the Dead Sea.
+verification_status: "partial"
+last_verified: "2026-10-15"
+industry: "Travel Arrangements / Inbound Tour Operator"
 website: "https://www.jdtours.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/jordan-direct-tours"
 hr_email: null
-size: null
+size: "11-50"
 location:
-  area: "Amman"
-  address: "Second floor, Shihan Al-Oqlah St. 7, Amman"
-  status: "provided_unverified"
+  area: "Amman (Abdoun)"
+  address: "Second floor, 7 Shihan Al Oqlah Street, Abdoun, Amman, Jordan"
+  status: "verified"
   latitude: 31.95107
   longitude: 35.872196
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.95107,35.872196"
@@ -18,17 +25,43 @@ technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman-based tour operator with online bookable private and small-group tours across Jordan (Petra, Wadi Rum, Dead Sea, Jerash). stack research 2026-10-05: 3 searches (jobs/dev/careers), no employee profiles or dev postings found"
+notes: >-
+  Reviewed 2026-10-15. The official website and company profile confirm
+  customized inbound tours and operations since 2000. LinkedIn reports
+  11-50 employees, but this is a platform range rather than an audited count.
+  The current official contact page places the office on the second floor at
+  7 Shihan Al Oqlah Street in Abdoun; Cybo and Wanderlog corroborate that
+  address. LinkedIn still lists Amin Marie Complex on Boumedin Street, an
+  unresolved alternate or older address. Existing coordinates were retained
+  only as an approximate street-level pin near Shihan Al Oqlah Street, not a
+  surveyed office entrance; a geographic directory places nearby building
+  No. 10 at approximately 31.9509,35.8724. info@jdtours.com is a general
+  customer contact, not a verified HR address. No official careers portal,
+  current job posting, internship, graduate program, or internal software
+  stack was corroborated. The site's inquiry and online payment functions
+  do not establish which technologies the company uses internally.
 evidence:
   - type: "official_website"
     url: "https://www.jdtours.com/"
-    label: "Official website"
+    label: "Official homepage: services, tours, and 2026 activity"
   - type: "other"
-    url: "https://www.jdtours.com/tours/"
-    label: "Research source"
+    url: "https://www.jdtours.com/company-profile/"
+    label: "Official company profile: established 2000 and services"
+  - type: "other"
+    url: "https://www.jdtours.com/contact/"
+    label: "Official contact: current office address and general email"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/jordan-direct-tours"
+    label: "LinkedIn: size, industry, founding date, alternate address"
+  - type: "other"
+    url: "https://www.cybo.com/JO-biz/jordan-direct-tours"
+    label: "Independent business listing corroborates office address"
   - type: "other"
     url: "https://wanderlog.com/place/details/4023426/jordan-direct-tours"
-    label: "Research source"
+    label: "Independent travel listing corroborates address"
+  - type: "other"
+    url: "https://www.address-mideast.com/JO/complex-no-10-shihan-al-oqlah-st-10-amman-jordan"
+    label: "Nearby address geocoding; not an exact office pin"
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.95107,35.872196"
-    label: "Google Maps location"
+    label: "Approximate existing street-level pin"
