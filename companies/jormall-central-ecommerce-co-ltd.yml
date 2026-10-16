@@ -1,40 +1,83 @@
 name: "JorMall (Central Ecommerce Co Ltd)"
-industry: "Telecommunications / Bulk SMS Services"
-website: "https://www.josms.net"
+description: >-
+  Central E-Commerce Co. Ltd. (JorMall) is an Amman-based provider of bulk SMS
+  communications, targeted digital marketing, customer engagement and loyalty
+  programs, and e-commerce services for businesses in Jordan.
+verification_status: "partial"
+last_verified: "2026-10-16"
+industry: "Advertising Services / Digital Communications and SMS Marketing"
+website: "https://jormall-jo.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/jormall-central-e-commerce"
 hr_email: null
-size: null
+size: "51-200"
 location:
-  area: "Amman"
-  address: "Amman, Jordan"
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  area: "Amman - Sweifieh"
+  address: "Khaled Hanafi Street, Building 3, 4th Floor, Sweifieh, Amman, Jordan"
+  status: "verified"
+  confidence: "high for published street/building address; exact coordinates unverified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Khaled+Hanafi+Street+Building+3+Sweifieh+Amman+Jordan"
 categories:
-  - "consulting"
+  - "marketing"
   - "telecom"
+  - "ecommerce"
 technologies:
   - "SMS Gateway"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "Licensed Jordanian bulk-SMS vendor (est. 2000) serving 3,500+ organizations with a 5M-number profiled database; offers RCS, location and voucher messages via josms.net gateway. No public internship/grad evidence found."
+  early_career_signal: false
+  signals: []
+notes: >-
+  Reviewed 2026-10-16. Official JorMall website and the company's LinkedIn
+  profile identify Central E-Commerce Co. Ltd., established in 2000, and
+  describe SMS communications, marketing, customer engagement and loyalty
+  services. The official site also describes an e-commerce offering. LinkedIn
+  reports 51-200 employees; this is a self-reported range, not an audited
+  headcount. The official contact section and LinkedIn independently agree
+  on Khaled Hanafi Street, Building 3, 4th Floor, Sweifieh, Amman, also
+  corroborated by an independent business directory. Address confidence is
+  high, but no exact office coordinates were established; previous
+  31.9539,35.9106 coordinates were a city-center approximation and have
+  been removed. The official general contact is info@jormall.com and
+  telephone +962 6 5855703; neither is a confirmed HR contact. No
+  official careers portal was established. Company-authored LinkedIn
+  advertisements for Sales Support Executive and Sales Executive -
+  Cybersecurity & Technology Solutions were found, but both are marked
+  no longer accepting applications; neither establishes current hiring or
+  an internship/graduate program. SMS Gateway denotes an advertised
+  service/platform, not a verified internal implementation stack. The
+  former josms.net website was not accessible during this review.
+  Company-level verification remains partial because HR contact, live
+  openings, exact coordinates and internal technology stack are unconfirmed.
 evidence:
   - type: "official_website"
-    url: "https://www.josms.net"
-    label: "Official website"
+    url: "https://jormall-jo.com/"
+    label: "Official website: company, services, street address and general contact"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/jormall-central-e-commerce"
+    label: "Company LinkedIn: industry, size, address and services"
+  - type: "other"
+    url: "https://clutch.co/profile/jormall-central-e-commerce"
+    label: "Independent company directory corroborating street and building"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/sales-support-executive-at-jormall-central-e-commerce-jormall-4377163130"
+    label: "Historical Sales Support Executive vacancy; closed at review"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/sales-executive-%E2%80%93-cybersecurity-technology-solutions-at-jormall-central-e-commerce-jormall-4382041877"
+    label: "Historical cybersecurity sales vacancy; closed at review"
+  - type: "other"
+    url: "https://royanews.tv/news/349509"
+    label: "2025 report of telecom Class-C SMS licensing claim"
   - type: "other"
     url: "https://trc.gov.Jo/EBV4.0/Root_Storage/AR/bb7e223f-c999-4cf1-b701-72b8d5b10426_JorMall_comments_on_the_draft_of_Competition_safegaurd.pdf"
-    label: "Research source"
+    label: "Historical regulatory consultation submission"
   - type: "other"
     url: "https://pkg.go.dev/github.com/samerzmd/go-jormall-sms"
-    label: "Research source"
+    label: "Third-party integration library; not evidence of internal Go stack"
   - type: "other"
     url: "https://jordanict.com/2018/company-profile/jormall"
-    label: "Research source"
+    label: "Historical Jordan ICT company profile"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=Khaled+Hanafi+Street+Building+3+Sweifieh+Amman+Jordan"
+    label: "Address search only; not an independently verified exact pin"
