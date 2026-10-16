@@ -1,32 +1,75 @@
 name: "Jordan Horizons Tours (JHT)"
-industry: "Travel Agency / DMC / Tourism Platform"
+description: >-
+  Jordan Horizons Tours (JHT) is a Jordan-based travel agency and destination
+  management company founded in 2013. It organizes private tailor-made tours,
+  cultural and pilgrimage itineraries, regional multi-country programs,
+  ground-handling services, and transfers for international visitors and travel
+  partners. The company advertises tourism sales and business-development
+  positions through its official careers page.
+verification_status: "partial"
+last_verified: "2026-10-15"
+industry: "Travel Arrangements / Tour Operator / Destination Management"
 website: "https://johtt.com/"
-careers_url: null
-linkedin: null
-hr_email: "info@johtt.com"
-size: null
+careers_url: "https://johtt.com/en/travel-agency-career-opportunities-in-jordan/"
+linkedin: "https://www.linkedin.com/company/jordanhorizonstours/"
+hr_email: null
+size: "11-50"
 location:
   area: "Amman"
-  address: "Wasfi Al Tal St., Khawaja Center, 5th Floor, Office E-9, Amman"
-  status: "provided_unverified"
-  latitude: 31.98494
-  longitude: 35.88293
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.98494,35.88293"
+  address: "Khawaja Center, 5th Floor, Office E-9, Wasfi Al Tal Street, Amman, Jordan"
+  status: "verified"
+  latitude: 31.9845278
+  longitude: 35.8833999
+  maps_url: "https://maps.app.goo.gl/AdW7edrARsSZbriD7"
 categories:
   - "travel"
-  - "web"
 technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Licensed Amman DMC/travel agency (15+ years) with online tailor-made tour booking, MICE services and secure payments; footer shows a 'We Are Hiring' section. stack research 2026-10-05: 3 searches (dev/jobs, akhtaboot/gulftalent/github, wuzzuf), no employee profiles or dev postings found"
+notes: >-
+  Reviewed 2026-10-15. The official website describes private and customized
+  Jordan tours, MICE/ground-handling services, and regional itineraries;
+  LinkedIn identifies a 2013 founding year and 11-50 employees. Official
+  contact page lists Khawaja Center, fifth floor, Office E-9 on Wasfi Al Tal
+  Street; LinkedIn and independent Petit Fute and TourismRendezvous listings
+  corroborate Wasfi Al Tal Street and/or Khawaja Center. Coordinates represent
+  an approximate Google Maps business-place pin linked by the official website,
+  not a surveyed office entrance. Other business listings report Ali Al
+  Sarayrah Street, an unresolved alternate or possibly older location.
+  The official careers page advertises Sales Executive and Business Development
+  Manager positions in Jordan, each requiring at least two years of experience,
+  and embeds a CV application form; no graduate-specific program or internship
+  was confirmed. info@johtt.com is a general enquiries address, not verified
+  as an HR mailbox. No public evidence establishes an internal software stack;
+  the earlier web category was removed because an online tour website alone
+  does not establish web-development hiring. Company verification remains
+  partial despite corroborated office-address evidence.
 evidence:
   - type: "official_website"
     url: "https://johtt.com/"
-    label: "Official website"
+    label: "Official website: services and company description"
   - type: "other"
     url: "https://johtt.com/en/best-travel-agency-in-jordan/"
-    label: "Research source"
+    label: "Existing official company research source"
+  - type: "other"
+    url: "https://johtt.com/en/contact-us/"
+    label: "Official contact: office address and general email"
+  - type: "careers"
+    url: "https://johtt.com/en/travel-agency-career-opportunities-in-jordan/"
+    label: "Official careers: sales and business development vacancies"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/jordanhorizonstours/"
+    label: "Company LinkedIn: employee range, founding year and street"
+  - type: "other"
+    url: "https://www.petitfute.co.uk/v42022-amman/c1122-voyage-transports/c747-tours-operateurs/2008919-jordan-horizon-tours.html"
+    label: "Independent travel directory: Khawaja Center address"
+  - type: "other"
+    url: "https://www.tourismrendezvous.com/travel-agencies/102795/jordan-horizons-tours"
+    label: "Tourism directory: Khawaja Center and Office E-9"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.98494,35.88293"
-    label: "Google Maps location"
+    url: "https://maps.app.goo.gl/AdW7edrARsSZbriD7"
+    label: "Google Maps business pin linked from official contact page; approximate"
+  - type: "other"
+    url: "https://wanderlog.com/place/details/15821269/jordan-horizons-tours-amman"
+    label: "Alternate address listing; location discrepancy"
