@@ -1,14 +1,22 @@
 name: "Jordan Data Systems (JDS)"
-industry: "Information Technology and Services"
-website: "https://www.jds.com.jo/"
+description: >-
+  Jordan Data Systems (JDS), founded in 1981 and part of Midis Group's MDS
+  System Integration network, is an Amman-based enterprise ICT integrator.
+  It supplies cloud and managed services, data-centre infrastructure, networking,
+  cybersecurity, ERP and hospitality systems, analytics, and consulting to
+  commercial and public-sector customers in Jordan and the region.
+verification_status: "partial"
+last_verified: "2026-10-15"
+industry: "IT Services and Consulting / Enterprise Systems Integration"
+website: "https://jds.com.jo/"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/jordan-data-systems-jds-/"
-hr_email: "info@jds.com.jo"
-size: "60+"
+hr_email: null
+size: "51-200"
 location:
   area: "Amman"
   address: "3rd Floor, Midis Group Building, 324 King Abdullah II St, Amman, Jordan"
-  status: "provided_unverified"
+  status: "verified"
   latitude: 31.960641
   longitude: 35.845121
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.960641,35.845121"
@@ -20,30 +28,72 @@ categories:
   - "security"
   - "telecom"
 technologies:
+  - "Aruba"
   - "Cisco"
+  - "CSS"
   - "Firewalls"
-  - "Oracle Database"
-  - "Oracle Fusion"
+  - "HPE"
+  - "JavaScript"
+  - "Oracle Hospitality"
   - "Oracle NetSuite"
+  - "PostgreSQL"
+  - "Python"
+  - "REST API"
+  - "Ubuntu"
   - "VMware"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "Founded 1981, part of Midis Group; end-to-end IT solutions & systems integration incl. a NetSuite ERP practice; 60+ staff (50+ engineers). No internship program found."
+  early_career_signal: false
+  signals: []
+notes: >-
+  Reviewed 2026-10-15. JDS official About page confirms founding in 1981,
+  Midis Group affiliation, enterprise infrastructure, cloud, security, analytics,
+  hospitality and ERP service lines. LinkedIn reports 51-200 employees, while
+  JDS's own site reports 60+ staff (50+ engineering specialists). Current
+  official Contact page specifies 3rd Floor, Midis Group Building, 324 King
+  Abdullah II Street; a business map listing and Waze corroborate the building.
+  Parent MDS SI directory and LinkedIn still list 31 Queen Alia Street,
+  Al Rayyan Tower, an unresolved historical-versus-current address conflict;
+  official current JDS contact details take precedence. Existing coordinates
+  retained as approximate area/building coordinates, NOT independently surveyed
+  office entrance coordinates. info@jds.com.jo is a general contact, not a
+  verified HR mailbox. A Careers link appears in the website footer but its
+  target could not be confirmed; no active internship or graduate program was
+  established. A historical LinkedIn Technical Consultant vacancy (closed,
+  minimum two years' experience) listed Python, XML, CSS, JavaScript, Ubuntu,
+  GitHub, PostgreSQL and API/JSON skills; these are job requirements, not a
+  verified complete internal software stack. Vendor offerings/partnerships
+  include HPE, Aruba, Oracle Hospitality, VMware, Cisco and Oracle NetSuite;
+  these describe customer solutions, not necessarily internal development.
+  Unsupported Oracle Fusion and Oracle Database tags and the unsubstantiated
+  Internship signal were removed.
 evidence:
   - type: "official_website"
-    url: "https://www.jds.com.jo/"
-    label: "Official website"
+    url: "https://jds.com.jo/"
+    label: "Official website: business, headcount, services"
+  - type: "other"
+    url: "https://jds.com.jo/about-us/"
+    label: "Official company history and technology partners"
+  - type: "other"
+    url: "https://jds.com.jo/contact-us/"
+    label: "Official current street and floor address"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/jordan-data-systems-jds-/"
-    label: "LinkedIn company page"
+    label: "Company LinkedIn: 51-200 employees, historical address"
   - type: "other"
-    url: "https://www.azdan.com/blog/20-oracle-netsuite-solution-providers-middle-east"
-    label: "Research source"
+    url: "https://mdssigroup.com/jds/"
+    label: "Parent-group directory: conflicting older address"
   - type: "other"
-    url: "https://beta1.decypha.com/en/company-list/Jordan-Data-Systems-Co-LLC-118302"
-    label: "Research source"
+    url: "https://www.waze.com/ar/live-map/directions/jo/mhafzh-alaasmh/am%D9%91an/jordan-data-systems-jds?to=place.ChIJGWaRIdOhHBURKjYBLp3PLZY"
+    label: "Waze location: Midis Group Building, 324 King Abdullah II St"
+  - type: "other"
+    url: "https://jo.linkedin.com/jobs/view/technical-consultant-at-jordan-data-systems-jds-4008337032"
+    label: "Closed technical consultant vacancy: programming skills and two years' experience"
+  - type: "other"
+    url: "https://jordanict.com/2022/company-profile/jordan-data-systems-jds"
+    label: "Industry profile: Oracle NetSuite, Cisco and VMware offerings"
+  - type: "other"
+    url: "https://jds.com.jo/networking/"
+    label: "Official networking and infrastructure solutions"
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.960641,35.845121"
-    label: "Google Maps location"
+    label: "Existing approximate map coordinates; not surveyed"
