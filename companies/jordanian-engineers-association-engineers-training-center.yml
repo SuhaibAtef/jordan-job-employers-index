@@ -1,43 +1,68 @@
-name: "Jordanian Engineers Association (Engineers Training Center)"
-industry: "Professional Association / Engineering Training"
-website: "https://www.jea.org.jo"
-careers_url: null
-linkedin: null
-hr_email: "training@jea.org.jo"
-size: "501-1,000 employees"
+name: Jordanian Engineers Association (Engineers Training Center)
+description: The Jordan Engineers Association (JEA) is a Jordanian professional engineering association founded in 1958. Its
+  Engineers Academy for Training and Development (EATD), established in 1997, provides continuing education and professional
+  training in engineering, IT, project management, contracts, and related fields. The academy is a training arm of the association,
+  not a separate verified technology employer.
+verification_status: partial
+last_verified: '2026-10-16'
+industry: Nonprofit Professional Association / Engineering Training and Continuing Education
+website: https://www.jea.org.jo/
+careers_url: https://www.jea.org.jo/AR/List/%D9%88%D8%B8%D8%A7%D8%A6%D9%81_%D8%B6%D9%85%D9%86_%D9%83%D8%A7%D8%AF%D8%B1_%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%A8%D8%A9
+linkedin: https://www.linkedin.com/company/eatd
+hr_email: null
+size: 201-500 employees (academy LinkedIn self-reported; staff count not independently confirmed)
 location:
-  area: "Amman"
-  address: "Sate' Al-Husari Street, Abdali, Amman (JEA headquarters)"
-  status: "provided_unverified"
+  area: Amman
+  address: Building 27, Sate Al-Husari Street, Shmeisani, Amman, Jordan (Engineers Academy / Training Center)
+  status: verified
   latitude: 31.96925
   longitude: 35.89196
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96925,35.89196"
+  maps_url: https://www.google.com/maps/search/?api=1&query=31.96925,35.89196
 categories:
-  - "ai"
-  - "security"
-technologies:
-  - "AI/ML"
+- ai
+technologies: []
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Academy"
-notes: "Professional body of 143,000+ engineers running the Engineers Academy for Development & Training (AI/ML, renewable energy, PMP, digital marketing courses) and an engineering business incubator (RAM); employs 501-1,000 staff."
+  early_career_signal: false
+  signals: []
+notes: Reviewed 2026-10-16. JEA founded 1958; its Engineers Academy for Training and Development (EATD) founded 1997. Official
+  JEA and academy pages confirm engineering, IT, project management, BIM/CAD, energy and AI training; these are course subjects
+  or partner platforms, not evidence of an internal software stack. Academy LinkedIn self-reports 201-500 employees, but that
+  range is not independently validated for academy staff and may include association personnel. Academy address at Building
+  27, Sate Al-Husari St corroborated by academy LinkedIn and independent business listings. The JEA association headquarters
+  is separately listed at the Professional Associations Complex, Abd Al-Hameed Sharaf St; do not conflate these sites. Existing
+  coordinates retained as approximate academy-area pin, not a surveyed entrance. training@jea.org.jo is the official training-program
+  contact, NOT a verified HR inbox. Official JEA internal-staff vacancies page exists but displays no publicly confirmed active
+  vacancies. JEA job board advertises third-party employers; its listings are NOT evidence of JEA hiring. Academy provides
+  early-career training for engineers, but no current academy internship or graduate employment recruitment was confirmed.
+  Therefore early_career_signal false.
 evidence:
-  - type: "official_website"
-    url: "https://www.jea.org.jo"
-    label: "Official website"
-  - type: "other"
-    url: "https://jea.org.jo/EBV4.0/Root_Storage/AR/ETC_plan_2025_-_WTN.pdf"
-    label: "Research source"
-  - type: "other"
-    url: "https://en.wikipedia.org/wiki/Jordanian_Engineers_Association"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanpulse.com/article/1994"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.zoominfo.com/c/jordan-engineers-association/346027095"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.96925,35.89196"
-    label: "Google Maps location"
+- type: official_website
+  url: https://www.jea.org.jo/
+  label: JEA official website and association services
+- type: other
+  url: https://www.jea.org.jo/AR/Pages/%D9%85%D8%B1%D9%83%D8%B2_%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8_%D8%A7%D9%84%D9%85%D9%87%D9%86%D8%AF%D8%B3%D9%8A%D9%86
+  label: Official Engineers Academy programs and accreditation
+- type: other
+  url: https://jealearn.com/
+  label: Academy website and training@jea.org.jo contact
+- type: linkedin_company
+  url: https://www.linkedin.com/company/eatd
+  label: 'Academy LinkedIn: founding, size and Building 27 address'
+- type: linkedin_company
+  url: https://www.linkedin.com/company/jordan-engineers-association/
+  label: 'Parent association LinkedIn: distinct headquarters and employee range'
+- type: other
+  url: https://www.jea.org.jo/AR/List/%D9%88%D8%B8%D8%A7%D8%A6%D9%81_%D8%B6%D9%85%D9%86_%D9%83%D8%A7%D8%AF%D8%B1_%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%A8%D8%A9
+  label: Official internal staff recruitment page (no confirmed current vacancy)
+- type: other
+  url: https://jea.org.jo/EBV4.0/Root_Storage/AR/ETC_plan_2026_-_WTN.pdf
+  label: Official 2026 academy training plan
+- type: other
+  url: https://www.cybo.com/JO-biz/engineers-training-center
+  label: Independent training-center street address and contact
+- type: other
+  url: https://jordan.worldplaces.me/education-in-amman/51523938-engineers-training-center-jordan-engineers-association.html
+  label: Independent approximate training-center location
+- type: google_maps
+  url: https://www.google.com/maps/search/?api=1&query=31.96925,35.89196
+  label: Existing approximate academy-area coordinates
