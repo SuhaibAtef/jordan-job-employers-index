@@ -1,43 +1,67 @@
-name: "Agility Logistics Jordan"
-description: "Agility is a global logistics and infrastructure group with businesses spanning logistics parks, aviation services, fuel logistics, digital logistics and e-commerce enablement. The Jordan record represents its local logistics presence; current public evidence for the exact Amman office remains thinner than the group-level evidence."
-verification_status: "partial"
-last_verified: "2026-10-07"
-industry: "Logistics / freight forwarding / warehousing"
-website: "https://www.agilitylogistics.com"
+name: Agility Logistics Jordan
+description: Historical Amman listing for Agility's freight-forwarding and warehousing operations. Agility sold
+  its Global Integrated Logistics (GIL) division to DSV in August 2021. DSV currently documents Jordan freight and
+  warehouse operations, but available official sources do not establish that a separate Agility-branded freight
+  employer still operates at the historical Amman address. The current Agility group owns and invests in aviation,
+  logistics parks, digital logistics and related infrastructure businesses.
+verification_status: partial
+last_verified: '2026-10-16'
+industry: Logistics / freight forwarding / warehousing (historical Jordan listing)
+website: https://agility.com/
 careers_url: null
-linkedin: "https://www.linkedin.com/company/agility/"
+linkedin: https://www.linkedin.com/company/agility/
 hr_email: null
 size: null
 location:
-  area: "Amman"
-  address: "Laila Al-Akhyaliyah, Shmeisani, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.969133
-  longitude: 35.898349
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.969133,35.898349"
+  area: Amman
+  address: Laila Al-Akhyaliyah, Shmeisani, Amman, Jordan (historical directory listing)
+  status: provided_unverified
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "logistics"
+- logistics
 technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "MENA logistics major (freight, warehousing, e-commerce logistics) with an Amman office at Laila Al-Akhyaliyah, Shmeisani (JordanYP verified listing) and warehouses in Jordan including the Aqaba distribution hub; group runs digital-logistics and e-commerce enablement businesses.\nstack research 2026-10-04: 3 searches (career boards, getprog.ai, employee snippets); only group-level IT roles (Dubai/Riyadh) and Agility Robotics (different company) hits; no Jordan-office engineering evidence; tags unchanged."
+notes: Reviewed 2026-10-16. The JordanYP Agility Logistics entry reports Laila Al-Akhyaliyah Street, Shmeisani,
+  Amman and telephone +962 6 565 5200, but was last updated 2021-04-27, before Agility's Global Integrated Logistics
+  sale to DSV (completion announced 2021-08-16). Agility's own history confirms the sale. Current DSV Jordan pages
+  document more than 177 staff and five facilities in Amman/Aqaba, but these figures, addresses, systems and roles
+  must NOT be attributed to a still-operating Agility Jordan entity. A second directory lists a different logistics
+  location; neither office or any exact coordinates are current-officially confirmed. The group LinkedIn and careers
+  page do not establish a Jordan-specific headcount, HR contact or active opening. No verified local hiring or internal
+  technology stack was found; leave HR email, company size, coordinates and technology tags unknown. Agility group's
+  ongoing activity does not establish continuation of the historical Jordan freight office.
 evidence:
-  - type: "official_website"
-    url: "https://www.agilitylogistics.com"
-    label: "Official website"
-  - type: "linkedin_company"
-    url: "https://www.linkedin.com/company/agility"
-    label: "LinkedIn company page"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/324895/Agility_Logistics"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.courierslist.com/detail/jordan/amman/warehousing-companies/1280007/agility-logistics"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.logisticsmiddleeast.com/logistics/article-4671-top-10-agility-warehouses-in-the-middle-east"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.969133,35.898349"
-    label: "Google Maps location"
+- type: official_website
+  url: https://agility.com/
+  label: Current Agility group website; not proof of a Jordan freight office
+- type: other
+  url: https://agility.com/about-us/our-history/
+  label: 'Agility official history: 2021 GIL sale to DSV'
+- type: other
+  url: https://investor.dsv.com/news-releases/news-release-details/dsv-904-completion-acquisition-agilitys-global-integrated
+  label: DSV official August 16 2021 acquisition completion announcement
+- type: other
+  url: https://www.dsv.com/en/countries/jordan
+  label: Current DSV Jordan logistics operations; not proof of a separate Agility office
+- type: linkedin_company
+  url: https://www.linkedin.com/company/agility
+  label: Agility group LinkedIn profile; Jordan headcount unconfirmed
+- type: careers_page
+  url: https://agility.com/careers/
+  label: Group careers overview; no Jordan-specific opening established
+- type: other
+  url: https://www.jordanyp.com/company/324895/Agility_Logistics
+  label: Historical Shmeisani Agility Logistics listing, last updated April 27 2021
+- type: other
+  url: https://www.courierslist.com/detail/jordan/amman/warehousing-companies/1280007/agility-logistics
+  label: Third-party historical Jordan logistics listing
+- type: other
+  url: https://www.courierslist.com/detail/jordan/zarqa/logistics-service/882103/agility-logistics
+  label: Alternative third-party logistics location; unconfirmed affiliation
+- type: other
+  url: https://www.logisticsmiddleeast.com/logistics/article-4671-top-10-agility-warehouses-in-the-middle-east
+  label: Historical regional warehouse coverage; not current Jordan office confirmation
