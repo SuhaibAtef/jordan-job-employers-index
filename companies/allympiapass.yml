@@ -1,52 +1,72 @@
 name: "AllympiaPass"
-description: "AllympiaPass is a fitness-membership technology platform that gives users access to multiple gyms, studios and fitness classes through one pass and mobile experience. Public evidence confirms the product and its historical Amman roots, but the company’s current operational and hiring footprint is limited."
+description: >-
+  AllympiaPass is a Jordan-founded fitness-membership platform launched in 2017
+  that offered access to multiple gyms, studios and exercise classes through a
+  single membership and mobile application. Historical reporting documents
+  activity in Jordan, Lebanon, Egypt and Kuwait. Its current operational status
+  could not be independently established in October 2026.
 verification_status: "partial"
-last_verified: "2026-10-07"
-industry: "Fitness tech, Health & wellness"
+last_verified: "2026-10-17"
+industry: "Fitness Technology / Sports and Wellness Memberships"
 website: "https://www.allympiapass.com"
 careers_url: null
-linkedin: "https://www.linkedin.com/company/18092574/"
+linkedin: "https://www.linkedin.com/company/allympiapass"
 hr_email: null
-size: null
+size: "51-200"
 location:
   area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: "164 Mecca Street, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "healthtech"
   - "mobile"
-  - "web"
-technologies:
-  - "Android"
-  - "Firebase"
-  - "iOS"
-  - "Java"
-  - "Kotlin"
-  - "Node.js"
-  - "Swift"
+technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "ClassPass-style fitness membership: one pass for 100s of gyms/studios and 1000s of classes across Amman, Kuwait, Cairo and Beirut; founded 2017 in Amman. No office address or public HR email found. No public internship postings found. | stack verified 2026-10-05: 1 employee profile (Ali Shaker, Mobile developer 2017-2019, via ContactOut) lists Android/iOS dev skills: Java, Swift, Kotlin, Node.js, Firebase; company has native iOS/Android app."
+notes: >-
+  Reviewed 2026-10-17. LinkedIn identifies Amman headquarters, a 2017 founding
+  date and a self-reported 51-200 employee size band, but does not establish
+  current payroll or operating activity; Dealroom separately estimates 2-10
+  employees, so present headcount is uncertain. Jordan Times reported the
+  regional fitness-class membership product in October 2018. Two business
+  directories list 164 Mecca Street, Amman, but neither establishes that the
+  address is a currently occupied office; location is provided_unverified.
+  The company-listed website was inaccessible during this review. AppBrain
+  reports the Android application was removed from Google Play on 2024-05-03,
+  with its last listed update on 2021-02-16. A former mobile developer's
+  employment history supports historical Android/iOS work (2017-2019), not
+  present use of Java, Kotlin, Swift, Node.js, Firebase or any other internal
+  production stack; unsupported technology attributions were removed.
+  No current company vacancy, dedicated careers page, recruitment email,
+  internship or graduate hiring program could be corroborated. Historical
+  operations and an Amman location do not establish current full-company
+  verification; the company remains partially verified.
 evidence:
   - type: "official_website"
     url: "https://www.allympiapass.com"
-    label: "Official website"
+    label: "Company-listed website; inaccessible during review on 2026-10-17"
   - type: "linkedin_company"
-    url: "https://www.linkedin.com/company/18092574/"
-    label: "LinkedIn company page"
+    url: "https://www.linkedin.com/company/allympiapass"
+    label: "Company profile: 2017 founding, Amman headquarters, self-reported 51-200 size band"
   - type: "other"
-    url: "https://www.cbinsights.com/compare/allympiapass-vs-trainaway"
-    label: "Research source"
+    url: "https://jordantimes.com/news/business/allympiapass-regions-largest-fitness-network-celebrates-first-anniversary"
+    label: "Jordan Times, 2018-10-18: historical operations and fitness membership product"
   - type: "other"
-    url: "https://www.apkbe.com/app/com.apptrainers.allympia"
-    label: "Research source"
+    url: "https://www.bizmideast.com/JO/allympiapass-06-200-5009"
+    label: "Third-party directory listing 164 Mecca Street, not current office confirmation"
   - type: "other"
-    url: "https://seositecheckup.com/seo-audit/www.allympiapass.com"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://jo.near-place.com/allympia-pass-mecca-street-164-amman"
+    label: "Second directory listing 164 Mecca Street, historical/current occupancy unverified"
+  - type: "other"
+    url: "https://www.appbrain.com/app/allympiapass-%7C-many-gyms-fit/com.apptrainers.allympia"
+    label: "Android app removed from Google Play on 2024-05-03; last listed update 2021-02-16"
+  - type: "other"
+    url: "https://people.bayt.com/ali-shaker-43452646/"
+    label: "Former mobile developer reports Android and iOS work from 2017 to 2019"
+  - type: "other"
+    url: "https://app.dealroom.co/companies/allympiapass"
+    label: "Third-party company profile with conflicting 2-10 employee estimate"
