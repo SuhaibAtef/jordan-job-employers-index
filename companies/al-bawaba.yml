@@ -1,54 +1,111 @@
 name: "Al Bawaba"
-description: "Al Bawaba is an Amman-founded digital media network publishing news and business content for Middle Eastern audiences. Its network also includes SyndiGate, a content-licensing and syndication operation, combining journalism with digital publishing and distribution technology."
+description: >-
+  Al Bawaba is an Amman-headquartered digital news and information publisher
+  founded in 2000. It publishes Middle East news, business, technology and
+  lifestyle coverage in English and Arabic. Its group also owns SyndiGate,
+  a content licensing and syndication business, and operates the DISCO
+  digital-content marketplace.
 verification_status: "partial"
-last_verified: "2026-10-07"
-industry: "Digital media / Content syndication"
+last_verified: "2026-10-16"
+industry: "Digital publishing / Online media / Content licensing and syndication"
 website: "https://www.albawaba.com"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/al-bawaba-news"
 hr_email: null
 size: "11-50"
 location:
-  status: "provided_unverified"
-  address: "Plenary Mall, Al Shareef Abd Al Hameed Sharaf St. 74, Amman 11844, Jordan"
   area: "Shmeisani, Amman"
-  address: "The Plenary, 4th Floor, Al-Sharif Abdul Hamid Sharaf St. 74, Shmeisani, Amman"
-  status: "provided_unverified"
-  latitude: 31.975839
-  longitude: 35.897238
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.975839,35.897238"
+  address: "The Plenary, 4th Floor, 74 Abdel Hamid Sharaf Street, Amman 11844, Jordan"
+  status: "verified"
+  confidence: "high"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=The+Plenary+74+Abdel+Hamid+Sharaf+Street+Amman+Jordan"
 categories:
   - "data"
-  - "devops"
   - "web"
+  - "media"
+  - "publishing"
 technologies:
   - "Drupal"
-  - "Git"
-  - "jQuery"
-  - "Linux"
-  - "MySQL"
   - "PHP"
-  - "WordPress"
+  - "Symfony"
+  - "MySQL"
+  - "Linux"
+  - "Nginx"
+  - "Varnish"
+  - "Pipedrive"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman HQ independent MENA news network (est. 2000) with portals, blogs and games zone; runs SyndiGate content-syndication marketplace licensing from 1,100+ publishers. stack research 2026-10-04: 5 web searches, no employee profiles or dev job postings found (news publisher; mobile site/apps built by third-party vendor Marfeel); tags left unverified, not verified. stack verified 2026-10-05: 2 employee profiles + vendor case study - Senior PHP Developer at SyndiGate (owned/operated by Al Bawaba Middle East Ltd, Amman) uses Symfony/XML/FTP (Symfony has no canonical tag); former Al Bawaba web developer used PHP, Drupal, MySQL, jQuery, Linux, git; Vardot lists Al Bawaba News as Drupal build."
+  early_career_signal: true
+  signals:
+    - "2026 Al Bawaba News junior content licensing coordinator role for SyndiGate in Amman (marked closed at review)."
+    - "2026 Al Bawaba News multi-digital content writer/creator listing in Amman visible without a closed notice at review; live application status unconfirmed."
+    - "2026 SyndiGate content operations assistant role in Amman requested 0-3 years of experience (marked closed at review)."
+notes: >-
+  Reviewed 2026-10-16. Al Bawaba's official About and Contact pages confirm
+  its Amman headquarters, publishing activities, SyndiGate ownership, and
+  The Plenary fourth-floor address at 74 Abdel Hamid Sharaf Street.
+  The Al Bawaba Business and SyndiGate LinkedIn company profiles corroborate
+  the building and street. Address confidence is high, but no precise
+  office coordinates were independently established; the maps_url is only
+  an address-search link, not a verified pin. Al Bawaba News LinkedIn
+  self-reports 11-50 employees, not an audited headcount. An Al Bawaba
+  article dated 2026-10-16 supports continued publication activity.
+  The 2026 junior content licensing coordinator and SyndiGate content
+  operations assistant advertisements were closed when checked. A separate
+  multi-digital content writer/creator advertisement remained visible
+  without a closed notice, but live application availability was not
+  independently established. A 2025 company-associated hiring post listed
+  jobs@corp.albawaba.com for a specific journalist role; current validity
+  as a general HR mailbox is unconfirmed. The official general contact is
+  contact@albawaba.com, not a verified HR address. No dedicated official
+  careers page was established. Technology evidence is qualified: Vardot
+  documented a Drupal 8 relaunch in 2019, and a SyndiGate development
+  manager self-reports PHP, Symfony, MySQL, Linux, Nginx and Varnish for
+  Al Bawaba/SyndiGate without a current deployment date. A 2026 company
+  job advertisement explicitly mentions Pipedrive CRM as a workflow tool.
+  SyndiGate's official site offers Amazon Kinesis as a delivery option,
+  not proof of an internal cloud stack. Uncorroborated WordPress, Git and
+  jQuery tags and the devops category were removed. Company verification
+  remains partial even though the published office address is corroborated.
 evidence:
   - type: "official_website"
     url: "https://www.albawaba.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://en.wikipedia.org/wiki/Al_Bawaba"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/346254/Al_Bawaba_Middle_East"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.tokenpost.com/news/business/3454"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.975839,35.897238"
-    label: "Google Maps location"
+    label: "Official Al Bawaba publisher website"
+  - type: "official_website"
+    url: "https://www.albawaba.com/abstatic/about-us"
+    label: "Official company history, activities, SyndiGate ownership and office addresses"
+  - type: "official_website"
+    url: "https://www.albawaba.com/abstatic/contact-us"
+    label: "Official Amman headquarters address and general contact email"
+  - type: "official_website"
+    url: "https://www.albawaba.com/business/zelenskyy-requests-extra-79-billion-eu-1639199"
+    label: "Al Bawaba bylined publication dated October 16, 2026"
   - type: "linkedin_company"
-    url: "https://jo.linkedin.com/company/albawaba-business"
-    label: "Current Al Bawaba Business profile with Plenary Mall address"
+    url: "https://www.linkedin.com/company/al-bawaba-news"
+    label: "Al Bawaba News company profile, founded 2000 and reported 11-50 employees"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/albawaba-business"
+    label: "Al Bawaba Business profile corroborating 74 Abdel Hamid Sharaf Street"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/syndigate-al-bawaba-middle-east-limited-/"
+    label: "SyndiGate company profile corroborating The Plenary fourth-floor address"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/junior-content-licensing-coordinator-at-al-bawaba-news-4437249988"
+    label: "2026 entry-level content licensing job, closed at review; mentions Pipedrive"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/multi-digital-content-writer-and-creator-at-al-bawaba-news-4468576818"
+    label: "2026 Al Bawaba News content creator role, not marked closed in retrieved listing"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/content-operations-assistant-at-syndigate-media-inc-4355223531"
+    label: "2026 SyndiGate entry-level operations role, closed at review"
+  - type: "vendor_case_study"
+    url: "https://www.vardot.com/insights/case-studies/al-bawaba-drupal-relaunch-lifted-reader-engagement-300-across-region"
+    label: "Vardot case study documents historical Drupal 8 rebuild"
+  - type: "employee_profile"
+    url: "https://people.bayt.com/khaled-abbad/"
+    label: "SyndiGate development manager self-reports PHP, Symfony, MySQL, Linux, Nginx and Varnish"
+  - type: "linkedin_employee"
+    url: "https://www.linkedin.com/posts/nadiena_hiring-english-multimedia-e-journalist-activity-7357688917086674944-SlsY"
+    label: "Historical 2025 journalist recruitment post with jobs@corp.albawaba.com"
+  - type: "official_website"
+    url: "https://www.syndigate.info/licensed-content-offering/"
+    label: "SyndiGate content licensing formats and external delivery options"
