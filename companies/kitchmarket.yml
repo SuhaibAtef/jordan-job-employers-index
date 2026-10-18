@@ -1,41 +1,52 @@
 name: "KitchMarket"
-industry: "FoodTech / cloud kitchen marketplace"
+description: "Former Jordan-founded cloud-kitchen marketplace connecting food entrepreneurs with available commercial kitchens and offering food-business consultancy and data analytics. The company states it pivoted and rebranded as Kitch & Co in May 2024; KitchMarket is not independently confirmed as a separate active employer."
+industry: "FoodTech / Cloud Kitchens (legacy Kitch & Co brand)"
 website: "https://kitch-market.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/kitchandco"
 hr_email: null
-size: "1-10"
+size: "2-10"
 location:
   area: "Amman"
   address: null
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "devops"
   - "ecommerce"
 technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Jordan-founded cloud-kitchen marketplace plus food-intelligence and data-analytics platform for food entrepreneurs; Flat6Labs Amman Cycle 3 and ShamalStart/iPARK incubated; co-founders Hani Murad and Samer Makki, CEO Nadine Abbas; site live with Amman kitchens listed. Note: PitchBook (crawled Sep 2026) lists the company as out of business / formerly accelerator-backed. | stack research 2026-10-06: 4 searches; PitchBook (May 2026) lists KitchMarket as out of business, 1-10 staff; no employee profiles or dev postings found"
+notes: "Kitch & Co's official history states that KitchMarket was founded in September 2021 and became Kitch & Co in May 2024 following a pivot from kitchen-space marketplace to managed cloud-kitchen operations. This record and companies/kitch-and-co.yml refer to the same business lineage; do not count them as independently verified current employers. The legacy KitchMarket website remains accessible but is not proof of continued separate operations. LinkedIn (now Kitch & Co) reports 2-10 employees and Dubai headquarters; the size pertains to the successor company, not a separately operating KitchMarket workforce. Historic iPARK/ShamalStart accelerator participation and an Amman kitchen partnership support a Jordan connection, not a current physical office. The previous coordinate pair (31.9539, 35.9106) and map pin do not identify a verified business location. No verified HR email, dedicated careers page, current vacancy, or internal technology stack was found as of 2026-10-18. The former marketplace advertised food-intelligence analytics; this is a product feature, not evidence of an internal engineering stack. Third-party 'out of business' classifications may reflect the superseded brand rather than closure of its successor."
 evidence:
   - type: "official_website"
     url: "https://kitch-market.com/"
-    label: "Official website"
+    label: "Legacy KitchMarket site and marketplace services"
+  - type: "official_website"
+    url: "https://kitch-market.com/about/"
+    label: "Legacy company history, Jordan and UAE operations"
+  - type: "official_website"
+    url: "https://kitchandco.me/about-us/"
+    label: "Successor official history: 2021 founding and May 2024 rebrand"
+  - type: "official_website"
+    url: "https://kitchandco.me/our-services/"
+    label: "Current successor business model and services"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/kitchandco"
+    label: "Successor LinkedIn profile, 2-10 employees; HQ data may be outdated"
   - type: "other"
     url: "https://www.ipark.jo/our-startups/kitchmarket/"
-    label: "Research source"
+    label: "iPARK historic incubator profile"
   - type: "other"
     url: "https://www.shamalstart.com/blog/startups/kitchmarket/"
-    label: "Research source"
+    label: "ShamalStart historic startup profile"
   - type: "other"
     url: "https://pitchbook.com/profiles/company/522380-26"
-    label: "Research source"
+    label: "Third-party historical company status; not evidence of successor closure"
   - type: "other"
     url: "https://theorg.com/org/kitchmarket"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Third-party legacy organizational profile"
+verification_status: "partial"
+last_verified: "2026-10-18"
