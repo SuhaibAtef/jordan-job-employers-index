@@ -1,17 +1,20 @@
 name: "Kaleela"
+description: "Kaleela is an Amman-based Arabic-language learning app operated under Reach Publishers, offering Modern Standard Arabic and regional dialect courses, pronunciation practice, multimedia lessons, and interactive exercises for learners internationally. The app is available on Android and iOS and showed current product activity in 2026."
+verification_status: "partial"
+last_verified: "2026-10-18"
 industry: "EdTech / Language Learning"
-website: "https://kaleela.com"
+website: "https://kaleela.com/en/"
 careers_url: null
-linkedin: null
-hr_email: "info@kaleela.com"
-size: null
+linkedin: "https://www.linkedin.com/company/kaleela/"
+hr_email: null
+size: "11-50"
 location:
-  area: "Amman"
-  address: "14 King Faisal Bin Abdelaziz St, Amman 11831"
-  status: "approximate"
-  latitude: 31.9624
-  longitude: 35.87115
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9624,35.87115"
+  area: "Umm Uthayna, Amman"
+  address: "14 King Faisal Bin Abdelaziz St, Umm Uthayna, Amman 11831, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=14%20King%20Faisal%20Bin%20Abdelaziz%20St%20Amman%20Jordan"
 categories:
   - "edtech"
   - "mobile"
@@ -21,23 +24,26 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman Arabic-learning app (iOS/Android, MSA + dialects) by Reach Publishers; markets to parents teaching children Arabic. Pin upgraded from city-center fallback to developer address published on Google Play listing. Support email info@kaleela.com published on the Play Store listing. No public hiring found."
+notes: "Reviewed 2026-10-18. Official website and September 9, 2026 Google Play update confirm an active Arabic-learning product; the company's LinkedIn page shows recent product posts. LinkedIn reports 11-50 employees, a self-reported company-wide range rather than a verified Jordan headcount. Kaleela's official privacy policy and Google Play developer disclosure both give 14 King Faisal Bin Abdelaziz St, Umm Uthayna, Amman for Reach Publishers; this verifies the published registered/developer address, not a separately confirmed staffed Kaleela office. Removed earlier coordinates because the exact office point is not independently verified. No dedicated careers page, current Kaleela-specific job opening, internship, or HR recruitment mailbox was confirmed. info@kaleela.com is a customer-support/general contact, not a verified HR email. Android and iOS are published product platforms; internal frameworks, infrastructure, and development stack remain unknown. The older Jordan ICT profile reports 10 staff in 2023, which should not be treated as current."
 evidence:
   - type: "official_website"
-    url: "https://kaleela.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://kaleela.com/pt/arabic-learning-app-how-your-child-can-benefit-from-one"
-    label: "Research source"
-  - type: "other"
-    url: "https://play.google.com/store/apps/details?id=com.reachpublishers.kaleela&hl=en_ZA"
-    label: "Research source"
+    url: "https://kaleela.com/en/"
+    label: "Official product website — Arabic courses, dialects, Android and iOS availability, and general contact"
+  - type: "official_website"
+    url: "https://kaleela.com/en/privacy-policy/"
+    label: "Official privacy policy — Reach Publishers and published Umm Uthayna registered address"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/kaleela/"
+    label: "Company LinkedIn — Amman headquarters, 11-50 self-reported employees and recent product activity"
   - type: "other"
     url: "https://play.google.com/store/apps/details?id=com.reachpublishers.kaleela"
-    label: "Research source"
+    label: "Google Play developer listing — Reach Publishers, address, Android product and September 9, 2026 update"
   - type: "other"
-    url: "https://jordanict.com/listings?category=43"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9624,35.87115"
-    label: "Google Maps location"
+    url: "https://apps.apple.com/sa/app/kaleela-arabic-learning-app/id1479694656"
+    label: "Apple App Store — iOS product, Reach Publishers provider and published product features"
+  - type: "company_listing"
+    url: "https://jordanict.com/2023/node/994"
+    label: "Jordan ICT 2023 company profile — historical team size and Arabic-learning services"
+  - type: "other"
+    url: "https://kaleela.com/pt/arabic-learning-app-how-your-child-can-benefit-from-one"
+    label: "Earlier official Kaleela article — historical learning-product context"
