@@ -1,45 +1,76 @@
 name: "KAIZEN365 Technology"
-industry: "IT Managed Services / Cloud Consulting"
-website: "https://www.kaizen365-tech.com"
+description: "Amman-based IT managed-services and systems-integration provider founded in 2017. The company supports business networks, cloud infrastructure, Microsoft workplace deployments, cybersecurity, backup and disaster recovery, and outsourced IT helpdesk operations."
+industry: "IT Managed Services / Cloud and Cybersecurity Consulting"
+website: "https://www.kaizen365-tech.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/kaizen365-technology/"
 hr_email: null
-size: "10-49"
+size: "11-50"
 location:
-  area: "Amman"
-  address: "Khelda, Tla Al Ali, Building #219, Office #46, Amman 11947, Jordan"
-  status: "provided_unverified"
-  latitude: 31.99725
-  longitude: 35.84949
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99725,35.84949"
+  area: "Tla' Al-Ali, Amman"
+  address: "Amon Oasis Complex, 2nd Floor, Office 201, Wasfi Al-Tal Street, Tla' Al-Ali, Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "consulting"
-  - "devops"
   - "security"
   - "support"
 technologies:
-  - "Veeam"
+  - "Microsoft 365"
+  - "Microsoft Intune"
+  - "Microsoft Defender"
+  - "Windows Server"
+  - "Active Directory"
+  - "Hyper-V"
+  - "Cisco networking"
+  - "Acronis"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false
   signals:
-    - "Internship"
-notes: "Amman-based managed IT services provider (est. 2017, 10-49 people) offering cloud consulting, cybersecurity, and managed services; no internship evidence found."
+    - "2026 Inside Sales Representative advertisement in Amman; application status may change"
+    - "Historical technical-support engineering recruitment in Amman; referenced vacancy is closed"
+notes: >-
+  Official websites and the company LinkedIn profile support current operations and
+  services; LinkedIn reports 11-50 employees company-wide (self-reported), while
+  Clutch reports 10-49. The official contact page identifies Amon Oasis Complex,
+  Wasfi Al-Tal Street, second floor, office 201, corroborated at building level by
+  LinkedIn. The older Khelda/Building 219 address in Clutch conflicts with current
+  first-party information. Former coordinates pointed to an unverified location
+  and were removed; no office-level coordinates were established. The public
+  Info@KaiZen365-tech.com mailbox is a general contact, not verified HR.
+  No dedicated careers portal or internship was confirmed. Technologies represent
+  advertised client-facing solutions, partnerships, or historic job requirements,
+  not an audited internal development stack; previously listed Veeam was not
+  corroborated. Company verification remains partial despite verified address.
 evidence:
   - type: "official_website"
-    url: "https://www.kaizen365-tech.com"
-    label: "Official website"
+    url: "https://www.kaizen365-tech.com/"
+    label: "Official site: managed IT services, networks and cloud infrastructure"
+  - type: "official_website"
+    url: "https://kaizen365.me/contact-us/"
+    label: "Official contact: Amon Oasis office address and general contact email"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/kaizen365-technology/"
+    label: "Company profile: 2017 founding, 11-50 staff, office and 2026 activity"
+  - type: "official_website"
+    url: "https://kaizen365.me/it-services-solutions/microsoft-solutions-modern-workplace/"
+    label: "Official Microsoft 365 and enterprise workplace capabilities"
+  - type: "official_website"
+    url: "https://www.kaizen365-tech.com/solutions.html"
+    label: "Official security, networking and technology partner capabilities"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/inside-sales-representative-at-kaizen365-technology-4473484466"
+    label: "Inside Sales Representative vacancy in Amman, seen in 2026"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/technical-support-engineer-at-kaizen365-technology-4350973593"
+    label: "Closed technical-support job with Windows Server, Hyper-V and network skills"
   - type: "other"
-    url: "https://www.startupranking.com/startup/kaizen365-technology"
-    label: "Research source"
-  - type: "other"
-    url: "https://themanifest.com/company/kaizen365-technology"
-    label: "Research source"
-  - type: "other"
-    url: "https://Clutch.co/profile/kaizen365-technology"
-    label: "Research source"
-  - type: "other"
-    url: "https://intaj.net/user/2740/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.99725,35.84949"
-    label: "Google Maps location"
+    url: "https://clutch.co/profile/kaizen365-technology"
+    label: "Third-party size and conflicting older Khelda address"
+  - type: "official_website"
+    url: "https://kaizen365.me/"
+    label: "Current 2026 services website"
+verification_status: "partial"
+last_verified: "2026-10-18"
