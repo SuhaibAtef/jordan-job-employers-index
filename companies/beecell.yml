@@ -1,20 +1,20 @@
 name: "Beecell"
-description: "Beecell is a digital-media and telecom-services company that produces and distributes mobile content, operates direct carrier billing and operator connectivity, and builds mobile applications, content platforms, CMS and service-delivery systems across multiple markets."
+description: "Beecell is a digital-media, mobile-content and telecom-services group founded in 2004. It produces and distributes digital content, provides direct carrier billing and mobile-operator connectivity, and offers mobile applications, service-delivery platforms, e-commerce and digital marketing solutions. Its official news confirms activity in Jordan during 2026."
 verification_status: "partial"
-last_verified: "2026-10-07"
-industry: "Telecommunications / Digital Media & VAS"
-website: "https://beecell.com/"
-careers_url: "https://beecell.com/"
+last_verified: "2026-10-17"
+industry: "Digital Media / Telecommunications Value-Added Services"
+website: "https://www.beecell.com/"
+careers_url: "https://www.beecell.com/"
 linkedin: "https://www.linkedin.com/company/beecell"
-hr_email: null
+hr_email: "hr@beecell.com"
 size: "51-200"
 location:
   area: "Amman"
-  address: "Al-Anis 2 Street 28, Amman, Jordan"
+  address: "Al-Anis 2 Street 28, Umm Al Summaq, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.969742
-  longitude: 35.856984
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.969742,35.856984"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Al-Anis+Street+Amman+Jordan"
 categories:
   - "data"
   - "devops"
@@ -26,29 +26,68 @@ technologies:
   - "Java"
   - "Linux"
   - "Oracle Database"
+  - "MySQL"
+  - "MongoDB"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman digital-media/VAS group (20 years): content production & aggregation with direct operator connectivity in 20 countries (270M subscribers), corporate solutions; careers section on homepage invites CVs (email shown as image only). stack verified 2026-10-05: 5+ employee profiles (Java Developers Mohammad Younis & Mohammed Alshalabi, Oracle & DB Admin, DevOps/Linux Engineer, Android app com.beecellapps.so2alak) show Java, Oracle Database, Linux, DevOps, Android."
+  early_career_signal: true
+  signals:
+    - "Historical 2025 Beecell internship announcement for accounting, marketing, commercial and technical departments invited students/recent graduates to apply via hr@beecell.com; current availability not confirmed."
+    - "Historical Amman Junior Sales Officer vacancy accepted fresh graduates or 0-2 years' experience; LinkedIn indicates applications closed."
+    - "Historical Amman Java Developer vacancy specified Java, MySQL and MongoDB; LinkedIn indicates applications closed."
+notes: >-
+  Reviewed 2026-10-17. The official website describes content distribution, direct carrier billing,
+  digital marketing, mobile applications and corporate services, and reported an Amman employee
+  volunteer event in March 2026 and participation in Telemedia Marbella in October 2026.
+  Official contact information confirms an Amman P.O. box (840666, Amman 11181) and
+  telephone +962 6 5861730, but not a street address. Al-Anis 2 Street 28 is from a
+  third-party business directory and is not independently verified; previous precise
+  coordinates were removed. LinkedIn lists Dubai as global headquarters and 51-200
+  employees company-wide, not a verified Jordan headcount; an ICT directory reported
+  70 staff in 2022 (historical only). The official homepage contains a careers/CV section
+  with the address displayed as an image. hr@beecell.com is supported by Beecell's
+  2025 internship announcement reproduced on LinkedIn, but current inbox activity is
+  not verified. The Java Developer listing documents Java, MySQL and MongoDB as job
+  requirements; Android is an official product-development capability. Linux and Oracle
+  Database are retained from historical employee-profile research and should not be
+  interpreted as a verified current internal stack. No currently open vacancy was
+  confirmed. Full-company verification remains incomplete.
 evidence:
   - type: "official_website"
-    url: "https://beecell.com/"
-    label: "Official website"
+    url: "https://www.beecell.com/"
+    label: "Official homepage, careers/CV section and October 2026 news"
+  - type: "official_website"
+    url: "https://www.beecell.com/index.php?r=viewNew/productsServices"
+    label: "Official products and services, including Android development and carrier billing"
+  - type: "official_website"
+    url: "https://www.beecell.com/index.php?r=viewNew/contactUs"
+    label: "Official Amman P.O. box and telephone; no street address"
+  - type: "official_website"
+    url: "https://www.beecell.com/index.php?r=viewNew/news"
+    label: "Official March 2026 Amman activity and October 2026 Telemedia participation"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/beecell"
+    label: "LinkedIn company-wide 51-200 size, Dubai headquarters and 2026 activity"
   - type: "other"
-    url: "https://jordanict.com/2017/company-category/mobile-content-services-apps"
-    label: "Research source"
+    url: "https://www.linkedin.com/posts/whos-who-in-jordans-information-communication-technology-ict_internship-opportunities-at-beecell-in-several-activity-7358869107653414913-WgRn"
+    label: "Beecell 2025 internship announcement and HR email reproduced by Jordan ICT"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/java-developer-at-beecell-4248896035"
+    label: "Closed Amman Java Developer vacancy with Java, MySQL and MongoDB requirements"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/sales-officer-at-beecell-4328710036"
+    label: "Closed Amman Junior Sales Officer vacancy accepting fresh graduates"
+  - type: "other"
+    url: "https://jordanict.com/2022/company-profile/beecell"
+    label: "Historical 2022 ICT company profile and Jordan contact information"
+  - type: "other"
+    url: "https://www.bizmideast.com/JO/beecell_2r-06-586-1730"
+    label: "Third-party Al-Anis Street address; unverified by official site"
   - type: "other"
     url: "https://www.arounddeal.com/p/alaa-hijjawi/w0puwdiqjr"
-    label: "Research source"
+    label: "Historical employee-profile research; not proof of current stack"
   - type: "other"
     url: "https://www.twine.net/user974787"
-    label: "Research source"
+    label: "Historical employee-profile research; not proof of current stack"
   - type: "other"
     url: "https://wuzzuf.net/me/Lana-Manaseer-abc56a9eee"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.969742,35.856984"
-    label: "Google Maps location"
-  - type: "linkedin_company"
-    url: "https://jo.linkedin.com/company/beecell"
-    label: "Current size, employee roster, DCB focus and 2026 Jordan activity"
+    label: "Historical employee-profile research; not proof of current stack"
