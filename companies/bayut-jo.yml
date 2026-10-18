@@ -1,20 +1,20 @@
 name: "Bayut.jo"
-description: "Bayut.jo is the Jordan real-estate portal within Dubizzle Group’s regional classifieds ecosystem. It connects buyers, renters and investors with property listings and agency inventory, while the group’s engineering arm develops large-scale web, mobile, data and AI systems for Bayut and other classifieds brands."
+description: "Bayut.jo is the Jordan property-listings portal of Dubizzle Group, connecting buyers and renters with property agents and advertisers. The group's Amman operation also supports regional Bayut and dubizzle businesses through sales, marketing, content, design and operations functions; this does not establish a Jordan-based software engineering team."
 verification_status: "partial"
-last_verified: "2026-10-07"
+last_verified: "2026-10-17"
 industry: "PropTech / Real Estate Portal"
-website: "https://bayut.jo"
-careers_url: null
+website: "https://www.bayut.jo"
+careers_url: "https://apply.workable.com/bayutdubizzle/"
 linkedin: "https://www.linkedin.com/company/dubizzle-group"
-hr_email: null
-size: "1001-5000"
+hr_email: "bayutdubizzle@jobs.workablemail.com"
+size: "49 Jordan-based employees (reported October 2025); parent group reports 2,600+ worldwide"
 location:
-  area: "Amman"
-  address: null
+  area: "Abdoun, Amman"
+  address: "Princess Basmah Street, Abdoun, Amman, Jordan (building number not confirmed)"
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "data"
   - "proptech"
@@ -29,21 +29,57 @@ technologies:
   - "React"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Jordan real estate marketing portal, part of Dubizzle Group; connects agents, tenants, buyers and investors with Jordan listings; the group actively hires sales roles in Amman. stack verified 2026-10-04: Bayut|dubizzle group job postings show Python/Django, React, JavaScript, MySQL, PostgreSQL, Git (Jordan portal operated by Dubizzle Group)"
+  signals:
+    - "Historical Amman sales recruitment: Sales Manager (February 2025) and Account Manager (October 2025); these are not confirmed open in October 2026."
+    - "Group-wide careers and application portal exists; no current Jordan-specific opening was confirmed in this review."
+notes: >-
+  Reviewed 2026-10-17. Dubizzle Group's official brand directory explicitly links
+  Bayut Jordan to bayut.jo. Its official website reports over 2,600 employees
+  worldwide, whereas LinkedIn shows a different global employee-size band;
+  neither is a Jordan headcount. Great Place to Work Jordan's October 2025
+  employer profile reported 49 Jordan-based employees and described the
+  Abdoun, Amman back-office operation as supporting multiple Gulf-region
+  Bayut/dubizzle markets. The Bayut|dubizzle application portal lists a
+  Jordan office on Princess Basmah Street but provides no building number;
+  the previous city-center coordinates were generic, not office-specific,
+  and have been removed. The Workable email is a group-level resume intake,
+  not a verified Jordan HR contact. Historical 2025 Amman sales postings
+  support hiring activity but not a currently open position. Existing
+  Python/Django/React/JavaScript/database technologies were previously
+  attributed to group engineering postings; these are not verified as
+  Bayut Jordan's local internal stack. No current Jordan engineering
+  vacancy or early-career programme was substantiated.
 evidence:
   - type: "official_website"
-    url: "https://bayut.jo"
-    label: "Official website"
+    url: "https://www.bayut.jo"
+    label: "Jordan property portal (direct access restricted during review)"
+  - type: "official_website"
+    url: "https://www.dubizzlegroup.com/"
+    label: "Parent company brand directory explicitly links Bayut Jordan; global scale and technology description (accessed 2026-10-17)"
+  - type: "careers"
+    url: "https://www.dubizzlegroup.com/careers/"
+    label: "Dubizzle Group careers; group-wide opportunities, no confirmed Jordan vacancy (2026-10-17)"
+  - type: "careers"
+    url: "https://apply.workable.com/bayutdubizzle/"
+    label: "Bayut|dubizzle application portal; Jordan office on Princess Basmah Street and general resume intake"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/dubizzle-group"
+    label: "Parent-company LinkedIn profile, not a Jordan-specific employee count"
   - type: "other"
-    url: "https://www.bayut.jo/en/about/aboutus.html"
-    label: "Research source"
+    url: "https://greatplacetowork.jo/company/bayut-dubizzle-2/"
+    label: "October 2025 employer profile: 49 Jordan-based employees, Abdoun back-office functions"
+  - type: "other"
+    url: "https://help.bayut.jo/hc/ar"
+    label: "Bayut Jordan support portal and Profolio agency management services"
+  - type: "other"
+    url: "https://apps.apple.com/jo/app/bayut-jordan/id6740282818"
+    label: "Jordan iOS app; developer and 2026 product release history"
   - type: "job_post"
-    url: "https://www.gulftalent.com/jordan/jobs/sales-account-manager-530014"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://swooped.co/job-postings/sales-manager-amman-bayut-dubizzle-7711d"
+    label: "Historical February 2025 Amman sales manager posting"
+  - type: "job_post"
+    url: "https://swooped.co/job-postings/account-manager-amman-bayut-dubizzle-9b05d"
+    label: "Historical October 2025 Amman account manager posting"
   - type: "linkedin_employee"
     url: "https://www.linkedin.com/company/dubizzlelabs"
-    label: "Current Dubizzle Labs engineering organization supporting Bayut products"
+    label: "Dubizzle Labs engineering arm; does not establish a Jordan-based engineering team"
