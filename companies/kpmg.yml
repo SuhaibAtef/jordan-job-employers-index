@@ -1,50 +1,83 @@
 name: "KPMG"
-industry: "Professional services / Advisory"
-website: "http://kpmg.jo"
-careers_url: null
-linkedin: null
+description: >-
+  KPMG in Jordan operates as Kawasmy and Partners Company and its local
+  Jordanian partnership within the KPMG network. It provides audit and
+  assurance, tax, advisory, risk and IT advisory services to organizations
+  in Jordan and the region.
+verification_status: "partial"
+last_verified: "2026-10-18"
+industry: "Professional Services / Audit / Tax / Advisory"
+website: "https://kpmg.com/jo/en.html"
+careers_url: "https://kpmg.com/jo/en/careers.html"
+linkedin: "https://www.linkedin.com/company/kpmg-middle-east"
 hr_email: null
-size: "400 (Jordan, expanding to 1,000)"
+size: "Approximately 400 in Jordan (KPMG announcement, February 2026)"
 location:
-  area: "Amman"
+  area: "Shmeisani, Amman"
   address: "Building 28, Al-Shareef Abdul Hameed Sharaf St, Shmeisani, Amman 11193, Jordan"
   status: "provided_unverified"
-  latitude: 31.970045
-  longitude: 35.896542
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.970045,35.896542"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=KPMG%20Building%2028%20Al%20Shareef%20Abdul%20Hameed%20Sharaf%20St%20Amman"
 categories:
   - "consulting"
   - "data"
   - "security"
-technologies:
-  - "automation (KPMG PREVA)"
-  - "cybersecurity"
-  - "data analytics"
-  - "IT advisory"
+technologies: []
 job_seeker:
   early_career_signal: true
   signals:
-    - "Graduate"
-notes: "KPMG Jordan (member firm of KPMG Middle East since 2024); signed a 2026 lease for an enlarged Amman HQ, growing from 400 to 1,000 staff with stated youth opportunities; graduate programme covers Consulting Technology & Innovation and Technology Risk/Cybersecurity/Data Analytics; pin corrected to the KPMG business listing at Building 28.\nstack research 2026-10-04: 4 searches (career boards, getprog.ai, KPMG careers); no Jordan-specific engineer/dev profiles or tech job postings found — only global/regional roles and the grad-programme service lines; tags unchanged."
+    - "Official KPMG Jordan careers page links to a Middle East graduate development program; eligibility and current intake must be checked."
+    - "KPMG recruitment portal lists an Amman Infrastructure Advisory Consultant position dated 2026-10-03 (mid-senior level); current application status not independently confirmed."
+notes: >-
+  Reviewed 2026-10-18. Official KPMG Jordan pages identify the legal firm as
+  Kawasmy and Partners Company and confirm audit, tax, advisory, financial,
+  risk and IT advisory services. KPMG announced in February 2026 that its
+  Jordan workforce was about 400, with an aspiration to reach 1,000; the
+  latter is a target, not current headcount. KPMG Middle East's LinkedIn
+  profile lists an Amman location on Al-Shareef Abdul Hameed Sharaf Street,
+  while third-party business directories identify Building 28. The 2026
+  lease announcement describes a new Amman headquarters but does not
+  establish whether the new office is occupied or whether Building 28 is
+  still the current address. Historical coordinates have therefore been
+  removed and the street address is not marked verified. No current public
+  HR recruitment email was established. The official Jordan careers page
+  promotes graduate opportunities; an older third-party graduate listing
+  should not be interpreted as an open intake. A Jordan graduate job listing
+  on LinkedIn was marked no longer accepting applications. KPMG PREVA,
+  cybersecurity, data analytics and IT advisory are products or service
+  capabilities, not evidence of the internal software engineering stack;
+  earlier technology tags were removed from technologies rather than
+  misrepresented as confirmed programming tools. The regional LinkedIn
+  headcount is not the Jordan headcount.
 evidence:
   - type: "official_website"
-    url: "http://kpmg.jo"
-    label: "Official website"
-  - type: "other"
-    url: "https://kpmg.com/jo/en/insights/2026/02/kpmg-signs-new-lease-agreement-for-enlarged-amman-office-to-support-regional-growth.html"
-    label: "Research source"
-  - type: "other"
+    url: "https://kpmg.com/jo/en.html"
+    label: "Official KPMG Jordan website and service lines"
+  - type: "official_website"
     url: "https://kpmg.com/jo/en/about/overview.html"
-    label: "Research source"
+    label: "Official firm identity and audit, tax, advisory services"
+  - type: "careers_page"
+    url: "https://kpmg.com/jo/en/careers.html"
+    label: "Official Jordan careers and graduate program link"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/kpmg-middle-east"
+    label: "Regional company LinkedIn profile with Amman office listing"
+  - type: "official_website"
+    url: "https://kpmg.com/jo/en/insights/2026/02/kpmg-signs-new-lease-agreement-for-enlarged-amman-office-to-support-regional-growth.html"
+    label: "February 2026 Jordan headcount, planned growth and new headquarters lease"
+  - type: "job_post"
+    url: "https://slccareers.kpmg.com/job/Amman-Consultant/857205523/"
+    label: "Amman Infrastructure Advisory Consultant posting dated October 3, 2026"
   - type: "other"
-    url: "https://home.kpmg/jo/en/home/about/offices.html"
-    label: "Research source"
-  - type: "other"
-    url: "https://opportunitiesfeed.com/2026/09/26/graduate-programme-6/"
-    label: "Research source"
+    url: "https://www.albawaba.com/kpmg-383646"
+    label: "Business directory documenting historical Building 28 address"
   - type: "other"
     url: "https://www.internationalaccountingbulletin.com/news/kpmg-deepens-preva-footprint/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.970045,35.896542"
-    label: "Google Maps location"
+    label: "KPMG PREVA service context, not internal technology stack"
+  - type: "other"
+    url: "https://opportunitiesfeed.com/2026/09/26/graduate-programme-6/"
+    label: "Third-party graduate listing; current application status not established"
+  - type: "other"
+    url: "https://jo.linkedin.com/jobs/view/graduate-development-program-advisory-audit-and-tax-jordan-at-kpmg-middle-east-4438207635"
+    label: "Jordan graduate program listing; applications marked closed at review"
