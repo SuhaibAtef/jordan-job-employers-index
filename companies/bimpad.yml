@@ -1,40 +1,69 @@
 name: "BIMPAD"
-description: "BIMPAD is an Amman BIM and digital-construction engineering firm providing BIM modeling, clash detection, coordination, shop drawings, scan-to-BIM, digital twins and handover-data services for building projects in Jordan and the Gulf."
+description: >-
+  BIMPAD is an Amman-based engineering firm specializing in building information
+  modeling (BIM), coordinated architectural, structural and MEP models, shop
+  drawings, BIM management, scan-to-BIM and digital-twin services for building
+  and infrastructure projects in Jordan and other markets.
 verification_status: "partial"
-last_verified: "2026-10-07"
-industry: "Construction Tech / BIM"
+last_verified: "2026-10-17"
+industry: "Construction Technology / BIM Engineering"
 website: "https://bimpad-eng.com"
-careers_url: null
+careers_url: "https://bimpad-eng.com/careers"
 linkedin: null
-hr_email: "team@bimpad-eng.com"
+hr_email: null
 size: null
 location:
-  status: "approximate"
-  address: "Amman, Jordan"
   area: "Amman"
   address: "Amman, Jordan"
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "data"
   - "design"
-  - "games"
-  - "iot"
 technologies:
   - "AR/VR"
+  - "AutoCAD"
+  - "Autodesk Revit"
   - "BIM"
+  - "Dynamo"
+  - "IFC/BCF"
   - "LiDAR"
-  - "MongoDB"
+  - "Navisworks"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman-based BIM engineering firm: BIM model production, clash detection, shop drawings, scan-to-BIM/digital twins and COBie handover; serves Jordan, KSA and the GCC."
+  early_career_signal: true
+  signals:
+    - "Official careers page accepts applications year-round for BIM and engineering roles; not proof of a specific current vacancy."
+    - "Official careers page lists internship/training and describes mentorship for junior staff."
+notes: >-
+  Reviewed 2026-10-17. BIMPAD's official English and Arabic websites confirm
+  its Amman base, BIM engineering services, and general contact
+  team@bimpad-eng.com (+962 79 101 7381); this is not identified as a dedicated
+  HR mailbox. The official careers page accepts speculative applications via
+  its form and lists BIM modelers, coordinators, architects, engineers,
+  automation specialists and internship/training, but no dated open vacancy
+  was independently confirmed. A historical Amman BIM Architect LinkedIn
+  advertisement is closed. Official technology references include Revit,
+  Navisworks, Dynamo, AutoCAD, IFC/BCF, LiDAR/point-cloud and VR workflows;
+  previously listed MongoDB lacks support and was removed. No reliable company
+  LinkedIn page, current headcount, street address or exact office coordinates
+  could be established. The city-level location is company-provided, not an
+  independently verified map pin. Partial company verification reflects the
+  corroborated official service and recruitment footprint with these gaps.
 evidence:
   - type: "official_website"
-    url: "https://bimpad-eng.com"
-    label: "Official website"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://bimpad-eng.com/"
+    label: "Official BIMPAD site — Amman contact, BIM services and engineering tools (checked 2026-10-17)"
+  - type: "careers_page"
+    url: "https://bimpad-eng.com/careers"
+    label: "Official careers page — year-round applications, internship/training and roles (checked 2026-10-17)"
+  - type: "official_website"
+    url: "https://bimpad-eng.com/ar-contracting"
+    label: "Official Arabic contracting page — Amman engineering activity and general contact"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/bim-architect-at-bimpad-engineering-and-digital-transformation-4280613549"
+    label: "Historical full-time BIM Architect job in Amman; applications closed"
+  - type: "linkedin_employee"
+    url: "https://sa.linkedin.com/in/sadam-a-01828888"
+    label: "Self-reported BIMPAD engineering affiliation; not company-wide headcount evidence"
