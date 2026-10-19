@@ -1,33 +1,63 @@
 name: "Lion Guard LLC"
-industry: "IT infrastructure & physical security systems"
-website: "https://lionguard.net"
+description: "Amman-based Jordanian integrator of low-current security, fire-safety, access-control, surveillance, smart-building automation, and network infrastructure systems, founded in 2021."
+industry: "Electronic security, low-current systems & IT infrastructure integration"
+website: "https://lionguard.net/"
 careers_url: null
 linkedin: null
-hr_email: "Info@lionguard.net"
+hr_email: null
 size: null
 location:
   area: "Amman"
-  address: "Wasfi Al Tall Street, West Amman, Jordan"
-  status: "approximate"
-  latitude: 31.99725
-  longitude: 35.84949
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99725,35.84949"
+  address: "Wasfi Al Tal Street, Amman, Jordan"
+  status: "provided_unverified"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Wasfi+Al+Tal+Street+Amman+Jordan"
 categories:
   - "iot"
   - "security"
 technologies:
-  - "IoT"
+  - "Hikvision"
+  - "Dahua"
+  - "Honeywell"
+  - "CCTV/IP cameras"
+  - "RFID access control"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "100% Jordanian IT infrastructure and low-current-systems specialist (est. 2021) delivering security, automation and connectivity projects for clients including UNRWA, Jordan Atomic Energy Commission and Jordan Kuwait Bank; partnerships with Hikvision, Dahua and Honeywell."
+notes: >-
+  Reviewed 2026-10-19. Official company pages corroborate active public-facing
+  operations in Amman, founding in 2021, and offerings in CCTV, access control,
+  fire safety, automation and infrastructure. Listed technologies are vendor
+  products and advertised system capabilities, not an audited internal software
+  stack. The official contact page lists Wasfi Al Tal Street without a building
+  number. A 2021 company-supplied press release and older directory identify
+  Khalda, opposite Midas Furniture, building 246; current occupancy of that
+  specific building and exact coordinates are not confirmed. Removed the
+  previous precise coordinates, which were not supported by an exact official
+  office pin. A 2021 directory lists 1-5 employees, too old to treat as a
+  current workforce estimate. info@lionguard.net and +962 78 6565899 are
+  confirmed general contacts, not a dedicated HR recruitment address. No
+  reliably matching LinkedIn company page, dedicated careers page, current
+  vacancy or internship was found; similarly named foreign firms are unrelated.
+  Customer/project references on the official website are company claims and
+  not independent confirmation of those customer relationships.
 evidence:
   - type: "official_website"
-    url: "https://lionguard.net"
-    label: "Official website"
+    url: "https://lionguard.net/"
+    label: "Official website: services, company history and Amman headquarters (reviewed 2026-10-19)"
+  - type: "official_website"
+    url: "https://lionguard.net/about-lionguard/"
+    label: "Official about page: founded 2021, offerings and product vendors"
+  - type: "official_website"
+    url: "https://lionguard.net/contact-us/"
+    label: "Official contact: Wasfi Al Tal Street, general email and phone"
+  - type: "official_website"
+    url: "https://lionguard.net/service/security-solutions/"
+    label: "Official security solutions: CCTV, RFID, biometrics and alarms"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375243/Lion_Guard_LLC"
+    label: "2021 directory entry: historical Khalda address and outdated size estimate"
   - type: "other"
     url: "https://www.issuewire.com/lion-guard-sets-the-bar-with-its-new-smart-security-services-in-amman-jordan-1711038227178882"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.99725,35.84949"
-    label: "Google Maps location"
+    label: "Company-supplied 2021 press release: historical building 246 address"
+verification_status: "partial"
+last_verified: "2026-10-19"
