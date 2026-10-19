@@ -1,42 +1,51 @@
 name: "LeadVy"
-industry: "Digital Marketing / Web Development"
-website: "https://www.LeadVy.com"
+description: "LeadVy is a digital marketing and web-development agency serving clients from offices in Amman, Dubai and Jeddah. Its published services include website and e-commerce development, custom applications, search engine optimization, paid advertising, branding, and marketing consultancy."
+verification_status: "partial"
+last_verified: "2026-10-19"
+industry: "Digital Marketing / Web and Custom Software Development"
+website: "https://www.leadvy.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/leadvy-marketing/"
 hr_email: null
-size: "10-49"
+size: "11-50 (LinkedIn company-wide estimate; official site claims 50+ across three countries)"
 location:
   area: "Amman"
   address: "Dana Complex, Al-Madinah Al-Munawarah Street, Al-Rabiah, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Dana%20Complex%20Al-Madinah%20Al-Munawarah%20Street%20Al-Rabiah%20Amman%20Jordan"
 categories:
   - "marketing"
   - "web"
+  - "ecommerce"
 technologies:
-  - "Social Media Marketing"
+  - "WordPress"
+  - "Next.js"
+  - "HubSpot"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Started in Jordan (~2008-2014) as a web design agency, now full digital agency with offices in Amman (Dana Complex, Al-Madinah Al-Munawarah St.), Dubai and Jeddah; older directories cite Abu Al Hajj Commercial Complex, Queen Rania St 148. No exact pin found - city fallback retained. No careers page or grad program found."
+notes: "Reviewed 2026-10-19. The active official site and LinkedIn company page confirm digital marketing, web development and operations in Amman, Dubai and Jeddah. The official contact page lists the Amman office at Dana Complex, Al-Madinah Al-Munawarah Street, Al-Rabiah; older independent directories instead list Abu Al Hajj Commercial Complex on Queen Rania Street. The current official address is retained as provided but not independently geocoded; prior coordinates 31.9539,35.9106 were an Amman city-center fallback, not an office pin, and have been removed. LinkedIn lists 11-50 employees company-wide, whereas the official website claims 50+ employees across three countries; Jordan-only headcount is unknown. WordPress, Next.js and HubSpot are publicly advertised services, not an audited internal engineering stack. hello@leadvy.com is a general contact address, not a confirmed recruitment mailbox. No dedicated careers page or current Amman vacancy/internship was confirmed. A historical LinkedIn Business Analyst posting displayed under Amman specified Riyadh as the actual work location and is closed; it is not evidence of current Jordan hiring."
 evidence:
   - type: "official_website"
-    url: "https://www.LeadVy.com"
-    label: "Official website"
+    url: "https://www.leadvy.com/"
+    label: "Current official website: digital marketing, web and e-commerce services, 50+ global staff claim"
+  - type: "official_website"
+    url: "https://www.leadvy.com/contact"
+    label: "Official contact page: Dana Complex Amman office and general contact email"
+  - type: "official_website"
+    url: "https://www.leadvy.com/services"
+    label: "Official services: WordPress, HubSpot, custom development and Next.js"
+  - type: "official_website"
+    url: "https://www.leadvy.com/service/custom-development"
+    label: "Official custom-development page: Next.js and bespoke websites/apps"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/leadvy-marketing/"
+    label: "LinkedIn: 11-50 company-wide staff, 2010 founding claim, Dubai headquarters and Jordan operations"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/business-analyst-at-leadvy-4268335827"
+    label: "Historical closed Business Analyst vacancy; actual work location Riyadh, not Amman"
   - type: "other"
-    url: "https://www.LeadVy.com/contact"
-    label: "Research source"
-  - type: "other"
-    url: "https://Clutch.co/profile/leadvy"
-    label: "Research source"
-  - type: "other"
-    url: "https://techbehemoths.com/company/leadvy"
-    label: "Research source"
-  - type: "other"
-    url: "https://themanifest.com/company/leadvy"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://www.bizmideast.com/JO/leadvy-for-digital-marketing_1i-06-553-8788"
+    label: "Independent older directory: conflicting Queen Rania Street address"
