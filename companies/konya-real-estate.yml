@@ -1,36 +1,44 @@
 name: "Konya Real Estate"
-industry: "PropTech / Real Estate Brokerage"
+description: "Amman-based real estate brokerage, development and property-management consultancy established in October 2015. It markets residential and commercial property for sale and rent through its online listings platform and provides property valuation, market studies, and investment advisory services."
+industry: "Real Estate Brokerage / Property Management"
 website: "https://konyare.com"
 careers_url: null
-linkedin: null
-hr_email: "info@konyare.com"
-size: null
+linkedin: "https://www.linkedin.com/company/konyare"
+hr_email: null
+size: "51-200"
 location:
-  area: "Irbid"
-  address: "Abdoun, Irbid Street, Villa 12, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.9409
-  longitude: 35.89256
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9409,35.89256"
+  area: "Amman"
+  address: "Irbid Street, Villa 12, Abdoun, Amman 11183, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Irbid%20Street%20Villa%2012%20Abdoun%20Amman%20Jordan"
 categories:
   - "proptech"
   - "web"
-technologies:
-  - "WordPress"
+technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman brokerage established Oct 2015 with an online platform of 4,000+ sale/rent listings across Jordan; services include marketing, brokerage, market studies and property management."
+notes: "Reviewed 2026-10-18. Official website and company LinkedIn confirm Amman/Abdoun headquarters, real-estate brokerage, property management and online listings. Official contact page, LinkedIn and independent Jordan directory agree on Irbid Street, Villa 12 in Abdoun, Amman; 'Irbid Street' is a street in Amman, not a company location in Irbid. Office address corroborated, but no reliable exact latitude/longitude was established, so the former coordinates were removed. LinkedIn reports 51-200 employees; this is a self-reported range, not an audited headcount. Official contact email info@konyare.com is general, not a verified HR recruitment address. Current site lists properties updated in 2026. No dedicated careers page or currently open vacancy confirmed. Older LinkedIn job pages (training and creative designer) are closed and display a Taj Real Estate Jordan attribution, so no current early-career hiring signal is asserted. Previous WordPress technology tag could not be independently substantiated as an internal stack and was removed."
 evidence:
   - type: "official_website"
-    url: "https://konyare.com"
-    label: "Official website"
-  - type: "other"
+    url: "https://konyare.com/"
+    label: "Official website: property listings, services and contact information"
+  - type: "official_website"
     url: "https://konyare.com/about-us/"
-    label: "Research source"
+    label: "Official company history, founding date and services"
+  - type: "official_website"
+    url: "https://konyare.com/contact-us/"
+    label: "Official office address, telephone and general email"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/konyare"
+    label: "Company LinkedIn: 51-200 staff range, office location and company activity"
   - type: "other"
-    url: "https://www.halabazaar.com/en/property/6600ccd59e65e/The-Leading-Real-Estate-Platform-2024/2025-in-Amman"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9409,35.89256"
-    label: "Google Maps location"
+    url: "https://jo.muqawlat.com/en/club/contractors/view/2663"
+    label: "Independent Jordan directory corroborating office address"
+  - type: "other"
+    url: "https://jo.linkedin.com/jobs/view/real-estate-agent-training-at-konya-real-estate-3816645169"
+    label: "Historical closed training job post, not evidence of a current vacancy"
+verification_status: "partial"
+last_verified: "2026-10-18"
