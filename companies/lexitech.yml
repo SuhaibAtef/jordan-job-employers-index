@@ -1,32 +1,42 @@
 name: "LexiTech"
-industry: "Legal Tech / Compliance Training"
-website: "https://www.lexi-tech.net"
+description: "Amman-based legal services and legal-technology practice offering corporate and business law, governance, regulatory and data-protection compliance, intellectual property services, contract automation, applied legal training, and digital-forensics-related services for MENA clients."
+industry: "Legal Services / LegalTech / Compliance Training"
+website: "https://www.lexi-tech.net/"
 careers_url: null
-linkedin: null
-hr_email: "hello@lexitech.net"
-size: null
+linkedin: "https://www.linkedin.com/company/lexitech-legaltech/"
+hr_email: null
+size: "11-50 (LinkedIn company-wide range; not independently verified)"
 location:
   area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: "Housing Bank Complex, Queen Nour Street, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
+  - "legaltech"
+  - "training"
 technologies: []
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "Amman-based legal and digital-compliance training company (privacy fundamentals, AI & law, secure contracting, compliance for teams); contact +962-78824-3086. No internship evidence found. | stack research 2026-10-06: 2 searches; Amman firm is legal/digital-compliance training, not a software shop; no employee profiles or dev postings found"
+  early_career_signal: false
+  signals: []
+notes: "Reviewed 2026-10-19. Official site documents legal/compliance services, legal-tech contract tools, AI-assisted legal offerings and LawInMotion workshops/bootcamps; training enrollment is not evidence of an internship or job. No current vacancy, dedicated careers page, verified recruitment email or developer technology stack established. Official contact Hello@lexi-tech.net is a general inquiry address, not verified HR; previous hello@lexitech.net was not corroborated. LinkedIn reports 11-50 employees and lists Housing Bank Complex, Queen Nour Street, Amman, but current physical office and exact coordinates were not independently corroborated; previous 31.9539,35.9106 point was an Amman city centroid, not a company pin. Founding year conflicts: official about page states 2024, LinkedIn states 2025. Previously linked company-profile PDF was inaccessible during this review."
 evidence:
   - type: "official_website"
-    url: "https://www.lexi-tech.net"
-    label: "Official website"
+    url: "https://www.lexi-tech.net/"
+    label: "Official website; services and legal-tech offerings (checked 2026-10-19)"
   - type: "other"
-    url: "https://www.lexi-tech.net/LexiTech Company Profile (2).pdf"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://www.lexi-tech.net/about"
+    label: "Official about page; Amman base and stated 2024 founding year"
+  - type: "other"
+    url: "https://www.lexi-tech.net/contact"
+    label: "Official contact page; general contact email and Amman"
+  - type: "other"
+    url: "https://www.lexi-tech.net/training"
+    label: "Official LawInMotion training; not a hiring announcement"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/lexitech-legaltech/"
+    label: "Company LinkedIn; 11-50 employees, address, activity and stated 2025 founding year"
+verification_status: "partial"
+last_verified: "2026-10-19"
