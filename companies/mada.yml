@@ -1,40 +1,64 @@
 name: "Mada"
+description: "Jordanian fintech providing buy-now-pay-later payments for shoppers and merchants, allowing eligible customers to split purchases into four interest-free installments online and in stores."
 industry: "FinTech / BNPL"
 website: "https://mada-bnpl.com/"
 careers_url: null
-linkedin: null
-hr_email: null
+linkedin: "https://www.linkedin.com/company/mada-buy-now-pay-later/"
+hr_email: "hr@mada-jo.com"
 size: "11-50"
 location:
   area: "Amman"
-  address: "King Abdullah II St, Amman, Jordan"
+  address: "King Abdullah II St., Al Behar Industries Co., Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.96264
-  longitude: 35.84384
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96264,35.84384"
 categories:
   - "fintech"
-technologies: []
+technologies:
+  - "Java"
+  - "Spring Boot"
+  - "REST APIs"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Founded 2018 in Amman; BNPL app splitting purchases into 4 interest-free installments (200+ partner stores); $1.55M pre-seed Sep 2025 (Vision Ventures); operating in the Central Bank of Jordan's regulatory sandbox. stack research 2026-10-05: 5 searches, no employee profiles or dev job postings (fintech press coverage only)"
+  early_career_signal: true
+  signals:
+    - "October 2026 entry-level Customer Experience Specialist vacancy advertised in Amman; LinkedIn reports applications closed at review."
+    - "October 2026 Senior Backend Engineer (Java) vacancy advertised in Amman; LinkedIn reports applications closed at review."
+    - "Company Marketing Manager recruitment post directs CVs to hr@mada-jo.com; present opening status unconfirmed."
+verification_status: "partial"
+last_verified: "2026-10-19"
+notes: "Founded in 2018 in Amman; Jordanian buy-now-pay-later provider offering four interest-free installments at participating merchants. Reported $1.55M pre-seed financing in September 2025 (Vision Ventures and others). Company says it operates under the Central Bank of Jordan's JoRegBox regulatory sandbox; this is not evidence of a general banking licence. The official support FAQ states its app launched on 2026-09-23. Review 2026-10-19: LinkedIn company page reports 11-50 employees (self-reported, not audited), headquarters at King Abdullah II Street, Al Behar Industries Co., Amman; independent directory corroborates Al Behar's street address but not Mada's precise office or coordinates. Existing GPS pin was an unverified street-level estimate and has been removed. Company's about page links 'Join now' to its LinkedIn profile, not a dedicated careers portal. Its public LinkedIn recruitment post lists hr@mada-jo.com for a Marketing Manager role; current application status unconfirmed. October 2026 LinkedIn advertisements for Senior Backend Engineer (Java) and entry-level Customer Experience Specialist show applications closed at review time. Java, Spring Boot and REST APIs are evidenced as recruitment requirements, not independently verified production technologies; cloud/container skills are mentioned as desired familiarity. No active graduate intake or internships confirmed."
 evidence:
   - type: "official_website"
     url: "https://mada-bnpl.com/"
-    label: "Official website"
+    label: "Official Mada BNPL website"
+  - type: "official_website"
+    url: "https://mada-bnpl.com/en/about-us/"
+    label: "Official company profile and recruiting link"
   - type: "other"
-    url: "https://mada-bnpl.com/en"
-    label: "Research source"
+    url: "https://mada-bnpl.com/en/support/"
+    label: "Official support FAQ and September 2026 launch"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/mada-buy-now-pay-later/"
+    label: "Mada BNPL LinkedIn company profile, size and address"
+  - type: "job_post"
+    url: "https://www.linkedin.com/jobs/view/4472146956/"
+    label: "October 2026 Senior Backend Engineer (Java) advertisement; closed"
+  - type: "job_post"
+    url: "https://www.linkedin.com/jobs/view/4470591807/"
+    label: "October 2026 entry-level Customer Experience Specialist; closed"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/mada-buy-now-pay-later_hiring-marketingmanager-fintech-activity-7459949334835466240-P5ak"
+    label: "Company recruitment post naming HR application email"
+  - type: "other"
+    url: "https://www.jordanfinancialservices.com/company-profile/mada"
+    label: "2026 financial-services directory profile"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/358585/Al_Behar_Industries_Co"
+    label: "Independent confirmation of building street, not Mada occupancy"
   - type: "other"
     url: "https://thestartupscene.me/INVESTMENTS/Jordan-s-Mada-Secures-1-5M-in-Funding-to-Boost-BNPL-Product"
-    label: "Research source"
+    label: "2025 funding coverage"
   - type: "other"
     url: "https://lucidityinsights.com/startups/mada-16635"
-    label: "Research source"
+    label: "Existing startup profile"
   - type: "other"
     url: "https://startuprise.org/jordans-mada-raises-1-55-million-to-grow-bnpl-services/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.96264,35.84384"
-    label: "Google Maps location"
+    label: "Existing 2025 funding report"
