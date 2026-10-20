@@ -1,55 +1,84 @@
-name: "Jeeny"
-industry: "Ride-hailing and delivery (Jeeny Xpress)"
-website: "https://www.jeeny.me"
-careers_url: null
-linkedin: null
+name: Jeeny
+description: Jeeny is a regional ride-hailing and on-demand mobility platform offering passenger transport,
+  payments/wallet features and delivery-related services. It operates in Jordan and Saudi Arabia, is headquartered
+  in Riyadh and maintains a regional office in Amman.
+verification_status: partial
+last_verified: '2026-10-16'
+industry: Mobility Technology / Ride-hailing / On-demand Logistics
+website: https://www.jeeny.me
+careers_url: https://apply.workable.com/jeeny/
+linkedin: https://www.linkedin.com/company/jeenyme
 hr_email: null
-size: null
+size: 201-500
 location:
-  area: "Amman"
-  address: "Mecca Street, Al Hijaz Tower, Building 158, Amman, Jordan"
-  status: "provided_unverified"
+  area: Amman
+  address: Mecca Street, Al Hijaz Tower, Building 158, Amman, Jordan
+  status: approximate
   latitude: 31.975671
   longitude: 35.8609
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.975671,35.8609"
+  maps_url: https://www.google.com/maps/search/?api=1&query=31.975671,35.8609
 categories:
-  - "ai"
-  - "design"
-  - "devops"
-  - "logistics"
-  - "marketing"
-  - "web"
+- design
+- devops
+- logistics
+- marketing
+- mobile
+- web
 technologies:
-  - "Figma"
-  - "Google Analytics"
-  - "Grafana"
-  - "HTML"
-  - "Jenkins"
-  - "Webpack"
+- AWS
+- Docker
+- Grafana
+- Jenkins
+- Kubernetes
+- Prometheus
+- Terraform
 job_seeker:
   early_career_signal: true
   signals:
-    - "Graduate"
-notes: "Ride-hailing + delivery app operating in Saudi Arabia and Jordan; Jordan regional office at Mecca Street, Al Hijaz Tower, Building 158, Amman (Google business listing 'Jeeny Head Office', Mecca St. 158); has hired fresh CS graduates as Associate Software Engineers (grad hiring track record)."
+  - Jeeny Graduate Trainee Program 2026 advertised in Amman; application deadline July 18, 2026 (historical,
+    not open now).
+  - Senior Business Development Manager - Amman listed on Jeeny's Workable job board during October 2026 review.
+  - Historical graduate/associate software-engineer recruiting evidence; current Jordan graduate-engineer
+    openings not confirmed.
+notes: Reviewed 2026-10-16. Official Jeeny contact page confirms the Amman regional-office address (Mecca
+  St., Al Hijaz Tower, Building 158), and LinkedIn independently lists Mecca Street 158 and company size 201-500;
+  headquarters is Riyadh, not Amman. The existing coordinate pair (31.975671, 35.8609) is retained as an approximate
+  map pin, NOT independently verified as the office entrance; location.status is therefore approximate despite
+  the supported street address. The official contact email inquiries@jeeny.me is a general-inquiries mailbox,
+  NOT a verified HR address, so hr_email remains null. Jeeny's Workable posting for an Amman Senior Business
+  Development Manager was discoverable in October 2026; listing visibility does not guarantee acceptance of
+  applications. Jeeny's LinkedIn advertised a 2026 Jordan graduate trainee intake with a July 18 deadline;
+  that intake is historical, not currently open. A 2026 Lahore Platform Engineer listing mentions AWS, Docker,
+  Grafana, Jenkins, Kubernetes, Prometheus and Terraform as requirements; these are hiring-signal technologies,
+  not independently confirmed production deployments or Jordan-specific stack. Prior Figma, Google Analytics,
+  HTML and Webpack tags lacked corroborating current sources and were not retained as verified technologies.
+  No verified recruiting email.
 evidence:
-  - type: "official_website"
-    url: "https://www.jeeny.me"
-    label: "Official website"
-  - type: "other"
-    url: "https://jeeny.me/"
-    label: "Research source"
-  - type: "other"
-    url: "https://vouchercue.com/store/jeeny/"
-    label: "Research source"
-  - type: "other"
-    url: "https://curvice.com/mobile-application/jeeny-contact-details/"
-    label: "Research source"
-  - type: "other"
-    url: "https://leadiq.com/c/jeeny/5b3149ae3d00000801f86ee5"
-    label: "Research source"
-  - type: "other"
-    url: "https://pucit.edu.pk/looking-for-fresh-cs-graduates-in-lahore-at-jeeny/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.975671,35.8609"
-    label: "Google Maps location"
+- type: official_website
+  url: https://www.jeeny.me/en/home
+  label: Jeeny official passenger/driver service description; accessed 2026-10-16
+- type: official_website
+  url: https://www.jeeny.me/en/contact_us
+  label: Official Riyadh HQ and Amman regional office address; general inquiries contact
+- type: linkedin_company
+  url: https://www.linkedin.com/company/jeenyme
+  label: 'Current company profile: mobility services, size 201-500, Riyadh HQ, Amman address, 2026 Jordan
+    graduate program'
+- type: careers
+  url: https://apply.workable.com/jeeny/
+  label: Jeeny-branded Workable recruitment board; root listing sometimes inaccessible, individual jobs discoverable
+- type: job_post
+  url: https://apply.workable.com/jeeny/j/8C9193072B
+  label: Jeeny Senior Business Development Manager, on-site Amman; listing found October 2026
+- type: job_post
+  url: https://builtin.com/job/platform-engineer/9124482
+  label: Jeeny Lahore Platform Engineer listing; tool requirements, not evidence of deployed Jordan stack
+- type: historical_hiring
+  url: https://pucit.edu.pk/looking-for-fresh-cs-graduates-in-lahore-at-jeeny/
+  label: Historical graduate software engineering hiring in Lahore; not a current Jordan opening
+- type: location
+  url: https://jo.near-place.com/al-hejaz-towers-est-for-investments-al-hijaz-towers-complex-mecca-al-mukarramah-st-158-amman/de
+  label: Independent building-158 listing; nearby coordinates not independently matched to Jeeny suite
+- type: google_maps
+  url: https://www.google.com/maps/search/?api=1&query=31.975671,35.8609
+  label: Previously recorded approximate map pin; exact Jeeny office location not independently confirmed

@@ -1,17 +1,24 @@
 name: "Kitchefy"
-industry: "Restaurant Technology"
+description: >-
+  Jordan-founded food-technology venture established in 2021, originally connecting
+  restaurant brands with underused commercial kitchens. Its still-published website
+  markets a cloud point-of-sale and restaurant-management platform, including online
+  ordering, payments, inventory and kitchen operations. A co-founder publicly stated
+  in 2025 that the venture had ended after multiple pivots; the current website alone
+  does not establish that Kitchefy remains an operating employer.
+industry: "FoodTech / Restaurant Technology (historical virtual kitchens; advertised POS/RMS)"
 website: "https://www.kitchefy.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/kitchefyco/"
 hr_email: null
 size: null
 location:
   area: "Amman"
-  address: "Wasfi Al-Tal St 168, Amman"
-  status: "approximate"
-  latitude: 31.992508
-  longitude: 35.865706
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.992508,35.865706"
+  address: "Mecca Street, Alhijaz Tower, 4th floor, Amman, Jordan (website-listed; operation unconfirmed)"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "mobile"
   - "web"
@@ -23,20 +30,63 @@ technologies:
   - "Next.js"
   - "React"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "Amman foodtech founded 2021 by Abdullah Absi, Ahmad Akel and Marwan Abu Sakha; pivoted from cloud kitchens to a restaurant management / cloud POS system; $350K pre-seed 2022 (Oasis500, Beyond Capital, Injaz). No public internship postings found. GPS from Google business listing for Wasfi Al-Tal St 168 (listing shows 'Permanently Closed'; company now shows Riyadh HQ address on kitchefy.com).\nstack verified 2026-10-05: front-end developer at Kitchefy (gulftalent.com/people/ali-hamdan-10593392) lists React/ReactJS, Next.js, Flutter, GraphQL, JavaScript, jQuery; software engineer at Kitchefy, Amman (theorg.com) also confirmed; consistent with their cloud POS/RMS web platform + mobile apps (kitchefy.com)."
+  early_career_signal: false
+  signals: []
+notes: >-
+  Reviewed 2026-10-19. Critical current-status conflict: co-founder Marwan Abu Sakha
+  publicly announced in 2025 that Kitchefy's venture had ended after multiple pivots;
+  co-founder Abdullah Absi acknowledged the end of the journey in the same thread.
+  The live website continues to advertise POS/RMS, Kitchefy Pay, online ordering and
+  regional contact offices, including an Amman address on Mecca Street; no evidence
+  was found that this reflects an active 2026 employer or a current Jordan office.
+  A JordanYP listing last updated 2023 gives a different historical Amman address,
+  Wasfi Al-Tal St 168. The prior coordinates 31.992508,35.865706 corresponded to
+  that older listing and are removed because the location is not verified. The
+  website-listed Amman address is retained as provided, not independently verified.
+  LinkedIn lists 11-50 employees and Riyadh headquarters but its virtual-kitchen
+  description appears historical; current headcount cannot be established, so size
+  remains null. A historical Junior Operations Officer posting in Amman is closed,
+  and a former Junior Sales Officer role was reported; neither proves current hiring.
+  No current vacancy, internship, careers page or dedicated HR email was confirmed;
+  support@kitchefy.com is a customer-support contact, not an HR address. The listed
+  technologies were recorded in a 2026-10-05 review from historical employee
+  profiles (GulfTalent/The Org) and are preserved as unconfirmed historical stack,
+  not verified current production technologies. The company was founded in 2021 and
+  reported a $350K pre-seed round in 2022; those facts do not establish current
+  operations. Do not mark this as an independently verified active employer.
 evidence:
   - type: "official_website"
     url: "https://www.kitchefy.com/"
-    label: "Official website"
+    label: "Still-published website advertising POS and restaurant-management products; current operations unconfirmed"
+  - type: "official_website"
+    url: "https://kitchefy.com/contact-us/index.html"
+    label: "Website-listed Amman Mecca Street office and regional support contacts; office activity unverified"
+  - type: "official_website"
+    url: "https://kitchefy.com/point-of-sale-restaurant-management-system/index.html"
+    label: "Advertised cloud POS and restaurant-management product"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/kitchefyco/"
+    label: "Company profile, historical virtual-kitchen description, Riyadh HQ, 11-50 self-reported size"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/marwan-abu-sakha-948a12161_after-several-years-of-building-learning-activity-7318232270413189122-YecA"
+    label: "Co-founder statement in 2025 that Kitchefy venture ended; acknowledged by fellow co-founder"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/junior-operations-officer-at-kitchefy-3778367756"
+    label: "Historical closed junior-level Amman vacancy; not current hiring"
   - type: "other"
     url: "https://www.techloy.com/jordans-foodtech-startup-kitchefy-secures-350-thousands-funding/"
-    label: "Research source"
+    label: "Historical funding coverage"
   - type: "other"
     url: "https://www.jordanyp.com/company/376062/Kitchefy"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.992508,35.865706"
-    label: "Google Maps location"
+    label: "Historical 2023 Jordan business listing with different address"
+  - type: "other"
+    url: "https://www.intaj.net/ar/media-center/newsroom/kitchefy-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%B7%D8%A7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B3%D8%AD%D8%A7%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AC%D9%85%D8%B9-350-%D8%A3%D9%84%D9%81-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AC%D9%88%D9%84%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D8%A3%D9%88%D9%84%D9%8A"
+    label: "2022 intaj report on Jordan founding and pre-seed financing"
+  - type: "other"
+    url: "https://www.gulftalent.com/people/ali-hamdan-10593392"
+    label: "Historical employee profile underlying reported technology stack"
+  - type: "other"
+    url: "https://theorg.com/org/kitchefy"
+    label: "Historical unverified employee/organization profile, not current operations"
+verification_status: "partial"
+last_verified: "2026-10-19"

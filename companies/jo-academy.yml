@@ -1,47 +1,91 @@
 name: "Jo Academy"
-industry: "EdTech (online learning platform)"
+description: >-
+  Jo Academy is a Jordan-based education technology company founded in 2014.
+  Its web and mobile learning platform serves school and university learners
+  through live and recorded lessons, interactive courses, examinations and
+  educational resources covering Jordanian and international curricula.
+  Jo Academy is part of ULA Group, which is expanding digital education
+  products in the region.
+verification_status: "partial"
+last_verified: "2026-10-15"
+industry: "Education Technology / E-Learning Providers"
 website: "https://www.joacademy.com/en"
-careers_url: null
+careers_url: "https://careers.joacademy.com/en/careers_page"
 linkedin: "https://www.linkedin.com/company/jo-academy"
 hr_email: null
-size: "201-500"
+size: "501-1000"
 location:
   area: "Amman"
-  address: "Al Hijaz Towers, Mecca Street, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.976038
-  longitude: 35.860946
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.976038,35.860946"
+  address: "158 Mecca Street, Al Hijaz Towers, 6th Floor, Amman, Jordan"
+  status: "verified"
+  latitude: 31.97599
+  longitude: 35.86075
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97599,35.86075"
 categories:
   - "ai"
   - "edtech"
+  - "mobile"
+  - "web"
 technologies:
-  - "Generative AI"
-  - "LMS"
+  - "AI-powered learning"
+  - "CSS"
+  - "HTML"
+  - "JavaScript"
+  - "Next.js"
+  - "React"
+  - "React Native"
+  - "REST API"
+  - "TypeScript"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Graduate"
-notes: "Amman edtech (est. 2013) with virtual classrooms from primary to university; $28M Series B (Feb 2025); expanding to Saudi; large 201-500 team implies ongoing graduate hiring."
+    - "Early-career mobile developer role (1-4 years; 2026 listing)"
+notes: >-
+  Reviewed 2026-10-15. Founded 2014 per company LinkedIn, ULA Group and JCIF;
+  earlier 2013 claims are not adopted. LinkedIn reports 501-1,000 employees
+  globally (not Jordan-specific). The parent group's official page gives
+  158 Mecca Street, Al Hijaz Towers, 6th floor; company LinkedIn and a
+  geographic listing corroborate the building. Coordinates are approximate
+  for the building, not a surveyed office entrance or floor-level location.
+  The official group careers page links directly to Jo Academy's careers
+  portal; its October 2026 postings include Software Quality Assurance Manager
+  (Oct 7), Mathematics Assistant Teacher - Part Time (Oct 7), and other
+  Amman roles. A 2026 React Native developer listing required 1-4 years of
+  experience and supports a historical early-career signal, but an active
+  internship or graduate-only program was not established. React, Next.js,
+  JavaScript, HTML, CSS, React Native, TypeScript familiarity and REST API
+  integration are documented in company job requirements; this is not a
+  complete internal production-stack inventory. The parent group advertises
+  AI-powered learning; do not infer specific model vendors or deployed ML
+  frameworks from job wish lists. The $28 million financing announced by JCIF
+  in February 2025 supports expansion and technology development, not proof
+  of a currently open graduate intake. No public recruitment email verified;
+  store support email is not an HR contact.
 evidence:
   - type: "official_website"
     url: "https://www.joacademy.com/en"
-    label: "Official website"
+    label: "Official learning platform and educational services (checked 2026-10-15)"
+  - type: "other"
+    url: "https://ulaeducation.com/en/jo-academy/"
+    label: "Official parent-group profile and Amman office address"
+  - type: "careers"
+    url: "https://careers.joacademy.com/en/careers_page"
+    label: "Official Jo Academy careers portal with October 2026 Amman roles"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/jo-academy"
-    label: "LinkedIn company page"
+    label: "Company LinkedIn: size, founding date, headquarters and address"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/mobile-developer-react-native-at-jo-academy-4401903855"
+    label: "2026 React Native role, 1-4 years of experience, Amman"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/senior-front-end-software-engineer-at-jo-academy-4230503383"
+    label: "Historical React and Next.js engineering requirements"
   - type: "other"
-    url: "https://en.arageek.com/top-startups-in-jordan-amman"
-    label: "Research source"
+    url: "https://www.jcif.jo/news/jordan-capital-and-investment-fund-announces-significant-investment-in-jo-academy/"
+    label: "JCIF February 12, 2025 investment and business profile"
   - type: "other"
-    url: "https://www.startupblink.com/top-startups/jordan"
-    label: "Research source"
+    url: "https://jo.near-place.com/intellisec-free-zone-co-al-hijaz-towers-complex-mecca-al-mukarramah-st-158-amman/es"
+    label: "Independent geographic coordinates for Al Hijaz Towers building 158"
   - type: "other"
-    url: "https://prospectoo.com/company/JoAcademy-68485109/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.joacademy.com/en/teachers/mahmoud-zaatar/subject-exams"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.976038,35.860946"
-    label: "Google Maps location"
+    url: "https://www.jordanyp.com/company/376051/Jo_Academy"
+    label: "Business directory corroborating Jo Academy in Al Hijaz Towers"

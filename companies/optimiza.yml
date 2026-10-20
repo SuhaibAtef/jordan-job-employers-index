@@ -1,21 +1,25 @@
 name: "Optimiza"
-industry: "ICT systems integration / digital transformation"
-website: "https://optimizasolutions.com"
-careers_url: null
-linkedin: null
-hr_email: null
+description: >-
+  Jordan-headquartered systems integration and digital transformation provider
+  delivering enterprise applications, ERP, cloud and infrastructure services,
+  data and AI solutions, and sector-specific technology for finance, healthcare,
+  government and other enterprises.
+industry: "IT services and consulting / systems integration"
+website: "https://optimiza.me/"
+careers_url: "https://optimiza.me/careers"
+linkedin: "https://www.linkedin.com/company/optimiza"
+hr_email: "careers@optimizasolutions.com"
 size: "201-500"
 location:
   area: "Amman"
-  address: "Mecca Towers, Complex No. 172, Mecca Al Mukarramah St, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.977294
-  longitude: 35.854125
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.977294,35.854125"
+  address: "Mecca Towers, Mecca Al Mukarramah Street, Complex No. 172, 1st Floor, Amman 11953, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Mecca+Towers+Mecca+Al+Mukarramah+St+Amman+Jordan"
 categories:
   - "ai"
   - "data"
-  - "devops"
   - "erp"
   - "web"
 technologies:
@@ -23,30 +27,61 @@ technologies:
   - "Angular"
   - "Java"
   - "REST API"
+  - "Oracle E-Business Suite"
+  - "SQL"
+  - "PL/SQL"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Academy"
-notes: "Publicly listed ICT systems integrator founded 1983 (Al-Faris National Investment Group); 400+ experts across Jordan, UAE, KSA, Egypt and Morocco; runs Optimiza Academy. GPS upgraded to verified Google Maps business pin (Mecca Towers, Mecca Al Mukarramah St; confirmed in their annual report). Website confirmed resolving to the actual company.\nstack verified 2026-10-06: 4 current Bayt.com job postings — Full-Stack Java Developer, Senior Full Stack Developer (Angular/Java), Windows Application Developer (.NET), Full Stack Team Leader"
+    - "Fresh-graduate SQL/PLSQL and Oracle database recruitment posts (September 2026)"
+    - "Technical training and development on official careers page"
+notes: >-
+  Reviewed 2026-10-18. Official website and LinkedIn confirm an active
+  Jordan-headquartered ICT systems integrator founded in 1983. Official site
+  describes over 450 experts across the group; LinkedIn's self-reported
+  201-500 size range is not a Jordan-specific audited headcount. The Amman
+  building and street are corroborated by the official contact page and
+  company LinkedIn, but no exact geospatial point was independently verified;
+  previous latitude/longitude were removed. The official careers page listed
+  Operations Associate, Data & AI Product Line Manager and senior Oracle roles
+  when checked; most postings do not state a Jordan work location, and the
+  Oracle Presales Architect listing specifies Saudi Arabia. Official job
+  descriptions publish careers@optimizasolutions.com for applications.
+  September 2026 Bayt listings describe fresh-graduate SQL/PLSQL and Oracle
+  database roles in Jordan, but present availability was not independently
+  confirmed. Technologies are evidenced by advertised role requirements and
+  services, not an audited internal production stack. Historical Optimiza
+  Academy references do not establish an active academy in 2026.
+verification_status: "partial"
+last_verified: "2026-10-18"
 evidence:
   - type: "official_website"
-    url: "https://optimizasolutions.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.zoominfo.com/c/optimiza/462619645"
-    label: "Research source"
-  - type: "other"
-    url: "https://contactout.com/company/OPTIMIZA-9426"
-    label: "Research source"
-  - type: "other"
-    url: "https://enterpriseleague.com/company/optimiza"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.courierslist.com/detail/jordan/amman/fleet-management-software/1923736/optimiza"
-    label: "Research source"
+    url: "https://optimiza.me/"
+    label: "Official services, business profile and group workforce description; checked 2026-10-18"
+  - type: "official_website"
+    url: "https://optimiza.me/contact-us"
+    label: "Official Amman office address and general contact; checked 2026-10-18"
+  - type: "careers"
+    url: "https://optimiza.me/careers"
+    label: "Official current vacancies and employee training; checked 2026-10-18"
+  - type: "job_post"
+    url: "https://optimiza.me/archives/current-vacancies/operations-associate"
+    label: "Official Operations Associate listing with recruitment email; checked 2026-10-18"
+  - type: "job_post"
+    url: "https://optimiza.me/archives/current-vacancies/senior-oracle-eam-consultant"
+    label: "Official Oracle EAM role and application email; checked 2026-10-18"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/optimiza"
+    label: "Company size, founded year, Amman address and 2026 activity"
+  - type: "job_post"
+    url: "https://www.bayt.com/en/jordan/jobs/fresh-grad-sql-plsql-73832613/"
+    label: "September 2026 Jordan fresh-graduate SQL and PL/SQL recruitment"
+  - type: "job_post"
+    url: "https://www.bayt.com/en/jordan/jobs/associate-oracle-database-operations-fresh-grad-74239477/"
+    label: "September 2026 Jordan entry-level Oracle database recruitment"
+  - type: "job_post"
+    url: "https://www.bayt.com/en/jordan/jobs/senior-full-stack-developer-angular-java-73563772/"
+    label: "September 2026 Jordan Angular and Java role"
   - type: "other"
     url: "https://optimiza.me/wp-content/uploads/2023/05/التقرير-السنوي-وتقرير-الحوكمة-AD22Mar2023-final_compressed.pdf"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.977294,35.854125"
-    label: "Google Maps location"
+    label: "Historical 2022 annual report; not current headcount evidence"

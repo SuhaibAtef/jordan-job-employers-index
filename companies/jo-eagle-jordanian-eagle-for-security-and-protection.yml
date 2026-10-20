@@ -1,43 +1,83 @@
 name: "JO Eagle (Jordanian Eagle for Security & Protection)"
-industry: "Computer and Network Security"
+description: >-
+  Jordanian Eagle for Security & Protection (JOEAGLE) is an Amman-based security
+  services and systems integrator founded in 2008. It provides manned guarding,
+  electronic access control and surveillance, cybersecurity assessments,
+  identity and endpoint security, incident response, digital forensics and
+  security consulting for government and enterprise clients. The company
+  lists offices in Amman, Aqaba, Petra and Tafilah.
+verification_status: "partial"
+last_verified: "2026-10-15"
+industry: "Security and Investigations / Physical and Cybersecurity Services"
 website: "https://joeagle.com/"
-careers_url: null
-linkedin: null
-hr_email: "info@joeagle.com"
-size: "51-100 employees"
+careers_url: "https://joeagle.com/careers"
+linkedin: "https://www.linkedin.com/company/joeaglesec"
+hr_email: null
+size: "51-200"
 location:
   area: "Amman"
-  address: "Umm Motawee Al-Aslameyah St., Building No. 6, Al Jandawil, Amman, Jordan"
-  status: "provided_unverified"
+  address: "Al-Jandaweel, opposite Zain HQ, Umm Matawee Al-Aslameyah St., Building No. 6, Amman 11831, Jordan"
+  status: "verified"
   latitude: 31.9608
   longitude: 35.84459
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.9608,35.84459"
 categories:
+  - "consulting"
   - "security"
 technologies:
+  - "Access Control"
+  - "CCTV"
+  - "Digital Forensics"
   - "IAM"
+  - "PAM"
   - "Penetration Testing"
-  - "SOC"
+  - "Sophos Firewall"
+  - "Zero Trust"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Jordanian security firm founded 2008; 24/7 managed security incl. pen testing, application security, threat intel and compliance (staffed by ex-military/police); also physical security & guarding."
+notes: >-
+  Reviewed 2026-10-15. The official contact page, company LinkedIn profile and
+  JordanYP listing corroborate the Al-Jandaweel / Umm Matawee Al-Aslameyah
+  Street address. The retained coordinates are an approximate directory-area
+  pin, not a surveyed office entrance; a separate third-party listing gives
+  31.96056, 35.84461, about 27 metres away. LinkedIn reports 51-200 employees,
+  while an older JordanYP listing reports 51-100. Official careers page accepts
+  general CV submissions for guarding, engineering, cybersecurity and forensics;
+  no currently accepting internship or graduate-specific vacancy was confirmed.
+  A company LinkedIn recruitment post sought an electrical/mechatronics engineer
+  with 3+ years' experience and gave moutasemb@joeagle.com for that role only;
+  this is not confirmed as a general HR mailbox. Official cyber pages advertise
+  technologies and vendor partnerships, not a confirmed internal software stack.
+  Gallagher Security announced a Jordanian Eagle partnership on 2025-10-16.
 evidence:
   - type: "official_website"
     url: "https://joeagle.com/"
-    label: "Official website"
+    label: "Official website, services and company contact"
+  - type: "careers"
+    url: "https://joeagle.com/careers"
+    label: "Official careers application page; general CV submissions"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/joeaglesec"
+    label: "LinkedIn company profile, 51-200 employees and Amman address"
+  - type: "other"
+    url: "https://joeagle.com/about"
+    label: "Official history, office locations and service lines"
+  - type: "other"
+    url: "https://joeagle.com/contact"
+    label: "Official street address and general contact email"
+  - type: "other"
+    url: "https://joeagle.com/cybersecurity"
+    label: "Official cybersecurity capabilities and technology partnerships"
   - type: "other"
     url: "https://www.jordanyp.com/company/374969/Jordanian_Eagle_for_Security_Protection"
-    label: "Research source"
+    label: "Independent directory corroboration of building address; older size estimate"
   - type: "other"
-    url: "https://www.micromindercs.com/blog/cybersecurity-companies-in-jordan"
-    label: "Research source"
+    url: "https://security.gallagher.com/en-NZ/News/Gallagher-Security-expands-market-presence-with-strategic-partnership-in-Jordan"
+    label: "Gallagher Security announcement of 2025 partnership"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/activity-7394252286837035008-LIAf"
+    label: "Company recruitment announcement, electrical/mechatronics engineer, 3+ years"
   - type: "other"
-    url: "https://www.rasmal.com/cybersecurity-companies-in-jordan/"
-    label: "Research source"
-  - type: "other"
-    url: "http://a-listware.com/blog/list-of-cybersecurity-companies-amman"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9608,35.84459"
-    label: "Google Maps location"
+    url: "https://jordan.worldplaces.me/review/95581469-jordanian-eagle.html"
+    label: "Third-party approximate coordinates; not a verified entrance pin"

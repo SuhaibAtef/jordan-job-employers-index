@@ -1,40 +1,44 @@
 name: "Key Jordan"
 industry: "HR Outsourcing / HR Technology"
+description: "Jordan-based provider of HR outsourcing, payroll administration, recruitment, employer-of-record services, and talent management."
 website: "https://www.keyjordan.com"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/keyjordan"
-hr_email: "Admin@keyjordan.com"
+hr_email: null
 size: "51-200"
 location:
   area: "Amman"
-  address: "P.O. Box 941681, Amman 11194, Jordan"
+  address: null
   status: "approximate"
-  latitude: 31.9518
-  longitude: 35.94042
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "consulting"
 technologies: []
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman-HQ outsourcing and talent management firm (founded 2013) with its own web-based HRMS (payroll + attendance modules); partnered with PayClics on an HR/payroll/workforce platform per its LinkedIn. stack research 2026-10-06: 11 searches; no dev profiles or own-engineering postings found (job posts on keyjordan.com are for client ZenHR; ZoomInfo only infers website tech: Duda/Snowplow/Google Analytics)."
+  early_career_signal: true
+  signals:
+    - "Employer-branded Human Resources Officer listing observed in September/October 2026, targeting candidates with up to two years of experience; current application acceptance not independently confirmed."
+notes: "Official website describes HR outsourcing and HR technology services, including PayClics. LinkedIn reports 51-200 employees. Official contact page supplies a postal address (P.O. Box 941681, Amman 11194), not a confirmed street address; LinkedIn identifies Issam Al Ajlouni Street, Shmeisani, but the precise office address and prior coordinates remain unverified. Admin@keyjordan.com is a general contact, not verified as an HR recruitment mailbox. No dedicated careers page confirmed. Prior stack research (2026-10-06) found no substantiated internal engineering stack. Job listing may have expired."
 evidence:
   - type: "official_website"
     url: "https://www.keyjordan.com"
-    label: "Official website"
+    label: "Official website and services"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/keyjordan"
-    label: "LinkedIn company page"
+    label: "Company LinkedIn profile, size and location"
   - type: "other"
     url: "https://www.keyjordan.com/hr-management-system"
-    label: "Research source"
+    label: "HR management platform"
   - type: "other"
     url: "https://keyjordan.com/contact-us"
-    label: "Research source"
+    label: "Official contact and postal address"
   - type: "other"
     url: "https://www.zoominfo.com/c/key-jordan/372720514"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
-    label: "Google Maps location"
+    label: "Third-party company profile; unconfirmed technology claims"
+  - type: "other"
+    url: "https://app.zenats.com/public_job/jUWXz-kAPAlDGwrNBOb16w?source=linkedin_job_post"
+    label: "Human Resources Officer job listing observed October 2026"
+verification_status: "partial"
+last_verified: "2026-10-18"

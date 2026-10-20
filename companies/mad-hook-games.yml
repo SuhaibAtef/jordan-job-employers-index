@@ -1,14 +1,15 @@
 name: "Mad Hook Games"
-industry: "Video Games"
-website: "https://www.madhook.io"
+description: "Independent Amman-based game development and publishing studio founded in 2018, producing mobile, PC and console games including Highway Drifter and Amer Fighting."
+industry: "Video game development and publishing"
+website: "https://www.madhook.io/"
 careers_url: null
-linkedin: null
-hr_email: "support@madhook.io"
+linkedin: "https://www.linkedin.com/company/madhookgames/"
+hr_email: "jobs@madhook.io"
 size: "11-50"
 location:
   area: "Amman"
-  address: "Al-Isteqrar St. 4, Amman, Jordan"
-  status: "verified"
+  address: "Al-Isteqrar St. 4, Amman, Jordan (third-party directory; official website confirms Amman only)"
+  status: "approximate"
   latitude: 31.9412475
   longitude: 35.8474478
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.9412475,35.8474478"
@@ -17,35 +18,62 @@ categories:
   - "mobile"
 technologies:
   - "Android"
-  - "Game Platforms"
+  - "C#"
   - "iOS"
+  - "Unity"
 job_seeker:
   early_career_signal: true
   signals:
     - "Graduate"
-notes: "Indie studio (est. 2018, 28 staff) with 20+ games and 80M+ downloads; first Arabic studio to publish on PlayStation 5; runs a training program for new graduates to join the game industry. | GPS verified 2026-10-06: claimed, owner-maintained Google Maps listing 'Mad Hook' (owner photo May 2023, category 'Corporate office', 5 reviews) pins 31.9412475,35.8474478, address label 'Al-Isteqrar St., Amman, Jordan', plus code WRRW+FX; JordanYP lists 'Al-Isteqrar St. 4, Amman, Jordan' (unverified directory listing). Official site gives city level only ('Amman, Jordan') — consistent, no conflict. Building no. 4 per JordanYP only."
+    - "Entry-level (historical vacancy)"
+notes: >-
+  Reviewed 2026-10-19. Official site confirms Amman headquarters, game development
+  and publishing across mobile, PC and PlayStation, and 100M+ downloads (site claim).
+  LinkedIn lists 11-50 employees; a prior 2024 founder interview cited 28 staff,
+  which is not a current audited headcount. jobs@madhook.io is a published job
+  application address in company job advertisements; support@madhook.io is the
+  general contact on the official website. A social media recruitment post appeared
+  on company LinkedIn approximately six months before review; the corresponding
+  LinkedIn job listing is no longer accepting applications, so no current opening
+  is confirmed. A historical Unity Developer listing requests Unity and C#;
+  Android/iOS are shipped platforms, not proof of the complete internal stack.
+  The founder described university-student training intended to support future
+  recruitment in a 2024 interview; no active graduate intake is confirmed.
+  Official site and LinkedIn corroborate Amman only. Al-Isteqrar St. 4 comes from
+  third-party directories, while the retained coordinates come from a previously
+  recorded map pin; neither precise office occupancy nor entrance was independently
+  reconfirmed this run. Location therefore remains approximate, independently of
+  the partial company verification status.
 evidence:
   - type: "official_website"
-    url: "https://www.madhook.io"
-    label: "Official website"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9412475,35.8474478"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/375973/Mad_Hook"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://www.madhook.io/about-us.php"
-    label: "Location evidence"
+    url: "https://www.madhook.io/"
+    label: "Official studio site, games, general contact and Amman location"
   - type: "other"
     url: "https://madhook.io/about-us.php"
-    label: "Research source"
+    label: "Official about page, founding year, team and products"
   - type: "other"
     url: "https://madhook.io/news.php"
-    label: "Research source"
+    label: "Official news and releases"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/madhookgames/"
+    label: "Company profile, employee range, location and recruitment post"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/unity-developer-at-mad-hook-3987800368"
+    label: "Historical Unity/C# developer requirements and applications email"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/social-media-specialist-content-creator-at-mad-hook-4277212566"
+    label: "Closed early-career job listing and application contact"
   - type: "other"
     url: "https://www.pocketgamer.biz/cross-platform-games-are-the-future-of-gaming/"
-    label: "Research source"
+    label: "Founder interview on staff count and student training (historical)"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375973/Mad_Hook"
+    label: "Unverified third-party street address"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9412475,35.8474478"
+    label: "Previously recorded map coordinates; office entrance unconfirmed"
   - type: "other"
     url: "https://madhook.io/privacy-policy.php"
-    label: "Research source"
+    label: "Official privacy policy (previously retained evidence)"
+verification_status: "partial"
+last_verified: "2026-10-19"

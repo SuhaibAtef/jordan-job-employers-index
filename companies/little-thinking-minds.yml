@@ -1,5 +1,11 @@
 name: "Little Thinking Minds"
-industry: "E-Learning Providers"
+description: >-
+  Amman-headquartered education technology company founded in 2004 that develops
+  Arabic literacy and digital learning products for K-12 students, teachers,
+  and schools, including the I Read Arabic platform. Seesaw Learning announced
+  its acquisition of Little Thinking Minds on 2025-04-15; the brand and its
+  Arabic-learning services continue to be publicly represented.
+industry: "Education technology / E-learning (Arabic literacy)"
 website: "https://littlethinkingminds.com/"
 careers_url: "https://job-boards.greenhouse.io/littlethinkingminds"
 linkedin: "https://www.linkedin.com/company/little-thinking-minds"
@@ -7,11 +13,11 @@ hr_email: null
 size: "51-200"
 location:
   area: "Amman"
-  address: "Q. Nour St. 44, Amman"
+  address: "44 Queen Nour Street, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.962358
-  longitude: 35.899213
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.962358,35.899213"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=44+Queen+Nour+Street+Amman+Jordan"
 categories:
   - "devops"
   - "edtech"
@@ -21,30 +27,49 @@ technologies:
   - "AWS"
   - "CI/CD"
   - "iOS"
-  - "WordPress"
+  - "Terraform"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Award-winning Arabic literacy edtech (I Read Arabic); acquired by US-based Seesaw in Apr 2025 but remains HQ'd in Amman with hybrid Amman-based roles (recent Greenhouse postings: Director of Product, Technical Program Manager, Senior DevOps Engineer)."
+verification_status: "partial"
+last_verified: "2026-10-19"
+notes: >-
+  Reviewed 2026-10-19. The company's official About Us page confirms its
+  Amman headquarters and Arabic-literacy products; the official Contact Us
+  page gives 44 Queen Nour Street, Amman and Jordan telephone +962 79 1286005.
+  The street address is company-published, but exact building occupancy and
+  coordinates were not independently corroborated; previously stored precise
+  coordinates were therefore removed. LinkedIn reports 51-200 employees
+  company-wide, not an independently verified Jordan-specific headcount.
+  Seesaw announced its acquisition on 2025-04-15. The official Greenhouse
+  careers board showed no current openings on 2026-10-19; an archived Senior
+  DevOps Engineer vacancy for hybrid work in Amman is closed, while a third-party
+  repost dated 2026-10-14 is not proof that applications are currently open.
+  The archived role mentions AWS, CI/CD and Terraform as requirements, not a
+  production-stack audit. iOS is supported as an app delivery platform by the
+  I Read Arabic App Store listing. Previously recorded WordPress use could not
+  be substantiated as a current company technology. No verified HR-specific
+  email or current early-career hiring programme was established. The company
+  has active public communications, but this does not establish full verification.
 evidence:
   - type: "official_website"
-    url: "https://littlethinkingminds.com/"
-    label: "Official website"
+    url: "https://littlethinkingminds.com/about-us/"
+    label: "Official company overview, headquarters and Arabic literacy products; checked 2026-10-19"
+  - type: "official_website"
+    url: "https://littlethinkingminds.com/contact-us/"
+    label: "Official Jordan street address and telephone; checked 2026-10-19"
   - type: "careers"
     url: "https://job-boards.greenhouse.io/littlethinkingminds"
-    label: "Careers / application page"
+    label: "Official job board showed no current openings on 2026-10-19"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/little-thinking-minds"
-    label: "LinkedIn company page"
+    label: "Company profile: 51-200 employees, Amman headquarters and 2026 activity"
+  - type: "other"
+    url: "https://seesaw.com/blog/seesaw-acquires-little-thinking-minds/"
+    label: "Seesaw acquisition announcement, 2025-04-15"
   - type: "job_post"
-    url: "https://www.promoteproject.com/job/3797/remote-senior-devops-engineer-little-thinking-minds-1129296"
-    label: "Research source"
+    url: "https://remoteok.com/remote-jobs/remote-senior-devops-engineer-little-thinking-minds-1129296"
+    label: "Closed Amman hybrid Senior DevOps Engineer role: AWS, CI/CD and Terraform requirements"
   - type: "other"
-    url: "https://en.incarabia.com/usbased-seesaw-acquires-jordanbased-little-thinking-minds-730891.html"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.littlethinkingminds.com/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.962358,35.899213"
-    label: "Google Maps location"
+    url: "https://apps.apple.com/gb/app/i-read-arabic-fun-learning/id1078563088"
+    label: "App Store: iOS I Read Arabic application, publisher and recent release history"

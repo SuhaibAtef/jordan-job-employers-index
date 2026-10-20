@@ -1,63 +1,79 @@
-name: "Almomani Cyber Solutions"
-last_verified: "2026-10-07"
-industry: "IT Services and IT Consulting / Cybersecurity"
-description: "Almomani Cyber Solutions is an Amman cybersecurity services firm centered on SOC and defensive-security work. It provides services around SIEM and Splunk, incident response, firewalls and WAF, vulnerability assessment, penetration testing and DevSecOps, and also runs hands-on internships and bootcamps for cybersecurity talent."
-website: "https://almomanicybersolutions.com"
+name: Almomani Cyber Solutions
+last_verified: '2026-10-16'
+industry: IT Services and IT Consulting / Cybersecurity
+description: Amman-based cybersecurity and IT consultancy providing managed SOC, incident
+  response, vulnerability assessment, DevSecOps, cloud infrastructure, software development
+  and security training.
+website: https://almomanicybersolutions.com/en/
 careers_url: null
-linkedin: "https://www.linkedin.com/company/almomani-cyber-solutions"
-hr_email: "internships@almomanicybersolutions.com"
-size: "2-10"
+linkedin: https://www.linkedin.com/company/almomani-cyber-solutions
+hr_email: internships@almomanicybersolutions.com
+size: 2-10
 location:
-  area: "Amman"
-  address: "Al Quds Center, Building 224, Office 210, Wasfi Al Tall St., Amman 11953, Jordan"
-  status: "verified"
+  area: Amman
+  address: Al Quds Center, Building 224, Office 210, Wasfi Al Tall St., Amman 11953,
+    Jordan
+  status: verified
   latitude: null
   longitude: null
-  maps_url: "https://www.google.com/maps/search/?api=1&query=Al+Quds+Center%2C+Wasfi+Al+Tall+St+224%2C+Amman%2C+Jordan"
+  maps_url: https://www.google.com/maps/search/?api=1&query=Al+Quds+Center%2C+Wasfi+Al+Tall+St+224%2C+Amman%2C+Jordan
 categories:
-  - "consulting"
-  - "devops"
-  - "security"
-  - "telecom"
-  - "web"
+- consulting
+- devops
+- security
+- telecom
+- web
 technologies:
-  - "AWS"
-  - "CI/CD"
-  - "Cisco"
-  - "Django"
-  - "Docker"
-  - "Firewalls"
-  - "Linux"
-  - "MySQL"
-  - "SIEM"
-  - "Splunk"
-  - "WAF"
+- CI/CD
+- Cisco
+- Django
+- Docker
+- Firewalls
+- Linux
+- MySQL
+- SIEM
+- Splunk
+- WAF
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-    - "Fresh graduate"
-    - "Bootcamp"
-notes: "Verified 2026-10-07. Official contact page publishes Al Quds Center Building 224, Office 210, Wasfi Al Tall St., Amman 11953. Google Maps independently resolves Al Quds Center at Wasfi At-Tall St. 224, supporting the building location. Current LinkedIn shows 2-10 employees and is actively advertising DevSecOps, Full Stack, VAPT and SOC internships via internships@almomanicybersolutions.com. A current/former intern LinkedIn profile (Loay Idwan) documents hands-on DevSecOps work with Linux, Docker Swarm, CI/CD and MySQL backups; current employee profiles also confirm Amman-based staff. The June 2026 SOC bootcamp targets IT/network graduates, cybersecurity students and fresh graduates, with Splunk, firewalls, Linux and WAF work."
+  - Internship
+  - Fresh graduate
+  - Bootcamp
+notes: Reviewed 2026-10-16. Official contact page confirms Al Quds Center Building
+  224, Office 210, Wasfi Al Tall St., Amman 11953, phone +962 785314928 and general
+  email info@almomanicybersolutions.com. LinkedIn reports 2-10 staff and advertises
+  SOC, VAPT, DevSecOps and full-stack internships via internships@almomanicybersolutions.com;
+  exact application deadlines are unconfirmed. An official cybersecurity training
+  program is open for registration but is not necessarily employment. Employee evidence
+  for Django, MySQL, Docker and CI/CD is historical. Precise coordinates, an independent
+  HR contact, and current company-wide tooling are not confirmed.
 evidence:
-  - type: "official_website"
-    url: "https://almomanicybersolutions.com/en/"
-    label: "Official website and services"
-  - type: "official_website"
-    url: "https://almomanicybersolutions.com/en/contact/"
-    label: "Official exact Amman address and contact information"
-  - type: "linkedin_company"
-    url: "https://www.linkedin.com/company/almomani-cyber-solutions"
-    label: "Current company size, employees and active internship posts"
-  - type: "linkedin_employee"
-    url: "https://jo.linkedin.com/in/lidwan"
-    label: "DevSecOps intern profile with Linux, Docker Swarm, CI/CD and MySQL evidence"
-  - type: "linkedin_employee"
-    url: "https://jo.linkedin.com/in/yasmeen-yousef-183027238"
-    label: "Current employee profile"
-  - type: "job_post"
-    url: "https://www.linkedin.com/posts/almomani-cyber-solutions_cybersecurity-socanalyst-splunk-activity-7462532000042799105-KtT0"
-    label: "2026 SOC Analyst bootcamp for students, graduates and aspiring analysts"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=Al+Quds+Center%2C+Wasfi+Al+Tall+St+224%2C+Amman%2C+Jordan"
-    label: "Google Maps confirms Al Quds Center at building 224"
+- type: official_website
+  url: https://almomanicybersolutions.com/en/
+  label: Official website and services
+- type: official_website
+  url: https://almomanicybersolutions.com/en/contact/
+  label: Official exact Amman address and contact information
+- type: linkedin_company
+  url: https://www.linkedin.com/company/almomani-cyber-solutions
+  label: Current company size, employees and active internship posts
+- type: linkedin_employee
+  url: https://jo.linkedin.com/in/lidwan
+  label: DevSecOps intern profile with Linux, Docker Swarm, CI/CD and MySQL evidence
+- type: linkedin_employee
+  url: https://jo.linkedin.com/in/yasmeen-yousef-183027238
+  label: Current employee profile
+- type: job_post
+  url: https://www.linkedin.com/posts/almomani-cyber-solutions_cybersecurity-socanalyst-splunk-activity-7462532000042799105-KtT0
+  label: 2026 SOC Analyst bootcamp for students, graduates and aspiring analysts
+- type: google_maps
+  url: https://www.google.com/maps/search/?api=1&query=Al+Quds+Center%2C+Wasfi+Al+Tall+St+224%2C+Amman%2C+Jordan
+  label: Google Maps confirms Al Quds Center at building 224
+- type: official_website
+  url: https://almomanicybersolutions.com/en/training/cybersecurity-defense-engineer-program/
+  label: 2026 training registration, distinct from employment
+- type: linkedin_employee
+  url: https://jo.linkedin.com/in/sara-alawneh-
+  label: 2025-2026 internship tooling evidence
+verification_status: partial

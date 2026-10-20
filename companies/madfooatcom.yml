@@ -1,14 +1,23 @@
 name: "MadfooatCom"
-industry: "IT Services and IT Consulting / Fintech (payments)"
-website: null
-careers_url: "https://wellfound.com/company/madfoo3atcom-for-epayments-psc"
-linkedin: "https://jo.linkedin.com/company/madfoatcom"
-hr_email: null
+verification_status: "partial"
+last_verified: "2026-10-19"
+industry: "Financial Technology / Digital Payments"
+description: >-
+  MadfoatCom is a Jordanian financial-technology company founded in 2011 that
+  develops and operates electronic bill presentment and payment systems,
+  merchant payment gateways, payment-service-provider tools, and digital
+  wallets. It operates eFAWATEERcom, Jordan's national electronic bill payment
+  system, under authorization from the Central Bank of Jordan.
+website: "https://madfoat.com/"
+careers_url: null
+linkedin: "https://www.linkedin.com/company/madfoatcom/"
+hr_email: "hr@madfoat.com"
 size: "51-200"
 location:
   area: "Amman"
-  address: "King Hussein Business Park, Amman, Jordan"
-  status: "provided_unverified"
+  address: "King Hussein Business Park, Building 19, 4th and 5th floors, Amman 11953, Jordan"
+  status: "verified"
+  confidence: "high"
   latitude: 31.97183
   longitude: 35.83394
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
@@ -18,29 +27,77 @@ categories:
   - "web"
 technologies:
   - "Java"
+  - "Vert.x"
+  - "Angular"
+  - "Ionic"
+  - "Kotlin"
+  - "Swift"
+  - "Microsoft SQL Server"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Operates eFAWATEERcom, Jordan's national electronic bill presentment and payment gateway (built/operated under Central Bank of Jordan tender since 2014); fresh-grad evidence: CFYE-partnered youth training program and agent network employment for young Jordanians. GPS upgraded to King Hussein Business Park pin. Website nulled: www.madfooat.com does not resolve (confirmed multiple times); official product site is efawateercom.jo. stack research 2026-10-06: 4 searches, no employee profiles or dev postings found."
+  early_career_signal: true
+  signals:
+    - "Historical IT Support Engineer advertisement specified no experience required; applications closed."
+    - "Historical Java Developer advertisement labelled entry-level; applications closed."
+    - "Company participated in CFYE youth-employment initiatives; this does not confirm current internal openings."
+notes: >-
+  Reviewed 2026-10-19. The active official website is madfoat.com, correcting
+  the previous claim that the company website was unavailable. Its homepage
+  describes eFAWATEERcom, merchant payment gateway, PSP/agent platform and
+  digital payments. The Central Bank of Jordan's licensed-company register
+  corroborates its payment-system and service-provider authorizations and
+  places its Amman office in Building 19, floors 4 and 5, King Hussein
+  Business Park. The official contact page and company-managed LinkedIn
+  independently confirm Building 19; location.status is verified for the
+  published address. The retained coordinates (31.97183, 35.83394) locate
+  the business-park area, not a separately validated Building 19 entrance.
+  LinkedIn reports 51-200 employees, an unaudited profile range. A workforce
+  analytics estimate differs; no audited current headcount was established.
+  The official website explicitly publishes hr@madfoat.com as its careers
+  contact; info@madfoat.com is general inquiries. No dedicated current
+  careers-vacancy page or open company job posting was confirmed. Historical
+  LinkedIn vacancies include Java Developer (Java, Vert.x, microservices),
+  Senior Frontend Developer (Angular, Ionic, Kotlin, Swift), Senior Database
+  Developer (Microsoft SQL Server), and IT Support Engineer (no experience
+  required); these advertisements are closed. Technologies are documented
+  historical job requirements, not an independently audited current
+  production stack. A company LinkedIn update cites youth-employment support
+  through CFYE, but the reported employment opportunities cannot be equated
+  with direct MadfoatCom vacancies. Company-level verification remains partial
+  because current hiring and internal stack have not been confirmed.
 evidence:
-  - type: "careers"
-    url: "https://wellfound.com/company/madfoo3atcom-for-epayments-psc"
-    label: "Careers / application page"
+  - type: "official_website"
+    url: "https://madfoat.com/"
+    label: "Official company site; active services, eFAWATEERcom, regional operations"
+  - type: "official_website"
+    url: "https://madfoat.com/about-us"
+    label: "Official company history and founding year"
+  - type: "official_website"
+    url: "https://madfoat.com/contact"
+    label: "Official Building 19 office address and hr@madfoat.com careers mailbox"
   - type: "linkedin_company"
-    url: "https://jo.linkedin.com/company/madfoatcom"
-    label: "LinkedIn company page"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/376072/MadfooatCom"
-    label: "Research source"
-  - type: "other"
-    url: "https://theorg.com/org/madfooatcom/org-chart/abdullah-al-masri"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.zoominfo.com/c/madfooatcom/346885518"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.finextra.com/newsarticle/26059/jordan-launches-national-electronic-billing-and-payment-system"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
-    label: "Google Maps location"
+    url: "https://www.linkedin.com/company/madfoatcom/"
+    label: "Company-managed profile, size 51-200, Amman Building 19, 2026 activity and youth-employment update"
+  - type: "regulator"
+    url: "https://www.cbj.gov.jo/EBV4.0/Root_Storage/EN/EB_List_Page/A_general_register_of_licensed_companies.pdf"
+    label: "Central Bank of Jordan licensed-company register; authorized payment services and Building 19 floors 4-5"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/java-developer-at-madfoatcom-4126213021"
+    label: "Closed Java Developer posting; Java, Vert.x, microservices, entry-level classification"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/senior-frontend-developer-at-madfoatcom-4068765513"
+    label: "Closed frontend role; Angular, Ionic, Kotlin, Swift requirements"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/senior-database-developer-at-madfoatcom-1894877896"
+    label: "Closed database role; Microsoft SQL Server requirements"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/it-support-engineer-at-madfoatcom-4179020100"
+    label: "Closed IT support role; no experience required"
+  - type: "company_listing"
+    url: "https://www.intaj.net/network/madfooatcom"
+    label: "Industry association listing; older address and headcount differ from current primary sources"
+  - type: "geographic"
+    url: "https://mapcarta.com/W263838369"
+    label: "King Hussein Business Park approximate grounds location; not Building 19 entrance"
+  - type: "company_listing"
+    url: "https://www.reveliolabs.com/companies/madfooatcom/employees"
+    label: "March 2026 modeled workforce estimate; differs from LinkedIn self-reported size"

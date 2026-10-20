@@ -1,7 +1,7 @@
 name: "Advanced Business Computing - ABC Jordan"
 description: "Advanced Business Computing (ABC Jordan) is a Midis Group enterprise-IT and systems-integration company serving organizations in Jordan with data-center infrastructure, storage, backup, virtualization, networking, business-transformation and managed-support solutions. It is a Dell Titanium Black Partner in Jordan."
 verification_status: "partial"
-last_verified: "2026-10-07"
+last_verified: "2026-10-16"
 industry: "IT Services and IT Consulting / Systems Integration"
 website: "https://abc.com.jo/"
 careers_url: "https://abc.com.jo/contact/"
@@ -29,7 +29,8 @@ job_seeker:
   early_career_signal: false
   signals:
     - "Official contact form accepts CV submissions"
-notes: "Verified 2026-10-07. ABC is an active Midis Group company in Jordan and a Dell Titanium Black Partner. The exact Amman office remains unresolved because current first-party sources conflict: ABC's own contact page publishes King Abdullah II St., 324 Midis Group Building, while Midis Group's current affiliate page and LinkedIn publish Al Rayan Tower, Queen Alia Street 31. The previous coordinates and map pin were removed instead of choosing one address silently. ABC's official contact form includes 'Curriculum Vitae (CV)' as a submission type, so it is used as the application/contact URL rather than claiming a dedicated careers page. Recent public Jordan-specific vacancies were not found; historical ABC Jordan postings include Presales Manager and Technical Support Engineer roles and show Dell/VMware/Veeam infrastructure requirements. A current Midis careers posting under an ABC legal entity is for Qatar, so it is not treated as a current Jordan opening."
+    - "No confirmed active Jordan vacancy as of 2026-10-16; general CV submission remains available"
+notes: "Verified 2026-10-07. ABC is an active Midis Group company in Jordan and a Dell Titanium Black Partner. The exact Amman office remains unresolved because current first-party sources conflict: ABC's own contact page publishes King Abdullah II St., 324 Midis Group Building, while Midis Group's current affiliate page and LinkedIn publish Al Rayan Tower, Queen Alia Street 31. The previous coordinates and map pin were removed instead of choosing one address silently. ABC's official contact form includes 'Curriculum Vitae (CV)' as a submission type, so it is used as the application/contact URL rather than claiming a dedicated careers page. Recent public Jordan-specific vacancies were not found; historical ABC Jordan postings include Presales Manager and Technical Support Engineer roles and show Dell/VMware/Veeam infrastructure requirements. A current Midis careers posting under an ABC legal entity is for Qatar, so it is not treated as a current Jordan opening. Follow-up review 2026-10-16: ABC's live official contact page still lists King Abdullah II St., 324 Midis Group Building, while the Midis Group affiliate listing still gives Al Rayan Tower, Queen Alia Street 31; retain unresolved address and no coordinates. Both official sources publish +962 65000996 as a general telephone number. The official contact form still permits CV submissions, but no current Jordan-specific opening or dedicated HR email was confirmed; do not confuse Qatar-based ABC vacancies with Jordan vacancies."
 evidence:
   - type: "official_website"
     url: "https://abc.com.jo/"
@@ -52,3 +53,6 @@ evidence:
   - type: "job_post"
     url: "https://jo.linkedin.com/jobs/view/technical-support-engineer-at-advanced-business-computing-abc-jordan-4247874019"
     label: "Historical Amman Technical Support Engineer role — Dell, VMware and Veeam requirements"
+  - type: "official_website"
+    url: "https://abc.com.jo/networking/"
+    label: "Current official networking service page — data center switching and SD-WAN offerings"

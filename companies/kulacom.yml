@@ -1,5 +1,10 @@
 name: "Kulacom"
-industry: "Broadband wireless / VoIP / data center"
+description: >-
+  Kulacom (MetroBeam Wireless Telecommunications Co. LLC) was established in
+  Jordan in 2006 as a broadband wireless and voice-services provider. Historical
+  supplier records document WiMAX, VoIP, hosting, and data-center operations in
+  Amman. Its current operating and hiring status could not be independently verified.
+industry: "Telecommunications / Broadband and Data Center Services"
 website: null
 careers_url: null
 linkedin: null
@@ -9,39 +14,64 @@ location:
   area: "Amman"
   address: "300 King Abdullah II Street, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.96401
-  longitude: 35.84346
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96401,35.84346"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "data"
   - "devops"
   - "telecom"
 technologies:
-  - "Fiber Networks"
-  - "Veeam"
-  - "VMware"
+  - "WiMAX"
   - "VoIP"
-  - "VPS Hosting"
+  - "VMware vSphere (historical)"
+  - "Dell PowerEdge / EqualLogic (historical)"
+  - "ESKADENIA BCRM (historical)"
+  - "VPS Hosting (historical)"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Licensed broadband wireless operator (MetroBeam, founded 2006); runs an award-winning data center; partnered with Damamax for fiber access. Pin moved from city-center fallback to verified address (King Abdullah II St). Website nulled: kulacom.jo could not be verified to resolve."
+notes: >-
+  Reviewed 2026-10-18. ESKADENIA's dated October 28, 2008 announcement identifies
+  MetroBeam Wireless Telecommunications Co. LLC as Kulacom and documents its
+  licensed WiMAX and VoIP services plus an outsourced billing/CRM arrangement.
+  Dell's historical customer case study documents VMware vSphere, PowerEdge,
+  EqualLogic, a data center and 120 employees at the time; none establishes a
+  current stack or headcount. Contemporary 2010 reporting also described
+  broadband, voice and data-center services. A third-party directory lists
+  300 King Abdullah II Street in Amman, but current occupancy and the old
+  map coordinates were not verified; location is not fully verified.
+  The historical kulacom.jo domain was not established as a working official
+  website in this review. The LinkedIn result for Kulacom Communications
+  describes a Bahrain company and was not adopted as proof of this Jordan
+  entity. No current company-specific careers page, vacancy, internship,
+  recruitment email, current employee count or reliable 2026 operating
+  confirmation was found. Historical product and technology tags are not
+  evidence of present-day deployment. Do not confuse Kulacom with Kalaam Telecom.
 evidence:
   - type: "other"
     url: "https://eskadenia.com/kulacom_outsources_its_billing_management_services_to_eskadenia_software"
-    label: "Research source"
+    label: "ESKADENIA official supplier announcement dated 2008-10-28; legal identity, WiMAX, VoIP and billing system"
+  - type: "other"
+    url: "https://i.dell.com/sites/csdocuments/Business_smb_sb360_Documents/en/au/cs-kulacom.pdf"
+    label: "Dell historical customer case study; data center, VMware, Dell infrastructure and historical staff count"
+  - type: "other"
+    url: "https://en.ammonnews.net/article/9024"
+    label: "2010 news report on Kulacom Jordan broadband, voice and data-center services"
   - type: "other"
     url: "https://www.jordanyp.com/company/335324/Kulacom"
-    label: "Research source"
+    label: "Unverified business listing; historical telephone, domain and King Abdullah II Street"
+  - type: "company_listing"
+    url: "https://www.bizmideast.com/JO/kulacom-jordan-06-250-2222"
+    label: "Third-party business listing; 300 King Abdullah II Street, not proof of current occupancy"
+  - type: "company_listing"
+    url: "https://datacentercatalog.com/jordan/kulacom-dc"
+    label: "Data center catalog; historical hosting services and address"
   - type: "other"
     url: "https://www.telecompaper.com/news/kulacom-jordan-picks-symantec-netbackup--785153"
-    label: "Research source"
+    label: "Historical news on Kulacom Jordan data-center backup infrastructure"
   - type: "other"
     url: "http://www.araboo.com/site/jordan-kulacom-jo-119620"
-    label: "Research source"
-  - type: "other"
-    url: "https://mail.datacentercatalog.com/jordan/kulacom-dc"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.96401,35.84346"
-    label: "Google Maps location"
+    label: "Historical company directory reference; current validity not confirmed"
+verification_status: "partial"
+last_verified: "2026-10-18"

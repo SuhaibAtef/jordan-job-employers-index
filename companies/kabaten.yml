@@ -1,35 +1,54 @@
 name: "Kabaten"
-industry: "Sports tech"
+description: >-
+  Jordanian sports-technology startup documented in Flat6Labs' 2023 Amman cohort.
+  Its described products included B2B football competition-management and live-data
+  software, alongside a B2C mobile app for players, coaches, and fans. Current
+  operating status and product availability could not be independently confirmed.
+industry: "Sports technology"
 website: "https://www.kabaten.com"
 careers_url: null
-linkedin: null
-hr_email: "o.hadid@kabaten.com"
-size: null
+linkedin: "https://www.linkedin.com/company/kabaten"
+hr_email: null
+size: "2-10"
 location:
   area: "Amman"
   address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "mobile"
   - "web"
-technologies:
-  - "Mobile app"
-  - "Web dashboard"
+technologies: []
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "B2B football competition-management software (digitizes operations, live data feeds to media) plus a B2C fan social app; CEO Omar Hadid. Founder contact email publicly listed in the Flat6Labs cycle brief. No public internship postings found.\nstack research 2026-10-06: 5 searches + 2 page reads; no employee profiles, job postings, or verifiable company GitHub activity; PitchBook lists Kabaten out of business Dec 2024; tags left unchanged, not verified."
+  early_career_signal: false
+  signals: []
+notes: >-
+  Flat6Labs' July 2023 investor brief identifies Omar Hadid as CEO, Ibrahim
+  Alafeef as engineering lead, and a mobile app and B2B dashboard as products.
+  The founder email o.hadid@kabaten.com appears in that historical brief, but
+  is not established as a recruitment/HR address. LinkedIn lists a 2021 founding
+  year, Amman headquarters and 2-10 employees; this self-reported range is not
+  a current independently audited headcount. The previously listed website was
+  inaccessible during the 2026-10-18 review. No reliable current careers page,
+  open vacancy, internship, precise office address, coordinates, or internal
+  programming stack was confirmed. Earlier research notes cited a PitchBook
+  out-of-business date in December 2024, but the underlying profile was not
+  independently retrievable in this review; do not treat shutdown as confirmed.
+  The company is historically documented, but present operations remain uncertain.
 evidence:
-  - type: "official_website"
-    url: "https://www.kabaten.com"
-    label: "Official website"
   - type: "other"
     url: "https://www.flat6labs.com/wp-content/uploads/2023/07/Post-Demo-Day-Amman-Cycle-Four-.pdf"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Flat6Labs 2023 Amman cohort investor brief; products, team and founder contact"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/kabaten"
+    label: "Company LinkedIn profile; self-reported industry, Amman headquarters, size and founding year"
+  - type: "other"
+    url: "https://disclosures.ifc.org/project-detail/SII/43492/iscflat6-jordan"
+    label: "IFC disclosure listing Kabaten among Jordanian accelerator companies"
+  - type: "official_website"
+    url: "https://www.kabaten.com"
+    label: "Historical official domain; unavailable at 2026-10-18 review"
+verification_status: "partial"
+last_verified: "2026-10-18"

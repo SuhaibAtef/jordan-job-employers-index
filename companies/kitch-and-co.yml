@@ -1,37 +1,45 @@
 name: "Kitch & Co"
-industry: "FoodTech / Cloud Kitchen"
+industry: "Food & Beverage / Cloud Kitchen Operations"
+description: "Food-service operator supporting delivery-focused restaurant brands with managed cloud-kitchen operations, ingredient sourcing, brand onboarding and order fulfillment. Previously operated as KitchMarket before a 2024 pivot."
 website: "https://kitchandco.me"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/kitchandco"
 hr_email: null
-size: null
+size: "2-10"
 location:
   area: "Amman"
   address: null
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-categories:
-  - "devops"
-  - "ecommerce"
-  - "fintech"
-technologies:
-  - "Payment Gateway"
+  latitude: null
+  longitude: null
+  maps_url: null
+categories: []
+technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Female-led cloud-kitchen operator in Amman (strategic pivot from KitchMarket, May 2024); runs delivery-only brands (KABS, BunRun, Fitkult, Tawook Republic...); uses kitchen-management software and POS systems."
+notes: "Official website confirms a female-led cloud-kitchen operator and its May 2024 transition from the KitchMarket marketplace to full-service operations; its brand timeline identifies operations in Amman. LinkedIn lists 2-10 employees and Dubai headquarters, but its description and old kitch-market.com link reflect the pre-pivot marketplace; current Jordan headcount and legal headquarters are not confirmed. Official contact page contains apparent placeholders ('Lorem Ipsum' address, malformed info@kitch&co email, and an uncorroborated +359 telephone number), so no address or HR email is accepted. Prior coordinates (31.9539, 35.9106) and map pin lack evidence for a specific Kitch & Co facility. The former marketplace mentioned an integrated payment gateway in a 2023 Flat6Labs brief, but that does not establish the current operating company's technology stack. No verified current careers page or vacancies were found as of 2026-10-18."
 evidence:
   - type: "official_website"
     url: "https://kitchandco.me"
-    label: "Official website"
-  - type: "other"
+    label: "Official company homepage, accessed 2026-10-18"
+  - type: "official_website"
     url: "https://kitchandco.me/about-us/"
-    label: "Research source"
+    label: "Company history, 2024 pivot and Amman brands"
+  - type: "official_website"
+    url: "https://kitchandco.me/our-services/"
+    label: "Managed kitchen operations and delivery services"
+  - type: "official_website"
+    url: "https://kitchandco.me/contact-us/"
+    label: "Contact page; placeholders prevent address/email verification"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/kitchandco"
+    label: "Company LinkedIn profile; 2-10 employees and outdated Dubai HQ"
   - type: "other"
-    url: "https://kitchandco.me/2025/03/23/essential-tips-for-managing-costs-and-maximizing-profits-in-a-jordanian-cloud-kitchen/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://www.flat6labs.com/wp-content/uploads/2023/03/Amman-Demo-Day-Investor-Brief.pdf"
+    label: "Historical KitchMarket accelerator brief; payment gateway is not a confirmed current stack"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/nadine-m-abbas_10-months-in-and-10-brands-strong-launched-activity-7318202824717156354-5pU1"
+    label: "Founder post about operational cloud kitchen and ten brands in 2025"
+verification_status: "partial"
+last_verified: "2026-10-18"

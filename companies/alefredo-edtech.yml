@@ -1,50 +1,57 @@
 name: "Alefredo EdTech"
-description: "Alefredo EdTech is an Amman education-technology company focused on international curricula. Its platform provides mock exams, teacher-created learning materials and academic-book services, and the company has expanded through the acquisition of UK tutoring platform Tutor House."
+description: "Alefredo EdTech is an Amman-based education-technology business offering international-curriculum textbooks, used-book trading, past papers, interactive assessments and AI-enabled learning resources for British, American and IB students. In 2026 it announced the acquisition of UK tutoring platform Tutor House, adding access to live tutoring services."
 verification_status: "partial"
-last_verified: "2026-10-07"
-industry: "EdTech (international curriculum learning platform)"
+last_verified: "2026-10-17"
+industry: "Education technology (international curricula, learning resources and tutoring)"
 website: "https://alefredoedtech.com/"
-careers_url: null
+careers_url: "https://alefredoedtech.com/work-with-us"
 linkedin: "https://www.linkedin.com/company/alefredo-books"
-hr_email: "Hr@alefredoedtech.com"
+hr_email: null
 size: "11-50"
 location:
   area: "Amman"
   address: "King Hussein Business Park (next to HTU), Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.9731
-  longitude: 35.835
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9731,35.835"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
   - "edtech"
-  - "erp"
-technologies:
-  - "Generative AI"
-  - "Jira"
-  - "Microsoft 365"
+technologies: []
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-    - "Graduate"
-notes: "Amman edtech (est. 2020) for IB/British/AP curricula with mock exams and past papers; acquired UK Tutor House ($600K, 2026); publicly posted an AI Engineer Internship for undergraduates with a public HR email."
+    - "October 2026: company LinkedIn advertised paid lifestyle-content creator opportunities, paid per approved video; employment type and application closing date not established."
+    - "October 2026: company LinkedIn advertised paid MUN ambassador opportunities for applicants aged 15+; not evidence of a full-time vacancy."
+    - "Official People page links to a Work With Us / open positions section, but current direct employee vacancies were not independently established."
+notes: >-
+  The official site and LinkedIn confirm Amman operations, international-curriculum education products and a self-reported 11-50 employee range. The company announced the Tutor House acquisition in 2026. The prior King Hussein Business Park office description is retained as provided but could not be confirmed as a current street/building address; former point coordinates were only approximate park coordinates and have been removed. The existing HR email (Hr@alefredoedtech.com) could not be corroborated in current official sources; info@alefredoedtech.com is the published general contact, not a dedicated HR mailbox. The official internships directory aggregates opportunities from other employers and must not be counted as Alefredo hiring. Recent paid content-creator and ambassador invitations are recruitment signals, not confirmed staff positions. Alefredo's AI product positioning and Replit education partnership do not establish its internal technology stack; former Jira, Microsoft 365 and Generative AI stack entries were removed as unverified. The LinkedIn founding year (2019) differs from press coverage (2020); no founding year is asserted here.
 evidence:
   - type: "official_website"
-    url: "https://alefredobooks.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.wamda.com:443/2026/02/jordan-alefredo-edtech-acquires-uk-tutor-house-600000-deal"
-    label: "Research source"
-  - type: "other"
+    url: "https://alefredoedtech.com/"
+    label: "Current official site: international-curriculum learning products and services"
+  - type: "official_website"
+    url: "https://alefredoedtech.com/contact"
+    label: "Official contact page: Amman, general contact email and telephone"
+  - type: "official_website"
+    url: "https://alefredoedtech.com/people"
+    label: "Official people page: leadership and Join Our Team link"
+  - type: "official_website"
+    url: "https://alefredoedtech.com/work-with-us"
+    label: "Official Work With Us destination; open positions not independently confirmed"
+  - type: "official_website"
+    url: "https://alefredoedtech.com/news/alefredo-edtech-acquires-uk-s-tutor-house-for-600-000-strengthens-market-position"
+    label: "April 25, 2026 official acquisition announcement"
+  - type: "official_website"
+    url: "https://alefredobooks.com/"
+    label: "Alefredo Books platform: books, past papers and test bank"
+  - type: "official_website"
     url: "https://alefredobooks.com/about-us-alefredo-books/"
-    label: "Research source"
+    label: "Alefredo Books about page: curriculum and platform history"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/alefredo-books"
+    label: "Company LinkedIn: Amman, 11-50 staff and October 2026 paid opportunities"
   - type: "other"
-    url: "https://www.linkedin.com/posts/ahmad-fareed-al-saif-704314a0_exciting-ai-activity-7211286300258103296-_A9w"
-    label: "Research source"
-  - type: "other"
-    url: "https://en.incarabia.com/jordanbased-alefredo-acquires-ukbased-tutor-house-to-build-integrated-aipowered-learning-ecosystem-826752.html"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9731,35.835"
-    label: "Google Maps location"
+    url: "https://www.wamda.com/2026/02/jordan-alefredo-edtech-acquires-uk-tutor-house-600000-deal"
+    label: "Wamda February 5, 2026: Tutor House acquisition and company background"

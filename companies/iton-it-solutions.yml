@@ -1,40 +1,86 @@
 name: "ITON IT Solutions"
-industry: "Computer & Network Security"
+description: >-
+  ITON IT Solutions is an Amman-based managed IT service provider founded in
+  2007. It supplies managed infrastructure monitoring and support, enterprise
+  networking, cloud solutions, cybersecurity, data backup and disaster recovery,
+  and IT consulting to customers in Jordan and neighboring markets.
+verification_status: "partial"
+last_verified: "2026-10-15"
+industry: "Managed IT Services / Network Infrastructure and Cybersecurity"
 website: "https://www.iton-jo.com/"
 careers_url: null
-linkedin: null
-hr_email: "info@iton-jo.com"
-size: "1-20 employees"
+linkedin: "https://www.linkedin.com/company/itonit"
+hr_email: null
+size: "11-50"
 location:
   area: "Amman"
-  address: "Adnan Hussein Complex, Queen Rania Al Abdullah St 44, Amman 11953, Jordan"
-  status: "provided_unverified"
-  latitude: 31.99067
-  longitude: 35.89316
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99067,35.89316"
+  address: "2nd Floor, Adnan Hussein Complex, 44 Queen Rania Al Abdullah Street, Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Adnan%20Hussein%20Complex%2044%20Queen%20Rania%20Street%20Amman"
 categories:
+  - "cloud"
   - "consulting"
   - "devops"
   - "security"
+  - "support"
+  - "training"
 technologies:
-  - "EDR/XDR"
+  - "Acronis"
+  - "Cisco"
   - "Firewalls"
+  - "Fortinet"
   - "IAM"
+  - "Microsoft"
+  - "Sophos"
   - "Veeam"
+  - "WALLIX PAM"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Jordanian managed service provider est. 2007 (1-20 employees); cloud, backup & disaster recovery, networking and cybersecurity; WALLIX privileged-access-management partner."
+  early_career_signal: true
+  signals:
+    - "2026 ITON training-and-employment program for junior system/network administrators, advertised with Jordan's Ministry of Digital Economy and Entrepreneurship / Youth, Technology & Jobs project"
+    - "Company training announcement targets 20-24-year-old Jordanian and Syrian residents in Jordan with relevant diplomas or degrees; intake status not confirmed on review date"
+notes: >-
+  Reviewed 2026-10-15 (Jordan time). The current official site identifies ITON
+  as an MSP operating in Jordan, Saudi Arabia and Iraq, with managed IT,
+  network infrastructure, cloud, cybersecurity, backup/recovery and consulting
+  services. LinkedIn and WALLIX both report a 2007 founding; the primary
+  LinkedIn profile reports 11-50 employees. The company's official homepage
+  gives the second-floor office at Adnan Hussein Complex, 44 Queen Rania Al
+  Abdullah Street, and LinkedIn independently confirms the building and street;
+  location.status therefore applies only to the office address, not full-company
+  verification. Previous coordinates (31.99067, 35.89316) lacked building-level
+  support and were removed; maps_url is an address search, not a verified pin.
+  The official contact page lists info@iton-jo.com as a general inbox, not an
+  HR email. An older 2021 third-party job advertisement uses hr@iton-jo.com,
+  but current recruitment use was not established; hr_email is null. No
+  official dedicated careers portal or current direct company vacancy was
+  confirmed. ITON's own 2026 LinkedIn announcement promotes a practical
+  system-administration training/employment pathway for 20-24-year-old
+  graduates and diploma holders, in cooperation with the Ministry of Digital
+  Economy and Entrepreneurship / Youth, Technology & Jobs; this is not proof
+  of a currently open position or guaranteed employment. Technologies are
+  advertised solution/vendor partnerships or training topics, not a verified
+  internal development stack. WALLIX independently confirms ITON's PAM
+  reseller partnership. Company verification remains partial because direct
+  hiring status, current HR contact and internal technology stack are unresolved.
 evidence:
   - type: "official_website"
     url: "https://www.iton-jo.com/"
-    label: "Official website"
+    label: "Official homepage: MSP services, vendor partners, regional operations and second-floor Amman office"
+  - type: "official_website"
+    url: "https://www.iton-jo.com/contact"
+    label: "Official contact: general info@iton-jo.com, Amman and telephone; not an HR contact"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/itonit"
+    label: "Primary company LinkedIn: 2007 founding, 11-50 employees, street address and recent training activity"
   - type: "other"
-    url: "https://www.wallix.com/partners/var/iton-it-solutions/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.selling.com/company/iton-it-solutions/119077905"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.99067,35.89316"
-    label: "Google Maps location"
+    url: "https://ae.linkedin.com/posts/itonit_iton-ytj-techtraining-activity-7467626050789945344-hXdt"
+    label: "ITON's 2026 training-and-employment announcement: eligibility and system administrator curriculum"
+  - type: "partner_directory"
+    url: "https://www.wallix.com/es/partners/iton-it-solutions/"
+    label: "WALLIX official partner listing: ITON identity, managed services, 2007 founding and PAM partnership"
+  - type: "partner_directory"
+    url: "https://www.wallix.com/partners/partner-finder/"
+    label: "WALLIX partner finder: ITON IT Solutions listed for Jordan"

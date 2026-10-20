@@ -1,7 +1,12 @@
 name: "AlGurus Agency"
-last_verified: "2026-10-07"
-industry: "Marketing Services / ecommerce development agency"
-description: "AlGurus is an Amman digital marketing and e-commerce agency. It builds and optimizes online stores and websites, particularly with Shopify, WooCommerce and WordPress, and provides acquisition and marketing services such as SEO and paid advertising."
+verification_status: "partial"
+last_verified: "2026-10-16"
+industry: "Marketing Services / Digital Marketing / E-commerce Development"
+description: >-
+  AlGurus is an Amman-based digital marketing and e-commerce development agency
+  providing paid advertising, search engine optimization, social media marketing,
+  analytics, and Shopify/WordPress website and online-store development to
+  businesses in Jordan and the wider MENA region.
 website: "https://algurus.com"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/algurus"
@@ -26,14 +31,28 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Verified 2026-10-07. Current LinkedIn identifies AlGurus as a marketing-services company headquartered in Um Uthaina, Amman, with 11-50 employees and names Fatima Khdear and Mohammad Khalil as employees. The previous internship signal was removed because no public AlGurus internship, graduate program or internal job opening was found in this pass. Exact street/building remains unresolved: the current LinkedIn profile gives only Um Uthaina, while prior directory evidence alternated between Mecca Street and city-level Amman, and prior Maps pins were unreliable/centroid-like. The dataset now keeps the useful neighborhood without inventing a precise office."
+notes: >-
+  Reviewed 2026-10-16. The active official website and company LinkedIn profile
+  corroborate the agency's marketing and e-commerce services in Amman. LinkedIn
+  lists 11-50 employees and headquarters in Um Uthaina, Amman; this is a
+  self-reported size range, not an audited headcount. Official contact details
+  list Mohammad@algurus.com and +962 79 100 6167 for general inquiries; the
+  address is not confirmed as a recruitment mailbox, so hr_email remains null.
+  No dedicated careers page, current internal job opening, or internship was
+  verified. Shopify, WordPress, WooCommerce and Google Ads describe publicly
+  promoted client-service platforms, not a confirmed internal engineering stack.
+  The exact building, street address and office coordinates remain unverified:
+  the official site gives Amman, LinkedIn gives Um Uthaina, while older
+  third-party listings mention Mecca Street. The generic Maps search is not
+  evidence of an exact office pin. The agency's separate academy website
+  identifies itself as run by the AlGurus team; its courses are not hiring.
 evidence:
   - type: "official_website"
     url: "https://algurus.com"
-    label: "Official AlGurus website"
+    label: "Official website, current services and Amman contact details; reviewed 2026-10-16"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/algurus"
-    label: "Current LinkedIn company profile, Um Uthaina headquarters and 11-50 size"
+    label: "Company LinkedIn profile, Um Uthaina headquarters, 11-50 size, services and recent posts; reviewed 2026-10-16"
   - type: "company_listing"
     url: "https://www.goodfirms.co/company/algurus-agency"
     label: "Company directory profile; historical Mecca Street location claim"
@@ -43,3 +62,12 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=AlGurus+Agency%2C+Um+Uthaina%2C+Amman%2C+Jordan"
     label: "Google Maps search; exact office business pin remains unresolved"
+  - type: "official_website"
+    url: "https://algurus.com/contact-us-algurus-digital/"
+    label: "Official contact page, general email and phone; reviewed 2026-10-16"
+  - type: "official_website"
+    url: "https://algurus.com/about-us/"
+    label: "Official about page, marketing and development service description; reviewed 2026-10-16"
+  - type: "official_website"
+    url: "https://algurusacademy.com/en/"
+    label: "AlGurus Academy describes courses taught by the agency team; not employment evidence; reviewed 2026-10-16"

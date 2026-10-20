@@ -1,20 +1,20 @@
 name: "Apprikot"
-description: "Apprikot is the software and product-development arm historically associated with Beecell International. Its work has included native mobile applications, enterprise mobility, web development and user-experience services for telecom and digital-service clients."
+description: "Apprikot was established in 2015 as a Jordan-based mobile application and web development company and the technology development arm of Beecell International. Documented services included native iOS and Android applications, enterprise mobility, web development, and UX design. Current standalone operations and hiring activity were not independently confirmed in October 2026."
 verification_status: "partial"
-last_verified: "2026-10-07"
-industry: "Software / Mobile VAS Development"
+last_verified: "2026-10-17"
+industry: "Software Development / Mobile Applications"
 website: null
 careers_url: null
 linkedin: null
 hr_email: null
-size: "~37"
+size: "38 employees (2017 historical figure; current headcount unknown)"
 location:
   area: "Amman"
-  address: "Amman, Jordan (shares Beecell offices)"
+  address: "P.O. Box 840666, Amman 11181, Jordan (historical mailing address, 2017; current street address unverified)"
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "data"
   - "design"
@@ -27,14 +27,32 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Technology supplier and development arm of Beecell International (mobile VAS group): native iOS/Android apps, enterprise mobile apps, web dev and UX. No standalone website verified; no public internship/grad evidence found."
+notes: >-
+  The 2017 Jordan ICT directory describes Apprikot as Beecell's development arm,
+  established in 2015 with 38 staff and an Amman mailing address. It listed
+  www.apprikot.com, which was inaccessible during the 2026-10-17 review.
+  Beecell's LinkedIn company description still names Apprikot as a subsidiary,
+  but Beecell's current official website does not mention Apprikot; evidence of
+  Beecell's 2026 activity does not independently prove Apprikot's present
+  operating status. No current standalone LinkedIn profile, current headcount,
+  dedicated careers page, verified HR address, open vacancy, or precise office
+  location was established. Beecell's global employee range is not Apprikot's
+  headcount. Android and iOS are historical development capabilities, not a
+  confirmed 2026 internal technology stack. Previous generic Amman coordinates
+  were removed because they did not identify a verified office.
 evidence:
-  - type: "other"
+  - type: "industry_directory"
     url: "https://jordanict.com/2017/company-profile/apprikot"
-    label: "Research source"
-  - type: "other"
-    url: "https://jordanict.com/2017/node/210"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Jordan ICT 2017 Apprikot profile: founding, services, 38 employees, Amman mailing address"
+  - type: "industry_directory"
+    url: "https://jordanict.com/2017/listings_page?section=mobile-content-services-apps"
+    label: "Jordan ICT 2017 mobile services listings: Apprikot and Beecell contacts"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/beecell"
+    label: "Beecell company profile names Apprikot among subsidiaries; checked 2026-10-17"
+  - type: "official_website"
+    url: "https://www.beecell.com/"
+    label: "Beecell official site: parent group activity and Amman contact, not standalone Apprikot confirmation"
+  - type: "news"
+    url: "https://www.prlog.org/12520809-apprikot-signs-strategic-agreement-with-koooracom-to-develop-mobile-application.html"
+    label: "December 2015 Apprikot announcement about Kooora agreement and Beecell spin-off (historical)"

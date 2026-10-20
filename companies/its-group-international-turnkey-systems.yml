@@ -1,72 +1,93 @@
 name: "ITS Group (International Turnkey Systems)"
-industry: "Banking software / systems integration"
-website: "https://www.its.ws/"
-careers_url: null
-linkedin: null
-hr_email: "info@its.ws"
-size: "1000-5000"
+description: >-
+  International Turnkey Systems (ITS Group) is a Kuwait-headquartered financial
+  technology and systems-integration provider founded in 1981. Its ETHIX and
+  ETHIX NG banking platforms serve conventional and Islamic financial institutions;
+  it also offers enterprise solutions, infrastructure, managed services and
+  global software delivery. Its Jordan relationship is documented through a
+  Jordan-based channel partner, but a company-operated office in Jordan is unconfirmed.
+verification_status: "partial"
+last_verified: "2026-10-15"
+industry: "Banking Software / Financial Technology / Systems Integration"
+website: "https://its.ws/"
+careers_url: "https://its.ws/careers/"
+linkedin: "https://www.linkedin.com/company/itscorporate"
+hr_email: null
+size: "1001-5000"
 location:
-  area: "Amman"
-  address: "Macca St., Amman, Jordan"
+  area: null
+  address: null
   status: "unresolved"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "data"
   - "fintech"
   - "web"
+  - "consulting"
 technologies:
+  - "ETHIX NG"
+  - "Oracle E-Business Suite"
   - "Java"
-  - "jQuery"
   - "Oracle Database"
-  - "REST API"
-  - "Spring Boot"
   - "SQL Server"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Kuwait-HQ'd banking software group (ETHIX suite); Levant operations include Jordan; participated in Technovation Summit 2023 in Amman with Jordan-based partner. Amman office street address unverified. No street-level pin found; GPS remains Amman city-center approximation. Address updated per JordanYP listing. info@its.ws confirmed on its.ws contact page. GPS attempt 1 (2026-10-04): inconclusive. Official its.ws contact page (its.ws/contact-2/) lists NO Jordan/Amman office (Kuwait, Cairo x2, Bahrain, Dubai, India only; archived 2022 page identical). Conflicting third parties: jordanyp.com + buildeey.com say 'Macca St., Amman' (phone +962-6-5503253, jordanyp listing unverified, registered 2012); UNCLAIMED Google Maps 'International Turnkey Systems ITS' pin (lat 31.9674911, lng 35.8548897 per place URL) shows vague 'Amman, Jordan' label, miscategorized 'Educational institution', 1 decade-old review, no website, 'Claim this business' shown - weak evidence; Bing panel ties same listing to Abdullah Ghosheh St 55, Um Nuwwarah (+962 6 581 8383) - different street AND phone from JordanYP. LinkedIn auth-walled; public snippet says HQ Kuwait, R&D Kuwait/India/Cairo - no Jordan. jordanict.com: not listed; no ITS job posts mention Amman; careers page empty; news page has no Jordan content. Per trust hierarchy the company's own site wins - it claims no Amman office, so no pin confirmed. Kept honest city-center fallback. GPS attempt 2 (2026-10-04): inconclusive - STRONGER evidence ITS has NO Amman office of its own. ITS 2022 company profile PDF (its.ws official) lists offices only in Kuwait, Cairo x2, Bahrain, India, Dubai; live its.ws contact page + About page list same, no Jordan; its.ws site search for 'Amman'/'Jordan' returns nothing; July 2026 ITS ISO announcement mentions exactly 5 offices (Kuwait, Cairo x2, Bahrain, UAE). ITS's own Technovation Summit 2023 article frames its Jordan footprint as a PARTNERSHIP with Jordan-based Arizona Intelligent Solutions (Al Kindi St, Amman) - not an ITS office. ITS hired staff in Amman (LinkedIn job ~2023, 'Amman, Jordan', no street address). Stale/conflicting third parties: jordanyp.com (UNVERIFIED, registered 2012) + buildeey.com (mirror) claim 'Macca St., Amman', phone +962-6-5503253; unclaimed Google Maps 'International Turnkey Systems ITS' pin (31.9674911, 35.8548897, read live from place URL) shows only 'Amman, Jordan' label, miscategorized 'Educational institution', 1 ten-year-old review, no website - pin sits ~1.5km off Macca St corridor; Bing card for same listing says 'Abdullah Ghosheh St 55, Um Nuwwarah'. Three addresses, two phones across sources - no two agree. Bar not met. Kept honest city-center fallback.\nGPS attempt 3 (2026-10-04) - FINAL: unverifiable. Live browser re-check of its.ws (contact page, About, News & Events): ITS still lists exactly 5 offices (Kuwait HQ, Egypt x2, Bahrain, Emirates), NO Jordan/Amman; site search for 'Jordan'/'Amman' returns zero results; July 2026 ISO-renewal announcement confirms the same five-office footprint; official Sept 2025 company profile PDF (its.ws/wp-content/uploads/2025/09/ITS_CP_EN_S.pdf) lists the same 5 offices. Google Maps 'International Turnkey Systems ITS' (Amman) UNCHANGED: still unclaimed, still miscategorized 'Educational institution', address label only 'Amman, Jordan', 1 ten-year-old review, no website, 'Claim this business' prompt - still weak evidence, never counts alone. Stale jordanyp.com/buildeey.com 'Macca St.' claim (2012, unverified) and Bing's conflicting 'Abdullah Ghosheh St 55' card both remain; three addresses, two phones, no two agree. LinkedIn auth-walled. CONCLUSION: no authoritative source confirms an ITS office in Amman; ITS's own official footprint explicitly excludes Jordan. Marked gps_unverifiable=true. Kept honest Amman city-center fallback pin.\nstack verified 2026-10-06: developer CVs (ITS ETHIX/Fluid banking projects) show Java/JSF/JPA on Oracle WebLogic + Oracle DB/SQL Server; recent ITS SWIFT payments dev posting lists Java/.NET, ISO 20022."
+notes: >-
+  Reviewed 2026-10-15. Official website and company LinkedIn identify the group
+  as Kuwait-headquartered and operating banking software, ETHIX/ETHIX NG,
+  infrastructure and managed services; LinkedIn reports 1,001-5,000 global
+  employees (not a Jordan headcount). The official contact page lists Kuwait,
+  two Egypt offices, Bahrain and UAE, with no Jordan address. The official
+  2022 corporate profile also includes India but not Jordan; the July 2026
+  five-office ISO announcement supports the current non-Jordan office footprint.
+  ITS's own Technovation Summit 2023 account documents participation in Amman
+  alongside its Jordan-based partner Arizona Intelligent Solutions, which
+  establishes a business relationship but not a staffed ITS office. A stale,
+  unverified JordanYP directory record lists Mecca Street, while other map
+  services give inconsistent Abdullah Ghosheh Street or city-only locations.
+  None is sufficient to confirm a Jordan office; the previous generic
+  Amman coordinates 31.9539,35.9106 and map link have been removed. This
+  record should not be presented as a confirmed Amman-based employer. The
+  official careers portal is active but JavaScript-rendered; no currently open
+  Jordan-specific vacancy, graduate scheme or recruiting email was verified.
+  info@its.ws is the company's general contact, not an HR address. ETHIX NG
+  and Oracle E-Business Suite are supported by official sources. Java,
+  Oracle Database and SQL Server are retained from prior historical developer
+  evidence and should not be interpreted as a verified current Jordan stack;
+  prior jQuery, REST API and Spring Boot claims lacked sufficiently strong
+  source attribution and were removed. Company-level verification remains
+  partial primarily because Jordan office and recruiting presence are unresolved.
 evidence:
   - type: "official_website"
-    url: "https://www.its.ws/"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.its.ws/contact-2/"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://www.its.ws/wp-content/uploads/2022/05/ITS-Company-Profile-2022-VR002-EN-Full-1.pdf"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://www.its.ws/its-at-technovation-summit-2023/"
-    label: "Location evidence"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/place/International+Turnkey+Systems+ITS/@30.6706953,39.6626287,6z/data=...3d31.9674911!4d35.8548897"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/344012/International_Turnkey_Systems"
-    label: "Location evidence"
-  - type: "other"
-    url: "http://its.ws/wp-content/uploads/2025/09/ITS_CP_EN_S.pdf"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://its.ws/news-and-events/"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://its.ws/its-successfully-renews-iso-certifications-across-five-offices/"
-    label: "Location evidence"
-  - type: "other"
+    url: "https://its.ws/"
+    label: "Official ITS website — banking software, ETHIX NG, services, 1981 founding and Kuwait headquarters"
+  - type: "official_website"
+    url: "https://its.ws/contact-2/"
+    label: "Current official contact offices — Kuwait, Egypt, Bahrain and UAE; no Jordan office listed"
+  - type: "official_website"
     url: "https://its.ws/company/"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://alchetron.com/International-Turnkey-Systems-Group"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.worldfinance.com/banking/islamic-banking/international-turnkey-systems-on-securing-compliance-solutions"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.zoominfo.com/c/international-turnkey-system/46614846"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Official company profile — Kuwait headquarters and global delivery locations"
+  - type: "official_website"
+    url: "https://its.ws/its-at-technovation-summit-2023/"
+    label: "Official 2023 Amman summit participation with Jordan-based partner Arizona Intelligent Solutions"
+  - type: "official_website"
+    url: "https://its.ws/its-successfully-renews-iso-certifications-across-five-offices/"
+    label: "July 2026 official certification announcement referring to five offices"
+  - type: "official_website"
+    url: "https://www.its.ws/wp-content/uploads/2022/12/ITS_Corporate_Profile.pdf"
+    label: "Official corporate profile — published global office list, excluding Jordan"
+  - type: "careers"
+    url: "https://its.ws/careers/"
+    label: "Official careers portal — JS-dependent listings; no Jordan opening independently confirmed"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/itscorporate"
+    label: "Official company LinkedIn — 1,001-5,000 global employees, Kuwait headquarters and international office locations"
+  - type: "official_website"
+    url: "https://its.ws/its-achieves-oracle-partner-network-specialization-for-oracle-e-business-suite/"
+    label: "Historical official announcement — Oracle E-Business Suite specialization"
+  - type: "company_listing"
+    url: "https://www.jordanyp.com/company/344012/International_Turnkey_Systems"
+    label: "Unverified historical Mecca Street listing; conflicts with official office footprint and not accepted as location verification"

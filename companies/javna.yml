@@ -1,42 +1,101 @@
 name: "Javna"
-industry: "Telecommunications / CPaaS"
+description: "Javna is an Amman-headquartered communications-platform-as-a-service (CPaaS) and AI customer-engagement company operating since 2001. It provides SMS and WhatsApp Business messaging APIs, omnichannel notifications and one-time-password verification, customer-conversation inboxes, and no-code AI chatbots for enterprises."
+verification_status: "partial"
+last_verified: "2026-10-15"
+industry: "Communications Platform as a Service (CPaaS) / Enterprise Software"
 website: "https://www.javna.com/"
-careers_url: null
-linkedin: null
-hr_email: null
-size: "51-100"
+careers_url: "https://hunt.kayanhr.com/CareerSite/Index/YzdRNElTUmtlR1l3RW4s"
+linkedin: "https://www.linkedin.com/company/javna"
+hr_email: "careers@javna.com"
+size: "51-200"
 location:
-  area: "Amman"
-  address: "Adnan Halawa Trading Center A35, As-Senaah St., Bayader Wadi Al-Seer, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.945658
-  longitude: 35.843869
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.945658,35.843869"
+  area: "Bayader Wadi Al-Seer, Amman"
+  address: "Adnan Halawa Center, Industrial Road (As-Senaah Street), Bayader Wadi Al-Seer, Amman 11185, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Javna%20Adnan%20Halawa%20Center%20Industrial%20Road%20Amman"
 categories:
   - "ai"
   - "telecom"
+  - "mobile"
+  - "web"
 technologies:
-  - "Generative AI"
+  - "SMS API"
+  - "WhatsApp Business Platform API"
   - "REST API"
-  - "SMS Gateway"
+  - "Omnichannel OTP"
+  - "No-code AI Chatbots"
+  - "Android"
+  - "iOS"
+  - "C#"
+  - "ASP.NET Core"
+  - "Entity Framework Core"
+  - "MySQL"
+  - "Azure DevOps"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-notes: "Amman-HQ omnichannel CPaaS (SMS API, WhatsApp Business Platform, AI chatbots, OTP verify); badged Meta Business Partner, 1,300+ brands, founded 2001. No public internship/grad evidence found."
+    - "Javna announced hosting five AI interns from Jordanian universities in a company LinkedIn post circulated in 2025; the intake has concluded."
+    - "A former intern documents a June-July 2024 backend internship using ASP.NET Core, C#, Entity Framework Core and MySQL."
+    - "A 2026 graduate's LinkedIn update documents a completed full-stack development internship; current applications are unconfirmed."
+    - "Javna representatives attended HTU Career Day 2026 to engage prospective candidates; attendance is not proof of an open vacancy."
+notes: >-
+  Reviewed 2026-10-15. Javna's official website, About Us page and company LinkedIn
+  establish Amman headquarters, operation since 2001, CPaaS, programmable SMS and
+  WhatsApp Business APIs, OTP/2FA, no-code conversational AI and unified messaging.
+  LinkedIn reports 51-200 employees (company-wide, not Jordan-specific). The
+  official privacy policy identifies the registered office as Adnan Halawa
+  Center on Industrial Road in Bayader Wadi Al-Seer; int@j and Decypha independently
+  corroborate that building and street. int@j specifies a third floor, but the
+  current official policy does not confirm the floor, so it is omitted. The
+  prior latitude/longitude are not independently tied to the precise entrance
+  and were cleared; the maps link is an address search, not a verified pin.
+  The official site links a KayanHR-hosted careers portal, but following the
+  portal returned a redirect loop during review; current listings cannot be
+  confirmed. A company recruitment post reposted by Javna HR Careers lists
+  careers@javna.com, and describes QA testing using Azure DevOps, Android/iOS
+  and API testing; another recruitment post seeks 1-2 years' experience for
+  customer/technical support. Historic AI and software internships are
+  documented, including a company post about five AI interns and firsthand
+  intern accounts, but no open October 2026 internship intake was established.
+  ASP.NET Core, C#, Entity Framework Core and MySQL are documented from an
+  individual 2024 backend internship and a 2026 full-stack internship report;
+  these are examples of intern-used tools, not a comprehensive current stack.
+  Product/API technologies are publicly advertised capabilities. Verification
+  remains partial due to inaccessible live careers listings and unconfirmed
+  current early-career openings and internal stack completeness.
 evidence:
   - type: "official_website"
-    url: "https://www.javna.com/"
-    label: "Official website"
+    url: "https://javna.com/"
+    label: "Official site: CPaaS, WhatsApp, SMS, OTP and AI chatbot offerings; careers link in footer"
+  - type: "official_website"
+    url: "https://javna.com/about-us/"
+    label: "Official history since 2001 and engineering/HR leadership"
+  - type: "official_website"
+    url: "https://javna.com/legal/privacy-policy/"
+    label: "Official registered office: Adnan Halawa Center, Industrial Road, Bayader Wadi Al-Seer"
+  - type: "careers_page"
+    url: "https://hunt.kayanhr.com/CareerSite/Index/YzdRNElTUmtlR1l3RW4s"
+    label: "Official-site-linked KayanHR careers portal; redirect loop during 2026-10-15 check"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/javna"
+    label: "Company LinkedIn: 2001 founding, 51-200 employees, Amman Industrial Road office and current services"
+  - type: "company_listing"
+    url: "https://intaj.net/user/101/"
+    label: "Jordan ICT association listing: Adnan Halawa Center, third floor, Industrial Road, Bayader Wadi Al-Seer"
+  - type: "company_listing"
+    url: "https://www.decypha.com/en/company-list/Javna-Software-Solutions-Co-Ltd-272401"
+    label: "Company directory: 2001 founding, Adnan Halawa Center and public general contact"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/javna-hr-careers-a3069334a"
+    label: "Javna HR Careers reposts company recruiting posts naming careers@javna.com and QA/technical support requirements"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/mamoun-omar-769b70184"
+    label: "Company AI internship announcement repost: five university interns in 2025"
   - type: "other"
-    url: "https://www.jordanyp.com/company/344518/Javna_Mobile_Media_Technology_Solutions"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.crunchbase.com/organization/javna-wireless-software-solutions"
-    label: "Research source"
-  - type: "other"
-    url: "http://images.decypha.feedgfm.com/en/company-list/------------Javna-Software-Solutions-Co-Ltd---272401"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.945658,35.843869"
-    label: "Google Maps location"
+    url: "https://zaiddiab.com/experience"
+    label: "Firsthand 2024 Javna backend intern account: ASP.NET Core, Entity Framework Core and MySQL"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/kareemjweihan"
+    label: "2026 completed full-stack internship report reposted on LinkedIn"

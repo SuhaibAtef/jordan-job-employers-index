@@ -1,34 +1,42 @@
 name: "AI HUB"
-description: "AI HUB is an Amman-based AI community, training and services startup. It runs practical AI and data programs, delivers AI-powered business solutions and automation, connects talent with organizations and explicitly promotes AI-powered recruitment and internship opportunities."
+description: "AI HUB is an Amman-based startup founded in 2024 that provides hands-on AI and data training, AI-powered business solutions and workflow automation, and talent-development and recruitment programs. Its public activity includes university-linked training and early-career initiatives."
 verification_status: "partial"
-last_verified: "2026-10-07"
-industry: "AI services / Talent"
+last_verified: "2026-10-16"
+industry: "AI Services / Training and Talent Development"
 website: null
 careers_url: null
 linkedin: "https://www.linkedin.com/company/aihub-talentpool/"
-hr_email: null
+hr_email: "jobs@aihub-talent.com"
 size: "2-10"
 location:
   area: "Amman"
   address: null
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
   - "consulting"
+  - "data"
 technologies: []
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internships"
-    - "Student and young-professional programs"
-notes: "Amman AI-focused startup (founded 2024) running hands-on AI/data programs, AI solutions & automation for businesses, and AI-powered recruitment & internships — strong fresh-grad/intern pipeline.\nstack research 2026-10-04: 3 searches; LinkedIn company page (aihub-talentpool, 2-10 employees, Amman, founded 2024) lists 'Website & Software Development' as a specialty, but no employee profiles or job postings naming specific tech. Tags left empty, unverified."
+    - "Historical 2025 AI and data science fresh-graduate rotation recruitment"
+    - "2026 internship program reposted by AI HUB; application status not confirmed"
+    - "2026 robotics-trainer opportunity reposted by AI HUB; application status not confirmed"
+notes: |-
+  Reviewed 2026-10-16. AI HUB's company LinkedIn page identifies Amman (postal code 11925), a 2024 founding date and 2-10 employees; this size is company self-reported, not an audited count. No street address, office pin or reliable office coordinates were established. Earlier coordinates (31.9539, 35.9106) and Google Maps search were generic city-center references, not evidence of the employer's premises, so they were removed.
+  The company-authored 2025 fresh-graduate job announcement explicitly supplied jobs@aihub-talent.com for applications. It is recorded as a historical recruitment contact; current deliverability and an active HR mailbox have not been verified. The company also reposted an internship announcement and a robotics-trainer hiring message during 2026, but current openings, deadlines and direct employment relationships are not confirmed.
+  In 2026 the company promoted AI-agent training using Python, n8n and APIs, plus a Claude for Work course scheduled for 17 October with Princess Sumaya University for Technology. These are training topics, not proof of the company's internal production stack; technologies therefore remain empty. No independently confirmed official company website or careers portal was found. The similarly named AI Hub jo (LinkedIn: aihubjordan; founded 2013; website aihubjo.com) appears to be a distinct initiative and must not be conflated with this 2024 AI HUB (aihub-talentpool).
 evidence:
   - type: "linkedin_company"
-    url: "https://jo.linkedin.com/company/aihub-talentpool"
-    label: "LinkedIn company page"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://www.linkedin.com/company/aihub-talentpool/"
+    label: "AI HUB company profile: 2024 founding, Amman, 2-10 employees, 2026 training and reposted hiring activity"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/aihub-talentpool_hiring-ai-data-science-fresh-graduates-activity-7325496850487107585-VjAq"
+    label: "Company-authored 2025 graduate rotation advertisement and historical recruitment email"
+  - type: "company_listing"
+    url: "https://www.signalhire.com/companies/aihub-24613513"
+    label: "Independent listing corroborates founding year and Amman; employee estimate is not authoritative"

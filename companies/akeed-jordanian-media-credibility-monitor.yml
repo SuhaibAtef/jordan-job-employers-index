@@ -1,48 +1,53 @@
 name: "Akeed (Jordanian Media Credibility Monitor)"
-description: "AKEED is the Jordanian Media Credibility Monitor, a Jordan Media Institute project that tracks rumors and evaluates the credibility of media coverage using published standards. It produces regular monitoring reports and functions as a media-accountability and fact-checking initiative."
+description: "AKEED is a Jordan Media Institute media-accountability and fact-checking project, launched in 2014 with support from the King Abdullah II Fund for Development. It monitors rumors and the credibility of Jordanian media coverage, checks claims against published standards, and issues periodic monitoring reports."
 verification_status: "partial"
-last_verified: "2026-10-07"
-industry: "Civic Tech / Media"
+last_verified: "2026-10-16"
+industry: "Media Monitoring / Fact-Checking"
 website: "https://akeed.jo"
 careers_url: null
 linkedin: null
-hr_email: "info@akeed.jo"
-size: null
+hr_email: null
+size: "10-person team reported in a 2026 academic study (one director and nine collaborators); not a verified employee headcount"
 location:
-  status: "provided_unverified"
+  status: "approximate"
   address: "Airport Street, Amman, Jordan"
   area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.9518
-  longitude: 35.94042
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "web"
 technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Founded 2014; Jordan Media Institute project (backed by King Abdullah II Fund for Development); tracks media credibility and rumors in Jordanian media with daily/monthly reports; civic-tech accountability lane; site lists only Airport Street, Amman as address; no public grad/internship info found.\nstack research 2026-10-04: 6 searches + akeed.jo site check; JMI media-observatory project, no dev postings or employee tech evidence found (Akeed Tech/akeedsoft.com are unrelated firms). Tags left empty, unverified."
+notes: |-
+  Reviewed 2026-10-16. AKEED is a project of the Jordan Media Institute, not independently confirmed as a separate incorporated employer. The official site lists Airport Street, Amman, and info@akeed.jo (general contact, not a dedicated HR address), but does not establish an exact building or office pin; the prior generic city-center coordinates were removed. The parent institute's address and recruitment page should not be treated as AKEED-specific without confirmation. No AKEED-specific careers page, live vacancy, early-career program, LinkedIn company profile, or production technology stack was verified. A 2026 academic study describes a ten-person team including collaborators, not an audited payroll count. AKEED was active in 2026: Petra reported its September rumor monitoring on 2026-10-01. AKEED Tech and akeedsoft.com are unrelated organizations.
 evidence:
   - type: "official_website"
     url: "https://akeed.jo"
-    label: "Official website"
-  - type: "other"
-    url: "https://en.wikipedia.org/wiki/Akeed"
-    label: "Research source"
-  - type: "other"
-    url: "https://petra.gov.jo/en/news/akeed-tracks-94-rumors-in-september-most-originating-domestically"
-    label: "Research source"
-  - type: "other"
-    url: "https://mdpi-res.com/d_attachment/socsci/socsci-15-00185/article_deploy/socsci-15-00185.pdf?version=1773394156"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
-    label: "Google Maps location"
+    label: "Official AKEED website and project description"
   - type: "official_website"
-    url: "https://www.akeed.jo/en/index.html"
-    label: "Current official site, Airport Street contact and 2026 monitoring reports"
+    url: "https://akeed.jo/page/aan-almrsd"
+    label: "AKEED official about-the-monitor page"
+  - type: "official_website"
+    url: "https://akeed.jo/en/contact-us"
+    label: "Official Airport Street address, general email and phone"
+  - type: "official_website"
+    url: "https://akeed.jo/en/Reports"
+    label: "AKEED monitoring reports, including July 2026"
+  - type: "other"
+    url: "https://pt1.petra.gov.jo/en/news/akeed-tracks-94-rumors-in-september-most-originating-domestically"
+    label: "Petra 2026-10-01 report confirming September 2026 activity and JMI affiliation"
+  - type: "other"
+    url: "https://www.mdpi.com/2076-0760/15/3/185"
+    label: "2026 peer-reviewed study reporting team structure and fact-checking methodology"
   - type: "other"
     url: "https://petra.gov.jo/index.php/en/news/akeed-monitors-121-rumours-in-may-as-economic-living-cost-issues-drive-misinformation"
-    label: "2026 Petra report confirming AKEED remains active and affiliated with Jordan Media Institute"
+    label: "Petra 2026 report on May rumor monitoring"
+  - type: "other"
+    url: "https://en.wikipedia.org/wiki/Akeed"
+    label: "Historical background; not used as primary verification"
+  - type: "official_website"
+    url: "https://www.akeed.jo/en/index.html"
+    label: "Official AKEED site and historical report archive"

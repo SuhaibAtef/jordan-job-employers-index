@@ -1,78 +1,120 @@
-name: "Maqsam"
-industry: "AI Contact Center Software"
-website: "https://maqsam.com"
-careers_url: null
-linkedin: null
+name: Maqsam
+description: Maqsam provides an Arabic-first, AI-powered cloud contact-center and customer-experience platform,
+  including voice AI agents, call transcription and analytics, multichannel voice/WhatsApp communications, and CRM
+  integrations for businesses in MENA.
+industry: AI-powered Contact Center SaaS and Cloud Communications
+website: https://maqsam.com/
+careers_url: https://maqsam.com/careers
+linkedin: https://www.linkedin.com/company/maqsamhq/
 hr_email: null
-size: "51-200"
+size: 51-200
 location:
-  area: "Amman"
-  address: "Boulevard Al-Abdali – Black Iris St., Central 1&2, Amman"
-  status: "verified"
+  area: Amman
+  address: Boulevard Al-Abdali – Black Iris St., Central 1&2, Amman (historically reported; current occupancy unconfirmed)
+  status: approximate
   latitude: 31.9631665
   longitude: 35.9057078
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9631665,35.9057078"
+  maps_url: https://www.google.com/maps/search/?api=1&query=31.9631665,35.9057078
 categories:
-  - "ai"
-  - "data"
-  - "erp"
-  - "mobile"
+- ai
+- data
+- mobile
+- web
 technologies:
-  - "AI/ML"
-  - "Generative AI"
-  - "iOS"
-  - "NLP"
-  - "REST API"
+- AI/ML
+- Generative AI
+- NLP
+- REST API
+- Ruby on Rails
+- Node.js
+- Redis
+- PostgreSQL
+- AWS
+- WebRTC
+- SIP
+- Prometheus
+- Quickwit
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Jordan-founded (Amman office visited by Queen Rania) Arabic AI contact center: native Arabic voice AI agents, call transcription and analytics; HQ now in Riyadh. gps attempt 1 (2026-10-05): deep live-browser investigation, no certain address. maqsam.com has no contact page (404) and publishes no address anywhere (footer only lists regional phones); newsroom confirms an Amman office (Queen Rania visit, Mar 2022) but no street. Google Maps 'Maqsam' listing is unclaimed/sparse: no address label, category 'Software company', 27 reviews, Saudi phone (+966) matching Riyadh HQ move, and its pin (26.8353,40.5681) lands on empty desert — distrusted. LinkedIn lists HQ Riyadh; a company post confirms 4 offices incl. Amman. Only address-level detail found: LinkedIn search snippet 'Amman, Boulevard Al-Abdali - Black Iris St. Central 1&2' (employee-set workplace snippet, single source, unverified). jordanict.com, jordanyp.com (verified listing, blank address), tanqeeb.com all give 'Amman, Jordan' only. Bar not met: no two independent sources agree on a street-level location; no authoritative source publishes one. Pin moved to Abdali/Black Iris St area (best-supported guess) — approx and unverified. gps attempt 2 (2026-10-05): fresh-angle deep check, still inconclusive. Clutch.co: site behind human-verification wall (not passed; runtime CAPTCHA pref 'ask'), and Google site:clutch.co shows no indexed Maqsam profile. Instagram @maqsamhq (5,750 followers) bio and Facebook page intro publish no address; post captions/About tab login-gated. Google Maps 'Maqsam Amman' (EN + Arabic): exactly one listing, category 'Software company', 4.1★/27 reviews, Saudi phone +966 11 520 1553, NO street address shown, UNCLAIMED/sparse (no hours, owner-less), pin 26.8353225,40.5681375 = same empty desert as attempt 1 — distrusted. LinkedIn /about/ is auth-walled. Dealroom snippet adds only district level: 'Amman Sub-District, Amman Qasabah District, Amman, 2062' — no street/building. JordanYP verified listing (Sep 2023) shows Address label with no value; phone +962 795087361 consistent with a Jordan presence. Crunchbase, SignalHire, LinkedIn all list only the Riyadh HQ address (Prince Mohammed Bin Abdulaziz Rd, Al Olaya District, Riyadh 12213). Bar not met again: no two sources agree on a street-level Amman location and no authoritative source publishes one. Pin stays at Abdali/Black Iris St area — approx and unverified. gps attempt 3 (2026-10-05): VERIFIED. Maqsam's company-managed LinkedIn page (via Google's indexed snapshot) lists the Amman location as 'Amman, Boulevard Al-Abdali – Black Iris St., Central 1&2'; Google knowledge panel and the same address on Orange Jordan/Umniah/MHA Advisers LinkedIn pages corroborate it as a real Abdali business address. Amman office independently confirmed by Queen Rania's Mar 2022 visit and a Sep 2026 company post listing 4 offices incl. Amman. Caveat: the location was removed from Maqsam's live LinkedIn after the HQ move to Riyadh; web archives of maqsam.com publish no street address. Pin stays at Abdali-area coordinates."
+  early_career_signal: true
+  signals:
+  - Historical 2026 Amman backend Software Engineer listing described mentorship and skill development; the current
+    official Workable board shows no vacancies (checked 2026-10-20).
+notes: 'Maqsam was founded in 2019 and operates an Arabic-first AI-powered contact-center platform. Its current
+  LinkedIn profile lists Riyadh as global headquarters and 51–200 employees worldwide; Jordan headcount is not established.
+  The official company site confirms voice AI, Arabic transcription, customer analytics and CRM integration. Maqsam''s
+  official careers page points to Workable; that board stated no vacancies when checked on 2026-10-20. A 2026 Amman
+  backend Software Engineer advertisement is historical and should not be represented as currently open. A technical
+  lead''s public CV describes Rails, Node.js, Redis, PostgreSQL, AWS, WebRTC, SIP, Quickwit and Prometheus in production,
+  but this is employee-reported rather than independently audited. No dedicated HR email was verified; hello@maqsam.com
+  is a general business contact in the Jordan ICT directory.
+
+  Location research 2026-10-05: An Amman office was corroborated by Queen Rania''s 2022 visit and Jordan ICT listings.
+  An indexed historical company-managed LinkedIn snippet gave ''Boulevard Al-Abdali – Black Iris St., Central 1&2'';
+  other businesses also use this Abdali street address, but the current Maqsam LinkedIn profile only publishes its
+  Riyadh address. The Google Maps listing named Maqsam displayed a Saudi number and an implausible desert pin, so
+  it was rejected. The retained 31.9631665,35.9057078 pin is an approximate Abdali-area point, not a verified office
+  entrance. The Jordan office street/building cannot be independently reconfirmed as current; location confidence
+  is approximate, distinct from partial company verification.'
 evidence:
-  - type: "official_website"
-    url: "https://maqsam.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://maqsam.com/newsroom/queen-rania-visits-local-cloud-communications-company"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://sa.linkedin.com/company/maqsamhq"
-    label: "Location evidence"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/place/Maqsam/@26.8353225,40.5681375,5z"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://jordanict.com/2024/company-listings/maqsam"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/376004/Maqsam"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://web.archive.org/web/20221206061504/https://maqsam.com/"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://web.archive.org/web/20220701044520/https://maqsam.com/about"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://www.jordannews.jo/Section-109/News/Queen-Rania-visits-local-cloud-communications-company-14607"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://www.addustour.com/articles/1272821"
-    label: "Location evidence"
-  - type: "job_post"
-    url: "https://www.gulftalent.com/jordan/jobs/software-engineer-611814"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://www.linkedin.com/company/maqsamhq"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://maqsam.com/customer-service-software"
-    label: "Research source"
-  - type: "other"
-    url: "https://mena.entrepreneur.com/entrepreneurs/follow-the-leader-sinan-taifour-co-founder-and-ceo-maqsam/433379"
-    label: "Research source"
-  - type: "other"
-    url: "https://royalcentral.co.uk/east/jordan/queen-rania-visits-innovative-phone-provider-on-mothers-day-174418/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9631665,35.9057078"
-    label: "Google Maps location"
+- type: official_website
+  url: https://maqsam.com
+  label: Official website
+- type: other
+  url: https://maqsam.com/newsroom/queen-rania-visits-local-cloud-communications-company
+  label: 2022 Amman office confirmation
+- type: other
+  url: https://sa.linkedin.com/company/maqsamhq
+  label: Historical company LinkedIn location evidence
+- type: google_maps
+  url: https://www.google.com/maps/place/Maqsam/@26.8353225,40.5681375,5z
+  label: Unreliable unrelated map pin; rejected for Jordan geocoding
+- type: other
+  url: https://jordanict.com/2024/company-listings/maqsam
+  label: Jordan ICT company listing
+- type: other
+  url: https://www.jordanyp.com/company/376004/Maqsam
+  label: Jordan company directory
+- type: other
+  url: https://web.archive.org/web/20221206061504/https://maqsam.com/
+  label: Historical website snapshot
+- type: other
+  url: https://web.archive.org/web/20220701044520/https://maqsam.com/about
+  label: Historical company information
+- type: other
+  url: https://www.jordannews.jo/Section-109/News/Queen-Rania-visits-local-cloud-communications-company-14607
+  label: 2022 royal visit to Amman office
+- type: other
+  url: https://www.addustour.com/articles/1272821
+  label: Jordan reporting on company
+- type: job_post
+  url: https://www.gulftalent.com/jordan/jobs/software-engineer-611814
+  label: Historical Jordan hiring evidence
+- type: linkedin_company
+  url: https://www.linkedin.com/company/maqsamhq
+  label: LinkedIn global size and Riyadh HQ
+- type: other
+  url: https://maqsam.com/customer-service-software
+  label: Official platform features
+- type: other
+  url: https://mena.entrepreneur.com/entrepreneurs/follow-the-leader-sinan-taifour-co-founder-and-ceo-maqsam/433379
+  label: Founder interview
+- type: other
+  url: https://royalcentral.co.uk/east/jordan/queen-rania-visits-innovative-phone-provider-on-mothers-day-174418/
+  label: 2022 visit corroboration
+- type: google_maps
+  url: https://www.google.com/maps/search/?api=1&query=31.9631665,35.9057078
+  label: Approximate Abdali-area point; not verified office entrance
+- type: careers_page
+  url: https://maqsam.com/careers
+  label: Official careers page
+- type: careers_page
+  url: https://apply.workable.com/maqsam/
+  label: Linked official Workable board; no openings observed 2026-10-20
+- type: job_post
+  url: https://jobs.workable.com/view/soEnd73t379725iNeo7jf6/hybrid-software-engineer-in-amman-at-maqsam
+  label: Historical 2026 Amman backend software engineer listing
+- type: other
+  url: https://mahmood.you-sef.dev/cv/
+  label: Technical lead self-reported production technology
+verification_status: partial
+last_verified: '2026-10-20'

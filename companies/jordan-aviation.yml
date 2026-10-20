@@ -1,35 +1,72 @@
 name: "Jordan Aviation"
-industry: "Airline / Aviation"
+description: >-
+  Jordan Aviation (JAV) is a privately owned Jordanian airline established in 1998
+  and headquartered in Amman. It operates passenger and charter flights and offers
+  aircraft wet-leasing services. The airline has historically supported transport
+  contracts for United Nations peacekeeping operations.
+verification_status: "partial"
+last_verified: "2026-10-15"
+industry: "Airlines and Aviation"
 website: "https://www.jordanaviation.jo/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/jordanaviation"
 hr_email: null
-size: null
+size: "501-1,000"
 location:
   area: "Amman"
-  address: "King Faisal Bin Abdul Aziz St. 55 (Jordan Aviation Building), Um Uthaina, Amman"
-  status: "provided_unverified"
-  latitude: 31.969271
-  longitude: 35.870596
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.969271,35.870596"
+  address: "Jordan Aviation Building No. 55, King Faisal Bin Abdul Aziz Street, Um Uthaina, Amman, Jordan"
+  status: "verified"
+  latitude: 31.9689
+  longitude: 35.8705
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9689,35.8705"
 categories:
-  - "ai"
   - "travel"
 technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman-based airline operating worldwide charter flights, wet-lease services and air transport for UN peacekeeping forces. Publicly listed contact is info@jordanaviation.jo (general customer service); no HR-specific email found, so hr_email stays null. stack research 2026-10-05: 4 searches + careers page check, no dev/IT postings found (wuzzuf shows no open jobs)"
+notes: >-
+  Reviewed 2026-10-15. The official contact/office pages, Jordan Aviation's
+  LinkedIn profile and independent business listings agree on the Amman head
+  office in Um Uthaina at King Faisal Bin Abdul Aziz Street, building 55.
+  Coordinates are an approximate building/address geocode from a geographic
+  listing, not a surveyed entrance; location verification is separate from
+  company-level verification. LinkedIn lists 501-1,000 employees on the active
+  Jordan Aviation Airline profile, while another similarly branded profile
+  reports 1,001-5,000; the size is an estimate. September-October 2026 hiring
+  evidence includes experienced A320/A330 commanders, safety assurance,
+  technical-store management and CAMO quality roles. The role-specific pilot
+  recruitment mailbox JAV-InitPilotTrng@jordanaviation.jo appeared in the
+  September 14, 2026 advertisement; it is not established as a general HR
+  contact. The published info@jordanaviation.jo is a general contact, not a
+  confirmed HR mailbox. No official careers portal, active graduate/internship
+  program or internal software/AI technology stack was substantiated. Removed
+  the unsupported AI category.
 evidence:
   - type: "official_website"
     url: "https://www.jordanaviation.jo/"
-    label: "Official website"
+    label: "Official Jordan Aviation website"
   - type: "other"
-    url: "https://en.wikipedia.org/wiki/Jordan_Aviation"
-    label: "Research source"
+    url: "https://www.jordanaviation.jo/EN-article-23"
+    label: "Official contact page; Amman head office and general email"
   - type: "other"
-    url: "https://jo.wego.com/en/airlines/jordan-aviation-r5"
-    label: "Research source"
+    url: "https://www.jordanaviation.jo/Our-offices"
+    label: "Official Jordan office locations"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/jordanaviation"
+    label: "Company LinkedIn; location, size, operations and recent hiring"
+  - type: "other"
+    url: "https://alsaa.net/article/651289/privacy"
+    label: "2026-09-14 commander vacancy; role-specific recruitment mailbox"
+  - type: "other"
+    url: "https://www.decypha.com/en/company-list/Jordan-Aviation-Co-PSC-38651"
+    label: "Independent Jordan Aviation company and address listing"
+  - type: "other"
+    url: "https://www.cybo.com/JO-biz/jordan-aviation_1B"
+    label: "Independent business listing for building 55"
+  - type: "other"
+    url: "https://www.address-mideast.com/JO/jordan-aviation-co-king-faisal-bin-abd-al-aziz-st-55-amman-jordan"
+    label: "Approximate coordinates of building 55"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.969271,35.870596"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9689,35.8705"
+    label: "Approximate address-level map lookup; not exact entrance"

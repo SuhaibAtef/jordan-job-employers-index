@@ -1,5 +1,6 @@
 name: "Akhtaboot"
-last_verified: "2026-10-07"
+verification_status: "partial"
+last_verified: "2026-10-16"
 industry: "Staffing and Recruiting"
 description: "Akhtaboot is a Jordanian online recruitment and career platform connecting employers with job seekers across MENA. It operates a job marketplace and employer-recruiting services, and has historically run job fairs, internship and fresh-graduate initiatives."
 website: "https://www.akhtaboot.com"
@@ -11,6 +12,7 @@ location:
   area: "Amman"
   address: "Emaar Towers, 6th Circle, Zahran St 196, Amman, Jordan"
   status: "verified"
+  confidence: "medium"
   latitude: 31.960924
   longitude: 35.874113
   maps_url: "https://www.google.com/maps/search/?api=1&query=Akhtaboot%2C+Emaar+Towers%2C+6th+Circle%2C+Amman%2C+Jordan"
@@ -24,16 +26,39 @@ technologies:
 job_seeker:
   early_career_signal: true
   signals:
-    - "Historical internships"
-    - "Historical fresh-graduate programs"
-notes: "Verified 2026-10-07. Current LinkedIn lists Akhtaboot as a staffing/recruiting company with 11-50 employees, headquartered at Emaar Towers, 6th Circle, Amman 11181. Google Maps independently resolves Akhtaboot at Emmar/Emaar Towers, Zahran St 196, with phone +962 6 577 7500, so the location is upgraded to verified. The previous 51-200 size was corrected to the current LinkedIn 11-50 band. Akhtaboot's public jobs site is a marketplace for client vacancies and should not be treated as an internal Akhtaboot careers page. A current LinkedIn employee profile confirms employment in Amman. Historical research indicates Akhtaboot has offered internships and fresh-graduate opportunities, but no current internal graduate/engineering vacancy was found in this verification pass."
+    - "Historical 2015 university career-fair handbook: paid IT internships, traineeships, fresh-graduate positions"
+    - "Historical 2016 university career-fair handbook: internships and fresh-graduate opportunities; not confirmed open in 2026"
+notes: >-
+  Reviewed 2026-10-16. Akhtaboot is an Amman-headquartered online recruitment
+  network and employer-facing hiring platform serving the MENA region. Its
+  company LinkedIn lists 11-50 employees, founded 2007, and Emaar Towers,
+  6th Circle, Amman 11181. A separate Jordan business directory corroborates
+  the Sixth Circle/Zahran Street location and +962 6 577 7500. Address
+  confidence is medium-to-high; existing map coordinates were retained from
+  the prior record but were not independently revalidated this review.
+  The official Akhtaboot-hosted about page describes web recruiting and
+  Android/iOS apps, but its undated team roster is not reliable proof of
+  present staffing. Android and iOS therefore describe published app
+  platforms, not a verified internal engineering stack. The Akhtaboot
+  employer service page describes applicant tracking and recruitment
+  services. Its jobs marketplace carries vacancies for other employers:
+  postings there are not evidence that Akhtaboot itself is hiring.
+  German Jordanian University career-fair handbooks from 2015 and 2016
+  document internships and graduate opportunities historically, but no
+  currently open internal role or dedicated HR recruiting mailbox was
+  confirmed. Official terms publish info@akhtaboot.com as a general
+  contact, and the employer page publishes sales@akhtaboot.com; neither
+  is verified as an HR inbox. The main homepage blocked automated access
+  during this review; Akhtaboot-hosted subpages and company LinkedIn
+  remained discoverable. Partial company verification is appropriate
+  despite the independently supported office address.
 evidence:
   - type: "official_website"
     url: "https://www.akhtaboot.com"
     label: "Official website / recruitment platform"
   - type: "official_website"
     url: "https://example.akhtaboot.com/en/about"
-    label: "Akhtaboot about page describing company and employment mission"
+    label: "Official Akhtaboot-hosted about page; service and mobile-app description, undated team roster"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/akhtaboot"
     label: "Current LinkedIn company profile, Emaar Towers location and 11-50 size"
@@ -49,3 +74,21 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=Akhtaboot%2C+Emaar+Towers%2C+6th+Circle%2C+Amman%2C+Jordan"
     label: "Google Maps business result at Emmar/Emaar Towers, Zahran St 196"
+  - type: "official_website"
+    url: "https://example.akhtaboot.com/en/employers"
+    label: "Akhtaboot-hosted employer solutions page, recruitment management and sales contact"
+  - type: "official_website"
+    url: "https://example.akhtaboot.com/en/terms"
+    label: "Akhtaboot-hosted terms page; general info@akhtaboot.com contact, not HR-specific"
+  - type: "career_fair"
+    url: "https://www.gju.edu.jo/sites/default/files/handbook_20152.pdf"
+    label: "Historical 2015 GJU employer handbook, Akhtaboot paid internships and trainee programs"
+  - type: "career_fair"
+    url: "https://www.gju.edu.jo/sites/default/files/Office%20for%20Industrial%20Links/career_fair_2016_handbook.pdf"
+    label: "Historical 2016 GJU employer handbook, internships and graduate positions"
+  - type: "company_listing"
+    url: "https://www.tipntag.com/place/s/akhtaboot-the-career-network-1-Sixth-Circle-Amman-Jordan"
+    label: "Independent location directory, Sixth Circle/Zahran Street and phone"
+  - type: "third_party_reference"
+    url: "https://www.linkedin.com/company/oxfam-in-jordan"
+    label: "2026 Oxfam Jordan posts linked third-party vacancies via Akhtaboot, not Akhtaboot internal hiring"

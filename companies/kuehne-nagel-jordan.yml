@@ -1,38 +1,56 @@
-name: "Kuehne+Nagel Jordan"
-industry: "Logistics / freight forwarding / supply chain"
-website: "https://kuehne-nagel.com"
-careers_url: null
-linkedin: "https://www.linkedin.com/company/kuehne-nagel"
+name: Kuehne+Nagel Jordan
+description: Jordan operation of Kuehne+Nagel, the Swiss-headquartered logistics group providing air, sea and road freight forwarding,
+  contract logistics and customs brokerage. The Jordan operation is listed in Amman, but current street-level office details are not
+  independently confirmed.
+verification_status: partial
+last_verified: '2026-10-18'
+industry: Transportation, Logistics, Supply Chain and Storage
+website: https://www.kuehne-nagel.com/
+careers_url: https://jobs.kuehne-nagel.com/global/en
+linkedin: https://www.linkedin.com/company/kuehne-nagel
 hr_email: null
-size: null
+size: 82,000+ employees globally (2026 company careers and LinkedIn; Jordan headcount unknown)
 location:
-  area: "Amman"
-  address: "Al-Thaqafah, Shmeisani, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.9541033
-  longitude: 35.9073505
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9541033,35.9073505"
+  area: Amman
+  address: Al-Thaqafah, Shmeisani, Amman, Jordan (historical directory listing; current office unconfirmed)
+  status: provided_unverified
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "ai"
-  - "logistics"
+- logistics
 technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Swiss-headquartered global freight forwarder (sea/air/land, contract logistics, e-commerce fulfillment) with a Shmeisani office in Amman (JordanYP listing: Al-Thaqafah, Shmeisani).\nstack research 2026-10-04: 3 searches, branch ops office; only Amman posting is Secretary/Admin (GulfTalent), global IT roles centralized elsewhere; no employee profiles or dev postings found"
+notes: Reviewed 2026-10-18. The official corporate website and LinkedIn confirm a global freight-forwarding and logistics business;
+  the company locator previously indexed a Jordan National HQ at 14 Zahran Street, 3rd Circle, Amman, but the current locator is dynamically
+  rendered and does not confirm a current street address in its accessible text. IATA lists Al-Hamra Building, Shmeisani, and JordanYP
+  lists Al-Thaqafah, Shmeisani; these conflict with the formerly indexed official address. Retained the historically listed Shmeisani
+  locality but not an asserted verified office pin; removed unsupported coordinates. The official global careers portal is active, but
+  no currently open Jordan vacancy or Jordan-specific graduate/intern programme was confirmed. A German Jordanian University 2014 fair
+  handbook listed 103 Jordan employees and fresh-graduate opportunities; this is historical only. 82,000+ is a global workforce figure,
+  not a Jordan estimate. info.amman@kuehne-nagel.com is a general contact, not verified HR. No locally supported internal technology
+  stack or AI hiring was found; removed unsupported AI category.
 evidence:
-  - type: "official_website"
-    url: "https://kuehne-nagel.com"
-    label: "Official website"
-  - type: "linkedin_company"
-    url: "https://www.linkedin.com/company/kuehne-nagel"
-    label: "LinkedIn company page"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/358918/Kuehne_Nagel_Jordan_Ltd_Co"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.courierslist.com/detail/jordan/amman/warehousing-companies/1280018/kuehnenagel-uk-limited-jordan"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9541033,35.9073505"
-    label: "Google Maps location"
+- type: official_website
+  url: https://www.kuehne-nagel.com/
+  label: 'Official corporate website: global services and company identity'
+- type: official_website
+  url: https://home.kuehne-nagel.com/en/locations?query=Jordan
+  label: 'Legacy official location listing: formerly indexed 14 Zahran St, Amman; current page dynamically rendered'
+- type: official_website
+  url: https://jobs.kuehne-nagel.com/global/en
+  label: Official global careers portal; not evidence of Jordan vacancies
+- type: linkedin_company
+  url: https://www.linkedin.com/company/kuehne-nagel
+  label: 'Company LinkedIn: global industry, operations and headcount'
+- type: other
+  url: https://www.iata.org/en/publications/directories/cargolink/directory/kuehne-and-nagel/10214/
+  label: 'IATA directory: historical Al-Hamra Building, Shmeisani office listing'
+- type: other
+  url: https://www.jordanyp.com/company/358918/Kuehne_Nagel_Jordan_Ltd_Co
+  label: 'JordanYP listing: Al-Thaqafah, Shmeisani address'
+- type: other
+  url: https://www.gju.edu.jo/sites/default/files/Office%20for%20Industrial%20Links/gju_job_fair_2014_handbook.pdf
+  label: 'German Jordanian University 2014 fair handbook: historical Jordan staffing and graduate opportunities'

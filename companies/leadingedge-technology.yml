@@ -1,36 +1,45 @@
 name: "LeadingEdge Technology"
-industry: "Information Technology and Services"
+description: "LeadingEdge Technology is an IT and business-process services provider historically based in Amman, Jordan. Public company-directory descriptions identify Oracle-oriented enterprise resource planning (ERP) implementation, consulting, and support for organizations in the Middle East. Current independent operations and recruitment could not be fully confirmed during the October 2026 review."
+verification_status: "partial"
+last_verified: "2026-10-19"
+industry: "IT Services and Consulting / Enterprise ERP"
 website: "https://www.leadingedge-me.com/en"
 careers_url: null
 linkedin: null
 hr_email: null
-size: "11-50"
+size: null
 location:
   area: "Amman"
   address: "Amman, Jordan"
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "consulting"
-  - "data"
+  - "erp"
 technologies:
-  - "Oracle Database"
+  - "Oracle E-Business Suite (historical)"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Oracle-partner IT & business-process services firm HQ'd in Amman; actively advertising ERP System Consultant roles in Amman (Bayt, Oct 2026) - entry-friendly hiring signal."
+notes: "Reviewed 2026-10-19. The previously recorded leadingedge-me.com site could not be accessed, but third-party company profiles associate the domain with LeadingEdge Technology and describe IT/business-process and Oracle ERP consulting. A March 23, 2026 employee-directory entry describes a Jordan-based ERP specialist, but is not company-issued proof of current operations. Historical Amman ERP consultant roles (2014-2016) and a 2016 LinkedIn article support Oracle E-Business Suite and ERP work only historically, not an audited current stack. Employee-count estimates conflict (ContactOut 1-10; SignalHire 10-50; prior YAML 11-50); no reliable current headcount was established. No company-controlled LinkedIn page, dedicated careers page, verified HR email, current company-specific job vacancy, or entry-level program was found. The former Bayt link resolves to a generic ERP job search and does not establish a LeadingEdge vacancy. The Amman city-level coordinates previously stored were not an office pin, so they were removed. This record is partially verified, not proof of an active 2026 employer. Do not confuse this company with Leading Point Software, UK-based Leading Edge Technology, or LeadingEdge HR Solutions."
 evidence:
   - type: "official_website"
     url: "https://www.leadingedge-me.com/en"
-    label: "Official website"
-  - type: "job_post"
-    url: "https://www.bayt.com/en/jordan/jobs/erp-system-consultant-jobs-in-amman/?jobId=1747306"
-    label: "Research source"
+    label: "Previously recorded company website; inaccessible during review on 2026-10-19"
   - type: "other"
-    url: "https://www.selling.com/company/leadingedge-technology/131388550"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://contactout.com/company/LeadingEdge-Technology-57238"
+    label: "Company directory associates domain with Oracle-focused IT services; staff estimate is not verified"
+  - type: "other"
+    url: "https://www.signalhire.com/companies/leadingedge-technology/email-format"
+    label: "Employee directory describes ERP roles; conflicting 10-50 employee estimate"
+  - type: "other"
+    url: "https://www.signalhire.com/profiles/hawwash-yousef/239682986"
+    label: "Third-party professional listing updated 2026-03-23; Jordan ERP specialist association, not employer confirmation"
+  - type: "other"
+    url: "https://people.bayt.com/abdallah-yousef-18560768/"
+    label: "Historical Amman Oracle E-Business Suite ERP work, 2015-2016"
+  - type: "other"
+    url: "https://jo.linkedin.com/in/younis-anouz-a0013455"
+    label: "2016 LinkedIn article references LeadingEdge Technology as an Oracle Gold Partner; historical only"

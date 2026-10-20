@@ -1,48 +1,89 @@
 name: "Ivvest"
-industry: "AgriTech / Vertical Farming"
-website: "https://ivvest.com"
+description: >-
+  Ivvest, now operating publicly as Ivvesa, is an Amman-based consultancy focused on
+  feasibility studies, regulatory advisory, urban planning, environmental and social
+  assessments, and delivery of public-sector and donor-funded projects in Jordan.
+  Its earlier Ivvest business developed controlled-environment vertical farming and
+  IoT-enabled hydroponic systems, including The Capsule and IvvestOS.
+verification_status: "partial"
+last_verified: "2026-10-15"
+industry: "Management Consulting / Public-sector Advisory (historically AgriTech)"
+website: "https://ivvesa.com/"
 careers_url: null
-linkedin: "https://www.linkedin.com/company/ivvest"
-hr_email: "hello@ivvest.com"
-size: "1-20"
+linkedin: "https://www.linkedin.com/company/ivvesa"
+hr_email: null
+size: "2-10"
 location:
-  area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  area: "King Hussein Business Park, Amman"
+  address: "B7, King Hussein Business Park (KHBP), Amman, Jordan"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=King%20Hussein%20Business%20Park%20Amman"
 categories:
-  - "devops"
+  - "ai"
+  - "consulting"
   - "iot"
-  - "web"
 technologies:
-  - "Google Cloud"
   - "IoT"
-  - "React"
+  - "Hydroponic automation"
+  - "Computer vision"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Modular container vertical farms (Capsule) powered by IvvestOS and IoT monitoring; runs indoor farm in Amman; long-term training agreement with Jordan's National Agricultural Research Centre - relevant for agri-tech-minded grads."
+notes: >-
+  Reviewed 2026-10-15 (Jordan time). The original Ivvest LinkedIn URL redirects
+  to Ivvesa, whose current company profile and official site identify the same
+  founder Abdel Rahman Alzubaidi, a 2020 founding date and Amman headquarters.
+  The active official site is ivvesa.com; historical ivvest.com was inaccessible
+  during review and should not be treated as a confirmed active careers/contact
+  destination. The current company focuses on Jordan public-sector feasibility,
+  regulatory, environmental/social and consortium delivery consulting. A June
+  2025 Jordanian news report independently documents Ivvest and ACCIONA in a
+  meeting with the National Agricultural Research Center about a central-market
+  value-chain study; the current Ivvesa site reports a completed central-market
+  feasibility mandate. Earlier UN and startup-directory materials support the
+  original IoT-enabled vertical farming product history (The Capsule/IvvestOS),
+  but not its continued sale or current internal engineering stack. LinkedIn
+  reports 2-10 employees; an older third-party profile's 11-50 figure is not
+  treated as current. The current official site gives B7, KHBP, Amman and LinkedIn
+  independently confirms the KHBP area; the exact B7 unit and its coordinates
+  were not independently corroborated. Old coordinates 31.9539,35.9106
+  appeared to be an approximate central-Amman pin and were removed. General
+  contact info@ivvesa.com is published; no dedicated HR/recruitment address,
+  careers portal, internship, current vacancy or graduate hiring signal was
+  established. The site's 'Opportunities' page advertises public tenders and
+  consortium alerts, not employment. React and Google Cloud tags from the
+  previous record lacked reliable company-specific stack evidence and were
+  removed; IoT and hydroponic automation are historical product capabilities,
+  while computer vision is a currently advertised service, not a confirmed
+  internal development framework. Partial verification reflects unresolved
+  employment, product continuity, exact office and engineering-stack details.
 evidence:
   - type: "official_website"
-    url: "https://ivvest.com"
-    label: "Official website"
+    url: "https://ivvesa.com/"
+    label: "Current official Ivvesa website - public-sector advisory and company contact"
+  - type: "official_website"
+    url: "https://ivvesa.com/about"
+    label: "Official about page - founder, current consulting scope and company history"
+  - type: "official_website"
+    url: "https://ivvesa.com/contact"
+    label: "Official contact - B7 KHBP Amman, general info email and telephone"
+  - type: "official_website"
+    url: "https://ivvesa.com/opportunities"
+    label: "Official opportunities page - public tenders, not a careers portal"
   - type: "linkedin_company"
-    url: "https://www.linkedin.com/company/ivvest"
-    label: "LinkedIn company page"
+    url: "https://www.linkedin.com/company/ivvesa"
+    label: "Company LinkedIn (legacy /company/ivvest redirects here) - 2-10 employees, 2020, KHBP"
   - type: "other"
-    url: "https://www.selling.com/company/ivvest/115436144"
-    label: "Research source"
+    url: "https://jordan.un.org/en/download/108460/185486"
+    label: "UN Jordan profile - historical IoT-controlled hydroponic farming product"
+  - type: "company_listing"
+    url: "https://www.startupsjo.com/en/Pages/CustomPages/Startup/3786"
+    label: "StartupsJo historical Ivvest profile - founder contact and The Capsule"
   - type: "other"
-    url: "https://grc-jordan.org/info_card/ivvest/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.urbanvine.co/blog/ivvest?5416ab99_page=1"
-    label: "Research source"
-  - type: "other"
-    url: "https://informaconnect.com/ivvest-signs-agreement-to-boost-vertical-farming-education/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://www.ammonnews.net/article/926209"
+    label: "June 2025 reporting - Ivvest/ACCIONA central-market study discussion with NARC"
+  - type: "company_listing"
+    url: "https://www.cbinsights.com/company/ivvest"
+    label: "Legacy company listing - King Hussein Business Park and original vertical farming activity"

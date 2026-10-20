@@ -1,19 +1,24 @@
 name: "Liwwa"
+description: >-
+  Amman-based financial technology company founded in 2013 that provides
+  financing to small and medium-sized businesses in Jordan, including
+  collateral-free and Sharia-compliant loan options. Its borrower-facing
+  website supports online loan applications; its former retail peer-to-peer
+  investment marketplace stopped accepting new investments in July 2023.
 industry: "Financial Services / fintech (SME lending)"
-website: "https://www.liwwa.com/"
+website: "https://liwwa.com/"
 careers_url: "https://wuzzuf.net/jobs/careers/liwwa-Jordan-88321"
-linkedin: null
+linkedin: "https://www.linkedin.com/company/liwwa-inc"
 hr_email: null
-size: "11-50"
+size: "51-200"
 location:
   area: "Amman"
-  address: "257 Prince Muhammad St, Mezzanine Floor, Office #2, 3rd Circle, Amman 11374, Jordan"
-  status: "provided_unverified"
-  latitude: 31.95239
-  longitude: 35.93126
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95239,35.93126"
+  address: "257 Prince Mohammed Street, Mezzanine Floor, Office #2, 3rd Circle, Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=257+Prince+Mohammed+Street%2C+3rd+Circle%2C+Amman%2C+Jordan"
 categories:
-  - "consulting"
   - "fintech"
   - "qa"
   - "web"
@@ -22,32 +27,56 @@ technologies:
   - "Python"
   - "Selenium"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "Amman-based peer-to-peer/SME lending marketplace founded 2013; 715+ businesses supported, $100M+ lent; no public LinkedIn company page, engineering blog, or HR email found; no publicly documented tech stack or fresh-grad/internship program found. GPS pinned from verified JordanYP plus code XW36+RQV, Prince Muhammad St, Amman (3rd Circle area). | stack verified 2026-10-03: employee QA-automation profile at Liwwa Inc (Twine portfolio, Baraa Issa) shows test automation with Selenium WebDriver + Java, TestNG framework, Python."
+  early_career_signal: false
+  signals: []
+verification_status: "partial"
+last_verified: "2026-10-19"
+notes: >-
+  Reviewed 2026-10-19. The live official borrowing site confirms SME lending,
+  a Jordan business-loan application flow and Sharia-compliant options. The
+  company's own blog says its retail-investment marketplace closed to new
+  investment after 2023-07-01; historical descriptions of an active P2P
+  marketplace are outdated. Official contact and company LinkedIn independently
+  agree on the 257 Prince Mohammed Street, mezzanine-floor, 3rd Circle, Amman
+  office; a JordanYP listing corroborates the street/area. The address is
+  corroborated, but the previously stored coordinates (31.95239, 35.93126)
+  conflict with the listing's XW36+RQV plus code and are not a defensible exact
+  office pin; coordinates are deliberately withheld. LinkedIn lists 51-200
+  employees company-wide (not an independently audited Jordan headcount),
+  whereas WUZZUF lists 11-50, so the size remains source-dependent. WUZZUF
+  showed no open liwwa jobs at review; a historical LinkedIn Relationship
+  Officer listing is closed, and third-party job reposts do not establish
+  current vacancies. WUZZUF is a third-party employer/jobs profile, not an
+  official careers portal. A former QA engineer's self-reported work history
+  supports historical use of Selenium, Java and Python in test automation,
+  but does not verify a current production technology stack. The official
+  borrower/investor contact telephone is +962 79 870 4070; no HR-specific
+  public email or current internship/fresh-graduate programme was confirmed.
+  The company and street address are corroborated, but hiring, headcount,
+  current stack and exact coordinates remain incomplete, so company-level
+  verification is partial.
 evidence:
   - type: "official_website"
-    url: "https://www.liwwa.com/"
-    label: "Official website"
+    url: "https://liwwa.com/"
+    label: "Official SME lending site, product offerings and office address; checked 2026-10-19"
+  - type: "official_website"
+    url: "https://liwwa.com/contact-us"
+    label: "Official street address, phone and opening hours; checked 2026-10-19"
+  - type: "official_website"
+    url: "https://liwwa.com/about/blog"
+    label: "Company announcement: marketplace closed to new retail investment after 2023-07-01"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/liwwa-inc"
+    label: "Company profile: 2013 founding, Amman address and 51-200 employee range"
   - type: "careers"
     url: "https://wuzzuf.net/jobs/careers/liwwa-Jordan-88321"
-    label: "Careers / application page"
-  - type: "other"
-    url: "https://craft.co/liwwa-351"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.wamda.com/index.php/2024/05/jordan-liwwa-secures-5-million-loan-dfc"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.entrepreneur.com/en-ae/finance/we-got-funded-jordan-based-liwwa-on-their-latest/278855"
-    label: "Research source"
+    label: "Third-party employer/jobs profile; no open jobs shown on 2026-10-19"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/relationship-officer-at-liwwa-3840228737"
+    label: "Historical Amman Relationship Officer vacancy, closed to applications"
   - type: "other"
     url: "https://www.jordanyp.com/company/376073/liwwa"
-    label: "Research source"
+    label: "Independent Jordan directory confirms street area; plus code differs from stored pin"
   - type: "other"
     url: "https://www.twine.net/user1182770"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.95239,35.93126"
-    label: "Google Maps location"
+    label: "Former employee self-report of historical Selenium/Java/Python QA automation"

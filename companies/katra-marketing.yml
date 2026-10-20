@@ -1,36 +1,69 @@
 name: "Katra Marketing"
-industry: "Digital Marketing"
+description: "Amman-headquartered marketing consulting and advisory agency founded in 2014, serving organizations in Jordan, the UAE and Saudi Arabia. Services include marketing strategy, go-to-market planning, market research, executive coaching, corporate training, SEO, branding, website consulting and social-media marketing advisory."
+industry: "Marketing Consulting / Advertising Services"
 website: "https://katramarketing.com"
-careers_url: null
-linkedin: null
-hr_email: null
-size: "2-9"
+careers_url: "https://katramarketing.com/marketing-vacancies.html"
+linkedin: "https://www.linkedin.com/company/katra-marketing"
+hr_email: "info@katramarketing.com"
+size: "2-10"
 location:
   area: "Amman"
-  address: "Kulliat Al Shareia 8, Jebel Al-Weibdeh, Amman 11191, Jordan"
+  address: "Kulliat Al Shareiah Street 9, Jabal Al-Weibdeh, Amman 11191, Jordan"
   status: "provided_unverified"
-  latitude: 31.955835
-  longitude: 35.926774
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.955835,35.926774"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "marketing"
   - "web"
 technologies:
-  - "Social Media Marketing"
+  - "Google Analytics 4"
+  - "Google Search Console"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Est. 2014 marketing consulting agency offering website development + SEO/SMM/training courses in Jordan and UAE; pin upgraded from city fallback using own-site address (Kulliat Al Shareiah St 9) cross-checked with Google business listing. info@katramarketing.com is general contact; no careers page or grad program found."
+  early_career_signal: true
+  signals:
+    - "Official careers page lists SEO, email-marketing and social-media-marketing internships in Amman."
+    - "Individual 2026 internship pages describe three-month, unpaid, fully remote programs with an April 30, 2026 start date; continued availability as of October 18, 2026 is not confirmed."
+    - "The internship pages explicitly request applications to info@katramarketing.com; this is a general company mailbox used for those applications, not a dedicated HR address."
+notes: >-
+  Reviewed 2026-10-18. Official website and company LinkedIn confirm current marketing consulting,
+  training and advisory operations; LinkedIn reports 2-10 employees company-wide (self-reported).
+  The linked company training site katramarketing.org and a business directory list building number 9
+  on Kulliat Al Shareiah Street, whereas the prior record and a separate agency directory list number 8.
+  The street/neighborhood and Amman are supported, but the exact building number and current office
+  occupancy remain unconfirmed; previously recorded pin coordinates were not independently verified
+  and have been cleared. Official careers page is live, but its internship detail pages specify an
+  April 30, 2026 start date, so do not treat the listings as confirmed open positions in October.
+  The 2026 internships mention Google Analytics 4 and Google Search Console as skills/tools taught;
+  these are not proof of the agency's internal technology stack. Social-media marketing is a service
+  capability, not a software framework. No separate verified HR mailbox or current salaried vacancy found.
+verification_status: "partial"
+last_verified: "2026-10-18"
 evidence:
   - type: "official_website"
     url: "https://katramarketing.com"
-    label: "Official website"
+    label: "Company services, marketing advisory and 2026 articles"
+  - type: "official_website"
+    url: "https://katramarketing.com/marketing-vacancies.html"
+    label: "Official vacancies page listing three internship programs"
+  - type: "official_website"
+    url: "https://katramarketing.com/marketing-internship-seo-amman.html"
+    label: "SEO internship requirements, 2026 start date, tools and application email"
+  - type: "official_website"
+    url: "https://katramarketing.com/marketing-internship-smm-amman.html"
+    label: "Social-media internship requirements, 2026 start date and application email"
+  - type: "official_website"
+    url: "https://katramarketing.com/marketing-internship-email-amman.html"
+    label: "Email-marketing internship details and 2026 start date"
+  - type: "official_website"
+    url: "https://katramarketing.org/contact.html"
+    label: "Company-linked training site contact and reported Amman address"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/katra-marketing"
+    label: "Company LinkedIn: industry, headquarters, founding year and self-reported size"
   - type: "other"
-    url: "http://katramarketing.com/faq.html"
-    label: "Research source"
+    url: "https://www.bizmideast.com/JO/katra-marketing-07-7647-3242"
+    label: "Independent business directory lists street number 9"
   - type: "other"
-    url: "https://rocketreach.co/katra-marketing-profile_b4493d29fcdfc5c8"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.955835,35.926774"
-    label: "Google Maps location"
+    url: "https://7be.io/de/companies/katra-marketing"
+    label: "Agency directory lists conflicting street number 8"

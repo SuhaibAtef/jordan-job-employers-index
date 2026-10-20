@@ -1,40 +1,38 @@
 name: "LeadSynth AI"
-industry: "AI / Sales tech"
-website: "https://leadsynthai.app"
+description: "Founded in Irbid, Jordan, in early 2025 as an AI-powered B2B prospecting platform. Its official website says the SaaS platform closed in July 2026 and the business now provides hand-verified prospect lists, broken-website lead lists, and done-for-you outreach."
+verification_status: "partial"
+last_verified: "2026-10-19"
+industry: "B2B Lead Generation / Sales Prospecting Services (formerly AI SaaS)"
+website: "https://www.leadsynthai.app/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/leadsynthai"
 hr_email: null
-size: null
+size: "2-10 (LinkedIn self-reported; current headcount and Jordan-specific staffing unverified)"
 location:
   area: "Irbid"
   address: null
   status: "approximate"
-  latitude: 32.5569
-  longitude: 35.8469
-  maps_url: "https://www.google.com/maps/search/?api=1&query=32.5569,35.8469"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "ai"
-  - "web"
-technologies:
-  - "Generative AI"
-  - "JavaScript"
+  - "marketing"
+  - "sales"
+technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Irbid-based startup (founded early 2025); AI scans real-time conversations on Reddit, X, LinkedIn, Telegram and YouTube for buying intent and automates personalized outreach. (As of July 2026 the SaaS platform was shut down and repositioned as hand-verified lead lists; company remains Jordan-based.)\nstack verified 2026-10-06: founder interview (laffaz) + Chrome Web Store listing for founder-built AI LinkedIn-outreach extension; solo founder = engineer."
+notes: "Reviewed 2026-10-19. The official homepage announces the AI/SaaS platform's closure in July 2026, cancellation of subscriptions, and a pivot to manually verified B2B lead lists and outreach services; older marketing pages and LinkedIn still describe the discontinued AI product and should not be treated as current functionality. A February 26, 2026 founder interview identifies Irbid, Jordan, and an early-2025 founding date, but no current operating office, street address or precise coordinates could be confirmed; removed the former city-centre map pin. LinkedIn reports 2-10 employees, self-reported and not independently verified. The historical platform used NLP models and platform-specific heuristics; an associated Chrome extension was listed, but neither establishes the current production stack or proves JavaScript use. Removed outdated AI/web technology and category claims for the current service. The public info@leadsynthai.app address is a sales/general support contact, not a verified HR recruitment address. No current careers page, open job posting, or internship/graduate programme was found."
 evidence:
   - type: "official_website"
-    url: "https://leadsynthai.app"
-    label: "Official website"
+    url: "https://www.leadsynthai.app/"
+    label: "Official homepage: July 2026 SaaS shutdown, current hand-verified lead lists and outreach, general email"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/leadsynthai"
+    label: "Company LinkedIn: self-reported 2-10 employees, 2025 founding; description is outdated versus official shutdown"
   - type: "other"
     url: "https://laffaz.com/leadsynth-ai-turns-conversations-into-high-intent-sales-leads/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.indiehackers.com/post/leadsynth-getting-me-customers-in-my-sleep-0b3b4334ed"
-    label: "Research source"
+    label: "Founder interview dated 2026-02-26: Irbid origin, early-2025 founding and historical NLP platform"
   - type: "other"
     url: "https://chromewebstore.google.com/detail/leadsynth-linkedin-connec/ldodghdbhjgeofmiadmcbojhhpeihcdm?hl=en"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=32.5569,35.8469"
-    label: "Google Maps location"
+    label: "Historical LeadSynth LinkedIn Connector extension; not evidence of a current supported platform"
