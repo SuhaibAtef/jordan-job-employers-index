@@ -1,14 +1,15 @@
 name: "MakanE"
-industry: "E-commerce SaaS"
+description: "Jordan-based e-commerce software-as-a-service platform founded in 2020 that helps merchants create and operate online stores and mobile commerce apps, with payment, shipping and business-growth support across the Middle East."
+industry: "E-commerce SaaS / IT services and consulting"
 website: "https://makane.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/makanedotcom1/"
 hr_email: null
-size: null
+size: "201-500"
 location:
-  area: "Amman"
-  address: "Yaser Sabaaneh St., Amman 11198"
-  status: "provided_unverified"
+  area: "Amman, Al Swaifyeh"
+  address: "Yaser Sabaaneh Street, Building No. 3 B, P.O. Box 802, Amman, Jordan"
+  status: "approximate"
   latitude: 31.948641
   longitude: 35.860006
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.948641,35.860006"
@@ -22,17 +23,74 @@ technologies:
   - "Kotlin"
   - "PHP"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "Amman e-commerce SaaS platform backed by the Mawdoo3 team; powers 14,000+ online stores/apps across MENA, founded by Moe Ghashim. No public internship postings found.\nstack verified 2026-10-05: 2 employee profiles (Android Engineer/Kotlin via getprog.ai; Php Developer via wuzzuf) + company org chart (Senior iOS developer)"
+  early_career_signal: false
+  signals: []
+verification_status: "partial"
+last_verified: "2026-10-19"
+notes: >-
+  Official website confirms store-building SaaS, payment and shipping integrations,
+  mobile order fulfillment, and an Amman office on Yaser Sabaaneh Street at Building
+  3 B. JordanYP independently confirms the street but not the building; the retained
+  coordinates are near the street, not independently verified as the office entrance.
+  LinkedIn reports 201-500 employees across the company, not Jordan-specific staffing;
+  a 2022 US Embassy account reported 650 employees worldwide at that time, so the
+  historical number must not be treated as current. LinkedIn describes more than
+  14,000 partners, whereas the official about page says more than 12,000 customers;
+  figures may reflect different publication dates or definitions. The earlier
+  research described a connection to the Mawdoo3 team and founder Moe Ghashim;
+  this attribution appears in a secondary startup roundup and is not independently
+  established as a current ownership relationship. Original 2026-10-05 stack notes
+  cited employee profiles for Android/Kotlin, PHP and iOS. A Wuzzuf employee profile
+  and an organizational directory support historical PHP and mobile engineering
+  roles; Kotlin evidence is indirect and not a verified production stack. The
+  company's own product supports iOS and Android, which does not by itself prove
+  its internal development tools. A historical senior UX/UI vacancy and a closed
+  receptionist vacancy show past recruitment, but no current openings, dedicated
+  HR email, careers page, internship or graduate programme could be confirmed as
+  of 2026-10-19. The published support@makane.com is customer support, not HR.
 evidence:
   - type: "official_website"
     url: "https://makane.com/"
-    label: "Official website"
+    label: "Official platform website and product offering"
+  - type: "official_website"
+    url: "https://makane.com/sa-en/about-us"
+    label: "Official products, customer count and office address"
+  - type: "official_website"
+    url: "https://makane.com/sa-en/contact-us"
+    label: "Official Amman office address and support contact"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/makanedotcom1/"
+    label: "Company profile, employee range, founding year and office cities"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/376075/MakanE"
+    label: "Independent street-level address and historical directory headcount"
+  - type: "other"
+    url: "https://erc-jordan.org/listing/makane-2/"
+    label: "Jordan entrepreneurship directory confirms Amman operations"
   - type: "other"
     url: "https://en.arageek.com/top-startups-in-jordan-amman"
-    label: "Research source"
+    label: "Historical founder and Mawdoo3-team attribution"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/al-moatasem-albiss-6733531b9_a-visit-to-makane-activity-6962836038939553792-NXti"
+    label: "2022 US Embassy historical staffing report"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/receptionist-at-makane-3272622260"
+    label: "Historical closed receptionist vacancy"
+  - type: "job_post"
+    url: "https://www.ibhate.com/en/jobs/676-ux-ui-manager"
+    label: "Historical closed senior UX/UI management vacancy"
+  - type: "other"
+    url: "https://wuzzuf.net/me/malik-qattom-1174cac0bb"
+    label: "Employee-reported PHP development role"
+  - type: "other"
+    url: "https://theorg.com/org/makane/org-chart/mones-dagher"
+    label: "Third-party organizational chart and mobile engineering roles"
+  - type: "other"
+    url: "https://stackoverflow.com/users/10831813/mazen-rashed"
+    label: "Self-reported Android engineer profile; historical Kotlin activity"
+  - type: "other"
+    url: "https://jo.near-place.com/health-nearby-fit-jj-samy-aljamal-yaser-sabaaneh-street-amman"
+    label: "Independent nearby street coordinates; not a MakanE office pin"
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.948641,35.860006"
-    label: "Google Maps location"
+    label: "Approximate previously recorded map coordinates"
