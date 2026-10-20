@@ -1,58 +1,109 @@
 name: "Luminus Technical University College (LTUC)"
-industry: "Vocational & Technical Education"
-website: "https://www.ltuc.com/"
+description: >-
+  Amman-based technical and vocational higher-education institution offering
+  bachelor's degrees and diploma programmes across applied disciplines. Its
+  Abdul Aziz Al Ghurair School for Advanced Computing (ASAC) teaches software
+  engineering, cybersecurity, cloud computing, artificial intelligence and
+  data analysis. LTUC publishes student field-training and career-support
+  services; those services are distinct from vacancies to work for the college.
+industry: "Higher education / Technical and vocational education"
+website: "https://ltuc.edu.jo/en"
 careers_url: null
-linkedin: null
-hr_email: "info@ltuc.com"
-size: null
+linkedin: "https://www.linkedin.com/school/luminusjo/"
+hr_email: "jobs@ltuc.edu.jo"
+size: "1,001-5,000"
 location:
   area: "Amman"
-  address: "Airport Road, near Marj Al Hamam Bridge, Amman (P.O. Box 183334 Amman 11118)"
-  status: "provided_unverified"
-  latitude: 31.8981
-  longitude: 35.86834
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.8981,35.86834"
+  address: "Airport Road, near Marj Al Hamam Bridge, Amman, Jordan (P.O. Box 183334, Amman 11118)"
+  status: "approximate"
+  latitude: 31.89814
+  longitude: 35.86869
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.89814,35.86869"
 categories:
   - "data"
   - "edtech"
   - "web"
-technologies:
-  - "CSS"
-  - "Express"
-  - "Git"
-  - "HTML"
-  - "JavaScript"
-  - "Node.js"
-  - "PostgreSQL"
-  - "React"
+technologies: []
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Graduate"
-    - "Academy"
-notes: "Jordan's leading vocational university college (est. 1980, 4 campuses, 8,000+ students); runs the Abdul Aziz Al Ghurair School of Advanced Computing (ASAC), a Code Fellows-powered coding academy; reports 70-80% job placement for refugee graduates."
+  early_career_signal: false
+  signals: []
+verification_status: "partial"
+last_verified: "2026-10-19"
+notes: >-
+  Reviewed 2026-10-19. LTUC's current official website lists one Amman campus
+  on Airport Road, P.O. Box 183334, Amman 11118, and telephone +962 6 4000700;
+  its LinkedIn school profile specifies near Marj Al Hamam Bridge. Independent
+  Waze and OpenStreetMap-derived Mapcarta listings corroborate the campus area.
+  The coordinates are Mapcarta's approximate campus point for the former
+  Al-Quds College (also labelled Luminus College), NOT an independently
+  confirmed entrance or building coordinate; location.status is therefore
+  approximate rather than fully verified. LTUC's current site states one
+  teaching campus, superseding the older four-campus claim in this record.
+  The official general-contact email is info@ltuc.edu.jo; the recruitment
+  address jobs@ltuc.edu.jo appears in LTUC's LinkedIn recruitment material
+  and in a September 2026 faculty hiring notice for academic year 2026/27
+  covering software engineering/computer science, data/AI and other subjects.
+  That notice sought experienced faculty (at least three years of relevant
+  work or teaching experience, or approved training), not junior developers;
+  its closing date and continued availability could not be established.
+  The official /en/careers and /en/careers/jobs pages serve students and
+  alumni, NOT LTUC employment applicants; the student vacancy page showed
+  no partner openings on 2026-10-19. No dedicated staff vacancies portal was
+  confirmed. LinkedIn lists 1,001-5,000 employees for the school profile;
+  Jordan-only staffing and independent headcount are not established.
+  ASAC is a teaching programme, so the previously listed CSS, Express, Git,
+  HTML, JavaScript, Node.js, PostgreSQL and React are not verified as LTUC's
+  internal engineering stack and were removed from technologies. The
+  data/edtech/web categories describe the institution's educational offerings,
+  not an audited production stack. LTUC's graduate career services and academy
+  do not by themselves establish early-career employment at LTUC. Its 2026
+  website describes 5,000+ learners annually, nine departments and 23 partners;
+  these are institutional self-reports, not employee counts. Full employer
+  verification remains incomplete despite confirmed operations and location
+  context.
 evidence:
   - type: "official_website"
-    url: "https://www.ltuc.com/"
-    label: "Official website"
+    url: "https://ltuc.edu.jo/en"
+    label: "Official 2026 overview, technical programmes and campus operations; checked 2026-10-19"
+  - type: "official_website"
+    url: "https://ltuc.edu.jo/en/contact"
+    label: "Official phone, general contact and Amman postal address; checked 2026-10-19"
+  - type: "official_website"
+    url: "https://ltuc.edu.jo/en/about/campus-locations"
+    label: "Official one-campus location on Airport Road; checked 2026-10-19"
+  - type: "official_website"
+    url: "https://ltuc.edu.jo/en/departments/asac"
+    label: "ASAC teaching programmes in software, AI, data, cloud and security; checked 2026-10-19"
+  - type: "careers"
+    url: "https://ltuc.edu.jo/en/careers/jobs"
+    label: "Student/alumni partner vacancies, not LTUC staff jobs; no postings on 2026-10-19"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/school/luminusjo/"
+    label: "School profile, 1,001-5,000 employee range, campus location and 2026/27 faculty recruitment"
+  - type: "job_post"
+    url: "https://ae.linkedin.com/posts/prof-ahmed-bahgat-elseddawy-67684a36_%D8%A7%D8%B9%D9%84%D8%A7%D9%86-%D8%AA%D9%88%D8%B8%D9%8A%D9%81-%D8%AA%D8%B9%D9%84%D9%86-%D9%83%D9%84%D9%8A%D8%A9-%D9%84%D9%88%D9%85%D9%8A%D9%86%D9%88%D8%B3-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D9%8A%D8%A9-activity-7506781239752826880-K7V3"
+    label: "September 2026 shared faculty hiring announcement with jobs@ltuc.edu.jo; application status unknown"
+  - type: "other"
+    url: "https://www.waze.com/live-map/directions/jo/amman-governorate/bridge/luminus-technical-university-college-%28ltuc%29-klyh-lwmynws-aljamayh-altqnyh?to=place.ChIJQUDrkkKnHBURelAwPN-xrZ8"
+    label: "Independent campus location near Airport Road bridge and matching telephone"
+  - type: "other"
+    url: "https://mapcarta.com/N4064665187"
+    label: "OSM-derived approximate campus coordinate for Al-Quds/Luminus College"
   - type: "other"
     url: "https://www.devex.com/organizations/luminus-technical-university-college-ltuc-178045"
-    label: "Research source"
+    label: "Historical institutional background; not a current staffing or location audit"
   - type: "other"
     url: "https://www.decypha.com/en/company-list/Luminus-Technical-University-College-275385"
-    label: "Research source"
+    label: "Historical institutional name, 1980 origins and postal-address context"
   - type: "other"
     url: "https://www.localized.world/organizations/469/abdul-aziz-al-ghurair-school-of-advanced-computing-asac-ltuc"
-    label: "Research source"
+    label: "Historical ASAC education context, not employer production-stack evidence"
   - type: "other"
     url: "https://intaj.net/announcements/invitation-to-register-in-asac-upcoming-job-fair/"
-    label: "Research source"
-  - type: "other"
-    url: "https://village.do/company/asacltuc"
-    label: "Research source"
+    label: "Historical ASAC job-fair context, not current LTUC hiring"
   - type: "other"
     url: "https://backstage.anthology.com/sites/default/files/2025-07/Luminus-Technical-University-College_Case-Study-17.07.pdf"
-    label: "Research source"
+    label: "Historical case study, not current LTUC hiring or technology-stack audit"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.8981,35.86834"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=31.89814,35.86869"
+    label: "Approximate campus area, not a verified entrance pin"
