@@ -1,41 +1,73 @@
 name: "Loyalty Drones"
-industry: "Drones / Aerial Surveying"
+description: >-
+  Amman-based Jordanian drone-services and aerial media-production company,
+  founded in 2023 according to its company LinkedIn profile. It offers aerial
+  cinematography, commercial filming and editing, construction and infrastructure
+  inspection, and geospatial surveying and mapping, including photogrammetry,
+  LiDAR mapping, and topographic and volumetric analysis.
+verification_status: "partial"
+last_verified: "2026-10-19"
+industry: "Media Production / Commercial Drone Services and Geospatial Surveying"
 website: "https://loyaltydrones.com/"
 careers_url: null
-linkedin: "https://www.linkedin.com/company/loyaltydrones/?viewAsMember=true"
-hr_email: "info@loyaltydrones.com"
-size: null
+linkedin: "https://www.linkedin.com/company/loyaltydrones"
+hr_email: null
+size: "2-10 (LinkedIn company range; actual headcount unconfirmed)"
 location:
   area: "Amman"
   address: "King Hussein Business Park, Building 23, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.97183
-  longitude: 35.83394
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=King+Hussein+Business+Park+Building+23+Amman+Jordan"
 categories:
-  - "ai"
-  - "iot"
+  - "data"
+  - "media"
 technologies:
-  - "Computer Vision"
   - "Drones"
   - "LiDAR"
+  - "Photogrammetry"
+  - "GIS"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Jordan drone-services company (aerial mapping, LiDAR, solar inspections, digital twins) for construction, mining and infrastructure; case studies in Amman, Wadi Rum and Mafraq. Address (KHBP Building 23), LinkedIn and info@loyaltydrones.com confirmed on official site."
+notes: >-
+  Reviewed 2026-10-19. The official About and Surveying/Mapping pages describe
+  aerial cinematography, media production, construction and infrastructure
+  monitoring, aerial mapping, LiDAR, photogrammetry, topographic surveys and GIS
+  deliverables. These are advertised service capabilities, not an audited
+  internal software stack; the previously listed Computer Vision technology
+  was not substantiated as an internal engineering capability. The official
+  contact page gives King Hussein Business Park, Building 23, Amman, and
+  +962 78 600 2344. The company publishes info@loyaltydrones.com as a
+  general inquiry address, not a verified HR mailbox; no HR-specific address
+  or dedicated careers page was confirmed. LinkedIn describes a privately
+  held media-production company founded in 2023 with 2-10 employees in Amman;
+  the employee range is self-reported and not independently audited. No current
+  vacancy, internship or junior hiring programme was confirmed on 2026-10-19.
+  Independent mapping and address listings establish the business park and
+  Building 23 as real locations but do not confirm Loyalty Drones' occupancy
+  or an exact office pin. The previously stored coordinates 31.97183,35.83394
+  approximate the business park, not the confirmed Building 23 office; they
+  were cleared to avoid false precision. Active company website and LinkedIn
+  presence support business identity and services but do not establish full
+  company-level verification.
 evidence:
   - type: "official_website"
-    url: "https://loyaltydrones.com/"
-    label: "Official website"
-  - type: "linkedin_company"
-    url: "https://www.linkedin.com/company/loyaltydrones/?viewAsMember=true"
-    label: "LinkedIn company page"
-  - type: "other"
+    url: "https://loyaltydrones.com/about/"
+    label: "Official company overview, drone and media services, founder and Amman address; checked 2026-10-19"
+  - type: "official_website"
+    url: "https://loyaltydrones.com/contacts/"
+    label: "Official contact page: KHBP Building 23, general contact and phone; checked 2026-10-19"
+  - type: "official_website"
     url: "https://loyaltydrones.com/surveying-mapping-services/"
-    label: "Research source"
+    label: "Official geospatial services: LiDAR, GIS, photogrammetry and topographic surveying"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/loyaltydrones"
+    label: "Company profile: founded 2023, media production, Amman, 2-10 employees and service posts"
   - type: "other"
-    url: "https://loyaltydrones.com/dji-matrice-350-rtk-enterprise/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
-    label: "Google Maps location"
+    url: "https://www.address-mideast.com/JO/king-hussein-business-park-building-23-amman-jordan"
+    label: "Independent address listing for Building 23; not proof of Loyalty Drones tenancy"
+  - type: "other"
+    url: "https://mapcarta.com/W263838369"
+    label: "OpenStreetMap-derived business park geography; not an exact office location"
