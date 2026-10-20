@@ -1,38 +1,62 @@
 name: "LogesTechs"
-industry: "Fleet Management / Logistics SaaS"
-website: "https://logestechs.com"
+description: >-
+  LogesTechs develops cloud-based logistics management software for delivery,
+  warehouse, order, transport, returns, accounting and reporting workflows.
+  Its official contact page lists headquarters in Riyadh, Saudi Arabia and a
+  Jordan office in Amman.
+industry: "Software Development / Logistics SaaS"
+website: "https://logestechs.com/"
 careers_url: null
-linkedin: null
-hr_email: null
-size: null
+linkedin: "https://www.linkedin.com/company/logestechs"
+hr_email: "career@logestechs.com"
+size: "11-50 employees (LinkedIn company-reported range)"
 location:
   area: "Amman"
   address: "Business Park, Queen Rania St., Amman, Jordan"
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "data"
   - "logistics"
   - "web"
-technologies:
-  - "GIS"
-  - "REST API"
+technologies: []
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Fleet/logistics SaaS founded 2019; HQ Riyadh with Amman office (Business Park, Queen Rania St., +962796937702)."
+  early_career_signal: true
+  signals:
+    - "Historical 2026 Jordan implementation/customer-success posting requested 1-3 years of experience; applications closed as of 2026-10-19."
+notes: >-
+  Reviewed 2026-10-19. The official contact page confirms the Amman office
+  address and phone +962796937702, and lists Riyadh as headquarters. The
+  previously stored coordinates (31.9539, 35.9106) could not be tied to this
+  office and were removed; location verification applies to the published
+  address, not an exact map pin. LinkedIn lists 11-50 employees and a 2018
+  founding year, differing from the earlier unsourced 2019 note. The
+  application address career@logestechs.com appears in a company-authored
+  LinkedIn job posting, but that vacancy is closed and mailbox availability
+  is not independently confirmed. Other observed 2026 Jordan postings are
+  also closed; no currently open vacancy or dedicated careers page was
+  confirmed. Previously listed GIS and REST API technologies were not
+  substantiated as the company's internal engineering stack; product
+  features and integrations alone do not establish implementation tools.
+  Company-level verification remains partial because live hiring, HR
+  availability, engineering stack and office coordinates remain unresolved.
+verification_status: "partial"
+last_verified: "2026-10-19"
 evidence:
   - type: "official_website"
-    url: "https://logestechs.com"
-    label: "Official website"
-  - type: "other"
+    url: "https://logestechs.com/"
+    label: "Official products: delivery, warehouse, order and transport management (checked 2026-10-19)"
+  - type: "official_website"
     url: "https://logestechs.com/contact-us/"
-    label: "Research source"
-  - type: "other"
-    url: "https://Slashdot.org/software/p/LogesTechs/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Official Jordan office address and telephone; Riyadh headquarters (checked 2026-10-19)"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/logestechs"
+    label: "Company size 11-50, headquarters Riyadh, founded 2018 (checked 2026-10-19)"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/implementation-customer-success-engineer-at-logestechs-4374581007"
+    label: "Historical Jordan junior/early-career hiring and career@logestechs.com; closed by 2026-10-19"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/sales-executive-at-logestechs-4227245599"
+    label: "Historical Jordan/Lebanon remote sales hiring; closed by 2026-10-19"
