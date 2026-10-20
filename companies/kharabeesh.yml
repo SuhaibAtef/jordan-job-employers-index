@@ -1,17 +1,20 @@
 name: "Kharabeesh"
-industry: "Digital media / Animation"
+description: "Kharabeesh is an Amman-based Arabic digital-media and entertainment network that produces animations, online video and branded content, and supports creators with channel management, production and audience growth across social platforms."
+verification_status: "partial"
+last_verified: "2026-10-19"
+industry: "Online Audio and Video Media / Animation"
 website: "https://www.kharabeesh.com"
-careers_url: null
-linkedin: null
+careers_url: "https://www.kharabeesh.com/careers.php"
+linkedin: "https://www.linkedin.com/company/kharabeesh"
 hr_email: null
-size: "51-200"
+size: "11-50"
 location:
   area: "Amman"
-  address: "Abu Al Dhahab Complex, Nufan As-Saoud Al-Edwan St. 22, Amman"
-  status: "provided_unverified"
+  address: "Abu Al Dhahab Complex, 22 Nufan As-Saoud Al-Edwan St., Amman 11194, Jordan"
+  status: "verified"
   latitude: 31.974926
   longitude: 35.860521
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.974926,35.860521"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Kharabeesh%20Abu%20Al%20Dhahab%20Complex%20Amman"
 categories:
   - "design"
   - "marketing"
@@ -21,10 +24,9 @@ technologies:
   - "Maya"
   - "Video production"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "Jordanian animation/digital-content pioneer (founded 2005, Amman HQ), part of Think Arabia media group; commercial work for Samsung, Pepsi; one of YouTube's top-ten channels. Audit 2026-10-03: GPS upgraded from fallback to real HQ pin (Abu Al Dhahab Complex, Nufan As-Saoud Al-Edwan St. 22 — corroborated by business listing, CB Insights and Datanyze). | stack check 2026-10-03: media/animation studio — employee profile (videographer/video editor, wuzzuf) supports existing video-production raw tags but normalizer has no animation/video tags; their Google Play apps suggest mobile work but no engineer/job-posting evidence to tag. Left unverified. | stack recheck 2026-10-04 (run 2): still no software-engineering evidence — indexed employee profiles are motion graphic designers / YouTube account managers (theorg, gulftalent); no dev job postings found; normalizer has no animation/video-production tags and Unity/Unreal would be guesses. Left unverified. | stack verified 2026-10-04: animation studio; 3 employee profiles (animator intern 2020, bayt; visual-designer trainer, behance — lists Adobe Illustrator/Photoshop/After Effects/Premiere/XD + Maya Autodesk; film director 2014-2017, gulftalent — lists Premiere/After Effects/Photoshop) confirm Adobe/Maya animation pipeline; no software-engineering stack exists — empty stack confirmed."
+  early_career_signal: false
+  signals: []
+notes: "Reviewed 2026-10-19. The official website confirms Arabic-language digital creator networking, animation, branded video and content-production services, and dates operations to 2008 (earlier dataset said 2005). The company LinkedIn profile lists 11-50 employees, Amman headquarters, the Abu Al Dhahab Complex address and recent 2026 posts; an independently indexed Maps business listing corroborates the same Amman address. Location.status verified reflects the address, not independent validation of the inherited latitude/longitude (31.974926, 35.860521), which remain approximate historical map-pin data. The official careers page exists but displays no dated vacancies; no current Kharabeesh job posting or internship was confirmed. A historical animator internship mentioned in the prior audit is not a current early-career hiring signal. Public iloveyouguys@kharabeesh.com is a general/creator contact, not a confirmed HR mailbox. The official site describes a multi-platform analytics dashboard and mobile application, but does not disclose an engineering stack; Maya and animation/video tags in the legacy record describe historical creative work rather than verified current production software. Older sources disagree on founding year and employee counts; current first-party/LinkedIn information is preferred. Company verification remains partial despite corroborated office location."
 evidence:
   - type: "official_website"
     url: "https://www.kharabeesh.com"
@@ -44,3 +46,18 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.974926,35.860521"
     label: "Google Maps location"
+  - type: "official_website"
+    url: "https://www.kharabeesh.com/services.php"
+    label: "Official production-services page — 2D animation, scripts, storyboards, digital video and campaigns (checked 2026-10-19)"
+  - type: "official_website"
+    url: "https://kharabeesh.com/innovation.php"
+    label: "Official innovation page — analytics dashboard, mobile application and website, without named engineering technologies"
+  - type: "careers_page"
+    url: "https://www.kharabeesh.com/careers.php"
+    label: "Official careers page — accessible but no dated or currently open positions listed (checked 2026-10-19)"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/kharabeesh"
+    label: "Company LinkedIn — 11-50 employees, Amman HQ, exact street address and recent 2026 company updates"
+  - type: "company_listing"
+    url: "https://www.bizmideast.com/JO/kharabeesh_2i-07-9021-1719"
+    label: "Local business listing — independently corroborates Abu Al Dhahab Complex office and general contact"
