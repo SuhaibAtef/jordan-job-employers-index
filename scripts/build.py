@@ -39,7 +39,7 @@ for path in sorted((ROOT/"companies").glob("*.yml")):
 companies.sort(key=lambda c:c["name"].casefold())
 
 def esc(x): return escape("" if x is None else str(x), quote=True)
-def jsdata(x): return json.dumps(x,ensure_ascii=False).replace("</","<\\/")
+def jsdata(x): return json.dumps(x,ensure_ascii=False,default=str).replace("</","<\\/")
 
 CSS=r"""
 :root{--bg:#f4f6f7;--surface:#fff;--surface2:#eef2f3;--ink:#172129;--muted:#61707b;--line:#d6dee2;--strong:#9eabb3;--accent:#006d5b;--accent2:#dff1ec;--warn:#9b5b00;--warnbg:#fff0d8;--bad:#8b3d35;--badbg:#fae8e6;--link:#05639d}
@@ -259,7 +259,7 @@ render();
 </script>"""
 
 (OUT/"index.html").write_text(page("Jordan Job Employers Index",body),encoding="utf-8")
-(OUT/"companies.json").write_text(json.dumps(public,ensure_ascii=False,indent=2),encoding="utf-8")
+(OUT/"companies.json").write_text(json.dumps(public,ensure_ascii=False,indent=2,default=str),encoding="utf-8")
 build_progress(companies, OUT)
 (OUT/".nojekyll").write_text("",encoding="utf-8")
 print(f"Built {len(companies)} employer pages.")
