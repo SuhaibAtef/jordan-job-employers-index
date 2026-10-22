@@ -1,35 +1,78 @@
 name: "BroadNet Technologies"
-description: "BroadNet Technologies is a global business-messaging and CPaaS provider delivering bulk SMS, A2P messaging, SMS gateways and firewalls, HLR lookup, omnichannel messaging and fraud-control services. The company is headquartered in Beirut and publicly lists Jordan among the markets it serves, while the historical source dataset records an Amman office."
+description: >-
+  BroadNet Technologies is a business-messaging and communications-platform
+  provider founded in 2003. It offers A2P and bulk SMS, SMS gateways and
+  firewalls, HLR lookup, WhatsApp/RCS messaging and omnichannel services.
+  The company publishes an Amman regional-office address and identifies Dubai
+  as its current global headquarters.
 verification_status: "partial"
-last_verified: "2026-10-07"
-industry: "Telecommunications / Messaging & CPaaS"
-website: "https://broadnet.me/"
-careers_url: null
+last_verified: "2026-10-22"
+industry: "Telecommunications / Business Messaging & CPaaS"
+website: "https://www.broadnet.me/"
+careers_url: "https://www.broadnet.me/careers"
 linkedin: "https://www.linkedin.com/company/broadnet-technology-llc"
 hr_email: null
 size: "51-200"
 location:
   area: "Amman"
-  address: "Office 302, 3rd floor, Anwar Paris 2, Paris Street, Amman, Jordan"
+  address: "Office 302, 3rd Floor, Anwar Paris 2, Paris Street, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.957561
-  longitude: 35.859406
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.957561,35.859406"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Office+302%2C+3rd+Floor%2C+Anwar+Paris+2%2C+Paris+Street%2C+Amman%2C+Jordan"
 categories:
   - "telecom"
 technologies:
   - "SMS Gateway"
+  - "A2P SMS"
+  - "SMPP"
+  - "REST API"
+  - "HLR Lookup"
+  - "SMS Firewall"
+  - "Go"
+  - "gRPC"
+  - "PostgreSQL"
+  - "Java"
+  - "JavaScript"
+  - "React"
+  - "Flutter"
+  - "Python"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Global messaging provider (bulk SMS, SMSC, A2P, SMS firewall, WhatsApp) with an Amman office on Paris Street; 80K+ enterprises served. No public internship/grad evidence found."
+  signals:
+    - "Official careers page displayed six roles on 2026-10-22, including a remote MENA-timezone marketing position; none was explicitly located in Jordan."
+    - "Official general jobs page describes software engineering, technical support, and sales roles; software engineering lists a minimum of three years of experience."
+notes: >-
+  Reviewed 2026-10-22. Official contact and homepage list the Amman regional
+  office at Office 302, Anwar Paris 2, Paris Street, phone +962 6 585 8558;
+  the Jordan ICT directory independently corroborates the Amman phone number.
+  Current occupancy and office-specific coordinates were not independently
+  confirmed; the former coordinate pair was removed rather than treated as a
+  verified pin. LinkedIn reports 51-200 employees and Beirut headquarters;
+  the current official careers/contact pages report more than 200 global staff
+  and Dubai headquarters. Retain the LinkedIn size range as a platform-reported
+  estimate, not a verified headcount; Jordan headcount is unconfirmed.
+  Sales (sales@broadnet.me) and engineering (engineering@broadnet.me) are
+  business contacts, not verified HR emails. The careers portal is active,
+  but no Jordan-specific opening or internship was confirmed. Technologies
+  include published products/protocols and role requirements, not an audited
+  internal production stack.
 evidence:
   - type: "official_website"
-    url: "https://broadnet.me/"
-    label: "Official website"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.957561,35.859406"
-    label: "Google Maps location"
-  - type: "other"
-    url: "https://www.linkedin.com/posts/broadnet-technology-llc_broadnet-activity-7004043496890195968-lEKx"
-    label: "Company post explicitly listing Jordan among operating markets"
+    url: "https://www.broadnet.me/"
+    label: "Official services and Amman office listing; accessed 2026-10-22"
+  - type: "official_website"
+    url: "https://www.broadnet.me/contact"
+    label: "Official Amman office address, phone and general contacts; accessed 2026-10-22"
+  - type: "careers_page"
+    url: "https://www.broadnet.me/careers"
+    label: "Current global roles and Amman engineering satellite; accessed 2026-10-22"
+  - type: "careers_page"
+    url: "https://www.broadnet.me/company/jobs/"
+    label: "General job descriptions and technical requirements; accessed 2026-10-22"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/broadnet-technology-llc"
+    label: "LinkedIn company profile: 51-200 employees, Beirut headquarters"
+  - type: "company_listing"
+    url: "https://jordanict.com/2024/company-listings/broadnet-technologies"
+    label: "Jordan ICT directory: Amman phone and company listing"
