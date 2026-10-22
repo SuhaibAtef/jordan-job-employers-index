@@ -1,46 +1,52 @@
 name: "Cayyesh"
-description: "Cayyesh is a Jordan-founded AdTech and loyalty platform designed to connect payment-card activity with merchant cashback and personalized offers. It partnered with payment providers such as MEPS, but current operating status is unclear: public startup profiles remain accessible while the company’s visible hiring and product activity is historical."
+description: "Cayyesh is a Jordan-founded digital advertising and loyalty platform historically offering payment-card-linked cashback and personalized merchant promotions through integrations with payment service providers. Its participation in Flat6Labs Amman and MEPS partnership are documented, but its current operating status could not be independently confirmed as of October 22, 2026."
 verification_status: "unresolved"
-last_verified: "2026-10-07"
-industry: "Retail Technology / Marketing & Loyalty"
+last_verified: "2026-10-22"
+industry: "Financial Technology / Advertising Technology / Loyalty"
 website: "https://www.cayyesh.com/"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/cayyesh"
 hr_email: null
-size: null
+size: "2-10"
 location:
-  status: "unresolved"
-  address: "Amman, Jordan"
-  area: "Amman"
-  address: null
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: null
+  area: "Amman"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "ai"
+  - "fintech"
   - "marketing"
-technologies: []
+technologies:
+  - "REST API"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Jordan digital marketing & loyalty platform integrating payment providers to offer automatic cashback; partner businesses acquire and retain customers via cash offers; Flat6Labs Amman Cycle 3, CEO Qader Majali. No public hiring info found.\nstack research 2026-10-05: 2 searches + PitchBook; company out of business Feb 2025, no employee profiles or dev postings found"
+  signals:
+    - "Historical Amman sales support posting sought 0-3 years of experience; it is not a confirmed current vacancy."
+notes: "Reviewed 2026-10-22. Flat6Labs documented Cayyesh in its March 2023 Amman accelerator cohort and described payment-provider integrations, transaction-linked cashback, and merchant analytics. Cayyesh's own historical LinkedIn post describes its MEPS partnership. LinkedIn currently lists Amman headquarters, 2020 founding, and 2-10 employees; this range is self-reported and not a verified current headcount. The official cayyesh.com domain could not be accessed during this review. A third-party company database marks the company alive while an earlier repository research note cited an out-of-business classification; neither establishes current operations or closure. No current official product activity, open vacancy, careers page, or HR contact was confirmed. A 2023 sales-support job post published a contact email for that historical application only; it is not a verified current HR address. A 2022 Django job advert mentions Python, Django, AWS, and Docker, but the old third-party advert is insufficient to establish a current internal stack. The published Amman location is city-level only; an unverified directory street address and generic city-centroid coordinates are deliberately excluded. REST API refers to the historically advertised integration capability, not an audited production stack. The similarly named Egypt-based Cayesh is a different company."
 evidence:
   - type: "official_website"
     url: "https://www.cayyesh.com/"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.flat6labs.com/wp-content/uploads/2023/03/Flat6Labs-Cycle-3-in-Amman-Investor-Brief.pdf"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Historical official domain; inaccessible at review on 2026-10-22"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/cayyesh"
+    label: "Cayyesh company LinkedIn: Amman, founding year, self-reported size and API-based platform description"
   - type: "company_listing"
     url: "https://flat6labs.com/ar/Company/%D9%83%D9%8A%D9%91%D8%B4/"
-    label: "Flat6Labs portfolio profile describing Cayyesh product and Jordan market"
-  - type: "job_post"
-    url: "https://jo.linkedin.com/jobs/view/sales-support-specialist-at-cayyesh-3709604443"
-    label: "Historical Amman role for 0-3 years experience"
+    label: "Flat6Labs portfolio entry describing the Jordanian loyalty and cashback product"
+  - type: "other"
+    url: "https://www.flat6labs.com/wp-content/uploads/2023/03/Flat6Labs-Cycle-3-in-Amman-Investor-Brief.pdf"
+    label: "Flat6Labs 2023 investor brief describing founders, industry and Jordan market"
   - type: "other"
     url: "https://www.linkedin.com/posts/cayyesh_jordan-cayyesh-meps-activity-6804776612236668928-LKob"
-    label: "Historical MEPS partnership and product evidence"
+    label: "Historical company-authored announcement of MEPS payment-card offers partnership"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/sales-support-specialist-at-cayyesh-3709604443"
+    label: "Historical Amman sales support position for 0-3 years of experience; not current"
+  - type: "company_listing"
+    url: "https://www.cbinsights.com/company/cayyesh"
+    label: "Unclaimed third-party profile with 2020 founding, Amman address and unverified alive classification"
+  - type: "job_post"
+    url: "https://www.wahawada2ef.com/2022/03/cayyesh-django-developer.html"
+    label: "Historical 2022 third-party Django developer advertisement; not current stack evidence"
