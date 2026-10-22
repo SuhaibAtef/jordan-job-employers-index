@@ -1,12 +1,12 @@
 name: "Haddaf"
-description: "Haddaf was launched in Jordan as an Arabic fantasy-football game centered on the Saudi Pro League. Historical accelerator materials document the product and founders, but the website is no longer reliably reachable and current employer activity could not be independently established."
-verification_status: "unresolved"
-last_verified: "2026-10-08"
+description: "Haddaf was documented in Flat6Labs' 2023 Amman Seed Program as an Arabic-language Saudi Pro League fantasy-football mobile game. The game let users create teams from real players and compete on match-performance points. Historical existence is corroborated, but a currently operating Jordan employer, active recruitment and a current office could not be confirmed as of October 20, 2026."
+verification_status: "partial"
+last_verified: "2026-10-20"
 industry: "Sports tech, Gaming"
 website: "https://www.haddaf.com"
 careers_url: null
 linkedin: null
-hr_email: "omar@haddaf.com"
+hr_email: null
 size: null
 location:
   maps_url: null
@@ -14,31 +14,42 @@ location:
   latitude: null
   status: "unresolved"
   address: null
-  area: "Amman (historical)"
-  address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  area: "Amman (historical accelerator participation only)"
 categories:
   - "games"
   - "mobile"
-technologies:
-  - "Mobile game"
+technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Arabic fantasy-football mobile game for the Saudi Pro League; users build virtual teams from real players and compete on leaderboards. No public internship postings found. haddaf.com domain currently unreachable (Cloudflare origin DNS error) but publicly listed as the company's site in the Flat6Labs cycle brief. stack research 2026-10-05: 3 searches; no employee profiles or dev postings; Android app removed from Play Store Mar 2025 (released Aug 2024), company inactive since Jul 2023 Flat6Labs cycle; tags unchanged"
+notes: >-
+  Flat6Labs' July 2023 fourth Amman cohort brief identifies Kasim Mufti as
+  CEO and Omar Mufti as CCO; it gives omar@haddaf.com as a historical founder
+  contact, not a verified current HR/recruitment mailbox. The 2023 product
+  was a B2C fantasy-football mobile game; no underlying programming stack
+  was substantiated. The company's inclusion in an Amman accelerator does
+  not establish a street address or exact office coordinates. The website
+  returned an HTTP 530 error when checked on 2026-10-20. No verified current
+  company careers page, open vacancy, headcount or operational office was
+  found. A separately indexed LinkedIn page named Haddaf/GG Fantasy
+  describes a Riyadh-based esports product; it was not treated as proof
+  that this Jordan accelerator company has the same identity or employees.
+  Historical Wamda coverage in 2015 discusses an earlier Haddaf.com football
+  statistics service associated with Omar Mufti. Current business continuity
+  and employment activity remain unresolved.
 evidence:
   - type: "official_website"
     url: "https://www.haddaf.com"
-    label: "Official website"
+    label: "Historically listed company domain; HTTP 530 on 2026-10-20"
   - type: "other"
     url: "https://www.flat6labs.com/wp-content/uploads/2023/07/Post-Demo-Day-Amman-Cycle-Four-.pdf"
-    label: "Research source"
+    label: "Flat6Labs fourth Amman cohort brief (July 2023), page 5: product, founders and historical contact"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/flat6labs_proptech-retailtech-newmediatech-activity-7089713712344743936-0z_w"
+    label: "Flat6Labs 2023 Amman fourth Demo Day post naming Haddaf"
+  - type: "other"
+    url: "https://www.wamda.com/ar/2015/01/%D8%B9%D9%85%D8%B1-%D9%85%D9%81%D8%AA%D9%8A-%D8%A7%D8%AA%D8%A8%D8%B9-%D8%B4%D8%BA%D9%81%D9%83-%D9%88%D8%B3%D9%8A%D8%AA%D8%A8%D8%B9%D9%83%D9%85%D8%A7-%D8%A7%D9%84%D9%85%D8%A7%D9%84"
+    label: "Wamda (January 2015): historical Haddaf.com founder background"
   - type: "other"
     url: "https://parsers.vc/startup/haddaf.com/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Previously recorded third-party historical listing; not current operational proof"
