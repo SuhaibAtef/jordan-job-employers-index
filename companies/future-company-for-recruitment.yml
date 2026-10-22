@@ -1,39 +1,75 @@
 name: "Future Company for Recruitment"
-description: "Future Company for Recruitment is an Amman recruitment agency historically serving healthcare, engineering, education and other staffing markets. Its public website is currently limited and current employee/hiring evidence is insufficient to treat it as a strongly verified active employer."
-verification_status: "unresolved"
-last_verified: "2026-10-08"
+description: >-
+  Future Company for Recruitment (also branded Future For Recruitment and
+  شركة المستقبل لتوظيف الكفاءات) is an Amman-based staffing agency connecting
+  Jordanian applicants with employers in the Gulf and wider region. Its
+  company LinkedIn profile carried recent engineering, healthcare and
+  education placement advertisements and an internal administrative hiring
+  notice in October 2026.
+verification_status: "partial"
+last_verified: "2026-10-21"
 industry: "Staffing & Recruiting"
-website: "http://futurejordan.com/cv/"
+website: "http://www.futurejordan.com"
 careers_url: null
-linkedin: null
-hr_email: "info@futurejordan.com"
-size: null
+linkedin: "https://www.linkedin.com/company/future-for-recruitment"
+hr_email: "contract@futurejordan.com"
+size: "11-50"
 location:
-  status: "unresolved"
-  address: "Sports City Circle / Al Omari Complex area, Amman, Jordan"
-  area: "Amman (historical)"
-  address: "Sport City Circle, Al Omari Complex, 3rd Floor, P.O. Box 1687, Amman 11941, Jordan"
   status: "approximate"
-  latitude: 31.98741
-  longitude: 35.8966
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.98741,35.8966"
+  area: "Queen Rania Al-Abdullah Street / Sports City Circle, Amman"
+  address: "Queen Rania Al-Abdullah Street, near Sports City Circle, Amman, Jordan (street/area only; exact current building unconfirmed)"
+  confidence: "medium"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Future+For+Recruitment%2C+Amman%2C+Jordan"
 categories:
-  - "web"
+  - "recruiting"
 technologies: []
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman recruitment agency covering allied health, medical, engineering and education sectors. Site currently in maintenance mode; address, email and web URL per an independent recruitment-agency directory. Pin moved to the geocoded Al Omari Building area (Queen Rania St, near Sports City). stack research 2026-10-06: 2 searches (employee snippets, job boards); no dev employee profiles or postings found - recruitment agency, site in maintenance mode"
+  early_career_signal: true
+  signals:
+    - "October 2026 company LinkedIn advertisement for internal administrative/operations positions explicitly accepts recent graduates; application email contract@futurejordan.com."
+    - "October 2026 company LinkedIn posts recruit Jordan-based engineering and medical candidates for employers in Saudi Arabia and other Gulf states; these are client placements, not internal vacancies."
+notes: >-
+  Reviewed 2026-10-21. The company-operated LinkedIn profile, linked to the
+  futurejordan.com domain, lists Amman headquarters, Queen Rania Al-Abdullah
+  Street and 11-50 employees (self-reported company-wide range, not a measured
+  current headcount). Its recent posts demonstrate active recruitment for
+  client employers and one internal administrative/operations opening accepting
+  fresh graduates. contract@futurejordan.com is the application address in
+  that internal vacancy; data@futurejordan.com is used for client-placement
+  advertisements, while info@futurejordan.com is a historically published
+  general contact. The company website/cv page could not be accessed during
+  this review and no dedicated careers portal was verified. A historical
+  recruitment directory lists Al Omari Complex, third floor, near Sports City
+  Circle; a 2018 employment-agency booklet lists a different nearby building
+  description. Neither establishes current occupancy or an exact office pin.
+  Current LinkedIn street-level location and a mapped recruitment business
+  support Amman presence, but the building address and coordinates remain
+  unverified. The company is a staffing agency, not a demonstrated software
+  developer; no internal technology stack was substantiated. The Bayt profile
+  claims licensing since 2004, but current licensing was not independently
+  verified. Partial company verification reflects live business activity,
+  unresolved website availability and exact office details.
 evidence:
-  - type: "official_website"
-    url: "http://futurejordan.com/cv/"
-    label: "Official website"
-  - type: "other"
-    url: "http://www.dubai-forever.com/recruitment-agencies-jordan.html"
-    label: "Research source"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/future-for-recruitment"
+    label: "Current company profile, 11-50 employee range, Queen Rania Street and October 2026 hiring posts"
+  - type: "company_listing"
+    url: "https://www.bayt.com/en/company/futurejordan-2022300/"
+    label: "Employer profile describing Jordan recruitment sectors and historical licensing claim"
+  - type: "company_listing"
+    url: "https://www.dubai-forever.com/recruitment-agencies-jordan.html"
+    label: "Historical recruitment agency listing, old address and general contact"
   - type: "other"
     url: "https://www.dubai-forever.com/jordan-construction-jobs.html"
-    label: "Research source"
+    label: "Historical recruitment agency listing for construction vacancies"
+  - type: "official_website"
+    url: "http://futurejordan.com/cv/"
+    label: "Historical company CV website; inaccessible during October 2026 review"
+  - type: "other"
+    url: "https://ardd-jo.org/wp-content/uploads/2023/03/%D9%83%D8%AA%D9%8A%D9%91%D8%A8-%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AD%D9%84%D9%88%D9%84-%D9%84%D9%84%D9%85%D8%B1%D8%A3%D8%A9-%D9%81%D9%8A-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-june-20-2018.pdf"
+    label: "2018 Jordan employment-agency directory, historical Sports City address"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.98741,35.8966"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=Future+For+Recruitment%2C+Amman%2C+Jordan"
+    label: "Company-name map search; precise current building and coordinates unverified"
