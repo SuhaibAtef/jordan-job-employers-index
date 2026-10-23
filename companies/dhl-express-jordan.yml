@@ -1,17 +1,17 @@
 name: "DHL Express Jordan"
-description: "DHL Express operates express-delivery and logistics services in Jordan, with a main country office in Amman and airport operations. Jordan roles are primarily logistics, operations, customer service and commercial functions rather than a local software-engineering hub."
+description: "DHL Express provides international time-definite courier shipping, import/export customs support, shipment tracking and logistics services in Jordan. Its 2026 Jordan service guide lists a country office in Al Bayader Industrial Area, Amman. Jordan recruitment evidence relates to logistics, operations and commercial functions; no local software-engineering hub is established."
 verification_status: "partial"
-last_verified: "2026-10-07"
+last_verified: "2026-10-23"
 industry: "Logistics / Express Delivery"
-website: "https://www.dhl.com/"
+website: "https://www.dhl.com/jo-en/home/express.html"
 careers_url: "https://careers.dhl.com/global/en"
 linkedin: "https://www.linkedin.com/company/dhlexpress/"
 hr_email: null
-size: null
+size: "10,001+ employees globally (DHL Express LinkedIn; Jordan headcount unknown)"
 location:
   area: "Al Bayader Industrial Area, Amman"
   address: "Sewar Bin Amara Street, Al Bayader Industrial Area, Amman, Jordan"
-  status: "provided_unverified"
+  status: "verified"
   latitude: null
   longitude: null
   maps_url: null
@@ -21,8 +21,9 @@ technologies: []
 job_seeker:
   early_career_signal: true
   signals:
-    - "Global DHL student and graduate programs"
-notes: "Verified 2026-10-07. DHL's official careers platform remains active and includes dedicated student, graduate and internship pathways. The stored Jordan office address is retained from DHL's official Jordan service/rate guide, but no newer first-party street-address page was found in this pass, so it remains provided_unverified and the coordinate pin was removed. No current Jordan-specific software-engineering vacancy was identified; this record should not imply that global DHL IT roles are based in Jordan."
+    - "Global DHL student and graduate programs; Jordan eligibility not confirmed"
+    - "Third-party Amman telesales listing dated 2026-08-04 requested 1-2 years experience; application status not confirmed by DHL"
+notes: "Reviewed 2026-10-23. DHL Express's official 2026 Jordan Service & Rate Guide (valid 2026-01-01) independently refreshes the previously recorded Al Bayader Industrial Area, Sewar Bin Amara Street, Amman office address; a Waze DHL Express Main Country Office listing corroborates the street with a transliteration variant (Siwar Ben Omarah). Location is verified at street level, but no building number or reliable coordinates were found. The official guide publishes JO.Customerservice@dhl.com and 06-5800800 for customer service, NOT HR; dedicated Jordan recruitment email remains unknown. LinkedIn's 10,001+ employee range is global, not a Jordan headcount. DHL Group advertises global student/graduate programs, but no Jordan-specific placement is established. A third-party 2026-08-04 Telesales Executive advertisement in Amman lists a 2026-11-04 deadline and 1-2 years of experience; DHL's own careers portal did not independently confirm whether it is still open. Internal technology stack and current Jordan software-engineering vacancies are unverified. Company-level verification remains partial."
 evidence:
   - type: "official_website"
     url: "https://www.dhl.com/"
@@ -39,3 +40,15 @@ evidence:
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/dhlexpress/"
     label: "DHL Express LinkedIn"
+  - type: "official_website"
+    url: "https://www.dhl.com/jo-en/home/express.html"
+    label: "DHL Express Jordan official services page"
+  - type: "official_website"
+    url: "https://mydhl.express.dhl/content/dam/downloads/jo/en/rate-guide/service_and_rate_guide_jo_en_2026.pdf.coredownload.pdf"
+    label: "DHL Express Jordan 2026 service and rate guide, official Amman address and customer service"
+  - type: "company_listing"
+    url: "https://www.waze.com/live-map/directions/jo/amman-governorate/amman/dhl-express-main-country-office?to=place.ChIJE5vSR6ChHBURpN1IeaeJw9A"
+    label: "Waze listing for DHL Express Main Country Office on Siwar Ben Omarah Street"
+  - type: "job_post"
+    url: "https://jordan.mimusjobs.com/job/telesales-executive/"
+    label: "Third-party Amman Telesales Executive listing, posted 2026-08-04; not verified active on DHL careers portal"
