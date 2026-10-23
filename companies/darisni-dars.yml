@@ -1,17 +1,17 @@
 name: "Darisni (Dars)"
-description: "Darisni is an on-demand tutoring platform for Arabic-speaking school students, connecting learners with tutors through mobile and digital products."
+description: "Dars is a Kuwait-headquartered education technology company whose Darisni platform offers on-demand tutoring, learning videos, practice exams and personalized learning tools for Arabic-speaking students."
 verification_status: "partial"
-last_verified: "2026-10-07"
+last_verified: "2026-10-23"
 industry: "EdTech / Online Tutoring"
-website: "http://www.darisni.me"
-careers_url: null
-linkedin: null
-hr_email: null
-size: null
+website: "https://www.darisni.me/"
+careers_url: "https://www.darisni.me/faq/"
+linkedin: "https://www.linkedin.com/company/dars"
+hr_email: "jobs@darisni.me"
+size: "51-200"
 location:
-  area: "Jordan (historical office presence)"
+  area: "Amman, Jordan (Dars LinkedIn-listed location)"
   address: null
-  status: "unresolved"
+  status: "approximate"
   latitude: null
   longitude: null
   maps_url: null
@@ -23,12 +23,22 @@ technologies:
   - "iOS"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Verified 2026-10-07 on a conservative basis. Historical public coverage describes Darisni as Kuwait-headquartered with offices including Jordan, but the company website was not reliably accessible and no current Jordan office address or hiring evidence was found. The previous generic Amman pin and unsupported internship signal were removed."
+  signals:
+    - "Official FAQ invites qualified tutor inquiries at jobs@darisni.me; no Jordan-specific vacancy or entry-level eligibility confirmed."
+notes: "Reviewed 2026-10-23. The official Darisni website and FAQ were accessible and describe the education products. Parent company Dars's LinkedIn profile lists Amman as a company location and estimates 51-200 employees worldwide, not Jordan-specific headcount. No current street address or exact coordinates were corroborated. The official FAQ lists jobs@darisni.me for prospective tutors only; it is not a verified general HR contact and the FAQ is not a dedicated careers page. No dated active Jordan vacancy or internship was confirmed. A separate Darisni LinkedIn showcase reports 201-500 employees, differing from the parent Dars profile; the size field follows the parent profile with this qualification. Android and iOS are documented supported app platforms, not independently verified internal development technologies. Historical reporting also describes a Jordan office."
 evidence:
   - type: "official_website"
-    url: "http://www.darisni.me"
-    label: "Company website reference; current accessibility was inconsistent"
+    url: "https://www.darisni.me/"
+    label: "Official site — active tutoring platform, videos, exams and parent/teacher apps"
+  - type: "official_contact"
+    url: "https://www.darisni.me/faq/"
+    label: "Official FAQ — Android/iOS support, tutor recruitment address and general support email"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/dars"
+    label: "Parent Dars LinkedIn — Kuwait headquarters, 51-200 global employees and Amman location"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/showcase/darisni-tutors/"
+    label: "Darisni product showcase — confirms Dars affiliation and differing 201-500 employee estimate"
   - type: "other"
     url: "https://www.edn.com/on-demand-real-time-tutoring-app-darisni-to-reshape-education-in-the-arab-world/"
-    label: "Historical product and regional-office evidence"
+    label: "Historical reporting on Darisni tutoring product and regional offices"
