@@ -1,40 +1,40 @@
 name: "iDelivery"
-description: "iDelivery is an Amman last-mile delivery service and technology platform providing on-demand and scheduled business deliveries. Its courier workflow includes live tracking and API integration, but its current public employee and hiring footprint is limited."
+description: "iDelivery is an Amman-based last-mile courier and logistics-management service for business clients, offering scheduled, same-day and express delivery, real-time shipment tracking, cash-on-delivery collection, partner dashboards and API integration. Its official website identifies it as a subsidiary of the Amman-based Neptune group."
 verification_status: "partial"
-last_verified: "2026-10-08"
-industry: "Last-mile delivery technology"
-website: "http://i-delivery.net/"
+last_verified: "2026-10-23"
+industry: "Last-mile delivery and logistics technology"
+website: "https://i-delivery.net/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/idelivery-logitech/"
 hr_email: null
-size: null
+size: "11-50"
 location:
-  status: "provided_unverified"
-  address: "Radi Annab St., Amman, Jordan"
+  status: "verified"
+  address: "Al Jandaweel Center, 3rd floor, Radi Annab Street, Amman, Jordan"
   area: "Amman"
-  address: "Radi Annab St., Amman, JO"
-  status: "provided_unverified"
-  latitude: 31.964183
-  longitude: 35.834644
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.964183,35.834644"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "data"
   - "logistics"
   - "mobile"
-technologies:
-  - "GIS"
-  - "REST API"
+technologies: []
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Amman-based last-mile courier tech for businesses (on-demand and scheduled deliveries, courier app with live tracking and API integration); phone +962788808878; listed under Shipping Supply & Food Delivery Service in Amman."
+  signals:
+    - "Historical company-associated LinkedIn recruitment post sought an experienced Sales Account Manager and invited CVs to a general company email; current availability is not confirmed."
+notes: "Reviewed 2026-10-23. The official website lists Al Jandaweel Center (3rd floor), Radi Annab Street, Amman and +962 7 8880 8878; the company LinkedIn page corroborates Radi Annab Street. The listed coordinates and generic Google Maps pin in the previous record were removed because they were not confirmed as the exact office. LinkedIn estimates 11-50 employees (not an audited headcount). The official site names Neptune as its parent group. Public support contact Support@i-Delivery.net is for business inquiries, not a verified HR inbox. A historical sales recruitment post used Info@i-delivery.net; neither a current HR email nor an open vacancy or careers page was verified. The site documents plug-and-play API integration, tracking and dashboards as product capabilities, but not an internal software stack; previous GIS and REST API technology tags were not independently supported."
 evidence:
   - type: "official_website"
-    url: "http://i-delivery.net/"
-    label: "Official website"
+    url: "https://i-delivery.net/"
+    label: "Official website: delivery services, API integration, address and telephone (accessed 2026-10-23)"
+  - type: "official_website"
+    url: "https://i-delivery.net/index.php/about-us/"
+    label: "Official about page: Neptune group affiliation and Amman address (indexed 2026-10)"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/idelivery-logitech/"
+    label: "Company LinkedIn: Amman, Radi Annab, 11-50 employees and current logistics description (accessed 2026-10-23)"
   - type: "other"
-    url: "https://i-delivery.app.link/QLAD0lvUpxb"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.964183,35.834644"
-    label: "Google Maps location"
+    url: "https://jo.linkedin.com/in/mohammed-abu-al-saud-0a265356"
+    label: "Historical Neptune-associated LinkedIn recruitment post for sales role; not evidence of a current vacancy"
