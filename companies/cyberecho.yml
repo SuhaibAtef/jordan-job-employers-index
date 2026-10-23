@@ -1,13 +1,13 @@
 name: "CyberEcho"
-description: "CyberEcho is a cybersecurity consultancy providing security strategy, architecture, DevSecOps, penetration testing, vulnerability management, virtual-CISO, compliance and packaged security services for startups, fintechs and larger organizations."
+description: "CyberEcho is a cybersecurity consultancy offering security governance and strategy, security architecture, DevSecOps integration, penetration testing, vulnerability management, risk assessments, compliance support, and fractional CISO services, including packaged services for startups and fintechs."
 verification_status: "partial"
-last_verified: "2026-10-07"
+last_verified: "2026-10-23"
 industry: "Cybersecurity Consulting"
 website: "https://cyberecho.io/"
 careers_url: null
 linkedin: null
 hr_email: null
-size: null
+size: "1-10"
 location:
   area: "Amman"
   address: null
@@ -26,11 +26,14 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Verified 2026-10-07. CyberEcho's official website remains active and documents DevSecOps, IAM, penetration testing, vulnerability management and virtual-CISO services. Historical Jordan ICT association evidence identifies an Amman base, but the current official site does not publish a physical address. The previous generic Amman coordinate was therefore removed and the city remains provided_unverified rather than exact."
+notes: "Reviewed 2026-10-23. The accessible official website describes cybersecurity governance, security architecture, DevSecOps, penetration testing, vulnerability management, virtual CISO and compliance services, including CI/CD security and IAM in service packages. These are advertised service capabilities, not a verified internal engineering stack. A September 2022 int@j newsletter identified headquarters in Amman and an office in Dubai; the current company website publishes no office address. Crunchbase currently lists Dubai as the headquarters and estimates 1-10 employees, a third-party global size estimate not independently confirmed by the company. Current Jordan operations, exact street address and coordinates remain unverified, so Amman is retained only as a historical provided location. No identifiable official company LinkedIn profile, dedicated careers page, live Jordan vacancy, internship or HR recruitment email was confirmed; the website offers a general contact form only. Do not confuse this company with similarly named Cyber Correlate or the unrelated Nothreat CyberEcho product."
 evidence:
   - type: "official_website"
     url: "https://cyberecho.io/"
-    label: "Official website — current cybersecurity and DevSecOps services"
+    label: "Official company website - security consulting, DevSecOps, IAM and packaged services; no published address or careers page"
   - type: "company_listing"
-    url: "https://intaj.net/newsletter/3rd-week-of-september-2022/"
-    label: "Historical Jordan ICT association evidence for Amman presence"
+    url: "https://www.intaj.net/media-center/newsletters/3rd-week-september-2022"
+    label: "Jordan ICT association newsletter, September 2022 - historical Amman headquarters and Dubai office"
+  - type: "company_listing"
+    url: "https://www.crunchbase.com/organization/cyberecho"
+    label: "Crunchbase - third-party 1-10 employee estimate and Dubai headquarters listing, not independently verified"
