@@ -1,25 +1,20 @@
 name: "Flowless"
-description: "Flowless develops smart-water and precision-irrigation systems using sensors, IoT connectivity, analytics and AI to optimize water use. The company is not headquartered in Jordan, but it has documented Jordan deployments and partnerships, including smart irrigation and hydroponics work in the Jordan Valley and Jerash."
+description: "Flowless develops AI-enabled water-network monitoring, leak-detection and precision-irrigation systems for utilities and farms. Its official case studies document work with Miyahuna in Amman, AgriWise irrigation on Jordan Valley palm farms, and hydroponics automation with Jordan-based Senara. These projects do not establish a Jordan office."
 verification_status: "partial"
-last_verified: "2026-10-08"
-industry: "AgriTech / Precision Irrigation"
-website: "https://flowless.co"
+last_verified: "2026-10-23"
+industry: "Water Technology / Smart Water Management / AgriTech"
+website: "https://www.flowless.co/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/flowless-water/"
 hr_email: null
-size: null
+size: "11-50 employees globally (LinkedIn estimate; Jordan headcount unknown)"
 location:
   maps_url: null
   longitude: null
   latitude: null
-  status: "unresolved"
-  address: null
-  area: "Jordan projects / no verified office"
-  address: null
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: null
+  area: "Jordan project sites: Amman and Jordan Valley; no verified Jordan office"
 categories:
   - "ai"
   - "iot"
@@ -30,26 +25,57 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "AI-driven precision irrigation (AgriWise) with LoRaWAN field sensors and mobile dashboard; HQ Ramallah, Palestine - qualifies via Jordan operations: AgriWise deployed on Jordan Valley palm farms (both sides of the Valley per its own case study) plus Jordanian partner Senara. No public hiring page found."
+notes: >-
+  Official case studies document Flowless work with Miyahuna and the Water Management
+  Initiative in Amman, AgriWise irrigation on Jordan Valley palm farms, and a
+  hydroponics project with Jordan-based Senara. These demonstrate projects in
+  Jordan, not a local headquarters, permanent office, or local hiring. The
+  official contact page lists offices on Irsal Street in Ramallah, Palestine,
+  and at Agora 4, 8934 CJ Leeuwarden, Netherlands; LinkedIn identifies
+  Leeuwarden as headquarters. No Jordan street address or defensible company
+  coordinates were found. A previous Amman city-center pin (31.9539, 35.9106)
+  was not office evidence and was removed. General inquiries:
+  info@flowless.co (not a verified HR address). LinkedIn's 11-50 size range is
+  company-wide, not Jordan-specific. AgriWise documents LoRaWAN/RF sensors and
+  a mobile dashboard; Flowless describes Modbus, MQTT and REST integration for
+  its products, not a confirmed internal software-engineering stack. No
+  current Jordan vacancy, internship, dedicated careers page, or recruitment
+  email was verified as of 2026-10-23. Historical company/employee social posts
+  are project context, not evidence of a current Jordan office or job opening.
 evidence:
   - type: "official_website"
-    url: "https://flowless.co"
-    label: "Official website"
+    url: "https://www.flowless.co/"
+    label: "Official Flowless website and water management solutions"
   - type: "other"
     url: "https://www.flowless.co/technology/agriwise/"
-    label: "Research source"
+    label: "Official AgriWise product details, LoRaWAN/RF sensors and mobile app"
   - type: "other"
     url: "https://www.flowless.co/wp-content/uploads/2025/07/smart-irrigation.pdf"
-    label: "Research source"
+    label: "Official AgriWise guide documenting smart palm irrigation in Jordan Valley"
   - type: "other"
     url: "https://www.wamda.com/2020/03/liquid-assets-conserving-palestine-water-supplies"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Historical 2020 company background, not a current office or headcount source"
   - type: "linkedin_employee"
     url: "https://jo.linkedin.com/in/beshr-bozyeh-5102511a3"
-    label: "Employee profile documenting Flowless deployments in the Jordan Valley"
+    label: "Historical employee profile; supplementary project context only"
   - type: "other"
     url: "https://www.linkedin.com/posts/flowless-water_hydroponicsystem-agriculture-productivity-activity-6940686650607882240-jKoo"
-    label: "Company post documenting Jordan partner Senara and Jerash project"
+    label: "Historical Flowless post on Senara and Jerash project"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/flowless-water/"
+    label: "Flowless company profile: global size, headquarters and office locations"
+  - type: "other"
+    url: "https://www.flowless.co/case-studies/case-studies-flowless-system-helps-farmers-in-jordan-valley/"
+    label: "Official case study: AgriWise deployed on Jordanian palm farms"
+  - type: "other"
+    url: "https://www.flowless.co/case-studies/case-studies-non-revenue-water-management-in-amman/"
+    label: "Official case study: Miyahuna water-network project in Amman"
+  - type: "other"
+    url: "https://www.flowless.co/blog/solutions/smart-hydroponics-iot-automation-food-security/"
+    label: "Official Flowless article documenting Jordan-based Senara collaboration"
+  - type: "other"
+    url: "https://www.flowless.co/technology/"
+    label: "Official product connectivity documentation (Modbus, MQTT, REST)"
+  - type: "other"
+    url: "https://www.flowless.co/contact-us/"
+    label: "Official contact page: Palestine and Netherlands offices, general email"
