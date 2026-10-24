@@ -1,50 +1,81 @@
 name: "Infinity EV Charge Jordan"
-description: "Infinity EV Charge Jordan operates a growing public electric-vehicle charging network in Jordan as part of the wider Infinity clean-energy group. The network launched in late 2025, has expanded across major destinations and is accessible through the unified Infinity EV charging app."
+description: "Infinity EV Charge Jordan operates and expands a public electric-vehicle charging network in Jordan through a venture involving Egypt-based Infinity and Middle East Holding Company. Its fast/DC charging locations and InfinityEV mobile app support station discovery, charging-session management and digital payments; operational locations include Amman and Aqaba."
 verification_status: "partial"
-last_verified: "2026-10-08"
-industry: "EV Charging / Electric Power"
+last_verified: "2026-10-24"
+industry: "EV Charging Infrastructure / Electric Mobility"
 website: "https://infinityevcharge.com"
-careers_url: null
+careers_url: "https://weareinfinity.com/en/About-Us"
 linkedin: "https://www.linkedin.com/company/infinityevchargejo"
-hr_email: null
+hr_email: "recruitment@weareinfinity.com"
 size: "51-200"
 location:
   maps_url: null
   longitude: null
   latitude: null
-  status: "unresolved"
-  address: null
-  area: "Jordan charging network / no HQ verified"
-  address: null
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: null
+  area: "Jordan charging network (Amman and Aqaba); no corporate office address confirmed"
 categories:
   - "fintech"
   - "iot"
 technologies:
   - "CliQ"
+  - "JKBPay"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "EV charging network operator; Jordan entity launched first station Nov 2025 (7 stations, expanding); unified InfinityEV app across Egypt and Jordan (parent brand is Egypt-based); fast and ultra-fast chargers; partnered with Ayla Oasis and Abdali Mall; JKBPay/CliQ in-app payments.; stack verified 2026-10-05: Jordan Kuwait Bank official partnership news (Jul 2026) confirms CliQ/JKBPay payment integration inside the InfinityEV app; app itself is built by Egypt-based parent, no Jordan dev team found"
+notes: >-
+  Reviewed 2026-10-24. Infinity's parent announced Jordan expansion through a venture with
+  Middle East Holding Company and reported seven charging stations in a 2026 company post;
+  its first Jordan station began operating in November 2025. The Jordan entity's LinkedIn
+  page reports 51-200 employees, but that range is self-reported and no Jordan-specific
+  audited headcount is available. The July 5, 2026 Jordan Kuwait Bank announcement confirms
+  JKBPay/CliQ integration in the InfinityEV app; these are third-party payment integrations,
+  NOT evidence of the company's internal software-engineering stack or a Jordan-based
+  development team. Petra reported a February 7, 2026 Ayla Oasis (Aqaba) agreement
+  involving three planned charging stations and 90/60 kW DC chargers; a charging-hardware
+  partner documents a 2026 Infinity station at Majdi Mall in Amman. The company's October
+  2026 LinkedIn update announces an Uptown Amman charging-station agreement at Al Nakhil,
+  Airport Road; a planned station is not proof it has opened. These are charging-site
+  locations, not a corporate headquarters or recruiting office. No current official Jordan
+  office street address, exact corporate coordinates, Jordan-specific hiring vacancy or
+  local HR inbox was verified. The listed careers page and recruitment@weareinfinity.com
+  belong to the Egypt-based parent Infinity; applicability to Jordan vacancies is
+  unconfirmed. The official charging website is JavaScript-rendered. The fintech/IoT
+  categories reflect payment integration and connected charging products, not proof
+  that Infinity Jordan is a fintech employer. A previously recorded generic Amman
+  map pin (31.9539, 35.9106) was removed as unsupported.
 evidence:
   - type: "official_website"
     url: "https://infinityevcharge.com"
-    label: "Official website"
+    label: "Official Infinity EV charging website (JavaScript app)"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/infinityevchargejo"
-    label: "LinkedIn company page"
+    label: "Jordan company LinkedIn: network activity, self-reported size and October 2026 Uptown agreement"
   - type: "other"
     url: "https://jordannewsgazette.com/ayla-partners-with-infinity-ev-solutions-to-launch-ev-charging-stations/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Previously recorded Ayla partnership report; not accessible during 2026-10-24 review"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/infinityrenewables/"
-    label: "Parent company confirms Jordan network launch, seven stations and continued expansion"
+    label: "Egypt-based parent LinkedIn: Jordan venture and station expansion"
   - type: "linkedin_employee"
     url: "https://jo.linkedin.com/in/enas-al-jaghbeer-a98a28a7"
-    label: "Jordan employee activity supporting active Infinity EV Charge Jordan operations"
+    label: "Historical Jordan-based employee activity; does not independently establish office address"
+  - type: "other"
+    url: "https://www.jkb.com/en/news/jordan-kuwait-bank-signs-a-partnership-agreement-with-infinity-jordan-to-enable-payment-via-jkbpay-for-charging-electric-vehicles"
+    label: "Jordan Kuwait Bank official July 5 2026 agreement: JKBPay/CliQ in InfinityEV app"
+  - type: "other"
+    url: "https://petra.gov.jo/index.php/en/news/ayla-signs-strategic-partnership-to-develop-ev-charging-stations"
+    label: "Petra February 7 2026: Ayla Oasis Aqaba charging partnership and planned stations"
+  - type: "careers_page"
+    url: "https://weareinfinity.com/en/About-Us"
+    label: "Parent Infinity Careers section, not a confirmed Jordan vacancies page"
+  - type: "official_website"
+    url: "https://weareinfinity.com/contact-us"
+    label: "Parent Infinity official contact confirms recruitment email (Egypt-based)"
+  - type: "other"
+    url: "https://sigmaevs.com/OneProject.aspx?Id=27"
+    label: "Charging-hardware partner: 2026 Infinity station at Majdi Mall, Amman"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/posts/infinityrenewables_infinity-is-growing-beyond-egypt-and-is-now-activity-7451568711951347713-rjWp"
+    label: "Parent company post: seven Jordan stations, first in November 2025"
