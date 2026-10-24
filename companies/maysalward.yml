@@ -1,52 +1,92 @@
 name: "Maysalward"
-industry: "Video Games"
+description: >-
+  Maysalward is an Amman-founded mobile game development and publishing studio
+  established in 2003. It develops culturally localized and free-to-play games
+  for mobile platforms, including Dominoes Pro and Trix Plus, and supports
+  regional game creators through training and incubation programs.
+industry: "Mobile games development and publishing"
 website: "https://maysalward.com"
 careers_url: "https://maysalward.com/careers"
-linkedin: null
+linkedin: "https://www.linkedin.com/company/maysalward"
 hr_email: "info@maysalward.com"
-size: null
+size: "11-50 employees (LinkedIn self-reported range; current headcount not audited)"
 location:
-  area: "Amman"
-  address: "The Abdali, The Boulevard Avenue, Rafiq Al Hariri Street, Central Square, Entrance 3, Amman"
-  status: "provided_unverified"
-  latitude: 31.96182
-  longitude: 35.89088
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96182,35.89088"
+  area: "The Abdali, Amman"
+  address: "The Abdali, The Boulevard Avenue, Rafiq Al Hariri Street, Central Square, Entrance 3, Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=The+Abdali+Boulevard+Rafiq+Al+Hariri+Street+Central+Square+Entrance+3+Amman+Jordan"
 categories:
   - "data"
   - "games"
   - "mobile"
   - "web"
 technologies:
-  - "C#"
-  - "iOS"
-  - "MySQL"
-  - "OpenGL"
-  - "PHP"
-  - "Unity"
+  - "Unity (historical careers requirements)"
+  - "C# (historical careers requirements)"
+  - "iOS / Objective-C (historical careers requirements)"
+  - "OpenGL ES (historical desirable experience)"
+  - "PHP (historical desirable experience)"
+  - "MySQL (historical desirable experience)"
+  - "Android and iOS mobile game development (company profile)"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "First Middle Eastern mobile game studio (founded 2003), titles like Dominoes Pro and Trix Plus with 100+ games on App Store/Google Play; co-founded and managed the Jordan Gaming Lab (2011-2026); over 50% of team are women. Careers page lists open Unity and iOS developer roles and runs youth training programs and game dev challenges — strong fresh-grad pipeline."
+  early_career_signal: true
+  signals:
+    - "Capsule game-development training and The Space incubation programs are described by the company; these are learning and mentorship signals, not verified current jobs or internships."
+    - "Official careers page advertises Unity and iOS developer positions requiring prior experience; the posting appears old, and current application acceptance is unconfirmed."
+notes: >-
+  Reviewed 2026-10-24. Official About and LinkedIn pages establish a
+  mobile-game development and publishing company founded in Amman in 2003,
+  with a second UK studio. The company reports titles including Dominoes Pro
+  and Trix Plus, plus game-creator training and incubation through Capsule and
+  The Space. LinkedIn lists 11-50 employees, not an independently audited
+  headcount; intaj lists a different historical range (1-24). The official
+  contact page and privacy policy updated 2026-08-07 publish the Abdali
+  Boulevard, Rafiq Al Hariri Street, Central Square, Entrance 3 address;
+  intaj independently repeats it. Verified location means the published
+  address is corroborated, not that present physical occupancy or precise
+  coordinates have been independently surveyed. Previously stored coordinates
+  (31.96182, 35.89088) were removed as unverified for this office.
+  General email info@maysalward.com is also explicitly listed for resume
+  submissions on the official careers page, but is not a dedicated HR mailbox.
+  The careers page's Unity/iOS vacancies appear to be longstanding content
+  (search metadata dates them approximately 2015); do not treat them as
+  currently accepting applications without confirmation. Unity, C#,
+  Objective-C, OpenGL ES, PHP and MySQL are historical job-ad technologies,
+  not proof of the current production stack. The company describes training
+  programs, but no current internship or fresh-graduate vacancy was confirmed.
+  The official site and company LinkedIn show continuing business activity.
 evidence:
   - type: "official_website"
     url: "https://maysalward.com"
-    label: "Official website"
+    label: "Official studio website (checked 2026-10-24)"
+  - type: "official_website"
+    url: "https://maysalward.com/aboutus"
+    label: "Official company history, games, training programs and UK studio"
+  - type: "official_website"
+    url: "https://maysalward.com/contact"
+    label: "Official Amman headquarters address, phone and general email"
+  - type: "official_website"
+    url: "https://maysalward.com/privacy-policy"
+    label: "Official policy dated 2026-08-07 reiterates Amman office address"
   - type: "careers"
     url: "https://maysalward.com/careers"
-    label: "Careers / application page"
+    label: "Legacy Unity/iOS job descriptions, technologies and CV email; current openings unconfirmed"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/maysalward"
+    label: "Company LinkedIn: Amman HQ, 2003 founding, 11-50 employee range and programs"
   - type: "other"
-    url: "https://maysalward.com/aboutus"
-    label: "Research source"
+    url: "https://www.intaj.net/network/maysalward-trading-est"
+    label: "Jordan ICT association member profile corroborates headquarters address and phone"
   - type: "other"
     url: "https://www.pocketgamer.biz/the-top-30-mena-game-makers-of-2025/"
-    label: "Research source"
+    label: "2025 regional game-industry context; not evidence of active hiring"
   - type: "other"
     url: "https://maysalward.com/a-look-into-the-future-of-mobile-gaming-in-the-arab-world-through-jordan"
-    label: "Research source"
-  - type: "other"
-    url: "https://maysalward.com/contact"
-    label: "Research source"
+    label: "Company-authored industry commentary, historical context"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.96182,35.89088"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=The+Abdali+Boulevard+Rafiq+Al+Hariri+Street+Central+Square+Entrance+3+Amman+Jordan"
+    label: "Address-based map lookup only; coordinates not independently verified"
+verification_status: "partial"
+last_verified: "2026-10-24"
