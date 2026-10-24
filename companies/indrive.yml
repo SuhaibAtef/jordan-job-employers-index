@@ -1,10 +1,10 @@
 name: "inDrive"
-description: "inDrive is a global mobility platform operating ride-hailing and related urban-services products in Jordan. The service is available in Amman, but current evidence does not substantiate a local corporate engineering office; technology hiring is primarily organized through the company’s global careers platform."
+description: "inDrive is a global mobility and delivery platform offering negotiated-fare ride-hailing, intercity trips and delivery services. A third-party Jordan travel guide describes inDrive use in Amman, but current licensed Jordan operations and a local corporate office have not been independently confirmed."
 verification_status: "partial"
-last_verified: "2026-10-08"
+last_verified: "2026-10-23"
 industry: "Ride-hailing / Mobility Tech"
 website: "https://indrive.com/"
-careers_url: "https://careers.indrive.com/"
+careers_url: "https://careers.indrive.com/vacancies/"
 linkedin: "https://www.linkedin.com/company/indrive/"
 hr_email: null
 size: "1001-5000"
@@ -14,12 +14,7 @@ location:
   latitude: null
   status: "unresolved"
   address: null
-  area: "Jordan operations / no office verified"
-  address: null
-  status: "approximate"
-  latitude: 31.9518
-  longitude: 35.94042
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+  area: "Jordan / Amman presence unconfirmed"
 categories:
   - "ai"
   - "data"
@@ -30,29 +25,26 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Global ride-hailing/mobility platform operating in Jordan (Amman); hires tech roles (QA, data, engineering) across MENA with remote/hybrid options. No public Amman office address found; coords remain city-center fallback."
+notes: "The official company page reports 1,200+ cities, 47 countries and 3,700+ employees globally; LinkedIn classifies the company in the 1,001-5,000 employee band and locates headquarters in Mountain View, California. An independent travel guide claims inDrive is used in Jordan, but an October 3, 2026 Jordan Land Transport Regulatory Commission briefing named seven licensed ride-hailing platforms without naming inDrive; omission alone does not prove absence of a license. No company-confirmed Jordan office, street address, coordinates, dedicated HR email or Jordan-specific opening was found. The official careers site advertises international roles, including technical and remote roles whose Jordan eligibility is not established. Previously listed Go and PHP are retained as unconfirmed historical stack leads, not verified technologies for a Jordan team. Broad AI/data/web categories reflect global technology activity, not Jordan hiring."
 evidence:
   - type: "official_website"
-    url: "https://indrive.com/"
-    label: "Official website"
+    url: "https://indrive.com/company"
+    label: "Official company profile: global mobility services and workforce (checked 2026-10-23)"
   - type: "careers"
-    url: "https://careers.indrive.com/"
-    label: "Careers / application page"
+    url: "https://careers.indrive.com/vacancies/"
+    label: "Official international job listings; no Jordan opening confirmed in inspected listings (2026-10-23)"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/indrive/"
-    label: "LinkedIn company page"
+    label: "Company LinkedIn: 1,001-5,000 employees and Mountain View headquarters (2026-10-23)"
   - type: "other"
     url: "https://www.expatfocus.com/jordan/guide/jordan-taxis-and-ride-hailing-services"
-    label: "Research source"
+    label: "Third-party travel guide claiming inDrive availability in Jordan; not licensing evidence"
+  - type: "government"
+    url: "https://petra.gov.jo/offiria/index.php/en/news/ltrc-launches-awareness-campaign-against-unlicensed-transport-apps"
+    label: "Petra, 2026-05-12: regulator warns about unlicensed ride-hailing apps"
   - type: "other"
-    url: "https://github.com/alxkm/remote-jobs/blob/HEAD/company-profiles/indrive.md"
-    label: "Research source"
-  - type: "other"
-    url: "https://indrive.com/en/our-story/about-us/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.linkedin.com/company/indrive/?ref=hackernoon"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
-    label: "Google Maps location"
+    url: "https://en.royanews.com/The-Transport-Authority-launches-a-monitoring-campaign-on-applications/"
+    label: "Roya, 2026-10-03: regulator names licensed platforms, not inDrive"
+  - type: "careers"
+    url: "https://careers.indrive.com/"
+    label: "Official recruitment and hybrid-working information (2026-10-23)"
