@@ -1,12 +1,12 @@
 name: "ITCapside"
 description: "ITCapside is an Amman-based cybersecurity consultancy and training provider founded in 2020. Its publicly advertised services include penetration testing, vulnerability and risk assessments, red teaming, application and API security, incident response, threat analysis, compliance consulting, and professional cybersecurity training."
 verification_status: "partial"
-last_verified: "2026-10-14"
+last_verified: "2026-10-24"
 industry: "Computer and Network Security / Cybersecurity Consulting and Training"
 website: "https://itcapside.com/"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/itcapside"
-hr_email: "hiring@itcapside.com"
+hr_email: "info@itcapside.com"
 size: "2-10"
 location:
   area: "Tabarbour (Tareq), Amman"
@@ -35,39 +35,49 @@ technologies:
 job_seeker:
   early_career_signal: true
   signals:
-    - "2026 company-announced three-month hybrid practical cybersecurity training program for students and recent graduates; registration terms should be reconfirmed"
-    - "Historical Cyber Security Engineer Intern posting (closed) with hiring@itcapside.com recruiting address"
-    - "2026 professional cybersecurity certification courses and training calendar (training, not employment)"
+    - "2026 company-announced three-month hybrid hands-on cybersecurity training for students and recent graduates, with rolling-start wording and WhatsApp contact +962 780992787; current registration capacity unconfirmed."
+    - "Mid-2026 company LinkedIn call for experienced AI-project specialists (including backend/API engineers using Python or Node.js) directed CVs to info@itcapside.com; current vacancy status unconfirmed."
+    - "Historical closed Cyber Security Engineer Intern listing used hiring@itcapside.com; the current validity of that dedicated address is unconfirmed."
+    - "Late-2026 company LinkedIn professional cybersecurity and AI training registration announcement; paid/professional training is not an employment vacancy."
 notes: >-
-  Reviewed 2026-10-14. The company's LinkedIn profile identifies a 2020 founding,
-  2-10 company-wide employees, Amman/Tareq headquarters and a specific office at
-  Building 22, 2nd floor, Office 26, Tabarbour Street, Journalists' Circle.
-  An independent Jordan directory corroborates the Tabarbour area and company
-  telephone, but not the precise building, floor or office; therefore the address
-  remains provided_unverified, and previous numeric coordinates were removed.
-  The company domain is linked from its LinkedIn profile and independently from
-  the PECB partner announcement; the website could not be accessed during this
-  review, so current on-site careers/contact details were not independently
-  confirmed. A historical LinkedIn Cyber Security Engineer Intern vacancy
-  publicly used hiring@itcapside.com, but that listing is closed and the email's
-  present recruiting use is not confirmed. A 2026 company LinkedIn AI-project
-  hiring post instead directs applicants to general info@itcapside.com and
-  requests experienced specialists, including backend/API engineers familiar
-  with Python or Node.js. Those two names are advertised role requirements,
-  not verified internal production-stack details. The company also advertised
-  a three-month hybrid practical cybersecurity training opportunity for
-  students/recent graduates in 2026, distinct from an employment vacancy;
-  its present intake status has not been independently confirmed. PECB
-  independently describes ITCapside's cybersecurity services and partnership.
-  The company remains partially verified due to unresolved current hiring
-  status, HR email currency, precise office location and internal stack.
+  Reviewed 2026-10-24. ITCapside's current company LinkedIn profile identifies
+  a 2020 founding, 2-10 company-wide employees, headquarters in Amman/Tareq,
+  and Building 22, second floor, Office 26, Tabarbour Street, Journalists'
+  Circle, Amman 11947. Ordonna independently corroborates the Tabarbour area
+  and phone +962 780992787, but not the exact building or office. The address
+  is therefore company-provided but not independently verified; no precise
+  coordinates are asserted. The official domain is linked from the company's
+  LinkedIn and PECB partner announcement but remained inaccessible on this
+  review, so official-site contact and careers details were not confirmed.
+  PECB independently corroborates the cybersecurity consultancy, risk,
+  penetration-testing, digital forensics and training services. Company
+  LinkedIn posts in 2026 describe API security, SAST consulting, OT/ICS
+  security, professional certification training and AI/LLM security work.
+  A mid-2026 company-authored AI-project recruitment call requested senior
+  candidates for AI/NLP, data, backend/API, security and other roles and
+  explicitly instructed CV submissions to general info@itcapside.com.
+  This address is recorded as a publicly used recruiting channel, not a
+  dedicated HR mailbox. The historical closed Cyber Security Engineer
+  Intern posting instead used hiring@itcapside.com; its present use is
+  unconfirmed. A company-announced 2026 three-month hybrid practical
+  cybersecurity program targeted students/recent graduates, allowed a
+  rolling start after registration, and gave +962 780992787 for enquiries;
+  present capacity was not independently confirmed. A more recent company
+  LinkedIn post advertised open registration for professional cybersecurity
+  and AI courses; these are training opportunities, not jobs. Historical
+  LinkedIn Sales Executive and Mobile Penetration Tester listings are closed.
+  No currently accepting Jordan employment vacancy or official careers page
+  was established. Python and Node.js were advertised AI-project role
+  requirements, not audited internal production-stack facts; other listed
+  technologies primarily represent publicly described services or skills.
+  Verification remains partial despite a specific company-reported address.
 evidence:
   - type: "official_website"
     url: "https://itcapside.com/"
     label: "Company domain linked from LinkedIn and PECB; inaccessible during this review"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/itcapside"
-    label: "Company LinkedIn — 2020 founding, 2-10 employees, full office address, 2026 hiring and hybrid practical training announcements"
+    label: "Current company LinkedIn — 2020 founding, 2-10 employees, self-reported Tabarbour office, 2026 AI recruitment via info@itcapside.com, practical training and recent professional course registration"
   - type: "other"
     url: "https://pecb.com/en/newsReleases/pecb-signs-a-partnership-agreement-with-itcapside"
     label: "Independent PECB partnership announcement — Amman company identity, security services and training partnership"
@@ -76,10 +86,13 @@ evidence:
     label: "Jordan directory — Tabarbour, Amman and telephone corroboration, not building-level verification"
   - type: "job_post"
     url: "https://jo.linkedin.com/jobs/view/cyber-security-engineer-intern-at-itcapside-3770994611"
-    label: "Closed historical internship — student eligibility, scripting skills and hiring@itcapside.com recruiting email"
+    label: "Closed historical internship — student eligibility, scripting skills and previously used hiring@itcapside.com email"
   - type: "job_post"
     url: "https://jo.linkedin.com/jobs/view/mobile-penetration-tester-at-itcapside-3933513179"
     label: "Closed historical Amman mobile application penetration-testing contract listing"
   - type: "other"
     url: "https://www.linkedin.com/posts/itcapside_itcapside-cybersecurity-informationsecurity-activity-7467224126445858819-KJ00"
-    label: "Company Q3-Q4 2026 cybersecurity certification training calendar"
+    label: "Company Q3-Q4 2026 cybersecurity certification training calendar; professional training, not hiring"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/sales-executive-at-itcapside-3957180235"
+    label: "Closed historical Amman Sales Executive contract role; no longer accepting applications"
