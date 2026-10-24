@@ -1,22 +1,20 @@
 name: "IoT Jordan"
-description: "IoT Jordan is a Jordanian smart-buildings and technology-solutions company offering IoT, automation, networking, security and digital-transformation systems for hotels, commercial properties and residential projects. Its current public footprint is limited and the company website has been unreliable, so employer activity remains only partially verified."
+description: "IoT Jordan provides smart-home, smart-building and industrial IoT systems integration in Jordan. Its website advertises connected lighting, security, climate and energy management, sensor networks, mobile control interfaces, bespoke development and installation/support for residential, commercial and industrial clients."
 verification_status: "partial"
-last_verified: "2026-10-08"
-industry: "Construction Tech / Smart Buildings"
-website: "https://iotjordan.com"
+last_verified: "2026-10-24"
+industry: "Smart Buildings / IoT Systems Integration"
+website: "https://iotjordan.com/"
 careers_url: null
 linkedin: null
 hr_email: null
 size: null
 location:
-  status: "approximate"
-  address: "Amman, Jordan"
-  area: "Amman"
+  area: "Amman and Aqaba, Jordan (advertised service areas; no office address confirmed)"
   address: null
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "iot"
 technologies:
@@ -24,17 +22,39 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman-based tech company delivering IoT, smart automation, security, networking and digital-transformation solutions for hotels, commercial facilities, smart buildings and residential projects (Amman and Aqaba). NOTE: iotjordan.com currently returns an HTTP 500 error; company profile PDF was crawled from the same domain ~108 days ago."
+notes: >-
+  Reviewed 2026-10-24. The apex-domain official website is accessible and
+  describes residential, commercial and industrial IoT integration, smart
+  lighting, security systems, energy monitoring, climate control, mobile
+  interfaces, bespoke development and installation/support. It explicitly
+  advertises service coverage in Amman and Aqaba, but does not publish a
+  verifiable corporate office street address or coordinates. The official
+  contact page publishes general inquiry email info@iotjordan.com and phone
+  numbers +962 782325004 and +962 777818189; the email is not a confirmed
+  recruitment address. No dedicated careers page, currently open vacancy,
+  internship, independently matched LinkedIn company profile or reliable
+  employee headcount was established. The company describes a team of
+  engineers, but does not disclose an independently verifiable internal
+  software-development stack or specific IoT protocols. "IoT" is retained
+  as a product/domain category, not a verified programming technology.
+  A historical company-profile PDF under the www subdomain was previously
+  cited, but www.iotjordan.com appeared parked in a search result while
+  the apex domain remained accessible; the older PDF was not relied on
+  for current operational facts. The separate iotjordan.org community
+  website is not treated as this employer. An earlier generic Amman
+  city-center map pin (31.9539, 35.9106) was removed as unsupported.
+  Company-level verification remains partial despite current official
+  website evidence and broad geographic service coverage.
 evidence:
   - type: "official_website"
-    url: "https://iotjordan.com"
-    label: "Official website"
+    url: "https://iotjordan.com/"
+    label: "Current official website: smart-home/building/industrial IoT services and Amman/Aqaba coverage; checked 2026-10-24"
+  - type: "official_website"
+    url: "https://iotjordan.com/about/"
+    label: "Official About page: engineering, system design, installation and support; checked 2026-10-24"
+  - type: "official_website"
+    url: "https://iotjordan.com/contact/"
+    label: "Official contact page: general inquiry email and two phone numbers; no office street address or HR contact"
   - type: "other"
-    url: "https://www.iotjordan.com/data/IoT Jordan Comapny Profile V1.0.2_compressed.pdf"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
-  - type: "company_listing"
     url: "https://www.iotjordan.com/data/IoT%20Jordan%20Comapny%20Profile%20V1.0.2_compressed.pdf"
-    label: "Company profile describing IoT and smart-building services"
+    label: "Historical company-profile URL preserved from earlier research; current accessibility and claims not reconfirmed"
