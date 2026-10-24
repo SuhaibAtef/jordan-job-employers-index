@@ -1,17 +1,18 @@
 name: "Material Insights"
-industry: "AI / machine vision software"
-website: null
-careers_url: null
-linkedin: null
-hr_email: null
-size: null
+industry: "Materials testing software / optical metrology"
+description: "Material Insights develops optical metrology and digital image correlation (DIC) tools for engineering R&D and material characterization, including the mi-Sensor camera system, mi-Tracker image-processing software, material-data products and testing services. It operates a Jordan office in Amman alongside its US operations."
+website: "https://mat-insights.com/"
+careers_url: "https://mat-insights.com/careers"
+linkedin: "https://www.linkedin.com/company/materialinsightsjo"
+hr_email: "contact@mat-insights.com"
+size: "11-50 employees (LinkedIn-reported Jordan office range)"
 location:
   area: "Amman"
   address: "King Hussein Business Park, Bldg. #16 (GF), Amman 11196, Jordan"
-  status: "provided_unverified"
-  latitude: 31.97183
-  longitude: 35.83394
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=King+Hussein+Business+Park+Building+16+Amman+Jordan"
 categories:
   - "ai"
   - "devops"
@@ -26,6 +27,7 @@ technologies:
   - "Git"
   - "Java"
   - "JavaScript"
+  - "MongoDB"
   - "Python"
   - "PyTorch"
   - "React"
@@ -37,7 +39,25 @@ job_seeker:
   signals:
     - "Fresh graduate"
     - "Graduate"
-notes: "Amman startup (KHBP Bldg 16; registered as IMS Jordan for Technical Services, US arm FADI-AMT LLC) building machine-vision systems and database apps; postings explicitly target fresh graduates with no experience required — strong entry-level target."
+    - "Historical fresh-graduate backend recruitment (Java / Spring Boot; no prior experience required)"
+notes: >-
+  Reviewed 2026-10-24. The official contact page and Google Play developer listing
+  independently publish King Hussein Business Park, Building 16, ground floor,
+  Amman 11196; LinkedIn corroborates the business park and Al Shaab Street.
+  This verifies the published Jordan office address, not exact building coordinates.
+  Official contact: support@mat-insights.com and +962 77 966 0055 (general support).
+  The company-authored LinkedIn backend-developer recruitment post explicitly gives
+  contact@mat-insights.com for application questions; this is a recruiting contact,
+  not proof of a dedicated HR inbox or current mailbox deliverability.
+  That historical post sought fresh graduates/senior students with Java, Spring Boot,
+  MongoDB and Git; Docker was listed as nice-to-have. Other technologies retained
+  from earlier research are historical/uncorroborated as a current production stack.
+  The official careers page currently displays No Current Positions; the older
+  job-post PDFs in the original record could not be re-opened during this review.
+  No currently accepting Jordan vacancy or internship was confirmed. The company
+  operates in optical metrology, DIC and material testing, not solely generic AI.
+  The Jordan office LinkedIn profile reports 11-50 employees and a 2018 founding
+  year; the broader US operation describes its origins in 2016.
 evidence:
   - type: "other"
     url: "https://d3sw8n59epysgp.cloudfront.net/open+positions/2025-3+_Full-Stack+Developer+Postion.pdf"
@@ -52,5 +72,25 @@ evidence:
     url: "https://topline.com/people/rami-janini"
     label: "Research source"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=King+Hussein+Business+Park+Building+16+Amman+Jordan"
+    label: "Address search; not precise office coordinates"
+  - type: "website"
+    url: "https://mat-insights.com/"
+    label: "Official product and service overview (checked 2026-10-24)"
+  - type: "website"
+    url: "https://mat-insights.com/company"
+    label: "Official company history and technology focus"
+  - type: "website"
+    url: "https://mat-insights.com/contact-us"
+    label: "Official Jordan office address, telephone and support email"
+  - type: "careers"
+    url: "https://mat-insights.com/careers"
+    label: "Official careers page; no current positions displayed on review"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/materialinsightsjo"
+    label: "Jordan office company profile, reported size, address and historic recruitment"
+  - type: "other"
+    url: "https://play.google.com/store/apps/details?id=mat.insights.tickit"
+    label: "Google Play developer IMS Jordan for Technical Services; Amman office address and phone"
+verification_status: "partial"
+last_verified: "2026-10-24"
