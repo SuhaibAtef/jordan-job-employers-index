@@ -1,7 +1,7 @@
 name: "Istikana"
-description: "Istikana is an Amman-based subscription video-on-demand (SVOD) platform founded in 2011. It distributes Arabic independent feature and short films, documentaries, hard-to-find classics, and other Arabic-language entertainment through its website and supported viewing devices, with a focus on independent Arab cinema."
+description: "Istikana is an Amman-based subscription video-on-demand (SVOD) platform founded in 2011, offering independent Arab films, documentaries, short films, classics and Arabic-language entertainment on the web and supported viewing devices. Arab Media Network identifies Istikana TV as one of its media businesses."
 verification_status: "partial"
-last_verified: "2026-10-14"
+last_verified: "2026-10-24"
 industry: "Entertainment / Subscription Video-on-Demand (SVOD)"
 website: "https://www.istikana.com/"
 careers_url: null
@@ -24,7 +24,32 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Reviewed 2026-10-14. Istikana's official About page confirms its Amman office at 28 Al Rawda Street, Dahiyet al Rasheed; the street address is verified, but no reliable office-level latitude/longitude was established, so previous coordinates were removed. LinkedIn reports 11-50 employees (company-wide), a 2011 founding year, and Amman headquarters; the previous 1-10 size estimate was replaced. The company currently promotes independent Arab cinema and related entertainment; its official site and LinkedIn show web, mobile and smart-TV viewing. Android and iOS denote public client applications, not independently verified programming languages or an internal engineering stack. Apple's listing remains accessible but shows a last published update in 2023; a third-party catalog reports that the Android Google Play listing was removed in May 2025, so current Android store availability is not asserted. No official careers page, publicly advertised HR-specific email, current job vacancy or early-career opportunity was found. Published content@istikana.com, press@istikana.com and support@istikana.com are business/press/support contacts, not HR. Company-level status remains partial because current hiring details and internal technology evidence are unresolved despite the verified address."
+notes: >-
+  Reviewed 2026-10-24. Istikana's official English and Arabic About pages
+  continue to publish its office at 28 Al Rawda Street, Dahiyet al Rasheed,
+  Amman 11183, with telephone +962-6-5157692. Arab Media Network (AMN)'s
+  LinkedIn company page independently lists its headquarters at Complex No 28,
+  Al Rawdah Street, Amman, and identifies Istikana TV among its subsidiaries.
+  This supports the published street address and group affiliation, but
+  does not establish separate legal ownership details or a precise office
+  latitude/longitude. The company's own LinkedIn profile lists Amman
+  headquarters, founding year 2011 and 11-50 employees; AMN's separate
+  51-200 employee range must not be attributed to Istikana. Istikana's
+  official site was accessible during this review and its company LinkedIn
+  feed showed recent 2026 program and podcast promotion, supporting ongoing
+  public-facing content activity, not evidence of hiring. The service
+  describes web, mobile, Chromecast and Smart TV access. Android and iOS
+  in the technologies list refer to client platforms, not confirmed
+  programming languages or an internal development stack. Apple's iOS app
+  listing remains accessible but its most recent published update is from
+  2023; a third-party catalog reports removal of the Android Google Play
+  listing in May 2025, so current Android store availability is not asserted.
+  No dedicated careers page, current vacancy, internship, early-career
+  opportunity or verified HR-specific mailbox was found. The published
+  content@istikana.com, press@istikana.com and support@istikana.com addresses
+  are business, press and support contacts, not recruitment inboxes.
+  Company-level verification remains partial despite a verified address
+  and current official platform activity.
 evidence:
   - type: "official_website"
     url: "https://www.istikana.com/"
@@ -34,7 +59,7 @@ evidence:
     label: "Official About page — business model, device support, Amman office street address and non-HR contacts"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/istikanatv"
-    label: "Company LinkedIn — 2011 founding, Amman headquarters and 11-50 global employees"
+    label: "Company LinkedIn — 2011 founding, Amman headquarters, 11-50 employees and recent 2026 content promotion; checked 2026-10-24"
   - type: "other"
     url: "https://apps.apple.com/us/app/istikana-arabic-cinema/id925229499"
     label: "Apple App Store — Istikana LLC iOS client; most recent listed release March 2023"
@@ -47,3 +72,6 @@ evidence:
   - type: "official_website"
     url: "https://www.istikana.com/en/faq"
     label: "Official FAQ — subscriptions and support contact, not HR recruiting"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/amedianet"
+    label: "Arab Media Network LinkedIn — identifies Istikana TV as a subsidiary and independently corroborates 28 Al Rawdah Street, Amman (checked 2026-10-24)"
