@@ -1,17 +1,24 @@
 name: "MENADevs"
-industry: "AI / Talent development"
-website: "https://www.menadevs.jo"
-careers_url: null
-linkedin: null
-hr_email: null
-size: "120+"
+description: >-
+  MENADevs is an Amman-headquartered applied AI and software services company
+  serving enterprise and government clients. Its offerings include AI solution
+  development and deployment, AI talent sourcing and managed engineering teams,
+  and data annotation, model fine-tuning and evaluation.
+verification_status: "partial"
+last_verified: "2026-10-24"
+industry: "Artificial Intelligence / Software Services / Talent Solutions"
+website: "https://www.menadevs.io/"
+careers_url: "https://menaos.menadevs.io/careers"
+linkedin: "https://www.linkedin.com/company/menadevs"
+hr_email: "recruitment@menadevs.io"
+size: "201-500"
 location:
   area: "Amman"
   address: null
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=MENADevs%20Amman%20Jordan"
 categories:
   - "ai"
   - "data"
@@ -20,24 +27,63 @@ categories:
 technologies:
   - "AI/ML"
   - "AWS"
+  - "Docker"
   - "Generative AI"
-  - "Laravel"
+  - "Git"
+  - "LLMs"
   - "Node.js"
   - "PostgreSQL"
   - "Python"
   - "React"
+  - "SQL"
   - "Vue.js"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman startup empowering youth in AI with 120+ programmers and data engineers; ran a Generative AI hackathon with Jordan Source; careers advertised via menadevs.jo.; stack verified 2026-10-06: Foundit posting 'Senior Applied AI Engineer at MENADevs' requires Python for AI/ML + LLM systems; employee GitHub/CVs show Laravel, Vue.js, AWS, React, Node.js, PostgreSQL; staff are AI/prompt engineers (RLHF, SFT)."
+  early_career_signal: true
+  signals:
+    - "Company LinkedIn recently promoted university AI internships and supplied recruitment@menadevs.io; application acceptance was not independently tested (reviewed 2026-10-24)."
+    - "Company LinkedIn recently announced AI Engineer I, AI Product Lead and AI Research Fellow recruitment; the live careers board showed 0 open roles at review, so availability is inconsistent."
+    - "A prior AI Engineer I (Entry Level) vacancy in Amman documents Python, Docker, SQL, Git and agentic AI skills but is marked no longer accepting applications."
+notes: >-
+  Reviewed 2026-10-24. The current official website is menadevs.io; the
+  previously recorded menadevs.jo domain could not be accessed. The official
+  site describes Solutions, Talent and Data services and reports 150+ engineers;
+  LinkedIn lists 201-500 employees, an unaudited company-wide size band rather
+  than a Jordan-specific count. Jordan Source reported over 120 programmers
+  and data engineers in 2024. LinkedIn identifies Amman as headquarters, but
+  no official street address or office-level coordinates were confirmed;
+  previous generic city-center coordinates were removed. The official site
+  lists hello@menadevs.io for general inquiries; company-authored job postings
+  explicitly use recruitment@menadevs.io for applications, but deliverability
+  has not been tested. The official careers link displayed 0 open roles when
+  checked, despite recent company LinkedIn posts describing hiring and an AI
+  internship; do not treat the role count or accepting status as confirmed.
+  Python, Docker, SQL/PostgreSQL, Git and cloud/LLM tools appear in job
+  requirements; React, Vue.js, Node.js and AWS appear as examples or options,
+  not proof of the internal production stack. Previously listed Laravel was
+  not corroborated by the reviewed official or company-authored sources.
+  No verified building address, precise map pin or audited headcount was found.
 evidence:
   - type: "official_website"
-    url: "https://www.menadevs.jo"
-    label: "Official website"
+    url: "https://www.menadevs.io/"
+    label: "Official site: AI Solutions, Talent and Data services, 150+ engineers, general contact and careers link; accessed 2026-10-24"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/menadevs"
+    label: "Company profile: Amman headquarters, 201-500 employee range, recent hiring and university internship posts"
+  - type: "careers"
+    url: "https://menaos.menadevs.io/careers"
+    label: "Official careers board: displayed 0 open roles on 2026-10-24; conflicts with recent LinkedIn hiring posts"
+  - type: "job_posting"
+    url: "https://jo.linkedin.com/jobs/view/ai-engineer-i-entry-level-at-menadevs-4336658391"
+    label: "Company-authored entry-level AI engineer posting: recruitment email, Python, Docker, SQL and Git; closed"
+  - type: "job_posting"
+    url: "https://jo.linkedin.com/jobs/view/ai-technical-lead-at-menadevs-4404624750"
+    label: "Company-authored AI Technical Lead posting: PostgreSQL, Python, AWS/Azure, Git and CI/CD requirements; closed"
+  - type: "job_posting"
+    url: "https://jo.linkedin.com/jobs/view/ui-ux-front-end-developer-at-menadevs-4123271161"
+    label: "Historical front-end posting: React, Vue.js and AWS as skills/options, not a confirmed internal stack; closed"
   - type: "other"
     url: "https://jordansource.com/en/Blog/39"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Jordan Source: 2024 Amman GenAI hackathon and historical 120+ programmer/data-engineer count"
+  - type: "other"
+    url: "https://www.intaj.net/media-center/Announcements/application-are-now-open-genai-hackathon"
+    label: "intaj: April 2024 GenAI hackathon and historical 130+ engineer/data-scientist statement"
