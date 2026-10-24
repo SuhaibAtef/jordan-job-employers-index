@@ -1,5 +1,12 @@
 name: "MazajNet"
-industry: "Digital Marketing / Web & Mobile Development"
+description: >-
+  MazajNet is a historically documented Amman-based web design and digital
+  services agency. Business directories describe website development, e-commerce,
+  web hosting, online marketing, mobile applications and CMS implementation.
+  Its current operational status has not been independently confirmed.
+verification_status: "partial"
+last_verified: "2026-10-24"
+industry: "Web Development / Digital Marketing"
 website: "http://mazajnet.com"
 careers_url: null
 linkedin: null
@@ -7,11 +14,11 @@ hr_email: null
 size: "1-10"
 location:
   area: "Amman"
-  address: "Jubeiha, Yajooz St. Building #22, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: "Jubeiha, Yajooz Street, Building 22, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=MazajNet%20Yajooz%20Street%20Jubeiha%20Amman"
 categories:
   - "data"
   - "ecommerce"
@@ -20,21 +27,43 @@ categories:
   - "web"
 technologies:
   - "Drupal"
+  - "Joomla"
   - "Magento"
+  - "WordPress"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Est. 1998 web development company (CMS, Drupal, Magento, e-commerce, mobile apps); long-standing small team. CAUTION: mazajnet.com currently shows an 'under construction' placeholder - company status unclear; address per JordanYP (unverified listing, registered Aug 2023). City-center fallback retained; no exact pin found. No careers page or grad program found."
+notes: >-
+  Reviewed 2026-10-24. Directories describe MazajNet as founded in 1998 and
+  offering web design, hosting, e-commerce, mobile and online-marketing services.
+  Drupal, Joomla, Magento and WordPress are listed service platforms, not a
+  verified current internal engineering stack. JordanYP (unverified listing)
+  and GoodFirms (claimed profile) give Jubeiha/Yajooz Street, Building 22;
+  present occupancy and an exact map pin were not independently established.
+  The 1-10 employee range is an unaudited directory estimate, and other listings
+  conflict; current headcount is uncertain. info@mazajnet.com and
+  +962 6 535 7600 are directory-listed general contacts, not confirmed as
+  currently functioning or dedicated to recruitment. The official domain was
+  inaccessible during this review. No verified company LinkedIn page, official
+  careers page, accepting job vacancy or internship was established. Current
+  business activity remains unconfirmed. Previous city-center fallback
+  coordinates were removed because they did not identify the office.
 evidence:
   - type: "official_website"
     url: "http://mazajnet.com"
-    label: "Official website"
+    label: "Identified official domain; inaccessible during 2026-10-24 review"
   - type: "other"
     url: "https://www.jordanyp.com/company/375832/MazajNet"
-    label: "Research source"
+    label: "Unverified JordanYP listing: Jubeiha address, 1998 founding and 1-10 employee estimate"
   - type: "other"
-    url: "https://topappdevelopmentcompanies.com/kz/directory/web-developers/drupal/ayat"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://www.goodfirms.co/company/mazajnet"
+    label: "Claimed GoodFirms profile: web, Joomla, hosting and marketing services; Yajooz Street address"
+  - type: "other"
+    url: "https://www.bizmideast.com/JO/mazajnet-06-535-7600"
+    label: "Business directory: matching Amman address, general contact email and telephone"
+  - type: "other"
+    url: "https://topsoftwarecompanies.co/shopify/ecommerce-development/agencies/jordan"
+    label: "2026 directory listing: Drupal, Magento, WordPress, CMS and mobile services"
+  - type: "other"
+    url: "https://topappdevelopmentcompanies.com/jo/directory/web-developers/scala/amman"
+    label: "2026 directory listing: web, mobile, e-commerce and CMS service categories"
