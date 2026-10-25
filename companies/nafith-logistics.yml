@@ -1,44 +1,96 @@
 name: "NAFITH Logistics"
-industry: "Logistics Technology / Fleet"
-website: "https://www.nafith.com"
+description: >-
+  Nafith International Group is an Amman-headquartered operator of technology-enabled
+  port, freight-corridor and hinterland logistics infrastructure. Through its NFIDENT
+  technology arm it develops gate automation, vehicle and cargo recognition, community
+  systems and electronic waybill solutions; the affiliated Load24 marketplace connects
+  cargo owners and transport providers.
+industry: "Port logistics infrastructure / Supply-chain technology"
+website: "https://nafith.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/nafith-logistics/"
 hr_email: null
-size: null
+size: "501-1000"
 location:
-  area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  area: "Mecca Street, Amman"
+  address: "Al Hijaz Towers Complex, 158 Mecca Al Mukarramah Street, Office 401, Amman 11821, Jordan"
+  status: "verified"
+  latitude: 31.9761009
+  longitude: 35.8606681
+  maps_url: "https://www.google.com/maps?q=31.9761009,35.8606681"
 categories:
   - "logistics"
   - "web"
+  - "ai"
 technologies:
   - ".NET"
   - "C#"
   - "React"
+  - "REST APIs"
+  - "Computer vision / OCR"
+  - "IoT / RFID"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Jordan-headquartered trade-infrastructure operator (HQ Amman); runs the Aqaba port Truck Control System under PPP concession; 13,000 trucks/day across 6 countries (Jordan, Egypt, Iraq, Oman, UAE, Georgia); 500+ employees; NFIDENT in-house tech arm + Load24 marketplace; ITS America 2009 award; FT commendation.\nstack verified 2026-10-05: 2 employee profiles (Front End Developer at Wuzzuf, Software Developer at Topline) show React.js and C#/.NET; in-house QA team in Amman."
+notes: >-
+  Reviewed 2026-10-25. The current official group site documents Amman HQ,
+  port/hinterland concessions and the NFIDENT in-house technology arm, plus
+  Load24's freight marketplace. NFIDENT documents REST integrations,
+  optical recognition of vehicles/containers, RFID eSeals, and automated
+  gates. These are documented products/capabilities, not an audited internal
+  software stack. Historical 2023 recruitment for .NET backend and junior QA
+  supports .NET historically; C# and React are retained from
+  previously recorded employee-profile leads but not independently confirmed
+  as a current production framework. LinkedIn reports 501-1000 employees
+  worldwide and the group website reports 500+; int@j's 1-24 estimate
+  apparently refers to a narrower company record and is not a reliable
+  group-wide headcount. IFC and LinkedIn corroborate Office 401 on Mecca
+  Street, and AmCham identifies Al Hijaz Towers. The map coordinates come
+  from a third-party business listing near that building and are approximate,
+  not a surveyed office entrance; current physical occupancy is unconfirmed.
+  The group site publishes info@nafith.com as a general contact, not HR.
+  No official careers page, dedicated HR email, currently accepting Jordan
+  vacancy, internship or graduate intake was confirmed. A circa-2022 Amman
+  QA lead posting is closed and circa-2023 .NET/junior QA listings are
+  historical, not evidence of present openings. Official website says the
+  group has operated since 2000, while LinkedIn and int@j list 2007;
+  these may reflect different legal/group founding dates.
+verification_status: "partial"
+last_verified: "2026-10-25"
 evidence:
   - type: "official_website"
-    url: "https://www.nafith.com"
-    label: "Official website"
+    url: "https://nafith.com/"
+    label: "Current group website: services, Amman HQ, 500+ global employees, NFIDENT and Load24 (checked 2026-10-25)"
+  - type: "official_website"
+    url: "https://nfident.com/"
+    label: "Official technology arm: in-house logistics platforms, REST APIs, OCR, RFID and eWaybill"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/nafith-logistics/"
+    label: "Company LinkedIn: 501-1000 group employees, Amman HQ and Mecca Street Office 401"
   - type: "other"
-    url: "https://www.freightwaves.com/news/freightdesk-signs-deal-with-jordan"
-    label: "Research source"
+    url: "https://disclosures.ifc.org/project-detail/SII/32425/nafith-logistics-services-psc"
+    label: "IFC investment disclosure: 158 Mecca Street, Office 401, Amman 11821 (historical)"
   - type: "other"
-    url: "https://www.cbinsights.com/company/nafith-logistics"
-    label: "Research source"
+    url: "https://amcham.jo/wp-content/uploads/2022/05/AmCham-Jordan-Membership-Directory.pdf"
+    label: "AmCham Jordan membership directory: Al Hijaz Towers, Mecca Street and company contact"
+  - type: "other"
+    url: "https://www.intaj.net/network/nafith-logistics-services"
+    label: "int@j member directory: Mecca Street, general email, older narrower employee estimate"
+  - type: "other"
+    url: "https://www.courierslist.com/detail/jordan/amman/logistics-service/515890/nafith-logistics-services-co"
+    label: "Third-party business map: Al Hijaz Towers, Street 158, approximate building coordinates"
+  - type: "google_maps"
+    url: "https://www.google.com/maps?q=31.9761009,35.8606681"
+    label: "Approximate Al Hijaz Towers map pin; not independently surveyed"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/quality-assurance-team-lead-at-nafith-logistics-international-3253339052"
+    label: "Historical Amman QA lead recruitment circa 2022; LinkedIn marks closed"
+  - type: "job_post"
+    url: "https://jordanrec.com/archives/81599"
+    label: "Historical circa-2023 .NET backend and junior/mid-level QA hiring, not current"
   - type: "other"
     url: "https://foursan.com/news/foursan-group-exits-its-investment-in-nafith-logistics"
-    label: "Research source"
+    label: "Investor's 2022 exit announcement: Jordan and regional port operations"
   - type: "other"
-    url: "https://nafith-jordan.updatestar.com/en"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://www.freightwaves.com/news/freightdesk-signs-deal-with-jordan"
+    label: "Historical 2007 Aqaba truck-control concession announcement"
