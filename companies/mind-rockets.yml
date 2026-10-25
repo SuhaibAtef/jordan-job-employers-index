@@ -1,42 +1,81 @@
 name: "Mind Rockets"
-industry: "Assistive Technology / AI"
-website: "https://www.mindrocketsinc.com"
+description: >-
+  Mind Rockets for Software is an Amman-based assistive-technology company founded
+  in 2016. It develops sign-language interpretation using 3D animated avatars
+  and digital-accessibility tools for websites and online services, including
+  the Hemam accessibility toolkit and sign-language applications.
+industry: "Assistive technology / Digital accessibility software"
+website: "https://main.mindrocketsinc.com/en/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/mindrocketsforsoftware"
 hr_email: null
-size: "1-10"
+size: "11-50"
 location:
   area: "Amman"
-  address: "Wasfi At-Tall St. 112, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.988337
-  longitude: 35.875949
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.988337,35.875949"
+  address: "Office 401, Building 113, Wasfi Al Tal Street, Amman, Jordan (official website; conflicting LinkedIn location)"
+  status: "unresolved"
 categories:
   - "ai"
-  - "games"
   - "mobile"
+  - "web"
 technologies:
-  - "AR/VR"
+  - "3D animated avatars"
+  - "Android"
   - "iOS"
-  - "NLP"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman-based AI company building 3D animated avatars that translate text and speech into 8 sign languages; winner of Get in the Ring 2017/18."
+notes: >-
+  Official company pages identify a Wasfi Al Tal Street office at Building 113,
+  Office 401; the LinkedIn company profile instead lists King Hussein Business
+  Park, Building 23, King Abdullah II Street. The previous record listed
+  Building 112 on Wasfi Al Tal Street and coordinates 31.988337, 35.875949;
+  neither that street number nor the coordinate precision was corroborated, so
+  coordinates and the old map pin are not retained. Location remains unresolved
+  pending confirmation of the occupied office. LinkedIn reports 11-50 employees,
+  versus the previous unsourced 1-10 estimate; neither is a verified payroll
+  headcount. The company website publishes sales@mindrocketsinc.com and
+  contact@mindrocketsinc.com for general/business inquiries, not as HR contacts.
+  No official careers page, currently accepting Jordan vacancy, graduate role or
+  internship was established as of 2026-10-25. Company LinkedIn posts in
+  October 2026 promote Hemam accessibility products but do not establish hiring.
+  Android and iOS are evidenced by historical mobile apps; 3D avatars are a
+  documented product technology. Previously listed AR/VR and NLP are not
+  independently confirmed as specific internal development technologies; the
+  games category was removed because avatars are not evidence of game development.
 evidence:
   - type: "official_website"
+    url: "https://main.mindrocketsinc.com/en/about-us"
+    label: "Official overview, 2016 founding, solutions and Wasfi Al Tal address (checked 2026-10-25)"
+  - type: "official_website"
+    url: "https://main.mindrocketsinc.com/en/products"
+    label: "Official sign-language avatar, accessibility toolkit and mobile products (checked 2026-10-25)"
+  - type: "official_website"
+    url: "https://main.mindrocketsinc.com/en/contact-us"
+    label: "Official contact page: Building 113, Office 401 and general sales contact (checked 2026-10-25)"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/mindrocketsforsoftware"
+    label: "Company profile: 11-50 employees, Amman HQ, conflicting KHBP address and October 2026 activity"
+  - type: "official_website"
     url: "https://www.mindrocketsinc.com"
-    label: "Official website"
+    label: "Previously recorded company domain; canonical content is now on main.mindrocketsinc.com"
+  - type: "other"
+    url: "https://www.ipark.jo/our-startups/mind-rockets/"
+    label: "iPARK incubator listing associates Mind Rockets with King Hussein Business Park"
+  - type: "other"
+    url: "https://mena.entrepreneur.com/entrepreneurs/mind-rockets-wants-to-give-a-voice-to-menas-deaf-community/302343"
+    label: "2017 reporting on iOS and Android sign-language apps; historical product evidence"
+  - type: "other"
+    url: "https://getinthering.co/heroes/mind-rockets-inc/"
+    label: "Get in the Ring 2017/18 competition winner and Jordan founding context"
   - type: "other"
     url: "https://pitchbook.com/profiles/company/452790-64"
-    label: "Research source"
+    label: "Previously recorded third-party company profile; not used for current verification"
   - type: "other"
     url: "https://magnitt.com/startups/mind-rockets-inc-4015"
-    label: "Research source"
+    label: "Previously recorded startup profile; not used for current verification"
   - type: "other"
     url: "https://cairoscene.com/Business/Meet-the-2-Arab-Winners-of-One-of-the-Biggest-Entrepeneurial-Conferences-Worldwide"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.988337,35.875949"
-    label: "Google Maps location"
+    label: "Previously recorded historical competition coverage"
+verification_status: "partial"
+last_verified: "2026-10-25"
