@@ -1,19 +1,24 @@
 name: "Mixed Dimensions"
-industry: "3D Printing Software"
-website: "https://makeprintable.com/"
+description: >-
+  Mixed Dimensions is a Jordan-founded 3D software and digital-to-physical
+  collectibles company that develops technology to repair 3D models and turn
+  virtual game and digital-art assets into customized 3D-printed objects.
+  Its documented products include MakePrintable and GamePrint; its company
+  LinkedIn profile identifies San Mateo, California, as global headquarters.
+industry: "3D printing software / Digital collectibles and game technology"
+website: "https://mixeddimensions.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/mixeddimensions"
 hr_email: null
 size: "11-50"
 location:
   area: "Amman"
-  address: "Um Uthainah, Al Kufa Street, Kolaghassi Capital, Building # 57, Amman, Jordan"
-  status: "verified"
-  latitude: 31.96627
-  longitude: 35.87436
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96627,35.87436"
+  address: "Um Uthainah, Al Kufa Street, Kolaghassi Capital, Building 57, Amman, Jordan"
+  status: "unresolved"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "devops"
   - "games"
   - "mobile"
   - "web"
@@ -32,32 +37,84 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "3D-printing software startup founded in Amman (50+ engineers in Amman; SF HQ) — makers of MakePrintable and GamePrint; joined Unity's Verified Solutions Program. No current job postings (Wellfound shows none); company has since rebranded and its sites are dead/redirected. GPS verified 2026-10-04: Amman office address confirmed by two independent sources — info-clipper registry-derived company profile and the Amman Design Week 2017 workshop page both give 'Um Uthainah, Al Kufa Street, Kolaghassi Capital, Building # 57, Amman'; pin geocoded to Building 57 on Al Kufa Street. A conflicting unclaimed Google Maps pin ('Mixed Dimensions Inc.' near Arar St 218) was discounted as unclaimed and inconsistent with the company-stated address.\nstack verified 2026-10-06: senior R&D engineer Bayt profile (Sep 2016-present) lists c++ unreal, c# unity-plugin, windows app, server tools, android app, ios app, playstation, xbox, python, ruby, php laravel"
+notes: >-
+  Reviewed 2026-10-25. LinkedIn identifies Mixed Dimensions Inc as a
+  San Mateo-headquartered company founded in 2013 with 11-50 employees
+  company-wide; this is an unaudited global size band, not current Amman
+  headcount. Company-authored 2021 GamePrint/Unity press material and Mimaki's
+  2020 investment announcement document its 3D-model repair, GamePrint,
+  full-color 3D printing and Unity SDK work. Wamda documented Jordanian
+  origins and the historical GameDraw Unity plugin in 2012. Wellfound lists
+  Amman as a company location, but neither LinkedIn nor an accessible
+  current official site establishes an operating Jordan office in 2026.
+  The previously recorded Al Kufa Street / Kolaghassi Capital Building 57
+  address is retained as a historical lead, not a verified current office;
+  prior registry-derived and archived workshop references could not be
+  reopened this review. Cybo places the business on Al Kufa Street, while
+  WorldPlaces lists a conflicting Hamadani 3 Complex, Mecca Street address.
+  Therefore current office address and exact coordinates are unresolved;
+  previously geocoded coordinates 31.96627, 35.87436 were removed rather
+  than representing an unconfirmed entrance as verified. LinkedIn names
+  mixeddimensions.com as the company domain, but the site was inaccessible
+  during review. The old makeprintable.com URL now serves an unrelated
+  3D-printing news website and must not be used as the employer's site.
+  No official careers page or dedicated HR email was verified. Wellfound
+  displayed zero company jobs, and no accepting Jordan vacancy, internship
+  or graduate intake was established. The historical employee-profile stack
+  (C++, C#, Unity, Unreal Engine, Android, iOS, Python, Ruby, PHP and Laravel)
+  was preserved from the earlier audit but not independently revalidated
+  as a current internal production stack. Unity is separately supported by
+  company-authored 2021 SDK material. Game Platforms is a historical broad
+  descriptor, not a specific framework. Categories reflect historical
+  game tooling and web/mobile development, not confirmed 2026 hiring.
 evidence:
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/mixeddimensions"
+    label: "Company LinkedIn: official domain, San Mateo headquarters, 2013 founding, 11-50 global employees (checked 2026-10-25)"
   - type: "official_website"
-    url: "https://makeprintable.com/"
-    label: "Official website"
+    url: "https://mixeddimensions.com/"
+    label: "Company-listed official domain; inaccessible during 2026-10-25 review"
   - type: "other"
-    url: "https://www.info-clipper.com/en/company/jordan/mixed-dimensions-company.jod980pc5.html"
-    label: "Location evidence"
+    url: "https://www.newswire.com/news/mixed-dimensions-brings-games-to-life-through-unity-verified-solutions-21429780"
+    label: "Company-authored 2021-06-28 announcement of GamePrint SDK for Unity and 3D-printed collectibles"
   - type: "other"
-    url: "https://web.archive.org/web/20170921051845/http://www.ammandesignweek.com/program/3d-printing-101-1"
-    label: "Location evidence"
+    url: "https://ir.mimaki.com/hubfs/converted_ablog/200520_Notice%20about%20investing%20in%20Mixed%20Dimensions%20Inc%2C%20a%20U.S.%20venture%20company%20that%20offers%203D%20modeling%20services_v3.1.pdf"
+    label: "Mimaki 2020 investment announcement independently documents GamePrint and MakePrintable"
   - type: "other"
-    url: "https://3dprintingindustry.com/?p=113932"
-    label: "Research source"
+    url: "https://www.wamda.com/2012/10/meet-the-jordanian-company-that-might-disrupt-global-game-development"
+    label: "2012 reporting on Jordanian origins, GameDraw and Unity integration; historical"
   - type: "other"
-    url: "https://3dprintingindustry.com/?p=76232"
-    label: "Research source"
+    url: "https://ammandesignweek.com/program/mobile-makerspace-mixed-dimensions-10"
+    label: "2017 Amman Design Week profile documents Mixed Dimensions and historical local participation"
   - type: "other"
     url: "https://wellfound.com/company/mxd3d"
-    label: "Research source"
+    label: "Startup profile lists Amman among locations and zero jobs; not evidence of active 2026 Jordan recruitment"
+  - type: "other"
+    url: "https://jordan.worldplaces.me/review/100358146-mixed-dimensions-inc.html"
+    label: "Third-party directory gives conflicting historical Mecca Street / Hamadani 3 Amman address"
+  - type: "other"
+    url: "https://www.cybo.com/JO-biz/mixed-dimensions-inc_1A"
+    label: "Third-party directory places business on Al Kufa Street; current occupancy not verified"
+  - type: "other"
+    url: "https://www.info-clipper.com/en/company/jordan/mixed-dimensions-company.jod980pc5.html"
+    label: "Previously recorded registry-derived historical Al Kufa Street address; inaccessible on this review"
+  - type: "other"
+    url: "https://web.archive.org/web/20170921051845/http://www.ammandesignweek.com/program/3d-printing-101-1"
+    label: "Previously recorded 2017 workshop address corroboration; archive inaccessible on this review"
+  - type: "other"
+    url: "https://3dprintingindustry.com/?p=113932"
+    label: "Historical 3D-printing industry reporting from prior audit"
+  - type: "other"
+    url: "https://3dprintingindustry.com/?p=76232"
+    label: "Historical 3D-printing industry reporting from prior audit"
   - type: "other"
     url: "https://3dprint.com/282883/mixed-dimensions-releases-sdk-for-3d-printed-made-with-unity-game-figurines/amp/"
-    label: "Research source"
+    label: "Historical reporting on Unity-compatible GamePrint SDK"
   - type: "other"
     url: "https://www.arounddeal.com/c/mixed-dimensions-inc/g4zsvjkdos"
-    label: "Research source"
+    label: "Prior third-party company listing; current facts not independently revalidated"
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.96627,35.87436"
-    label: "Google Maps location"
+    label: "Previously recorded approximate historical map pin; not validated as current office"
+verification_status: "partial"
+last_verified: "2026-10-25"
