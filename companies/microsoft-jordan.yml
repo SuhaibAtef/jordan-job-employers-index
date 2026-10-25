@@ -1,43 +1,75 @@
-name: "Microsoft Jordan"
-industry: "Software / Cloud"
-website: "https://www.microsoft.com/"
-careers_url: null
-linkedin: null
+name: Microsoft Jordan
+description: Jordan country office of Microsoft, the global software and cloud-computing company. The Amman office supports enterprise customers
+  and partners with cloud infrastructure, productivity, business applications, security and AI services; Microsoft also has customer success and
+  technical support functions in Jordan.
+industry: Software / Cloud Computing / Enterprise Technology
+website: https://www.microsoft.com/
+careers_url: https://careers.microsoft.com/v2/global/en/home.html
+linkedin: https://www.linkedin.com/company/microsoft/
 hr_email: null
-size: "100000+"
+size: 10,001+ globally (LinkedIn; Jordan headcount unverified; historical 2022 ICT directory reported about 400 in Jordan)
 location:
-  area: "Amman"
-  address: "King Hussein Business Park, Building GH3 (Google Maps lists \"Building 3\"), 2nd Floor, End of Mecca Street, King Abdullah II St 242, Amman 11181"
-  status: "verified"
+  area: Amman
+  address: King Hussein Business Park, Building GH3, 2nd Floor, End of Mecca Street, P.O. Box 3321, Amman 11181, Jordan
+  status: verified
   latitude: 31.972833
   longitude: 35.835229
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.972833,35.835229"
+  maps_url: https://www.google.com/maps/search/?api=1&query=31.972833,35.835229
 categories:
-  - "ai"
-  - "devops"
-  - "erp"
-  - "web"
+- ai
+- devops
+- erp
+- web
 technologies:
-  - ".NET"
-  - "Azure"
-  - "Microsoft 365"
+- .NET
+- Azure
+- Microsoft 365
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Microsoft's Jordan country office at King Hussein Business Park; enterprise & cloud business. (Stack reflects Microsoft's platform portfolio.) Coordinates are consistent with King Hussein Business Park but were not re-verified against an exact office pin; kept approximate. GPS verified 2026-10-04: well-maintained Google business listing (official Jordan phone +962-6-5503444, Software Company category) names Building 3, King Hussein Business Park with pin 31.972755/35.83509; jordanict.com 2018 ICT profile independently confirms Microsoft Jordan at 'the heart of King Hussein Business Park'. Two independent sources agree on KHBP; pin kept at the listing's exact location. | 2026-10-04 live-browser follow-up: Microsoft's own worldwide directory is the authoritative source (Building GH3, 2nd Floor); the Google Maps listing is UNCLAIMED ('Claim this business' shown), so it corroborates but is not authority. Minor naming discrepancy: official 'Building GH3' vs Maps 'Building 3' — likely the same building, flagged here."
+  early_career_signal: true
+  signals:
+  - 'Official Microsoft internship eligibility page explicitly includes Jordan University Interns (MCAPS): full-time final-year STEM students
+    or graduates within 12 months, with legal right to work in Jordan; this is eligibility guidance, not an open position.'
+  - Official Microsoft careers portal supports job searches by location; no currently accepting Jordan-specific vacancy was independently confirmed
+    on 2026-10-25.
+  - Historical 2025 Microsoft Amman postings for Cloud Solution Architect and technical support positions were found in third-party archives;
+    the cited architect vacancy is closed.
+notes: Reviewed 2026-10-25. Microsoft official worldwide directory explicitly lists the Jordan office at King Hussein Business Park, Building
+  GH3, second floor, with phone +962 6 5503444. The older unclaimed Google Maps business listing calls it Building 3 and supplied the retained
+  coordinates 31.972833, 35.835229; coordinates are approximate to the business-park building and are NOT independently verified as an office
+  entrance or suite pin. The office address itself is verified against Microsoft and the Jordan ICT directory. Microsoft lists Jordan among its
+  subsidiaries as of 2026-09-30. LinkedIn size 10,001+ refers to the global company, not Jordan; the Jordan ICT directory reports about 400 staff
+  historically (2022), not a current audited local count. LinkedIn is the global Microsoft company page, not a verified dedicated Jordan page.
+  .NET, Azure and Microsoft 365 are documented Microsoft platforms/products and are not evidence of the Jordan office internal development stack.
+  Categories describe product/service domains rather than Jordan-specific engineering teams. The global careers page and Jordan MCAPS internship
+  eligibility guidance do not establish any presently open Jordan vacancy or internship. No dedicated HR email was confirmed. Company verification
+  remains partial even though the office address is verified.
 evidence:
-  - type: "official_website"
-    url: "https://www.microsoft.com/"
-    label: "Official website"
-  - type: "other"
-    url: "Microsoft official worldwide offices directory (https://www.microsoft.com/en-us/worldwide): 'End of Mecca Street, King Hussein Business Park, Building GH3, 2nd Floor, P.O. BOX 3321, Amman 11181 - Jordan', phone +962 6 5503444"
-    label: "Location evidence"
-  - type: "google_maps"
-    url: "Google Maps business listing 'Microsoft' (Software company; phone +962 6 550 3444; unclaimed, shows 'Claim this business'): address label 'King Hussein Business Park, Building 3, King Abdullah II St 242, Amman'; pin 31.972833/35.835229 read from place URL (https://www.google.com/maps/place/Microsoft/@31.9728327,35.8352287,17z/)"
-    label: "Location evidence"
-  - type: "other"
-    url: "jordanict.com 'Who's Who in Jordan ICT' profile (https://jordanict.com/2022/node/1014): 'Microsoft Jordan is strategically located at the heart of King Hussein Business Park'; KHBP tenant page archived 2025-03-26 confirms Microsoft as a KHBP tenant"
-    label: "Location evidence"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.972833,35.835229"
-    label: "Google Maps location"
+- type: official_website
+  url: https://www.microsoft.com/en-us/worldwide
+  label: 'Microsoft worldwide office directory: Jordan Building GH3 second-floor address and phone (reviewed 2026-10-25)'
+- type: official_website
+  url: https://news.microsoft.com/facts-about-microsoft/
+  label: 'Microsoft company facts: Jordan listed among subsidiaries as of September 30, 2026'
+- type: careers_page
+  url: https://careers.microsoft.com/v2/global/en/home.html
+  label: Official global Microsoft careers search; Jordan vacancies not confirmed during review
+- type: official_website
+  url: https://careers.microsoft.com/v2/global/en/internship_eligibility
+  label: Official Jordan University Interns MCAPS eligibility requirements; not proof of open internship
+- type: linkedin_company
+  url: https://www.linkedin.com/company/microsoft/
+  label: 'Global Microsoft LinkedIn: software development, 10,001+ global employees; not Jordan headcount'
+- type: other
+  url: https://jordanict.com/2022/company-profile/microsoft-jordan
+  label: 'Jordan ICT directory: King Hussein Business Park office, historical about 400 Jordan staff, product/service portfolio'
+- type: other
+  url: https://jordanict.com/company-listings/microsoft-jordan
+  label: 'Jordan ICT current listing: matching official Jordan telephone and PO Box'
+- type: job_post
+  url: https://www.me-jobs.com/job/13372/cloud-solution-architect-amman
+  label: Archived Microsoft Amman Cloud Solution Architect listing; November 2025 deadline, closed
+- type: google_maps
+  url: https://www.google.com/maps/search/?api=1&query=31.972833,35.835229
+  label: Previously recorded unclaimed business-listing map coordinates; approximate, not exact GH3 office pin
+verification_status: partial
+last_verified: '2026-10-25'
