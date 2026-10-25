@@ -1,46 +1,96 @@
 name: "Naseej for Technology"
-industry: "Open-source knowledge / digital transformation solutions"
-website: "https://naseej.com"
-careers_url: null
-linkedin: null
+description: >-
+  Riyadh-headquartered technology and digital-transformation company founded in 1989,
+  serving education, libraries, museums, knowledge-management organizations and enterprises
+  across the Middle East. Its portfolio includes learning and campus-management platforms,
+  digital experience portals, library and archive systems, digitization, process automation
+  and managed IT services. Naseej announced an investment in Jordan-based Drupal
+  development company Sprintive in 2019; this does not establish a separately
+  registered Naseej office in Amman.
+industry: "IT services, educational technology and knowledge-management solutions"
+website: "https://naseej.com/"
+careers_url: "https://careers.naseej.com/jobs"
+linkedin: "https://www.linkedin.com/company/naseej-aas/"
 hr_email: null
-size: "500+"
+size: "501-1,000 (LinkedIn global estimate; Jordan headcount not established)"
 location:
-  area: "Amman"
+  area: "Riyadh, Saudi Arabia (headquarters); Amman, Jordan (Sprintive affiliate)"
   address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  status: "unresolved"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
   - "edtech"
   - "web"
 technologies:
-  - "Drupal"
-  - "LMS"
-  - "REST API"
+  - "Drupal (Jordan-based Sprintive partner / investment)"
+  - "Learning management systems (Naseej product offering)"
+  - "Moodle (historically reported certified partner)"
+  - "WSO2 (historically reported partner; current partnership not reconfirmed)"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false
   signals:
-    - "Junior"
-notes: "Saudi open-source solutions provider (est. 1989, Riyadh HQ, 500+ staff; Moodle Certified Partner, WSO2 partner) with Jordan presence through its Amman subsidiary Sprintive (invested 2020). No Jordan-specific junior program found."
+    - "Group careers portal advertises an internship program; no Jordan-specific intake confirmed"
+    - "Group careers portal listed 14 jobs on 2026-10-25, none based in Jordan"
+    - "Tamheer helpdesk trainee listing based in Riyadh, not Amman"
+notes: >-
+  Reviewed 2026-10-25. Naseej's official company website identifies Riyadh as headquarters
+  and lists other offices in Dubai, Kuwait, Abu Dhabi, Beirut, Cairo and Rabat; it does
+  not list a direct Jordan office. Naseej and Sprintive's company-authored 2019
+  investment announcement and the 2024 Jordan ICT directory establish a business
+  relationship with Amman-based Sprintive, not proof of a direct Naseej Jordan
+  office or its present legal/ownership structure. Sprintive independently lists
+  Al Jalal Complex, Suhayb Ben Sinan Street, Amman, as its own address, which
+  must not be attributed to a Naseej office. Prior central-Amman coordinates
+  were generic and unsupported and have been removed. LinkedIn estimates
+  501-1,000 Naseej employees globally; Jordan-specific staff are unknown.
+  Naseej's live careers portal listed 14 roles on the review date in Riyadh,
+  Jeddah and Cairo, including remote Cairo-office roles; none listed Jordan
+  as a location. Its general internship-program benefit and Riyadh-based
+  Tamheer training roles do not establish a Jordan graduate or internship
+  opening. No dedicated public HR email was verified; info@naseej.com is
+  a general corporate contact only. Drupal is documented through Sprintive,
+  while LMS is a Naseej product category. Moodle and WSO2 partnerships are
+  historical leads from earlier research, not current internal deployment proof.
+  A previously recorded generic REST API claim was not independently
+  substantiated as an internal technology stack. Current Jordan hiring,
+  precise Naseej office address, direct local headcount and internal stack
+  remain unverified; company verification therefore remains partial.
 evidence:
   - type: "official_website"
-    url: "https://naseej.com"
-    label: "Official website"
+    url: "https://naseej.com/About-Us/"
+    label: "Naseej company history, products, headquarters and listed regional offices (checked 2026-10-25)"
+  - type: "official_website"
+    url: "https://naseej.com/contact-us/"
+    label: "Official contact page: Riyadh headquarters, general email and other offices; no Jordan office listed"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/naseej-aas/"
+    label: "LinkedIn company profile: 1989 founding, Riyadh HQ and 501-1,000 global employees"
+  - type: "official_website"
+    url: "https://careers.naseej.com/"
+    label: "Official group careers site: internship-program benefit and recruiting portal"
+  - type: "job_post"
+    url: "https://careers.naseej.com/jobs"
+    label: "Official live vacancy list: 14 roles, no Jordan location as of 2026-10-25"
+  - type: "job_post"
+    url: "https://careers.naseej.com/jobs/8373056-helpdesk-support-tamheer"
+    label: "Official Tamheer trainee opportunity based in Riyadh, not Jordan"
+  - type: "official_website"
+    url: "https://sprintive.com/jo-en/company/media-center/naseej-investment-sprintive"
+    label: "Sprintive official account of Naseej's December 2019 investment and Drupal cooperation"
+  - type: "official_website"
+    url: "https://admin.sprintive.com/contact-us"
+    label: "Sprintive's own Amman office address, not a direct Naseej address"
   - type: "other"
-    url: "https://en.wikipedia.org/wiki/Naseej"
-    label: "Research source"
+    url: "https://jordanict.com/2024/company-profile/sprintive"
+    label: "Jordan ICT 2024 Sprintive profile describing Naseej as its parent company"
   - type: "other"
     url: "https://moodle.com/news/naseej-for-technology-is-now-a-moodle-certified-partner/"
-    label: "Research source"
+    label: "Historical Moodle partnership announcement; direct page access restricted at review"
   - type: "other"
     url: "https://naseej.com/about-us/partners/wso2/"
-    label: "Research source"
-  - type: "other"
-    url: "https://naseej.com/news/2020/03/naseej-invests-in-sprintive-to-further-enhance-its-portfolio-of-digital-transformation-solutions-based-on-leading-open-source-platforms/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Historical official WSO2 partnership page; direct page access blocked at review"
+verification_status: "partial"
+last_verified: "2026-10-25"
