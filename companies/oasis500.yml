@@ -1,14 +1,21 @@
 name: "Oasis500"
-industry: "Venture Capital / Startup Accelerator"
-website: "https://oasis500.com"
+description: >-
+  Oasis500 is an Amman-based early-stage venture capital investor and startup
+  accelerator founded in 2010. It backs technology and technology-enabled
+  founders with seed financing, mentorship, strategic support and access to
+  regional networks. In February 2026 it announced Oasis Ventures III,
+  a fourth investment fund targeting more than USD 20 million for early-stage
+  ventures; this fund target is not a confirmed amount raised.
+industry: "Venture Capital / Startup Investment and Acceleration"
+website: "https://oasis500.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/oasis500/"
 hr_email: null
-size: null
+size: "2-10 employees (LinkedIn company range; not independently audited)"
 location:
   area: "Amman"
-  address: "Building #7, King Hussein Business Park, Amman, Jordan"
-  status: "provided_unverified"
+  address: "Oasis500, Building 7, King Hussein Business Park, Amman 11183, Jordan"
+  status: "verified"
   latitude: 31.97183
   longitude: 35.83394
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
@@ -16,21 +23,55 @@ categories: []
 technologies: []
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Founded 2010; Jordan's flagship seed accelerator and early-stage investor (backed InvoiceQ, CoinMENA, Tamatem, Abjjad); tech-ecosystem lane; portfolio startups are entry-level hiring channels; no public careers page found.\nstack research 2026-10-05: 3 searches, no engineering roles or dev postings found; seed accelerator (10-49 staff), no in-house engineering evidence."
+  signals:
+    - "Oasis500 launched Oasis Ventures III in February 2026 to support early-stage technology founders; this is a startup investment opportunity, not evidence of Oasis500 employee vacancies."
+    - "No currently accepting Oasis500 staff vacancy, dedicated HR mailbox, company-operated careers page, internship or graduate employment program was confirmed on 2026-10-26."
+notes: >-
+  Reviewed 2026-10-26. Oasis500 is a Jordanian seed investor and accelerator,
+  not a software engineering employer by default. Its company LinkedIn lists
+  founding in 2010, headquarters in Amman, a 2-10 employee company-size range,
+  and Building 7 at King Hussein Business Park. JordanYP and CB Insights
+  corroborate the published Building 7 address, but physical occupancy was
+  not independently checked. An older 2017 self-submitted ecosystem listing
+  gives Building 3; the more recent company-maintained LinkedIn listing
+  supports Building 7. The retained coordinates (31.97183, 35.83394) are
+  approximate business-park map coordinates, not independently verified
+  Building 7 entrance coordinates. LinkedIn's employee range differs from
+  third-party estimates; no audited current headcount was found. The general
+  inquiry address info@oasis500.com is published by StartupsJo and other
+  directories, but it is not a verified recruitment/HR contact. The 2026
+  Oasis Ventures III fund launch and reported 193 portfolio investments
+  describe investment activity and ecosystem jobs, not jobs directly at
+  Oasis500. No reliable internal software stack, active direct-employer
+  vacancy, careers portal, formal internship or graduate hiring program was
+  established. Company-level verification remains partial.
 evidence:
   - type: "official_website"
-    url: "https://oasis500.com"
-    label: "Official website"
+    url: "https://oasis500.com/"
+    label: "Official company website; identity and current public web presence"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/oasis500/"
+    label: "Company LinkedIn: 2010 founding, seed investment focus, 2-10 employee range and Building 7 address; reviewed 2026-10-26"
   - type: "other"
-    url: "https://meatechwatch.com/2024/12/18/invoiceq-raises-1-2-million-in-pre-series-a-round-to-expand-e-invoicing-solutions-in-mena/"
-    label: "Research source"
+    url: "https://petra.gov.jo/en/news/oasis500-unveils-20m-fourth-fund-to-drive-tech-entrepreneurship"
+    label: "Jordan News Agency, 2026-02-11: Oasis Ventures III launch, early-stage focus and historical portfolio figures"
   - type: "other"
-    url: "https://rocketreach.co/oasis500-profile_b5d411aaf42e3eec"
-    label: "Research source"
-  - type: "other"
+    url: "https://jordantimes.com/news/local/oasis500-launches-fourth-investment-fund-oasis-ventures-iii-to-back-early-stage-tech-startups"
+    label: "Jordan Times, 2026-02-11: corroborates fourth fund announcement and investment strategy"
+  - type: "company_listing"
     url: "https://www.jordanyp.com/company/376000/Oasis500"
-    label: "Research source"
+    label: "JordanYP directory: Building 7 at King Hussein Business Park, Amman"
+  - type: "other"
+    url: "https://www.cbinsights.com/investor/oasis500"
+    label: "CB Insights investor profile: venture capital activity and Building 7 headquarters"
+  - type: "other"
+    url: "https://www.startupsjo.com/en/Pages/CustomPages/Investor/1040"
+    label: "StartupsJo investor directory: info@oasis500.com is a general contact, not an HR email"
+  - type: "other"
+    url: "https://amman.clustermappinginitiative.org/node/170"
+    label: "2017 self-submitted ecosystem listing: older Building 3 address; historical conflict documented"
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
-    label: "Google Maps location"
+    label: "Approximate King Hussein Business Park reference, not a verified Building 7 entrance pin"
+verification_status: "partial"
+last_verified: "2026-10-26"
