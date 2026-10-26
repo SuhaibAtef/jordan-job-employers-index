@@ -1,64 +1,103 @@
 name: "Neion Tech"
-industry: "Software Development / QA / DevOps"
-website: "https://neiontech.com"
+description: >-
+  Amman-based custom software development company founded in 2025, providing
+  web and mobile applications, SaaS platforms, ERP/CRM systems, UI/UX design,
+  quality assurance, DevOps and cloud infrastructure services for businesses
+  in Jordan and the Gulf region. Its published portfolio includes a Flutter
+  and Laravel sports platform and a custom WordPress travel website.
+industry: "Custom software development and IT services (web, mobile, SaaS, QA, DevOps)"
+website: "https://neiontech.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/neiontech"
 hr_email: null
-size: null
+size: "2-10 (LinkedIn company estimate; Clutch lists 2-9; headcount unaudited)"
 location:
-  area: "Amman"
-  address: "The Boulevard, near W Hotel, Abdali 11190, Amman, Jordan"
+  area: "Abdali, Amman, Jordan (district from third-party listings)"
+  address: "Abdali Boulevard, near W Hotel, Amman 11190, Jordan (directory-listed; no building or suite confirmed)"
   status: "approximate"
-  latitude: 31.97612
-  longitude: 35.90546
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97612,35.90546"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "data"
   - "devops"
   - "mobile"
   - "qa"
   - "web"
 technologies:
-  - ".NET"
-  - "Angular"
-  - "AWS"
-  - "CI/CD"
-  - "DigitalOcean"
-  - "Docker"
-  - "Flutter"
-  - "Git"
-  - "GitHub Actions"
-  - "GitLab CI"
-  - "Laravel"
-  - "Linux"
-  - "MySQL"
-  - "Node.js"
-  - "PHP"
-  - "PostgreSQL"
-  - "Python"
-  - "React"
-  - "React Native"
-  - "REST API"
-  - "Vue.js"
-  - "WordPress"
+  - "AWS (advertised cloud service capability)"
+  - "CI/CD (advertised DevOps capability)"
+  - "Dart (documented QEightSport project)"
+  - "DigitalOcean (advertised cloud service capability)"
+  - "Docker (advertised DevOps capability)"
+  - "Firebase Cloud Messaging (documented QEightSport project)"
+  - "Flutter (documented QEightSport project)"
+  - "GitHub Actions (advertised DevOps capability)"
+  - "GitLab CI (advertised DevOps capability)"
+  - "Laravel (documented QEightSport project)"
+  - "Linux (advertised cloud service capability)"
+  - "Nginx (documented QEightSport project)"
+  - "PHP (documented QEightSport project)"
+  - "PostgreSQL (documented QEightSport project)"
+  - "Redis (documented QEightSport project)"
+  - "REST API (documented QEightSport project)"
+  - "WordPress (documented Jordan Journey project)"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false
   signals:
-    - "Internship"
-notes: "Amman-based CTO-led software company with dedicated QA (manual + automated testing, CI/CD pipeline validation) and DevOps & cloud infrastructure services; no fresh-grad or internship evidence found."
+    - "No dedicated careers portal, dated currently accepting vacancy, internship or graduate program confirmed in public sources checked 2026-10-25."
+    - "Official website provides a commercial project inquiry form, not an employment application."
+notes: >-
+  Reviewed 2026-10-25. Official website and LinkedIn identify a Jordan-based
+  software services company headquartered in Amman; LinkedIn and Clutch give
+  2025 as founding year and estimate 2-10 and 2-9 staff respectively. These
+  are directory/profile ranges, not audited Jordan payroll. Official contact
+  page publishes Amman, phone +962792054000 and general contact
+  info@neiontech.com; no verified dedicated HR email or careers page. Clutch
+  and GoodFirms place the business around Abdali Boulevard near W Hotel, but
+  the official contact page does not confirm a street address, building or
+  occupancy. Earlier coordinates 31.97612,35.90546 and their Google Maps
+  search URL were removed because no reliable building-level pin was verified.
+  The official QEightSport portfolio documents Flutter/Dart, Laravel/PHP,
+  PostgreSQL, REST APIs, Redis, Firebase Cloud Messaging and Nginx; the Jordan
+  Journey portfolio documents WordPress with custom plugins. The official
+  DevOps service page lists AWS, DigitalOcean, Linux, Docker, GitHub Actions
+  and GitLab CI as offered capabilities; these are not a third-party audit of
+  internal production systems. Other legacy stack terms were omitted without
+  current specific supporting evidence. The earlier internship flag conflicted
+  with its own notes and no internship, graduate intake or current vacancy
+  could be corroborated, so early_career_signal is false. Company verification
+  remains partial because staffing, hiring, dedicated HR contact and precise
+  physical office location remain unconfirmed.
 evidence:
   - type: "official_website"
-    url: "https://neiontech.com"
-    label: "Official website"
+    url: "https://neiontech.com/en"
+    label: "Official services: custom software, web/mobile, SaaS, ERP/CRM, QA and DevOps (checked 2026-10-25)"
+  - type: "official_website"
+    url: "https://neiontech.com/contact-us/en"
+    label: "Official contact: Amman, general email info@neiontech.com and telephone; no street address or careers link"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/neiontech"
+    label: "Company LinkedIn: Amman headquarters, founded 2025, 2-10 employees and software-development services"
   - type: "other"
+    url: "https://clutch.co/profile/neion-tech"
+    label: "Clutch company profile: 2-9 employees, founded 2025, Abdali Boulevard address"
+  - type: "other"
+    url: "https://www.goodfirms.co/company/neion-tech"
+    label: "GoodFirms company listing: Boulevard near W Hotel, Amman 11190; 2-9 employees"
+  - type: "official_website"
     url: "https://neiontech.com/quality-assurance/en"
-    label: "Research source"
-  - type: "other"
-    url: "https://neiontech.com/service/devops-cloud-infrastructure"
-    label: "Research source"
-  - type: "other"
-    url: "https://neiontech.com/web-development-services/en"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.97612,35.90546"
-    label: "Google Maps location"
+    label: "Official QA services: manual and automated testing, API checks and regression testing"
+  - type: "official_website"
+    url: "https://neiontech.com/devops-cloud-infrastructure-services/en"
+    label: "Official DevOps services: AWS, DigitalOcean, Linux, Docker, GitHub Actions, GitLab CI"
+  - type: "official_website"
+    url: "https://neiontech.com/projects/qeightsport-football-talent-platform-development/en"
+    label: "Official 2026-09-23 QEightSport case study: Flutter/Dart, Laravel/PHP, PostgreSQL, Redis, REST APIs, Firebase and Nginx"
+  - type: "official_website"
+    url: "https://neiontech.com/projects/jordan-journey-travel-website-booking-platform/en"
+    label: "Official 2026-09-21 Jordan Journey case study: WordPress and custom plugins"
+  - type: "official_website"
+    url: "https://neiontech.com/mobile-app-development-services/en"
+    label: "Official mobile service page: Android/iOS offerings and published project examples"
+verification_status: "partial"
+last_verified: "2026-10-25"
