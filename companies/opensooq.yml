@@ -1,53 +1,88 @@
 name: "OpenSooq"
-industry: "Online classifieds marketplace"
+description: >-
+  OpenSooq is an Amman-headquartered, mobile-first online classifieds
+  marketplace serving the Middle East and North Africa. Its Arabic- and
+  English-language website and apps connect individuals and businesses
+  advertising vehicles, property, jobs, services and other goods. The
+  company operates country-specific marketplaces across the region.
+industry: "Internet / Online classifieds marketplace"
 website: "https://opensooq.com"
-careers_url: null
-linkedin: null
+careers_url: "https://jo.opensooq.com/en/site/about-us"
+linkedin: "https://www.linkedin.com/company/opensooq"
 hr_email: "careers@opensooq.com"
 size: "201-500"
 location:
   area: "Amman"
-  address: "Al Hijaz Towers Complex, Mecca St. 158, Amman, Jordan"
+  address: "Al Hijaz Tower, 158 Mecca Al Mukarramah Street, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.976105
-  longitude: 35.860934
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.976105,35.860934"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Al%20Hijaz%20Tower%20158%20Mecca%20Street%20Amman%20Jordan"
 categories:
   - "devops"
   - "ecommerce"
   - "web"
 technologies:
-  - "AWS"
-  - "HTML"
-  - "JavaScript"
-  - "Node.js"
-  - "PHP"
-  - "Sequelize"
-  - "Socket.io"
+  - "AWS cloud infrastructure (documented in AMD customer case study)"
+  - "AMD-powered AWS compute instances (documented deployment in AMD case study)"
+  - "PHP, Python, JavaScript/TypeScript, Node.js and React (examples in 2025 engineering job requirements; deployment of each unconfirmed)"
+  - "HTML/CSS, Git and CI/CD (2025 engineering recruitment requirements)"
+  - "Docker or Kubernetes, MySQL or MongoDB (alternative experience requirements; actual use unconfirmed)"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Graduate"
-notes: "Leading mobile-first classifieds marketplace in MENA (founded 2012, 461 employees); raised $24M in 2021 to add 400 people to the Jordan team, indicating large-scale graduate intake. Public LinkedIn company URL not verifiable; hiring via careers@opensooq.com (publicly posted on OpenSooq's own job listings). GPS upgraded to the office's verified Google business pin at Al Hijaz Towers Complex, Mecca St. 158."
+    - "Official about-us page invites unsolicited applications to careers@opensooq.com; this is not a confirmed open vacancy."
+    - "Historical company-leadership recruitment mentioned junior full-stack and marketing roles alongside senior and mid-level roles; current availability unconfirmed."
+    - "Employer-branded 2025 Amman senior full-stack engineering advertisement documents technology requirements and team structure; not an entry-level vacancy."
+    - "No currently accepting Jordan-specific internship or formal graduate program was confirmed on 2026-10-26."
+notes: >-
+  Reviewed 2026-10-26. Official country website and company LinkedIn profile
+  corroborate the mobile-first classifieds business and Amman headquarters.
+  LinkedIn reports 201-500 employees globally, not audited Jordan headcount;
+  the company's about-us page says more than 350 team members, which may
+  reflect a different update date. LinkedIn lists 158 Makkah Street, Al
+  Hijaz Tower as the primary office. A separate business directory confirms
+  the Al Hijaz Towers building at street number 158, but not OpenSooq's
+  present occupancy, floor or entrance. The earlier 31.976105, 35.860934
+  coordinates were removed because they could not be independently tied
+  to OpenSooq's exact premises; use the address search for navigation.
+  Official about-us and LinkedIn pages publish careers@opensooq.com for
+  employment inquiries; no dedicated individual HR contact was verified.
+  OpenSooq's marketplace job advertisements are third-party employer posts,
+  not vacancies at OpenSooq itself. An employer-branded KayanHunt job
+  description dated 2025-02-24 lists PHP, Python, JavaScript/TypeScript,
+  Node, React, HTML/CSS, Git, CI/CD, Docker/Kubernetes, MySQL/MongoDB and
+  AWS as engineering qualifications or examples; they do not prove every
+  technology is deployed. AMD's customer case study independently supports
+  OpenSooq's use of AWS with AMD-powered instances. A historical company
+  leadership hiring post mentions junior roles, but the prior claim of a
+  confirmed large graduate intake is unsupported. No accepting internship
+  or current Jordan-specific job was verified in this review. The 2021
+  fundraising/expansion plan is not evidence of present headcount or hiring.
+verification_status: "partial"
+last_verified: "2026-10-26"
 evidence:
   - type: "official_website"
+    url: "https://jo.opensooq.com/en/site/about-us"
+    label: "Official company profile, business verticals, office cities and careers invitation; reviewed 2026-10-26"
+  - type: "official_website"
     url: "https://opensooq.com"
-    label: "Official website"
+    label: "Official regional classifieds marketplace"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/opensooq"
+    label: "Company-reported Amman headquarters, 158 Makkah Street Al Hijaz Tower, 201-500 employee range and recruitment mailbox"
   - type: "other"
-    url: "https://rocketreach.co/opensooqcom-lswq-lmftwh-profile_b5edb2b2f42e7fad"
-    label: "Research source"
+    url: "https://www.amd.com/en/resources/case-studies/opensooq.html"
+    label: "AMD customer case study documenting OpenSooq AWS and AMD compute deployment"
+  - type: "job_post"
+    url: "https://hunt.kayanhr.com/JobDetails/JobPostDetails/Nmg2b0Y1bnBmNFVvS2dMbUxxTW11dz09/OFpUS29CYzFFTDJoSEEsY1haR1IySTRVRkU0VEc1dmNEQlhlVUkxV2tkdGR6MDk%3D"
+    label: "Employer-branded Amman senior full-stack posting dated 2025-02-24; skills are job requirements, not confirmed production stack"
+  - type: "job_post"
+    url: "https://hunt.kayanhr.com/JobDetails/JobPostDetails/czMyYm1uMWtlaGlhVkdyOHord1JUQT09/OFpUS29CYzFFTDJoSEEsY1haR1IySTRVRkU0VEc1dmNEQlhlVUkxV2tkdGR6MDk%3D"
+    label: "Employer-branded Amman finance job posting dated 2025-08-16; historical hiring evidence"
   - type: "other"
-    url: "http://review.wfsbo.com/websitestat/GeneratePageSpeed/domain/opensooq.com/language/en"
-    label: "Research source"
+    url: "https://ae.linkedin.com/in/salamin"
+    label: "Company cofounder leadership profile with historical junior, mid-level and senior recruitment post; availability not established"
   - type: "other"
-    url: "https://kr-asia.com/jordans-opensooq-raises-usd-24-million-to-grow-its-mobile-first-classifieds-marketplace"
-    label: "Research source"
-  - type: "other"
-    url: "https://jo.opensooq.com/"
-    label: "Research source"
-  - type: "other"
-    url: "https://ly.opensooq.com/en/job-posters/285744958"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.976105,35.860934"
-    label: "Google Maps location"
+    url: "https://jo.near-place.com/al-hejaz-towers-est-for-investments-al-hijaz-towers-complex-mecca-al-mukarramah-st-158-amman/de"
+    label: "Independent directory corroborates building name and street number, not OpenSooq tenancy or exact coordinates"
