@@ -1,13 +1,20 @@
 name: "Nokia Jordan"
-industry: "Telecom equipment vendor"
-website: "https://www.nokia.com"
-careers_url: "https://www.nokia.com/careers"
+description: >-
+  Nokia is a Finland-headquartered telecommunications network infrastructure
+  company providing mobile radio access, fixed broadband, IP and optical
+  networking, network software and related services. Its officially listed
+  Amman office supports a documented Jordan presence. Nokia has supplied
+  Orange Jordan and Zain Jordan with 5G radio access equipment and has
+  worked with Orange Jordan on fiber access and broadband routing upgrades.
+industry: "Telecommunications network infrastructure, equipment and services"
+website: "https://www.nokia.com/"
+careers_url: "https://www.nokia.com/careers/"
 linkedin: "https://www.linkedin.com/company/nokia/"
 hr_email: null
-size: null
+size: "Approximately 78,000 employees worldwide on average in 2025 (Nokia annual report); Jordan-specific headcount unverified"
 location:
-  area: "Amman"
-  address: "1st floor, Edgo Tower, Rafiq Al Hariri Avenue, Abdali, Amman, Jordan"
+  area: "Abdali, Amman"
+  address: "1st floor, Edgo Tower, Rafiq Al Hariri Avenue, Abdali, Amman, PO Box 940696, 11194, Jordan"
   status: "verified"
   latitude: 31.9638919
   longitude: 35.906863
@@ -15,40 +22,94 @@ location:
 categories:
   - "telecom"
 technologies:
-  - "Cisco"
-  - "Fiber Networks"
+  - "5G Radio Access Network (RAN)"
+  - "Nokia AirScale"
+  - "Massive MIMO"
+  - "Nokia NetAct"
+  - "GPON / Fiber-to-the-Home (FTTH)"
+  - "Nokia 7750 Service Router / Broadband Network Gateway"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Nokia's official worldwide-offices page (nokia.com) lists Amman as '1st floor, Edgo Tower, Rafiq Al Hariri Avenue, Abdali, Amman, PO Box 940696'. GPS verified 2026-10-04: Google Maps 'Nokia' corporate-office pin (31.9638919, 35.906863, plus code XW74+HP) sits ~14m from the managed Edgo Atrium Building pin (31.963983, 35.9069685, plus code XW74+HQ), Rafic Hariri St, Abdali Boulevard. Legacy JordanYP 'Nokia Siemens Networks' listing (Queen Noor St, Shmeisani, last updated 2021) treated as stale former entity address; company's own current page wins. Only other Nokia-branded pins are warehouses (Al-Bayadir, 31.882305, 35.9591253), not offices.\nstack verified 2026-10-06: employee profile (Nokia 5G supervisor, 5G network deployment/integration in Jordan) + public Zain 5G RAN deployment (AirScale/Massive MIMO) and Orange Jordan fiber-to-home announcements"
+  signals:
+    - "Nokia operates a global careers portal with live job-search functionality; no currently accepting Amman/Jordan vacancy was independently confirmed on 2026-10-26."
+    - "Nokia advertises global student and graduate opportunities, but no currently accepting Jordan-specific internship or graduate program was established."
+    - "A third-party February 2026 report described a Jordan radio-account-manager vacancy, but no corresponding currently open employer-operated posting was verified; treat it as historical only."
+notes: >-
+  Reviewed 2026-10-26. Nokia's official worldwide offices directory explicitly
+  lists the first floor of Edgo Tower on Rafiq Al Hariri Avenue in Abdali,
+  Amman, and Nokia's official affiliate list names Nokia Solutions and
+  Networks Branch Operations Oy/Jordan Branch. This supports a verified
+  published Jordan office address, not independently confirmed physical
+  occupancy. The retained coordinates (31.9638919, 35.906863) identify a
+  Google Maps Nokia pin close to the Edgo Atrium building pin; they are
+  approximate mapping coordinates rather than surveyed office or entrance
+  coordinates. A historical Nokia Siemens Networks directory address on
+  Queen Noor Street in Shmeisani is not used as a current office address.
+  Nokia's 2025 annual report reports approximately 78,000 average worldwide
+  employees, while its LinkedIn profile uses the broad 10,001+ category;
+  neither establishes Jordan headcount. The official corporate contact page
+  does not publish a Jordan HR mailbox; media and general corporate contacts
+  are not treated as recruitment addresses. Nokia's global careers portal
+  and student/graduate page were checked, but a live Jordan-specific opening
+  was not independently verified. A February 2026 third-party job listing
+  is historical, not proof of a current vacancy. Documented Jordan customer
+  deployments include Orange Jordan's 2023 AirScale/NetAct 5G RAN deal,
+  Zain Jordan's 2023 AirScale 5G RAN deal, Orange Jordan's earlier GPON
+  FTTH rollout, and the 2025 Nokia 7750 SR broadband gateway upgrade at
+  76 sites. Listed technologies describe Nokia products deployed or
+  contracted in Jordan, not a verified internal programming/software stack.
+  The prior Cisco technology entry was removed because no Nokia Jordan
+  deployment or internal-use evidence supported it. Company verification
+  remains partial because local workforce, recruiting contact and current
+  Jordan hiring signals remain unverified despite the official office listing.
 evidence:
   - type: "official_website"
-    url: "https://www.nokia.com"
-    label: "Official website"
-  - type: "careers"
-    url: "https://www.nokia.com/careers"
-    label: "Careers / application page"
+    url: "https://www.nokia.com/"
+    label: "Nokia official corporate website and network infrastructure offerings"
+  - type: "official_website"
+    url: "https://www.nokia.com/contact-us/worldwide-offices/middle-east-and-africa/"
+    label: "Official Jordan office address: first floor Edgo Tower, Abdali, Amman; checked 2026-10-26"
+  - type: "official_website"
+    url: "https://www.nokia.com/privacy/notices/affiliates/"
+    label: "Official affiliates list names Nokia Solutions and Networks Jordan Branch"
+  - type: "official_website"
+    url: "https://www.nokia.com/about-us/investors/results-reports/annual-report/"
+    label: "2025 annual report: approximately 78,000 average global employees"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/nokia/"
-    label: "LinkedIn company page"
+    label: "Nokia company LinkedIn: Espoo HQ, telecom industry, 10,001+ global employees"
+  - type: "careers"
+    url: "https://www.nokia.com/careers/"
+    label: "Official global careers portal; no confirmed current Jordan vacancy on 2026-10-26"
+  - type: "careers"
+    url: "https://jobs.nokia.com/en/sites/CX_1/"
+    label: "Official job search portal; no Jordan-specific open role independently established"
+  - type: "careers"
+    url: "https://www.nokia.com/careers/students-and-graduates/"
+    label: "Global students and graduates information; Jordan intake not established"
+  - type: "official_website"
+    url: "https://www.nokia.com/contact-us/"
+    label: "Official general and media contact information; no Jordan HR address"
   - type: "other"
-    url: "https://www.nokia.com/contact-us/worldwide-offices/middle-east-and-africa/"
-    label: "Location evidence"
+    url: "https://www.nokia.com/newsroom/nokia-wins-nationwide-5g-ran-deal-with-orange-jordan/"
+    label: "Nokia May 2023 Orange Jordan 5G AirScale, massive MIMO and NetAct announcement"
+  - type: "other"
+    url: "https://www.nokia.com/newsroom/nokia-selected-by-zain-jordan-for-nationwide-5g/"
+    label: "Nokia April 2023 Zain Jordan 5G RAN contract"
+  - type: "other"
+    url: "https://www.nokia.com/newsroom/orange-jordan-and-nokia-deploy-fiber-to-the-home-network-to-support-new-ultra-broadband-services/"
+    label: "Nokia and Orange Jordan GPON fiber access deployment"
+  - type: "other"
+    url: "https://www.nokia.com/newsroom/nokia-upgrades-orange-jordans-broadband-network-gateway-to-enhance-connectivity-across-the-kingdom/"
+    label: "February 2025 Nokia 7750 SR BNG deployment across 76 Jordan sites"
   - type: "google_maps"
     url: "https://www.google.com/maps/place/Nokia/@31.9638919,35.9042827,17z/data=!3m1!4b1!4m6!3m5!1s0x151ca10e90c8c43f:0x6c3ec92d55f8baeb!8m2!3d31.9638919!4d35.906863!16s%2Fg%2F11y1dtdxx_"
-    label: "Location evidence"
+    label: "Nokia map pin near Edgo Tower; approximate location, not surveyed entrance"
   - type: "google_maps"
     url: "https://www.google.com/maps/place/Edgo+Atrium+Building/@31.9638919,35.9042827,17z/data=!4m6!3m5!1s0x151ca071085aa0c7:0xfe3797277ca8ccdf!8m2!3d31.963983!4d35.9069685!16s%2Fg%2F11dxbcc987"
-    label: "Location evidence"
+    label: "Nearby Edgo Atrium building map pin, corroborates general area only"
   - type: "other"
     url: "https://www.jordanyp.com/company/347583/Nokia_Siemens_Networks"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://www.Globenewswire.Com/news-release/2025/02/17/3027029/0/en/Nokia-upgrades-Orange-Jordan-s-broadband-network-gateway-to-enhance-connectivity-across-the-Kingdom.html"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.telecomtv.com/content/broadband/orange-jordan-and-nokia-deploy-fiber-to-the-home-network-to-support-new-ultra-broadband-services-28444/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9638919,35.906863"
-    label: "Google Maps location"
+    label: "Historical Nokia Siemens listing with superseded Shmeisani address; not current location"
+verification_status: "partial"
+last_verified: "2026-10-26"
