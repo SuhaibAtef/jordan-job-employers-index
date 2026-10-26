@@ -1,14 +1,20 @@
 name: "Nova Call Centers"
-industry: "Business Process Outsourcing"
+description: >-
+  Jordan-based business process outsourcing (BPO) and customer-experience
+  provider offering multilingual contact-center support, sales and lead
+  generation, e-commerce content management, employer-of-record services,
+  social media management and workstation leasing. The company publishes
+  operations in Amman and Irbid.
+industry: "Business Process Outsourcing / Contact Center and Customer Experience"
 website: "https://novacallcenters.com/"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/nova-call-center-services/"
-hr_email: null
-size: "250-999"
+hr_email: "careers@novaservices.me"
+size: "201-500 employees (LinkedIn company range); Jordan ICT directory lists 500-700, not independently reconciled"
 location:
   area: "Amman"
-  address: "Jordan Trade Center 134, Queen Rania St., Amman, Jordan"
-  status: "approximate"
+  address: "Jordan Trade Center, 134 Queen Rania Al-Abdullah Street, 2A, Sweileh, Amman, Jordan"
+  status: "verified"
   latitude: 31.997808
   longitude: 35.882348
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.997808,35.882348"
@@ -16,25 +22,94 @@ categories:
   - "consulting"
 technologies: []
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Outsourced contact center (Amman HQ plus new Irbid facility) specializing in native Arabic CX across dialects; offers customer service, staff augmentation, payroll and content/catalog management. Site publishes sales@novaservices.me (no public HR email found).\nstack research 2026-10-04: 6 searches + novacallcenters.com site open; call-center/BPO only (Amman+Irbid), no careers page, no developer profiles or IT postings found"
+  early_career_signal: true
+  signals:
+    - "Employer-authored LinkedIn advertisements in July-September 2026 sought customer service agents in Amman and Irbid, a quality assurance officer and a senior HR officer; roles and application status may change."
+    - "Employer-authored job posts direct CVs to careers@novaservices.me, a verified recruitment mailbox; no separate company-hosted careers portal was confirmed."
+    - "A December 2025 Irbid customer service advertisement explicitly welcomed university students for full-time and part-time work; this is historical student-friendly recruitment, not a verified current internship or graduate program."
+    - "Customer service roles request English proficiency and basic Microsoft Office knowledge; QA roles mention Excel and contact-center KPIs. These are job skills, not evidence of the company's internal software stack."
+notes: >-
+  Reviewed 2026-10-26. The official contact page publishes Jordan Trade Center,
+  134 Queen Rania Street, Amman and +962 6 222 9394; the company's LinkedIn
+  profile independently lists 134 Queen Rania Al-Abdullah Street, unit 2A,
+  Sweileh, Amman. Cybo and BizMidEast also list the same street address.
+  The location is verified as a corroborated published business address, not
+  independently observed current occupancy. Retained the existing coordinates
+  31.997808, 35.882348 as an approximate map pin: a May 2025 business-location
+  dataset places Nova at 31.9978057, 35.882346, but this is not a surveyed
+  office entrance. Nova's website says it also operates a facility in Irbid,
+  but no independently confirmed Irbid street address was found. LinkedIn
+  reports a 201-500 company-size band while the Jordan ICT directory lists
+  500-700 staff; different reporting periods and definitions are possible,
+  and neither figure is an audited current headcount. LinkedIn and Jordan ICT
+  identify 2016 as the establishment year; the official About page also
+  claims experience since 2008, which is not resolved here. The official
+  website publishes sales@novaservices.me for commercial inquiries; this
+  is not the HR contact. Company-authored LinkedIn advertisements explicitly
+  direct applications to careers@novaservices.me. Posts from July-September
+  2026 provide evidence of recent hiring, but continued acceptance of
+  applications was not independently checked in a live ATS. A December 2025
+  posting welcomed university students to Irbid customer-service work;
+  no current formal internship or graduate intake was verified. The prior
+  2026-10-04 stack research found no developer vacancies. Reviewed job posts
+  describe customer-support and QA skills, not an engineering production
+  stack; technologies therefore remains empty. Verification remains partial
+  because staffing figures conflict, the Irbid address and live application
+  status are unresolved, and the internal technology stack is not verified.
 evidence:
   - type: "official_website"
     url: "https://novacallcenters.com/"
-    label: "Official website"
+    label: "Official services, Amman/Irbid operating locations and BPO focus; reviewed 2026-10-26"
+  - type: "official_website"
+    url: "https://novacallcenters.com/get-in-touch/"
+    label: "Official Amman Jordan Trade Center address, sales email and telephone"
+  - type: "official_website"
+    url: "https://novacallcenters.com/services/"
+    label: "Official call center, content, lead generation, EOR and social media services"
+  - type: "official_website"
+    url: "https://novacallcenters.com/why-jordan/"
+    label: "Company statement on Amman headquarters and newer Irbid facility"
+  - type: "official_website"
+    url: "https://novacallcenters.com/about-us/"
+    label: "Company leadership and experience-since-2008 claim, not reconciled with 2016 establishment"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/nova-call-center-services/"
-    label: "LinkedIn company page"
+    label: "Company LinkedIn: 201-500 employees, founded 2016, unit 2A on Queen Rania Street"
+  - type: "company_listing"
+    url: "https://www.jordanict.com/company-profile/nova-call-centers"
+    label: "Jordan ICT directory: 2016 establishment, 500-700 staff estimate, Amman and Irbid"
+  - type: "company_listing"
+    url: "https://www.cybo.com/JO-biz/nova-call-centers"
+    label: "Local directory corroborating 134 Queen Rania Street and contact telephone"
+  - type: "company_listing"
+    url: "https://rentechdigital.com/smartscraper/business-report-details/list-of-call-centers-in-jordan"
+    label: "2025 location dataset lists Nova near 31.9978057, 35.882346; approximate pin only"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/nova-call-center-services_were-hiring-customer-service-agent-activity-7483093854942859264-TF-8"
+    label: "Company-authored Amman customer-service advertisement, 2026-07-15; recruitment email"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/nova-call-center-services_were-hiring-senior-hr-officer-activity-7478041445137035264-0Vmy"
+    label: "Company-authored Irbid senior HR advertisement, 2026-07-01; recruitment email"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/nova-call-center-services_were-hiring-quality-officer-are-you-activity-7496195030009737216-uWlz"
+    label: "Company-authored quality assurance advertisement, 2026-08-20; recruitment email"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/nova-call-center-services_nova-call-center-services-is-looking-for-activity-7411299620607401984-ESgR"
+    label: "Company-authored 2025-12-29 Irbid customer-service advertisement welcomes university students"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/nova-call-center-services_were-hiring-sales-customer-service-activity-7500451442273546241-uItQ"
+    label: "Company-authored Irbid sales customer-service advertisement, 2026-09-01"
   - type: "other"
     url: "https://novacallcenters.com/arabic-call-center-services/"
-    label: "Research source"
+    label: "Previously recorded company page on Arabic-language customer support"
   - type: "other"
     url: "https://Clutch.co/profile/nova-call-centers"
-    label: "Research source"
+    label: "Previously recorded third-party directory; not relied on for current headcount"
   - type: "other"
     url: "https://www.crunchbase.com/organization/nova-call-centers"
-    label: "Research source"
+    label: "Previously recorded third-party company listing; not relied on for verification"
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.997808,35.882348"
-    label: "Google Maps location"
+    label: "Existing approximate map pin, corroborated near a third-party listing; not surveyed entrance"
+verification_status: "partial"
+last_verified: "2026-10-26"
