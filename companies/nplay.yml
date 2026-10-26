@@ -1,35 +1,100 @@
 name: "Nplay"
-industry: "Creative Technology / AR-VR"
-website: "https://nplay.tech"
+description: >-
+  Amman-founded creative technology and immersive-experience studio offering
+  virtual and augmented reality experiences, hologram installations, digital
+  twins and virtual showrooms, AI-powered interactive tools, website and
+  platform development, ERP/Odoo integrations, branding, and business
+  development services. Its Nplay Academy division advertises practical
+  technology and professional-skills training.
+industry: "Creative Technology / Immersive Media and Digital Consulting"
+website: "https://nplay.tech/"
 careers_url: null
-linkedin: null
-hr_email: "info@nplay.tech"
-size: "10-49"
+linkedin: "https://www.linkedin.com/company/nplaytech/"
+hr_email: null
+size: "11-50 employees (current nplay Technologies LinkedIn company range; not independently audited)"
 location:
   area: "Amman"
-  address: "Wasfi At-Tall St., Almehaniah Commercial Towers, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.992605
-  longitude: 35.865515
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.992605,35.865515"
+  address: "Office 203, Almehaniah Commercial Towers (Commercial Center Towers M2), Wasfi Al-Tall Street, Khalda, Amman, Jordan"
+  status: "verified"
+  latitude: 31.9926079
+  longitude: 35.8655173
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9926079,35.8655173"
 categories:
   - "ai"
   - "erp"
-  - "games"
+  - "web"
 technologies:
   - "AR/VR"
   - "Odoo"
+  - "Digital twins"
+  - "Hologram displays"
+  - "AI assistants"
+  - "API integrations"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Amman creative-technology company (founded 2018) building VR/AR experiences, digital twins, hologram systems and AI tools. | stack verified 2026-10-07: own site (nplay.tech) states ERP/Odoo & API integrations + web/platform dev; VR/AR product evidence (training simulators, digital twins, holograms); no public employee profiles or dev job postings found."
+  signals:
+    - "A company-attributed LinkedIn Marketing Specialist (SEO and LinkedIn) vacancy in Amman described an entry-level, on-site position, but the listing explicitly says applications are no longer accepted; it is historical evidence, not a current opening."
+    - "Nplay Academy advertises courses and labs for students and graduates, including AI and VR/AR topics. These are training services, not verified paid internships, graduate employment or current vacancies."
+    - "No dedicated HR mailbox, company-hosted careers portal, or currently accepting Jordan vacancy was independently established."
+notes: >-
+  Reviewed 2026-10-26. Nplay's official website identifies a Jordanian
+  creative-technology business founded in Amman in 2018, with hologram,
+  VR/AR, digital-twin, web, AI and ERP/Odoo integration offerings. The
+  company's official contact page publishes Office 203, Almehaniah
+  Commercial Towers, Wasfi Al-Tall Street, Khalda, Amman; its current
+  LinkedIn profile independently gives Wasfi Al-Tall Street and commercial
+  center towers M2. Location.status verified means corroborated published
+  address, not an independent observation of current occupancy. The official
+  embedded Google Map is centered at about 31.9926079, 35.8655173, close
+  to the previous coordinates; these are a company-published approximate
+  location pin, not surveyed office-door coordinates. LinkedIn's current
+  nplay Technologies profile reports 11-50 employees and founding in 2018;
+  a separate older Nplay middle east profile linked to the same domain
+  reports 201-500 employees and 2015 founding, an unresolved historical
+  inconsistency. The current official site and linked company profile are
+  preferred, but actual headcount and legal-entity structure remain
+  unverified. The official site publishes info@nplay.tech as a general
+  contact and h.alhaj@nplay.tech as a named contact; neither is established
+  as a dedicated HR/recruitment address, so hr_email is null. A historical
+  entry-level marketing vacancy on LinkedIn is closed. Academy training
+  for students and graduates does not demonstrate current employment
+  opportunities. Technologies represent public product/service capabilities,
+  not an independently confirmed internal engineering stack; no programming
+  language, engine, cloud provider or deployment architecture was verified.
+  The previous games category was removed because a games business was not
+  corroborated; web was added based on official website/platform services.
+  Verification remains partial because staff count, current recruitment,
+  exact occupancy and internal stack remain unresolved.
 evidence:
   - type: "official_website"
-    url: "https://nplay.tech"
-    label: "Official website"
-  - type: "other"
-    url: "https://themanifest.com/jo/virtual-reality/companies/amman"
-    label: "Research source"
+    url: "https://nplay.tech/"
+    label: "Official homepage: company description, founding year, Amman location and technology offerings; reviewed 2026-10-26"
+  - type: "official_website"
+    url: "https://nplay.tech/about.html"
+    label: "Official company history and 2018 founding"
+  - type: "official_website"
+    url: "https://nplay.tech/contact.html"
+    label: "Official Office 203 Khalda address, telephone, general contact emails and linked Google Map"
+  - type: "official_website"
+    url: "https://nplay.tech/academy.html"
+    label: "Official Nplay Academy training for students and graduates; not employment"
+  - type: "official_website"
+    url: "https://nplay.tech/service-vr-ar.html"
+    label: "Official VR/AR, hologram, digital twin and virtual showroom service capabilities"
+  - type: "official_website"
+    url: "https://nplay.tech/service-ai-tools.html"
+    label: "Official AI assistants, automation and ERP/Odoo integrations"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/nplaytech/"
+    label: "Official-site-linked company profile: 11-50 employee band, 2018, Wasfi Al-Tall Street Towers M2"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/nplay-middle-east"
+    label: "Older Nplay middle east listing linked to nplay.tech: conflicting 2015 founding and 201-500 staff"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/marketing-specialist-seo-and-linkedin-at-nplay-technologies-4278547365"
+    label: "Historical Amman entry-level marketing position; LinkedIn explicitly says no longer accepting applications"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.992605,35.865515"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9926079,35.8655173"
+    label: "Approximate official-site map-center coordinates, not independently surveyed office entrance"
+verification_status: "partial"
+last_verified: "2026-10-26"
