@@ -1,42 +1,100 @@
 name: "Olivery"
-industry: "Logistics SaaS / Delivery Management"
+description: >-
+  Olivery is a logistics software company founded in 2020 that provides a
+  low-code/no-code B2B SaaS platform for delivery businesses and merchants.
+  Its cloud-based tools cover order management, dispatch, route optimization,
+  driver tracking, cash-on-delivery reconciliation, and customer notifications.
+  The company reports operations in Jordan and Palestine and serves customers
+  across the wider MENA region.
+industry: "Logistics technology / B2B SaaS / Delivery management software"
 website: "https://website.olivery.app"
 careers_url: null
-linkedin: null
-hr_email: null
-size: null
+linkedin: "https://www.linkedin.com/company/olivery-beyond-logistics/"
+hr_email: "jobs@olivery.app"
+size: "11-50"
 location:
   area: "Amman"
   address: "King Faisal Street, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.95175
-  longitude: 35.93313
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95175,35.93313"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=King+Faisal+Street%2C+Amman%2C+Jordan"
 categories:
   - "logistics"
   - "web"
-technologies: []
+  - "devops"
+technologies:
+  - "Linux"
+  - "Infrastructure as Code (IaC)"
+  - "Continuous Integration (CI)"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-notes: "Founded 2020 (Ramallah/Amman); low-code/no-code B2B logistics SaaS — order management, driver tracking, automated routing, COD reconciliation; 200+ clients across 9 countries; seed from Ibtikar Fund & Flat6Labs (Jul 2025). stack research 2026-10-05: 5 searches; only 1 GitHub profile of a former full-stack intern (Flutter/Dart/Firebase/Python/SQL) with no tech tied to Olivery itself; no job postings or other employee evidence found."
+    - "Historical Amman DevOps Engineer posting labeled entry-level (closed; current intake unconfirmed)"
+    - "Historical Amman/Ramallah Technical Sales Specialist posting sought one year of experience (expired 2026-04-30)"
+    - "Historical Jordan Senior Technical Support recruitment; not an entry-level role"
+notes: >-
+  Reviewed 2026-10-26. The official company site lists an Amman office on
+  King Faisal Street, a Ramallah office on Al-Quds Street and a US office in
+  Delaware. The Amman street is company-published, but no independent
+  building-level confirmation or occupancy check was found; prior coordinates
+  31.95175, 35.93313 were removed as an unverified office pin. The map link
+  is an address search, not a confirmed office entrance. The LinkedIn company
+  profile lists Cardiff as headquarters and 11-50 employees worldwide; this
+  differs in scope from the operational office listings and does not establish
+  Jordan headcount. The company's general sales address is sale@olivery.app;
+  jobs@olivery.app was advertised for recruitment in a Jordan Senior Technical
+  Support post and other company-associated hiring notices, but the mailbox's
+  current monitoring was not tested. A company-posted Amman DevOps Engineer
+  vacancy, now closed, requested Linux, infrastructure as code, continuous
+  integration and experience with AWS, Azure or GCP. These are historical
+  recruiting requirements, not proof of deployed infrastructure or a selected
+  cloud provider. An Amman/Ramallah Technical Sales Specialist advertisement
+  expired 2026-04-30. No accepting Jordan vacancy, formal internship or
+  graduate scheme was independently verified. The previous 'Internship'
+  signal lacked company-specific corroboration and was replaced with qualified
+  historical early-career recruitment. A July 2025 investor announcement
+  reports seed backing from Ibtikar Fund and Flat6Labs and over 200 customers
+  in nine countries at that time; planned AI features should not be treated
+  as independently verified deployed capabilities. The website currently
+  advertises over 200 customers and more than ten MENA countries, reflecting
+  company-reported marketing figures rather than audited counts.
+verification_status: "partial"
+last_verified: "2026-10-26"
 evidence:
   - type: "official_website"
-    url: "https://website.olivery.app"
-    label: "Official website"
+    url: "https://website.olivery.app/"
+    label: "Official delivery-management products and company-reported reach; checked 2026-10-26"
+  - type: "official_website"
+    url: "https://website.olivery.app/contact-us/"
+    label: "Company-published Amman street, Ramallah and Delaware offices, general sales contact"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/olivery-beyond-logistics/"
+    label: "OliveryApp company profile: 11-50 global employees, Cardiff listed headquarters, Ramallah location"
   - type: "other"
-    url: "https://www.wamda.com/2025/07/olivery-secures-seed-investment-ibtikar-fund-flat6labs"
-    label: "Research source"
+    url: "https://www.wamda.com/en/2025/07/olivery-secures-seed-investment-ibtikar-fund-flat6labs"
+    label: "2025-07-28 investor announcement: founders, 2020 establishment, seed funding, 200+ customers in nine countries"
   - type: "other"
     url: "https://www.fwdstart.me/p/olivery-raises-seed-round-to-scale-no-code-delivery-software-across-mena"
-    label: "Research source"
-  - type: "other"
-    url: "https://website.olivery.app/contact-us/"
-    label: "Research source"
+    label: "Additional historical reporting on seed financing and no-code delivery software"
   - type: "other"
     url: "https://en.arageek.com/olivery-secures-seed-funding-to-revolutionise-middle-eastern-logistics-with-ai"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.95175,35.93313"
-    label: "Google Maps location"
+    label: "Secondary report on 2025 seed investment and planned AI enhancements"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/posts/olivery-beyond-logistics_ibtikar-fund-and-flat6labs-invest-in-olivery-activity-7355871156878409731-4a9l"
+    label: "Company-authored announcement of 2025 seed investment"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/devops-engineer-at-oliveryapp-4069363388"
+    label: "Closed Amman entry-level DevOps listing: Linux, IaC, CI and cloud-provider experience"
+  - type: "job_post"
+    url: "https://www.jobs.ps/en/jobs/technical-sales-specialist-65872"
+    label: "Expired 2026-04-30 technical sales role for Amman or Ramallah; one year of experience"
+  - type: "linkedin_employee"
+    url: "https://www.linkedin.com/posts/hanan-khalaf-a41838230_hiring-seniortechnicalsupport-olivery-activity-7363139415407271938-La2u"
+    label: "Company-associated Jordan senior technical support hiring notice using jobs@olivery.app"
+  - type: "linkedin_employee"
+    url: "https://www.linkedin.com/posts/hanan-khalaf-a41838230_we-believe-great-teams-build-great-companies-activity-7383797874872041475-LQcU"
+    label: "Company-associated Palestine hiring notice corroborating jobs@olivery.app; not Jordan vacancy"
+  - type: "other"
+    url: "https://www.flat6labs.com/wp-content/uploads/2023/03/Olivery.pdf"
+    label: "Historical investor presentation on team; not evidence of current employee count"
