@@ -1,53 +1,88 @@
 name: "Pinnacle Innovation (PI Jordan)"
-industry: "Open-source ERP (Odoo) / IT consulting"
-website: "https://pijordan.com/"
-careers_url: "https://www.pijordan.com/jobs/junior-odoo-developer-2"
-linkedin: null
-hr_email: "info@pijordan.com"
-size: null
+description: >-
+  Amman-based IT consultancy implementing and customizing Odoo ERP, advising on
+  business processes and IT strategy, and offering cybersecurity/IT audit,
+  digital learning, and Industry 4.0/IoT integration services for regional clients.
+industry: "ERP implementation and IT consulting"
+website: "https://www.pijordan.com/"
+careers_url: "https://www.pijordan.com/jobs"
+linkedin: "https://www.linkedin.com/company/pijordan"
+hr_email: null
+size: "2-10"
 location:
   area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: "165 Mecca Street, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=165+Mecca+Street%2C+Amman%2C+Jordan"
 categories:
   - "consulting"
-  - "devops"
   - "erp"
   - "iot"
   - "security"
   - "web"
 technologies:
-  - "AWS"
-  - "Azure"
-  - "Google Cloud"
-  - "IoT"
   - "Odoo"
-  - "Oracle NetSuite"
   - "Python"
+  - "PostgreSQL"
+  - "JavaScript"
+  - "Docker"
+  - "Oracle NetSuite"
+  - "SAP"
+  - "Microsoft Dynamics 365"
+  - "Sinfosy IoT"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Fresh graduate"
-    - "Graduate"
-    - "Junior"
-    - "Trainee"
-notes: "Amman-based Odoo Silver Partner for open-source ERP plus IoT/Industry 4.0 and cybersecurity; actively hiring Junior Odoo Developers and running a trainee program explicitly open to fresh graduates — strong entry-level target."
+    - "Official careers page listed five Business Analyst / Odoo Functional Consultant trainee positions for students and fresh graduates, with an application form, reviewed 2026-10-27."
+    - "Official careers page listed one Junior Odoo Developer opening in Amman and invited recent graduates, reviewed 2026-10-27."
+    - "Entry-level Sales Engineer and eMarketing positions were also displayed on the official jobs page, reviewed 2026-10-27."
+notes: >-
+  Official site identifies the business as an Odoo Silver Partner; the Odoo
+  partner directory independently lists Pinnacle Innovation IT Consulting in
+  Amman and publishes sales@pijordan.com. LinkedIn reports 2-10 employees and
+  founding year 2003; these are company-profile figures, not audited headcount.
+  The official contact page publishes 165 Mecca Street and info@pijordan.com,
+  which is a general contact, not a verified HR mailbox. The building/entrance
+  and current occupancy have not been independently confirmed, so old generic
+  Amman coordinates were removed. The official jobs portal displayed open
+  application forms for trainee and junior positions at review, but live
+  acceptance and remaining places were not independently tested. The junior
+  developer description contains template text and an '[Insert Deadline]'
+  placeholder; no valid closing date can be inferred. Python and Odoo are
+  supported by the junior vacancy; PostgreSQL, JavaScript and Docker by the
+  senior developer requirements. Oracle NetSuite, SAP, Microsoft Dynamics 365,
+  and Sinfosy IoT are advertised partner/service technologies, not verified
+  internal production deployments. No reliable evidence established AWS,
+  Azure or Google Cloud use; these claims were removed.
 evidence:
   - type: "official_website"
-    url: "https://pijordan.com/"
-    label: "Official website"
-  - type: "careers"
-    url: "https://www.pijordan.com/jobs/junior-odoo-developer-2"
-    label: "Careers / application page"
+    url: "https://www.pijordan.com/"
+    label: "Official company services and Odoo ERP offering (accessed 2026-10-27)"
   - type: "other"
     url: "https://www.pijordan.com/ar/about-us"
-    label: "Research source"
+    label: "Official about page describing ERP, IT consulting and Sinfosy IoT (accessed 2026-10-27)"
+  - type: "other"
+    url: "https://www.pijordan.com/contactus"
+    label: "Official contact page with 165 Mecca Street and general email (accessed 2026-10-27)"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/pijordan"
+    label: "Matching company LinkedIn page with Amman headquarters and 2-10 size (accessed 2026-10-27)"
+  - type: "other"
+    url: "https://www.odoo.com/partners/pinnacle-innovation-it-consulting-2751389"
+    label: "Odoo partner directory corroborating business and Amman presence (accessed 2026-10-27)"
+  - type: "careers"
+    url: "https://www.pijordan.com/jobs"
+    label: "Official careers index listing trainee, junior and other positions (accessed 2026-10-27)"
   - type: "job_post"
     url: "https://www.pijordan.com/jobs/trainee-business-analyst-odoo-functional-consultant-14"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Student and graduate Odoo functional consultant trainee program (accessed 2026-10-27)"
+  - type: "job_post"
+    url: "https://www.pijordan.com/jobs/junior-odoo-developer-2"
+    label: "Junior Odoo developer requirements and template deadline warning (accessed 2026-10-27)"
+  - type: "careers"
+    url: "https://www.pijordan.com/jobs/apply/trainee-business-analyst-odoo-functional-consultant-14"
+    label: "Accessible official trainee application form (accessed 2026-10-27)"
+verification_status: "partial"
+last_verified: "2026-10-27"
