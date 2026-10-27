@@ -1,42 +1,85 @@
 name: "Pi Pharma Intelligence"
-industry: "Health tech, Pharma intelligence"
-website: "https://www.pipharmaintelligence.com"
-careers_url: null
+description: >-
+  Amman-based pharmaceutical intelligence and health-data technology company
+  providing subscription analytics, regulatory and patent intelligence,
+  market-access research and AI-assisted data solutions for pharmaceutical
+  companies operating in the Middle East and North Africa.
+industry: "Pharmaceutical intelligence / Health data analytics"
+website: "https://www.pipharmaintelligence.com/"
+careers_url: "https://pipharmaintelligence.com/careers"
 linkedin: "https://www.linkedin.com/company/pi-pharma-intelligence/"
-hr_email: null
-size: "20+"
+hr_email: "hr@pipharmaintelligence.com"
+size: "11-50"
 location:
-  area: "Amman"
-  address: "168-B, Dabouq Complex, King Abdullah Street, Amman"
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  area: "Dabouq, Amman"
+  address: "168-B, Dabouq Complex, King Abdullah Street, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=168-B%20Dabouq%20Complex%20King%20Abdullah%20Street%20Amman%20Jordan"
 categories:
   - "healthtech"
   - "web"
+  - "data"
+  - "ai"
 technologies:
-  - "Laravel"
+  - "AI-assisted pharmaceutical data processing and standardization"
+  - "Web-based pharmaceutical analytics platform (Pi Insight)"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Web-based pharma intelligence platform (Pi Insight, Pi Reports, Pi FORESaiGHT) for MENA drug data, patents, pricing and market access; founded 2018, Oasis500-backed. Office address confirmed by DHArab; postal 19154. No public HR email found."
+  early_career_signal: true
+  signals:
+    - "Official 2022 university collaboration announced an internship program for IT, AI and pharmacy students; no current intake verified."
+    - "Company reported participation in the AI.SPIRE graduate job fair in Amman on 2026-08-13; participation is not proof of open vacancies."
+    - "Official careers page invites applications by email but does not independently establish a currently accepting role."
+notes: >-
+  Reviewed 2026-10-27. Official website documents Pi Insight, pharmaceutical
+  analytics, contact email insight@pipharmaintelligence.com, telephone
+  +962 77777 36 99, and 168-B Dabouq Complex on King Abdullah Street.
+  Company LinkedIn independently repeats the building and lists Amman as
+  headquarters, founding year 2018 and a self-reported 11-50 employee range;
+  DHArab's older 2024 profile says 20+ employees. Exact office occupancy
+  and entrance coordinates were not independently inspected. The previous
+  31.9539, 35.9106 coordinates were generic central-Amman coordinates and
+  were removed; map URL is an address search, not a verified pin. Official
+  contact page gives postal code 11821, whereas LinkedIn gives 19154, so
+  no postal code is asserted in the address field. The company careers page
+  describes its work environment and invites applications, but no dated,
+  currently accepting vacancy was established. A 2022 official university
+  partnership announced internships for IT, AI and pharmacy candidates,
+  and the company reported participation in an August 2026 graduate job fair;
+  these are historical early-career signals, not confirmed current intake.
+  A historical recruiter-authored Web Graphic Designer advertisement directed
+  CVs to hr@pipharmaintelligence.com; the mailbox's current monitoring is
+  unconfirmed. WIPO's 2025 case study documents AI use to harmonize pharma
+  data, but no production language, cloud provider or full internal software
+  stack was independently established. Previous Laravel entry was removed:
+  a website search-result title mentioning Laravel does not substantiate
+  the company's internal production stack. Company verification is partial
+  and is separate from the location status.
 evidence:
   - type: "official_website"
-    url: "https://www.pipharmaintelligence.com"
-    label: "Official website"
+    url: "https://www.pipharmaintelligence.com/"
+    label: "Official products, contact information and company address (reviewed 2026-10-27)"
+  - type: "official_careers"
+    url: "https://pipharmaintelligence.com/careers"
+    label: "Official careers page; general invitation without confirmed open vacancy"
+  - type: "official_website"
+    url: "https://www.pipharmaintelligence.com/contact-us"
+    label: "Official contact page and Dabouq street address"
+  - type: "official_website"
+    url: "https://www.pipharmaintelligence.com/news/17"
+    label: "2022 partnership with Middle East University announcing IT, AI and pharmacy internships"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/pi-pharma-intelligence/"
-    label: "LinkedIn company page"
+    label: "Company LinkedIn: 11-50 employees, Amman address, August 2026 AI.SPIRE graduate job fair"
   - type: "other"
-    url: "https://www.wipo.int/web/ip-advantage/w/stories/pi-pharma-intelligence"
-    label: "Research source"
+    url: "https://www.wipo.int/en/web/ip-advantage/w/stories/pi-pharma-intelligence"
+    label: "WIPO January 2025 case study documenting AI data standardization and 2018 founding"
   - type: "other"
     url: "https://dharab.com/dbentry/pi-pharma-intelligence/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.menagg.com/post/pi-pharma-intelligence-and-mena-pharma-forge-strategic-partnership-to-accelerate-north-american-phar"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "DHArab April 2024 directory corroborating Dabouq address and historical 20+ size"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/in/tamara-saba-5576b4185"
+    label: "Recruiter profile reproducing historical Web Graphic Designer job post with company HR email"
+verification_status: "partial"
+last_verified: "2026-10-27"
