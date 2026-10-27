@@ -7,7 +7,7 @@ description: >-
   and WaveDMS for document management. ITG also provides implementation,
   training and technical support across regional markets.
 verification_status: "partial"
-last_verified: "2026-10-15"
+last_verified: "2026-10-27"
 industry: "IT Services and IT Consulting / Education and Enterprise Software"
 website: "https://www.itgsolutions.com/en/"
 careers_url: "https://www.itgsolutions.com/en/careers/"
@@ -48,6 +48,7 @@ job_seeker:
     - "Public internship application email internship@itgsolutions.com; current intake capacity not confirmed"
     - "2026 TechForward university-student AI/ATS collaboration and PSUT Career Day participation"
     - "Official careers page listed September-October 2026 Amman roles, including Senior Database Developer and Sales Manager; these are not entry-level vacancies"
+    - "2026-10-22 official Amman IT Security Officer vacancy requires at least 2 years of cybersecurity experience; not an entry-level opening"
 notes: >-
   Reviewed 2026-10-15 (Jordan local date). ITG's official Jordan contact page and its current
   LinkedIn company profile independently agree on 41 Ahmad Shawqi Street,
@@ -73,6 +74,16 @@ notes: >-
   Company-level verification remains partial because internal technology
   coverage and current internship intake are not fully established, despite
   verified company identity, address, official career channels and activity.
+  Follow-up 2026-10-27: ITG official careers portal and dedicated 2026-10-22
+  Amman IT Security Officer posting confirm continued Jordan recruitment.
+  The role requires at least two years of cybersecurity experience and lists
+  SIEM/EDR investigation, incident response, vulnerability assessment and
+  Windows/Linux hardening. Elastic Security is preferred; Splunk, QRadar and
+  Microsoft Sentinel are acceptable alternatives. These are vacancy skill
+  requirements, not proof of deployed internal tooling. Official internship
+  eligibility, contact inbox, company address and global size were rechecked;
+  no current internship cohort or dedicated general HR inbox was confirmed.
+  Company verification remains partial.
 evidence:
   - type: "official_website"
     url: "https://www.itgsolutions.com/en/"
@@ -104,3 +115,6 @@ evidence:
   - type: "other"
     url: "https://www.intaj.net/media-center/Announcements/flutter-training-incubator-itg-academy"
     label: "Historical 2021 intaj internship announcement corroborating internship email, not a current vacancy"
+  - type: "job_post"
+    url: "https://www.itgsolutions.com/en/it-security-officer-amman-jordan-ref-itg_53/"
+    label: "2026-10-22 official Amman cybersecurity vacancy: 2+ years, SIEM, EDR and vulnerability assessment"
