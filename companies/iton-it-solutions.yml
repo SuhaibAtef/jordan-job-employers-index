@@ -5,7 +5,7 @@ description: >-
   networking, cloud solutions, cybersecurity, data backup and disaster recovery,
   and IT consulting to customers in Jordan and neighboring markets.
 verification_status: "partial"
-last_verified: "2026-10-15"
+last_verified: "2026-10-27"
 industry: "Managed IT Services / Network Infrastructure and Cybersecurity"
 website: "https://www.iton-jo.com/"
 careers_url: null
@@ -41,8 +41,10 @@ job_seeker:
   signals:
     - "2026 ITON training-and-employment program for junior system/network administrators, advertised with Jordan's Ministry of Digital Economy and Entrepreneurship / Youth, Technology & Jobs project"
     - "Company training announcement targets 20-24-year-old Jordanian and Syrian residents in Jordan with relevant diplomas or degrees; intake status not confirmed on review date"
+    - "October 2026 company posts document ongoing system/network-administration training, vendor workshops and introductions of trained candidates to prospective employers; not a confirmed open ITON vacancy"
+    - "Historical closed Technical Support Engineer advertisement sought applicants with 0-2 years of experience; not evidence of a current vacancy"
 notes: >-
-  Reviewed 2026-10-15 (Jordan time). The current official site identifies ITON
+  Reviewed again 2026-10-27 (Jordan time; previous review 2026-10-15). The current official site identifies ITON
   as an MSP operating in Jordan, Saudi Arabia and Iraq, with managed IT,
   network infrastructure, cloud, cybersecurity, backup/recovery and consulting
   services. LinkedIn and WALLIX both report a 2007 founding; the primary
@@ -65,6 +67,16 @@ notes: >-
   internal development stack. WALLIX independently confirms ITON's PAM
   reseller partnership. Company verification remains partial because direct
   hiring status, current HR contact and internal technology stack are unresolved.
+  During the October 2026 recheck, the company LinkedIn feed showed recent
+  practical program sessions on Acronis backup/cyber protection, Sophos security,
+  and Microsoft Azure/Copilot, alongside employer-facing invitations to meet
+  program participants. These are training topics and partner presentations,
+  not proof of ITON's deployed internal stack or currently open admissions.
+  A historical LinkedIn Technical Support Engineer posting (about two years old)
+  requested 0-2 years' experience and listed HR@iton-jo.com for applications;
+  the listing is closed, so the address is not treated as a verified current
+  recruitment contact and hr_email remains null. No current ITON job opening
+  or dedicated careers portal was confirmed on 2026-10-27.
 evidence:
   - type: "official_website"
     url: "https://www.iton-jo.com/"
@@ -84,3 +96,9 @@ evidence:
   - type: "partner_directory"
     url: "https://www.wallix.com/partners/partner-finder/"
     label: "WALLIX partner finder: ITON IT Solutions listed for Jordan"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/itonit_iton-systemadministratorengineer-acronis-activity-7495788759670759424-Llr6"
+    label: "ITON company post: recent Acronis workshop in system administrator training program"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/technical-support-engineer-at-iton-it-solutions-4010095984"
+    label: "Historical closed entry-level Technical Support Engineer advertisement and HR inbox; not current"
