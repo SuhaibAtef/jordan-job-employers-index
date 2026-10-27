@@ -1,74 +1,99 @@
 name: "PayTabs"
-industry: "Fintech / Payments infrastructure"
-website: "https://paytabs.com"
+description: >-
+  Riyadh-headquartered payments infrastructure provider serving merchants and
+  financial institutions across MENA, including Jordan. Its services include
+  online payment gateways, payment links, invoicing, payment orchestration,
+  merchant APIs and mobile SDKs; its MEPS partnership supports Jordanian
+  contactless SoftPOS acceptance.
+industry: "Fintech / payment processing and infrastructure"
+website: "https://ai.paytabs.com/en/"
 careers_url: "https://ai.paytabs.com/en/career/"
-linkedin: "https://www.linkedin.com/company/paytabs-holding-company"
+linkedin: "https://www.linkedin.com/company/paytabs-holding-company/"
 hr_email: null
 size: "201-500"
 location:
   area: "Amman"
-  address: "2nd Floor, The Edgo Atrium Building, Rafic Hariri Street, Abdali, Amman 11194, Jordan"
-  status: "verified"
-  latitude: 31.9607134
-  longitude: 35.9162568
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9607134,35.9162568"
+  address: null
+  status: "approximate"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=PayTabs%20Amman%20Jordan"
 categories:
   - "data"
-  - "devops"
   - "fintech"
   - "mobile"
   - "web"
 technologies:
-  - "Android"
-  - "Flutter"
-  - "Go"
-  - "Google Cloud"
-  - "Payment Gateway"
-  - "Redis"
-  - "SQL Server"
+  - "Android (published mobile SDK and Jordan MEPS FAST product)"
+  - "Flutter (published integration SDK)"
+  - "Mobile SDKs"
+  - "Payment gateway APIs"
+  - "Payment orchestration"
+  - "SoftPOS / MEPS FAST"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Fresh graduate"
-    - "Graduate"
-notes: "Payments infrastructure company founded 2014 in Saudi Arabia (300+ staff, $48B processed volume) with a confirmed Jordan office (Regional GM Eyad Musharbash); its Labour Day post explicitly invites fresh graduates to join. No verifiable Amman street address found - kept city-center fallback. stack verified 2026-10-06: PayTabs engineer profiles (Senior Software Engineer Golang incl. Redis/SQL Server/GCP; Mobile Applications Engineer Flutter/Android) + company post names Jordan a dev hub"
+    - "2026-04-30 employer article invites fresh graduates and experienced professionals to explore regional careers; not a Jordan-specific vacancy"
+    - "Official careers page offers a vacancy search and internship filter; listings require JavaScript and no currently accepting Jordan-specific role was confirmed"
+    - "2025 employer LinkedIn post advertised a paid business-development internship in Riyadh, Saudi Arabia; historical and not Jordan eligibility evidence"
+notes: >-
+  Reviewed 2026-10-27. PayTabs' official Jordan payment-gateway page documents
+  merchant payments, PayLinks, invoicing, repeat billing, APIs and mobile SDKs.
+  Its 2023 company announcement confirms a MEPS partnership to bring the
+  Android-based MEPS FAST SoftPOS solution to Jordan; the 2026-04-30 official
+  Labour Day article describes Jordan as a technology-talent and developer hub.
+  LinkedIn lists Amman among PayTabs' locations and 201-500 employees globally,
+  with Riyadh as headquarters; this is not a Jordan headcount. The 2025
+  corporate profile distinguishes dedicated offices in KSA/UAE from presence
+  in Jordan. The former Edgo Atrium, Rafic Hariri Street, 2nd-floor address
+  could not be connected to PayTabs by a current company-authored source;
+  search results describe coworking offices at that address instead. The
+  previous coordinates 31.9607134, 35.9162568 were therefore removed; the
+  Amman location is approximate, not a verified office entrance. The careers
+  page publicly solicits applicants and provides an obfuscated contact email,
+  but its vacancy list requires JavaScript and the mailbox could not be
+  independently read as a valid HR address. No dedicated Jordan recruitment
+  email or currently accepting Jordan-specific internship or vacancy was
+  verified. The 2026-04-30 regional fresh-graduate invitation supports a
+  general early-career signal, not an open Jordan role; a 2025 Saudi internship
+  is explicitly outside Jordan. Official technical documentation confirms
+  PayTabs' Android and Flutter integration SDKs, APIs and payment solutions,
+  not the languages or cloud infrastructure used by its Jordan engineering
+  team. Previous Go, Redis, SQL Server and Google Cloud assertions lacked
+  sufficiently attributable current company-level evidence and were removed;
+  'devops' category likewise lacked substantiation. Full company verification
+  remains partial because precise Jordan office occupancy, local headcount,
+  current Jordan recruitment and internal engineering stack are unconfirmed.
 evidence:
   - type: "official_website"
-    url: "https://paytabs.com"
-    label: "Official website"
-  - type: "careers"
-    url: "https://ai.paytabs.com/en/career/"
-    label: "Careers / application page"
+    url: "https://ai.paytabs.com/en/jordan-payment-gateway/"
+    label: "Official Jordan gateway page: products, integrations and market presence"
   - type: "linkedin_company"
-    url: "https://www.linkedin.com/company/paytabs-holding-company"
-    label: "LinkedIn company page"
-  - type: "other"
-    url: "https://ai.paytabs.com/en/contact/"
-    label: "Location evidence"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/place/PayTabs+Jordan/@31.9607134,35.9162568"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://cybo.com/JO-biz/paytabs-jordan"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://intaj.net/paytabs-group-partners-with-numetric-for-cloud-based-invoicing/"
-    label: "Research source"
+    url: "https://www.linkedin.com/company/paytabs-holding-company/"
+    label: "LinkedIn: global 201-500 size, Riyadh headquarters and Amman location"
+  - type: "careers_page"
+    url: "https://ai.paytabs.com/en/career/"
+    label: "Official careers: general recruitment and JavaScript-only vacancy search"
+  - type: "official_website"
+    url: "https://docs.paytabs.com/"
+    label: "Official developer portal: Android, Flutter, API and other integration SDKs"
   - type: "other"
     url: "https://ai.paytabs.com/en/labour-day-fintech-jobs-digital-workforce-mena/"
-    label: "Research source"
+    label: "Official 2026-04-30 article: Jordan talent hub and regional graduate invitation"
   - type: "other"
-    url: "https://www.tradingview.com/news/reuters.com,2026-06-10:newsml_Zaw6p38Yt:0-zawya-valu-jordan-partners-with-meps-and-paytabs-group-to-expand-bnpl-across-in-store-and-online-payments/"
-    label: "Research source"
+    url: "https://ai.paytabs.com/pr/middle-east-payment-services-partners-with-saudi-arabias-paytabs-group/"
+    label: "Official 2023 announcement: MEPS FAST Android SoftPOS collaboration in Jordan"
   - type: "other"
-    url: "https://paytabs.com/wp-content/uploads/2017/05/PayTabs-Corporate-Profile_28Dec2025EN.pdf"
-    label: "Research source"
+    url: "https://ai.paytabs.com/wp-content/uploads/2017/05/PayTabs-Corporate-Profile_11June2025EN.pdf"
+    label: "June 2025 company profile: Jordan presence versus dedicated GCC offices"
   - type: "other"
-    url: "https://rocketreach.co/paytabs-global-profile_b5f1584af695b418"
-    label: "Research source"
+    url: "https://ai.paytabs.com/en/jordan-independence-day-2026-digital-economy-paytabs/"
+    label: "May 2026 official article: current Jordan merchant and talent activity"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/paytabs-holding-company_paytabsksa-internshipopportunity-activity-7347505681983229952-tHae"
+    label: "Historical company-authored Saudi acquisition internship; not Jordan hiring"
   - type: "other"
-    url: "https://fintechnews.media/2025/12/paytabs-kuwait-and-bede-kuwait-forge-strategic-alliance-to-expand-bnpl-across-in-store-and-online-payments"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9607134,35.9162568"
-    label: "Google Maps location"
+    url: "https://www.regus.com/en/jo/4357"
+    label: "Edgo Atrium building is offered as serviced workspace; not proof of PayTabs tenancy"
+verification_status: "partial"
+last_verified: "2026-10-27"
