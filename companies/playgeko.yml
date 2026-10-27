@@ -1,36 +1,55 @@
 name: "Playgeko"
-industry: "Sports tech / SaaS club management"
-website: "https://www.playgeko.com"
+description: "Sports-club management software platform offering court and facility bookings, memberships, payments/POS, coaching, tournaments, CRM, analytics, automation, and branded player/admin mobile applications. Its official privacy policy identifies Playgeko, Inc. (United States) and Jordanian affiliate Smart Stadium for Sports Reservations, LLC."
+industry: "Sports technology / SaaS club and facility management"
+website: "https://www.playgeko.com/"
 careers_url: null
-linkedin: null
-hr_email: "hello@playgeko.com"
-size: "2-9"
+linkedin: "https://www.linkedin.com/company/playgeko"
+hr_email: null
+size: "2-10"
 location:
   area: "Amman"
-  address: "King Hussein Business Park, Building 23, King Abdullah II Street, Amman, Jordan"
+  address: "Smart Stadium for Sports Reservations, LLC, King Hussein Business Park, Building 23, King Abdullah II Street, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.97183
-  longitude: 35.83394
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=King+Hussein+Business+Park+Building+23+King+Abdullah+II+Street+Amman+Jordan"
 categories:
+  - "ai"
   - "mobile"
   - "web"
 technologies:
-  - "REST API"
+  - "Android"
+  - "Cloudflare"
+  - "HyperPay"
+  - "iOS"
+  - "Resend"
+  - "Supabase"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Mobile-first sports-club management SaaS (est. 2024) with white-label iOS/Android player apps and an admin mobile app; Jordan entity Smart Stadium for Sports Reservations LLC at King Hussein Business Park Bldg 23 (per site footer); hello@playgeko.com."
+  signals:
+    - "Historical Playgeko LinkedIn advertisement for a part-time Amman Community Manager working on Playsonic, starting 2025-07-01; LinkedIn now says applications are closed."
+notes: "The official website and privacy policy (updated 2026-06-30) identify a Jordan affiliate, Smart Stadium for Sports Reservations, LLC, at King Hussein Business Park, Building 23, Amman, with Jordan phone +962 79 773 3559. Current physical occupancy and the exact building entrance were not independently confirmed. The former coordinates (31.97183, 35.83394) were removed because no Playgeko-specific map pin substantiates them; the map now searches the published address. A Jordanian official-gazette filing dated 2024-12-30 independently identifies Smart Stadium for Sports Reservations as a Jordanian LLC but records an AlRamadi Street applicant address; this historical filing does not establish the current office. Playgeko LinkedIn reports Dubai headquarters, Dubai and Ramallah locations (no Amman location), 2024 founding and 2-10 employees; Clutch lists Amman and 2-9 employees. Size 2-10 is a platform-reported global range, not an audited Jordan headcount. Official contact hello@playgeko.com is a general/business mailbox, not a confirmed HR contact. Official privacy policy explicitly names Supabase (database/authentication), HyperPay (payments), Resend (email) and Cloudflare (infrastructure/hosting) as service providers. The product site advertises iOS/Android apps, API integrations and AI-powered analytics/automation, but does not identify internal programming languages or frameworks; the previous 'REST API' assertion was not independently substantiated. The historical 2025 Playsonic Community Manager advertisement is marked closed, and no currently accepting vacancy, dedicated careers portal, internship or graduate intake was verified."
 evidence:
   - type: "official_website"
-    url: "https://www.playgeko.com"
-    label: "Official website"
-  - type: "other"
     url: "https://www.playgeko.com/en/club"
-    label: "Research source"
+    label: "Official product description: club management, bookings, payments, AI features, white-label mobile apps and integrations"
+  - type: "other"
+    url: "https://www.playgeko.com/en/contact"
+    label: "Official contact: Jordan affiliate, Amman Building 23 address, telephone and general email"
+  - type: "other"
+    url: "https://www.playgeko.com/en/privacy-policy"
+    label: "Official policy updated 2026-06-30: legal entities and named Supabase, HyperPay, Resend and Cloudflare processors"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/playgeko"
+    label: "Company LinkedIn: founded 2024, 2-10 employees, Dubai headquarters and listed locations"
   - type: "other"
     url: "https://clutch.co/profile/playgeko"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
-    label: "Google Maps location"
+    label: "Clutch company profile: Amman listing, 2-9 employees and sports SaaS offering"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/community-manager-at-playgeko-4237883018"
+    label: "Historical Amman Playsonic Community Manager job posted by Playgeko; applications closed"
+  - type: "other"
+    url: "https://mit.gov.jo/EBV4.0/Root_Storage/AR/EB_List_Page/6021.pdf"
+    label: "Jordanian official-gazette 2024 filing naming Smart Stadium for Sports Reservations LLC; historical AlRamadi Street address"
+verification_status: "partial"
+last_verified: "2026-10-27"

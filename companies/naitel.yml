@@ -1,60 +1,101 @@
 name: "NaiTel"
-industry: "Telecommunications"
+description: "Jordanian telecommunications and digital-infrastructure provider and the telecom arm of Aqaba Digital Hub. NaiTel offers enterprise fiber and direct internet access, MPLS connectivity, internet exchange/peering through AqabaIX, cloud and colocation connectivity, and Starlink business internet. It operates connectivity infrastructure associated with Aqaba's cable landing and data-center ecosystem."
+industry: "Telecommunications and digital infrastructure"
 website: "https://www.naitel.jo"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/naitel/"
 hr_email: null
-size: null
+size: "11-50 (LinkedIn company-wide estimate; Jordan-specific count not independently audited)"
 location:
-  area: "Amman"
-  address: "Abdoun, Salman Qudah Street, Jordan Kuwaiti Bank Building, 1st Floor, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.94053
-  longitude: 35.88197
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.94053,35.88197"
+  area: "Amman (office); headquarters in Aqaba"
+  address: "Abdoun, Salman Qudah Street, Jordan Kuwaiti Bank Building, 1st Floor, Amman, Jordan (one official footer; conflicting official homepage lists 314 Zahran Street, Al-Husseini Complex, 7th Floor, Office 715)"
+  status: "unresolved"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=NaiTel+Amman+Jordan"
 categories:
   - "devops"
   - "telecom"
 technologies:
-  - "Fiber Networks"
-  - "Internet Exchange"
+  - "Fiber Networks / FTTx"
+  - "Internet Exchange / Peering (AqabaIX)"
   - "MPLS"
-  - "Starlink"
+  - "Direct Internet Access (DIA)"
+  - "IP Transit"
+  - "Starlink business internet"
+  - "Submarine cable connectivity (Coral Bridge)"
+  - "Cloud and colocation services"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Licensed Jordanian telecom provider (est. 2012, founder/CEO Eyad Abu Khorma); telecom arm of Aqaba Digital Hub; operates a Tier III carrier-neutral data center in Aqaba and the AqabaIX internet exchange; first authorized Starlink reseller in Jordan; built the Coral Bridge subsea cable with Telecom Egypt and signed a MEDUSA cable deal (Oct 2026). ADDRESS CONFLICT: datacentermap lists '314 Zahran St, 7th floor, office #715, Amman 11118' but the company's own site footer (naitel.jo) lists Abdoun - Salman Qudah St., Jordan Kuwaiti Bank Building, 1st Floor for Amman (Aqaba office: Al-Makateb Area, Al-Dostoor Neighborhood). Company's page used per policy - pending live-browser pin check. Live-browser verified 2026-10-03: address conflict resolved — naitel.jo footer confirms Abdoun/Salman Qudah St. (Zahran St. listing superseded); claimed Maps pin 31.9405258,35.8819693. LinkedIn from footer icon. Stack trimmed: VSAT unsupported as named (satellite offered as Starlink)."
+notes: >-
+  Reviewed 2026-10-25. Official NaiTel website and LinkedIn support its telecommunications,
+  fiber/FTTx, MPLS, peering, cloud-connectivity and Starlink offerings; these are network
+  products/services, not evidence of an internal programming-language stack. LinkedIn
+  describes Aqaba (Al-Makateb Area, Al-Dostoor Neighborhood) as headquarters and reports
+  11-50 employees. A 2021 Jordan ICT directory reports 37 staff in 2018 and an older
+  Amman office at 314 Zahran St. The current official Arabic homepage STILL lists
+  314 Zahran St, Al-Husseini Complex, 7th Floor, Office 715, whereas the official
+  English cookies-policy footer lists Abdoun, Salman Qudah St, Jordan Kuwaiti Bank
+  Building, 1st Floor. The address discrepancy is unresolved; a previous claimed
+  Google Maps pin near Abdoun (31.94053,35.88197) was removed as unverified and
+  exact office occupancy was not established. Official Aqaba office is Al-Makateb
+  Area, Al-Dostoor Neighborhood, 1st/2nd floors. The 2026-10-01 MEDUSA agreement
+  concerns planned network integration and colocation via the existing Coral Bridge,
+  not proof that new MEDUSA infrastructure is already operational in Jordan.
+  Historic company-authored LinkedIn vacancies include an Amman pre-sales/solutions
+  architect and an Aqaba data-center facility manager; both pages say no longer
+  accepting applications. Pre-sales ad mentions Microsoft, VMware and KVM hypervisors
+  as candidate familiarity, not confirmed deployed technology. No official careers
+  portal, dedicated HR email, currently accepting Jordan vacancy, internship or
+  graduate program was independently verified. Prior 2026-10-03 research preserved
+  as historical context, but its claim that the Amman address conflict was resolved
+  is superseded by this direct review of conflicting current official pages.
 evidence:
   - type: "official_website"
     url: "https://www.naitel.jo"
-    label: "Official website"
+    label: "Official company site: services and connectivity portfolio (checked 2026-10-25)"
+  - type: "official_website"
+    url: "https://naitel.jo/ar"
+    label: "Official Arabic homepage: products and conflicting 314 Zahran Street Amman footer (checked 2026-10-25)"
+  - type: "official_website"
+    url: "https://naitel.jo/cookies-policy"
+    label: "Official English footer: Abdoun Amman office and Aqaba office addresses (checked 2026-10-25)"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/naitel/"
-    label: "LinkedIn company page"
+    label: "Company LinkedIn: Aqaba headquarters, 11-50 employees, industry and services (checked 2026-10-25)"
   - type: "other"
-    url: "http://www.naitel.jo/sites/default/files/2025-11/Starlink-NaiTel.pdf"
-    label: "Research source"
+    url: "https://naitel.jo/sites/default/files/2025-11/Starlink-NaiTel.pdf"
+    label: "Company Starlink business-internet leaflet (2025)"
+  - type: "other"
+    url: "https://jordanict.com/2021/company-profile/naitel"
+    label: "Jordan ICT directory: historical company size, Amman/Aqaba offices and services"
   - type: "other"
     url: "https://www.datacentermap.com/c/naitel/?rw=true"
-    label: "Research source"
+    label: "Independent data-center listing; historical location lead, not proof of current occupancy"
   - type: "other"
     url: "https://datacenterhawk.com/marketplace/providers/naitel"
-    label: "Research source"
+    label: "Data-center provider directory (supplementary)"
   - type: "other"
     url: "https://totaltele.com/sparkle-signs-mou-with-naitel-and-ilevant-to-build-a-new-digital-corridor-connecting-europe-with-asia/"
-    label: "Research source"
+    label: "Telecommunications industry coverage of earlier partnership"
   - type: "other"
     url: "https://www.thefastmode.com/technology-solutions/44138-naitel-telecom-egypt-complete-coral-bridge-subsea-cable"
-    label: "Research source"
+    label: "Industry report on Coral Bridge connectivity"
   - type: "other"
-    url: "https://wisevoter.com/world/2026/10/01/naitel-medusa-connectivity-agreement"
-    label: "Research source"
+    url: "https://petra.gov.jo/cp/index.php/en/news/naitel-and-medusa-partner-to-advance-digital-corridor-linking-europe-north-africa-jordan-and-middle-east"
+    label: "Jordan News Agency: NaiTel-MEDUSA agreement dated 2026-10-01; integration planned"
   - type: "other"
-    url: "https://naitel.jo/"
-    label: "Research source"
+    url: "https://medusascs.com/fr/news/naitel-and-medusa-join-forces-to-advance-digital-corridor-linking-europe-north-africa-jordan-and-middle-east/"
+    label: "MEDUSA official partner announcement, 2026-10-01"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/pre-sales-and-solutions-architect-at-naitel-3969790589"
+    label: "Historical Amman pre-sales/solutions architect advertisement; applications closed"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/datacenter-facility-manager-at-naitel-4007481523"
+    label: "Historical Aqaba data-center facilities manager advertisement; applications closed"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=Naitel+Office+Amman"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.94053,35.88197"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=NaiTel+Amman+Jordan"
+    label: "Name-based map search only; no independently verified office coordinates"
+verification_status: "partial"
+last_verified: "2026-10-25"

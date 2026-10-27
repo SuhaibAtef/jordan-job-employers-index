@@ -1,6 +1,7 @@
 name: "Masmoo3"
+description: "Jordanian Arabic-audiobook producer and digital publisher founded in 2011, historically distributing spoken-word content through mobile applications and preloaded audio devices."
 industry: "Audiobooks / Digital Publishing"
-website: "http://masmoo3.com"
+website: "https://masmoo3.com"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/masmoo3/"
 hr_email: null
@@ -9,9 +10,9 @@ location:
   area: "Amman"
   address: null
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "mobile"
 technologies:
@@ -19,10 +20,10 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman's pioneering Arabic digital-audiobook production & publishing house (est. 2008/2011), incl. 140+ children's stories; pre-loaded audiobook devices. 2-10 people. No public hiring found.\nstack research 2026-10-05: 3 searches incl. co-founder bio (SWE background, not company stack); outsourced translation work to MENA Alliances; no employee profiles or dev postings."
+notes: "Amman's pioneering Arabic digital-audiobook production & publishing house (est. 2008/2011), incl. 140+ children's stories; pre-loaded audiobook devices. 2-10 people. No public hiring found.\nstack research 2026-10-05: 3 searches incl. co-founder bio (SWE background, not company stack); outsourced translation work to MENA Alliances; no employee profiles or dev postings.\n2026-10-24 verification: LinkedIn lists Amman headquarters, founded 2011, 2-10 employees, and P.O. Box 2844, Amman 11821 (postal address, not verified physical office). Building Markets lists registered name Masmoo3 For Audio Knowledge and 2011 registration, but does not establish current operations. Official site displays an Arabic site-suspended notice; current operating status and hiring unconfirmed. No current careers page, HR email, vacancies or internship found. Crunchbase lists info@masmoo3.com as a general contact only; its present deliverability is unverified. Mobile apps and preloaded devices are historical distribution channels, not evidence of an internal engineering stack. Generic Amman coordinates removed as unsupported for this employer; a third-party map pin is insufficient for current occupancy. The similarly named Telegram channel is not confirmed to belong to this company."
 evidence:
   - type: "official_website"
-    url: "http://masmoo3.com"
+    url: "https://masmoo3.com"
     label: "Official website"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/masmoo3/"
@@ -39,6 +40,14 @@ evidence:
   - type: "other"
     url: "https://www.jordanyp.com/company/375902/Masmoo3"
     label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+  - type: "other"
+    url: "https://connect.buildingmarkets.org/listings/masmoo3/"
+    label: "Building Markets company registration and business listing (historical; current operations unconfirmed)"
+  - type: "other"
+    url: "https://menaitech.com/en/news/menaitech-masmoo3/"
+    label: "MenaITech 2017 partnership confirms audiobook devices and distribution"
+  - type: "other"
+    url: "https://www.crunchbase.com/organization/masmoo3"
+    label: "Crunchbase historical general contact; not a verified HR inbox"
+verification_status: "partial"
+last_verified: 2026-10-24

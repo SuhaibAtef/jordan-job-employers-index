@@ -1,17 +1,23 @@
 name: "Oracle"
-industry: "Enterprise software / Cloud"
-website: "https://www.oracle.com/sa/corporate/contact/"
-careers_url: "https://www.oracle.com/middleeast/careers/opportunities/engineering-development/"
-linkedin: null
+description: >-
+  Oracle is a global enterprise software and cloud technology company providing
+  Oracle Cloud Infrastructure, AI-enabled database services, enterprise resource
+  planning and other business applications, security services and the Java
+  development platform. Oracle lists Jordan sales and support contacts, and
+  historical local industry records document Oracle Systems Ltd in Amman.
+industry: "Enterprise software / Cloud infrastructure and applications"
+website: "https://www.oracle.com/"
+careers_url: "https://careers.oracle.com/en/sites/jobsearch"
+linkedin: "https://www.linkedin.com/company/oracle/"
 hr_email: null
-size: null
+size: "10,001+ (global, LinkedIn-reported)"
 location:
   area: "Amman"
-  address: "Al-Thaqafah St, Shmeisani, Amman, Jordan"
+  address: "Al-Thaqafah Street, Shmeisani, Amman, Jordan (historical directory listing; current office address unconfirmed)"
   status: "provided_unverified"
-  latitude: 31.9678
-  longitude: 35.8983
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9678,35.8983"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Al-Thaqafah+Street+Shmeisani+Amman+Jordan"
 categories:
   - "ai"
   - "data"
@@ -20,30 +26,70 @@ categories:
   - "security"
   - "web"
 technologies:
-  - "AI/ML"
-  - "Java"
-  - "Oracle Cloud"
-  - "Oracle Database"
+  - "Oracle Cloud Infrastructure (OCI; documented product, not verified Jordan internal stack)"
+  - "Oracle AI Database (documented product)"
+  - "Oracle Fusion Cloud ERP (documented product)"
+  - "Java and Oracle JDK (documented development platform)"
+  - "Oracle cloud security and identity services (documented products)"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Oracle's Amman office serves as a regional hub (MEA & CEE) covering pre-sales, sales, consulting and R&D; official Jordan contact +962 6 5200802 (oracle.com contact page); Oracle Middle East engineering careers list software engineering, DevOps, data science and IT security roles.\nstack verified 2026-10-04: Oracle Middle East engineering careers page (AI/cloud/database tech; software engineering, DevOps, data science, IT security roles) + Oracle BI/analytics consultant profile (Oracle, ERP, BI)."
+  early_career_signal: true
+  signals:
+    - "Official Oracle Students and Graduates portal describes global graduate and internship pathways; Jordan eligibility and open placements not established."
+    - "Generation Oracle EMEA advertises early-career sales, solution engineering, consulting and customer-success tracks; Jordan intake unconfirmed."
+    - "Oracle's global job-search portal was reviewed on 2026-10-26; no currently accepting Oracle-employer Jordan-specific vacancy was independently confirmed."
+notes: >-
+  Reviewed 2026-10-26. Oracle's official Middle East contact directory lists
+  Jordan sales telephone +962 6 5200802, support telephone +962 6 5200895,
+  and contact@oracle.com as a general sales email, not an HR mailbox.
+  Historical Jordan ICT directories identify Oracle Systems Ltd / Oracle
+  Systems Co. Ltd. in Shmeisani, Al-Thaqafah Street, Amman, with a local
+  telephone +962 6 5200800. The street-level listing is dated and not
+  independently confirmed as Oracle's currently occupied office; the previous
+  latitude 31.9678 and longitude 35.8983 were removed because no evidence
+  ties them to a precise Oracle entrance. LinkedIn reports 10,001+ employees
+  globally, not a Jordan headcount. The official Oracle careers portal and
+  regional Generation Oracle EMEA program provide recruiting pathways, but
+  no current Jordan-specific direct-employer vacancy, internship intake,
+  dedicated Jordan HR email or named HR contact was verified. Search results
+  for 'Oracle jobs in Jordan' largely advertise third-party employers using
+  Oracle products and must not be attributed to Oracle as an employer.
+  Listed technologies are Oracle products and company-wide capabilities,
+  not an audited internal production stack for the Jordan operation. The
+  earlier claim of an active regional Amman R&D hub is supported only by a
+  historical 2014 Jordan ICT profile and is not asserted as current.
+verification_status: "partial"
+last_verified: "2026-10-26"
 evidence:
   - type: "official_website"
-    url: "https://www.oracle.com/sa/corporate/contact/"
-    label: "Official website"
+    url: "https://www.oracle.com/middleeast/corporate/contact/"
+    label: "Official Jordan sales and support telephone contacts; reviewed 2026-10-26"
+  - type: "official_website"
+    url: "https://www.oracle.com/"
+    label: "Official company products and global business description"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/oracle/"
+    label: "Official global company profile, Austin headquarters and 10,001+ employee range"
   - type: "careers"
-    url: "https://www.oracle.com/middleeast/careers/opportunities/engineering-development/"
-    label: "Careers / application page"
+    url: "https://careers.oracle.com/en/sites/jobsearch"
+    label: "Official global job-search portal; no Jordan vacancy independently confirmed 2026-10-26"
+  - type: "careers"
+    url: "https://www.oracle.com/careers/students-grads/"
+    label: "Official global graduate and internship opportunities; Jordan eligibility not confirmed"
+  - type: "careers"
+    url: "https://www.oracle.com/middleeast/careers/generation-oracle/"
+    label: "Official Generation Oracle EMEA early-career program; Jordan intake unconfirmed"
+  - type: "official_website"
+    url: "https://www.oracle.com/erp/"
+    label: "Official Oracle Fusion Cloud ERP product description"
+  - type: "official_website"
+    url: "https://www.oracle.com/security/"
+    label: "Official Oracle cloud, database and identity security products"
+  - type: "official_website"
+    url: "https://www.oracle.com/java/technologies/"
+    label: "Official Java and Oracle JDK technology portfolio"
   - type: "other"
     url: "https://www.jordanyp.com/company/354505/Oracle_Systems_Co_Ltd"
-    label: "Research source"
+    label: "Historical Shmeisani street-level listing; last updated 2015, current tenancy unconfirmed"
   - type: "other"
-    url: "http://wikimapia.org/11922243/Oracle-Systems-Ltd-Jordan"
-    label: "Research source"
-  - type: "other"
-    url: "https://drupal.oxfordbusinessgroup.com/analysis/central-server-country-becoming-base-regional-operations"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9678,35.8983"
-    label: "Google Maps location"
+    url: "https://www.jordanict.com/2014/profile-view/403"
+    label: "Historical Jordan ICT profile documenting local presence and former regional center, not current operations"

@@ -1,38 +1,64 @@
 name: "Polaris"
-industry: "Information Technology and Services"
-website: "https://www.polaris-tek.com"
+description: "Polaris Technology Ltd is a Jordanian IT systems integrator and consulting firm founded in 2010. It provides digital infrastructure and hybrid-cloud services, systems integration, business continuity and disaster recovery, managed IT operations, cybersecurity, data engineering and enterprise digital-transformation solutions, including Mendix low-code development."
+industry: "IT services / systems integration / digital transformation"
+website: "https://www.polaris-tek.com/"
 careers_url: null
-linkedin: null
-hr_email: null
-size: null
+linkedin: "https://www.linkedin.com/company/polaris-technology/"
+hr_email: "hr@polaris-tek.com"
+size: "51-200"
 location:
-  area: "Amman"
-  address: "9, Ahmed Al Dalahmeh St., Amman, 11814, Jordan"
+  area: "Sweileh, Amman"
+  address: "Building 9, Ahmed Al Dalahmeh Street, Sweileh, Amman 11814, Jordan"
   status: "provided_unverified"
-  latitude: 31.99915
-  longitude: 35.82995
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99915,35.82995"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Building+9+Ahmed+Al+Dalahmeh+Street+Sweileh+Amman+Jordan"
 categories:
   - "consulting"
   - "data"
   - "devops"
+  - "web"
 technologies:
   - "AWS"
   - "Mendix"
-  - "Oracle Database"
+  - "Oracle"
   - "Veeam"
   - "VMware"
+  - "Python"
+  - "Apache Spark"
+  - "Apache Airflow"
+  - "Apache Kafka"
+  - "PostgreSQL"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Amman IT infrastructure firm; Mendix Top Cloud Partner MEA FY21, Oracle Field Delivery Partner; managed & consultancy services, AWS marketplace listing, digital transformation."
+  signals:
+    - "Employer LinkedIn recruitment announcements visible in October 2026 sought an on-site Amman Senior Back-End Developer (5+ years, Python), a Senior Data Engineer (5+ years, Spark/Airflow/Kafka), and Senior Mendix Developers in Jordan; CVs requested at info@polaris-tek.com. Posting dates are relative on LinkedIn and application acceptance was not independently tested."
+    - "A company LinkedIn HR Manager advertisement (5+ years) explicitly gave HR@polaris-tek.com for CVs. An Executive Secretary advertisement required at least one year of experience; no currently accepting internship or graduate-specific position was established."
+notes: "Official website and company LinkedIn corroborate the Sweileh headquarters at Ahmed Al Dalahmeh Street, Building 9; the official site gives postal code 11814 and telephone +962 6 551 0025. The Jordan ICT association int@j and third-party directories instead show Building 11, so the exact building number and current occupancy are not independently resolved. Previous coordinates (31.99915, 35.82995) were removed because a nearby directory pin cannot establish the company's present entrance; map search now uses the official address. LinkedIn reports 51-200 employees and founding in 2010; the official company profile claims more than 125 team members and a regional presence, but these are unaudited and not a Jordan-only headcount. HR@polaris-tek.com is supported by an employer-authored LinkedIn HR Manager hiring post; other recent technical vacancies direct applications to the general info@polaris-tek.com mailbox. No dedicated careers page or current internship intake was verified. The official service portfolio names AWS, Mendix, Oracle, Veeam and VMware as technologies/competencies, not proof of every internal deployment. Python, Apache Spark, Apache Airflow, Apache Kafka and PostgreSQL are supported by company-authored job requirements and should not be read as a fully confirmed production stack. The older note's Mendix Top Cloud Partner MEA FY21 and Oracle Field Delivery Partner claims appear on the official home page but are historical partner claims."
 evidence:
   - type: "official_website"
-    url: "https://www.polaris-tek.com"
-    label: "Official website"
+    url: "https://www.polaris-tek.com/"
+    label: "Official homepage: IT infrastructure, digital transformation, Mendix and historical partnership claims"
   - type: "other"
-    url: "https://www.micromindercs.com/blog/cybersecurity-companies-in-jordan"
-    label: "Research source"
+    url: "https://www.polaris-tek.com/about-us/"
+    label: "Official company profile: founded 2010, services and self-reported regional team size"
+  - type: "other"
+    url: "https://www.polaris-tek.com/our-services/"
+    label: "Official service portfolio: consulting, managed services and AWS/Mendix/Oracle/Veeam/VMware competencies"
+  - type: "other"
+    url: "https://www.polaris-tek.com/contact-polaris/"
+    label: "Official contact page: Building 9, Ahmed Al Dalahmeh Street, Amman and telephone"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/polaris-technology/"
+    label: "Company LinkedIn: Sweileh location, 51-200 employees, employer recruitment posts and HR@polaris-tek.com"
+  - type: "other"
+    url: "https://intaj.net/user/1819/"
+    label: "Jordan ICT association directory: Polaris identity and older Building 11 address, conflicting with official site"
+  - type: "other"
+    url: "https://jordanict.com/listings"
+    label: "Jordan ICT directory: Polaris Technology telephone, domain and info@polaris-tek.com"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.99915,35.82995"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=Building+9+Ahmed+Al+Dalahmeh+Street+Sweileh+Amman+Jordan"
+    label: "Address-based map search only; no independently verified entrance pin"
+verification_status: "partial"
+last_verified: "2026-10-27"

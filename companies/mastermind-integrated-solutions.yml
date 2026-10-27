@@ -1,17 +1,18 @@
 name: "Mastermind Integrated Solutions"
-industry: "Enterprise software, Fitness tech"
-website: "http://mastermind-soft.com"
+industry: "Enterprise software / business applications"
+description: "Amman-based software provider offering business management platforms for gyms, human resources, accounting, customer relations, digital signage, hospitality, meeting rooms, performance monitoring, and employee welfare, alongside custom web and mobile development services."
+website: "https://mastermind-soft.com/"
 careers_url: null
 linkedin: null
-hr_email: "info@mastermind-soft.com"
+hr_email: null
 size: null
 location:
   area: "Amman"
   address: null
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "erp"
   - "mobile"
@@ -20,14 +21,34 @@ technologies:
   - "Mobile apps (iOS/Android)"
   - "Web applications"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "Amman-founded software company; Master-Fit gym management system (member tracking, QR check-in, billing, class scheduling) and Master-Welfare employee wellness platform. Contact email publicly listed on their homepage (Jordan — Amman location stated, no street address). No public internship postings found.\nstack research 2026-10-06 (attempt 1): ~6 searches, own site lists products only (marketing copy), no employee profiles, no dev job postings found."
+  early_career_signal: false
+  signals: []
+notes: >-
+  Reviewed 2026-10-24. The company website identifies Amman, Jordan, publishes
+  general contact info@mastermind-soft.com and +962 7 97961065, and describes
+  Master-Fit, Master-Audit, Master-Ads, Master-Meet, Master-Smart,
+  Master-Welfare, Master-CRM, Master-Account and Master-HR. It reports a 2019
+  founding date; this is company self-reporting. Google Play independently
+  links the Mastermind integrated solution publisher to the same website,
+  email and telephone; its Fitness times Android app was updated 2026-08-27
+  and SBODY Jordan was updated 2026-03-13. These are product/distribution
+  signals, not proof of a particular internal engineering stack or headcount.
+  No confirmed company LinkedIn profile, current vacancy, careers page,
+  dedicated HR mailbox, internship or employee-size figure was found. The
+  general contact email is not an HR email. Only city-level location is
+  supported; no physical street address or precise office coordinates were
+  verified. The prior generic Amman map pin was removed. Earlier stack
+  research dated 2026-10-06 found only product marketing and no supported
+  developer job advertisements.
+verification_status: "partial"
+last_verified: 2026-10-24
 evidence:
   - type: "official_website"
-    url: "http://mastermind-soft.com"
-    label: "Official website"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://mastermind-soft.com/"
+    label: "Official website: products, services, founding year, Amman and contact"
+  - type: "other"
+    url: "https://play.google.com/store/apps/details?id=com.app.fitnesstime&hl=en"
+    label: "Google Play: Fitness times by Mastermind integrated solution; updated 2026-08-27"
+  - type: "other"
+    url: "https://play.google.com/store/apps/details?id=com.app.sBodyJordan"
+    label: "Google Play: SBODY Jordan by Mastermind integrated solution; updated 2026-03-13"

@@ -1,49 +1,79 @@
 name: "MarkaVIP"
-industry: "E-commerce (flash-sale fashion retail)"
-website: null
+description: >-
+  MarkaVIP was an Amman-founded fashion and lifestyle flash-sale e-commerce
+  platform launched in 2010 for customers across the Middle East. It was
+  acquired by Jollychic in 2018. Its present operating status and any active
+  Jordan employer presence could not be independently confirmed in October 2026.
+verification_status: "partial"
+last_verified: "2026-10-24"
+industry: "E-commerce / Online Fashion and Lifestyle Retail (historical)"
+website: "https://markavip.com/"
 careers_url: null
-linkedin: "https://www.linkedin.com/company/1317067"
+linkedin: "https://www.linkedin.com/company/markavip"
 hr_email: null
 size: "501-1,000"
 location:
-  area: "Amman"
+  area: "Amman (historical)"
   address: "Mathari Al Naimat Complex, Mecca Al Mukarramah St 174, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.95121
-  longitude: 35.91933
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95121,35.91933"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "ai"
-  - "devops"
   - "ecommerce"
   - "web"
 technologies:
   - "Magento"
-  - "Nginx"
   - "PHP"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman-born flash-sale fashion e-commerce platform (founded 2010, acquired by Jollychic 2018) serving MENA; large Amman tech/ops team - grads can target engineering roles (PHP/Magento). Address from JordanYP verified listing; markavip.com is no longer live (site dead as of Oct 2026)."
+notes: >-
+  Historical company, not a confirmed active Jordan employer as of 2026-10-24.
+  The official domain listed on the company's LinkedIn profile was inaccessible
+  during this review; no functioning official careers page, recent company-authored
+  hiring advertisement, verified HR contact, or current Jordan vacancy was found.
+  LinkedIn's 501-1,000 employee range describes the legacy company profile and
+  must not be interpreted as current headcount. A JordanYP listing last updated
+  2023-09-03 provides the Mecca Street address; CB Insights instead lists an
+  Eighth Circle/Al Amani Building address. Neither establishes a present office.
+  Removed previous Amman-centre coordinates because they were not tied to the
+  stated premises. The 2018 Jollychic acquisition is documented; a 2019 report
+  on Jollychic stopping deliveries in Jordan does not establish MarkaVIP's
+  subsequent corporate closure. Historical Magento/PHP code is suggested by a
+  2013 Stack Overflow example using markavip module namespaces, but this does
+  not verify the current engineering stack. Earlier Nginx, AI and DevOps
+  classifications lacked independent supporting evidence. The historical
+  info@markavip.com general contact appears in a third-party company directory,
+  but its deliverability and recruitment purpose are unverified.
 evidence:
   - type: "linkedin_company"
-    url: "https://www.linkedin.com/company/1317067"
-    label: "LinkedIn company page"
+    url: "https://www.linkedin.com/company/markavip"
+    label: "Company-authored historical overview, founding year and legacy headcount (reviewed 2026-10-24)"
   - type: "other"
     url: "https://www.cbinsights.com/company/markavip"
-    label: "Research source"
+    label: "Acquisition and historical Amman headquarters; conflicting older office address"
   - type: "other"
     url: "https://www.jordanyp.com/company/375999/MarkaVIP"
-    label: "Research source"
+    label: "Directory address and phone, last updated 2023-09-03; current occupancy unconfirmed"
   - type: "other"
     url: "https://leadiq.com/c/markavip/5a1d970a230000530085ac14"
-    label: "Research source"
+    label: "Historical company research directory; current status unverified"
   - type: "other"
     url: "https://discovery.patsnap.com/company/markavip/"
-    label: "Research source"
+    label: "Historical company research reference"
   - type: "other"
     url: "https://www.tipntag.com/place/s/markavip-1-Um-al-Summaq-Amman-Jordan/page/2"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.95121,35.91933"
-    label: "Google Maps location"
+    label: "Historical Amman location listing; not current office confirmation"
+  - type: "other"
+    url: "https://www.bayt.com/en/company/marka-vip-other-locations-1413350/"
+    label: "Historical Amman headquarters and company description; no current vacancy established"
+  - type: "other"
+    url: "https://www.baijing.cn/article/14096"
+    label: "2018 report on acquisition by Jollychic parent company"
+  - type: "other"
+    url: "https://jordantimes.com/news/local/another-popular-online-shopping-platform-shuts-down-jordan-operations"
+    label: "2019 report about Jollychic's Jordan delivery shutdown, not MarkaVIP closure"
+  - type: "other"
+    url: "https://stackoverflow.com/questions/12914501/magento-add-custom-button-to-an-admin-form"
+    label: "2013 Magento/PHP example with markavip module namespaces; historical and indirect"

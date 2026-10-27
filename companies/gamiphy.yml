@@ -1,25 +1,20 @@
 name: "Gamiphy"
-description: "Gamiphy rebranded to Coretava, a software platform for customer loyalty, personalization, retail media and workforce engagement. The current company is headquartered in San Francisco and publicly lists locations in the US, Brazil and Mexico; a current Amman office is not supported by the latest company profile."
+description: "Gamiphy, founded in 2017, rebranded as Coretava, a marketing-technology platform for customer loyalty, CRM, retail media and personalization. The company-operated coretava.com homepage now presents Tavyo OS, an AI-assisted marketing and customer-relationship workspace. Jordan operations were publicly described in 2022, but a current Jordan office or local hiring has not been established."
 verification_status: "partial"
-last_verified: "2026-10-08"
-industry: "Marketing Technology / Gamification SaaS"
-website: "https://coretava.com"
+last_verified: "2026-10-23"
+industry: "Marketing Technology / Customer Engagement SaaS / AI CRM"
+website: "https://coretava.com/"
 careers_url: null
-linkedin: "https://www.linkedin.com/company/coretava"
+linkedin: "https://www.linkedin.com/company/coretava/"
 hr_email: null
-size: "11-50"
+size: "11-50 employees globally (LinkedIn estimate; Jordan headcount unknown)"
 location:
   maps_url: null
   longitude: null
   latitude: null
   status: "unresolved"
   address: null
-  area: "No current Jordan office verified"
-  address: "Amman, Jordan"
-  status: "approximate"
-  latitude: 31.9518
-  longitude: 35.94042
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+  area: "Historical Jordan operations (2022); no current Jordan office confirmed"
 categories:
   - "data"
   - "marketing"
@@ -34,14 +29,37 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Founded 2017 by Aws Alnabulsi and Ahmad Alstaty; gamification SaaS (mini-games, loyalty points, analytics) that embeds into brands' websites and apps; $1.55M pre-Series A (2022, Al Muhallab VC); US HQ (San Francisco), Palestine-founded; ISSF (Jordan) participated in the round; has since rebranded to Coretava. stack verified 2026-10-05: 2 employee GitHub profiles show React/TypeScript frontends + NestJS microservices on MongoDB/RabbitMQ/Redis/Firebase (Sr SWE Mohammed Mara'bi, Mar2024-present; NestJS dev Manar Hasan, Nov2022-Oct2023). NestJS/RabbitMQ noted here (no canonical tag)."
+notes: >-
+  Reviewed 2026-10-23. Coretava's own LinkedIn post announced the rebranding
+  from Gamiphy in 2023. The live coretava.com homepage presents Tavyo OS,
+  described as an AI workspace for marketing, sales, CRM and customer loyalty;
+  a separate /en landing page continues to describe CoreAds, CoreCRM and
+  CoreLoyalty. LinkedIn reports San Francisco headquarters, 11-50 global
+  employees and locations in San Francisco, Sao Paulo and Mexico City; no
+  Jordan office is listed. The Jordan Times reported on 2022-06-09 that
+  Jordan's ISSF invested USD 250,000 in Gamiphy and quoted the CEO describing
+  the company's Jordan operations. This is historical Jordan presence, not
+  evidence of a current Jordan office or employment. An old Amman city-center
+  coordinate (31.9518, 35.94042) was unsupported and removed, along with
+  duplicate location keys. No verified current Jordan street address,
+  precise coordinates, careers page, Jordan vacancy, internship or dedicated
+  HR email was found. The official homepage lists hello@coretava.com for
+  general terms requests and support@coretava.com for support; neither is
+  a recruitment address. A closed 2023 Coretava Mid Back End Engineer job
+  in Ramallah requested Node.js, TypeScript and MongoDB experience and
+  3+ years in engineering; it is not an active or Jordan-specific vacancy.
+  Existing technology tags (Firebase, JavaScript, MongoDB, React, Redis,
+  TypeScript) were preserved from earlier employee-profile research but
+  were not independently reverified as the current internal production
+  stack. Company-level verification remains partial because Jordan
+  employment and physical presence are unresolved.
 evidence:
   - type: "official_website"
     url: "https://gamiphy.co/"
-    label: "Official website"
+    label: "Historical Gamiphy website (pre-rebrand; not a current Jordan office source)"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/gamiphy/"
-    label: "LinkedIn company page"
+    label: "Historical Gamiphy LinkedIn URL; current profile is Coretava"
   - type: "other"
     url: "https://en.arageek.com/top-startups-in-jordan-amman"
     label: "Research source"
@@ -54,9 +72,21 @@ evidence:
   - type: "other"
     url: "https://magnitt.com/startups/coretava-formerly-gamiphy-22907"
     label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
-    label: "Google Maps location"
   - type: "other"
     url: "https://www.linkedin.com/posts/erikbullen_coretava-formerly-gamiphy-linkedin-activity-7054814941643460609-Z-sL"
     label: "Rebrand evidence from Gamiphy to Coretava"
+  - type: "official_website"
+    url: "https://coretava.com/"
+    label: "Official homepage on 2026-10-23: Tavyo OS by Coretava and general contacts"
+  - type: "official_website"
+    url: "https://coretava.com/en"
+    label: "Coretava's English marketing platform page (CoreAds, CoreCRM and CoreLoyalty)"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/coretava/"
+    label: "Current company LinkedIn: global employee range, HQ and listed locations"
+  - type: "other"
+    url: "https://jordantimes.com/news/local/issf-invests-250000-gamiphy-e-commerce-growth-platform"
+    label: "Jordan Times 2022-06-09: ISSF investment and CEO statement on historical Jordan operations"
+  - type: "job_post"
+    url: "https://www.linkedin.com/jobs/view/mid-back-end-engineer-at-coretava-3692132731"
+    label: "Closed 2023 Ramallah backend engineering vacancy; historical technologies, not current Jordan hiring"

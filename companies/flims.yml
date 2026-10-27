@@ -1,47 +1,62 @@
 name: "FLIMS"
-description: "FLIMS was launched in Jordan as a health-tech platform combining at-home or lab diagnostics, health-risk prediction, activity tracking and personalized wellness coaching. Current operating status could not be independently established beyond historical accelerator and product materials, so it should not be treated as a confirmed active employer."
+description: >-
+  FLIMS was presented as a Jordanian preventive-health technology startup in the
+  2021-2022 Flat6Labs Amman seed program. Its proposed web and mobile platform
+  combined diagnostic testing, lab results, wellness coaching, activity tracking,
+  and chronic-disease risk information. Historical company activity is documented,
+  but current operations and active employment were not confirmed as of 2026-10-21.
 verification_status: "unresolved"
-last_verified: "2026-10-08"
-industry: "Health tech, Wellness"
+last_verified: "2026-10-21"
+industry: "Health technology, Preventive wellness"
 website: "https://flims.co"
 careers_url: null
 linkedin: null
-hr_email: "info@flims.co"
+hr_email: null
 size: null
 location:
   maps_url: null
   longitude: null
   latitude: null
-  status: "unresolved"
-  address: null
-  area: "Amman (historical)"
-  address: null
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: null
+  area: "Amman, Jordan (historical accelerator participation; current office unverified)"
 categories:
   - "healthtech"
   - "web"
 technologies:
-  - "Web platform"
+  - "Mobile application (historically described product; implementation unverified)"
+  - "Web platform (historically described product; implementation unverified)"
+  - "Cloud medical data platform (historical product description; infrastructure unverified)"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "'Wellness Measured': at-home diagnostic packages plus subscription wellness plans (from $20/mo) with diet/activity recommendations and disease-risk scoring; Flat6Labs Amman cycle 1. Contact email publicly listed in the Flat6Labs cycle brief; flims.co currently unreachable (server error). No office address published. No public internship postings found.\nstack research 2026-10-06 (attempt 1): ~6 searches, only Flat6Labs accelerator brief and founders' names (Isam Shomaly, Sandra Hovsepian); flims.co down, no employee profiles or dev postings found."
+notes: >-
+  Flat6Labs' 2022 investor brief describes FLIMS as a B2B2C health-tech startup
+  offering diagnostic kits, subscription wellness plans, activity tracking, lab
+  results, wellness coaching, and disease-risk estimates. The 2022 brief identifies
+  Sufian Ahmad as CEO, Khaled Otoum in marketing and sales, Dr. Abd Al Rahman
+  Zuiter in life sciences R&D, and Dr. Hanna Makhamreh in medical R&D; these are
+  historical roles, not verified current appointments. The 2022 FLIMS pitch deck
+  publishes info@flims.co as a general contact, not a verified HR address. The
+  official domain was inaccessible during the 2026-10-21 check. No verified current
+  company LinkedIn profile, employee count, office address, careers page, or open
+  vacancy was found. Generic Amman coordinates previously listed did not identify
+  a specific FLIMS office and have been removed. Current operating status remains
+  unresolved. Names of founders in earlier research notes were not corroborated
+  by the primary 2022 investor brief.
 evidence:
   - type: "official_website"
     url: "https://flims.co"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.flat6labs.com/wp-content/uploads/2022/03/FLIMS.pdf"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.wamda.com/2022/03/startups-graduate-flat6labs-seed-programme-jordan"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Historical official domain; inaccessible during 2026-10-21 check"
+  - type: "company_listing"
+    url: "https://flat6labs.com/fr/Company/flims/"
+    label: "Flat6Labs portfolio entry documenting Jordan and historical product"
   - type: "company_listing"
     url: "https://www.flat6labs.com/wp-content/uploads/2022/03/F6-Jordan-1st-Demo-Day-Investor-Brief.pdf"
-    label: "Flat6Labs investor brief documenting FLIMS product, team and Amman accelerator participation"
+    label: "2022 Flat6Labs investor brief documenting product and historical team"
+  - type: "other"
+    url: "https://www.flat6labs.com/wp-content/uploads/2022/03/FLIMS.pdf"
+    label: "2022 FLIMS pitch deck documenting product and general contact"
+  - type: "other"
+    url: "https://www.wamda.com/2022/03/startups-graduate-flat6labs-seed-programme-jordan"
+    label: "Wamda report dated 2022-03-16 on Flat6Labs Amman graduation"

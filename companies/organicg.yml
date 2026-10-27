@@ -1,37 +1,94 @@
 name: "OrganicG"
-industry: "AgriTech / Organic Fertilizer"
-website: "https://organic-g.com"
+description: >-
+  OrganicG is a Jordanian sustainable-agriculture and organic-fertilizer producer
+  that converts organic waste into liquid and solid agricultural inputs. It
+  develops fertilizer, composting and other organic growing solutions and
+  conducts farmer training and environmental workshops. The company reports
+  headquarters in Amman and a production facility in southern Jordan.
+industry: "Sustainable agriculture / Organic fertilizer manufacturing (AgriTech)"
+website: "https://organic-g.com/"
 careers_url: null
-linkedin: null
-hr_email: "info@organic-g.com"
-size: null
+linkedin: "https://www.linkedin.com/company/organicg-solutions"
+hr_email: "hr@organic-g.com"
+size: "2-10"
 location:
-  area: "Amman"
-  address: "Wasfi Al-Tal Street, Amman"
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  area: "Amman (headquarters)"
+  address: "Wasfi Al-Tal Street, Amman, Jordan (company-published headquarters; no building number)"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Wasfi+Al-Tal+Street+Amman+Jordan"
 categories:
-  - "iot"
-technologies: []
+  - "agritech"
+technologies:
+  - "SolidWorks / Fusion 360 / PTC Creo (alternative CAD qualifications in a historical industrial-design job; internal usage not confirmed)"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Turns organic waste into affordable high-efficiency organic fertilizers; joined Zain's ZINC accelerator (July 2025, JOD 10k + logistical support); GM Mousa Samara. More production than software - no IT roles evidenced. stack research 2026-10-05: 2 searches, no employee profiles or dev postings found; production-focused fertilizer startup, no IT roles evidenced."
+  early_career_signal: true
+  signals:
+    - "Historical OrganicG Junior Industrial Design Engineer advertisement in Amman invited fresh graduates and applications to hr@organic-g.com; LinkedIn now says applications are closed."
+    - "2026 Sajjil listings under Green Culture for Agricultural Fertilizer Production (OrganicG) advertised no-experience agricultural engineering and digital marketing training-to-employment roles; their October 2026 deadlines have passed."
+    - "Sajjil listed five production/packing training-to-employment places in Aqaba, posted 2026-09-14, requiring no previous experience and showing a 2026-11-14 deadline; current application acceptance was not independently confirmed."
+    - "OrganicG reported welcoming trainees through the Ministry of Digital Economy and Entrepreneurship/INJAZ Training in Startups program on 2026-05-20; no new intake or currently accepting internship was verified."
+notes: >-
+  Reviewed 2026-10-26. Official website confirms organic fertilizers, composting
+  products, educational workshops and CEO Mousa Samara. LinkedIn reports a 2024
+  founding year, Amman headquarters and 2-10 employees; this is a company-profile
+  estimate, not audited Jordan headcount. Official contact page lists headquarters
+  only at Wasfi Al-Tal Street in Amman and a factory in Al Quwayrah Industrial
+  Area; an August 2026 company article describes production in Ma'an. These
+  southern-Jordan descriptions were not reconciled to a surveyed facility or
+  building address. Removed prior coordinates 31.9539,35.9106, which represented
+  a generic Amman point, not the company's premises. Map URL is a street search,
+  not an office pin. General contact info@organic-g.com and sales phone
+  +962 79 10 54321 are published on the official site. The historical company
+  job advert explicitly gave hr@organic-g.com for applications, but its present
+  monitoring status is unknown. Government Sajjil listings establish hiring
+  history and an advertised future deadline for an Aqaba production role, not
+  a confirmed currently accepting vacancy. A 2025 ZINC accelerator announcement
+  reported JOD 10,000 support and one year of logistical assistance. OrganicG's
+  own 2026 updates describe youth trainees and production activity. Industrial
+  CAD tools appear as alternatives in a closed design job, not a verified
+  production software stack; no internal IT stack or software-engineering role
+  was established. Previous iot category was removed because no company IoT
+  product or deployment could be corroborated. Headquarters location and
+  corporate identity are supported, but exact premises, workforce, current
+  recruiting availability and internal technology remain incompletely verified.
 evidence:
   - type: "official_website"
-    url: "https://organic-g.com"
-    label: "Official website"
-  - type: "other"
+    url: "https://organic-g.com/"
+    label: "Official site: business, products, team and dated 2026 updates; reviewed 2026-10-26"
+  - type: "official_website"
+    url: "https://organic-g.com/contact/"
+    label: "Official headquarters street, Al Quwayrah factory, general email and sales phone"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/organicg-solutions"
+    label: "Company-reported Amman HQ, 2024 founding year and 2-10 employee range"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/junior-industrial-design-engineer-at-organicg-4280776066"
+    label: "Closed entry-level Amman design job: historical HR email and alternative CAD skills"
+  - type: "job_post"
+    url: "https://www.sajjil.gov.jo/opportunities/52128/info"
+    label: "Government employment portal: 2026-09-14 Aqaba production/packing training-to-employment listing, deadline 2026-11-14"
+  - type: "job_post"
+    url: "https://sajjil.gov.jo/opportunities/49965/info"
+    label: "Government portal: no-experience Amman agricultural engineer listing, deadline 2026-10-01"
+  - type: "job_post"
+    url: "https://www.sajjil.gov.jo/opportunities/50197/info"
+    label: "Government portal: digital marketing training-to-employment listing, deadline 2026-10-02"
+  - type: "official_website"
+    url: "https://organic-g.com/news/organicg-partners-with-the-ministry-of-digital-economy-and-entrepreneurship-and-injaz-to-support-youth-training/"
+    label: "2026-05-20 company announcement: Training in Startups participants"
+  - type: "official_website"
+    url: "https://organic-g.com/news/partners-for-good-agreement/"
+    label: "2026-03-01 company announcement: planned vocational training collaboration"
+  - type: "official_website"
+    url: "https://organic-g.com/ar/news/%D9%8A%D8%A8%D8%AF%D8%A7-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D9%81%D9%8A-%D9%85%D8%B9%D8%A7%D9%86-organicg/"
+    label: "2026-08-03 company production update referring to Ma'an"
+  - type: "official_website"
     url: "https://organic-g.com/blog/fertilizer-inputs/"
-    label: "Research source"
+    label: "Existing company-authored 2026 fertilizer-inputs research article"
   - type: "other"
     url: "https://www.jordanpulse.com/article/8725"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.foodnavigator.com/Article/2024/11/14/meet-the-14-agtech-start-ups-set-to-take-centre-stage-at-world-agri-tech-measa/?int_campaign=Headlines&int_campaign_type=Right_column"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "2025-07-22 ZINC accelerator agreement, JOD 10,000 support and general manager"
+verification_status: "partial"
+last_verified: "2026-10-26"

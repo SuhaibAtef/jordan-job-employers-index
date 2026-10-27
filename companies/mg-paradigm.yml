@@ -1,37 +1,75 @@
 name: "MG Paradigm"
-industry: "RegTech / GRC Software"
-website: "https://www.mgparadigm.com"
+description: >-
+  MG Paradigm is a Jordan-founded (2015) RegTech software company developing
+  the Rabbit-Hole governance, risk and compliance (GRC) suite. Its products
+  support regulatory compliance management, operational risk, internal audit
+  and business continuity for regulated organizations; it reports offices
+  in Amman and Dubai.
+industry: "RegTech / Governance, Risk and Compliance (GRC) Software"
+website: "https://www.mgparadigm.com/"
 careers_url: null
-linkedin: null
-hr_email: null
-size: null
+linkedin: "https://www.linkedin.com/company/mg-paradigm/"
+hr_email: "halahla@mgparadigm.com"
+size: "11-50"
 location:
   area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: "Sweifieh, Bakheet Al-Issa Street, Building 1, Office 101, Amman, Jordan"
+  status: "unresolved"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "devops"
   - "security"
 technologies:
   - "GRC"
+  - "SQL"
+  - "Postman"
+  - "Jira"
+  - "Azure DevOps"
+  - "Selenium"
+  - "Playwright"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false
   signals:
-    - "Internship"
-notes: "Amman-based RegTech software house (founded 2015, offices Amman + Dubai); Rabbit-Hole GRC platform (regulatory compliance, operational risk, internal audit, business continuity) deployed in 13+ countries, on-premise and cloud. No internship evidence found."
+    - >-
+      Company LinkedIn advertised a full-time Software Testing & Quality
+      Assurance Specialist role in Amman in 2026, asking for 2+ years of
+      experience; current application acceptance is unconfirmed.
+notes: >-
+  Reviewed 2026-10-25. Official company site confirms founding in Jordan
+  in 2015 and Rabbit-Hole GRC products; LinkedIn lists 11-50 employees
+  company-wide and Dubai as headquarters, without a verified Jordan-only
+  headcount. The current official contact page lists Sweifieh, Bakheet
+  Al-Issa Street, Building 1, Office 101, Amman, whereas the company
+  LinkedIn location lists Al Tamimi Complex, Building 11, floor 4, Jabal
+  Amman (3rd Circle). Because these addresses conflict, present office
+  occupancy and precise coordinates remain unresolved; removed prior
+  city-center coordinates and map pin. Company LinkedIn's 2026 QA vacancy
+  directs CVs to halahla@mgparadigm.com; this is a documented application
+  address, not a confirmed general HR mailbox. The official general contact
+  is support@mgparadigm.com. The QA vacancy specifies SQL and Postman,
+  Jira or Azure DevOps (alternatives), and Selenium or Playwright as
+  desirable rather than required; these are recruitment signals, not
+  verified production deployments. No current internship, graduate
+  program, or dedicated careers page was independently confirmed.
+  Previously recorded internship signal was unsupported and removed.
+  The former devops category lacked company-specific support and was
+  removed; security is retained for the GRC/regulatory-risk product domain.
 evidence:
   - type: "official_website"
-    url: "https://www.mgparadigm.com"
-    label: "Official website"
+    url: "https://www.mgparadigm.com/"
+    label: "Official site: GRC product portfolio and Jordan operations"
+  - type: "official_website"
+    url: "https://www.mgparadigm.com/Home/About"
+    label: "Official about page: founding, offices, Rabbit-Hole suite"
   - type: "other"
-    url: "https://www.mgparadigm.com/Pages/SinglePage/20"
-    label: "Research source"
+    url: "https://www.mgparadigm.com/Home/Contact"
+    label: "Official contact: Sweifieh address and general support email"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/mg-paradigm/"
+    label: "Company LinkedIn: employee range, alternative Amman address and 2026 QA recruitment post"
   - type: "other"
-    url: "https://www.mgparadigm.com/Team/AllTeam"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://jordanict.com/2023/company-listings/mg-paradigm"
+    label: "Jordan ICT directory: historical Amman company listing"
+verification_status: "partial"
+last_verified: "2026-10-25"

@@ -1,34 +1,77 @@
 name: "Ordon Auto"
-industry: "Automotive Marketplace"
+description: >-
+  Ordon Auto is a Jordan-focused online automotive marketplace connecting private
+  sellers, vehicle showrooms and official dealers with buyers. Its website and
+  iOS/Android applications offer no-fee car and distinctive number-plate listings,
+  seller contact, moderated listings, dealer storefronts and AI-assisted vehicle
+  identification from uploaded photos.
+industry: "Internet / Automotive classifieds and marketplace"
 website: "https://ordonauto.com"
 careers_url: null
-linkedin: null
-hr_email: null
-size: null
+linkedin: "https://www.linkedin.com/company/ordonauto/"
+hr_email: "info@ordonauto.com"
+size: "2-10"
 location:
-  area: "Amman"
+  area: "Amman (Seventh Circle, company-reported)"
   address: null
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Seventh+Circle+Amman+Jordan"
 categories:
+  - "ai"
   - "ecommerce"
+  - "mobile"
+  - "web"
 technologies:
-  - "Distinctive plate number marketplace"
-  - "Online car marketplace platform"
-  - "Verified showrooms and official dealers"
+  - "Web-based automotive and number-plate marketplace (customer-facing product; internal stack unverified)"
+  - "iOS and Android mobile applications (publicly released; native languages and frameworks unverified)"
+  - "AI-assisted vehicle photo recognition for make, model and specifications (advertised product feature; implementation unverified)"
+  - "Dealer/showroom storefront and listing-management tools (documented product features)"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Jordan-based online car buying/selling marketplace ('Jordan's Largest Car Marketplace'); connects buyers, private sellers, showrooms and official dealers.; stack research 2026-10-05: 3 searches + site visit; ordonauto.com is a live bilingual car marketplace but no employee profiles or dev postings found"
+  early_career_signal: true
+  signals:
+    - "Historical entry-level Social Media Content Creator posting in Amman described a full-time hybrid role; LinkedIn states applications are no longer accepted."
+    - "The closed posting directed CVs and portfolios to info@ordonauto.com, a general inbox used for that recruitment; it is not a dedicated HR address."
+    - "No currently accepting Jordan vacancy, software-engineering opening, internship or graduate program was confirmed on 2026-10-26."
+notes: >-
+  Reviewed 2026-10-26. The official company website documents the automotive
+  classifieds business, founder Mohammad Al Saheb, an in-house IT team, an
+  in-house marketing team and AI-assisted listing features. LinkedIn identifies
+  founding year 2026, partnership type, 2-10 employees and a primary location
+  around Amman's Seventh Circle (postal code 12111); the headcount is a
+  platform-reported range, not audited. Neither LinkedIn nor the official
+  contact page establishes a building-level office address, current occupancy
+  or precise entrance coordinates. Previous coordinates 31.9539,35.9106
+  were a generic Amman point and have been removed; the map link is only a
+  Seventh Circle area search, not an office pin. Official pages publish
+  info@ordonauto.com for general inquiries and support@ordonauto.com for
+  customer support. A historical employer-branded entry-level marketing
+  posting explicitly accepted applications via info@ordonauto.com but is
+  closed; no current recruiting mailbox or careers portal was verified.
+  The website footer says ORDON AUTO - Supply and Demand for Marketing, and
+  the Apple App Store lists Supply and demand for marketing as the app
+  developer; corporate registration and ownership were not independently
+  established. The website and app-store listing support shipped products,
+  but do not establish programming languages, cloud provider, deployment
+  architecture or internal engineering stack. No active engineering job was
+  found. The company remains partially verified despite the reported Amman
+  presence and functioning marketplace.
 evidence:
   - type: "official_website"
-    url: "https://ordonauto.com"
-    label: "Official website"
+    url: "https://ordonauto.com/about"
+    label: "Official company profile: marketplace, founder, team, AI-assisted listings and mobile apps; reviewed 2026-10-26"
+  - type: "official_website"
+    url: "https://ordonauto.com/contacts"
+    label: "Official contact page: support and general emails; no office address or dedicated HR mailbox"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/ordonauto/"
+    label: "Company-reported founding year, 2-10 employees and Amman Seventh Circle location"
   - type: "other"
-    url: "https://medium.com/@cyberninjagaming01/meet-ordon-auto-an-innovative-buying-selling-platform-for-jordans-automotive-community-afe51d8d0134"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://apps.apple.com/us/app/ordon-auto/id6781424318"
+    label: "Apple App Store listing confirms released iOS app and named developer; does not prove internal stack"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/social-media-content-creator-at-ordonauto-4427363689"
+    label: "Historical entry-level Amman content creator role, now closed; general email accepted applications"
+verification_status: "partial"
+last_verified: "2026-10-26"

@@ -1,39 +1,94 @@
 name: "Monty Mobile"
-industry: "Telecommunications / SMS Hub & VAS"
+description: >-
+  London-headquartered telecom technology provider offering international A2P
+  messaging and SMS hubbing, communications-platform-as-a-service (CPaaS),
+  eSIM connectivity, operator monetization, and messaging anti-fraud products.
+  Monty Group's published office directory includes an Amman, Jordan location.
+industry: "Telecommunications / CPaaS / Enterprise messaging and connectivity"
 website: "https://montymobile.com/"
 careers_url: null
-linkedin: null
-hr_email: null
-size: "300+"
+linkedin: "https://www.linkedin.com/company/monty-mobile/"
+hr_email: "hr@montymobile.com"
+size: "501-1000"
 location:
-  area: "Amman"
-  address: "Office 501, Campbell Grey Living, Al-Weibdeh, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  area: "Al-Weibdeh, Amman"
+  address: "Office 501, Campbell Grey Living, Land Number 851, Al-Waibdeh - Al-Wastani Basin, Amman, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "telecom"
 technologies:
   - "SMS Gateway"
+  - "A2P SMS"
+  - "P2P/P2A SMS hubbing"
+  - "CPaaS"
+  - "RCS messaging"
+  - "eSIM"
+  - "SMS firewall"
+  - "REST API (customer-facing integration)"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "GSMA-certified SMS hub and roaming broker (300+ staff, 11 offices incl. Amman); signed as Zain Jordan's exclusive international A2P SMS provider; VAS/BSS and SMS-monetization products. No public internship/grad evidence found."
+  early_career_signal: false
+  signals: []
+notes: >-
+  Reviewed 2026-10-25. Monty Mobile's official site confirms global telecom,
+  CPaaS, A2P SMS, eSIM, RCS, SMS firewall, and API integration offerings.
+  The affiliated Monty Capital/Monty Group website explicitly publishes
+  Office 501, Campbell Grey Living, Land Number 851, Al-Waibdeh - Al-Wastani
+  Basin as Monty Mobile's Jordan office; an independent Amman directory
+  corroborates the same address, but current physical occupancy was not
+  independently inspected. Previous 31.9539,35.9106 coordinates were generic
+  Amman coordinates and were removed; entrance-level coordinates are unknown.
+  LinkedIn reports 501-1000 global employees and London headquarters; current
+  Jordan headcount is not known. hr@montymobile.com was advertised in a
+  company-authored LinkedIn recruiting post about three years earlier; it is
+  a historical group-wide application mailbox, not confirmed current or
+  Jordan-specific. No dedicated official careers portal, currently accepting
+  Jordan vacancy, internship, or graduate intake was confirmed. A 2026
+  company-authored Software Engineer vacancy in Beirut, Lebanon lists Java
+  or C#.NET, React, Next.js, PostgreSQL and RabbitMQ requirements; those are
+  recruitment signals for Lebanon, not proof of Jordan's internal stack.
+  Listed technologies describe verified products and customer integrations,
+  not a confirmed internal software engineering stack in Amman. The prior
+  internship flag had no supporting evidence and was cleared. Recent August
+  2026 corporate investment news confirms company activity, not Jordan hiring.
 evidence:
   - type: "official_website"
     url: "https://montymobile.com/"
-    label: "Official website"
+    label: "Official global site; CPaaS, RCS, eSIM and telecom product portfolio"
+  - type: "official_website"
+    url: "https://montymobile.com/about-us/"
+    label: "Official company description, worldwide reach and in-house platform development"
+  - type: "official_website"
+    url: "https://montymobile.com/products/a2p-messaging/"
+    label: "Official A2P SMS platform and fraud-prevention capabilities"
+  - type: "official_website"
+    url: "https://montymobile.com/products/p2p-p2a-sms-hubbing/"
+    label: "Official SMS hubbing product and API integrations"
+  - type: "official_website"
+    url: "https://montymobile.com/products/a2p-sms-monetization/"
+    label: "Official A2P monetization product; customer-facing REST APIs"
+  - type: "official_website"
+    url: "https://montymobile.com/products/sms-firewall/"
+    label: "Official messaging firewall product"
+  - type: "official_website"
+    url: "https://montycapital.com/about-us"
+    label: "Monty Group affiliate page; published Monty Mobile Jordan office address"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/monty-mobile/"
+    label: "Company LinkedIn; global 501-1000 size, London headquarters, current activity"
+  - type: "job_post"
+    url: "https://lb.linkedin.com/posts/monty-mobile_montymobile-ai-developpersonbusiness-activity-7024029865884426240-sJ0b"
+    label: "Company-authored historical recruitment post with group HR mailbox"
+  - type: "job_post"
+    url: "https://lb.linkedin.com/jobs/view/software-engineer-at-monty-mobile-4482051373"
+    label: "2026 Lebanon engineering vacancy; stack requirements not Jordan-specific"
   - type: "other"
-    url: "https://india.entrepreneur.com/leadership/monty-mobiles-ceo-is-transforming-mobile-operators-into/340454"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.eyeballsandclicks.com/article/314483190-zain-jordan-signs-a-global-agreement-with-monty-mobile-to-terminate-a2p-sms"
-    label: "Research source"
-  - type: "other"
-    url: "https://ccnewwebsite.s3.amazonaws.com/static/ccnewwebsite/application_document/dced4c01-8408-475a-9067-907bde04dcd0.pdf"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://www.bizmideast.com/JO/monty-mobile-jordan-07-9902-8865"
+    label: "Independent Jordan business listing; office address and historical telephone"
+  - type: "official_website"
+    url: "https://montymobile.com/newsroom/monty-mobile-secures-us12-million-investment-from-bluepeak-to-expand-digital-infrastructure-across-africa/"
+    label: "August 11, 2026 company investment announcement; global activity"
+verification_status: "partial"
+last_verified: "2026-10-25"

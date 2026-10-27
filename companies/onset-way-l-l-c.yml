@@ -1,36 +1,87 @@
 name: "Onset Way L.L.C"
-industry: "Cybersecurity"
-website: null
-careers_url: null
+description: >-
+  Onset Way L.L.C is an Amman-based IT services and consulting provider
+  offering custom software and web development, cybersecurity, cloud and
+  networking services, AI solutions, IT support, hardware services, ERP
+  integration and digital marketing. Its company-authored recruitment
+  posts document junior-level technical hiring in Amman.
+industry: "IT services and consulting / Cybersecurity / Software development"
+website: "https://www.onsetway-it.com/"
+careers_url: "https://www.onsetway-it.com/careers/"
 linkedin: "https://www.linkedin.com/company/onset-way-l-l-c"
 hr_email: "info@ow-jo.com"
-size: null
+size: "2-10"
 location:
   area: "Amman"
-  address: "Near the 4th Circle, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.95616
-  longitude: 35.89599
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95616,35.89599"
+  address: "46, Azal Plaza, Queen Nour Street, Amman 11191, Jordan"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=46%20Azal%20Plaza%20Queen%20Nour%20Street%20Amman%20Jordan"
 categories:
   - "security"
+  - "web"
+  - "ai"
 technologies:
-  - "EDR/XDR"
-  - "Firewalls"
-  - "Penetration Testing"
-  - "VPN"
+  - "Firewalls, VPNs, endpoint protection and vulnerability assessment (cybersecurity job requirements; actual deployed products unverified)"
+  - "Python and AI/ML frameworks such as TensorFlow, PyTorch or scikit-learn (AI Engineer job requirements; specific internal stack unverified)"
+  - "HTML, CSS and JavaScript (front-end developer job requirements)"
+  - "React, Angular or Vue familiarity (front-end job alternatives, not confirmed deployed frameworks)"
+  - "REST APIs and Git (AI Engineer recruitment requirements)"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Junior"
-notes: "Small Amman cybersecurity company; recently hiring a Cyber Security Specialist (0-2 years experience, Security+/CEH a plus) - explicitly junior-friendly."
+    - "Company-authored Cyber Security Specialist recruitment post requested 0-2 years of experience in Amman."
+    - "Company-authored Front-End Developer recruitment post requested 1-2 years of experience."
+    - "Company-authored AI Engineer recruitment post requested 1-3 years of experience."
+    - "Company-authored Help Desk Support Technician recruitment post preferred previous experience but did not require a stated minimum."
+    - "Recent company LinkedIn advertisements directed CVs to info@ow-jo.com; whether applications remain open on 2026-10-26 is unconfirmed."
+notes: >-
+  Reviewed 2026-10-26. Official website and company LinkedIn profile
+  identify the firm as an Amman IT consultancy offering security,
+  programming, cloud, AI, networking and digital marketing services.
+  LinkedIn reports 2-10 employees, a platform-reported range rather
+  than audited Jordan headcount. Both the official website and company
+  LinkedIn profile publish 46 Azal Plaza, Queen Nour Street, Amman;
+  current occupancy and exact entrance coordinates were not independently
+  verified. Hiring posts instead describe the work location as near
+  the 4th Circle, which may be a different site or a broad landmark;
+  the discrepancy is unresolved. Removed the previous 31.95616,
+  35.89599 coordinates because they were not tied reliably to the
+  published street address. The website publishes support@ow-jo.com
+  for general support and +962 6 567 3053 for its office. The
+  company-authored job advertisements repeatedly direct applications
+  to info@ow-jo.com, so this is a documented recruitment inbox but
+  not a separately verified dedicated HR department. The official
+  careers page currently renders only a loading message to a text
+  client; no currently accepting vacancy could be confirmed there.
+  The LinkedIn posts are historical hiring evidence, not proof that
+  roles remain open today. No formal internship or graduate program
+  was verified. Skills and frameworks listed under technologies are
+  recruitment requirements or alternatives, not audited production
+  infrastructure. Earlier EDR/XDR and penetration-testing specifics
+  were not independently established as deployed tools or services.
+verification_status: "partial"
+last_verified: "2026-10-26"
 evidence:
+  - type: "official_website"
+    url: "https://www.onsetway-it.com/"
+    label: "Official IT services, programming, cybersecurity, AI, cloud and contact address; reviewed 2026-10-26"
+  - type: "careers_page"
+    url: "https://www.onsetway-it.com/careers/"
+    label: "Official careers page; dynamic loading prevents confirmation of accepting openings"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/onset-way-l-l-c"
-    label: "LinkedIn company page"
-  - type: "other"
+    label: "Company profile: Amman, 2-10 staff band, published Azal Plaza address and employer-authored hiring posts"
+  - type: "job_post"
     url: "https://www.linkedin.com/posts/onset-way-l-l-c_hiring-nowhiring-cybersecurity-activity-7478425225777299458-dv9K"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.95616,35.89599"
-    label: "Google Maps location"
+    label: "Company-authored junior Cyber Security Specialist advertisement: 0-2 years and info@ow-jo.com"
+  - type: "official_website"
+    url: "https://www.ow-jo.com/get-a-quote?lang=ar"
+    label: "Earlier company contact page corroborates company-published Azal Plaza address and support contact"
+  - type: "official_website"
+    url: "https://www.onsetway-it.com/digital-marketing/"
+    label: "Official digital marketing service description"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/mustafa-thaer-87901a286_hiring-at-onsetwayback-end-web-developer-activity-7478808463234457601-MX6r"
+    label: "Recruitment repost describing Amman back-end requirements; not evidence of actual deployed stack"

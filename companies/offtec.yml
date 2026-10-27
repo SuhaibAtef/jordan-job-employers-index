@@ -1,40 +1,108 @@
 name: "Offtec"
-industry: "IT Solutions / Network Security"
-website: "http://www.offtec.com/"
-careers_url: null
-linkedin: null
-hr_email: null
-size: null
+description: >-
+  OFFTEC Jordan is an Amman-based business technology solutions provider within
+  OFFTEC Holding Group. It supplies banking and payment technologies, enterprise
+  IT infrastructure, cybersecurity, digital transformation, software, office
+  technology and physical security solutions to organizations in Jordan.
+industry: "Business technology solutions / Systems integration / Cybersecurity"
+website: "https://www.offtec.com/jordan"
+careers_url: "https://www.offtec.com/en-us/careers/"
+linkedin: "https://www.linkedin.com/company/offtec"
+hr_email: "hr@offtec.com"
+size: "201-500"
 location:
   area: "Amman"
-  address: "12 Queen Misbah Street, 3rd Circle, Amman 11118, Jordan"
-  status: "provided_unverified"
-  latitude: 31.955352
-  longitude: 35.912939
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.955352,35.912939"
+  address: "12 Queen Misbah Street, Third Circle, Amman 11118, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=OFFTEC+Jordan+12+Queen+Misbah+Street+Amman"
 categories:
   - "security"
+  - "web"
 technologies:
   - "Firewalls"
   - "IAM"
   - "Penetration Testing"
+  - "Network Access Control (NAC)"
+  - "Web Application Firewall (WAF)"
+  - "Fortinet"
+  - "Forcepoint"
+  - "C#"
+  - "ASP.NET Core"
+  - ".NET Core"
+  - "REST API"
+  - "Microsoft SQL Server"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman business technology group with an IT security department since 2004 (first Microsoft Gold Security Partner in Jordan); sells WAF, SWG/SEG, DDoS protection and NAC solutions."
+  early_career_signal: true
+  signals:
+    - "Historical Jordan software developer recruitment requested 1-3 years of experience (2025); current opening unconfirmed"
+    - "Historical Jordan technical-support recruitment requested 1-2 years of experience; current opening unconfirmed"
+    - "Jordan IT infrastructure sales recruitment advertised in 2026; current application status unconfirmed"
+notes: >-
+  Reviewed 2026-10-26. OFFTEC Jordan's official site confirms the Amman
+  subsidiary was established in 1947, while the wider OFFTEC business traces
+  its origins to 1910; these dates describe different organizational scopes.
+  Official contact details and the company LinkedIn profile corroborate
+  12 Queen Misbah Street, Third Circle, Amman. The address is verified as
+  published, not by an independent occupancy inspection. Existing coordinates
+  31.955352, 35.912939 were removed because no reliable building-level source
+  linked that precise point to the headquarters; the map link now searches
+  by address. LinkedIn reports 201-500 employees for its company profile,
+  while the official Jordan About Us page displays 200 employees; neither
+  is an independently audited current Jordan headcount. hr@offtec.com was
+  published in company-affiliated recruitment posts, including a 2026 Jordan
+  sales role, but the mailbox's current monitoring was not tested. The group
+  careers page displays older 2018-2022 Palestine listings and does not
+  establish an accepting Jordan vacancy. Past Jordan software, technical
+  support and sales recruitment supports a historical hiring signal, not a
+  current internship or graduate program. Security products are marketed
+  services/partner technologies; C#, ASP.NET Core, .NET Core, REST API and
+  Microsoft SQL Server are historical job requirements, not an audited
+  internal production stack. The earlier broad IT-security description was
+  expanded to reflect banking, infrastructure and office technology services.
+verification_status: "partial"
+last_verified: "2026-10-26"
 evidence:
   - type: "official_website"
-    url: "http://www.offtec.com/"
-    label: "Official website"
+    url: "https://www.offtec.com/jordan"
+    label: "Official Jordan company overview, scope and published contact; checked 2026-10-26"
+  - type: "official_website"
+    url: "https://www.offtec.com/jordan/about-us/"
+    label: "Jordan subsidiary history and site-displayed 200-employee figure; checked 2026-10-26"
+  - type: "official_website"
+    url: "https://www.offtec.com/jordan/contact-us/"
+    label: "Official Third Circle, 12 Queen Misbah Street address and general contact; checked 2026-10-26"
+  - type: "official_website"
+    url: "https://www.offtec.com/jordan/products/"
+    label: "Official banking, IT infrastructure, digital transformation, software and security portfolio"
+  - type: "official_website"
+    url: "https://www.offtec.com/jordan/products/network-security"
+    label: "Official firewalls, NAC and penetration testing services; checked 2026-10-26"
+  - type: "official_website"
+    url: "https://www.offtec.com/jordan/products/endpoint-security/"
+    label: "Official IAM and endpoint security offerings; checked 2026-10-26"
+  - type: "official_website"
+    url: "https://www.offtec.com/jordan/products/web-and-email-security/"
+    label: "Official WAF, Fortinet and Forcepoint security partner offerings"
+  - type: "careers"
+    url: "https://www.offtec.com/en-us/careers/"
+    label: "Official group careers page with older Palestine vacancies; no current Jordan opening confirmed on 2026-10-26"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/offtec"
+    label: "Company profile, 201-500 employee range, specialties and Amman headquarters address"
+  - type: "linkedin_employee"
+    url: "https://www.linkedin.com/posts/zaid-shahatit-22704735_offtec-jordan-is-looking-to-hire-software-activity-7318521998710587392-DOB7"
+    label: "Historical Jordan software developer recruitment with 1-3 years' experience and hr@offtec.com"
+  - type: "linkedin_employee"
+    url: "https://www.linkedin.com/posts/mqtaishat_offtec-jordan-is-seeking-a-sales-executive-activity-7460608756536541184-eGkg"
+    label: "2026 Jordan IT sales recruitment with hr@offtec.com; current acceptance unconfirmed"
   - type: "other"
-    url: "https://www.furniture1000.com/JO/Amman/121217981282163/OFFTEC"
-    label: "Research source"
+    url: "https://www.waze.com/live-map/directions/jo/amman-governorate/amman/offtec-jordan?to=place.ChIJZVRr7nigHBUR_O1Zs7wECQs"
+    label: "Independent map listing corroborating street address; not a surveyed coordinate"
   - type: "other"
     url: "https://www.micromindercs.com/blog/amman-ot-security-cybersecurity-companies"
-    label: "Research source"
+    label: "Secondary description of OFFTEC's security offerings; corroboration only"
   - type: "other"
     url: "https://www.thefreelibrary.com/OFFTEC+first+MS+Gold+Security+Partner+in+Jordan-a0183536979"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.955352,35.912939"
-    label: "Google Maps location"
+    label: "Historical security-partnership report; not evidence of current status"

@@ -1,13 +1,14 @@
 name: "PandoSoft"
-industry: "Custom software development"
-website: "https://www.pando-soft.com"
+description: "Amman-based custom software and AI-assisted product engineering studio delivering web and mobile applications, e-commerce platforms, UI/UX design, ERP integrations and MVP development for regional and international clients."
+industry: "Custom software development and IT consulting"
+website: "https://www.pando-soft.com/en/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/pandosoft"
 hr_email: null
-size: "10-49"
+size: "11-50"
 location:
   area: "Amman"
-  address: "Mecca Street, Ghaith Center, 4th Floor, Amman, Jordan 11821"
+  address: "Mecca Street, Al Ghaith Center, 4th Floor, Amman 11821, Jordan"
   status: "verified"
   latitude: 31.9759311
   longitude: 35.8580513
@@ -15,41 +16,65 @@ location:
 categories:
   - "ai"
   - "devops"
+  - "ecommerce"
   - "mobile"
   - "web"
 technologies:
-  - ".NET"
-  - "AI/ML"
   - "AWS"
+  - "CSS"
+  - "Figma"
   - "Firebase"
   - "Flutter"
   - "Google Cloud"
-  - "Java"
+  - "HTML"
   - "JavaScript"
-  - "Node.js"
-  - "PHP"
-  - "Python"
+  - "Odoo"
   - "Vue.js"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Custom software/mobile/web dev house (founded 2020, Amman) serving SMB/midmarket clients. Audit 2026-10-03: existing coords corroborated by geocode of 'Ghaith Center, Mecca Street' (same pin returned) — confirmed as-is, kept approx=true (moderate confidence). GPS VERIFIED 2026-10-04: company-owned archived contact page (2023-10-04) stated '4th floor, 167 Ghaith Center, Mecca Street, Amman, Jordan' with embedded Google Map link; claimed Google Maps listing labels 'Fourth Floor, ALGhaith Center, Mecca St., Amman, Jordan' (pin 31.9759311, 35.8580513, owner photos, category 'Software company'); Clutch/Vendorland/Cybo/Krowdbase agree. Bar met: authoritative company source + claimed Maps pin + 4 independent directories."
+notes: >-
+  Reviewed 2026-10-27. Official website currently presents PandoSoft as an AI-native
+  engineering studio in Amman, advertising rapid MVP delivery and product engineering;
+  these are company claims, not independent confirmation of every product or AI tool.
+  LinkedIn lists 11-50 employees (platform estimate, not audited Jordan headcount).
+  The historical company contact page and third-party business listings place the
+  office on the fourth floor of Al Ghaith Center on Mecca Street; the previously
+  corroborated business-map pin is retained, but current physical occupancy and
+  precise entrance coordinates were not independently inspected. Current official
+  contact page publishes hello@pando-soft.com and +962 6 582 2112 for general
+  inquiries, not a dedicated HR mailbox. Client interviews published by Clutch
+  document JavaScript, AWS, Flutter and Figma for SYGMA; Vue.js, Firebase and Google
+  Cloud for ABN Pay; Odoo for an ERP project; and HTML/CSS for a web project.
+  These are historical client-project technologies, not proof that all remain in
+  current internal use. No current employer-authored vacancy, internship, graduate
+  intake or dedicated careers page was confirmed; no early-career hiring signal
+  is asserted. Full company verification remains incomplete despite the location
+  listing being corroborated.
 evidence:
   - type: "official_website"
-    url: "https://www.pando-soft.com"
-    label: "Official website"
+    url: "https://www.pando-soft.com/en/"
+    label: "Official site: engineering services, Amman presence and contact"
   - type: "other"
-    url: "https://web.archive.org/web/20231004092837/https://pando-soft.com/en/contact-us/"
-    label: "Location evidence"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/place/PandoSoft/@31.9759311,35.8554764,17z/"
-    label: "Location evidence"
+    url: "https://pando-soft.com/en/contact-us"
+    label: "Official contact page: general email and telephone"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/pandosoft"
+    label: "LinkedIn company profile: size and Mecca Street headquarters"
   - type: "other"
     url: "https://clutch.co/profile/pandosoft"
-    label: "Location evidence"
+    label: "Client interviews: services, delivered technologies and company size"
+  - type: "other"
+    url: "https://www.bizmideast.com/JO/pandosoft-06-582-2112"
+    label: "Independent directory: fourth-floor Al Ghaith Center address"
   - type: "other"
     url: "https://vendorland.com/company/pandosoft"
-    label: "Location evidence"
+    label: "Company directory: Mecca Street, Ghaith Center, fourth floor"
+  - type: "other"
+    url: "https://web.archive.org/web/20231004092837/https://pando-soft.com/en/contact-us/"
+    label: "Historical company contact page: earlier address evidence"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9759311,35.8580513"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/place/PandoSoft/@31.9759311,35.8554764,17z/"
+    label: "Previously corroborated PandoSoft map listing"
+verification_status: "partial"
+last_verified: "2026-10-27"

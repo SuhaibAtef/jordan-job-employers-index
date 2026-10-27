@@ -1,51 +1,118 @@
 name: "Nextwo"
-industry: "IT outsourcing / offshore development centers"
+description: >-
+  Nextwo is a T2 subsidiary providing recruitment process outsourcing,
+  technical staffing, offshore development centers and managed technology
+  teams for Saudi enterprises. It operates delivery centers in Amman, Jordan
+  and Cairo, Egypt, and recruits across enterprise software, cloud,
+  AI, data, ERP and cybersecurity disciplines. Its careers portal includes
+  opportunities for client organizations as well as Nextwo roles.
+industry: "IT staff augmentation / recruitment process outsourcing and offshore software delivery"
 website: "https://nextwo.com/"
 careers_url: "https://nextwo.com/careers"
-linkedin: "https://sa.linkedin.com/company/nextwo.com"
-hr_email: "info@nextwo.com"
-size: null
+linkedin: "https://www.linkedin.com/company/nextwo.com/"
+hr_email: "jobs@nextwo.com"
+size: "201-500 employees (LinkedIn company-wide range; Jordan-specific headcount unverified)"
 location:
   area: "Amman"
-  address: "Al-Madina Al-Monawara St 66, Amman"
+  address: "Nextwo Complex, Building 66, Al-Madina Al-Munawara Street, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.969226
-  longitude: 35.864706
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.969226,35.864706"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Nextwo+Complex+Building+66+Al-Madina+Al-Munawara+Street+Amman+Jordan"
 categories:
   - "ai"
   - "consulting"
   - "data"
   - "devops"
   - "erp"
+  - "mobile"
+  - "security"
   - "web"
 technologies:
   - ".NET"
   - "AI/ML"
+  - "Angular"
+  - "AWS"
+  - "Azure"
+  - "GCP"
   - "Java"
+  - "Kubernetes"
+  - "Node.js"
   - "Oracle Database"
   - "Power BI"
+  - "Python"
   - "React"
+  - "React Native"
   - "SAP"
   - "Tableau"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false
   signals:
-    - "Graduate"
-notes: "HQ in Riyadh with delivery centers in Amman and Cairo; builds offshore development centers and RPO teams for Saudi enterprises and markets Jordanian STEM-graduate talent."
+    - "On 2026-10-26, the official careers portal displayed Jordan-based developer, DevOps, QA, integration, analytics and other roles with Apply Now links; many positions explicitly name client organizations rather than Nextwo as the employer."
+    - "The company LinkedIn jobs listing displayed recent Amman and Irbid vacancies, but individual LinkedIn job pages may state applications are closed; confirm each posting before applying."
+    - "Company-authored historical LinkedIn recruitment posts directed CVs to jobs@nextwo.com; continued monitoring of that mailbox has not been independently confirmed."
+    - "No currently accepting Jordan-specific internship or formal graduate program was verified."
+notes: >-
+  Reviewed 2026-10-26. Nextwo's official about and contact pages identify
+  Riyadh/Saudi Arabia as headquarters and Amman and Cairo as delivery centers;
+  its LinkedIn company profile reports 201-500 employees worldwide, not a
+  verified Jordan workforce count. An older company LinkedIn location listing
+  and third-party directory describe Nextwo Complex, Building 66, Al-Madina
+  Al-Munawara Street, Amman, but the current primary LinkedIn listing gives
+  only Amman without a street address. The address is therefore provided
+  but unverified for current occupancy. Previous numeric coordinates
+  (31.969226, 35.864706) lacked reliable building-level corroboration and
+  were removed; the map link is an address search, not a verified pin.
+  The official contact email info@nextwo.com is a general commercial inbox.
+  Historical company-authored recruitment posts explicitly give
+  jobs@nextwo.com for CVs, so it is recorded as a recruitment contact with
+  a recency caveat. The careers portal currently displays Jordan roles,
+  including some for clients such as Cloud Solutions and Saudi Council of
+  Engineers; they are not necessarily direct Nextwo employment. LinkedIn
+  also lists Amman/Irbid roles but some individual listings show applications
+  closed. No current graduate intake or internship was confirmed; the
+  previous unsourced Graduate signal was removed. Technology entries are
+  official service/recruitment specialties or job requirements, not an
+  independently audited internal production stack. Tableau appears only
+  as a bonus skill in historical company recruitment; it is not a verified
+  production deployment.
 evidence:
   - type: "official_website"
     url: "https://nextwo.com/"
-    label: "Official website"
+    label: "Official services, T2 affiliation, Jordan delivery and technology recruitment specialties"
+  - type: "official_website"
+    url: "https://nextwo.com/about"
+    label: "Official company profile: founded 2014, T2 subsidiary, Saudi HQ, Amman and Cairo delivery"
+  - type: "official_website"
+    url: "https://nextwo.com/contact"
+    label: "Official contact: info@nextwo.com is general; delivery centers in Amman and Cairo"
   - type: "careers"
     url: "https://nextwo.com/careers"
-    label: "Careers / application page"
+    label: "Official careers portal listing Jordan and Saudi client and Nextwo roles, checked 2026-10-26"
+  - type: "job_post"
+    url: "https://nextwo.com/careers/senior-full-stack-developer-net-core-angular-ai-224"
+    label: "Official portal: Jordan .NET/Angular developer role for Cloud Solutions, with application link"
   - type: "linkedin_company"
-    url: "https://sa.linkedin.com/company/nextwo.com"
-    label: "LinkedIn company page"
+    url: "https://www.linkedin.com/company/nextwo.com/"
+    label: "Company LinkedIn: 201-500 worldwide, Riyadh headquarters, Amman and Cairo locations"
+  - type: "careers"
+    url: "https://www.linkedin.com/company/nextwo.com/jobs/"
+    label: "Company LinkedIn jobs: recent Amman/Irbid positions; individual application status varies"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/senior-ui-ux-strategy-design-at-nextwo-co-4465806170"
+    label: "Company-authored Amman role; LinkedIn says no longer accepting applications"
   - type: "other"
-    url: "https://nextwo.com/contact"
-    label: "Research source"
+    url: "https://www.linkedin.com/posts/nextwo.ae_nextwo-activity-7358245843562299392-OD4-"
+    label: "Historical company-authored recruitment post explicitly giving jobs@nextwo.com"
+  - type: "other"
+    url: "https://www.linkedin.com/company/nextwo.ae"
+    label: "Legacy company LinkedIn alias; older location listing identified Building 66; now redirects"
+  - type: "other"
+    url: "https://prospeo.io/c/nextwo"
+    label: "Third-party company directory repeats Building 66 address; current occupancy not proven"
+  - type: "other"
+    url: "https://pr.linkedin.com/company/nextwo.ae"
+    label: "Historical company recruiting post: Power BI and Tableau as optional skill"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.969226,35.864706"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=Nextwo+Complex+Building+66+Al-Madina+Al-Munawara+Street+Amman+Jordan"
+    label: "Address text search only, not a geocoded or verified building entrance"
+verification_status: "partial"
+last_verified: "2026-10-26"

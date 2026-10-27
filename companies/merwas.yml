@@ -1,39 +1,80 @@
 name: "Merwas"
-industry: "Mobile app development"
-website: "https://merwas.com"
+description: >-
+  Merwas began as an Amman-based digital design, web development and mobile
+  application services business founded in 2015. Its current official website
+  presents Merwas Inc. as a California-headquartered umbrella group for
+  technology ventures, digital transformation and strategic investments;
+  the present status of the former Jordan office is not independently confirmed.
+industry: "IT services / web and mobile development; now diversified technology holding group"
+website: "https://merwas.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/mwsold"
 hr_email: null
-size: "10-49"
+size: "11-50"
 location:
   area: "Amman"
-  address: "Abu Alhaj Complex, Queen Rania St, Amman, Jordan 11511"
-  status: "approximate"
-  latitude: 31.99797
-  longitude: 35.88235
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99797,35.88235"
+  address: "Abu Alhaj Complex, Queen Rania Street, Amman 11511, Jordan"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "data"
   - "mobile"
+  - "web"
 technologies:
   - "Mendix"
+  - "React"
+  - "React Native"
+  - "Laravel"
+  - "PHP"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman mobile app development firm (est. 2015, 'Think of your app, think of us') on Mendix low-code stacks per Clutch profile; note: merwas.com currently presents the brand as a diversified conglomerate, so the app-dev profile above is the Clutch-era description. No public email, LinkedIn or careers page found."
+notes: >-
+  Reviewed 2026-10-25. The legacy Merwas for IT (Succeeded) LinkedIn profile
+  describes an Amman web-design and IT-services partnership founded in 2015,
+  with an estimated 11-50 employees and a Queen Rania Street location opposite
+  Al Fanar Hotel. Clutch and Lisnic also list the Abu Alhaj Complex address;
+  neither establishes current occupancy. The current merwas.com website and
+  Merwas Inc. LinkedIn profile instead describe a California-based holding
+  group, with a separately reported 51-200 company-wide employees. A legacy
+  LinkedIn update directs followers to the new Merwas brand. The 11-50 size
+  stored here applies to the older Jordan IT-services profile and is not a
+  verified present Jordan headcount. The current official site identifies
+  Lilian Technology (web/mobile development), Chegoe (e-commerce SaaS) and
+  Sprintfy (low-code solutions) as portfolio brands, not necessarily the
+  Jordan entity's current direct services. Clutch lists Mendix, React,
+  React Native, Laravel and PHP as service capabilities; these are
+  third-party/self-reported historical technology signals, not a verified
+  current internal engineering stack. The official contact page publishes
+  info@merwas.com as a general contact and HQ@merwas.com under 'Join Us',
+  but neither was independently confirmed as a dedicated HR or active
+  recruitment mailbox. No dated, accepting Jordan vacancy, careers page,
+  internship or graduate hiring was confirmed. Precise Jordan office
+  coordinates could not be independently corroborated, so the prior map
+  coordinates were removed. Jordan operations and address remain unverified;
+  company-level verification is partial despite an active parent website.
 evidence:
   - type: "official_website"
-    url: "https://merwas.com"
-    label: "Official website"
+    url: "https://merwas.com/"
+    label: "Current official group website: diversified portfolio and brand positioning; checked 2026-10-25"
+  - type: "official_website"
+    url: "https://merwas.com/about-us/"
+    label: "Official about page: group services and Lilian Technology, Chegoe, Sprintfy portfolio"
+  - type: "official_website"
+    url: "https://merwas.com/contact/"
+    label: "Official contact: California location, general info email and Join Us email"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/mwsold"
+    label: "Legacy Jordan IT firm: founded 2015, 11-50 employees and Queen Rania Street; now marked Succeeded"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/merwas-inc"
+    label: "Current group LinkedIn: California headquarters, 51-200 global size and holding-company focus"
   - type: "other"
     url: "https://clutch.co/profile/merwas"
-    label: "Research source"
+    label: "Historical Amman app/web agency listing: Abu Alhaj Complex and reported technologies"
   - type: "other"
-    url: "https://themanifest.com/company/merwas"
-    label: "Research source"
-  - type: "other"
-    url: "https://find-lead.com/merwas-details"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.99797,35.88235"
-    label: "Google Maps location"
+    url: "https://www.lisnic.com/business-profile/merwas"
+    label: "Third-party historical Queen Rania Street office address; not current occupancy proof"
+last_verified: "2026-10-25"
+verification_status: "partial"

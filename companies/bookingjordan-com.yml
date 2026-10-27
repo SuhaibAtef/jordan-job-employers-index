@@ -1,22 +1,24 @@
 name: "BookingJordan.com"
-description: "BookingJordan.com, operated as Booking Jordan Tours, is an Amman-based inbound travel company arranging private day tours, transfers, overnight packages and customized cultural, hiking and religious itineraries across Jordan. Its website supports direct online booking and mobile booking tools."
+description: >-
+  BookingJordan.com (Booking Jordan Tours) is a Jordan-based inbound tour operator
+  offering private day trips, airport transfers, overnight packages, and tailored
+  cultural, hiking and religious itineraries. Its public booking website lists
+  Jordan tours and transfers and advertises online booking and mobile apps.
 verification_status: "partial"
-last_verified: "2026-10-07"
-industry: "Online Travel Agency / Tourism Platform"
+last_verified: "2026-10-22"
+industry: "Travel Arrangements / Inbound Tour Operator"
 website: "https://www.bookingjordan.com/"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/bookingjordantours"
-hr_email: "info@bookingjordan.com"
+hr_email: null
 size: null
 location:
-  status: "approximate"
-  address: "Amman, Jordan"
   area: "Amman"
-  address: "6th Circle, Amman"
+  address: null
   status: "approximate"
-  latitude: 31.9518
-  longitude: 35.94042
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "mobile"
   - "travel"
@@ -27,26 +29,44 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman/Petra-based online travel shop for Jordan tours with secure online booking and billing; developing custom tourism software for personalized itineraries; has iOS and Android apps (app badges on homepage). Tripadvisor lists office at 6th Circle, Amman; no exact pin publicly available."
+notes: >-
+  Reviewed 2026-10-22. Official About Us and live tour listings support the
+  company's travel services and online-booking product. Its official contact
+  page gives only "Petra - Amman, Jordan", +962 6 554 3700, and the general
+  inbox info@bookingjordan.com; the inbox is not identified as an HR contact.
+  Tripadvisor lists a 6th Circle, Amman location, whereas an older third-party
+  map listing places Booking Jordan Tours on Al-Madina Al-Monawara Street;
+  neither is adequate to confirm the current physical office or a precise pin.
+  Previously recorded coordinates (31.9518, 35.94042) were unsupported as
+  company-office coordinates and were removed. The company LinkedIn identity
+  is supported by its historical posts using a bookingjordan.com email domain,
+  but no current employee-size figure was confirmed. Official pages advertise
+  iOS and Android apps, which are product platforms, not proof of the internal
+  engineering stack. No dedicated careers page, currently open vacancy,
+  recruitment email, or graduate program was confirmed. Historical social
+  posts and review-directory listings are not evidence of current hiring.
 evidence:
   - type: "official_website"
     url: "https://www.bookingjordan.com/"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.bookingjordan.com/tours/ru/jordan/amman-hotels/petra-dead-sea-from-amman?date=29/03/2024&adults=1&category=3"
-    label: "Research source"
-  - type: "other"
-    url: "https://evintra-v3.s3.eu-central-1.amazonaws.com/destinations/8448/files/103783/aCqs3g6LQbkDT9z5bLaq12RUlKxVzoWRuamKR6KO.pdf"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.tripadvisor.co.za/Attraction_Review-g293986-d4059588-Reviews-Booking_Jordan_Tours-Amman_Amman_Governorate.html"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
-    label: "Google Maps location"
+    label: "Live official website with tour and transfer listings; checked 2026-10-22"
   - type: "official_website"
     url: "https://www.bookingjordan.com/About-Us"
-    label: "Current official service description and mobile-app information"
-  - type: "linkedin_employee"
-    url: "https://jo.linkedin.com/in/mohammadalmasadeh"
-    label: "Current CEO profile links Booking Jordan Tours and bookingjordan.com"
+    label: "Official services, online booking, and advertised mobile applications"
+  - type: "official_website"
+    url: "https://www.bookingjordan.com/contact-us"
+    label: "Official general contact and approximate Amman/Petra presence"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/bookingjordantours"
+    label: "Booking Jordan Tours LinkedIn company identity; employee size not verified"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/bookingjordantours_jordanheritage-biblicallandmarks-panoramicviews-activity-7133091757776343041-fvbB"
+    label: "Historical company LinkedIn post using bookingjordan.com email"
+  - type: "company_listing"
+    url: "https://ar.tripadvisor.com/HotelsNear-g293986-d4059588-oa120-Booking_Jordan_Tours-Amman_Amman_Governorate.html"
+    label: "Tripadvisor listing reports 6th Circle; unverified office address"
+  - type: "company_listing"
+    url: "https://jo.near-place.com/booking-jordan-tours-amman/de"
+    label: "Historical third-party map listing reports Al-Madina Al-Monawara Street"
+  - type: "company_listing"
+    url: "https://www.trustpilot.com/review/www.bookingjordan.com"
+    label: "Historical review-directory business profile and general contact"

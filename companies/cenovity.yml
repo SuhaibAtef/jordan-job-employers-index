@@ -1,8 +1,13 @@
 name: "Cenovity"
-description: "Cenovity is an Amman-founded business-technology consultancy focused on AI, data intelligence, cybersecurity, digital transformation, managed services and technology strategy. It positions technology work around measurable growth, profitability, productivity and organizational resilience."
+description: >-
+  Cenovity is a business-technology consultancy established in 2016 with a
+  presence in Amman, Jordan. It offers AI and data intelligence, cybersecurity
+  and digital trust, cloud and digital infrastructure, automation and integration,
+  technology transformation, training, and managed services to organizations
+  in Jordan and other Middle Eastern markets.
 verification_status: "partial"
-last_verified: "2026-10-07"
-industry: "Business Technology Consulting / Cybersecurity"
+last_verified: "2026-10-22"
+industry: "Business Technology Consulting / AI / Cybersecurity"
 website: "https://www.cenovity.com"
 careers_url: null
 linkedin: null
@@ -12,36 +17,58 @@ location:
   area: "Amman"
   address: "25 Abdulla Bin Rawaha Street, Rabieh, Amman 11195, Jordan"
   status: "provided_unverified"
-  latitude: 31.97349
-  longitude: 35.880821
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97349,35.880821"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
   - "consulting"
-  - "devops"
   - "security"
 technologies:
   - "AI/ML"
+  - "Generative AI"
+  - "AI agents"
+  - "API integration"
+  - "Cloud security"
+  - "Identity and access management"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman-headquartered (est. 2016) AI- and cybersecurity-led consulting firm serving MENA with enterprise risk assessments, security frameworks and digital transformation work."
+notes: >-
+  The current official site (checked 2026-10-22) confirms Amman, Riyadh and Dubai
+  presence and publishes info@cenovity.com as a general inquiry address, not an
+  HR contact. An older official service page publishes the Rabieh street address
+  and +962 6 222 0668, while GoodFirms also lists Abdullah Bin Rawaha Street;
+  present-day office occupancy and exact coordinates were not independently
+  verified. Clutch lists 10-49 employees, whereas GoodFirms and TechBehemoths
+  list 2-9; the retained size is Clutch-attributed and should not be treated as
+  audited headcount. No verified company LinkedIn URL, dedicated careers portal,
+  public HR email, current vacancy or internship was established. Technology
+  entries describe advertised service capabilities, not an audited internal stack.
+  Company LinkedIn activity was observed via an employee profile, but the
+  employee profile is not a substitute for a verified company page.
 evidence:
   - type: "official_website"
-    url: "https://www.cenovity.com"
-    label: "Official website"
+    url: "https://www.cenovity.com/"
+    label: "Current official company site; services, establishment year and operating markets"
+  - type: "official_website"
+    url: "https://www.cenovity.com/contact"
+    label: "Current official contact page; Amman presence and general email"
+  - type: "official_website"
+    url: "https://www.cenovity.com/technology/automation-integration"
+    label: "Older official service page listing Rabieh Amman regional-office address and integration capabilities"
   - type: "other"
     url: "https://clutch.co/profile/cenovity"
-    label: "Research source"
+    label: "Clutch company listing; 10-49 employees and AI/cybersecurity services"
   - type: "other"
     url: "https://www.goodfirms.co/company/cenovity"
-    label: "Research source"
+    label: "GoodFirms listing; 2-9 employees and Abdullah Bin Rawaha Street"
+  - type: "other"
+    url: "https://techbehemoths.com/company/cenovity"
+    label: "TechBehemoths company listing; 2-9 team size and Amman headquarters"
   - type: "other"
     url: "https://www.sortlist.com/agency/cenovity"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.97349,35.880821"
-    label: "Google Maps location"
+    label: "Historical company listing retained from existing record"
   - type: "linkedin_employee"
     url: "https://jo.linkedin.com/in/mohammad-dabbas"
-    label: "Current Cenovity strategy and technology leader profile"
+    label: "Cenovity-associated strategy and technology leader; not a company profile"

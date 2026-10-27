@@ -1,28 +1,57 @@
 name: "Middle East Recruitment"
-industry: "Staffing & Recruiting"
-website: "http://www.mer.jo/index.php?lang=ar"
+industry: "Staffing & Recruiting / HR Services"
+website: "https://www.mer.jo/"
 careers_url: null
-linkedin: null
-hr_email: null
+linkedin: "https://www.linkedin.com/company/middle-east-for-recruitment"
+hr_email: "rec1@mer.jo"
 size: "11-50"
+description: "Middle East Recruitment (MER; الشرق الأوسط للتوظيف) is an Amman-based recruitment and executive-search agency founded in 2009. It sources and screens candidates for employers in Jordan and Gulf countries, including Saudi Arabia, Qatar and the UAE, across construction, engineering, healthcare, hospitality and other sectors; its services include manpower placement, interviews, HR consulting and visa/documentation coordination."
 location:
-  area: "Amman"
-  address: null
+  area: "Amman (Gardens)"
+  address: "Gardens – Alwefaq Garden – Al-Faisali, third floor, Amman, Jordan (LinkedIn-listed; current occupancy not independently confirmed)"
   status: "provided_unverified"
   latitude: 31.9927257
   longitude: 35.8712227
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.9927257,35.8712227"
-categories:
-  - "web"
+categories: []
 technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman-headquartered recruitment firm placing Jordanian talent with Gulf employers (construction, hospitality, healthcare); reports 30+ team members, 500+ trained annually and in-person/video interview rooms. Office location taken from the company's own embedded Google Map on its site. | stack research 2026-10-06: 2 searches, no employee profiles or own dev postings found (recruitment placement firm mer.jo)"
+notes: >-
+  Official website and company LinkedIn profile establish a Jordanian recruitment
+  agency, not a software-development employer. LinkedIn identifies headquarters
+  in Amman's Gardens area and gives a third-floor address; the official site
+  confirms Amman and embeds a Google Maps location at the retained coordinates,
+  but office occupancy and entrance-level pin accuracy were not independently
+  verified. LinkedIn lists 11-50 employees; the English website claims 30+
+  team members while the Arabic site claims 50+ recruitment specialists, so
+  headcount is an unaudited range rather than a verified current total.
+  rec1@mer.jo is used in agency-published candidate application notices for
+  client vacancies, NOT verified as an internal MER staff-recruitment inbox.
+  Official website's Find a Job action routes to a contact form, not an
+  independently confirmed live jobs board or MER employee careers page.
+  LinkedIn posts dated 2026-10-19 advertise Qatar client vacancies and a
+  2026-09-02 post advertises a newly graduated speech therapist for a client
+  academy in Amman; neither establishes internal MER hiring or currently
+  accepting applications. No internal software stack or developer hiring
+  evidence was found. Prior 'web' category was unsupported and removed.
+  Prior research dated 2026-10-06 found no own developer vacancies.
+verification_status: "partial"
+last_verified: "2026-10-25"
 evidence:
   - type: "official_website"
-    url: "http://www.mer.jo/index.php?lang=ar"
-    label: "Official website"
+    url: "https://www.mer.jo/"
+    label: "Official company website: recruitment services, Amman headquarters, team claim and office map"
+  - type: "official_website"
+    url: "https://www.mer.jo/contact"
+    label: "Official contact page: job-seeker inquiry route, phone and Amman location"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/middle-east-for-recruitment"
+    label: "Company LinkedIn: identity, founded 2009, 11-50 staff, Gardens third-floor address and 2026 client job postings"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/company/middle-east-for-recruitment"
+    label: "Company LinkedIn Jordan feed: 19 October 2026 client vacancies and rec1@mer.jo application contact"
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9927257,35.8712227"
-    label: "Google Maps location"
+    label: "Official-site embedded map coordinates; pin accuracy not independently verified"

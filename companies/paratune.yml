@@ -1,17 +1,18 @@
 name: "Paratune"
-industry: "Software & digital solutions (Odoo/web/apps)"
-website: "https://paratune.com"
-careers_url: null
-linkedin: null
+description: "Jordan-headquartered software development and digital-solutions company providing custom web and mobile applications, ERP/Odoo implementations, digital content, marketing, IT consulting and developer outsourcing; it also describes operations in India and Pakistan."
+industry: "Custom software development and IT consulting"
+website: "https://paratune.com/en/"
+careers_url: "https://www.paratune.com/en/jobs"
+linkedin: "https://www.linkedin.com/company/paratune/"
 hr_email: null
-size: null
+size: "11-50"
 location:
   area: "Amman"
-  address: "Hosni Sober Str, near 8th Circle, International Complex 47, 1st Floor, Amman, Jordan"
+  address: "Hosni Sober Street, near 8th Circle, International Complex 47, 1st Floor, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.954152
-  longitude: 35.839406
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.954152,35.839406"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Paratune%20International%20Complex%2047%20Hosni%20Sober%20Street%20Amman%20Jordan"
 categories:
   - "data"
   - "ecommerce"
@@ -27,18 +28,59 @@ technologies:
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-notes: "Software and digital transformation company in Amman; Odoo ERP implementations, mobile apps, websites and digital marketing. Contact emails on its FAQ page were redacted placeholders — no verifiable HR email. Pin moved from city-center fallback to verified HQ pin (International Complex, Bayader) from the company's own site data. stack verified 2026-10-06: 2 employee profiles (Backend Developer PHP/Laravel/MySQL; Flutter Developer intern on GoodSpouse app) + Paratune careers page lists Backend Developer (Laravel)"
+    - "Remote internship listed on official careers portal; application deadline 2026-12-30 (Jordan eligibility unspecified)"
+    - "Remote Backend Developer (Laravel) listed; application deadline 2027-01-01"
+    - "Amman hybrid QA Specialist listed; application deadline 2027-01-07"
+notes: >-
+  Reviewed 2026-10-27. Official site describes custom software, web/mobile apps,
+  e-commerce, ERP/Odoo, digital marketing, outsourcing and IT consulting; the
+  about page describes Jordan headquarters and distributed operations in India
+  and Pakistan. LinkedIn reports 11-50 employees globally (company-reported
+  range, not audited Jordan headcount), founded 2018, and lists a primary
+  address on Amr bin Malek Street in Um Al Summaq. The official site instead
+  publishes Hosni Sober Street, International Complex 47, first floor near
+  8th Circle. The official address is retained, but this discrepancy and the
+  absence of independently corroborated current building occupancy mean the
+  office is provided_unverified. Prior coordinates 31.954152, 35.839406 were
+  removed because an exact business entrance could not be confirmed; the map
+  URL is an address search, not a verified pin. The official contact page
+  publishes info@paratune.com and +962790856360 / +962777719040 for general
+  inquiries; no dedicated recruitment mailbox is established. The official
+  careers portal currently advertises a remote internship (deadline
+  2026-12-30), remote Backend Developer (Laravel) (deadline 2027-01-01), and
+  Amman hybrid QA Specialist (deadline 2027-01-07), each with an Apply Now
+  control; successful application submission was not tested. Internship
+  eligibility for applicants based in Jordan is unspecified. The Laravel
+  advertisement explicitly requires PHP, Laravel and MySQL/MariaDB and
+  mentions Git; the official company site advertises Flutter and Odoo.
+  These are supported services or hiring requirements, not proof that every
+  listed technology is currently deployed in production. Full company
+  verification remains partial due to unconfirmed current occupancy,
+  independently audited headcount and direct HR contact.
 evidence:
   - type: "official_website"
-    url: "https://paratune.com"
-    label: "Official website"
-  - type: "other"
     url: "https://paratune.com/en/"
-    label: "Research source"
-  - type: "other"
-    url: "https://paratune.com/en/faq"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.954152,35.839406"
-    label: "Google Maps location"
+    label: "Official website: software services, Flutter and Odoo offerings"
+  - type: "official_website"
+    url: "https://paratune.com/en/about-us"
+    label: "Official about page: Jordan headquarters and distributed operations"
+  - type: "official_website"
+    url: "https://paratune.com/en/contact-us"
+    label: "Official contact: street address, general email and telephone"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/paratune/"
+    label: "LinkedIn: 11-50 employee range, founding year and alternate listed address"
+  - type: "careers_page"
+    url: "https://www.paratune.com/en/jobs"
+    label: "Official careers portal: advertised roles and future deadlines"
+  - type: "job_post"
+    url: "https://www.paratune.com/en/jobs/10"
+    label: "Remote internship listing, valid until 2026-12-30"
+  - type: "job_post"
+    url: "https://www.paratune.com/en/jobs/7"
+    label: "Backend Developer (Laravel): PHP, Laravel, MySQL requirements"
+  - type: "job_post"
+    url: "https://www.paratune.com/en/jobs/4"
+    label: "QA Specialist: Amman hybrid position, valid until 2027-01-07"
+verification_status: "partial"
+last_verified: "2026-10-27"

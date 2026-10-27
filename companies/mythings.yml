@@ -1,37 +1,93 @@
 name: "MyThings"
-industry: "Q-commerce / Delivery Technology"
+description: >-
+  Jordanian multi-category last-mile delivery and quick-commerce platform
+  founded in Amman in 2021. Provides app-based delivery of food, groceries,
+  pharmacy products, electronics and other retail items, supported by
+  company-developed customer, driver, partner and fulfillment systems.
+industry: "Last-mile logistics, quick commerce and delivery technology"
 website: "https://mythings.app/"
 careers_url: null
-linkedin: null
-hr_email: null
-size: "154"
+linkedin: "https://www.linkedin.com/company/mythings-%D8%A3%D8%B4%D9%8A%D8%A7%D8%A6%D9%8A"
+hr_email: "mohammad.hamad@mythings.app"
+size: "201-500"
 location:
   area: "Amman"
-  address: "Al Mawaddah Street, 7th Circle, Amman"
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: "Al Mawaddah Street, Amman 11189, Jordan (company LinkedIn; building unconfirmed)"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "logistics"
   - "mobile"
   - "web"
-technologies: []
+technologies:
+  - "C#"
+  - "ASP.NET Core"
+  - "SQL Server"
+  - "Redis"
+  - "RabbitMQ"
+  - "SignalR"
+  - "React Native"
+  - "Redux"
+  - "Firebase Cloud Messaging"
+  - "Apple Push Notification service (APNs)"
+  - "Azure"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false
   signals:
-    - "Internship"
-notes: "Amman multi-category Q-commerce platform (food, groceries, pharmacy) founded 2021 by Aasem Awd; in-house Jordanian engineering team; ~154 employees; strategic partnership with Jordan Post (Oct 2025). No public internship postings found. stack research 2026-10-05: 4 searches incl. LinkedIn public snippets, Play Store/app pages; only non-dev hiring posts (contact center, office manager), no employee profiles or dev postings found"
+    - "Company-authored 2026 recruitment post for senior .NET backend developers and a senior React Native mobile developer in Amman requests 7+ years of experience; applications directed to mohammad.hamad@mythings.app. Current acceptance not independently tested."
+    - "Company-authored 2026 post advertises a software QA team lead in Amman, also requesting 7+ years of experience and directing CVs to mohammad.hamad@mythings.app; current acceptance not tested."
+    - "Company LinkedIn displayed Amman contact-center, sales-representative and account-manager recruitment posts in October 2026; application links were not submission-tested."
+notes: >-
+  Reviewed 2026-10-25. Official site and company LinkedIn establish a Jordanian
+  last-mile logistics and Q-commerce business founded in Amman in 2021.
+  LinkedIn reports 201-500 employees company-wide, rather than the previous
+  unsupported precise count of 154; this range is not an audited Jordan-only
+  headcount. LinkedIn lists Al Mawaddah Street, Amman 11189. The previous
+  '7th Circle' qualifier is not corroborated, and the former coordinates
+  (31.9539, 35.9106) were a generic Amman pin, not the company entrance;
+  building and occupancy remain unverified. The official website provides
+  only 'Amman, Jordan' and placeholder-looking postal/address text.
+  The email mohammad.hamad@mythings.app is a company-published engineering/QA
+  CV submission contact, not independently confirmed as a dedicated HR inbox.
+  No dedicated careers portal or verified internship/graduate intake was
+  found; a previous generic 'Internship' signal was unsupported and cleared.
+  Company LinkedIn describes proprietary in-house dispatch, CRM, MDM,
+  chatbot and mobile applications. The named technologies are requirements
+  or familiarity preferences in company-authored 2026 engineering adverts,
+  not independently audited production deployments; Azure is specifically
+  listed as familiarity, not proof of cloud deployment. Published senior
+  engineering and QA posts are evidence of 2026 recruitment, not a guarantee
+  that applications remain open on the review date. Historical Jordan Post
+  partnership and founder assertions were not independently revalidated.
+verification_status: "partial"
+last_verified: "2026-10-25"
 evidence:
   - type: "official_website"
     url: "https://mythings.app/"
-    label: "Official website"
-  - type: "other"
+    label: "Official delivery service and company website"
+  - type: "official_website"
     url: "https://mythings.app/our-story/"
-    label: "Research source"
+    label: "Official history, 2021 Amman origin and service model"
   - type: "other"
     url: "https://tracxn.com/d/companies/mythings/__A4HXC-_SHZqWpBg5YaBSiQEG9uMuLOJXTNrYrwDBejg"
-    label: "Research source"
+    label: "Previously recorded third-party company source; not revalidated"
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Previously recorded generic Amman pin; not verified as office coordinates"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/mythings-%D8%A3%D8%B4%D9%8A%D8%A7%D8%A6%D9%8A"
+    label: "Company profile: headcount range, Amman address, in-house systems and recruitment"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/mythings-%D8%A3%D8%B4%D9%8A%D8%A7%D8%A6%D9%8A_were-hiring-at-mythings-%D8%A3%D8%B4%D9%8A%D8%A7%D8%A6%D9%8A-activity-7499800354960867328-miZ0"
+    label: "Company-authored 2026 .NET and React Native recruitment, stack and CV email"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/mythings-%D8%A3%D8%B4%D9%8A%D8%A7%D8%A6%D9%8A_were-hiring-software-qa-team-lead-activity-7500512793318658049-Lduk"
+    label: "Company-authored 2026 QA team lead recruitment and CV email"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/mythings-%D8%A3%D8%B4%D9%8A%D8%A7%D8%A6%D9%8A_we-are-hiring-a-huge-number-of-pickers-activity-7472943548447838208-Q_G6"
+    label: "Company-authored 2026 Amman fulfillment recruitment, not internship"
+  - type: "official_website"
+    url: "https://mythings.app/ourapp/"
+    label: "Official app overview, categories and driver-recruitment invitation"

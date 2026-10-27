@@ -1,37 +1,77 @@
 name: "NUJUM16"
-industry: "Cloud Infrastructure / GovTech"
-website: null
+description: >-
+  Jordan-founded sovereign cloud and AI data-center infrastructure developer
+  established in 2026. NUJUM16 is planning a phased sovereign-compute campus
+  near Queen Alia International Airport, intended to support regulated banking,
+  healthcare, government, telecommunications and enterprise workloads while
+  keeping sensitive data under Jordanian jurisdiction. Its September 2026
+  infrastructure forum announced collaborations on AI compute, education and
+  ecosystem development; announced capacity is not evidence of an operational campus.
+industry: "Sovereign Cloud / AI and Data-Center Infrastructure"
+website: "https://www.nujum16.com/"
 careers_url: null
-linkedin: "https://jo.linkedin.com/company/nujum16"
+linkedin: "https://www.linkedin.com/company/nujum16/"
 hr_email: null
-size: "2-10 employees"
+size: "2-10 employees (LinkedIn company range; not independently audited)"
 location:
   area: "Amman"
   address: null
   status: "approximate"
-  latitude: 31.9518
-  longitude: 35.94042
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "devops"
   - "security"
+  - "ai"
 technologies:
-  - "Cloud infrastructure"
-  - "Cybersecurity"
-  - "Data centers"
-  - "Data residency / sovereignty"
-  - "Managed cloud services"
+  - "Sovereign cloud infrastructure (planned)"
+  - "AI compute / data-center infrastructure (planned)"
+  - "Data residency and governance"
+  - "Multi-tenant sovereign partitions (planned)"
+  - "Managed cloud services (stated specialization)"
+  - "Cybersecurity and regulatory compliance (stated specialization)"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Founded 2026 in Amman; sovereign cloud and data-center infrastructure for government, financial and health sectors; founder Ahmad Bunnia; hosted a national AI-infrastructure forum Sept 2026; very early-stage, no public careers page.\nstack research 2026-10-05: 4 searches, no employee profiles, dev postings, or careers page; sovereign-cloud startup founded 2026, too early-stage for evidence."
+  signals:
+    - "A September 16, 2026 memorandum of understanding with Al Hussein Technical University describes prospective AI-compute access, specialized training, applied research and pathways into employment and entrepreneurship; it is not a confirmed NUJUM16 internship or vacancy."
+    - "No company-operated careers portal, dedicated HR/recruitment mailbox, currently accepting Jordan vacancy, internship or graduate program was confirmed on review."
+notes: >-
+  Reviewed 2026-10-26. NUJUM16's official website and company LinkedIn
+  describe a Jordan-based sovereign AI/cloud infrastructure initiative;
+  LinkedIn lists Amman headquarters, 2026 founding and 2-10 employees.
+  No street address for an occupied Amman headquarters is published. The
+  official website separately describes a proposed 100 MW campus at Plot
+  4790, Al-Jiza, on the Desert Highway about 7 km south of Queen Alia
+  International Airport. That proposed project site is not an independently
+  confirmed staffed office or operational data center. The previous
+  coordinates 31.9518, 35.94042 were removed because no source linked
+  them reliably to the headquarters or planned campus. The official site's
+  readiness claims conflict: a hero section says Q4 2026, its phase schedule
+  says a 2 MW pilot in Q1 2027 and full 100 MW build in Q4 2030, and its
+  footer says service beginning Q2 2027. Treat all dates and capacities as
+  projections, not completed infrastructure. The official site lists
+  info@nujum16.com as a general contact, not a verified HR mailbox.
+  The September 16, 2026 Petra report identifies founder Ahmad Bunnia
+  (also styled Ahmad Al-Bunnia on LinkedIn) and three MOUs, including
+  an education and potential employment-pathways partnership with HTU.
+  Agreements and possible future pathways do not demonstrate active
+  recruitment. Technologies above describe planned infrastructure and
+  advertised specializations; no audited production stack, cloud vendor,
+  active jobs, Jordan-specific headcount or physical site occupancy was
+  independently confirmed. Company verification remains partial.
 evidence:
+  - type: "official_website"
+    url: "https://www.nujum16.com/"
+    label: "Official site: proposed Al-Jiza campus, Plot 4790, planned 100 MW phases, conflicting readiness dates, and general contact; reviewed 2026-10-26"
   - type: "linkedin_company"
-    url: "https://jo.linkedin.com/company/nujum16"
-    label: "LinkedIn company page"
+    url: "https://www.linkedin.com/company/nujum16/"
+    label: "Company LinkedIn: Amman HQ, founded 2026, 2-10 staff range, sovereign cloud and cybersecurity specializations"
   - type: "other"
     url: "https://petra.gov.jo/en/news/nujum16-launches-inaugural-forum-to-map-jordans-sovereign-ai-ecosystem"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
-    label: "Google Maps location"
+    label: "Jordan News Agency, 2026-09-16: founder, sovereign AI forum and three MOUs including HTU training and potential employment pathways"
+  - type: "other"
+    url: "https://www.exchange.jo/ar/news/bwrst-man-tshark-fy-mntdy-hwl-hndst-albnyt-althtyt-lldhka-alastnay"
+    label: "Amman Stock Exchange, 2026-09-20: corroborates NUJUM16 September AI infrastructure forum in Amman"
+verification_status: "partial"
+last_verified: "2026-10-26"

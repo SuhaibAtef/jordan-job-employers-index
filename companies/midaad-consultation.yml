@@ -1,40 +1,70 @@
-name: "Midaad Consultation"
-industry: "Open-source ERP (Odoo)"
-website: "http://midaad.com"
-careers_url: null
-linkedin: null
-hr_email: "info@midaad.com"
-size: null
+name: Midaad Consultation
+description: Amman-based Odoo ERP implementation and business consulting provider offering ERP configuration, customization,
+  integration, training and ongoing support for businesses in Jordan and neighboring markets. Listed by Odoo as
+  a Silver partner and as a subsidiary of DOT Group.
+industry: ERP Implementation / Business Consulting
+website: https://midaad.com/
+careers_url: https://midaad.com/jobs
+linkedin: https://www.linkedin.com/company/midaad/
+hr_email: info@midaad.com
+size: 11-50 employees (LinkedIn estimate; not independently audited)
 location:
-  area: "Amman"
-  address: "Mecca St, Abraj Alhijaz 141, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  area: Amman
+  address: Mecca Street, Abraj Alhijaz 141, Amman, Jordan
+  status: verified
+  latitude: 31.9752456
+  longitude: 35.861097
+  maps_url: https://maps.app.goo.gl/YqV1aRXqfcTxZfmX7
 categories:
-  - "erp"
+- erp
 technologies:
-  - "Odoo"
+- Odoo
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-    - "Junior"
-notes: "Amman Odoo Silver Partner (subsidiary of Dot Group) implementing open-source Odoo ERP for SMBs; 65 references on Odoo. No public junior/intern program found."
+  - Company LinkedIn advertised an Amman accountant position requiring 1-3 years of experience in 2026; current
+    acceptance of applications was not confirmed.
+  - Historical Accounting Specialist listing marked entry level is closed; no current internship or graduate program
+    confirmed.
+  - Official /jobs page displayed no open opportunities when checked on 2026-10-25, but invited spontaneous applications.
+notes: Reviewed 2026-10-25. Official website and Odoo partner directory confirm ERP implementation, customization,
+  training, support and Silver partner status; Odoo directory states subsidiary of DOT Group. LinkedIn lists 2022
+  founding year and 11-50 employees, not an audited headcount. The official contact page gives Mecca Street, Abraj
+  Alhijaz 141, Amman; Odoo independently confirms Mecca Street. The official website's map link resolves to a business
+  pin at 31.9752456, 35.861097; coordinates indicate an approximate map pin, not verified suite or entrance precision.
+  An older official /contact page also mentions Al-Shorouq Complex, so exact building occupancy merits follow-up.
+  info@midaad.com is a general inquiry address, not confirmed dedicated HR. Company LinkedIn carried 2026 accountant
+  hiring posts (1-3 years experience), while the official /jobs board displayed no open positions on review; an
+  older functional-consultant page and older LinkedIn jobs are not proof of active openings. Odoo is a confirmed
+  customer implementation platform, not evidence of the complete internal development stack. Previous unsubstantiated
+  internship signal removed. Company verification remains partial despite corroborated published street address.
 evidence:
-  - type: "official_website"
-    url: "http://midaad.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.odoo.com/partners/midaad-consultation-7723666"
-    label: "Research source"
-  - type: "other"
-    url: "http://midaad.com/website/info"
-    label: "Research source"
-  - type: "other"
-    url: "https://Elioplus.com/profiles/channel-partners/193261/midaad-consultations"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+- type: official_website
+  url: https://midaad.com/
+  label: 'Official site: Odoo ERP implementations, integration, training and support (reviewed 2026-10-25)'
+- type: official_website
+  url: https://midaad.com/contactus
+  label: 'Official current contact page: Abraj Alhijaz 141, Mecca Street, Amman; info@midaad.com'
+- type: official_website
+  url: https://www.midaad.com/about-us
+  label: 'Official about page: Odoo solutions and regional markets'
+- type: other
+  url: https://www.odoo.com/partners/midaad-consultation-7723666
+  label: 'Odoo Silver partner directory: Mecca Street, contact, certifications, DOT Group affiliation'
+- type: linkedin_company
+  url: https://www.linkedin.com/company/midaad/
+  label: 'Company LinkedIn: Amman, founded 2022, 11-50 employees and 2026 accountant hiring posts'
+- type: careers_page
+  url: https://midaad.com/jobs
+  label: 'Official jobs board: no current open roles displayed on 2026-10-25'
+- type: job_post
+  url: https://jo.linkedin.com/jobs/view/accounting-specialist-at-midaad-consultations-4016228702
+  label: Historical Amman entry-level accountant listing; applications closed
+- type: job_post
+  url: https://www.midaad.com/jobs/odoo-functional-consultant-3
+  label: Older official Odoo functional consultant listing; current opening not established
+- type: google_maps
+  url: https://maps.app.goo.gl/YqV1aRXqfcTxZfmX7
+  label: Map link published by official site; approximate business pin, not verified office entrance
+verification_status: partial
+last_verified: '2026-10-25'

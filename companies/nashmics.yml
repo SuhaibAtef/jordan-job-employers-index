@@ -1,40 +1,96 @@
 name: "NashmiCs"
-industry: "Business Process Outsourcing"
+description: >-
+  Amman-based business-process outsourcing (BPO) and contact-center services
+  provider offering inbound and outbound customer calls, chat and email support,
+  content moderation, training, HR outsourcing, and call-center seat rental.
+  Its official website identifies an office on Wasfi Al-Tal Street near
+  Al-Waha Circle in Amman.
+industry: "Business process outsourcing (BPO) and contact-center services"
 website: "https://nashmics.com/"
 careers_url: "https://nashmics.com/career"
-linkedin: null
+linkedin: "https://www.linkedin.com/company/nashmics"
 hr_email: "hr@nashmics.com"
-size: "250-999"
+size: "201-500 (LinkedIn company estimate; actual headcount not audited)"
 location:
-  area: "Amman"
+  area: "Al-Waha Circle, Amman, Jordan"
   address: "154 Wasfi Al-Tal St, Al-Waha Circle, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.98888
-  longitude: 35.87527
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.98888,35.87527"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "consulting"
 technologies: []
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Contact center/BPO (Amman, est. 2020): inbound/outbound calls, chat, email, content moderation plus corporate training & coaching; posts customer-service agent openings with a public HR email.\nstack research 2026-10-04: 5 searches + nashmics.com/career open; generic join-us page, only customer-service agent postings; no developer profiles or IT postings found"
+  early_career_signal: true
+  signals:
+    - "Company-authored 2026 LinkedIn advertisements sought customer-service agents in Amman; one requested B1 English and at least 3 months' experience."
+    - "Other company-authored customer-service advertisement requested B2 English and preferred 1 year of experience; applications directed to hr@nashmics.com."
+    - "Official careers page links to a general application form; no dated, currently accepting vacancy or internship was independently confirmed on 2026-10-25."
+notes: >-
+  Reviewed 2026-10-25. Official website confirms NashmiCs' BPO services:
+  customer contact by phone, chat and email, content moderation, training,
+  HR outsourcing and call-center seat rental. Official contact page lists
+  154 Wasfi Al-Tal St, Al-Waha Circle, Amman, Jordan and general email
+  info@nashmics.com. The same address is independently repeated in a
+  third-party company directory; this verifies the published business address,
+  not current physical occupancy. Previously recorded coordinates
+  (31.98888, 35.87527) were approximate and not tied to a corroborated
+  building-level pin; removed rather than presenting them as precise.
+  LinkedIn lists 201-500 employees, replacing the older third-party
+  estimate of 250-999. Company-authored LinkedIn recruitment posts from
+  approximately May 2026 sought Amman customer-service agents, with B1
+  English and 3 months of experience for one opening and B2 English and
+  a preferred year of experience for another. These demonstrate recent
+  early-career-accessible customer-service recruiting, not a currently
+  open vacancy. The official careers site links to a generic application
+  form; submission and current vacancy status were not tested. No
+  dedicated internship or graduate program was confirmed. The HR address
+  hr@nashmics.com is directly published in company-authored recruitment
+  posts. Official descriptions mention technology-enabled call-center
+  services but do not substantiate named internal software frameworks,
+  programming languages, cloud platforms or a production stack; the
+  technologies list remains empty. Founding year 2020 appears in
+  third-party directories but was not independently established from
+  official sources. Company verification remains partial because
+  actual employee count, current openings, exact office coordinates,
+  office occupancy and internal technology stack are not verified.
 evidence:
   - type: "official_website"
     url: "https://nashmics.com/"
-    label: "Official website"
+    label: "Official website: BPO services, content moderation, training, HR outsourcing, contact center (checked 2026-10-25)"
+  - type: "official_website"
+    url: "https://nashmics.com/about"
+    label: "Official company overview and service descriptions"
+  - type: "official_website"
+    url: "https://nashmics.com/contact"
+    label: "Official contact: 154 Wasfi Al-Tal St, Al-Waha Circle, Amman; general email and telephone"
+  - type: "official_website"
+    url: "https://nashmics.com/services/Inbound-and-Outbound-calls"
+    label: "Official inbound/outbound call-center service description"
+  - type: "official_website"
+    url: "https://nashmics.com/services/Human-Resource-Outsourcing"
+    label: "Official HR outsourcing services"
+  - type: "official_website"
+    url: "https://nashmics.com/services/Call-Center-Seat-Rental"
+    label: "Official call-center seat rental and generic IT support description; no named internal stack"
   - type: "careers"
     url: "https://nashmics.com/career"
-    label: "Careers / application page"
-  - type: "other"
-    url: "https://nashmics.com/services/Inbound-and-Outbound-calls"
-    label: "Research source"
-  - type: "other"
-    url: "http://clutch.co/profile/nashmics"
-    label: "Research source"
+    label: "Official general careers page, no dated job listing visible"
+  - type: "careers"
+    url: "https://nashmics.com/career_applicationform"
+    label: "Official generic job application form; live submission not tested"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/nashmics"
+    label: "Company LinkedIn: Amman HQ, 201-500 employee estimate and customer-service recruitment"
   - type: "job_post"
-    url: "https://wathefty.com/jobs/2023/06/21/%d9%88%d8%b8%d9%80%d9%80%d9%80%d9%80%d8%a7%d8%a6%d9%81-%d8%b4%d9%80%d9%80%d9%80%d8%ba%d8%b1%d8%a9-%d9%81%d9%8a-%d9%86%d8%b4%d9%85%d9%8a-%d9%84%d9%80%d9%80%d9%80%d8%ae%d8%af%d9%85%d8%a7%d9%84%d9%80%d9%80%d8%b9%d9%85%d9%84%d8%a7%d8%a1/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.98888,35.87527"
-    label: "Google Maps location"
+    url: "https://www.linkedin.com/posts/nashmics_nashmics-are-hiring-customer-service-agent-activity-7456747912505679872-R4nz"
+    label: "Company-authored May 2026 Amman customer-service agent advertisement; B2 English and HR email"
+  - type: "other"
+    url: "https://www.softwareworld.co/service/nashmics-reviews/"
+    label: "Third-party directory corroborating street address; older 250-999 size estimate"
+  - type: "other"
+    url: "https://themanifest.com/company/nashmics"
+    label: "Third-party directory: BPO company in Amman, reported launch 2020 and older 250-999 size"
+verification_status: "partial"
+last_verified: "2026-10-25"

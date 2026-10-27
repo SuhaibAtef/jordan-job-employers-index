@@ -1,35 +1,95 @@
 name: "National Electrical Industries (NEI)"
-industry: "Smart City / Electrical Manufacturing"
+description: >-
+  Jordanian electrical equipment and lighting manufacturer established in 1984,
+  producing electrical panels, LED lighting, poles and industrial electrical
+  systems. Its smart-city portfolio includes connected street lighting,
+  multifunctional smart poles and the NEI City cloud management platform.
+  The company publishes a head office in Amman Sport City and a factory in
+  Abdullah II Ibn Al Hussein Industrial City, Sahab.
+industry: "Electrical equipment and lighting manufacturing; smart-city infrastructure"
 website: "https://nei.com.jo/"
-careers_url: null
-linkedin: null
-hr_email: "info@nei.com.jo"
-size: null
+careers_url: "https://nei.com.jo/job-application/"
+linkedin: "https://www.linkedin.com/company/national-electrical-industry-nei"
+hr_email: null
+size: "11-50 (LinkedIn company estimate; actual headcount not independently audited)"
 location:
-  area: "Sahab"
-  address: "Abdullah II Industrial City, Sahab, Jordan"
-  status: "provided_unverified"
-  latitude: 31.84939
-  longitude: 36.00937
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.84939,36.00937"
+  area: "Sahab, Amman Governorate, Jordan (factory); Sport City, Amman (head office)"
+  address: "Factory: Abdullah II Ibn Al Hussein Industrial City, Sahab, Jordan; head office: Building 63, Al-Shaheed Street, Sport City, Amman 11196, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/place/National+Electrical+Industries/@31.8531447,36.0083039,17z"
 categories:
   - "iot"
 technologies:
-  - "IoT"
+  - "IoT smart lighting (product capability)"
+  - "NEI City cloud-based lighting management (product platform)"
+  - "PLC / RS485 (documented lighting communications)"
+  - "Zigbee (documented lighting communications)"
+  - "LoRa (documented lighting communications)"
+  - "NB-IoT (documented lighting communications)"
+  - "GSM/LTE (documented lighting communications)"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Est. 1984 manufacturer of electrical/lighting systems in Sahab; NEI City cloud platform + IoT smart poles (cameras, weather stations, EV charging, 5G) for smart-city projects. Address and info@nei.com.jo confirmed in official NEI presentation."
+  signals:
+    - "Official Arabic job-application form accepts candidate information, role preference and CV; submission was not tested."
+    - "No dated, currently open vacancy, dedicated internship or graduate program independently confirmed on 2026-10-25."
+notes: >-
+  Reviewed 2026-10-25. Official company website and LinkedIn identify NEI as a
+  Jordanian electrical-panel and lighting manufacturer founded in 1984. The
+  newer official contact page distinguishes the head office at Building 63,
+  Al-Shaheed Street, Sport City, Amman (P.O. Box 19225, Amman 11196) from the
+  factory at Abdullah II Ibn Al Hussein Industrial City, Sahab (P.O. Box 50,
+  Amman 11512). LinkedIn independently identifies the Sahab factory. The
+  published addresses are verified as company-listed locations, not proof of
+  present occupancy or surveyed entrances. Previous coordinates 31.84939,
+  36.00937 were not independently tied to the NEI factory; removed. The
+  official factory map opens a Google Maps viewport near 31.8531447,
+  36.0083039, which is not sufficient to assert an exact entrance coordinate.
+  LinkedIn reports 11-50 employees, not an audited payroll count. The general
+  business email info@nei.com.jo is corroborated by a contractor directory;
+  no dedicated HR mailbox was confirmed, so hr_email is null. The official
+  Arabic job-application form is accessible, but no dated open job, internship
+  or graduate intake was verified and submission was not tested. Official
+  smart-solution pages document connected street lighting, NEI City, smart
+  poles and PLC, RS485, Zigbee, LoRa, NB-IoT and GSM/LTE communications;
+  these describe products and supported protocols, not an independently
+  verified internal programming stack. Petra reported a ministerial visit to
+  the company's production lines on 2026-10-01, supporting recent activity.
+  A legacy official page states formation in 1983, whereas the current main
+  website and LinkedIn state 1984; 1984 is used with the discrepancy noted.
+  Company verification remains partial due to unverified headcount, current
+  vacancies, HR contact, internal software stack and precise factory pin.
 evidence:
   - type: "official_website"
     url: "https://nei.com.jo/"
-    label: "Official website"
+    label: "Current official overview: established 1984, electrical and lighting products (checked 2026-10-25)"
+  - type: "official_website"
+    url: "https://nei.com.jo/contact-us/"
+    label: "Official contact: Sport City head office and Sahab factory addresses, telephone and email"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/national-electrical-industry-nei"
+    label: "Jordan company LinkedIn: founded 1984, Sahab factory, 11-50 employees; distinct from similarly named Omani company"
+  - type: "careers"
+    url: "https://nei.com.jo/job-application/"
+    label: "Official Arabic general employment application form; no dated vacancy listed"
+  - type: "official_website"
+    url: "https://nei.com.jo/nei-smart-solution-2/"
+    label: "Official smart lighting and smart poles: PLC, RS485, NB-IoT, LoRa, Zigbee, LTE"
+  - type: "official_website"
+    url: "https://nei.com.jo/nei-smart-presentation-2/"
+    label: "Official NEI City cloud management platform and connected-lighting systems"
   - type: "other"
-    url: "https://nei.com.jo/wp-content/uploads/2026/06/NEI-Smart-Solution.pdf"
-    label: "Research source"
+    url: "https://pt1.petra.gov.jo/en/upload/mobile/index.php/en/news/local-industries-create-jobs-for-jordanians%C2%A0energy-minister"
+    label: "Petra, 2026-10-01: minister visited NEI manufacturing and lighting production lines"
   - type: "other"
-    url: "https://nei.com.jo/wp-content/uploads/2026/06/NEI-Smart-Presentation.pdf"
-    label: "Research source"
+    url: "https://jo.muqawlat.com/en/club/contractors/view/2352"
+    label: "Jordan contractor directory: general business email info@nei.com.jo and Amman contact"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.84939,36.00937"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/place/National+Electrical+Industries/@31.8531447,36.0083039,17z"
+    label: "Map linked from NEI official contact page; viewport is not an exact factory entrance pin"
+  - type: "official_website"
+    url: "https://nei.com.jo/home/"
+    label: "Legacy official page reports 1983 formation, conflicting with current 1984 history"
+verification_status: "partial"
+last_verified: "2026-10-25"

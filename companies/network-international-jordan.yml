@@ -1,17 +1,24 @@
 name: "Network International Jordan"
-industry: "Financial Services / payment processing"
+description: >-
+  Network International Services Limited Jordan is the Jordanian operation of
+  Network International, a regional payment-technology provider serving merchants,
+  banks and fintechs. Its Jordan services include card and POS transaction
+  processing, merchant acquiring, payment gateways, electronic collections and
+  related payment infrastructure. The Central Bank of Jordan lists the local
+  company as licensed for specified payment-system and payment-service activities.
+industry: "Financial technology / electronic payments and card processing"
 website: "https://www.jordan.network.global/"
-careers_url: null
+careers_url: "https://www.linkedin.com/company/network-international/jobs/"
 linkedin: "https://www.linkedin.com/company/network-international"
-hr_email: null
-size: "51-200"
+hr_email: "recruitment-jo@network.global"
+size: "10,001+ (global LinkedIn company range; Jordan-specific headcount unverified)"
 location:
-  area: "Amman"
-  address: "Abdul Rahim Al-Waked St., Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.9692
-  longitude: 35.904013
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9692,35.904013"
+  area: "Shmeisani, Amman"
+  address: "Building No. 43, Abdul Rahim Al-Waked Street, Shmeisani, Amman, Jordan"
+  status: "verified"
+  latitude: 31.9684162
+  longitude: 35.9027795
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9684162,35.9027795"
 categories:
   - "consulting"
   - "devops"
@@ -20,33 +27,90 @@ categories:
   - "web"
 technologies:
   - "AWS"
+  - "Docker"
   - "Java"
+  - "Kubernetes"
+  - "MongoDB"
+  - "MySQL"
   - "Payment Gateway"
+  - "React"
   - "REST API"
   - "Spring Boot"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Jordan entity verified: licensed by the Central Bank of Jordan, Amman office with Jordan call centre (+962 6 5008500), issuer & merchant support; partners with JoPACC on CliQ QR payments; tech stack inferred from public product/platform descriptions. Pin confirmed by reverse geocode: resolves to the Network International HQ building on Abdul Rahim Al-Waked St.\nstack verified 2026-10-06: 4 employee profiles (Amman devs: Java/Spring Boot on N-Genius payment gateway, AWS, REST APIs) + Senior Java dev on Network International Payment Solutions team"
+  signals:
+    - "Official Jordan CV submission contact: recruitment-jo@network.global; separate NICE technology recruitment contact: nitech_recruitment@network.global."
+    - "Jordan-focused senior backend/software deployment vacancies appeared in 2026 third-party job listings; live employer-side application status not independently verified."
+notes: >-
+  Reviewed 2026-10-26. Jordan legal entity and permitted payment activities are
+  documented by the Central Bank of Jordan. The corporate contact page and CBJ
+  both identify Building 43, Abdul Rahim Al-Waked Street, Shmeisani, Amman;
+  this corroborates the published address but does not independently establish
+  current physical occupancy. CBJ additionally lists branches in Sweifieh
+  and Aqaba. Approximate map coordinates are from a third-party headquarters
+  listing, not a surveyed entrance; the older uncorroborated pin was replaced.
+  The Jordan subdomain is a merchant portal, not a corporate careers site.
+  The official group contact page publishes recruitment-jo@network.global for
+  Network roles in Jordan and nitech_recruitment@network.global for NICE.
+  The LinkedIn size range describes the global group and is not a local staffing
+  estimate; the previous 51-200 figure lacked a reliable Jordan-specific source.
+  Network announced a Mastercard Move collaboration for Jordan on 2026-09-16,
+  supporting recent local activity. The 2022 JoPACC CliQ QR partnership is
+  historical product evidence. Java, Spring Boot, AWS and REST API were
+  previously attributed to Amman employee profiles; MongoDB, MySQL, Docker,
+  Kubernetes and React appear in 2026 third-party job descriptions, not a
+  complete audited internal production stack. An October 29 deadline appears
+  on a third-party backend job listing and a December 2 deadline on a
+  deployment-engineer listing; neither was confirmed on an employer-operated
+  vacancy page. No current Jordan graduate intake or internship verified.
 evidence:
   - type: "official_website"
     url: "https://www.jordan.network.global/"
-    label: "Official website"
+    label: "Jordan merchant portal (not careers site)"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/network-international"
-    label: "LinkedIn company page"
+    label: "Group LinkedIn profile; global employee range"
   - type: "other"
     url: "http://akurateco.com/payment-methods/network-international-jordan"
-    label: "Research source"
+    label: "Historical third-party payment-method background; not used for independent verification"
   - type: "other"
     url: "https://www.jopacc.com/media-center/news/jopacc-collaborates-network-international-launch-instant-qr-payment-services"
-    label: "Research source"
+    label: "JoPACC official CliQ QR partnership announcement, 2022-07-31"
   - type: "other"
     url: "https://www.network.ae/storage/cms_uploads/pdf/faq/Customer_Charter_2025.pdf"
-    label: "Research source"
+    label: "Network International 2025 customer charter"
   - type: "other"
     url: "https://craft.co/network-international"
-    label: "Research source"
+    label: "Historical company directory; not used for Jordan headcount"
+  - type: "official_website"
+    url: "https://www.network.ae/en/onlinepaymentsignup"
+    label: "Official group site with Jordan address, phone and recruitment emails"
+  - type: "other"
+    url: "https://www.cbj.gov.jo/EBV4.0/Root_Storage/AR/Domestic/A_general_register_of_licensed_comp_.pdf"
+    label: "Central Bank of Jordan licensed-company register: entity, address, activities and branches"
+  - type: "other"
+    url: "https://www.ripe.net/membership/member-support/list-of-members/jo/network/"
+    label: "RIPE NCC member record corroborating Building 43 address"
+  - type: "other"
+    url: "https://www.mastercard.com/news/eemea/en/newsroom/press-releases/en/2026/september/network-international-expands-digital-payment-capabilities-in-jordan-through-mastercard-move"
+    label: "Mastercard press release, 2026-09-16: Jordan payment collaboration"
+  - type: "careers"
+    url: "https://www.linkedin.com/company/network-international/jobs/"
+    label: "Company LinkedIn jobs listing; availability varies by location"
+  - type: "job_post"
+    url: "https://jordan.mimusjobs.com/job/senior-backend-software-engineer/"
+    label: "Third-party 2026 Jordan backend job posting; not employer-confirmed open"
+  - type: "job_post"
+    url: "https://jordan.mimusjobs.com/job/senior-software-deployment-engineer/"
+    label: "Third-party 2026 Jordan deployment job posting; not employer-confirmed open"
+  - type: "job_post"
+    url: "https://builtin.com/job/java-front-end-developer/10064315"
+    label: "Historical 2026 React job listing, removed 2026-08-05"
+  - type: "other"
+    url: "https://jo.near-place.com/network-international-jordan-head-quarters-amman"
+    label: "Third-party map listing for approximate headquarters pin"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9692,35.904013"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9684162,35.9027795"
+    label: "Approximate headquarters map point; not surveyed entrance"
+verification_status: "partial"
+last_verified: "2026-10-26"

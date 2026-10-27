@@ -1,43 +1,94 @@
-name: "Nestrom"
-industry: "AgriTech / Field Service Management (IIoT)"
-website: null
-careers_url: null
-linkedin: null
-hr_email: null
-size: "1-10"
-location:
-  area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.95672
-  longitude: 35.92519
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
-categories:
-  - "iot"
-  - "mobile"
-technologies:
-  - "Android"
-  - "IoT"
-job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman agri-tech startup (founded 2017) turning farms into smart farms via SaaS + IIoT sensors; seed-backed by 500 Startups, Wamda Capital and Techstars; no public office address found so address cleared to null; website unreachable as of Oct 2026; The Org lists 1-10 employees."
-evidence:
-  - type: "other"
-    url: "https://www.menabytes.com/nestrom-seed/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/376053/Nestrom"
-    label: "Research source"
-  - type: "other"
-    url: "https://theorg.com/org/nestrom"
-    label: "Research source"
-  - type: "other"
-    url: "https://lucidityinsights.com/startups/nestrom-685"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.abudhabistartup.com/startups/nestrom/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
-    label: "Google Maps location"
+"name": "Nestrom"
+"description": "Jordan-founded enterprise SaaS provider offering no-code workflow and business-process automation\
+  \ for field operations, quality assurance, health and safety, inspections, compliance and HR processes. Initially\
+  \ developed farm-management and industrial-IoT tools; the current company LinkedIn profile emphasizes workflow\
+  \ automation and lists Dubai as its primary headquarters. A current Jordan office has not been confirmed."
+"industry": "Enterprise SaaS / business process and field service management (formerly AgriTech / Industrial IoT)"
+"website": "https://www.nestrom.com/"
+"careers_url": null
+"linkedin": "https://www.linkedin.com/company/nestrom/"
+"hr_email": null
+"size": "2-10 employees (company-wide LinkedIn estimate; Jordan-specific headcount unverified; other directories\
+  \ disagree)"
+"location":
+  "area": "Amman, Jordan (founding and historically documented development location; current Jordan office unconfirmed)"
+  "address": null
+  "status": "unresolved"
+  "latitude": null
+  "longitude": null
+  "maps_url": null
+"categories":
+- "data"
+- "iot"
+- "mobile"
+- "web"
+"technologies":
+- "Android (2018 farm-workforce tracking product; historical)"
+- "Industrial IoT sensors (2018 agricultural platform; historical)"
+- "API integrations (current LinkedIn product capability)"
+- "No-code workflow automation (current LinkedIn product capability)"
+"job_seeker":
+  "early_career_signal": false
+  "signals":
+  - "A company-authored sales development representative advertisement was circulated on LinkedIn approximately\
+    \ 2023; historical only, not an open vacancy."
+  - "No currently accepting Jordan-based vacancy, careers portal, internship or graduate program confirmed as of\
+    \ 2026-10-25."
+  - "General business contact info@nestrom.com is published by Crunchbase; no dedicated recruitment address verified."
+"notes": "Reviewed 2026-10-25. Nestrom was founded in Jordan around 2016-2017: Wamda and contemporary 2018-2019\
+  \ reporting say 2017, whereas the current company LinkedIn profile says 2016. Its original agricultural SaaS,\
+  \ Android workforce-management and IoT sensor products are documented in 2018 reporting; the current company-authored\
+  \ LinkedIn description instead promotes no-code BPM/workflow automation, quality and safety compliance, inspections,\
+  \ analytics and API integrations. LinkedIn lists primary headquarters at Emirates Towers Offices, Area 2071, Dubai,\
+  \ UAE, and 2-10 employees. Wamda and contemporary press establish Jordan origins and historical Jordan-based software\
+  \ development. Lucidity Insights and The Org still list Amman headquarters, while Dealroom and LinkedIn list Dubai,\
+  \ so current Jordan legal/physical presence is not independently confirmed. JordanYP lists Naeb Omran Al Mayata,\
+  \ Amman, but its listing was last updated 2023; another directory suggests Kilo Circle. Neither is sufficient\
+  \ for a present-day office address. Previously recorded 31.95672,35.92519 coordinates and Google Maps search URL\
+  \ were removed as unsupported for the company office. The official nestrom.com website could not be loaded during\
+  \ this review; URL retained from company LinkedIn and directory profiles, but site availability and careers pages\
+  \ cannot be established. Crunchbase publishes info@nestrom.com as general contact, not an HR mailbox. An older\
+  \ sales development representative posting is historical only; no current Jordan vacancies or internship intake\
+  \ confirmed. Product technologies and capabilities are not an audit of internal engineering stack. Verification\
+  \ remains partial due to website access, headquarters conflict, unverified Jordan office, staffing and hiring."
+"evidence":
+- "type": "linkedin_company"
+  "url": "https://www.linkedin.com/company/nestrom/"
+  "label": "Company-authored profile: Dubai primary HQ, 2-10 staff, founded 2016; current no-code workflow/BPM,\
+    \ compliance, analytics and API products (checked 2026-10-25)"
+- "type": "other"
+  "url": "https://www.wamda.com/wamda-investments/nestrom"
+  "label": "Investor Wamda: Jordan origin, founded 2017, 1-10 staff, field-team mobile and IoT data capture"
+- "type": "other"
+  "url": "https://www.menabytes.com/nestrom-seed/"
+  "label": "2018 funding report: Jordan founders, early farm SaaS, Android workforce management, industrial IoT\
+    \ sensors"
+- "type": "other"
+  "url": "https://www.thenationalnews.com/business/technology/generation-start-up-nestrom-harnesses-the-power-of-big-data-to-drive-expansion-and-profits-1.866190"
+  "label": "2019 founder interview: Jordan-based engineering team and expansion plans for UAE/Saudi Arabia (historical)"
+- "type": "other"
+  "url": "https://www.jordanyp.com/company/376053/Nestrom"
+  "label": "JordanYP directory: Naeb Omran Al Mayata address and telephone, last updated 2023; current occupancy\
+    \ not verified"
+- "type": "other"
+  "url": "https://theorg.com/org/nestrom"
+  "label": "Unverified company directory: Amman HQ, 1-10 employees and no listed jobs; conflicts with LinkedIn Dubai\
+    \ HQ"
+- "type": "other"
+  "url": "https://lucidityinsights.com/startups/nestrom-685"
+  "label": "Startup directory: Amman HQ, 11-50 employees, 2017; conflicts with LinkedIn size/HQ"
+- "type": "other"
+  "url": "https://app.dealroom.co/companies/nestrom"
+  "label": "Startup directory: Dubai HQ, Amman founding location, 2-10 staff; LinkedIn company profile link"
+- "type": "other"
+  "url": "https://www.abudhabistartup.com/startups/nestrom"
+  "label": "Product directory: mobile inspection, quality-management workflows, analytics and API integration capabilities"
+- "type": "other"
+  "url": "https://www.crunchbase.com/organization/nestrom"
+  "label": "Company directory: info@nestrom.com general contact, Amman historical profile, field-service software"
+- "type": "other"
+  "url": "https://www.linkedin.com/in/yusufalsayeh"
+  "label": "LinkedIn reshare of company-authored sales development representative job advertisement approximately\
+    \ three years old; not current hiring"
+"verification_status": "partial"
+"last_verified": "2026-10-25"

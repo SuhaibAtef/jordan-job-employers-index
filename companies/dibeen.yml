@@ -1,17 +1,17 @@
 name: "Dibeen"
-description: "Dibeen is a Jordanian farm-to-table food business and online marketplace connecting consumers and organizations with local farmers, producers and cooks. Its current public activity includes consumer ordering and corporate catering in Amman."
+description: "Dibeen is a Jordanian farm-to-table food marketplace and catering business connecting customers with local farmers and producers. Its online store sells farm products and prepared traditional dishes, and it promotes catering for corporate events and gatherings in Amman."
 verification_status: "partial"
-last_verified: "2026-10-07"
-industry: "Food Marketplace / AgriTech / Catering"
+last_verified: "2026-10-23"
+industry: "Food & Beverage / Agriculture / E-commerce / Catering"
 website: "https://www.dibeen.com"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/dibeen"
 hr_email: null
-size: null
+size: "11-50 employees (LinkedIn company-wide estimate)"
 location:
   area: "Amman"
-  address: "Amman, Jordan"
-  status: "provided_unverified"
+  address: "Amman, Jordan (city level only; no verified street address)"
+  status: "approximate"
   latitude: null
   longitude: null
   maps_url: null
@@ -24,14 +24,20 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Verified 2026-10-07. Dibeen's official contact page currently publishes contact@dibeen.com and phone 0775355555 but no street address. Current LinkedIn activity advertises corporate catering in Amman, confirming city-level operations. The previous generic Amman coordinate was removed because it was not a company pin. Shopify remains retained as platform evidence from the company's historical Shopney/Shopify implementation, not as proof of an in-house engineering stack."
+notes: "Reviewed 2026-10-23. Dibeen's current official store lists farm products, prepared meals, and catering packages; its official history describes a family farm in Jerash-Dibeen and a marketplace supporting Jordanian producers. LinkedIn lists Amman as headquarters, Farming as its industry, and 11-50 employees; this is a company-wide platform estimate, not a verified headcount. The official contact page publishes contact@dibeen.com and +962 77 535 5555 for general inquiries, not a confirmed HR contact. No dedicated careers page or current vacancy was verified. No current street-level office address or exact coordinates were established; historical farmers-market or farm locations should not be treated as an office pin. Shopify is retained from earlier historical Shopney/Shopify platform research, not independently reconfirmed during this review and not evidence of an internal engineering stack."
 evidence:
   - type: "official_website"
     url: "https://www.dibeen.com"
-    label: "Official website"
+    label: "Official storefront — farm products, prepared dishes and catering packages; accessed 2026-10-23"
   - type: "official_website"
     url: "https://www.dibeen.com/pages/contact-us"
-    label: "Official contact page — contact@dibeen.com and phone"
+    label: "Official contact page — general contact email and telephone, no office address; accessed 2026-10-23"
+  - type: "official_website"
+    url: "https://www.dibeen.com/pages/about-dibeen-com"
+    label: "Official company story — Jerash-Dibeen family farm and local producer marketplace; accessed 2026-10-23"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/dibeen"
-    label: "Current LinkedIn activity — Amman corporate catering and Jordan operations"
+    label: "Company profile — Amman headquarters, Farming, 11-50 employees and catering activity; accessed 2026-10-23"
+  - type: "other"
+    url: "https://www.queenrania.jo/en/media/press-releases/queen-rania-meets-local-farmers-and-beneficiaries-dibeencom-online-market"
+    label: "Royal Hashemite Court 2021 report — historical marketplace and local farmers context; not current office location"

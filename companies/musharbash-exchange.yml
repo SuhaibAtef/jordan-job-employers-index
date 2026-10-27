@@ -1,45 +1,96 @@
 name: "Musharbash Exchange"
-industry: "Currency Exchange"
-website: "http://www.musharbashexchange.com"
-careers_url: null
-linkedin: "https://www.linkedin.com/company/18843644"
-hr_email: null
+description: >-
+  Jordanian currency-exchange and remittance company founded in 1940. Provides
+  foreign-exchange transactions, domestic and international money transfers,
+  Western Union services, bill payments and access to third-party electronic
+  wallets through its branch network in Jordan.
+industry: "Financial services (foreign exchange, remittances and payment services)"
+website: "https://musharbashexchange.com/"
+careers_url: "https://musharbashexchange.com/en/careers/"
+linkedin: "https://www.linkedin.com/company/musharbash-exchange"
+hr_email: "hr@musharbashexchange.com"
 size: "201-500"
 location:
-  area: "Amman"
-  address: "Wasfi Al Tal St, Complex 133 (Gardens), Amman 11190"
-  status: "approximate"
-  latitude: 31.99357
-  longitude: 35.86058
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99357,35.86058"
+  area: "Amman (Gardens / Wasfi Al-Tal Street)"
+  address: "Complex 133, Wasfi Al-Tal Street, Gardens, Amman 11190, Jordan"
+  status: "verified"
+  latitude: 31.9894619
+  longitude: 35.872776
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9894619,35.872776"
 categories:
   - "fintech"
-technologies:
-  - "E-wallets"
-  - "Online money transfer"
+technologies: []
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Currency exchange house (est. 1940); offers FX, remittances, Western Union services and e-wallets across Jordan; Gardens branch at Wasfi Al Tal St, complex 133. | stack research 2026-10-04: 4 searches, no IT staff profiles, dev roles, or job postings found"
+  signals:
+    - "The official careers page provides a general resume-submission form, but does not list dated vacancies; submission and current recruitment demand were not tested (reviewed 2026-10-25)."
+    - "A company-authored LinkedIn call-center recruitment post from approximately 2024 invited applications to hr@musharbashexchange.com; this is historical hiring evidence, not a confirmed open position."
+notes: >-
+  Reviewed 2026-10-25. The official contact page, branch directory and company
+  LinkedIn corroborate headquarters at Wasfi Al-Tal Street, Gardens, Complex 133;
+  the official Gardens branch map links to approximately 31.9894619, 35.872776.
+  These coordinates are a published map pin, not independently surveyed entrance
+  coordinates or proof of present physical occupancy. Previous coordinates
+  (31.99357, 35.86058) did not match the official Gardens branch map and were
+  replaced. LinkedIn reports 201-500 employees; the company website states over
+  250 employees, both company-reported and not independently audited. The
+  hr@musharbashexchange.com address is documented in a historical company-authored
+  recruitment announcement, while web@musharbashexchange.com is the official
+  general contact. The official careers page accepts resume details but does not
+  establish an open position or successful submission. Musharbash Academy provides
+  internal staff training, not evidence of a publicly accepting internship or
+  graduate program. E-wallets and online remittances are customer-facing services,
+  not verified internal software technologies; no engineering stack or current
+  IT vacancies were established. The fintech category denotes payment-service
+  exposure, not evidence of proprietary fintech software development.
+verification_status: "partial"
+last_verified: "2026-10-25"
 evidence:
   - type: "official_website"
     url: "http://www.musharbashexchange.com"
-    label: "Official website"
+    label: "Previously recorded official domain; HTTPS canonical site checked"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/18843644"
-    label: "LinkedIn company page"
-  - type: "other"
+    label: "Previously recorded company LinkedIn numeric profile URL"
+  - type: "official_website"
     url: "https://musharbashexchange.com/en/branches/"
-    label: "Research source"
+    label: "Official branch directory with Gardens branch and map link"
   - type: "other"
     url: "https://www.xe.com/en-nz/swift-codes/MUEOJOAMXXX/"
-    label: "Research source"
+    label: "Previously recorded SWIFT-code lookup; not independently revalidated"
   - type: "other"
     url: "https://prospectoo.com/company/MusharbashExchange-18843644"
-    label: "Research source"
+    label: "Previously recorded third-party company listing; not independently revalidated"
   - type: "other"
     url: "https://dfkcompany.com/musharbash-exchange/"
-    label: "Research source"
+    label: "Previously recorded third-party listing; not independently revalidated"
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.99357,35.86058"
-    label: "Google Maps location"
+    label: "Historical approximate map query; conflicts with current official Gardens pin"
+  - type: "official_website"
+    url: "https://musharbashexchange.com/en/"
+    label: "Official history, branch count, employee estimate and service overview"
+  - type: "official_website"
+    url: "https://musharbashexchange.com/en/contact/"
+    label: "Official headquarters address, general email and postal code"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/musharbash-exchange"
+    label: "Current company profile, headcount range, headquarters and 2026 activity"
+  - type: "official_website"
+    url: "https://musharbashexchange.com/en/careers/"
+    label: "Official general careers form; no specific open roles listed"
+  - type: "official_website"
+    url: "https://musharbashexchange.com/en/musharbash-academy/"
+    label: "Internal employee training academy, not a confirmed internship program"
+  - type: "official_website"
+    url: "https://musharbashexchange.com/en/ewallet/"
+    label: "Third-party electronic wallet service partnerships"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/posts/musharbash-exchange_job-description-we-are-currently-seeking-activity-7224367876370030593-IFg3"
+    label: "Historical company-authored call-center vacancy and HR mailbox"
+  - type: "other"
+    url: "https://wowjordan.com/en/listing/musharbash-exchange-gardens/"
+    label: "Independent Gardens branch address corroboration"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=31.9894619,35.872776"
+    label: "Approximate official Gardens branch pin, not surveyed entrance"

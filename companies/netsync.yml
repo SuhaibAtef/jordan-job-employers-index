@@ -1,13 +1,20 @@
 name: "NETSYNC"
-industry: "IT Services / Cybersecurity"
-website: "https://www.netsync.com"
-careers_url: null
-linkedin: null
+description: >-
+  NETSYNC (Netsync Network Solutions) is a Houston-headquartered IT solutions
+  integrator and value-added reseller founded in 2002. It designs, deploys and
+  manages enterprise networking, cybersecurity, collaboration, data-center,
+  cloud and managed-services solutions. A third-party office directory lists
+  an Amman location at King Hussein Business Park; a current Jordan office
+  and Jordan-specific hiring were not independently confirmed by the company.
+industry: "IT services, systems integration, networking & cybersecurity"
+website: "https://www.netsync.com/"
+careers_url: "https://www.netsync.com/careers/current-openings/"
+linkedin: "https://www.linkedin.com/company/netsync-network-solutions/"
 hr_email: null
-size: "100-200"
+size: "51-200 (LinkedIn company-size band; global, not Jordan-specific)"
 location:
-  area: "Amman"
-  address: "King Hussein Business Park, Bldg. 5A, 3rd Floor, Amman, Jordan"
+  area: "Amman (reported); global headquarters Houston, Texas"
+  address: "King Hussein Business Park, Building 5A, 3rd Floor, Amman, Jordan (third-party listing; current occupancy unconfirmed)"
   status: "provided_unverified"
   latitude: 31.97183
   longitude: 35.83394
@@ -19,23 +26,72 @@ categories:
 technologies:
   - "Cisco"
   - "GRC"
+  - "AWS"
+  - "Splunk"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "US value-added reseller (HQ Houston) with an Amman office at KHBP; Cisco Master Security Partner doing security assessments, compliance and endpoint/network protection."
+  signals:
+    - "Official current-openings page exists, but its rendered page did not expose an independently confirmable Jordan vacancy as of 2026-10-26."
+    - "LinkedIn lists US-based network technician, security and internship roles; these do not establish active recruitment or early-career opportunities in Jordan."
+notes: >-
+  Reviewed 2026-10-26. Official NETSYNC website and LinkedIn corroborate the
+  Houston headquarters, IT systems-integration business and cybersecurity,
+  networking, cloud and managed-services offerings. LinkedIn's 51-200 company
+  size band is a global profile estimate, not a verified Jordan headcount;
+  employee-profile counts and third-party staff estimates differ. NETSYNC's
+  official locations page says it has four international offices serving the
+  Middle East and Africa, but the rendered office list does not identify
+  Jordan or give an Amman address. Craft lists King Hussein Business Park,
+  Building 5A, 3rd Floor, Amman; SignalHire shows some Jordan-based employee
+  profiles, both third-party and not proof of current office occupancy.
+  Retained existing coordinates 31.97183, 35.83394 as an approximate
+  business-park-area map reference only, not a verified building entrance.
+  The original 100-200 employee estimate was replaced with the company's
+  LinkedIn 51-200 band. Cisco, governance/risk/compliance (GRC), AWS and
+  Splunk are documented partner, product or service capabilities, not an
+  independently verified internal software stack. The official website
+  publishes info@netsync.com as a general contact, but no dedicated HR
+  mailbox was established. The official careers page is accessible; no
+  currently accepting Jordan-specific vacancy or internship was confirmed.
+  US-based internship listings do not imply an Amman internship program.
+  Company-level verification remains partial because Jordan location,
+  occupancy, local staffing and recruitment cannot be independently verified.
 evidence:
   - type: "official_website"
-    url: "https://www.netsync.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.netsync.com/practices/security/security-assessment/"
-    label: "Research source"
-  - type: "other"
+    url: "https://www.netsync.com/"
+    label: "Official NETSYNC website: current services and activity"
+  - type: "official_website"
+    url: "https://www.netsync.com/company/about-us/"
+    label: "Company profile, Houston headquarters and general contact"
+  - type: "official_website"
+    url: "https://www.netsync.com/company/locations/"
+    label: "Official offices page: global footprint, no specific Amman listing in rendered page"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/netsync-network-solutions/"
+    label: "LinkedIn company profile: size band, headquarters and service specialties"
+  - type: "company_listing"
     url: "https://craft.co/netsync-network-solutions/locations"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.signalhire.com/companies/netsync-network-solutions/email-format"
-    label: "Research source"
+    label: "Third-party directory: reported Amman office at KHBP Building 5A"
+  - type: "company_listing"
+    url: "https://www.signalhire.com/companies/netsync-network-solutions/employees"
+    label: "Third-party employee directory: Jordan profiles (not audited headcount)"
+  - type: "official_website"
+    url: "https://www.netsync.com/solutions/security/compliance-governance/"
+    label: "Official governance, risk and compliance services"
+  - type: "official_website"
+    url: "https://www.netsync.com/services/managed-services/aws/"
+    label: "Official AWS managed-services offering"
+  - type: "official_website"
+    url: "https://www.netsync.com/solutions/security/"
+    label: "Official security offerings including Splunk SIEM/SOAR"
+  - type: "careers"
+    url: "https://www.netsync.com/careers/current-openings/"
+    label: "Official careers page; Jordan vacancies not confirmed"
+  - type: "job_post"
+    url: "https://www.linkedin.com/jobs/netsync-network-solutions-jobs"
+    label: "US-based LinkedIn jobs and internships; not evidence of Jordan openings"
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
-    label: "Google Maps location"
+    label: "Previously recorded approximate business-park map point, not an office entrance"
+verification_status: "partial"
+last_verified: "2026-10-26"

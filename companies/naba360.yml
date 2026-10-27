@@ -1,43 +1,77 @@
 name: "NABA360"
-industry: "AI / Social media analytics"
-website: "https://naba360.com"
+description: "NABA360 is a Jordanian social-listening and reputation-management software platform operated under the Naba for Software name. It consolidates news and social-media coverage, analyzes public sentiment, benchmarks competitors, and provides alerts, dashboards, and reporting for organizations."
+industry: "Social listening / Media analytics software"
+website: "https://naba360.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/naba360/"
 hr_email: null
-size: "1-10"
+size: "11-50"
 location:
-  area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  area: "Tla' Al Ali, Amman"
+  address: "Building 52, Mohammad Fayyad Street, Office 309, Tla' Al Ali, Amman 11953, Jordan"
+  status: "verified"
+  latitude: 31.990060
+  longitude: 35.864831
+  maps_url: "https://www.google.com/maps?q=31.990060,35.864831"
 categories:
   - "ai"
   - "data"
-  - "security"
 technologies:
   - "AI/ML"
+  - "Natural language processing / sentiment analysis"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Jordanian AI-powered social media reputation management & sentiment analysis platform (founded 2017) covering standard Arabic, dialects, English, Arabizi and emojis. Company website added (naba360.com, verified via its privacy policy page)."
+notes: >-
+  Reviewed 2026-10-25. The current official homepage documents AI-assisted
+  reputation management, social/news monitoring, competitor benchmarking,
+  smart alerts, and briefings. The company's older official login page identifies
+  NABA360 as a registered trademark of Jordanian Naba for Software LLC and
+  publishes the Mohammad Fayyad Street office; MarComJo independently repeats
+  Building 52 in Tla' Al Ali. This verifies the published address, not current
+  physical occupancy. The coordinates are from the StartupsJo directory's
+  linked office map, not a surveyed building entrance. LinkedIn reports 11-50
+  employees and founding in 2017; older third-party listings report 1-10,
+  so headcount is an unaudited, conflicting estimate. The official legacy site
+  publishes info@naba360.com as a general contact; StartupsJo lists
+  hkattab@naba360.com for a named contact. Neither is verified as HR, so
+  hr_email remains null. No official careers page, currently accepting Jordan
+  vacancy, internship, or graduate program was established. AI/ML and NLP
+  describe documented product capabilities, not a confirmed internal framework
+  or programming-language stack. The prior security category was unsupported.
+verification_status: "partial"
+last_verified: "2026-10-25"
 evidence:
   - type: "official_website"
-    url: "https://naba360.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/375859/NABA360"
-    label: "Research source"
-  - type: "other"
-    url: "https://naba360.com/Privacy.aspx"
-    label: "Research source"
+    url: "https://naba360.com/"
+    label: "Current company homepage: social listening, AI reputation tools and alerts (checked 2026-10-25)"
+  - type: "official_website"
+    url: "https://www.naba360.com/Login.aspx"
+    label: "Company-authored legacy page: legal identity, contact and office address"
+  - type: "official_website"
+    url: "https://naba360.com/landingpage-arabic.aspx"
+    label: "Company product details: Arabic/English sentiment analysis and social media monitoring"
+  - type: "official_website"
+    url: "https://naba360.com/signup_V2.aspx"
+    label: "Live product sign-up page, not a careers application"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/naba360/"
+    label: "Company LinkedIn: 2017 founding, Amman HQ and 11-50 employees"
   - type: "other"
     url: "https://marcomjo.com/company/naba360"
-    label: "Research source"
+    label: "MarComJo: independently repeats Building 52, Mohammad Fayyad Street, Tla' Al Ali"
+  - type: "other"
+    url: "https://www.startupsjo.com/en/Pages/CustomPages/Startup/712"
+    label: "StartupsJo: Jordan company directory, founder contact and office map link"
+  - type: "google_maps"
+    url: "https://www.google.com/maps?q=31.990060,35.864831"
+    label: "StartupsJo-linked office map coordinates; entrance precision unverified"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375859/NABA360"
+    label: "Unverified JordanYP listing; older 1-10 size estimate conflicts with LinkedIn"
+  - type: "other"
+    url: "https://www.crunchbase.com/organization/naba360"
+    label: "Third-party profile: Amman, Naba for Software and conflicting size estimate"
   - type: "other"
     url: "https://bouncewatch.com/ai-companies-in-jordan"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Third-party Jordan AI index (historical research reference, not hiring evidence)"

@@ -1,13 +1,14 @@
 name: "Netcompany-Intrasoft"
-industry: "IT services & consulting (public sector)"
-website: "https://www.netcompany-intrasoft.com"
-careers_url: null
-linkedin: null
-hr_email: null
-size: null
+description: "Netcompany-Intrasoft is a Luxembourg-headquartered IT solutions and services group, part of Denmark's Netcompany Group since 2021, serving public- and private-sector clients through software development, systems integration, application services, analytics and enterprise platforms. Jordan ICT documents an Amman-based regional delivery presence; Intrasoft Middle East operates a closely associated local business, but the exact current legal relationship between the global group and that business has not been independently resolved."
+industry: "IT services, systems integration & enterprise software consulting"
+website: "https://www.netcompany-intrasoft.com/"
+careers_url: "https://intrasoft.me/careers-page/"
+linkedin: "https://www.linkedin.com/company/netcompany-intrasoft-sa/"
+hr_email: "info@intrasoft.me"
+size: "1,001-5,000 (Netcompany-Intrasoft globally); 51-200 (Intrasoft Middle East)"
 location:
   area: "Amman"
-  address: "King Abdullah II Street, Building 191, Khalda, Amman, Jordan"
+  address: "191 King Abdullah II Street, Khalda, Amman 11953, Jordan (published for Intrasoft Middle East)"
   status: "verified"
   latitude: 31.9965732
   longitude: 35.8304577
@@ -17,41 +18,80 @@ categories:
   - "data"
   - "erp"
 technologies:
-  - "Cloudera"
-  - "Microsoft 365"
   - "SAP"
+  - "SAP S/4HANA"
+  - "Oracle E-Business Suite"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Leading European IT group with a regional delivery center out of Jordan covering Palestine, Iraq, Yemen and Qatar; active job postings (incl. service-desk roles) suggest ongoing hiring. Audit 2026-10-03: no verifiable Jordan street address found in public sources — kept city-center fallback (superseded); GPS-verified 2026-10-04 at 191 King Abdullah II St, Khalda, Amman via company contact page + Google Maps pin + Amman Chamber directory; tech items kept as LeadIQ profile (listed source) catalogs vendor tech stacks."
+  signals:
+    - "Intrasoft Middle East careers page displays ERP Principal Consultant, Senior ERP Delivery Manager and SAP SuccessFactors Consultant listings dated April-August 2025; applications are invited on the pages, but 2026 vacancy status is unconfirmed."
+    - "Historical Amman ERP Consultant LinkedIn posting is closed; no current Jordan internship or graduate intake independently confirmed."
+notes: >-
+  Reviewed 2026-10-26. Netcompany-Intrasoft's corporate LinkedIn lists Luxembourg
+  headquarters and 1,001-5,000 employees worldwide; this is not a Jordan headcount.
+  Its legacy INTRASOFT International LinkedIn lists an Amman postal location, and
+  Jordan ICT identifies a Jordan delivery center. Intrasoft Middle East publishes
+  Building 191, King Abdullah II Street, Khalda, and the same Amman phone number
+  shown in the Netcompany-Intrasoft Jordan ICT listing, supporting an associated
+  local presence. The exact legal/ownership relationship between Intrasoft Middle
+  East and the current Netcompany-Intrasoft group, and current office occupancy,
+  were not independently confirmed. Coordinates are an existing Google Maps pin,
+  not surveyed entrance coordinates. Location verified means corroborated published
+  address for the associated local operation, not full company verification.
+  Intrasoft Middle East LinkedIn lists 51-200 staff, distinct from the group's
+  global 1,001-5,000 range. The local careers page has 2025-dated postings and
+  invites CVs to info@intrasoft.me; this is a general inbox explicitly used for
+  applications, not a confirmed dedicated HR mailbox. Netcompany's global vacancy
+  board was inspected and no Amman vacancy was identified on the displayed list
+  as of review. SAP and Oracle EBS/S/4HANA are documented solution and role
+  requirements of the local operation, not an audited internal development stack.
+  Previously listed Cloudera and Microsoft 365 originated from a third-party
+  vendor-stack aggregator and were not independently corroborated, so were removed.
+  The global corporate website timed out during this review; company identity
+  was corroborated through the corporate LinkedIn page and Jordan ICT directory.
+  No verified current Jordan graduate or internship program.
 evidence:
   - type: "official_website"
-    url: "https://www.netcompany-intrasoft.com"
-    label: "Official website"
-  - type: "other"
+    url: "https://www.netcompany-intrasoft.com/"
+    label: "Netcompany-Intrasoft corporate website (timed out during review)"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/netcompany-intrasoft-sa/"
+    label: "Netcompany-Intrasoft global company profile, size and headquarters"
+  - type: "company_listing"
+    url: "https://jordanict.com/2023/node/1069"
+    label: "Jordan ICT company profile: Jordan delivery center and services (historical)"
+  - type: "company_listing"
+    url: "https://jordanict.com/2025/company-listings/netcompany-intrasoft"
+    label: "Jordan ICT contact listing for Netcompany-Intrasoft"
+  - type: "official_website"
     url: "https://intrasoft.me/contact/"
-    label: "Location evidence"
+    label: "Intrasoft Middle East official Amman address and general email"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/intrasoftmiddleeast"
+    label: "Intrasoft Middle East profile, local size and office address"
+  - type: "other"
+    url: "https://intrasoft.me/news/intrasoft-me-partnerledterritories-sap-3/"
+    label: "June 2026 Intrasoft Middle East SAP partnership and address"
+  - type: "careers"
+    url: "https://intrasoft.me/careers-page/"
+    label: "Intrasoft Middle East careers page (2025-dated listings)"
+  - type: "job_post"
+    url: "https://intrasoft.me/careers/erp-principal-consultant-financials/"
+    label: "ERP Principal Consultant listing and application email"
+  - type: "job_post"
+    url: "https://intrasoft.me/careers/sr-erp-delivery-manager/"
+    label: "Senior ERP Delivery Manager requirements: SAP and Oracle"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/erp-consultants-all-tracks-at-intrasoft-middle-east-4144707371"
+    label: "Historical Amman ERP consultant posting, closed"
+  - type: "careers"
+    url: "https://netcompany.com/careers/vacancies/"
+    label: "Netcompany group global vacancies, no Amman opening confirmed"
   - type: "google_maps"
     url: "https://www.google.com/maps/place/Intrasoft+Middle+East/@31.9965732,35.8304577,17z/"
-    label: "Location evidence"
+    label: "Existing approximate map pin for associated Amman office"
   - type: "other"
     url: "https://www.ammanchamber.org.jo/en/directory/details/86961/intrasoft-middel-east--jordan-co-ltd"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://jordanict.com/company-listings/netcompany-intrasoft"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://intrasoft.me/wp-content/uploads/2026/07/IntrasoftSAP.pdf"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://www.devex.com/organizations/intrasoft-international-77648"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://jobs.smartrecruiters.com/Netcompany1/744000017290665-it-support-specialist?trid=67e0074e-17dd-4ae4-8b70-df96cba42b02"
-    label: "Research source"
-  - type: "other"
-    url: "https://leadiq.com/c/netcompany/5a1d8a8624000024006421a1"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9965732,35.8304577"
-    label: "Google Maps location"
+    label: "Amman Chamber directory listing for Intrasoft Middle East (historical)"
+verification_status: "partial"
+last_verified: "2026-10-26"

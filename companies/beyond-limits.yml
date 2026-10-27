@@ -1,47 +1,89 @@
-name: "Beyond Limits"
-description: "Beyond Limits is an AI software company rooted in technology developed at Caltech and NASA JPL. Its products combine machine learning with knowledge-based and reasoning techniques for enterprise decision support; the source dataset documents an Amman engineering and data-science footprint, but current Jordan office evidence is limited."
-verification_status: "partial"
-last_verified: "2026-10-07"
-industry: "AI Engineering (Cognitive AI)"
-website: "https://beyond.ai"
-careers_url: null
-linkedin: null
-hr_email: null
-size: "201-500"
+name: Beyond Limits
+description: Beyond Limits (also branded BeyondAI) develops enterprise and industrial AI software combining machine
+  learning, generative AI and neuro-symbolic reasoning. Its official website lists an Amman office and a Jordan
+  engineering recruitment presence.
+verification_status: partial
+last_verified: '2026-10-22'
+industry: Enterprise AI / Industrial AI Software
+website: https://www.beyond.ai/
+careers_url: https://www.beyond.ai/careers
+linkedin: https://www.linkedin.com/company/beyond-ai/
+hr_email: recruiting@beyond.ai
+size: 201-500
 location:
-  area: "Amman"
-  address: "Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.968794
-  longitude: 35.898969
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.968794,35.898969"
+  area: Shmeisani, Amman
+  address: 11 Al Thaqafa Street, Abdallat Center, Shmeisani, Amman, Jordan
+  status: provided_unverified
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "ai"
-  - "devops"
-  - "web"
+- ai
+- devops
+- web
 technologies:
-  - "AI/ML"
-  - "Docker"
-  - "JavaScript"
-  - "Node.js"
-  - "PHP"
-  - "Python"
-  - "React"
-  - "TypeScript"
+- AI/ML
+- AWS
+- Azure
+- Docker
+- Java
+- JavaScript
+- Jenkins
+- Kubernetes
+- PostgreSQL
+- Python
+- REST APIs
+- Selenium
+- Terraform
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "US AI engineering company (Caltech/NASA JPL roots, hybrid ML + symbolic AI) with an Amman engineering and data-science presence and active Jordan hiring. stack verified 2026-10-07: 2 getprog.ai Amman engineer profiles + theorg profile show React/Node.js/Python/PHP/TypeScript/JavaScript/Docker at BeyondAI/Beyond Limits"
+  early_career_signal: true
+  signals:
+  - Official careers page listed a hybrid, full-time DevOps Engineer opening in Amman described as suitable for
+    early-career applicants (checked 2026-10-22); availability may change.
+  - An official QA Automation Engineer application page described an on-site Jordan role requiring 5-8 years of
+    QA experience; this standalone page may outlast its current listing.
+  - Official job application privacy text identifies recruiting@beyond.ai as a recruitment contact.
+notes: Reviewed 2026-10-22. The company also uses the BeyondAI brand. Its official contact page publishes the Shmeisani,
+  Amman address, but current physical occupancy and building-level coordinates were not independently verified.
+  LinkedIn reports 201-500 employees worldwide; Jordan headcount is unknown. The official careers page displayed
+  a hybrid Amman DevOps Engineer vacancy described as early-career, while an accessible QA Automation Engineer page
+  describes a more senior Jordan role. Official product and engineering materials describe neuro-symbolic AI, cloud
+  deployment and REST interfaces; the QA posting references JavaScript, Java, Python, Selenium, Jenkins, PostgreSQL,
+  Docker, AWS and Azure as requirements or preferences. These technology signals do not establish the complete internal
+  stack. The prior record included React, Node.js, PHP and TypeScript based on third-party individual profiles,
+  which were not independently reconfirmed in current official material. The former coordinate pin was removed because
+  it was not tied reliably to the published office address. Company-level verification remains partial despite official
+  location and recruitment evidence.
 evidence:
-  - type: "official_website"
-    url: "https://beyond.ai"
-    label: "Official website"
-  - type: "job_post"
-    url: "https://uiuxjobsboard.com/job/548321-ux-researcher-amman-jordan"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.twine.net/irshaidt"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.968794,35.898969"
-    label: "Google Maps location"
+- type: official_website
+  url: https://www.beyond.ai/
+  label: Official BeyondAI website, enterprise and industrial AI services (checked 2026-10-22)
+- type: official_website
+  url: https://www.beyond.ai/contact
+  label: Official contact page listing 11 Al Thaqafa Street, Abdallat Center, Shmeisani, Amman (checked 2026-10-22)
+- type: careers_page
+  url: https://www.beyond.ai/careers
+  label: Official careers page displaying hybrid Amman DevOps Engineer position (checked 2026-10-22)
+- type: job_post
+  url: https://www.beyond.ai/careers/qa-automation-engineer
+  label: Official Jordan QA job description, technical requirements and recruiting email; standalone page not proof
+    of live listing
+- type: official_website
+  url: https://www.beyond.ai/technology
+  label: Official neuro-symbolic AI technology and deployment documentation
+- type: official_website
+  url: https://www.beyond.ai/platform
+  label: Official agentic AI platform and REST interface capabilities
+- type: linkedin_company
+  url: https://www.linkedin.com/company/beyond-ai/
+  label: BeyondAI LinkedIn company profile, global 201-500 employee range and Glendale headquarters
+- type: job_post
+  url: https://www.beyond.ai/careers/devops-engineer
+  label: Older official DevOps job page naming Jordan/Saudi Arabia and AWS, Docker, Kubernetes, Terraform; may be
+    stale
+- type: job_post
+  url: https://uiuxjobsboard.com/job/548321-ux-researcher-amman-jordan
+  label: Historical third-party Amman UX research listing; not current vacancy evidence
+- type: other
+  url: https://www.twine.net/irshaidt
+  label: Historical individual-profile research source; not authoritative for current company stack

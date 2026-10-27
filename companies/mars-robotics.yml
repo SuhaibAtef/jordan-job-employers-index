@@ -1,36 +1,71 @@
 name: "MARS Robotics"
-industry: "Robotics / Autonomous systems"
-website: "http://www.marsrobotic.com"
+description: "Irbid-based aerospace engineering company developing autonomous unmanned aerial systems, flight-control and ground-control solutions, UAV communications, and remote-sensing services for civilian and defence applications."
+industry: "Aviation and Aerospace Component Manufacturing / Autonomous Systems"
+website: "https://marsrobotic.com/"
 careers_url: null
-linkedin: null
-hr_email: null
-size: null
+linkedin: "https://www.linkedin.com/company/mars-robotics"
+hr_email: "hr@marsrobotic.com"
+size: "51-200"
 location:
   area: "Irbid"
-  address: null
-  status: "approximate"
-  latitude: 32.5569
-  longitude: 35.8469
-  maps_url: "https://www.google.com/maps/search/?api=1&query=32.5569,35.8469"
+  address: "Wasfi At-Tal Street, Irbid, Jordan"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "iot"
 technologies:
   - "Drones"
   - "Embedded Systems"
+  - "UAV autopilot systems"
+  - "Ground Control Stations"
+  - "RF communications"
+  - "LiDAR"
+  - "Photogrammetry"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Irbid-based autonomous UAV/robotics company (majority stake acquired by UAE's EDGE); designs and develops Unmanned Aerial Systems (Group 1-4) including autopilot hardware/software and ground control stations, and trains a limited number of young engineers selected on performance. No public Irbid street address found."
+  early_career_signal: true
+  signals:
+    - "Company LinkedIn posted Irbid Radio Frequency Engineer and Senior Human Resources Officer opportunities in 2026; sampled LinkedIn job pages say applications are no longer accepted."
+    - "Historical Irbid R&D engineering recruitment welcomed fresh graduates; the inspected LinkedIn posting is closed."
+    - "Historical Mechanical Design internship was advertised in Irbid; the inspected LinkedIn posting is closed."
+notes: "Reviewed 2026-10-24. Company LinkedIn identifies Irbid headquarters, Wasfi At-Tal Street, founding year 2014, and a self-reported 51-200 employee range; this is not an audited headcount. Third-party directories instead list Fawzi Al Mulqi Street and sometimes 11-50 employees, so the exact street/building and current workforce remain unresolved. The prior 32.5569,35.8469 pin was a generic Irbid-area coordinate, not verified premises; precise coordinates and map pin removed. The company website advertises UAV/autopilot, ground-control, remote-sensing, LiDAR and related services, but its pages could not be reliably opened live during this review; the official-domain identification is supported by LinkedIn and a Jordan industry directory. General contact info@marsrobotic.com and telephone +962 2 7102026 appear on the company's indexed site and a Jordan industry directory. HR@marsrobotic.com is explicitly published in a company-authored LinkedIn recruitment post and an Irbid engineering vacancy; delivery was not tested. LinkedIn shows 2026 hiring posts for Irbid RF engineering and senior HR roles, but inspected job pages show no longer accepting applications; do not classify as currently open. Historical fresh-graduate R&D and Mechanical Design internship listings were also closed. Technologies describe documented products/services and vacancy requirements, not a confirmed complete internal software stack. Emirates News Agency reported EDGE's acquisition of an 80% stake in May 2023; current ownership was not reaudited. No independently confirmed building-level address, precise coordinates, live careers URL, or open role established."
 evidence:
   - type: "official_website"
     url: "http://www.marsrobotic.com"
-    label: "Official website"
+    label: "Official domain (company site indexed; live access intermittent)"
   - type: "other"
     url: "https://www.defaiya.com/news/Defense%20News/Asia/2023/05/23/edge-acquires-majority-stake-in-mars-robotics-of-jordan&text=EDGE"
-    label: "Research source"
+    label: "2023 EDGE majority-acquisition report (historical)"
   - type: "other"
     url: "https://defence-industry.eu/edge-acquires-majority-stake-in-mars-robotics/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=32.5569,35.8469"
-    label: "Google Maps location"
+    label: "2023 EDGE acquisition announcement coverage"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/mars-robotics"
+    label: "Company profile: Irbid location, industry, 51-200 size and recent recruitment posts"
+  - type: "other"
+    url: "https://www.wam.ae/en/article/hszrh5h8-edge-acquires-majority-stake-mars-robotics"
+    label: "Emirates News Agency: EDGE acquired 80% in May 2023"
+  - type: "other"
+    url: "https://grc.erc-jordan.org/info_card/mars-robotics/"
+    label: "Jordan industry directory: Irbid, official domain, general email and telephone"
+  - type: "official_website"
+    url: "https://marsrobotic.com/MARS_latest.aspx?p=5"
+    label: "Indexed official site: UAV products, remote-sensing services and contacts"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/radio-frequency-engineer-at-mars-robotics-4438066915"
+    label: "Irbid RF engineering role: HR email; no longer accepting applications"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/research-and-development-engineers-at-mars-robotics-4216639021"
+    label: "Historical fresh-graduate R&D role; applications closed"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/mechanical-design-at-mars-robotics-4217064022"
+    label: "Historical Mechanical Design internship; applications closed"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/posts/mars-robotics_marsrobotics-idex2025-activity-7298826753890766848-G_Bd"
+    label: "Company-authored 2025 recruitment post publishing hr@marsrobotic.com"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/senior-human-resources-officer-at-mars-robotics-4374558423"
+    label: "Irbid senior HR recruitment evidence; applications closed"
+verification_status: "partial"
+last_verified: "2026-10-24"

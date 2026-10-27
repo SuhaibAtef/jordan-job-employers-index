@@ -1,14 +1,19 @@
 name: "Mindware"
-industry: "IT distribution / Value-added distributor"
-website: "https://mindware.net/jordan/"
-careers_url: null
-linkedin: null
+description: >-
+  Mindware is a Dubai-headquartered value-added IT distributor founded in 1991,
+  supplying infrastructure, networking, storage, cloud and cybersecurity products
+  and related pre-sales, implementation and technical support to channel partners
+  across the Middle East and Africa. Its Jordan operation is listed in Amman.
+industry: "IT value-added distribution / Enterprise technology solutions"
+website: "https://mindware.net/"
+careers_url: "https://mindware.net/about-us/careers/"
+linkedin: "https://www.linkedin.com/company/mindware/"
 hr_email: null
-size: null
+size: "201-500"
 location:
   area: "Amman"
-  address: "Al Rayan Tower, 5th fl., Queen Alia St., Amman, Jordan"
-  status: "provided_unverified"
+  address: "Mindware Jordan, Al Rayan Tower, 5th floor, 31 Queen Alia Street, Amman, Jordan"
+  status: "verified"
   latitude: 31.97664
   longitude: 35.90467
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.97664,35.90467"
@@ -20,18 +25,63 @@ technologies:
   - "VMware"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Regional value-added IT distributor with a Jordan office serving 400+ channel partners; distributes Dell Technologies, VMware, Acronis and cybersecurity/cloud portfolios across the Levant."
+  signals:
+    - "2026-01-23: Amman Channel Manager vacancy (Req ID 2907); LinkedIn lists applications closed as of 2026-10-25."
+notes: >-
+  Mindware's official presence directory lists Mindware Jordan at Al Rayan
+  Tower, fifth floor, Queen Alia Street, Amman (P.O. Box 941979 - 11194).
+  A third-party business listing independently identifies Al Rayyan Tower at
+  31 Queen Alia Street. The published address is verified as a company-listed
+  office, but present-day occupancy and exact entrance-level precision of the
+  previously recorded coordinates (31.97664, 35.90467) have not been
+  independently established. LinkedIn's 201-500 employee band describes the
+  regional/global company, not Jordan-specific headcount. The official careers
+  page links to the Midis Group recruitment system; a 2026-01-23 Amman Channel
+  Manager advertisement required 5-8 years of experience and is closed on
+  LinkedIn. No currently accepting Jordan-specific role was independently
+  confirmed on 2026-10-25. The regional Mindware Academy describes internship
+  pathways, but no currently open Jordan-specific internship or graduate
+  intake was established. No dedicated public Jordan HR email was verified.
+  VMware is documented in the 2025 Jordan distribution partnership; Veeam is
+  retained from the previous record as a vendor portfolio technology, not
+  proof of internal deployment. July 2026 Jamf and Rapid7 partnerships also
+  explicitly include Jordan. The devops and security categories describe
+  supported infrastructure/security offerings, not necessarily internal
+  engineering teams. The original map pin is retained as approximate and
+  should not be interpreted as a verified office entrance.
 evidence:
   - type: "official_website"
-    url: "https://mindware.net/jordan/"
-    label: "Official website"
+    url: "https://mindware.net/"
+    label: "Official company overview and regional value-added distribution services (checked 2026-10-25)"
+  - type: "official_website"
+    url: "https://mindware.net/contact-us/presence/"
+    label: "Official Jordan office listing: Al Rayan Tower, fifth floor, Queen Alia Street (checked 2026-10-25)"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/mindware/"
+    label: "Company LinkedIn: Dubai headquarters, founded 1991, 201-500 employees globally"
+  - type: "official_website"
+    url: "https://mindware.net/about-us/careers/"
+    label: "Official Mindware careers page and job-search entry point (checked 2026-10-25)"
   - type: "other"
-    url: "https://uaetimes.ae/mindware-expands-distribution-to-cover-jordan-and-iraq/"
-    label: "Research source"
+    url: "https://careers.midisgroup.com/content/Multi-Distribution/?locale=en_US"
+    label: "Midis Group Mindware recruitment and regional academy internship program"
+  - type: "linkedin_job"
+    url: "https://jo.linkedin.com/jobs/view/channel-manager-at-mindware-4381280908"
+    label: "Amman Channel Manager, posted 2026-01-23, Req ID 2907; applications closed"
+  - type: "official_website"
+    url: "https://mindware.net/mindware-vmware-portfolio-expansion/"
+    label: "Official 2025-02-17 VMware distribution partnership including Jordan"
+  - type: "official_website"
+    url: "https://mindware.net/mindware-partners-with-jamf/"
+    label: "Official 2026 Jamf partnership covering Jordan; rollout from July 2026"
+  - type: "official_website"
+    url: "https://mindware.net/mindware-partners-with-rapid7/"
+    label: "Official 2026-07-14 Rapid7 distribution partnership including Jordan"
   - type: "other"
-    url: "https://meatechwatch.com/2025/02/18/mindware-partners-with-vmware-to-accelerate-digital-transformation-in-the-levant/"
-    label: "Research source"
+    url: "https://www.cybo.com/JO-biz/mindware-jordan"
+    label: "Third-party listing independently corroborates Al Rayyan Tower, 31 Queen Alia Street"
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.97664,35.90467"
-    label: "Google Maps location"
+    label: "Previously recorded approximate map pin; precise office entrance not independently checked"
+verification_status: "partial"
+last_verified: "2026-10-25"

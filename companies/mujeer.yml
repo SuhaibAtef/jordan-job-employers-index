@@ -1,47 +1,81 @@
 name: "MUJEER"
-industry: "Software development (ERP/web/mobile)"
-website: "https://mujeer.com"
+description: >-
+  Amman-based software development and digital services company founded in 2017.
+  Builds custom ERP systems, websites and mobile applications, and provides cloud
+  hosting, IT consulting and business-systems integration services.
+industry: "Software development and IT services (ERP, web, mobile, systems integration)"
+website: "https://mujeer.com/"
 careers_url: null
-linkedin: null
-hr_email: "wecare@mujeer.com"
-size: null
+linkedin: "https://www.linkedin.com/company/mujeer"
+hr_email: "hr@mujeer.com"
+size: "2-10"
 location:
-  area: "Amman"
+  area: "Amman (Shmeisani)"
   address: "53 Al-Fadeleyah Street, 2nd Floor, Shmeisani, Amman 11194, Jordan"
   status: "verified"
   latitude: 31.9629222
   longitude: 35.8983423
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.96238,35.89853"
 categories:
-  - "data"
   - "erp"
   - "mobile"
   - "web"
 technologies:
   - "iOS"
+  - "Android"
+  - "Flutter"
+  - "REST APIs"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Software development company in Amman (Shmeisani); custom ERP, mobile apps and websites; lists an HR Manager on its team page. wecare@ is its public general-contact email (verified on mujeer.com/en/). Street-level GPS on Al-Fadeleyah St.\nstack research 2026-10-06: 3 searches; company site lists ERP/mobile/web services but no employee profiles or dev job postings found; tags unchanged"
+  signals:
+    - "Company LinkedIn advertised an on-site marketing and sales opening in Shmeisani, Amman around August 2026, with applications directed to hr@mujeer.com; whether applications remain open was not established."
+notes: >-
+  Reviewed 2026-10-25. The official contact page and company LinkedIn independently
+  corroborate 53 Al-Fadeleyah Street in Shmeisani; the second-floor detail comes
+  from the official site. Existing mapped coordinates are retained as approximate
+  street-area coordinates, not verified building-entrance coordinates or proof of
+  current physical occupancy. LinkedIn reports 2-10 employees globally (unaudited)
+  and a 2017 founding year. The company site lists an HR Manager but only publishes
+  wecare@mujeer.com as its general contact; hr@mujeer.com is supported by a
+  company-authored 2026 marketing/sales recruitment post, not a confirmed permanent
+  careers mailbox. The company markets iOS/Android development; its LinkedIn
+  posts and employee project descriptions reference Flutter mobile development and
+  REST APIs for a workforce-management product. These are documented project/service
+  technologies, not a comprehensive audited internal stack. ERP reporting is not
+  evidence of a dedicated data-engineering practice, so the former data category
+  was removed. No official careers portal, active engineering vacancy, or dedicated
+  internship/graduate intake was confirmed; the older marketing/sales advert's
+  current acceptance status is unknown.
+verification_status: "partial"
+last_verified: "2026-10-25"
 evidence:
   - type: "official_website"
     url: "https://mujeer.com"
-    label: "Official website"
-  - type: "other"
+    label: "Official company website and ERP/mobile/web services"
+  - type: "official_website"
     url: "https://mujeer.com/en/contact"
-    label: "Location evidence"
+    label: "Official Shmeisani street address, second floor and general contact"
   - type: "google_maps"
     url: "https://www.google.com/maps/place/MUJEER/@31.9629222,35.8983423,17z"
-    label: "Location evidence"
-  - type: "other"
+    label: "Existing mapped company location; entrance precision not confirmed"
+  - type: "linkedin_company"
     url: "https://www.linkedin.com/company/mujeer"
-    label: "Location evidence"
+    label: "Company profile, size, headquarters, address, recruiting email and posts"
   - type: "other"
     url: "https://www.facebook.com/mujeer.co/about"
-    label: "Location evidence"
-  - type: "other"
+    label: "Previously recorded social company listing; not independently revalidated"
+  - type: "official_website"
     url: "https://mujeer.com/en/"
-    label: "Research source"
+    label: "Company history and iOS/Android development offerings"
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.96238,35.89853"
-    label: "Google Maps location"
+    label: "Previously recorded map query; approximate only"
+  - type: "official_website"
+    url: "https://mujeer.com/en/services"
+    label: "ERP, cloud, web/mobile development, e-invoicing and integration services"
+  - type: "official_website"
+    url: "https://mujeer.com/en/team"
+    label: "Company team page listing an HR Manager and developer"
+  - type: "official_website"
+    url: "https://mujeer.com/en/services/basma"
+    label: "Workforce management product description"

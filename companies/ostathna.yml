@@ -1,39 +1,74 @@
 name: "Ostathna"
-industry: "EdTech / Online Tutoring"
-website: "https://ostathna.com"
+description: >-
+  Ostathna is an online education platform associated with Amman, Jordan,
+  providing on-demand live tutoring, homework assistance and school-focused
+  academic support for students in Jordan and the wider Middle East and North
+  Africa. Its website also describes educational guidance and inclusive
+  learning support for students with disabilities.
+industry: "Education Technology / Online Tutoring and Academic Support"
+website: "https://ostathna.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/ostath"
 hr_email: null
 size: "1-10"
 location:
-  area: "Amman"
-  address: "Wasfi At-Tall St."
-  status: "approximate"
-  latitude: 31.99357
-  longitude: 35.86058
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99357,35.86058"
+  area: "Khalda, Amman"
+  address: "224 Wasfi Al Tal Street, Jerusalem Centre, 3rd floor, Khalda, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=224+Wasfi+Al+Tal+Street+Jerusalem+Centre+Amman+Jordan"
 categories:
   - "edtech"
   - "web"
 technologies:
-  - "Web platform"
+  - "Web-based live tutoring and student-support platform (documented product capability; internal software stack unverified)"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman 24/7 online tutoring and homework-help platform for MENA students (est. 2020, 1-10 people); subscription-based with upcoming app. Pin upgraded from city-center fallback to Wasfi Al-Tal Street (per JordanYP directory listing). No public hiring found. stack research 2026-10-05: 5 searches; no employee profiles, GitHub repos, or dev job postings found (1-10 person edtech, site is a minimal platform-choice page); tags unchanged"
+notes: >-
+  Reviewed 2026-10-27. The currently accessible official website describes
+  on-demand online academic help, 24/7 tutor access, school support, educational
+  guidance and inclusive learning services. The official terms of service name
+  Ostathna, Inc. and publish Khalda, 224 Wasfi Al Tal Street, Jerusalem Centre,
+  Amman, info@ostathna.com and +962 777 626232. A LinkedIn profile titled
+  Ostath links to ostathna.com and lists 224 Wasfi Al Tal Street, Jerusalem
+  Centre, third floor, Amman; it reports founding in 2020 and one employee.
+  The JordanYP directory, explicitly marked an unverified listing, reports
+  1-10 employees and the same street and telephone. The retained 1-10 size is
+  therefore an approximate historical directory estimate, not audited current
+  headcount. The company-published street address is not independent evidence
+  of current occupancy; previous coordinates 31.99357,35.86058 were removed
+  because no reliable source tied them to the precise occupied premises. The
+  replacement map URL searches the published address, not a surveyed office
+  pin. info@ostathna.com is a general contact from the official terms, not
+  a verified HR or applications mailbox. No dedicated careers page, active
+  employer job advertisement, internship, graduate program or early-career
+  hiring intake was established. The online platform is a documented product
+  capability, not evidence of its internal programming languages, frameworks,
+  cloud provider or production stack. The similar-sounding Ostathi Jordan
+  (jo.ostathi.com) is a different platform and its workforce, address and
+  recruitment details must not be attributed to Ostathna. Company activity
+  and published contact details are supported, but current staffing, exact
+  physical occupancy and direct-employer recruitment remain unverified.
 evidence:
   - type: "official_website"
-    url: "https://ostathna.com"
-    label: "Official website"
+    url: "https://ostathna.com/"
+    label: "Official live platform selection page, including accessible student options; reviewed 2026-10-27"
+  - type: "official_website"
+    url: "https://ostathna.com/about-ostathna"
+    label: "Official description of 24/7 online tutoring, school support and inclusive academic services"
+  - type: "official_website"
+    url: "https://ostathna.com/heros"
+    label: "Official tutoring portal, school levels, payment and guidance features"
+  - type: "official_website"
+    url: "https://ostathna.com/img/Ostathna-Terms-of-Service.pdf"
+    label: "Official terms, page 10: Ostathna Inc., Amman address, general email and phone; historical document"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/ostath"
+    label: "Ostath profile links the exact ostathna.com domain and reports Amman address, 2020 founding and one employee"
   - type: "other"
     url: "https://www.jordanyp.com/company/375677/Ostathna"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanyp.com/category/edtech_educational_technology"
-    label: "Research source"
-  - type: "other"
-    url: "https://ostathna.com/index"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.99357,35.86058"
-    label: "Google Maps location"
+    label: "Unverified JordanYP directory listing: 1-10 employee estimate, Amman street and phone"
+verification_status: "partial"
+last_verified: "2026-10-27"

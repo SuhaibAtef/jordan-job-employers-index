@@ -1,38 +1,86 @@
 name: "MobiSoft Middleeast"
-industry: "Enterprise mobile solutions"
-website: "https://mobisoft-me.com"
+description: >-
+  Amman-based enterprise mobile software provider developing field-data collection,
+  population census and survey, inspection, location-tracking, and GIS-enabled
+  solutions for public- and private-sector organizations across the Middle East.
+  Its documented products include FalconMap, MobiTracker, and Ada'a.
+industry: "Enterprise mobile software, field-data collection and GIS"
+website: "https://www.mobisoft-me.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/mobisoftme"
 hr_email: null
-size: "2-9"
+size: "51-200"
 location:
-  area: "Amman"
-  address: "185 Wasfi Altal Str., Khalda - Wahet Ammon Building, Amman 11953, Jordan"
-  status: "provided_unverified"
+  area: "Khalda, Amman"
+  address: "185 Wasfi Al-Tal Street, Wahet Ammon (Amoon Oasis) Building, Office 302, Khalda, Amman 11953, Jordan"
+  status: "verified"
   latitude: 31.99273
   longitude: 35.86385
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.99273,35.86385"
 categories:
   - "data"
-  - "erp"
   - "mobile"
 technologies:
   - "GIS"
-  - "REST API"
+  - "Android"
+  - "iOS"
+  - "Oracle Spatial"
+  - "Esri GIS"
+  - "API-driven integrations"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Enterprise mobile/wireless apps company (founded 2001); delivered mobile-based population censuses for Oman, Jordan, Palestine and government inspection apps. Audit 2026-10-03: GPS upgraded — the old pin (31.99725, 35.84949) did not match the office; new pin (31.99273, 35.86385) decoded from the verified jordanyp listing's plus code (XVV7+4C8) and independently corroborated by the Google Maps business listing tied to mobisoft-me.com. Address reconfirmed on clutch.co and goodfirms. tech_stack reduced to GIS (evidenced); iOS/Android/Windows Mobile untraceable in sources. | stack verified 2026-10-06: GIS confirmed via Clutch (mobile census w/ GIS visualization) + FalconMap GIS platform (jordanict.com); added REST API from API-driven architecture description"
+notes: >-
+  Reviewed 2026-10-25. Company LinkedIn shows Amman headquarters, a Khalda
+  Amoon Oasis location, and recent 2026 posts, supporting ongoing company
+  activity. The company's published address is independently corroborated by
+  int@j, including Office 302, and the historical official product pages;
+  this verifies the published office address, not current physical occupancy.
+  Coordinates were retained from the earlier owner-validated JordanYP map
+  plus-code research and are approximate, not entrance-level GPS confirmation.
+  LinkedIn reports 51-200 employees, whereas int@j lists 1-24 and the Jordan
+  ICT directory says 25+; current audited headcount and Jordan-specific size
+  are unknown. LinkedIn says founded 2001, whereas int@j and Jordan ICT say
+  2010; founding year remains disputed. Official pages document Android,
+  iOS, Oracle Spatial and Esri GIS for delivered solutions; Jordan ICT
+  describes API-driven architecture but does not specifically confirm REST.
+  These are product/service technologies, not a verified current internal
+  engineering stack. The official homepage displayed a maintenance notice
+  during this review; indexed product pages remained available. General
+  contact info@mobisoft-me.com and +962 6 5377090 are published, but no
+  dedicated HR email, careers portal, accepting Jordan vacancy, internship
+  or graduate programme was independently confirmed. Removed unsupported
+  ERP category and REST-specific technology assertion.
 evidence:
   - type: "official_website"
-    url: "https://mobisoft-me.com"
-    label: "Official website"
+    url: "https://www.mobisoft-me.com/"
+    label: "Official website; homepage under maintenance at review"
+  - type: "official_website"
+    url: "https://www.mobisoft-me.com/index.php/apps/mobitracker"
+    label: "Official product page; published Amman address, phone and general email"
+  - type: "official_website"
+    url: "https://www.mobisoft-me.com/index.php/solutions/geographical-information-system-gis"
+    label: "Official GIS page; Oracle Spatial and Esri tools"
+  - type: "official_website"
+    url: "https://www.mobisoft-me.com/index.php/solutions/e-services-and-e-government"
+    label: "Official mobile-app projects; Android and iOS evidence"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/mobisoftme"
+    label: "Company LinkedIn; size, headquarters, Khalda location and 2026 activity"
+  - type: "other"
+    url: "https://www.intaj.net/network/mobisoft"
+    label: "Jordan ICT association member directory; office 302 and contact"
+  - type: "other"
+    url: "https://jordanict.com/company-profile/mobisoft"
+    label: "Jordan ICT company profile; products, staffing and API architecture"
+  - type: "other"
+    url: "https://www.jordanyp.com/company/375550/MobiSoft_Middleeast"
+    label: "Owner-validated directory listing; map plus code and telephone"
   - type: "other"
     url: "https://www.goodfirms.co/company/mobisoft-middleeast"
-    label: "Research source"
-  - type: "other"
-    url: "http://clutch.co/profile/mobisoft-middleeast"
-    label: "Research source"
+    label: "Independent published address corroboration"
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.99273,35.86385"
-    label: "Google Maps location"
+    label: "Approximate previously researched business map coordinates"
+verification_status: "partial"
+last_verified: "2026-10-25"
