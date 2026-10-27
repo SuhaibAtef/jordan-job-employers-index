@@ -1,31 +1,72 @@
 name: "Orient Jordan"
-industry: "Staffing & Recruiting"
-website: "https://www.orientjordan.com"
-careers_url: null
-linkedin: null
-hr_email: "Gm@orientjordan.com"
-size: null
+description: >-
+  Orient Jordan is a recruitment consultancy and HR services business with a
+  company-published office in Amman. It sources specialized personnel for
+  employers across the Middle East, particularly medical professionals for
+  hospitals and clinics in Gulf countries, and describes candidate screening,
+  recruitment coordination and workforce placement services.
+industry: "Staffing and recruiting / Healthcare recruitment and HR consultancy"
+website: "https://www.orientjordan.com/"
+careers_url: "https://www.orientjordan.com/"
+linkedin: "https://www.linkedin.com/company/orient-human-resource-consultancy"
+hr_email: "hr@orientjordan.com"
+size: "11-50"
 location:
-  area: "Amman"
+  area: "Amman (company-published Jordan office)"
   address: "Gardens Street, Waha Ammoun Building, 7th Floor, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.98574
-  longitude: 35.88051
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.98574,35.88051"
-categories:
-  - "web"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Waha+Ammoun+Building+Gardens+Street+Amman+Jordan"
+categories: []
 technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman recruitment consultancy (Gardens Street, Waha Ammoun Building) supplying specialized manpower across the Middle East, with a focus on medical personnel. Address and email per the company profile PDF hosted on its own domain. stack research 2026-10-06: 3 searches (employee snippets, job boards, careers page); no dev employee profiles or dev postings found - medical-recruitment consultancy, site runs WordPress only"
+notes: >-
+  Reviewed 2026-10-26. The official contact page and company-profile PDF
+  independently repeat the company's own Gardens Street, Waha Ammoun Building,
+  seventh-floor Amman address; this is a published address, not independent
+  confirmation of present physical occupancy. Removed the prior coordinates
+  31.98574,35.88051 because no reliable evidence tied that point to the
+  company's office. The map URL is an address search, not a surveyed pin.
+  The official site publishes general/management contact gm@orientjordan.com,
+  +962 6 2000519 and +962 79 9640590. Company-authored medical recruitment
+  advertisements give hr@orientjordan.com for candidate applications; the
+  mailbox is a recruitment contact, not proof of a dedicated internal HR team
+  or active monitoring. A LinkedIn company profile using orientjordan.com
+  reports 11-50 employees, founded 2016 and Abu Dhabi as its primary location;
+  these company-reported figures do not establish Jordan headcount or the
+  legal relationship between UAE and Jordan offices. The website displays
+  many medical job advertisements for third-party hospitals and clinics in
+  the UAE, Saudi Arabia, Qatar and Kuwait. Listings generally lack reliably
+  visible publication dates or deadlines, so current acceptance is not
+  confirmed. These are client vacancies, not evidence that Orient Jordan is
+  directly hiring employees or offering entry-level jobs or internships.
+  No independently supported programming languages, internal production
+  technology stack or software-engineering recruitment was found. Removed
+  the earlier web category because a public website/WordPress installation
+  does not establish that the employer recruits or develops web technology.
+  Company operations, exact occupancy, employee size and direct-employer
+  recruitment remain only partially verified.
 evidence:
   - type: "official_website"
-    url: "https://www.orientjordan.com"
-    label: "Official website"
-  - type: "other"
+    url: "https://www.orientjordan.com/"
+    label: "Official site: recruitment consultancy services and third-party medical job feed; reviewed 2026-10-26"
+  - type: "official_website"
+    url: "https://www.orientjordan.com/get-in-touch/"
+    label: "Official Amman office address, general contact email and telephone numbers"
+  - type: "official_website"
     url: "https://www.orientjordan.com/wp-content/uploads/2021/01/orient_compressed.pdf"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.98574,35.88051"
-    label: "Google Maps location"
+    label: "Company profile: staffing services, Amman address and regional medical recruitment"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/orient-human-resource-consultancy"
+    label: "Profile matching official domain: 11-50 company-wide employees, Abu Dhabi primary location and recruitment posts"
+  - type: "job_post"
+    url: "https://www.orientjordan.com/%D9%85%D8%B7%D9%84%D9%88%D8%A8-%D9%84%D8%AF%D9%89-%D9%85%D8%B1%D9%83%D8%B2-%D8%B7%D8%A8%D9%8A-%D9%81%D9%8A-%D8%AF%D9%88%D9%84%D8%A9-%D9%82%D8%B7%D8%B1-%D9%81%D9%86%D9%8A-%D8%A7%D8%B3%D9%86%D8%A7%D9%86/"
+    label: "Company-authored Qatar dental technician client vacancy: hr@orientjordan.com and 5-year experience requirement"
+  - type: "job_post"
+    url: "https://www.orientjordan.com/%D9%85%D8%B7%D9%84%D9%88%D8%A8-%D9%84%D8%AF%D9%89-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AE%D8%B5%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D9%8A%D8%A9/"
+    label: "Company-authored Saudi hospital client vacancies with recruitment email"
+verification_status: "partial"
+last_verified: "2026-10-26"
