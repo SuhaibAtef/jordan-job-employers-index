@@ -1,6 +1,6 @@
 name: "Akhtaboot"
 verification_status: "partial"
-last_verified: "2026-10-16"
+last_verified: "2026-10-28"
 industry: "Staffing and Recruiting"
 description: "Akhtaboot is a Jordanian online recruitment and career platform connecting employers with job seekers across MENA. It operates a job marketplace and employer-recruiting services, and has historically run job fairs, internship and fresh-graduate initiatives."
 website: "https://www.akhtaboot.com"
@@ -29,7 +29,7 @@ job_seeker:
     - "Historical 2015 university career-fair handbook: paid IT internships, traineeships, fresh-graduate positions"
     - "Historical 2016 university career-fair handbook: internships and fresh-graduate opportunities; not confirmed open in 2026"
 notes: >-
-  Reviewed 2026-10-16. Akhtaboot is an Amman-headquartered online recruitment
+  Reviewed 2026-10-28 (previous review 2026-10-16). Akhtaboot is an Amman-headquartered online recruitment
   network and employer-facing hiring platform serving the MENA region. Its
   company LinkedIn lists 11-50 employees, founded 2007, and Emaar Towers,
   6th Circle, Amman 11181. A separate Jordan business directory corroborates
@@ -50,8 +50,15 @@ notes: >-
   contact, and the employer page publishes sales@akhtaboot.com; neither
   is verified as an HR inbox. The main homepage blocked automated access
   during this review; Akhtaboot-hosted subpages and company LinkedIn
-  remained discoverable. Partial company verification is appropriate
-  despite the independently supported office address.
+  remained discoverable. A dated Akhtaboot-hosted ICRC HR Partner vacancy
+  (posted 2026-10-14, application deadline 2026-10-29) demonstrates
+  October 2026 use of Akhtaboot's recruitment marketplace. The listing
+  belongs to ICRC, not Akhtaboot, and its deadline does not prove it is
+  still accepting applications. The company LinkedIn profile continues
+  to list 11-50 employees and Emaar Towers, Sixth Circle. No dedicated
+  Akhtaboot careers page, current internal opening or HR recruiting
+  mailbox was confirmed. Partial company verification remains
+  appropriate despite the independently supported office address.
 evidence:
   - type: "official_website"
     url: "https://www.akhtaboot.com"
@@ -92,3 +99,6 @@ evidence:
   - type: "third_party_reference"
     url: "https://www.linkedin.com/company/oxfam-in-jordan"
     label: "2026 Oxfam Jordan posts linked third-party vacancies via Akhtaboot, not Akhtaboot internal hiring"
+  - type: "official_website"
+    url: "https://example.akhtaboot.com/en/jordan/jobs/amman/167540-HR-Partner-at-International-Committee-of-the-Red-Cross--ICRC-"
+    label: "Akhtaboot-hosted ICRC HR Partner vacancy posted 2026-10-14, deadline 2026-10-29; October 2026 marketplace activity, not Akhtaboot internal hiring"
