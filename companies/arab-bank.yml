@@ -111,4 +111,16 @@ evidence:
 - type: official_website
   url: https://www.arabbank.jo/smartmenu/smart-menu/careers/vacancies-job-applications
   label: Arab Bank official website vacancies and job applications page
+- type: careers
+  url: https://arabbank.taleo.net/careersection/ab_external/moresearch.ftl%3Flang=en%26location=805021922%26locationRad=805021922%26portal=8105021922%26radius=1%26radiusType=K%26searchExpanded=true
+  label: Official Taleo Jordan search showing October 18, 2026 third-party monitoring vacancy (requisition 2600006B), checked October 28
+- type: job_post
+  url: https://jo.linkedin.com/jobs/view/third-party-sr-monitoring-reporting-officer-at-arab-bank-4478226002
+  label: Arab Bank Amman third-party risk and monitoring vacancy, employer-attributed LinkedIn listing
+- type: job_post
+  url: https://jo.linkedin.com/jobs/view/hr-assurance-governance-manager-at-arab-bank-4481455271
+  label: Arab Bank Amman HR assurance and governance vacancy, employer-attributed LinkedIn listing
+- type: official_website
+  url: https://www.arabbank.jo/smartmenu/smart-menu/media-room
+  label: Official October 1, 2026 Reflect crypto-trading launch with Fuze
 verification_status: partial
