@@ -1,12 +1,16 @@
 name: "AlGurus Agency"
 verification_status: "partial"
-last_verified: "2026-10-16"
+last_verified: "2026-10-28"
 industry: "Marketing Services / Digital Marketing / E-commerce Development"
 description: >-
-  AlGurus is an Amman-based digital marketing and e-commerce development agency
-  providing paid advertising, search engine optimization, social media marketing,
-  analytics, and Shopify/WordPress website and online-store development to
-  businesses in Jordan and the wider MENA region.
+  AlGurus is an Amman-based digital marketing, performance advertising and
+  e-commerce development agency established under its current name in 2018.
+  It offers Google and social advertising, SEO and generative-engine
+  optimization, analytics, social media management, and Shopify, Salla and
+  WordPress store or website development for clients in Jordan and other
+  markets. Shopify's official Partner Directory independently lists AlGurus
+  Agency as an Amman service partner, active since March 2020. The agency also
+  operates practical digital-marketing training through AlGurus Academy.
 website: "https://algurus.com"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/algurus"
@@ -28,31 +32,40 @@ technologies:
   - "Shopify"
   - "WooCommerce"
   - "WordPress"
+  - "Salla"
+  - "Meta Ads"
 job_seeker:
   early_career_signal: false
   signals: []
 notes: >-
-  Reviewed 2026-10-16. The active official website and company LinkedIn profile
-  corroborate the agency's marketing and e-commerce services in Amman. LinkedIn
-  lists 11-50 employees and headquarters in Um Uthaina, Amman; this is a
-  self-reported size range, not an audited headcount. Official contact details
-  list Mohammad@algurus.com and +962 79 100 6167 for general inquiries; the
-  address is not confirmed as a recruitment mailbox, so hr_email remains null.
-  No dedicated careers page, current internal job opening, or internship was
-  verified. Shopify, WordPress, WooCommerce and Google Ads describe publicly
-  promoted client-service platforms, not a confirmed internal engineering stack.
-  The exact building, street address and office coordinates remain unverified:
-  the official site gives Amman, LinkedIn gives Um Uthaina, while older
-  third-party listings mention Mecca Street. The generic Maps search is not
-  evidence of an exact office pin. The agency's separate academy website
-  identifies itself as run by the AlGurus team; its courses are not hiring.
+  Reviewed 2026-10-28. The active official website, company LinkedIn profile,
+  and independent Shopify Partner Directory corroborate ongoing agency
+  activity in Amman. Shopify lists AlGurus as a service partner active since
+  March 2020, with Amman as its primary location and services including store
+  builds, migrations and theme customization. The agency published dated
+  articles on 2026-10-15 announcing its Shopify directory listing and claiming
+  Google Premier Partner status for 2026. The direct Google Partners profile
+  could not be independently accessed in this review, so the Premier status
+  is attributed to the company rather than independently certified here.
+  LinkedIn reports 11-50 employees and Um Uthaina headquarters; that range
+  is self-reported, not an audited headcount. The official website lists
+  Um Uthaina, phone +962 79 100 6167 and Mohammad@algurus.com for general
+  inquiries; the email is not a confirmed HR or recruitment contact.
+  No dedicated careers page, open internal job vacancy or internship was
+  established in this review. The agency's separate academy offers paid or
+  organized marketing training, not employment opportunities. Listed
+  technologies are platforms advertised for client work, not a verified
+  internal engineering stack. The exact building, street address and office
+  coordinates remain unverified; older third-party directories mention
+  Mecca Street, while the current official website and LinkedIn specify
+  Um Uthaina. The generic Google Maps search is not an exact business pin.
 evidence:
   - type: "official_website"
     url: "https://algurus.com"
-    label: "Official website, current services and Amman contact details; reviewed 2026-10-16"
+    label: "Official site, 2026 services, Um Uthaina contact and dated October blog links; rechecked 2026-10-28"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/algurus"
-    label: "Company LinkedIn profile, Um Uthaina headquarters, 11-50 size, services and recent posts; reviewed 2026-10-16"
+    label: "Company LinkedIn profile, Um Uthaina headquarters, self-reported 11-50 size and service offerings; rechecked 2026-10-28"
   - type: "company_listing"
     url: "https://www.goodfirms.co/company/algurus-agency"
     label: "Company directory profile; historical Mecca Street location claim"
@@ -61,13 +74,28 @@ evidence:
     label: "Company directory profile; historical Mecca Street location claim"
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=AlGurus+Agency%2C+Um+Uthaina%2C+Amman%2C+Jordan"
-    label: "Google Maps search; exact office business pin remains unresolved"
+    label: "Generic Maps search only; exact office business pin remains unresolved"
   - type: "official_website"
     url: "https://algurus.com/contact-us-algurus-digital/"
-    label: "Official contact page, general email and phone; reviewed 2026-10-16"
+    label: "Official contact page, general email and phone; rechecked 2026-10-28"
   - type: "official_website"
     url: "https://algurus.com/about-us/"
-    label: "Official about page, marketing and development service description; reviewed 2026-10-16"
+    label: "Official about page, marketing and development services"
   - type: "official_website"
     url: "https://algurusacademy.com/en/"
-    label: "AlGurus Academy describes courses taught by the agency team; not employment evidence; reviewed 2026-10-16"
+    label: "Separate academy website; courses are not recruitment evidence"
+  - type: "company_listing"
+    url: "https://www.shopify.com/partners/directory/partner/algurus"
+    label: "Shopify official Partner Directory: AlGurus Agency service partner since March 2020, Amman location; checked 2026-10-28"
+  - type: "official_website"
+    url: "https://algurus.com/partnerships/"
+    label: "Agency's 2026 partnership announcements and links to third-party directories; checked 2026-10-28"
+  - type: "official_website"
+    url: "https://algurus.com/algurus-google-premier-partner-2026/"
+    label: "Agency-authored 2026-10-15 Google Premier Partner announcement; direct Google directory not independently checked"
+  - type: "official_website"
+    url: "https://algurus.com/algurus-shopify-partner-directory/"
+    label: "Agency-authored 2026-10-15 Shopify Partner Directory announcement, corroborated by Shopify"
+  - type: "official_website"
+    url: "https://algurus.com/service/digital-marketing-training-in-jordan/"
+    label: "Agency training through AlGurus Academy, distinct from jobs; checked 2026-10-28"
