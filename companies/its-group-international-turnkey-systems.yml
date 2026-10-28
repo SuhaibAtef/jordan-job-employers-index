@@ -4,10 +4,10 @@ description: >-
   technology and systems-integration provider founded in 1981. Its ETHIX and
   ETHIX NG banking platforms serve conventional and Islamic financial institutions;
   it also offers enterprise solutions, infrastructure, managed services and
-  global software delivery. Its Jordan relationship is documented through a
-  Jordan-based channel partner, but a company-operated office in Jordan is unconfirmed.
+  global software delivery. Its Jordan links include a local channel partner
+  and historical Amman-targeted vacancies; a current staffed office is unconfirmed.
 verification_status: "partial"
-last_verified: "2026-10-15"
+last_verified: "2026-10-28"
 industry: "Banking Software / Financial Technology / Systems Integration"
 website: "https://its.ws/"
 careers_url: "https://its.ws/careers/"
@@ -34,7 +34,9 @@ technologies:
   - "SQL Server"
 job_seeker:
   early_career_signal: false
-  signals: []
+  signals:
+    - "Historical Digital Banking Implementation Consultant in Amman (LinkedIn, circa 2024; closed by 2026-10-28; required 4-5 years of experience)"
+    - "Historical Financial Analyst in Amman (LinkedIn, circa 2023; closed by 2026-10-28; required 2-5 years of experience)"
 notes: >-
   Reviewed 2026-10-15. Official website and company LinkedIn identify the group
   as Kuwait-headquartered and operating banking software, ETHIX/ETHIX NG,
@@ -58,8 +60,25 @@ notes: >-
   Oracle Database and SQL Server are retained from prior historical developer
   evidence and should not be interpreted as a verified current Jordan stack;
   prior jQuery, REST API and Spring Boot claims lacked sufficiently strong
-  source attribution and were removed. Company-level verification remains
-  partial primarily because Jordan office and recruiting presence are unresolved.
+  source attribution and were removed. Rechecked 2026-10-28: two employer-
+  attributed LinkedIn job advertisements independently establish historical
+  recruitment targeted to Amman: Digital Banking Implementation Consultant
+  (approximately two years old; Java and 4-5 years' experience) and Financial
+  Analyst (approximately three years old; 2-5 years' experience). Both now
+  explicitly say applications are closed. They strengthen evidence of historical
+  Jordan-facing recruitment, but do not establish a staffed office or any
+  current Jordan opening. A more recent Senior Full Stack Engineer listing
+  in Cairo, Egypt (approximately September 2026, also closed) demonstrates
+  recruitment outside Jordan and mentions C#, .NET Core, TypeScript, React
+  and SQL Server as job requirements, not independently verified production
+  technologies in Jordan. The official careers page still exposes filters
+  including internships but requires JavaScript to display listings; no
+  active Jordan role or graduate scheme could be verified. The official
+  contact page still lists Kuwait, Egypt, Bahrain and UAE only, with no
+  Jordan address. LinkedIn's October 2026 posts and the company website
+  show ongoing group activity, not a confirmed local office. Company-level
+  verification remains partial because current Jordan office, direct
+  recruiting presence and exact local location remain unresolved.
 evidence:
   - type: "official_website"
     url: "https://its.ws/"
@@ -91,3 +110,12 @@ evidence:
   - type: "company_listing"
     url: "https://www.jordanyp.com/company/344012/International_Turnkey_Systems"
     label: "Unverified historical Mecca Street listing; conflicts with official office footprint and not accepted as location verification"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/digital-banking-implementation-consultant-jordan-at-international-turnkey-systems-its-3773318737"
+    label: "Historical ITS Digital Banking Implementation Consultant advertised in Amman, about 2024; 4-5 years experience; applications closed on 2026-10-28 recheck"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/financial-analyst-ca-cpa-cma-mba-jordan-at-international-turnkey-systems-its-3634319926"
+    label: "Historical ITS Financial Analyst advertised in Amman, about 2023; 2-5 years experience; applications closed on 2026-10-28 recheck"
+  - type: "job_post"
+    url: "https://www.linkedin.com/jobs/view/4452808683/"
+    label: "ITS Senior Full Stack Engineer in Cairo, Egypt, circa September 2026; closed; job requirements are not a Jordan production stack"
