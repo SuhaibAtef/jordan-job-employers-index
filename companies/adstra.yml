@@ -1,12 +1,12 @@
 name: "ADSTRA"
-description: "ADSTRA is an Amman-based AI and regtech company building software for financial-crime prevention and digital transformation. Its products use AI and machine learning for AML, sanctions screening, behavioral and network analysis, and AI-agent workflows, while its engineering team also builds .NET-based business applications."
+description: "ADSTRA is an Amman-based AI, fintech and regtech software company specializing in financial-crime prevention, AML/CFT, fraud detection, risk intelligence, business intelligence and digital transformation. In September 2026 it announced an AI-powered fraud and AML partnership with Mada BNPL and showcased agent-assisted investigations at Jordan FinTech Festival."
 verification_status: "partial"
-last_verified: "2026-10-16"
+last_verified: "2026-10-28"
 industry: "AI / Fintech / Regtech"
 website: "https://www.adstratech.com"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/adstratech"
-hr_email: "business@adstratech.com"
+hr_email: null
 size: "11-50"
 location:
   area: "Amman"
@@ -17,6 +17,7 @@ location:
   maps_url: "https://www.google.com/maps/search/?api=1&query=ADSTRA%2C+Amman%2C+Jordan"
 categories:
   - "ai"
+  - "data"
   - "fintech"
   - "web"
 technologies:
@@ -39,9 +40,9 @@ technologies:
 job_seeker:
   early_career_signal: true
   signals:
-    - "Junior"
-    - "0-1 year"
-notes: "Reviewed 2026-10-16 (partial company verification). The official website confirms AI-powered AML, fraud prevention, behavioral analytics and compliance solutions. Its contact page lists Amman, Jordan, +962 79 3110009 and business@adstratech.com. LinkedIn confirms 11-50 employees and Amman headquarters. Recent LinkedIn updates include a mid-level .NET developer post (2-3 years of experience) inviting CVs to the business inbox and a junior .NET post (0-1 year); neither vacancy was independently confirmed open on the review date. C#, ASP.NET Core/MVC, Entity Framework, REST APIs, SQL Server/MySQL, HTML/CSS/JavaScript, Bootstrap/jQuery and Git are supported by hiring descriptions. Angular and Azure are preferred skills, not proof of production deployment. The 2026 Jordan ICT directory corroborates Amman, services and phone. The previously claimed Caracas Building/Yajouz Street address remains uncorroborated; precise address, coordinates, a dedicated HR mailbox and a standalone careers page remain unverified. An older sales vacancy using careers@adstratech.com is closed. The business mailbox is used for CVs but is not established as a dedicated HR inbox."
+    - "2026 company-posted Junior .NET Developer role requested 0-1 year of experience; current application status unconfirmed."
+    - "Historical unpaid Data Analyst Trainee internship for university students in Amman; LinkedIn now says applications closed."
+notes: "Reviewed 2026-10-28 (partial company verification). Official ADSTRA site confirms AI-driven financial crime, AML, fraud and business intelligence solutions; its contact page lists only Amman, Jordan, +962 79 3110009 and general business@adstratech.com. The company and Mada BNPL publicly announced a partnership during the 23-24 September 2026 Jordan FinTech Festival to implement ADSTRA's AI-powered fraud and AML platform; this supports current business activity but is not proof of implementation completion. Company LinkedIn also describes an AI Case Investigation Agent and advertised mid-level .NET (2-3 years) and junior .NET (0-1 year) roles. Applications are invited to business@adstratech.com, a general business mailbox also used for CVs, not a verified dedicated HR address; a historical closed sales vacancy used careers@adstratech.com. Current vacancy status is not independently established. A historical unpaid Data Analyst Trainee internship was advertised in Amman for university students and is now closed. C#, ASP.NET Core/MVC, Entity Framework, REST APIs, SQL Server/MySQL, HTML/CSS/JavaScript, Bootstrap/jQuery and Git come from developer hiring requirements, not audited production infrastructure; Angular and Azure were preferred skills only. LinkedIn reports 11-50 employees and founding 2021; intaj reports 1-24 employees and founding 2020, so headcount and founding year remain conflicting self-reported data. Official contact, LinkedIn, intaj and the 2026 Jordan ICT directory confirm Amman only. The older Caracas Building/Yajouz Street address and exact coordinates remain uncorroborated; location remains approximate. No standalone careers page or verified precise street address was established."
 evidence:
   - type: "official_website"
     url: "https://www.adstratech.com/"
@@ -73,3 +74,15 @@ evidence:
   - type: "other"
     url: "https://www.linkedin.com/posts/mohammadabdair_jff-cbj-aml-activity-7507726160504590336-qK66"
     label: "September 2026 fintech festival announcement; recent activity, not hiring evidence"
+  - type: "company_listing"
+    url: "https://www.intaj.net/network/digital-transformation-arm-adstra"
+    label: "intaj member profile — Amman, 1-24 employee band, 2020 founding year and fintech/regtech services; differs from LinkedIn"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/mada-buy-now-pay-later_madabnpl-partnership-fintech-activity-7488564522698346496-Tqs0"
+    label: "Mada BNPL first-party September 2026 announcement corroborating partnership with ADSTRA on AI-powered fraud and AML"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/data-analyst-trainee-at-adstra-4149361980"
+    label: "Historical unpaid university Data Analyst Trainee role in Amman; LinkedIn shows applications closed"
+  - type: "official_website"
+    url: "https://www.adstratech.com/services/"
+    label: "Official services page — machine learning, business intelligence, software development and implementation"
