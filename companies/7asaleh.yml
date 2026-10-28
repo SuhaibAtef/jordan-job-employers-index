@@ -5,7 +5,7 @@ description: >-
   and teenagers, combining allowances, chores, savings goals and a prepaid-card
   concept. Its current operating status could not be confirmed in October 2026.
 verification_status: "partial"
-last_verified: "2026-10-17"
+last_verified: "2026-10-28"
 industry: "Family Fintech / Financial Education"
 website: "https://7asaleh.com"
 careers_url: null
@@ -22,6 +22,7 @@ location:
 categories:
   - "fintech"
   - "mobile"
+  - "edtech"
 technologies:
   - "Docker"
   - "Drone CI"
@@ -34,24 +35,28 @@ job_seeker:
   early_career_signal: false
   signals: []
 notes: >-
-  Reviewed 2026-10-17. StartupsJo lists 7ASALEH (حصالة), Jordan headquarters,
-  founder contact Nayef Elfayez, general contact info@7asaleh.com and phone
-  +962797300700; this is not a verified HR/recruiting mailbox. It provides no
-  independently usable current street address or coordinates, so location remains
-  unresolved. Umniah's October 2024 profile describes the family-fintech product
-  and founder, but does not establish continued operations in 2026. WeTheMakers
-  documents a 2021 contracted product build using React Native, TypeScript,
-  NestJS, MongoDB, Firebase, Docker and Drone CI; these are historical
-  project technologies, not proof of the current internal engineering stack.
-  AppBrain's iOS listing reports the 7asaleh app was removed from Apple's
-  App Store on 2026-01-19 (not a verified Google Play removal), and lists
-  The Interactive Company for Digital Services as the iOS publisher; the
-  relationship of that publisher to the startup's legal identity is unverified.
-  The official
-  domain could not be reached during this review. No confirmed current company
-  LinkedIn profile, careers portal, open internal vacancy, company size or
-  dedicated HR email was found. Partial status reflects documented historical
-  identity and product, not verified current activity.
+  Reviewed 2026-10-28. StartupsJo lists 7ASALEH (حصالة) as a Jordan-based
+  EdTech/personal-finance startup with founder contact Nayef Elfayez, general
+  mailbox info@7asaleh.com and phone +962797300700; neither contact is a
+  verified recruiting channel. The July 12, 2021 int@j report independently
+  lists 7asaleh among 23 startups admitted to Umniah's The Tank third cohort.
+  Umniah's October 2024 company feature describes parent-controlled accounts,
+  chores, savings goals and a prepaid-card concept for ages 7-17; it does not
+  establish continuing operations in 2026. WeTheMakers' first-party case study
+  confirms a 2021 contracted build using React Native, TypeScript, NestJS,
+  MongoDB, Firebase, Docker and Drone CI, not the startup's current internal
+  stack. AppBrain's iOS-specific listing, rechecked 2026-10-28, reports that
+  the 7asaleh app was removed from Apple's App Store on 2026-01-19, with its
+  last listed update on 2022-12-04 and The Interactive Company for Digital
+  Services named as publisher. The legal relationship between the publisher
+  and the startup is not established. App removal alone does not prove
+  closure or establish Android availability. The official 7asaleh.com
+  domain and an Apple listing could not be accessed during this review.
+  No confirmed current company LinkedIn page, careers portal, open direct
+  vacancy, headcount, street address, coordinates or HR mailbox was found.
+  Jordan-level origin is documented, but the current operating address and
+  company activity remain unresolved. Partial verification reflects
+  corroborated historical identity, not a verified active employer.
 evidence:
   - type: "company_listing"
     url: "https://www.startupsjo.com/en/Pages/CustomPages/Startup/584"
@@ -67,4 +72,7 @@ evidence:
     label: "Fintech industry profile — personal finance and digital payments for families"
   - type: "other"
     url: "https://www.appbrain.com/appstore/7asaleh/ios-1634617551"
-    label: "AppBrain iOS listing — Apple App Store removal 2026-01-19 and app publisher identification (rechecked 2026-10-17)"
+    label: "AppBrain iOS listing — App Store removal 2026-01-19, last app update and publisher (rechecked 2026-10-28)"
+  - type: "industry_association"
+    url: "https://intaj.net/%D8%AD%D8%A7%D8%B6%D9%86%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%84%D8%B1%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%AA%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D8%A7%D9%86%D8%B6/"
+    label: "int@j July 12, 2021 — 7asaleh selected for Umniah The Tank startup incubator cohort"
