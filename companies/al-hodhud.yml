@@ -1,7 +1,7 @@
 name: "Al Hodhud"
 description: "Al Hodhud is an Amman-based Jordanian educational-content and edtech company founded in 2011 by siblings Shaima and Mohammed Al-Bishtawi. It develops Arabic-language early-childhood curricula, interactive classroom and tablet learning materials, home-learning programs and children's educational apps, including the Salma reading program and My Cheerful Letters. Its Android app was updated in May 2025; a partner publicly announced an Arabic-learning mobile-app memorandum of understanding in late 2025."
 verification_status: "partial"
-last_verified: "2026-10-16"
+last_verified: "2026-10-28"
 industry: "Educational Technology / Arabic Children's Digital Content"
 website: "https://alhodhud.com/"
 careers_url: null
@@ -42,6 +42,16 @@ notes: >-
   internal programming-language/cloud stack could be verified. Interactive
   whiteboards and tablets are learning delivery devices, not evidence of
   the internal software stack. Company verification remains partial.
+  Rechecked 2026-10-28: LinkedIn continues to list Amman, a 2011 founding
+  year and 11-50 employees. The official site remains indexed, but a direct
+  request timed out during this review. Google Play still lists My Cheerful
+  Letters with 10K+ downloads and a last update of 2025-05-04. Apple's App
+  Store separately lists the company's Questions Game (As'ilati al-Marha)
+  under Alhodhud Creative Content for children, with Shaima Al-Bishtawi
+  as provider; the latest version shown there dates to 2019-01-24. These
+  are evidence of a published app portfolio, not proof of 2026 app
+  development, recruitment or active office occupancy. No current direct
+  vacancy, recruiting email, exact office pin or internal stack was found.
 evidence:
   - type: "official_website"
     url: "https://alhodhud.com/"
@@ -70,3 +80,6 @@ evidence:
   - type: "other"
     url: "https://search.mandumah.com/Record/1520380"
     label: "2024 academic study referencing use of Al Hodhud application in Amman"
+  - type: "other"
+    url: "https://apps.apple.com/ua/app/%D8%A3%D8%B3%D8%A6%D9%84%D8%AA%D9%8A-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D8%A9/id690515469"
+    label: "Apple App Store: historical Questions Game, Alhodhud developer, Shaima Al-Bishtawi provider; latest listed version 2019-01-24"
