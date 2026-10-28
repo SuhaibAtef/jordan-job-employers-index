@@ -1,7 +1,7 @@
 name: "Akeed (Jordanian Media Credibility Monitor)"
 description: "AKEED is a Jordan Media Institute media-accountability and fact-checking project, launched in 2014 with support from the King Abdullah II Fund for Development. It monitors rumors and the credibility of Jordanian media coverage, checks claims against published standards, and issues periodic monitoring reports."
 verification_status: "partial"
-last_verified: "2026-10-16"
+last_verified: "2026-10-28"
 industry: "Media Monitoring / Fact-Checking"
 website: "https://akeed.jo"
 careers_url: null
@@ -17,12 +17,14 @@ location:
   maps_url: null
 categories:
   - "web"
+  - "media"
 technologies: []
 job_seeker:
   early_career_signal: false
-  signals: []
+  signals:
+    - "Historical July 2026 Jordan Media Institute recruitment for AKEED monitor director in Amman; applications closed July 22, 2026 and LinkedIn now says no longer accepting applications. This senior role is not an early-career or currently open vacancy."
 notes: |-
-  Reviewed 2026-10-16. AKEED is a project of the Jordan Media Institute, not independently confirmed as a separate incorporated employer. The official site lists Airport Street, Amman, and info@akeed.jo (general contact, not a dedicated HR address), but does not establish an exact building or office pin; the prior generic city-center coordinates were removed. The parent institute's address and recruitment page should not be treated as AKEED-specific without confirmation. No AKEED-specific careers page, live vacancy, early-career program, LinkedIn company profile, or production technology stack was verified. A 2026 academic study describes a ten-person team including collaborators, not an audited payroll count. AKEED was active in 2026: Petra reported its September rumor monitoring on 2026-10-01. AKEED Tech and akeedsoft.com are unrelated organizations.
+  Reviewed 2026-10-28 (previous review 2026-10-16). AKEED is a project of the Jordan Media Institute, not independently confirmed as a separate incorporated employer. The official site lists Airport Street, Amman, and info@akeed.jo (general contact, not a dedicated HR address), but does not establish an exact building or office pin; the prior generic city-center coordinates were removed. The parent institute's address and recruitment page should not be treated as AKEED-specific without confirmation. No AKEED-specific careers page, live vacancy, early-career program, LinkedIn company profile, or production technology stack was verified. A 2026 academic study describes a ten-person team including collaborators, not an audited payroll count. AKEED was active in 2026: Petra reported its September rumor monitoring on 2026-10-01. AKEED Tech and akeedsoft.com are unrelated organizations. The official AKEED website published new reports on 2026-10-26 and 2026-10-27 about hate-speech monitoring and rumor tracking after the Karak incident, confirming current editorial operations, not staffing levels or hiring. Jordan Media Institute advertised a director of the AKEED monitor in July 2026, with an application deadline of 2026-07-22 to JMIHR@jmi.edu.jo; the associated LinkedIn vacancy is now closed. That is a historical AKEED-specific senior recruitment signal through the parent institute, not a current opening, a verified AKEED-dedicated HR mailbox, or evidence of an early-career program. The job description discusses digital tools, data analytics and exploring AI but does not establish the internal production technology stack. The Airport Street contact is corroborated by AKEED itself, but no exact office coordinates or independent street-level pin were confirmed.
 evidence:
   - type: "official_website"
     url: "https://akeed.jo"
@@ -51,3 +53,15 @@ evidence:
   - type: "official_website"
     url: "https://www.akeed.jo/en/index.html"
     label: "Official AKEED site and historical report archive"
+  - type: "official_website"
+    url: "https://www.akeed.jo/post/ashaaaat-hadth-alkrk-tkfz-al-nho-9-adaaaf-khlal-48-saaa-aakb-alhadth-kyf-tshklt-khryt-altdlyl"
+    label: "Official 2026-10-27 Karak rumor-monitoring report confirms ongoing editorial activity"
+  - type: "official_website"
+    url: "https://www.akeed.jo/en/post/baad-48-saaa-mn-grym-knys-bld-hmod-altdamn-alotny-yhasr-khtab-alkrahy-657-mnshora-thml-taabyrat-krahy-maathmha-mn-hsabat-khargy-omghol-almsdr"
+    label: "Official 2026-10-26 hate-speech monitoring report"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/%D9%85%D8%AF%D9%8A%D8%B1-%D9%85%D8%B1%D8%B5%D8%AF-%D9%85%D8%B5%D8%AF%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A-%D8%A3%D9%83%D9%8A%D8%AF-at-jordan-media-institute-4429862013"
+    label: "Historical AKEED director vacancy posted by Jordan Media Institute, now closed"
+  - type: "linkedin_company"
+    url: "https://ae.linkedin.com/posts/jordan-media-institute_%D8%A7%D9%84%D9%88%D8%B5%D9%81-%D8%A7%D9%84%D9%88%D8%B8%D9%8A%D9%81%D9%8A-activity-7476196122613428224-Pf3r"
+    label: "Parent institute announcement for AKEED director, application deadline 2026-07-22; historical, not open"
