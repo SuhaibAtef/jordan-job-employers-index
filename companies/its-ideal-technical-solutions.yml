@@ -6,7 +6,7 @@ description: >-
   integration, AI and data analytics, cloud and digital infrastructure,
   cybersecurity, digital learning platforms, and web and mobile applications.
 verification_status: "partial"
-last_verified: "2026-10-15"
+last_verified: "2026-10-28"
 industry: "Digital transformation, software development and IT consulting"
 website: "https://its-jo.com/"
 careers_url: null
@@ -62,6 +62,19 @@ notes: >-
   independently verified legal registration were established. Company status
   remains partial and location status unresolved; do not confuse this company
   with MEMF ITS or other businesses using similar names.
+  Rechecked 2026-10-28: the official 16-page 2025-2026 PDF was retrievable
+  from the homepage download link and again supports the stated consulting,
+  digital-learning, AI, cloud and IoT solution areas. These remain company
+  marketing claims, not evidence of a deployed internal stack or particular
+  customer implementations. The official site still publishes only the 3rd
+  Circle area and general/sales contacts, with no street-level office pin,
+  hiring portal, named HR contact or staff count. Searches found no attributable
+  current vacancy. The similarly named ITS-Amman LinkedIn profile
+  (https://www.linkedin.com/company/its-amman) identifies its-amman.com,
+  not its-jo.com; its closed 2024-2025 telesales advertisements and 2-10
+  employee range must not be assigned to this employer. No corroborated
+  company LinkedIn profile, legal registration or precise coordinates found.
+  Company verification remains partial; location remains unresolved.
 evidence:
   - type: "official_website"
     url: "https://its-jo.com/"
@@ -71,7 +84,7 @@ evidence:
     label: "Official 2025-2026 corporate profile — services, sector focus and sales contact"
   - type: "official_website"
     url: "https://www.its-jo.com/company-profile/ITS-Company-Profile.pdf"
-    label: "Official company-profile PDF previously inspected 2026-10-03; current retrieval unconfirmed"
+    label: "Official 16-page 2025-2026 corporate PDF; retrievable 2026-10-28, corroborates advertised solution areas and sales contact"
   - type: "official_website"
     url: "https://www.its-jo.com/#contact"
     label: "Official contact section — general email, phone and approximate Amman area"
