@@ -1,9 +1,10 @@
 name: Arab Bank
-last_verified: '2026-10-16'
+last_verified: '2026-10-28'
 industry: Banking / Financial Services
 description: Arab Bank is a Jordan-headquartered banking group providing retail, corporate, institutional and
   digital financial services across multiple markets. Its technology organization supports digital banking,
-  data and AI, cybersecurity, infrastructure and software engineering.
+  data and AI, cybersecurity, infrastructure and software engineering. In October 2026 its
+  Reflect digital-banking product announced crypto trading for eligible Jordan customers with Fuze.
 website: https://www.arabbank.jo
 careers_url: https://arabbank.taleo.net/careersection/ab_external/joblist.ftl
 linkedin: https://www.linkedin.com/company/arab-bank
@@ -46,6 +47,8 @@ job_seeker:
   - Digital Academy (historical)
   - Arab Bank Ambassadors Program (Jordan, July 2026 posting)
   - Credit Fulfillment Operations Officer (Amman, August 2026 posting)
+  - Third Party Sr. Monitoring & Reporting Officer (Jordan, official Taleo posting October 18, 2026)
+  - HR Assurance & Governance Manager (Amman, employer-attributed LinkedIn posting, October 2026)
 notes: Reviewed 2026-10-16. Arab Bank PLC is an operating Amman-headquartered banking group, supported by its
   official site and LinkedIn. The official privacy notice identifies Shmeisani, Shaker Bin Zaid Street, and
   the branch directory lists the Head Office ATM at Building 8; location.status refers to the supported street
@@ -58,6 +61,15 @@ notes: Reviewed 2026-10-16. Arab Bank PLC is an operating Amman-headquartered ba
   not independently verified as a current production stack; other listed technologies also require current
   role-specific confirmation. No dedicated HR email was confirmed. Company-level verification remains partial
   because precise coordinates, current full stack and direct recruiting contact remain unconfirmed.
+  Rechecked 2026-10-28: an official Taleo Jordan search surfaced Third Party Sr. Monitoring & Reporting
+  Officer (requisition 2600006B, posted October 18, 2026), Arab Bank Ambassadors Program (posted July 6),
+  and SME RM (CB) (posted June 29); search results are dynamic and not a guarantee of application availability.
+  Employer-attributed LinkedIn listings also displayed an Amman HR Assurance & Governance Manager role
+  (approximately October 26, requiring nine years of related experience) and the same third-party risk role.
+  These are employer recruitment signals, not evidence of a verified internal software stack or a general HR
+  mailbox. Arab Bank's official October 1 media announcement confirms Reflect crypto trading with Fuze
+  following a Central Bank of Jordan regulatory sandbox pilot; the product integration does not establish
+  which technologies Arab Bank engineers internally use. Precise coordinate confidence remains unresolved.
 evidence:
 - type: official_website
   url: https://www.arabbank.jo
