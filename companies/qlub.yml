@@ -1,45 +1,76 @@
-name: "Qlub"
-industry: "Restaurant payments / fintech"
-website: "https://qlub.io"
-careers_url: "https://careers.qlub.io"
-linkedin: "https://www.linkedin.com/company/qlub-pay/"
+name: Qlub
+industry: Restaurant payments / fintech / hospitality SaaS
+website: https://qlub.io
+careers_url: https://careers.qlub.io
+linkedin: https://www.linkedin.com/company/qlub-pay/
 hr_email: null
-size: "201-500"
+size: 51-200 employees (LinkedIn company-size field; global and self-reported, not Jordan-specific; other estimates
+  differ)
 location:
-  area: "Amman"
+  area: Amman, Jordan (employer-advertised job; physical office unconfirmed)
   address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  status: approximate
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "fintech"
-  - "web"
+- fintech
+- web
 technologies:
-  - "Payment Gateway"
+- Payment gateway and QR-code pay-at-table (product capabilities; internal implementation unverified)
+- POS integrations and SoftPOS terminals (official product capabilities)
+- Digital menus, order-and-pay and payment links (official product capabilities)
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Dubai QR-based restaurant payments and digital-menu SaaS (pay-at-table, order-and-pay, no app needed); $30M Series B Jul 2025 led by Shorooq + Cherry Ventures, ~300 employees; Jordan presence confirmed on qlub.io (+962793081113, info.jo@qlub.io); HQ Dubai, so Amman pin is a city fallback."
+  signals:
+  - Business Development Manager (Amman), employer-attributed LinkedIn listing with Apply option checked 2026-10-28;
+    third-party board dates it 2026-09-16 and lists a 2027-01-05 deadline. Requires proven food-and-beverage sales
+    and English; application status may change.
+  - No verified Jordan internship, graduate program, engineering vacancy or dedicated HR recruitment mailbox as
+    of 2026-10-28.
+notes: Reviewed 2026-10-28. Official qlub.io lists Jordan commercial contact +962793081113 and info.jo@qlub.io,
+  but no Jordan street address; neither contact is verified for HR. LinkedIn lists Dubai headquarters and a self-reported
+  51-200 employee company-size range, conflicting with earlier 201-500 and ~300 estimates; Jordan headcount unknown.
+  LinkedIn's Amman Business Development Manager listing showed an Apply option during review; a secondary board
+  dates it 2026-09-16 with a stated 2027-01-05 deadline, which is not independently guaranteed. LinkedIn labels
+  the role entry level but the description requires proven F&B sales; do not treat it as a graduate or internship
+  program. Careers URL redirects to a JavaScript-only Ashby board, so its complete vacancy inventory was not verified.
+  Prior city-centre coordinates 31.9539,35.9106 and associated Google Maps search were removed because they were
+  not an office geocode. Product capabilities are not evidence of the internal engineering stack. Funding reporting
+  from July 2025 retained as historical context. Company verification remains partial due to missing precise Jordan
+  office, HR mailbox, Jordan headcount and independently verified engineering stack.
 evidence:
-  - type: "official_website"
-    url: "https://qlub.io"
-    label: "Official website"
-  - type: "careers"
-    url: "https://careers.qlub.io"
-    label: "Careers / application page"
-  - type: "linkedin_company"
-    url: "https://www.linkedin.com/company/qlub-pay/"
-    label: "LinkedIn company page"
-  - type: "other"
-    url: "https://www.prweb.com/releases/d-ream-international-exclusively-partners-up-with-qlub-879512270.html"
-    label: "Research source"
-  - type: "other"
-    url: "https://pulse2.com/qlub-dubai-based-dining-payments-company-raises-30-million/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.mastercard.com/news/eemea/en/newsroom/press-releases/en/2023/september/mastercard-partners-with-qlub-to-transform-digital-payments-in-the-gcc-hospitality-sector/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+- type: official_website
+  url: https://qlub.io
+  label: Official website
+- type: careers
+  url: https://careers.qlub.io
+  label: Careers / application page
+- type: linkedin_company
+  url: https://www.linkedin.com/company/qlub-pay/
+  label: LinkedIn company page
+- type: other
+  url: https://www.prweb.com/releases/d-ream-international-exclusively-partners-up-with-qlub-879512270.html
+  label: Research source
+- type: other
+  url: https://pulse2.com/qlub-dubai-based-dining-payments-company-raises-30-million/
+  label: Research source
+- type: other
+  url: https://www.mastercard.com/news/eemea/en/newsroom/press-releases/en/2023/september/mastercard-partners-with-qlub-to-transform-digital-payments-in-the-gcc-hospitality-sector/
+  label: Research source
+- type: official_website
+  url: https://qlub.io/us/en/contact-us
+  label: 'Official country contact list: Jordan +962793081113 and info.jo@qlub.io; no street address (checked 2026-10-28)'
+- type: job_post
+  url: https://jo.linkedin.com/jobs/view/business-development-manager-amman-at-qlub-4437904004
+  label: Employer-attributed Amman Business Development Manager job with Apply option, F&B sales experience and
+    English requirements (checked 2026-10-28)
+- type: job_post
+  url: https://jordan.mimusjobs.com/job/business-development-manager-amman/
+  label: 'Secondary board: qlub Amman sales role posted 2026-09-16, listed deadline 2027-01-05; confirm live availability
+    with employer'
+description: Dubai-headquartered restaurant-payments fintech serving hospitality venues with QR-code pay-at-table,
+  bill splitting, digital menus, order-and-pay, payment links and SoftPOS. The company publishes a Jordan commercial
+  contact and advertises a business-development position in Amman; an exact Jordan office address is not confirmed.
+verification_status: partial
+last_verified: '2026-10-28'
