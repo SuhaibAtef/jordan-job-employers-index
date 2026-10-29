@@ -1,52 +1,97 @@
-name: "QTech"
-industry: "Digital agency (web/mobile development)"
-website: "https://qtech.com.jo"
+name: QTech
+description: Jordan-founded digital agency providing custom websites, web and mobile applications, UI/UX design, e-commerce
+  development, SEO, AR/VR solutions and managed web/cloud hosting. The company reports offices in Amman, Dubai and London;
+  it advertises Laravel, Flutter and React expertise.
+industry: Digital agency / IT services / web and mobile application development
+website: https://qtechnetworks.com/jo/
 careers_url: null
-linkedin: null
+linkedin: https://www.linkedin.com/company/qtechco/
 hr_email: null
-size: "10-49"
+size: 11-50 employees (LinkedIn self-reported; Clutch lists 10-49; not independently audited)
 location:
-  area: "Amman"
-  address: "Rabieh, Al-Laith Complex, Building No.82, Kabul Street, Amman, Jordan"
-  status: "verified"
+  area: Amman
+  address: Rabieh, Al-Laith Complex, Building No.82, Kabul Street, Amman, Jordan
+  status: verified
   latitude: 31.986402
   longitude: 35.8797143
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  maps_url: https://www.google.com/maps/place/QTech+Networks/@31.986402,35.8771394,747m/data=!3m2!1e3!4b1!4m6!3m5!1s0x151ca07a5e5faceb:0xe481a01c8616f386!8m2!3d31.986402!4d35.8797143!16s%2Fg%2F11dxb1kzyt
+  confidence: 'moderate-high: Jordan contact page links to matching Google Maps listing; LinkedIn and UAE regional page
+    still show a conflicting Wasfi AlTal address'
 categories:
-  - "data"
-  - "ecommerce"
-  - "mobile"
-  - "web"
+- data
+- design
+- ecommerce
+- marketing
+- mobile
+- web
 technologies:
-  - ".NET"
-  - "Android"
-  - "Flutter"
-  - "Laravel"
-  - "React"
-  - "Strapi"
+- .NET
+- Android
+- Flutter
+- Laravel
+- React
+- Strapi
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Web and mobile app development company (20+ years per its site; founded 1998 per directories); offices in Amman, Dubai and London. Audit 2026-10-03: address corrected to 'Kabul Street, Amman' per qtech.com.jo's own contact section (was incorrectly 'Wasfi Altell Street'); no verifiable map pin found, so GPS stays on city-center fallback. tech_stack fully traceable (Laravel/Flutter/React on their site; ASP.NET, Strapi, Android/iOS, E-commerce on techbehemoths). | GPS verified 2026-10-04: official contact page states \"Rabieh, Al-Laith Complex, Building No.82, Amman – Jordan\" (footer: \"Address: Kabul Street, Amman\") and its Map button links to the claimed, maintained Maps listing \"QTech – Leading Digital Agency in Amman | Web, Apps\" pinned on Kabul St. in Rabieh (4.8★, 65 reviews, owner photos, matching phone/site). Clutch independently lists Kabul Street, Amman 11821. Conflict flagged: LinkedIn/Facebook/Cybo still show \"Wasfi Altell Street, Amman\" — plausibly a stale address; does not overturn current official-site + Maps agreement."
+  early_career_signal: true
+  signals:
+  - Historical entry-level, full-time on-site Graphic Designer advertisement in Amman, approximately 2024-2025; employer-attributed
+    LinkedIn posting is closed to applications as checked 2026-10-29. Required Adobe Creative Suite, branding, typography
+    and a portfolio; not an internship.
+  - The closed Graphic Designer advertisement directed CVs to l.hmoud@qtechnetworks.com. This is a role-specific historical
+    recruitment contact, not a verified general HR mailbox; no currently accepting QTech vacancy or dedicated careers
+    page established on 2026-10-29.
+notes: 'Reviewed 2026-10-29. QTech/QTech Networks is an Amman-founded digital agency (official company history says founded
+  1999; an older directory said 1998) with Amman, Dubai and London offices. The currently functioning official Jordan
+  website is qtechnetworks.com/jo/; the older qtech.com.jo URL timed out on review and is retained as historical evidence.
+  The official Jordan contact page identifies Rabieh, Al-Laith Complex, Building 82, and its footer says Kabul Street,
+  Amman; +962 79 7391324 and info@qtechnetworks.com are general commercial contacts, not HR. Its Map link resolves to
+  the QTech Networks Google Maps place at 31.986402,35.8797143, and Clutch lists Kabul Street, Amman 11821. The previous
+  city-centre maps_url search (31.9539,35.9106) was a mismatched placeholder and has been corrected without changing
+  the supported pin coordinates. There is still a material address discrepancy: QTech LinkedIn lists Wasfi Altell Street
+  and the official UAE regional contact page lists Wasfi AlTal Street, AlFaiha Complex, Building 82, and a different
+  phone. Current Jordan page plus its map link support the Rabieh/Kabul address, but no on-site inspection or independent
+  entrance geocode was completed; location confidence is qualified. LinkedIn self-reports 11-50 employees and London
+  headquarters, while Clutch lists 10-49 employees and Amman as headquarters; these are platform-specific estimates,
+  not an audited Jordan headcount. The company advertises Laravel, Flutter and React on its own website. .NET, Android
+  and Strapi were retained from prior research and third-party service listings; Clutch also lists .NET and Android.
+  None is a production-stack audit. The employer-attributed LinkedIn Graphic Designer advertisement is closed, marked
+  entry-level, and provides a historical role-specific CV contact l.hmoud@qtechnetworks.com; do not assume this address
+  is a general HR mailbox or that the vacancy remains open. No current QTech job, internship, dedicated careers page
+  or general recruitment email was verified. Distinguish this QTech Networks profile from the unrelated QTech Smarter
+  Life and QODRATech listings. Company verification remains partial despite the supported location pin.'
 evidence:
-  - type: "official_website"
-    url: "https://qtech.com.jo"
-    label: "Official website"
-  - type: "other"
-    url: "https://qtechnetworks.com/jo/contact-qtech-digital-agency-in-amman/"
-    label: "Location evidence"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/place/QTech+Networks/@31.986402,35.8771394,747m/data=!3m2!1e3!4b1!4m6!3m5!1s0x151ca07a5e5faceb:0xe481a01c8616f386!8m2!3d31.986402!4d35.8797143!16s%2Fg%2F11dxb1kzyt"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://clutch.co/profile/qtech?verified=true&location=909"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://techbehemoths.com/company/qtech-networks"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.goodfirms.co/company/qtech-networks"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+- type: official_website
+  url: https://qtech.com.jo
+  label: Legacy QTech domain; timed out 2026-10-29, retained for historical identity
+- type: official_website
+  url: https://qtechnetworks.com/jo/contact-qtech-digital-agency-in-amman/
+  label: Current official Jordan contact, Amman Rabieh address, phone, general email and map link
+- type: google_maps
+  url: https://www.google.com/maps/place/QTech+Networks/@31.986402,35.8771394,747m/data=!3m2!1e3!4b1!4m6!3m5!1s0x151ca07a5e5faceb:0xe481a01c8616f386!8m2!3d31.986402!4d35.8797143!16s%2Fg%2F11dxb1kzyt
+  label: Google Maps listing reached through official Jordan contact-page Map link; coordinates 31.986402,35.8797143
+- type: other
+  url: https://clutch.co/profile/qtech
+  label: 'Clutch profile: Kabul Street Amman location, 10-49 employees and service technology self-report'
+- type: other
+  url: https://techbehemoths.com/company/qtech-networks
+  label: Research source
+- type: other
+  url: https://www.goodfirms.co/company/qtech-networks
+  label: Research source
+- type: official_website
+  url: https://qtechnetworks.com/jo/
+  label: 'Official Jordan homepage: web/mobile development, hosting, Laravel, Flutter and React'
+- type: official_website
+  url: https://qtechnetworks.com/jo/digital-agency-in-amman/
+  label: 'Company history: founded in Jordan in 1999; services and international presence'
+- type: linkedin_company
+  url: https://www.linkedin.com/company/qtechco/
+  label: 'Company LinkedIn: 11-50 employees, London headquarters and conflicting Wasfi Altell Amman address'
+- type: official_website
+  url: https://qtechnetworks.com/uae/contact-us/
+  label: Official UAE regional page lists conflicting Wasfi AlTal/AlFaiha Complex Amman address
+- type: job_post
+  url: https://jo.linkedin.com/jobs/view/graphic-designer-at-qtech-4082258773
+  label: Closed historical entry-level Amman Graphic Designer job and role-specific CV email
+verification_status: partial
+last_verified: '2026-10-29'
