@@ -1,35 +1,58 @@
 name: "Robotna"
-industry: "EdTech / Robotics & AI"
-website: "https://robotna.org"
+description: "Amman-based education-technology social enterprise providing school STEAM curricula, hands-on robotics and coding education, AI learning, teacher support and regional student innovation competitions. Its Robotna+ initiative provides STEM-graduate training and employment-placement support; this is not a guarantee of employment at Robotna."
+industry: "Education technology / STEAM, robotics and AI training"
+website: "https://robotna.org/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/robotna"
 hr_email: null
-size: null
+size: "11-50 employees (company LinkedIn self-reported range; not an audited Jordan-only headcount)"
 location:
-  area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  area: "Jabal Al-Taj, Amman"
+  address: "Omar Al-Mukhtar Street, Jabal Al-Taj, Amman, Jordan (company LinkedIn lists number 74; exact premises not independently confirmed)"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
   - "edtech"
-technologies: []
+technologies:
+  - "Robotics and programming (official STEAM curriculum and competitions; not proof of internal engineering stack)"
+  - "Artificial intelligence (official education and innovation program focus; implementation stack undisclosed)"
+  - "Interactive educational platform and learning dashboards (official product capabilities; underlying technologies undisclosed)"
+  - "Google Ads, Meta Ads and Google Analytics (requirements of closed 2025 Digital Marketing Specialist vacancy; not confirmed current tooling)"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman STEAM startup (est. 2017) training schoolkids in robotics and AI; runs the National Robotics Championship (RIFA); founders on Forbes 30. No public hiring found.\nstack research 2026-10-05: 3 searches + site check; STEAM training/competitions company, no engineering staff or dev postings public."
+  early_career_signal: true
+  signals:
+    - "Historical employer-attributed Project Assistant / Robotna+ vacancy in Amman explicitly encouraged fresh graduates and required no experience; full-time entry-level position, now closed on LinkedIn as checked 2026-10-29."
+    - "Historical employer-attributed on-site Digital Marketing Specialist vacancy in Amman required two or more years of experience and Google/Meta advertising and analytics skills; application deadline 2025-04-15, now closed."
+    - "Company LinkedIn reposted a founder's approximately September-October 2026 recruitment outreach for an experienced manager to operate Innovation Nation and RIFA competitions; requested CVs by private message, but no formal posting deadline or current acceptance was confirmed."
+    - "Robotna+ offers STEM-graduate training and job-placement support according to social-investment partner Alfanar; this is a learner placement program, not a verified Robotna staff vacancy or internship."
+notes: "First company-level verification 2026-10-29. Robotna's official website and company LinkedIn corroborate active Amman-based EdTech operations, robotics/coding/AI curricula, school programs and Innovation Nation / RIFA competitions. LinkedIn lists a 2017 company founding date, 11-50 employees and Omar Al-Mukhtar Street, Jabal Al-Taj, Amman (number 74); a 2021 interview describes an earlier 2013 initiative, which is not necessarily the company incorporation date. The official contact page lists general email Info@Robotna.org and telephone +962 78 820 3314; neither establishes a dedicated HR contact. The official contact page links to a Google Maps place for Robotna Center with coordinates around 31.9738673,35.8834749, while LinkedIn lists a Jabal Al-Taj address; the relationship between that center and the listed headquarters is unverified. Removed the former generic Amman-center pin 31.9539,35.9106 rather than presenting it as the employer entrance. A historical Project Assistant vacancy explicitly encouraged fresh graduates with no experience, and a Digital Marketing Specialist vacancy closed after 2025-04-15. A more recent founder outreach for an experienced competitions/operations manager appeared on company LinkedIn, but its current application status is not established. Robotna+ training and graduate placement is not an employer internship or a current staff vacancy. Training subjects and historical advertising-tool requirements do not establish the internal software stack. No current verified vacancy, internship, careers portal, dedicated HR mailbox, exact premises coordinates or audited headcount was established. Company verification remains partial, independent of location status."
 evidence:
   - type: "official_website"
-    url: "https://robotna.org"
-    label: "Official website"
+    url: "https://robotna.org/"
+    label: "Official STEAM curricula, robotics/coding, AI, educational dashboards, competitions and Amman center; checked 2026-10-29"
+  - type: "official_website"
+    url: "https://robotna.org/contact"
+    label: "Official general contact Info@Robotna.org and +962 78 820 3314, with center map link; not a dedicated HR mailbox"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/robotna"
+    label: "Company LinkedIn: Amman HQ and Jabal Al-Taj street, 2017 founding, self-reported 11-50 employees, programs and recent competitions-operations recruitment outreach; checked 2026-10-29"
+  - type: "job_posting"
+    url: "https://jo.linkedin.com/jobs/view/project-assistant-at-robotna-4238219999"
+    label: "Closed historical Amman Robotna+ Project Assistant role explicitly encouraging fresh graduates with no experience"
+  - type: "job_posting"
+    url: "https://jo.linkedin.com/jobs/view/digital-marketing-specialist-at-robotna-4202561412"
+    label: "Closed Amman Digital Marketing Specialist job, 2025-04-15 application deadline and marketing tool requirements"
   - type: "other"
-    url: "http://kingabdullah.jo/en/news/king-congratulates-robotna-girls-team-winning-international-robotics-prize"
-    label: "Research source"
+    url: "https://www.alfanar.org/portfolio/robotna"
+    label: "Social-investment partner corroborates Robotna+ graduate training and external job-placement support, not company employment"
+  - type: "official_website"
+    url: "https://jelf.robotna.org/"
+    label: "Official Robotna-hosted 2026-10-22 education leadership forum and RIFA program, confirming current operations"
   - type: "other"
-    url: "https://codeavour.org/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://www.jordannews.jo/Section-30/Entrepreneurship/Robotna-uses-modern-technology-to-shape-youth-5371"
+    label: "2021-07-27 interview distinguishes original 2013 initiative from LinkedIn's 2017 company founding year"
+verification_status: "partial"
+last_verified: "2026-10-29"
