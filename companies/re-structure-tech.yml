@@ -1,34 +1,45 @@
 name: "Re-structure Tech"
-industry: "ERP consulting"
+description: "Amman-headquartered Odoo ERP implementation and business-systems consulting company providing customization, integrations, data migration, reporting, training, and ongoing support for clients in Jordan and the region."
+industry: "ERP implementation / Business software consulting"
 website: "https://retechjo.com"
 careers_url: null
-linkedin: null
-hr_email: "info@retechjo.com"
-size: null
+linkedin: "https://www.linkedin.com/company/retechjo"
+hr_email: null
+size: "11-50"
 location:
   area: "Amman"
-  address: "Medina Street, Hisham Salama Building (1), Building No. 256, 3rd floor, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: "Medina Street, Hisham Salama Building (1), Building No. 256, third floor, Amman, Jordan"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "consulting"
   - "erp"
 technologies:
   - "Odoo"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "Jordanian Odoo Gold Partner (HQ Amman, office also in Baghdad); Jordan e-invoicing & SSC payroll localization; sister company Moore UB Jordan. No internship program found."
+  early_career_signal: false
+  signals: []
+notes: "Verified 2026-10-29: the official website confirms an Amman head office at Medina Street, Hisham Salama Building (1), No. 256, third floor; Odoo's partner directory independently confirms Madinah Street in Amman and lists the firm as a Gold partner. Exact office coordinates and entrance were not independently geocoded, so the previous generic Amman-centre coordinates were removed. LinkedIn self-reports 11-50 employees; this is not an audited headcount. Official contact info@retechjo.com is a general mailbox, not an established HR address. The company provides Odoo implementation, customization, integrations, reporting, data migration and training; no specific internal programming-language stack was established. The website offers an Odoo course catalog, but this is not evidence of an employment internship. A prior 'Internship' signal lacked corroborating recruitment evidence and was removed. No company-attributed open role, dedicated careers page or accepting internship was confirmed as of 2026-10-29. The firm's own site lists Amman and Baghdad offices; a LinkedIn post also mentions Riyadh, but a current Saudi office address was not verified."
 evidence:
   - type: "official_website"
-    url: "https://retechjo.com"
-    label: "Official website"
+    url: "https://retechjo.com/"
+    label: "Official ERP services and Odoo implementation overview, accessed 2026-10-29"
+  - type: "official_website"
+    url: "https://retechjo.com/contact"
+    label: "Official Amman office address and general contact, accessed 2026-10-29"
   - type: "other"
     url: "https://www.odoo.com/partners/re-structure-tech-9220628"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Odoo Gold partner directory, Amman street and service specialization, accessed 2026-10-29"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/retechjo"
+    label: "Company profile, self-reported 11-50 staff and Amman headquarters, accessed 2026-10-29"
+  - type: "official_website"
+    url: "https://retechjo.com/courses"
+    label: "Official Odoo course catalog; not evidence of internship hiring, accessed 2026-10-29"
+  - type: "official_website"
+    url: "https://retechjo.com/work"
+    label: "Official Odoo implementation, customization and integration offerings, accessed 2026-10-29"
+verification_status: "partial"
+last_verified: 2026-10-29
