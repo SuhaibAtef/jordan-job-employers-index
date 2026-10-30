@@ -1,7 +1,7 @@
 name: "Javna"
-description: "Javna is an Amman-headquartered communications-platform-as-a-service (CPaaS) and AI customer-engagement company operating since 2001. It provides SMS and WhatsApp Business messaging APIs, omnichannel notifications and one-time-password verification, customer-conversation inboxes, and no-code AI chatbots for enterprises."
+description: "Javna is an Amman-headquartered communications-platform-as-a-service (CPaaS) and AI customer-engagement company operating since 2001. It provides SMS, WhatsApp Business, Instagram, Messenger and webchat messaging, omnichannel notifications and one-time-password verification, unified customer-conversation inboxes, and no-code AI chatbots for enterprises."
 verification_status: "partial"
-last_verified: "2026-10-15"
+last_verified: "2026-10-29"
 industry: "Communications Platform as a Service (CPaaS) / Enterprise Software"
 website: "https://www.javna.com/"
 careers_url: "https://hunt.kayanhr.com/CareerSite/Index/YzdRNElTUmtlR1l3RW4s"
@@ -26,6 +26,9 @@ technologies:
   - "REST API"
   - "Omnichannel OTP"
   - "No-code AI Chatbots"
+  - "Instagram Messaging"
+  - "Facebook Messenger"
+  - "Webchat"
   - "Android"
   - "iOS"
   - "C#"
@@ -40,8 +43,11 @@ job_seeker:
     - "A former intern documents a June-July 2024 backend internship using ASP.NET Core, C#, Entity Framework Core and MySQL."
     - "A 2026 graduate's LinkedIn update documents a completed full-stack development internship; current applications are unconfirmed."
     - "Javna representatives attended HTU Career Day 2026 to engage prospective candidates; attendance is not proof of an open vacancy."
+    - "Javna HR Careers reposted a recent Mid-Level .NET Backend Engineer recruitment notice in October 2026 seeking 3-4 years of C#/.NET and 1+ year of Azure; CVs were directed to careers@javna.com. The application deadline and continued acceptance were not confirmed on 2026-10-29."
+    - "Javna HR Careers advertised a Manual QA Tester in Amman requesting 2-3 years of experience, API/mobile testing and Azure DevOps; the notice was visible on 2026-10-29 but current application acceptance was not established."
+    - "A Product Presales Specialist listing for Amman requested 2-4 years of experience and is closed on LinkedIn as of 2026-10-29; this is historical hiring evidence."
 notes: >-
-  Reviewed 2026-10-15. Javna's official website, About Us page and company LinkedIn
+  Reviewed 2026-10-15; rechecked 2026-10-29. Javna's official website, About Us page and company LinkedIn
   establish Amman headquarters, operation since 2001, CPaaS, programmable SMS and
   WhatsApp Business APIs, OTP/2FA, no-code conversational AI and unified messaging.
   LinkedIn reports 51-200 employees (company-wide, not Jordan-specific). The
@@ -62,7 +68,14 @@ notes: >-
   ASP.NET Core, C#, Entity Framework Core and MySQL are documented from an
   individual 2024 backend internship and a 2026 full-stack internship report;
   these are examples of intern-used tools, not a comprehensive current stack.
-  Product/API technologies are publicly advertised capabilities. Verification
+  Product/API technologies are publicly advertised capabilities. On 2026-10-29
+  the official homepage and LinkedIn additionally confirmed Instagram,
+  Messenger and webchat channels. The KayanHR careers link still caused a
+  redirect loop. Javna HR Careers and employee reposts showed recent Mid-Level
+  .NET Backend Engineer (C#/.NET, Azure) and Manual QA Tester notices, while
+  a Product Presales Specialist LinkedIn listing was closed. The engineering
+  vacancy requirements are not proof of the full deployed stack, and the
+  current acceptance of CVs was not independently confirmed. Verification
   remains partial due to inaccessible live careers listings and unconfirmed
   current early-career openings and internal stack completeness.
 evidence:
@@ -99,3 +112,9 @@ evidence:
   - type: "linkedin_employee"
     url: "https://jo.linkedin.com/in/kareemjweihan"
     label: "2026 completed full-stack internship report reposted on LinkedIn"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/sameer-bahish-77aba823b"
+    label: "2026 Javna employee reposts of Mid-Level .NET Backend Engineer and Manual QA Tester hiring notices; careers@javna.com"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/product-presales-specialist-at-javna-4334175853"
+    label: "Historical Amman Product Presales Specialist vacancy, 2-4 years of experience; closed at 2026-10-29 check"

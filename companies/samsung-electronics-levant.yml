@@ -1,40 +1,86 @@
 name: "Samsung Electronics Levant"
-industry: "Consumer electronics / Technology"
-website: "http://www.samsung.com/"
-careers_url: null
-linkedin: null
+description: "Samsung Electronics Levant is the Jordan-based regional commercial operation of Samsung Electronics, covering consumer electronics, mobile devices, home appliances and business solutions in the Levant. Its Amman team has documented sales, channel management, technical pre/post-sales and finance hiring, alongside regional youth-education partnerships. Global Samsung R&D and product capabilities must not be confused with the Levant office's own engineering stack."
+verification_status: "partial"
+last_verified: "2026-10-30"
+industry: "Consumer Electronics / Regional Sales and Business Technology"
+website: "https://www.samsung.com/levant/"
+careers_url: "https://www.samsung.com/levant/about-us/careers/"
+linkedin: "https://www.linkedin.com/company/samsunglevant"
 hr_email: null
-size: null
+size: "201-500"
 location:
   area: "Amman"
-  address: "King Hussein Business Park, Building 5, King Abdullah II St 242, Amman, Jordan"
+  address: "King Hussein Business Park, Building 5, King Abdullah II Street, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.971807
-  longitude: 35.83567
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.971807,35.83567"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Samsung%20Electronics%20Levant%20Building%205%20King%20Hussein%20Business%20Park%20Amman"
 categories:
   - "ai"
   - "iot"
-  - "web"
+  - "support"
 technologies:
-  - "AI/ML"
-  - "Java"
+  - "AutoCAD (specified for an Amman HVAC pre/post-sales role; not an audited internal stack)"
+  - "HAP (specified for an Amman HVAC pre/post-sales role; not an audited internal stack)"
+  - "SAP ERP or equivalent (specified for an Amman accounts-payable role; deployed product unconfirmed)"
+  - "Python (prerequisite for the 2026 Samsung Innovation Campus AI course; training only)"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Trainee"
-    - "Academy"
-notes: "Samsung's Levant regional subsidiary in Amman (King Hussein Business Park); primarily a sales/distribution office for the Levant market rather than an engineering hub. | stack check 2026-10-04: Levant office is sales/marketing/customer-service per Samsung Jordan careers and press (retail marketing, customer service dept; Samsung Academy at UJ is a student training lab, not Samsung engineering). No Jordan engineering evidence; global Samsung R&D sits outside this record. Left unverified. stack check 2026-10-04: no current software-engineering evidence (regional sales/service office; job postings are CS field ops, data analysts; only historical 2012-2013 R&D/HTML5/Android trainee activity found) — stack left empty, not verified. | stack verified 2026-10-04: 2 employee profiles show Samsung Amman engineers (GulfTalent: Software Engineer Amman, Java + Machine Learning; personal site: Machine Learning Engineer at Samsung Amman) + Sr. Software Engineer interview, Amman 2018."
+    - "2026 Amman AP Accountant / Marketing AP vacancy, 0-3 years, listed to close 2026-11-07 on Bayt; application status not independently tested"
+    - "2026 Amman B2B Pre/Post Sales Assistant Manager vacancy, 5-8 years; LinkedIn listing no longer accepting applications at review"
+    - "2025 Al-Ahliyya Amman University agreement promises need-dependent student internships; no current intake established"
+    - "2026 Samsung Innovation Campus Jordan AI/Python training, 2026-10-11 to 2026-12-19; registration closed 2026-09-30, not an employee internship"
+    - "2026 Amman Senior Manager B2C Sales role on Samsung Workday expired 2026-08-30"
+notes: >-
+  Reviewed 2026-10-30. Official Samsung Levant pages and 2026 university partnership
+  confirm the regional operation; Samsung's global R&D pages do not establish a
+  Jordan software-development team. LinkedIn's 201-500 company-size range applies
+  to the Samsung Levant profile and is not a verified Amman headcount. Samsung's
+  own 2026 Workday job advertisement locates an Amman role at King Hussein
+  Business Park, while independent directory listings identify Building 5;
+  current suite/entrance and exact coordinates were not verified. The previous
+  coordinate pair was removed because it did not establish the Building 5 entrance.
+  A Bayt posting for Specialist, AP Accountant / Marketing AP lists 0-3 years and
+  an application deadline of 2026-11-07; a recent B2B HVAC pre/post-sales
+  LinkedIn vacancy explicitly says applications are closed, despite some
+  aggregated job feeds displaying it as active. The 2025 AAU agreement offers
+  internships conditional on business needs; the 2026 Innovation Campus AI
+  course is educational training, not Samsung employment. No dedicated public
+  HR mailbox, confirmed current internship intake, Jordan software-engineering
+  vacancy or verified Levant production software stack was established. The
+  directory-listed drhee@sea.samsung.com is not substantiated as an HR contact.
 evidence:
   - type: "official_website"
-    url: "http://www.samsung.com/"
-    label: "Official website"
+    url: "https://www.samsung.com/levant/"
+    label: "Samsung's official Levant regional website and product/business operations"
+  - type: "careers_page"
+    url: "https://www.samsung.com/levant/about-us/careers/"
+    label: "Official Samsung Jordan careers portal linking to Samsung Workday"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/samsunglevant"
+    label: "Official Samsung Levant LinkedIn page, regional 201-500 size and 2026 activity"
+  - type: "job_post"
+    url: "https://www.bayt.com/en/jordan/jobs/specialist-ap-accountant-marketing-ap-5481602/"
+    label: "Amman 0-3-year accounts-payable/marketing vacancy; listed close 2026-11-07; SAP or equivalent requirement"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/assistant-manager-b2b-pre-post-sales-at-samsung-electronics-4475397024"
+    label: "Amman B2B HVAC pre/post-sales vacancy, 5-8 years, AutoCAD/HAP; no longer accepting applications"
+  - type: "job_post"
+    url: "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Senior-Manager--B2C-Sales-Management_R118522"
+    label: "Official Samsung Workday Amman sales vacancy, King Hussein Business Park, expired 2026-08-30"
   - type: "other"
-    url: "https://images.samsung.com/is/content/samsung/iran-aboutsamsung-2012_E_07"
-    label: "Research source"
+    url: "https://www.ammanu.edu.jo/news/aau-signs-memorandum-of-understanding-with-samsung-electronics-levant/"
+    label: "AAU 2025 memorandum provides internships conditional on Samsung needs"
   - type: "other"
-    url: "https://www.remitly.com/us/en/swift-codes/jordan/sectjoa1xxx/samsung-electronics-levant-jordan-co-ltd"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.971807,35.83567"
-    label: "Google Maps location"
+    url: "https://www.ammanu.edu.jo/news/samsung-electronics-levant-opens-its-exhibition-at-aau-and-signs-a-memorandum-of-understanding/"
+    label: "AAU 2026-04-13 news confirms Samsung Electronics Levant activity and management"
+  - type: "official_website"
+    url: "https://www.samsung.com/levant/innovation-campus/"
+    label: "Official 2026 AI/Python training, dates, eligibility and closed application period"
+  - type: "company_listing"
+    url: "https://www.bizmideast.com/JO/samsung-electronics-levant-co-06-580-7102"
+    label: "Business directory Building 5 address and company telephone; office occupancy not independently confirmed"
+  - type: "company_listing"
+    url: "https://cylooks.co.kr/kn/jo/4"
+    label: "Historical Korean business listing corroborating Building 5, King Hussein Business Park"

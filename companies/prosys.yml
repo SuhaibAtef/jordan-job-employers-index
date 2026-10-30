@@ -1,18 +1,22 @@
 name: "PROSYS"
-industry: "Software / ERP & media solutions"
-website: "https://prosysjo.com"
+description: "PROSYS Software Solutions is a Jordanian software-development and IT-services company founded in 2005. It provides ERP, media and publishing systems, CRM, business management applications, and software implementation and integration services for organizations in Jordan and the wider region. Its Odoo partner listing also describes ERP implementation and customization services."
+verification_status: "partial"
+last_verified: "2026-10-27"
+industry: "Software development / ERP and media business applications"
+website: "https://www.prosysjo.com/web/Home.aspx"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/prosys-software-solutions"
 hr_email: null
-size: null
+size: "11-50"
 location:
   area: "Amman"
-  address: "King Abdullah II St, Amman"
+  address: "3rd floor, Sonnqrot Building, King Abdullah II Street, Amman, Jordan (official website; conflicts with other company listings)"
   status: "provided_unverified"
-  latitude: 31.966372
-  longitude: 35.843045
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.966372,35.843045"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
+  - "consulting"
   - "data"
   - "erp"
   - "mobile"
@@ -22,20 +26,34 @@ technologies:
   - "Android"
   - "JavaScript"
   - "jQuery"
+  - "Odoo"
   - "React Native"
   - "REST API"
   - "SQL"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman-founded software company (est. 2005) building ERP and media software, expanded across KSA, the Gulf and MENA. | stack verified 2026-10-05: company's own hiring posts (engineering10 mirror of PROSYS page, 2020): .NET/ASP.NET MVC, API tech, SQL, jQuery, HTML/CSS, Android, React Native; separate .NET ERP developer call"
+  early_career_signal: true
+  signals:
+    - "A historical March 2020 .NET developer advertisement explicitly welcomed fresh graduates; this does not establish current hiring."
+notes: "Reviewed 2026-10-27. The official PROSYS website identifies the company as a Jordan-based ERP and media-applications vendor established in 2005 and gives its Jordan main office as 3rd floor, Sonnqrot Building, King Abdullah II Street, Amman (telephone +962 6 5601550). LinkedIn independently matches the company name, website, founding year and Amman headquarters, and reports 11-50 employees (company-wide, not an Amman headcount). However, LinkedIn lists Wasfi Al-Tall Street, Tabbah Complex, while the current Odoo partner directory lists Al-Madina Al-Tibbiyya Street. These conflicting street/building addresses prevent independent verification of a precise current office location; previous coordinates 31.966372,35.843045 were removed because they were not supported by a verified building pin. The official site describes ERP, CRM, media and mobile solutions; the Odoo partner directory identifies PROSYS as an Odoo implementation partner. Historical company-attributed job advertisements from March and July 2020 mention .NET/ASP.NET MVC, API technologies, SQL, JavaScript/jQuery, Android and React Native, and the March posting welcomed fresh graduates. Those technology signals are historical recruiting evidence, not proof of a current deployed stack or open vacancies. No current PROSYS Jordan vacancy, official careers portal or dedicated HR email was verified. The official site lists general/support contacts, but these are not labeled HR. Company verification remains partial because current hiring, production stack and exact office pin are unresolved."
 evidence:
   - type: "official_website"
-    url: "https://prosysjo.com"
-    label: "Official website"
-  - type: "other"
+    url: "https://www.prosysjo.com/web/Home.aspx"
+    label: "Official company description and product scope; reviewed 2026-10-27"
+  - type: "official_website"
+    url: "https://www.prosysjo.com/web/ContactUs.aspx"
+    label: "Official Jordan main-office address and telephone; reviewed 2026-10-27"
+  - type: "official_website"
     url: "https://www.prosysjo.com/web/Products.aspx"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.966372,35.843045"
-    label: "Google Maps location"
+    label: "Official ERP, mobile and business-software offerings"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/prosys-software-solutions"
+    label: "Company size 11-50, founding year, and conflicting Wasfi Al-Tall office listing"
+  - type: "other"
+    url: "https://www.odoo.com/ro_RO/partners/prosys-software-solutions-17629369"
+    label: "Odoo partner directory: implementation services and different Amman address"
+  - type: "other"
+    url: "https://jordanict.com/company-listings/prosys-software-solutions"
+    label: "Jordan ICT directory corroborates PROSYS domain and office phone"
+  - type: "job_post"
+    url: "https://www.engineering10.com/JO/Amman/133449893414140/PROSYS-Software-Solutions"
+    label: "Historical company-attributed 2020 developer vacancies, stack and fresh-graduate signal; not current hiring"

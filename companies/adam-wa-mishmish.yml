@@ -1,14 +1,15 @@
 name: "Adam Wa Mishmish"
 description: >-
-  Adam Wa Mishmish is a Jordanian Arabic-language children's edutainment brand,
-  founded in 2016, producing music-based educational cartoons, stories, books,
-  live classes and performances, toys, and interactive Arabic-learning apps and games
-  for young children.
+  Adam Wa Mishmish is a Jordan-founded Arabic-language children's edutainment
+  company launched in 2016. It produces musical animated learning videos,
+  books, toys, live performances and interactive Arabic classes for young
+  children. Its 2026 activities include Amman classes, a U.S. live tour and
+  an Arabic-letter learning game developed with eduTechnoz.
 verification_status: "partial"
-last_verified: "2026-10-16"
+last_verified: "2026-10-28"
 industry: "Children's Edutainment / Arabic-Language Education and Media"
 website: "https://www.adamwamishmish.com"
-careers_url: null
+careers_url: "https://www.adamwamishmish.com/work-with-us"
 linkedin: "https://www.linkedin.com/company/adamwamishmish"
 hr_email: null
 size: "2-10"
@@ -25,28 +26,33 @@ categories:
 technologies: []
 job_seeker:
   early_career_signal: false
-  signals: []
+  signals:
+    - "The official Work With Us page accepts join-the-team inquiries via a contact form; no specific open position or entry-level recruitment was listed on 2026-10-28."
 notes: >-
-  Reviewed 2026-10-16. The official site confirms ongoing children's Arabic-language
-  music, educational content, classes, and live shows; its contact page states only
-  Amman, Jordan. LinkedIn reports 2-10 employees and no usable headquarters address.
-  The Jordan Media Commission's artistic production/distribution license directory
-  lists 'Adam wa Mishmish Production and Distribution Co.' (row 94), with general
-  manager Luma Baher Al Adnani and Khaled Bin Al Waleed Street, Jabal Al-Hussein,
-  Al-Abdali, Amman as the registered address. This does not confirm a current
-  walk-in office or building-level pin, so the street address is provided_unverified
-  and previous uncorroborated coordinates have been removed. StartupsJo lists
-  founder contact Luma@adamwamishmish.com and +962777392255, neither verified as
-  dedicated HR/recruitment contact. No current vacancy or official careers page
-  was found. In 2026 the company announced a mobile Arabic-letter game developed
-  with external partner eduTechnoz; that partnership does not establish its
-  internal engineering stack. Previous AWS, WooCommerce and WordPress stack claims
-  could not be corroborated in this review and were removed. Historical 2021
-  seed financing of USD 475,000 is not a current hiring signal.
+  Reviewed 2026-10-28. The official About page identifies Hend Baghdady as
+  CEO and Luma Aladnani as co-founder and president; its footer places the
+  business in Amman, Jordan. The current class calendar lists in-person
+  Circle Time sessions at Moonbirds (6th Circle) and Tiny Tots (Swefieh
+  Village), Amman. These are teaching venues, not evidence of an office
+  address. The official events calendar lists six U.S. shows from September
+  19 to October 4, 2026, demonstrating active international operations,
+  not current Jordan hiring. LinkedIn reports 2-10 employees, an
+  E-Learning Providers industry classification and a 2016 founding date,
+  but no usable headquarters address. The Jordan Media Commission license
+  directory previously listed the Khaled Bin Al Waleed Street registered
+  address; the directory timed out on this review, so the address remains
+  provided_unverified and precise coordinates remain null. StartupsJo
+  lists founder contact Luma@adamwamishmish.com, not a dedicated HR mailbox.
+  The official Work With Us page now invites join-the-team inquiries via
+  a form, but lists no open vacancies, job levels or recruitment email.
+  The Arabic-letter game was built in partnership with eduTechnoz; no
+  internal software stack is verified. Company verification remains
+  partial because a current office pin, direct HR contact and current
+  technical hiring are not established.
 evidence:
   - type: "official_website"
     url: "https://www.adamwamishmish.com/"
-    label: "Official website and current offerings (reviewed 2026-10-16)"
+    label: "Official website and current offerings (rechecked 2026-10-28)"
   - type: "official_website"
     url: "https://www.adamwamishmish.com/about"
     label: "Official company background and activities"
@@ -62,3 +68,15 @@ evidence:
   - type: "other"
     url: "https://www.startupsjo.com/en/Pages/CustomPages/Startup/18998"
     label: "StartupsJo founder contact and industry"
+  - type: "official_website"
+    url: "https://www.adamwamishmish.com/work-with-us"
+    label: "Official work-with-us page — join-team contact form; no listed openings (2026-10-28)"
+  - type: "official_website"
+    url: "https://www.adamwamishmish.com/classes/dates"
+    label: "Current Amman Circle Time sessions at partner venues, not a company office"
+  - type: "official_website"
+    url: "https://www.adamwamishmish.com/events/us"
+    label: "Official six-city U.S. live-tour schedule, September-October 2026"
+  - type: "other"
+    url: "https://edutechnoz.com/"
+    label: "Technology partner independently describes the Adam Wa Mishmish Arabic-literacy game"

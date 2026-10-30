@@ -1,5 +1,5 @@
 name: "ArabiaWeather"
-last_verified: "2026-10-16"
+last_verified: "2026-10-29"
 verification_status: "partial"
 industry: "Technology, Information and Media / Weather Services"
 description: "ArabiaWeather is an Amman-headquartered weather and climate information and media company, part of Ard Group. It publishes localized forecasts, weather news and mobile apps, and provides meteorological intelligence and decision-support services for businesses including aviation, energy and agriculture."
@@ -11,7 +11,7 @@ size: "11-50"
 location:
   area: "Amman"
   address: "Al-Mehanieh (Carrefour) Building, Wasfi Al-Tal Street, near Al-Waha Circle, Amman, Jordan"
-  status: "verified"
+  status: "provided_unverified"
   latitude: null
   longitude: null
   maps_url: "https://www.google.com/maps/search/?api=1&query=ArabiaWeather+Inc.%2C+Wasfi+Al-Tal+Street%2C+Amman%2C+Jordan"
@@ -25,8 +25,10 @@ technologies:
   - "iOS"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Partial company verification on 2026-10-16. Official contact page confirms Amman main office, phone +962-6-552-2331, and general helpdesk@arabiaweather.com; LinkedIn reports 11-50 employees and Amman headquarters. The company LinkedIn page includes a February 2026 event announcement identifying ArabiaWeather offices at Al-Waha Circle / Al-Mehanieh Towers, corroborating the Google Maps listing of the Carrefour/Al-Mehanieh building on Wasfi Al-Tal Street; exact suite and coordinates are unconfirmed. Official contact page links to careers.arabiaweather.com, but the portal returned a 502 error during this review, so no active vacancy was confirmed. A historical company hiring post invites social-media/content applications to jobs@ard.co; current inbox monitoring and vacancy status are unknown. Android and iOS are consumer app platforms, not evidence of internal implementation technologies; previously listed Kotlin was not independently corroborated. No current graduate/internship recruitment program was found."
+  signals:
+    - "Historical ArabiaWeather social-media/content-creator hiring post (2026), directing applications to jobs@ard.co; current vacancy status unconfirmed"
+    - "Historical Ard Group digital-sales hiring for ArabiaWeather in Amman (about 2021; 2-3 years of experience); not an open vacancy"
+notes: "Partial company verification on 2026-10-16. Official contact page confirms Amman main office, phone +962-6-552-2331, and general helpdesk@arabiaweather.com; LinkedIn reports 11-50 employees and Amman headquarters. The company LinkedIn page includes a February 2026 event announcement identifying ArabiaWeather offices at Al-Waha Circle / Al-Mehanieh Towers, corroborating the Google Maps listing of the Carrefour/Al-Mehanieh building on Wasfi Al-Tal Street; exact suite and coordinates are unconfirmed. Official contact page links to careers.arabiaweather.com, but the portal returned a 502 error during this review, so no active vacancy was confirmed. A historical company hiring post invites social-media/content applications to jobs@ard.co; current inbox monitoring and vacancy status are unknown. Android and iOS are consumer app platforms, not evidence of internal implementation technologies; previously listed Kotlin was not independently corroborated. No current graduate/internship recruitment program was found. Follow-up 2026-10-29: The official ArabiaWeather contact page still names Amman and +962-6-552-2331 and links to the careers portal, which again returned HTTP 502, so no open role or live CV intake was confirmed. The Ard Solutions first-party contact page publishes the same Amman phone number and locates its related-group office at Almehaneyh Tower, Abdul Halim Abbas Street; this differs from the Wasfi Al-Tal Street wording in the previously recorded Maps listing, and the ArabiaWeather-specific suite or entrance remains unconfirmed. Location is now provided_unverified pending direct ArabiaWeather street-level corroboration. The Ard Solutions contact mailbox info@solutions.ard.co is general to a related entity, not ArabiaWeather HR. An Ard Group employer-authored historical Digital Sales vacancy for ArabiaWeather in Amman requested 2-3 years of experience and provided a role-specific individual mailbox; it is not current HR evidence. The company LinkedIn feed recently promoted a 300-hour meteorology diploma through its academy; this is paid training, not employment or an internship. The earlier jobs@ard.co content-creator application address remains historically evidenced only. LinkedIn 11-50 is a platform-reported size, and Ard Group or Ard Labs engineering headcounts cannot be assigned to ArabiaWeather. No verified current early-career position, audited headcount, exact coordinates, or internal implementation stack was established."
 evidence:
   - type: "official_website"
     url: "https://www.arabiaweather.com/"
@@ -49,3 +51,9 @@ evidence:
   - type: "official_website"
     url: "https://www.arabiaweather.com/en/content/who-are-we"
     label: "Official company overview of meteorological services, consumer forecasting and business solutions"
+  - type: "official_website"
+    url: "https://solutions.ard.co/en/contact-us"
+    label: "Related Ard Solutions official contact page — same Amman phone, Almehaneyh Tower on Abdul Halim Abbas Street; not ArabiaWeather-specific office proof (2026-10-29)"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/ardgroupglobal_sales-advertisng-amman-activity-6812326732431933440-DUu9"
+    label: "Historical Ard Group employer post — ArabiaWeather Amman Digital Sales vacancy, 2-3 years experience; not current (checked 2026-10-29)"

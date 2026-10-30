@@ -1,5 +1,5 @@
 name: Almomani Cyber Solutions
-last_verified: '2026-10-16'
+last_verified: '2026-10-28'
 industry: IT Services and IT Consulting / Cybersecurity
 description: Amman-based cybersecurity and IT consultancy providing managed SOC, incident
   response, vulnerability assessment, DevSecOps, cloud infrastructure, software development
@@ -40,14 +40,30 @@ job_seeker:
   - Internship
   - Fresh graduate
   - Bootcamp
-notes: Reviewed 2026-10-16. Official contact page confirms Al Quds Center Building
-  224, Office 210, Wasfi Al Tall St., Amman 11953, phone +962 785314928 and general
-  email info@almomanicybersolutions.com. LinkedIn reports 2-10 staff and advertises
-  SOC, VAPT, DevSecOps and full-stack internships via internships@almomanicybersolutions.com;
-  exact application deadlines are unconfirmed. An official cybersecurity training
-  program is open for registration but is not necessarily employment. Employee evidence
-  for Django, MySQL, Docker and CI/CD is historical. Precise coordinates, an independent
-  HR contact, and current company-wide tooling are not confirmed.
+  - Growth Lead (Marketing and Sales; posting status unconfirmed)
+  - Full Stack Development Internship (three-month training; registration open)
+  - Cybersecurity Defense Engineer Internship (three-month training; registration open)
+notes: >-
+  Reviewed 2026-10-28. Official contact page continues to identify Al Quds Center,
+  Building 224, Office 210, Wasfi Al Tall Street, Amman 11953, phone +962 785314928
+  and general email info@almomanicybersolutions.com. LinkedIn self-reports 2-10
+  employees, founded 2024, and advertises internships and a Growth Lead (Marketing
+  and Sales) position with applications directed to sales@almomanicybersolutions.com;
+  the post's closing date and current vacancy status are unconfirmed. A LinkedIn
+  job card labels the Growth Lead location "Jordan, PA", inconsistent with the
+  company's Amman contact address; do not infer the job is physically in Amman.
+  The official Full Stack Development and Cybersecurity Defense Engineer internship
+  program pages each show three months and "Open for Registration". These are
+  training-program registrations, not evidence of paid employment or job vacancies.
+  The company has also advertised fee-charging SOC training (50 JOD participant
+  cost in its August 2026 LinkedIn announcement), so "internship" should not be
+  assumed to mean a paid job. The internships@almomanicybersolutions.com address
+  is an advertised training application contact, not independently verified as
+  a general HR mailbox. The Full Stack curriculum mentions Django, PHP, Laravel,
+  Node.js, Git, GitLab, CI/CD and Docker; these are teaching topics and do not
+  prove the production stack. Existing employee-based technology evidence remains
+  historical. No independent HR contact, live salaried engineering vacancy,
+  precise office coordinates or current company-wide internal stack was confirmed.
 evidence:
 - type: official_website
   url: https://almomanicybersolutions.com/en/
@@ -76,4 +92,13 @@ evidence:
 - type: linkedin_employee
   url: https://jo.linkedin.com/in/sara-alawneh-
   label: 2025-2026 internship tooling evidence
+- type: official_website
+  url: https://almomanicybersolutions.com/en/training/full-stack-development-internship/
+  label: Full Stack Development Internship curriculum and three-month open registration
+- type: official_website
+  url: https://almomanicybersolutions.com/en/training/
+  label: Current official training program catalogue, distinct from paid job vacancies
+- type: job_post
+  url: https://www.linkedin.com/jobs/view/growth-lead-at-almomani-cyber-solutions-4457744355
+  label: Growth Lead posting; LinkedIn job card misgeocodes Jordan as Pennsylvania
 verification_status: partial

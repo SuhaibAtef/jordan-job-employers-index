@@ -1,46 +1,87 @@
-name: "Siren Analytics"
-industry: "Software development / data analytics / digital transformation"
-website: "https://www.sirenanalytics.com"
-careers_url: null
-linkedin: null
-hr_email: null
-size: null
+name: Siren Analytics
+description: GovTech and public-sector digital transformation consultancy delivering software development, data analytics,
+  AI, change management and government e-services in Jordan and the wider region. A joint venture of CME and Siren Associates.
+industry: GovTech / IT consulting / software development / data analytics
+website: https://www.sirenanalytics.com/
+careers_url: https://sirenassociates.zohorecruit.com/jobs/Siren-Analytics
+linkedin: https://www.linkedin.com/company/siren-analytics/
+hr_email: recruitment@sirenanalytics.com
+size: 51-200 employees (LinkedIn company-wide estimate; Jordan headcount unknown)
 location:
-  area: "Amman"
-  address: "Balsan building, Mecca Street, 2nd Floor, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  area: Amman
+  address: Shaban Complex, Building 1, Mazen Al Kurdi Street, Amman, Jordan
+  status: provided_unverified
+  latitude: null
+  longitude: null
+  maps_url: https://www.google.com/maps/place/31%C2%B056%2723.1%22N%2B35%C2%B053%2704.1%22E/
 categories:
-  - "data"
-  - "devops"
-  - "mobile"
-  - "web"
+- data
+- devops
+- mobile
+- web
+- security
 technologies:
-  - "Android"
-  - "iOS"
-  - "Kubernetes"
+- Android
+- iOS
+- Kubernetes
+- RKE2
+- Selenium
+- JMeter
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Digital change agency (JV: CME x Siren Associates) with Amman office on Mecca St; builds gov platforms (Amman is Listening, EMRC e-services) on open-source + RKE2/Kubernetes; Feb 2025 PSUT MoU for student training/workshops in AI, big data and data security."
+  early_career_signal: true
+  signals:
+  - '2026 Amman Business Analyst recruitment: 5+ years of experience; company LinkedIn and official Zoho careers portal.
+    Application acceptance not independently confirmed on 2026-10-30.'
+  - '2026 Amman Senior Quality Assurance Engineer recruitment: 7+ years of experience; Selenium and JMeter mentioned
+    in company post. Application acceptance not independently confirmed.'
+  - 2025-02-11 PSUT memorandum of understanding covers student practical training, workshops and mentoring; does not
+    establish a currently accepting internship.
+  - Historical 2024 paid internship advertised in Beirut for senior students/fresh graduates, deadline 2024-03-15; not
+    a Jordan placement and closed.
+notes: 'Verified 2026-10-30 from the official company website, company LinkedIn, PSUT and company recruitment posts.
+  Official site and LinkedIn list Shaban Complex on Mazen Al Kurdi Street; LinkedIn specifies Building 1. The prior Balsan
+  Building/Mecca Street address conflicts with these current company sources and was superseded. The official website
+  links to a Google Maps point, but the precise building entrance and current occupancy were not independently confirmed;
+  old 31.9539,35.9106 coordinates were removed. LinkedIn reports 51-200 employees globally, not Jordan-specific. recruitment@sirenanalytics.com
+  appeared in a 2024 company internship advertisement; current mailbox operation is unconfirmed. info@sirenanalytics.com
+  is the published general contact, not a verified HR address. Siren developed Android/iOS/web applications and used
+  RKE2/Kubernetes for the 2025 Amman is Listening project; Selenium/JMeter appear in a 2026 Amman QA vacancy and are
+  job requirements, not proof of a production stack. The 2025 PSUT MoU proposes training and mentorship but is not proof
+  of active internships. Company and partner job listings are not independently confirmed as currently accepting applications.
+  Partial verification: current office occupancy, local headcount and accepting Jordan vacancies remain unconfirmed.'
 evidence:
-  - type: "official_website"
-    url: "https://www.sirenanalytics.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.sirenanalytics.com/main-content/building-a-participatory-open-data-platform"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.sirenanalytics.com/main-content/siren-supports-launch-of-104-e-services-in-jordan"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.sirenanalytics.com/main-content/siren-and-psut-sign-memorandum-of-understanding-on-digital-transformation"
-    label: "Research source"
-  - type: "other"
-    url: "https://intaj.net/user/2832/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+- type: official_website
+  url: https://www.sirenanalytics.com/
+  label: Official site, services, Amman office and general email (accessed 2026-10-30)
+- type: linkedin_company
+  url: https://www.linkedin.com/company/siren-analytics/
+  label: 'Company profile: size, 2019 founding, Shaban Complex Building 1, recruitment updates'
+- type: careers
+  url: https://sirenassociates.zohorecruit.com/jobs/Siren-Analytics
+  label: Official-site-linked Zoho recruitment portal (job status not confirmed)
+- type: other
+  url: https://www.sirenanalytics.com/main-content/building-a-participatory-open-data-platform
+  label: '2025-08-26 official case study: Android, iOS, web, RKE2 and Kubernetes'
+- type: other
+  url: https://www.sirenanalytics.com/main-content/siren-and-psut-sign-memorandum-of-understanding-on-digital-transformation
+  label: 2025-02-12 company account of PSUT training and research MoU
+- type: other
+  url: https://psut.edu.jo/en/news/psut-11-2-2025
+  label: 2025-02-11 university corroboration of MoU and proposed practical training
+- type: other
+  url: https://www.sirenanalytics.com/main-content/siren-supports-launch-of-104-e-services-in-jordan
+  label: Official Jordan public e-services project evidence
+- type: other
+  url: https://www.linkedin.com/posts/siren-analytics_siren-senior-quality-assurance-engineer-activity-7450890831839985664-1jue
+  label: 'Company post: Amman QA recruitment and Selenium/JMeter'
+- type: other
+  url: https://www.linkedin.com/posts/kamil-najib-fakhoury-04635a287_siren-business-analyst-in-amman-activity-7451309268659539970-lTCl
+  label: Jordan CEO relays company Amman Business Analyst recruitment
+- type: other
+  url: https://lb.linkedin.com/jobs/view/internship-at-siren-analytics-3853444949
+  label: Historical 2024 Beirut internship with recruitment mailbox; applications closed
+- type: other
+  url: https://intaj.net/user/2832/
+  label: Jordan industry directory profile (legacy location context)
+verification_status: partial
+last_verified: '2026-10-30'

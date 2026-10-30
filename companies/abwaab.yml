@@ -1,8 +1,8 @@
 name: "Abwaab"
 verification_status: "partial"
-last_verified: "2026-10-16"
+last_verified: "2026-10-27"
 industry: "E-Learning Providers / Edtech"
-description: "Abwaab is an Arabic-language e-learning platform for school students across the region. It delivers curriculum-aligned lessons, assessments and digital learning experiences through web and mobile products, supported by an in-house engineering organization in Amman."
+description: "Abwaab is a Jordan-founded, Amman-headquartered Arabic-language education technology company providing curriculum-aligned digital lessons, assessments and guided learning for school students across MENA. In September 2026 it acquired Egyptian edtech Eduact, expanding its offering to include software for independent teachers and learning centers alongside its student-facing web and mobile products."
 website: "https://abwaab.me"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/abwaab-technologies"
@@ -18,6 +18,7 @@ location:
 categories:
   - "devops"
   - "edtech"
+  - "mobile"
   - "web"
 technologies:
   - "AWS"
@@ -33,9 +34,10 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals:
-    - "October 2026: Abwaab leadership publicly recruited a Social Media Content Specialist (short-form) in Amman; check with the poster before applying."
+    - "October 2026: Abwaab reposted a leadership call for an Amman Social Media Content Specialist (short-form), requesting work samples by direct message; application availability is not independently confirmed."
     - "2026: Abwaab official LinkedIn advertised an AI Operations Automation Specialist; application status not independently confirmed."
-notes: "Reviewed 2026-10-16. Abwaab official help center (updated 2026-07-06) describes curriculum lessons, question banks, live sessions and teacher support. LinkedIn currently lists E-Learning Providers, Amman headquarters and self-reported 201-500 company size (not independently audited). The official help center still links to the Freshteam jobs portal, but the portal now displays an unclaimed-site error; no functioning company-wide careers page or HR email could be confirmed. Recent hiring: an Abwaab leadership post, reposted by the company in October 2026, recruits an Amman Social Media Content Specialist; a company-authored AI Operations Automation Specialist advertisement appeared in 2026, but the role may have closed. Historical Amman engineering vacancies and employee profiles suggest AWS, CI/CD, Django, Docker, Git, Go, Kubernetes, Python, React and Terraform; these are historical job/profile signals, not a current production-stack audit. The Plaza Outlets business listing and Dar As-Salehin Street company listing corroborate an Amman office, while coordinates are a Google Maps business pin rather than an independently surveyed entrance. Location evidence does not establish full company verification."
+    - "2026: The CEO publicly sought experienced product leaders, regional CX managers, AI automation engineers and developers through outreach/referrals; locations and current availability were not specified."
+notes: "Reviewed 2026-10-16. Abwaab official help center (updated 2026-07-06) describes curriculum lessons, question banks, live sessions and teacher support. LinkedIn currently lists E-Learning Providers, Amman headquarters and self-reported 201-500 company size (not independently audited). The official help center still links to the Freshteam jobs portal, but the portal now displays an unclaimed-site error; no functioning company-wide careers page or HR email could be confirmed. Recent hiring: an Abwaab leadership post, reposted by the company in October 2026, recruits an Amman Social Media Content Specialist; a company-authored AI Operations Automation Specialist advertisement appeared in 2026, but the role may have closed. Historical Amman engineering vacancies and employee profiles suggest AWS, CI/CD, Django, Docker, Git, Go, Kubernetes, Python, React and Terraform; these are historical job/profile signals, not a current production-stack audit. The Plaza Outlets business listing and Dar As-Salehin Street company listing corroborate an Amman office, while coordinates are a Google Maps business pin rather than an independently surveyed entrance. Location evidence does not establish full company verification. Rechecked 2026-10-27: Company LinkedIn still identifies Amman headquarters and a self-reported global size of 201-500. A company-reposted October leadership call seeks an Amman short-form Social Media Content Specialist via direct message, while the CEO also advertised senior product, CX, AI automation and developer recruitment without specifying Jordan locations; neither is evidence of a currently open entry-level engineering role. The Freshteam careers URL still shows an unclaimed-site page, so careers_url and dedicated HR email remain null. Wamda reported Abwaab\u0027s 2026-09-01 acquisition of Egypt\u0027s Eduact, extending the business into teacher/learning-center SaaS; no assumption is made about Abwaab\u0027s deployed software stack from the acquisition. Existing map coordinates remain a third-party business pin, not independently surveyed."
 evidence:
   - type: "official_website"
     url: "https://abwaab.me"
@@ -51,7 +53,7 @@ evidence:
     label: "Historical Amman DevOps role used as engineering-stack evidence"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/abwaab-technologies"
-    label: "Company profile: 201-500 size, Amman headquarters, and October 2026 Amman hiring repost"
+    label: "Current company profile: 201-500 global size, Amman headquarters, 2026 Amman social-content recruitment repost and regional hiring updates"
   - type: "linkedin_employee"
     url: "https://jo.linkedin.com/in/nezar-al-salahat"
     label: "Current Software Engineer 2 at Abwaab; Jordan engineering evidence"
@@ -70,3 +72,9 @@ evidence:
   - type: "job_post"
     url: "https://www.linkedin.com/posts/abwaab-technologies_abwaab-hiring-ai-activity-7479531147828301824-O7r_"
     label: "Abwaab-authored 2026 AI Operations Automation Specialist recruitment post; vacancy may have closed"
+  - type: "news_article"
+    url: "https://www.wamda.com/2026/09/jordans-abwaab-acquires-egyptian-edtech-eduact"
+    label: "Wamda 2026-09-01 report and company press release: Eduact acquisition, teacher-facing SaaS expansion and six MENA markets"
+  - type: "linkedin_post"
+    url: "https://www.linkedin.com/posts/bayan-almuhtaseb-339628170_abwaab-activity-7481292279077531649-bZni"
+    label: "Public repost of CEO recruitment call for experienced product, CX, AI automation and developer candidates; locations unspecified"

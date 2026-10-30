@@ -1,40 +1,84 @@
 name: "Shop4Me"
-industry: "B2B procurement marketplace"
+description: >-
+  Shop4Me is a B2B procurement marketplace connecting restaurants, clinics,
+  offices and other businesses with suppliers. Its web and mobile platforms
+  have supported supplier discovery, product comparison and ordering; a 2022
+  accelerator brief documents operations in Jordan and Saudi Arabia, but
+  current trading activity has not been independently established.
+industry: "B2B e-commerce / Procurement marketplace"
 website: "https://shop4me.com/"
 careers_url: "https://wellfound.com/company/shop4me/jobs"
-linkedin: null
+linkedin: "https://www.linkedin.com/company/shop4me-global"
 hr_email: null
-size: "1-10"
+size: "11-50"
 location:
   area: "Amman"
   address: null
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ecommerce"
   - "mobile"
   - "web"
 technologies:
   - "Android"
+  - "iOS"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "B2B marketplace that helps businesses (restaurants, retail, clinics, offices) procure food & beverages, disposables and packaging directly from suppliers; founded by Eihab Elzinary, pre-seed Apr 2022; Jordan operations (+962 7 9918 3030). Wellfound jobs page exists but lists no open roles."
+  signals:
+    - "Wellfound lists zero Shop4Me vacancies when checked 2026-10-30; no currently accepting Jordan vacancy or internship was independently confirmed."
+notes: >-
+  Reviewed 2026-10-30. LinkedIn describes a technology/logistics marketplace,
+  reports founding in 2020, a Delaware headquarters, 11-50 employees and an
+  Amman 11953 location (also Jeddah). Wellfound instead reports 1-10 employees;
+  the size field follows the company LinkedIn range and is not a Jordan-specific
+  headcount. The Flat6Labs 2022 Amman investor brief documents HORECA, office,
+  health/beauty procurement and then-current operations in Jordan and Saudi
+  Arabia. Flat6Labs and StartupsJo publish founder/CEO Eihab Elzinary's
+  eihab@shop4me.com as a business contact, not a verified HR mailbox.
+  Wellfound has no listed jobs, and no active internship or recruitment
+  announcement was confirmed. Apple's App Store lists the iOS customer app,
+  last updated in November 2023; AppBrain and Chrome-Stats report that the
+  Android customer app was removed from Google Play in early 2025. Android
+  and iOS therefore describe published customer applications, not an audited
+  current engineering stack. The official shop4me.com site was inaccessible
+  during this review, leaving current operations uncertain. No company
+  street address, office entrance or reliable coordinates in Amman were
+  corroborated; the previous 31.9539,35.9106 point was an unsubstantiated
+  generic city-center coordinate and was removed. The old village.do source
+  was inaccessible and was not relied upon.
 evidence:
   - type: "official_website"
     url: "https://shop4me.com/"
-    label: "Official website"
+    label: "Company-stated website on LinkedIn and Wellfound; inaccessible on 2026-10-30"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/shop4me-global"
+    label: "Company profile, product, 11-50 staff, founding year and Amman location; checked 2026-10-30"
   - type: "careers"
     url: "https://wellfound.com/company/shop4me/jobs"
-    label: "Careers / application page"
+    label: "Wellfound company careers page; zero posted jobs as checked 2026-10-30"
+  - type: "other"
+    url: "https://www.flat6labs.com/wp-content/uploads/2022/08/Jordan-_-2nd-Demo-Day-Investor-Brief-1.pdf"
+    label: "Flat6Labs Amman Cycle 2 investor brief, page 8, 2022 product, markets and founder contact"
+  - type: "other"
+    url: "https://www.startupsjo.com/en/Pages/CustomPages/Startup/469"
+    label: "Jordan startup ecosystem directory; Shop4Me sector and founder business contact"
+  - type: "other"
+    url: "https://apps.apple.com/jo/app/shop4me-supplying-businesses/id1462807284"
+    label: "Apple App Store customer iOS app and November 2023 version history"
+  - type: "other"
+    url: "https://www.appbrain.com/app/shop4me-supplying-businesses/com.shop4me.customer.native.android"
+    label: "Independent Android app history; removed from Google Play January 2025"
+  - type: "other"
+    url: "https://chrome-stats.com/d/com.shop4me.customer.native.android"
+    label: "Independent Android app listing; reports Google Play removal February 2025"
   - type: "other"
     url: "https://apprecs.com/android/com.shop4me.customer.native.android/shop4me%3A-supplying-businesses"
-    label: "Research source"
+    label: "Archived Shop4Me Android customer application listing"
   - type: "other"
-    url: "https://village.do/company/shop4me-global"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://www.linkedin.com/posts/shop4me-global_websummit2022-startup-entrepreneurship-activity-6995656359165743104-LmC-"
+    label: "Shop4Me 2022 company post about Jordan participation at Web Summit"
+verification_status: "partial"
+last_verified: "2026-10-30"

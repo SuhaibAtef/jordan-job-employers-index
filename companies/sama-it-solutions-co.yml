@@ -1,34 +1,83 @@
 name: "Sama IT Solutions Co."
-industry: "Telecommunications / Bulk SMS Services"
-website: "http://samacyber.com"
+description: >-
+  Amman-based web-development, digital-marketing and creative-technology provider
+  whose official site describes custom websites and software, mobile applications,
+  web hosting, bulk SMS marketing, interactive multi-touch displays and live
+  streaming. The company states it launched in 2008. Its public site remains
+  accessible, but its dated copyright and absence of recent company-attributed
+  recruitment evidence leave current staffing and operations incompletely verified.
+verification_status: "partial"
+last_verified: "2026-10-30"
+industry: "IT services / Web and mobile development, hosting and digital marketing"
+website: "https://samacyber.com/"
 careers_url: null
 linkedin: null
 hr_email: null
 size: null
 location:
-  area: "Amman"
-  address: "Almadinah Almonwarah St., Bldg 236, Office 306, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  area: "Al Madinah Al Munawarah Street, Amman"
+  address: "Almadinah Almonwarah Street, Building 236, Office 306, Amman, Jordan (company-published address; current occupancy unconfirmed)"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Almadinah+Almonwarah+Street+Building+236+Amman+Jordan"
 categories:
   - "consulting"
   - "telecom"
+  - "web"
+  - "mobile"
+  - "marketing"
 technologies:
-  - "SMS Gateway"
+  - "Bulk SMS web portal and PC software (official SMS service description; product capability, not a confirmed implementation stack)"
+  - "Custom website and web-application development (official service offering; programming languages and frameworks unspecified)"
+  - "Mobile application development (official service offering; mobile platforms and frameworks unspecified)"
+  - "cPanel web hosting (official hosting plans; advertised service rather than audited infrastructure)"
+  - "Shared, VPS, dedicated and cloud hosting (official service menu; provider and live deployment unverified)"
+  - "Interactive multi-touch display applications (official company service; hardware/software stack unspecified)"
+  - "Audio and video live streaming (official service menu; streaming technology unspecified)"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "Jordanian bulk-SMS and SMS-marketing provider (web + PC software, multilingual messaging, delivery reports) for corporates and SMEs. No public internship/grad evidence found."
+  early_career_signal: false
+  signals: []
+notes: >-
+  First company-level review on 2026-10-30. Official pages identify the firm as
+  Sama IT Solutions, launched in 2008, with services broader than the previous
+  telecom/SMS-only classification: websites, mobile apps, hosting, marketing,
+  interactive displays, creative design and live streaming. The SMS page describes
+  multilingual web/PC-based bulk messaging, scheduling and delivery reports.
+  The official contact page lists Building 236, Office 306, Almadinah Almonwarah
+  Street, Amman, telephone +962 6 5652 996 and general email
+  info@samacyber.com. An independent business listing associated with the same
+  phone/domain instead says Saad 2nd Building, third floor, Office 304; exact
+  current occupancy and office number remain unresolved. The prior coordinates
+  31.9539,35.9106 were a generic Amman pin, not verified premises, and were
+  removed; the map URL is an address search only. No dedicated HR email,
+  company-matched LinkedIn profile, reliable employee count, accepting vacancy,
+  internship or graduate program was established. The prior uncorroborated
+  'Internship' signal was removed. Company pages retain a 2014 copyright,
+  making current operational activity uncertain despite accessible site content.
+  Search results for similarly named Sama Telecom (sama.jo), Sama Amman and
+  overseas Sama IT Solutions entities were excluded as different employers.
+  Listed service technologies do not establish the internal production stack,
+  and a company-published address does not establish full-company verification.
 evidence:
   - type: "official_website"
-    url: "http://samacyber.com"
-    label: "Official website"
+    url: "https://samacyber.com/"
+    label: "Official home: web/mobile development, hosting, interactive displays, creative services and Amman contact; reviewed 2026-10-30"
+  - type: "official_website"
+    url: "https://samacyber.com/about.html"
+    label: "Official company history: 2008 launch, historical client/project claims and regional branches; page carries 2014 copyright"
+  - type: "official_website"
+    url: "https://samacyber.com/sms.html"
+    label: "Official bulk SMS service: web/PC messaging, multilingual support, scheduling and delivery reports"
+  - type: "official_website"
+    url: "https://samacyber.com/hosting.html"
+    label: "Official hosting packages identify cPanel and service plans; not evidence of a current internal stack"
+  - type: "official_website"
+    url: "https://samacyber.com/contact.html"
+    label: "Official Amman contact: Almadinah Almonwarah Street Building 236 Office 306, general email and telephone"
   - type: "other"
-    url: "http://samacyber.com/sms.html"
-    label: "Research source"
+    url: "https://www.bizmideast.com/JO/sama-it-solutions_1Z-06-565-2996"
+    label: "Independent business listing matches phone and domain but differs on premises (Saad 2nd Building, Office 304); occupancy unconfirmed"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=Almadinah+Almonwarah+Street+Building+236+Amman+Jordan"
+    label: "Address search only; no verified precise coordinate or entrance"

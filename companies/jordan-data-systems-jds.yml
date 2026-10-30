@@ -6,7 +6,7 @@ description: >-
   cybersecurity, ERP and hospitality systems, analytics, and consulting to
   commercial and public-sector customers in Jordan and the region.
 verification_status: "partial"
-last_verified: "2026-10-15"
+last_verified: "2026-10-28"
 industry: "IT Services and Consulting / Enterprise Systems Integration"
 website: "https://jds.com.jo/"
 careers_url: null
@@ -43,7 +43,10 @@ technologies:
   - "VMware"
 job_seeker:
   early_career_signal: false
-  signals: []
+  signals:
+    - "Senior Sales Account Manager, Amman: employer-attributed LinkedIn listing displayed an Apply option on 2026-10-28; requires at least seven years of data-centre passive-infrastructure sales experience. Application status may change."
+    - "Business Development Manager (hospitality), Amman: employer-attributed LinkedIn listing, closed to applications by 2026-10-28; requires 5-10 years of experience."
+    - "Operations Manager, Amman: third-party syndicated vacancy dated 2026-09-21; original employer application route and current availability unconfirmed."
 notes: >-
   Reviewed 2026-10-15. JDS official About page confirms founding in 1981,
   Midis Group affiliation, enterprise infrastructure, cloud, security, analytics,
@@ -65,7 +68,20 @@ notes: >-
   include HPE, Aruba, Oracle Hospitality, VMware, Cisco and Oracle NetSuite;
   these describe customer solutions, not necessarily internal development.
   Unsupported Oracle Fusion and Oracle Database tags and the unsubstantiated
-  Internship signal were removed.
+  Internship signal were removed. Rechecked 2026-10-28: An employer-attributed
+  LinkedIn Senior Sales Account Manager listing in Amman displayed an Apply
+  option; the role specifies seven or more years of relevant data-centre
+  infrastructure experience and Salesforce CRM usage in sales operations,
+  neither of which establishes JDS internal software development stack.
+  A separate hospitality Business Development Manager advertisement required
+  5-10 years of experience and was closed to applications. A September 21,
+  2026 Operations Manager advertisement appears on a third-party aggregator;
+  the employer application route and live status were not confirmed. Public
+  LinkedIn names Salahuddin Shaik as a Senior Talent Acquisition Partner
+  associated with the two employer-attributed advertisements, but provides
+  no verified recruiting email. No entry-level vacancy or internship was
+  established. Midis Group also publishes the older Queen Alia Street
+  address, so the conflict with the current JDS contact page remains.
 evidence:
   - type: "official_website"
     url: "https://jds.com.jo/"
@@ -97,3 +113,15 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.960641,35.845121"
     label: "Existing approximate map coordinates; not surveyed"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/senior-sales-account-manager-at-jordan-data-systems-jds-4446627320"
+    label: "Employer-attributed Amman senior sales vacancy; Apply displayed at review"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/business-development-manager-at-jordan-data-systems-jds-4446633063"
+    label: "Employer-attributed Amman hospitality business development role; closed"
+  - type: "job_post"
+    url: "https://alibabatrading.jo/en/jobs/external/5264c060-4991-4d4c-9f74-7d9603240034"
+    label: "Third-party syndicated Operations Manager role dated 2026-09-21; status unconfirmed"
+  - type: "other"
+    url: "https://www.midisgroup.com/affiliates/jordan-data-systems-llc-jds/"
+    label: "Midis Group affiliate directory independently repeats older Queen Alia Street address"

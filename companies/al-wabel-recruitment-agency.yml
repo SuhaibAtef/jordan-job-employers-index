@@ -1,7 +1,7 @@
 name: "Al Wabel Recruitment Agency"
 description: "Al-Wabel Recruitment Agency is an Amman-based staffing and human-resources services company founded in 2001, providing local and international recruitment, outsourcing, payroll and HR administration, work-permit support, and project staffing."
 verification_status: "partial"
-last_verified: "2026-10-16"
+last_verified: "2026-10-28"
 industry: "Human Resources Services / Staffing & Recruiting"
 website: "http://al-wabel.net/"
 careers_url: null
@@ -18,9 +18,11 @@ location:
 categories: []
 technologies: []
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Reviewed 2026-10-16. Jordan Ministry of Labour private-employment-office directory (page updated 2026-10-12) lists Al-Wabel, manager Dr. Wisam Al-Masharqah, Sweifieh/Yanabii Street/Building 21, phone 06-5865618 and general email info@alwabel.net. LinkedIn identifies a different street (Al Wakalat Street) in Sweifieh, so the exact physical office remains unconfirmed; previous coordinates (31.9518,35.94042) did not have adequate address-level support and were cleared. LinkedIn self-reports 1,001-5,000 employees, but this is not independently audited. Earlier company materials use general email Info@Al-Wabel.net; neither address is established as a dedicated HR mailbox. Official website and historic online CV application URL were inaccessible during this review; the latter is retained only as historical evidence, not an active careers link. A historical Saudi Retail Supply Chain Manager vacancy is closed, so no current opening or early-career opportunity is claimed. No company technology stack was independently evidenced. Previous unsubstantiated web category was removed."
+  early_career_signal: true
+  signals:
+    - "Third-party September 2026 Student Assistant listing at Al-Wabel's Amman office, with stated 2026-12-05 deadline; employer posting and direct application route unconfirmed."
+    - "Third-party August 2026 Talent Acquisition Specialist listing, stated 2026-11-12 deadline; may be client recruitment rather than an internal Al-Wabel position."
+notes: "Reviewed 2026-10-16. Jordan Ministry of Labour private-employment-office directory (page updated 2026-10-12) lists Al-Wabel, manager Dr. Wisam Al-Masharqah, Sweifieh/Yanabii Street/Building 21, phone 06-5865618 and general email info@alwabel.net. LinkedIn identifies a different street (Al Wakalat Street) in Sweifieh, so the exact physical office remains unconfirmed; previous coordinates (31.9518,35.94042) did not have adequate address-level support and were cleared. LinkedIn self-reports 1,001-5,000 employees, but this is not independently audited. Earlier company materials use general email Info@Al-Wabel.net; neither address is established as a dedicated HR mailbox. Official website and historic online CV application URL were inaccessible during this review; the latter is retained only as historical evidence, not an active careers link. A historical Saudi Retail Supply Chain Manager vacancy is closed, so no current opening or early-career opportunity is claimed. No company technology stack was independently evidenced. Previous unsubstantiated web category was removed. Rechecked 2026-10-28: Jordan Ministry of Labour still publicly lists Al-Wabel in its private employment-office directory with Dr. Wisam Al-Masharqah, Yanabii Street Building 21, telephone 06-5865618 and general email info@alwabel.net. LinkedIn continues to list Al Wakalat Street instead, so the precise office address and coordinates remain unverified. LinkedIn's 1,001-5,000 employee range is self-reported and not independently corroborated. The official website again timed out; no active official careers/application page or dedicated company HR email could be established. Third-party job aggregators list a Student Assistant at Al-Wabel's Amman offices, posted 2026-09-05 with stated 2026-12-05 deadline, and a Talent Acquisition Specialist, posted 2026-08-12 with stated 2026-11-12 deadline. These are recent possible recruitment and student-access signals, not employer-confirmed live applications: the aggregators provide no functional direct apply route, and the Talent Acquisition role could be a client placement. A second aggregator repeats the Student Assistant listing but is not independent employer confirmation. No internal software stack was verified; company-level status remains partial."
 evidence:
   - type: "government_registry"
     url: "https://mol.gov.jo/AR/List/%D8%AF%D9%84%D9%8A%D9%84_%D9%85%D9%83%D8%A7%D8%AA%D8%A8_%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9"
@@ -43,3 +45,12 @@ evidence:
   - type: "company_listing"
     url: "https://www.cybo.com/JO-biz/al-wabel-recruitment-agency"
     label: "Business directory corroborating Amman location, contact telephone and general email"
+  - type: "job_post"
+    url: "https://jordan.mimusjobs.com/job/student-assistant/"
+    label: "Third-party Student Assistant listing, posted 2026-09-05, stated deadline 2026-12-05; internal role claimed but no employer-confirmed application route"
+  - type: "job_post"
+    url: "https://jordan.mimusjobs.com/job/talent-acquisition-specialist/"
+    label: "Third-party Talent Acquisition Specialist listing, posted 2026-08-12, stated deadline 2026-11-12; possible client vacancy"
+  - type: "job_post"
+    url: "https://alibabatrading.jo/en/jobs/external/56a8a331-1bfa-49ad-be78-dca20d9fc13d"
+    label: "Second aggregator's 2026-09-03 Student Assistant mirror, explicitly external; not independent employer confirmation"

@@ -6,7 +6,7 @@ description: >-
   a content licensing and syndication business, and operates the DISCO
   digital-content marketplace.
 verification_status: "partial"
-last_verified: "2026-10-16"
+last_verified: "2026-10-28"
 industry: "Digital publishing / Online media / Content licensing and syndication"
 website: "https://www.albawaba.com"
 careers_url: null
@@ -39,6 +39,8 @@ job_seeker:
     - "2026 Al Bawaba News junior content licensing coordinator role for SyndiGate in Amman (marked closed at review)."
     - "2026 Al Bawaba News multi-digital content writer/creator listing in Amman visible without a closed notice at review; live application status unconfirmed."
     - "2026 SyndiGate content operations assistant role in Amman requested 0-3 years of experience (marked closed at review)."
+    - "October 2026 Al Bawaba News Arabic Editor in Chief role in Amman; one LinkedIn advertisement was marked closed at October 28 review."
+    - "October 2026 separate Arabic News Editor in Chief advertisement in Amman; not marked closed on its public page, but application availability was unconfirmed."
 notes: >-
   Reviewed 2026-10-16. Al Bawaba's official About and Contact pages confirm
   its Amman headquarters, publishing activities, SyndiGate ownership, and
@@ -66,6 +68,17 @@ notes: >-
   not proof of an internal cloud stack. Uncorroborated WordPress, Git and
   jQuery tags and the devops category were removed. Company verification
   remains partial even though the published office address is corroborated.
+  Rechecked 2026-10-28: Al Bawaba published new editorial coverage dated
+  October 28, confirming continued site activity. Two October 2026 LinkedIn
+  advertisements for senior Arabic editor-in-chief roles in Amman were
+  identified; one explicitly no longer accepted applications, whereas the
+  other did not display a closed notice. These are recent hiring signals,
+  not confirmation that either role is currently accepting applications.
+  The previously recorded multi-digital content creator listing still had
+  no closure notice in its retrieved public page; application availability
+  remains unconfirmed. No dedicated careers page or HR email was verified.
+  The self-reported 11-50 size is not a Jordan-only audited headcount, and
+  historical technology evidence was not revalidated for current deployment.
 evidence:
   - type: "official_website"
     url: "https://www.albawaba.com"
@@ -109,3 +122,12 @@ evidence:
   - type: "official_website"
     url: "https://www.syndigate.info/licensed-content-offering/"
     label: "SyndiGate content licensing formats and external delivery options"
+  - type: "official_website"
+    url: "https://www.albawaba.com/business/us-iran-war-cost-reaches-47-billion-1640105"
+    label: "Official Al Bawaba editorial article published October 28, 2026; current publishing activity"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/editor-in-chief-arabic-at-al-bawaba-news-4481087200"
+    label: "October 2026 Arabic Editor in Chief Amman role; LinkedIn explicitly marked applications closed at review"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/editor-in-chief-arabic-news-at-al-bawaba-news-4480021671"
+    label: "October 2026 separate Arabic News Editor in Chief Amman listing; no closed notice, live applications unconfirmed"

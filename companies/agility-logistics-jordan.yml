@@ -1,14 +1,17 @@
 name: Agility Logistics Jordan
-description: Historical Amman listing for Agility's freight-forwarding and warehousing operations. Agility sold
-  its Global Integrated Logistics (GIL) division to DSV in August 2021. DSV currently documents Jordan freight and
-  warehouse operations, but available official sources do not establish that a separate Agility-branded freight
-  employer still operates at the historical Amman address. The current Agility group owns and invests in aviation,
-  logistics parks, digital logistics and related infrastructure businesses.
+description: >-
+  Historical Agility-branded freight-forwarding and warehousing employer listing in
+  Shmeisani, Amman. Agility sold its Global Integrated Logistics (GIL) business to
+  DSV in August 2021, so a current Agility freight-forwarding office at that
+  address is not established. Separately, the Agility group's Logistics Parks
+  division has an official Jordan page describing a Qastal-area logistics-park
+  development near Amman's airport; this does not establish continuity of the
+  historical Shmeisani employer or that the park is fully operational.
 verification_status: partial
-last_verified: '2026-10-16'
+last_verified: '2026-10-28'
 industry: Logistics / freight forwarding / warehousing (historical Jordan listing)
 website: https://agility.com/
-careers_url: null
+careers_url: https://agility.com/careers/
 linkedin: https://www.linkedin.com/company/agility/
 hr_email: null
 size: null
@@ -25,15 +28,27 @@ technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: Reviewed 2026-10-16. The JordanYP Agility Logistics entry reports Laila Al-Akhyaliyah Street, Shmeisani,
-  Amman and telephone +962 6 565 5200, but was last updated 2021-04-27, before Agility's Global Integrated Logistics
-  sale to DSV (completion announced 2021-08-16). Agility's own history confirms the sale. Current DSV Jordan pages
-  document more than 177 staff and five facilities in Amman/Aqaba, but these figures, addresses, systems and roles
-  must NOT be attributed to a still-operating Agility Jordan entity. A second directory lists a different logistics
-  location; neither office or any exact coordinates are current-officially confirmed. The group LinkedIn and careers
-  page do not establish a Jordan-specific headcount, HR contact or active opening. No verified local hiring or internal
-  technology stack was found; leave HR email, company size, coordinates and technology tags unknown. Agility group's
-  ongoing activity does not establish continuation of the historical Jordan freight office.
+notes: >-
+  Rechecked 2026-10-28. The official Agility Logistics Parks Jordan page describes
+  more than 100,000 square metres of land, warehousing and logistics infrastructure
+  under development in Qastal, near Airport Road. This is first-party evidence of
+  a separate Agility group project in Jordan, NOT proof that the historical
+  Shmeisani Agility GIL freight office still operates or that the Qastal project
+  is complete. Agility's own DSV history and DSV's 2021-08-16 completion notice
+  confirm the GIL sale. Current DSV Jordan operations, including its reported
+  local staffing and facilities, belong to DSV and must not be assigned to this
+  Agility record. The JordanYP Shmeisani listing (Laila Al-Akhyaliyah Street,
+  telephone +962 6 565 5200) was last updated 2021-04-27, before the sale; a
+  second directory lists a different site. Neither source confirms a current
+  Agility office or exact coordinates, so the historic address remains
+  provided_unverified. Agility's 2026-08-07 financial release confirms current
+  group activity and Logistics Parks business growth, but does not establish
+  Jordan-specific headcount, jobs, technology stack or HR contact. LinkedIn
+  reports 10,001+ employees for the global group only; local size remains null.
+  The official group careers overview links to multiple business units but no
+  Jordan-specific Agility vacancy or dedicated HR email was confirmed. Leave
+  local size, HR email, coordinates and technologies unknown. Company-level
+  verification remains partial despite the separate official Jordan parks page.
 evidence:
 - type: official_website
   url: https://agility.com/
@@ -65,3 +80,12 @@ evidence:
 - type: other
   url: https://www.logisticsmiddleeast.com/logistics/article-4671-top-10-agility-warehouses-in-the-middle-east
   label: Historical regional warehouse coverage; not current Jordan office confirmation
+- type: official_website
+  url: https://agilitylogisticsparks.com/logistics-parks-in-middle-east/jordan/
+  label: Official Agility Logistics Parks Jordan page - Qastal-area project under development; separate from historical Shmeisani freight office
+- type: other
+  url: https://agility.com/about-us/our-history/dsv/
+  label: Agility first-party history confirms GIL sale to DSV in 2021
+- type: other
+  url: https://agility.com/news/agility-global-plc-reports-resilient-q2-2026-performance/
+  label: Agility 2026-08-07 results - ongoing group activity and logistics parks, not Jordan-specific employment

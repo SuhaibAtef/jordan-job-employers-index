@@ -4,9 +4,11 @@ description: >-
   Jordan Ahli Bank, provides microfinance loans and non-financial support to
   individuals, micro-entrepreneurs and small businesses across Jordan. It
   operates a branch network and offers online loan applications and a customer
-  mobile app. Its website currently lists branch-manager and loan-officer roles.
+  mobile app. Its official careers page lists Branch Manager, Loan Officer and
+  general applications; the linked application forms were reachable on
+  2026-10-28, although posting dates and deadlines were not displayed.
 verification_status: "partial"
-last_verified: "2026-10-16"
+last_verified: "2026-10-28"
 industry: "Microfinance / Financial Services"
 website: "https://amc.com.jo"
 careers_url: "https://amc.com.jo/en/career"
@@ -26,7 +28,7 @@ technologies: []
 job_seeker:
   early_career_signal: false
   signals:
-    - "Official vacancies page displayed Branch manager, Loan Officer and General Job Application listings on 2026-10-16; publication dates and deadlines not displayed."
+    - "Official careers page displayed Branch Manager, Loan Officer and General Job Application listings on 2026-10-28; linked online application forms loaded, but posting dates and deadlines were not displayed."
 notes: >-
   Ownership and services confirmed by the company and parent bank. The Central
   Bank of Jordan and the company's LinkedIn profile corroborate the head-office
@@ -44,7 +46,16 @@ notes: >-
   No current internal programming languages, cloud platforms or core banking
   technology stack could be verified; a public mobile app and online loan
   application do not establish an internal stack. No internship or graduate
-  recruitment was confirmed.
+  recruitment was confirmed. Rechecked 2026-10-28: the Loan Officer and
+  Branch Manager Apply Now links led to first-step application forms requesting
+  personal details; no submission was attempted. A separate General Job
+  Application page was also available. This confirms application routes, not
+  whether the dated vacancies remain actively staffed. Recent LinkedIn posts
+  promote education financing and customer cybersecurity awareness, showing
+  public-facing activity rather than technical hiring or an internal stack.
+  The official governance page links a 2025 guide, but does not establish
+  current internal systems. No 2026 vacancy publication dates or internship
+  programme were found.
 evidence:
   - type: "official_website"
     url: "https://amc.com.jo/en/about-us-main"
@@ -82,3 +93,12 @@ evidence:
   - type: "other"
     url: "https://tanmeyahjo.com/wp-content/uploads/2025/01/AMC-Company-Profile-1-AMC-Ahli-Microfinance-Company.pdf"
     label: "Jordan Microfinance Network company profile PDF"
+  - type: "careers"
+    url: "https://amc.com.jo/en/career/general-job-application"
+    label: "Official general job application page reachable on 2026-10-28"
+  - type: "job_post"
+    url: "https://amc.com.jo/en/career/loan-officer/apply/step-one"
+    label: "Official Loan Officer application form first step, accessible on 2026-10-28"
+  - type: "official_website"
+    url: "https://amc.com.jo/en/corporate-governance"
+    label: "Official corporate governance page linking the 2025 governance guide"

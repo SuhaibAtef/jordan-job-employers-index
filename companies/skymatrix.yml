@@ -1,38 +1,91 @@
-name: "SkyMatrix"
-industry: "Cloud infrastructure (IaaS)"
-website: "https://skymatrix.cloud"
-careers_url: null
-linkedin: "https://jo.linkedin.com/company/vdatait"
-hr_email: "info@skymatrix.cloud"
+name: SkyMatrix
+description: SkyMatrix is a regional cloud infrastructure product and service operated by Amman-based
+  Virtual Data IT, offering cloud VPS hosting, dedicated servers, business email, load balancing,
+  web application firewalls, disaster recovery, and a unified DevOps control panel for production
+  SaaS, API and enterprise workloads. Its official site describes infrastructure in Amman, Jordan
+  and Riyadh, Saudi Arabia. SkyMatrix is not independently established as a separate employing
+  legal entity.
+industry: Cloud infrastructure / infrastructure-as-a-service (IaaS) / managed hosting
+website: https://skymatrix.cloud/en
+careers_url: https://vdatait.com/en/jobs
+linkedin: https://www.linkedin.com/company/vdatait/
+hr_email: null
 size: null
 location:
-  area: "Amman"
+  area: Amman, Jordan (advertised cloud infrastructure location; parent company headquartered
+    in Amman)
   address: null
-  status: "approximate"
-  latitude: 31.9518
-  longitude: 35.94042
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+  status: approximate
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "devops"
-  - "security"
+- devops
+- security
 technologies:
-  - "Firewalls"
-  - "Veeam"
-  - "VPS Hosting"
+- Cloud VPS / virtual servers (advertised SkyMatrix service; underlying hypervisor not disclosed)
+- Dedicated servers (advertised SkyMatrix service; hardware stack not disclosed)
+- Web Application Firewall (WAF) (advertised SkyMatrix security service; vendor not disclosed)
+- Load balancing (advertised SkyMatrix infrastructure service; implementation not disclosed)
+- Disaster recovery, backup and replication (advertised service; backup software not disclosed)
+- Infrastructure monitoring and provisioning (advertised unified DevOps panel; tooling not disclosed)
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Regional cloud infrastructure provider (Saudi Arabia + Jordan) with cloud VPS, dedicated servers, load balancers, WAF and disaster recovery plus a unified DevOps control panel; 24/7 Arabic/English support."
+  signals:
+  - Parent operator Virtual Data IT's official Amman careers page displayed no open positions
+    on 2026-10-30, but invites speculative CV/profile submissions. This is a parent-company
+    pathway, not a confirmed SkyMatrix vacancy.
+  - Virtual Data IT previously advertised an on-site Flutter Mobile App Developer role in Amman
+    requiring Flutter, Dart, REST APIs and Git; LinkedIn marks applications closed. It is not
+    a SkyMatrix-specific or confirmed early-career opening.
+notes: Reviewed 2026-10-30. SkyMatrix's official website expressly identifies Virtual Data IT
+  as the developer and operator; the parent also lists SkyMatrix in its product portfolio. Do
+  not count SkyMatrix as a separately confirmed legal employer or apply parent workforce figures
+  to the product. Virtual Data IT's LinkedIn profile lists 11-50 employees, founded 2018, headquarters
+  in Amman and an office on As-Sakhrah Al-Musharrafah Street; these are PARENT-company details,
+  not independently verified SkyMatrix headcount or SkyMatrix office address. SkyMatrix says
+  it operates cloud infrastructure in Amman and Riyadh but publishes no data-center street address
+  or independently verifiable entrance coordinates. Previous latitude/longitude (31.9518, 35.94042)
+  and their map URL were removed as unsupported for SkyMatrix premises. SkyMatrix's official
+  contact email info@skymatrix.cloud and telephone +962 7 9052 1114 are general sales/support
+  contacts, not confirmed HR channels; hr_email remains null. The parent careers portal currently
+  displays no open positions but permits unsolicited profile submission. A parent Flutter Developer
+  posting is closed; no active SkyMatrix-specific vacancy or internship was verified. Veeam
+  was removed because no reliable source establishes SkyMatrix's use of it. Named technologies
+  are advertised infrastructure capabilities, not an audited production implementation or vendor
+  stack. The company's claims about Tier III facilities, ISO 27001 and uptime were not independently
+  certified in this review. Status is partial pending independent employer identity, hiring,
+  location, headcount and technology verification; location verification is distinct.
 evidence:
-  - type: "official_website"
-    url: "https://skymatrix.cloud"
-    label: "Official website"
-  - type: "linkedin_company"
-    url: "https://jo.linkedin.com/company/vdatait"
-    label: "LinkedIn company page"
-  - type: "other"
-    url: "https://skymatrix.cloud/en"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
-    label: "Google Maps location"
+- type: official_website
+  url: https://skymatrix.cloud/en
+  label: SkyMatrix official services, general support contacts and Virtual Data IT operator
+    disclosure (reviewed 2026-10-30)
+- type: official_website
+  url: https://skymatrix.cloud/en/about
+  label: SkyMatrix identifies Virtual Data IT as developer/operator and lists Amman and Riyadh
+- type: official_website
+  url: https://skymatrix.cloud/en/infrastructure
+  label: Official infrastructure claims and city-level data center presence (not independent
+    certification)
+- type: official_website
+  url: https://vdatait.com/en
+  label: Virtual Data IT official site lists SkyMatrix as its cloud infrastructure product
+- type: careers
+  url: https://vdatait.com/en/jobs
+  label: 'Parent company careers page: no open positions displayed; speculative profile submission
+    offered'
+- type: linkedin_company
+  url: https://www.linkedin.com/company/vdatait/
+  label: 'Parent company LinkedIn: Amman headquarters, 2018 founding and 11-50 parent employees'
+- type: other
+  url: https://vdatait.com/en/contact-us
+  label: Parent Amman contact page, not SkyMatrix-specific office or HR address
+- type: other
+  url: https://jo.linkedin.com/jobs/view/flutter-mobile-app-developer-at-virtual-data-it-4246053391
+  label: Closed parent-company Flutter developer role in Amman; not SkyMatrix-specific
+- type: other
+  url: https://www.linkedin.com/posts/vdatait_skymatrix-cloudinfrastructure-saas-activity-7502270737005580289-VFn4
+  label: Parent's SkyMatrix product marketing and regional cloud infrastructure statement
+verification_status: partial
+last_verified: '2026-10-30'

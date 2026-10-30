@@ -1,39 +1,113 @@
-name: "SITA"
-industry: "Aviation IT / Travel Technology"
-website: "http://www.sita.aero/"
-careers_url: "https://careers.sita.aero/jobs"
-linkedin: "https://www.linkedin.com/company/sita"
-hr_email: null
-size: "5,001-10,000 employees"
+name: SITA
+description: Global aviation information-technology and communications provider serving airlines, airports, aircraft
+  and governments with passenger processing, baggage management, airport operations, border technology, data exchange
+  and managed service operations. Its Amman office is a regional support and operations hub.
+industry: Aviation IT / travel technology / telecommunications and managed services
+website: https://www.sita.aero/
+careers_url: https://careers.sita.aero/jobs
+linkedin: https://www.linkedin.com/company/sita/
+hr_email: careers@sita.aero
+size: 5,001-10,000 worldwide (LinkedIn); 195 Jordan-based employees (Great Place to Work Jordan, updated 2025-09)
 location:
-  area: "Amman"
-  address: "King Hussein Business Park, Building 2, Amman"
-  status: "provided_unverified"
-  latitude: 31.973029
-  longitude: 35.834755
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.973029,35.834755"
+  area: Amman, Jordan
+  address: King Hussein Business Park, Building 2, Amman, Jordan (park operator identified Building 2; current entrance
+    not independently confirmed)
+  status: provided_unverified
+  latitude: null
+  longitude: null
+  maps_url: https://www.google.com/maps/search/?api=1&query=King+Hussein+Business+Park+Building+2+Amman+Jordan
 categories:
-  - "travel"
-technologies: []
+- travel
+- data
+- devops
+- security
+technologies:
+- Microsoft Fabric, OneLake and Power BI (2026 Amman/Barcelona senior data engineer vacancy requirements; deployment
+  not audited)
+- Python, PySpark and SQL (2026 senior data engineer vacancy requirements)
+- ServiceNow CMDB, ITSM and ITIL (2026 service operations and data engineering recruitment requirements)
+- Git/GitHub and CI/CD (2026 senior data engineer vacancy requirements)
+- Cisco, Juniper and Palo Alto networking/security equipment (2026 Amman network engineer vacancy requirements)
+- SD-WAN, IPsec, BGP and OSPF (2026 Amman network lifecycle engineer vacancy requirements)
 job_seeker:
   early_career_signal: true
   signals:
-    - "Fresh graduate"
-    - "Graduate"
-notes: "Global IT provider for the air transport industry; Amman Support Centre staffs 68+ IT experts supporting 300+ airports and airlines worldwide; signed an MoU with Jordan's Ministry of Digital Economy to hire IT/telecom fresh graduates. stack research 2026-10-04: 6 web searches; Amman office is a support centre (service desk / application support roles, 1 employee profile found); no dev-stack evidence; tags left unverified, not verified."
+  - 2020-10-08 SITA-MODEE memorandum of understanding supported hiring Jordanian IT and telecom graduates; historical
+    agreement, not an active intake.
+  - 2026 Graduate-German Speaker Amman vacancy required 0-1 year of IT/customer support experience; LinkedIn explicitly
+    says applications closed.
+  - 2026 Graduate-German Speaker one-year fixed-term Amman listing is also closed; no active graduate scheme confirmed.
+  - 2026 official Amman/Barcelona Senior Data Engineer vacancy (Microsoft Fabric, Python/PySpark, SQL, Power BI);
+    official job page indexed, live application acceptance not independently tested.
+  - 2026 official Amman Senior Life Cycle Engineer vacancy (routing, switching, SD-WAN, Cisco/Juniper/Palo Alto;
+    5-8 years experience); application acceptance not independently tested.
+  - 2026 official Amman Team Leader Digital Customer Operations vacancy (ITIL/incident management, 7+ years experience);
+    application acceptance not independently tested.
+notes: Reviewed 2026-10-30. SITA operates global aviation IT/communications products and an Amman regional operations
+  and support centre. Its official 2020-10-08 release reported 68 IT specialists supporting 300+ airline/airport
+  customers from Amman and a graduate-employment MoU; these are historical figures, not current recruitment guarantees.
+  The Royal Hashemite Court reported 150 Amman staff during an August 2024 King Hussein Business Park visit, while
+  Great Place to Work Jordan (updated September 2025) reports 195 Jordan-based employees. LinkedIn reports 5,001-10,000
+  employees worldwide; the 195 figure is an independently published 2025 Jordan count, not a current audit. King
+  Hussein Business Park identifies SITA as a tenant and its own historical LinkedIn announcement explicitly specifies
+  Building 2. A legacy SITA accounts-payable document and old business listings reference the 7th Circle, but these
+  do not establish the current office. Original coordinates 31.973029,35.834755 were near a third-party Tla al-Ali
+  SITA pin, but no surveyed Building 2 entrance was confirmed; coordinates were removed, and the park/building location
+  remains provided_unverified. Official SITA HR page lists careers@sita.aero for career support; this is a global
+  career-support mailbox, not a verified Jordan-specific recruiter. Official 2026 vacancy pages show Amman engineering,
+  data and service-management recruitment, but the careers search and application flow returned access restrictions
+  during this review; open application status is unconfirmed. Graduate-German Speaker LinkedIn listings are closed.
+  No currently accepting internship was verified. Named technologies are qualifications in official job advertisements,
+  not an independently audited deployed Jordan stack. Company verification remains partial because live job acceptance,
+  current building occupancy and production technology use are not fully established.
 evidence:
-  - type: "official_website"
-    url: "http://www.sita.aero/"
-    label: "Official website"
-  - type: "careers"
-    url: "https://careers.sita.aero/jobs"
-    label: "Careers / application page"
-  - type: "linkedin_company"
-    url: "https://www.linkedin.com/company/sita"
-    label: "LinkedIn company page"
-  - type: "other"
-    url: "https://www.sita.aero/archive-folder/pressroom/news-releases/sita-partners-with-jordans-ministry-of-digital-economy-and-entrepreneurship-to-develop-young-talent/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.973029,35.834755"
-    label: "Google Maps location"
+- type: official_website
+  url: https://www.sita.aero/
+  label: Official aviation technology products and company site (accessed 2026-10-30)
+- type: careers
+  url: https://careers.sita.aero/jobs
+  label: Official job portal (Amman listings indexed; direct search/application access restricted on review)
+- type: linkedin_company
+  url: https://www.linkedin.com/company/sita/
+  label: Company-wide LinkedIn employee band, Geneva headquarters and aviation specialties
+- type: official_website
+  url: https://www.sita.aero/about-us/contact-us/general-inquiries/human-resource-inquiries/
+  label: Official HR inquiries page explicitly provides careers@sita.aero for career support
+- type: official_website
+  url: https://www.sita.aero/archive-folder/pressroom/news-releases/sita-partners-with-jordans-ministry-of-digital-economy-and-entrepreneurship-to-develop-young-talent/
+  label: 2020-10-08 Amman support centre (68 staff) and MODEE graduate hiring MoU
+- type: other
+  url: https://greatplacetowork.jo/company/sita/
+  label: Great Place to Work Jordan profile, updated 2025-09, lists 195 Jordan-based staff
+- type: other
+  url: https://rhc.jo/en/news/king-visits-king-hussein-business-park-tours-several-institutions
+  label: Royal Hashemite Court 2024-08-26 visit confirms Amman KHBP operations and 150 staff at that time
+- type: other
+  url: https://businesspark-jo.com/community/sita/
+  label: King Hussein Business Park tenant profile posted 2025-04-24
+- type: other
+  url: https://ae.linkedin.com/posts/khbpjo_khbp-khbpjo-activity-6624988574435684353-8Mm7
+  label: King Hussein Business Park own historical post specifies SITA Building 2
+- type: other
+  url: https://careers.sita.aero/jobs/9450?lang=en-us
+  label: 'Official senior data engineer Amman/Barcelona vacancy: Microsoft Fabric, Power BI, SQL and Python'
+- type: other
+  url: https://careers.sita.aero/jobs/11040?lang=en-us
+  label: 'Official Amman senior network lifecycle engineer vacancy: Cisco, Juniper, Palo Alto, SD-WAN'
+- type: other
+  url: https://careers.sita.aero/jobs/10936?lang=en-us
+  label: 'Official Amman Digital Customer Operations team leader vacancy: ITIL and incident management'
+- type: other
+  url: https://jo.linkedin.com/jobs/view/graduate-german-speaker-at-sita-4308150772
+  label: Closed Amman graduate technical-support vacancy requiring 0-1 year experience
+- type: other
+  url: https://jo.linkedin.com/jobs/view/graduate-german-speaker-1-year-fixed-term-contract-at-sita-4352995434
+  label: Closed one-year Amman German-speaking graduate vacancy
+- type: other
+  url: https://www.sita.aero/globalassets/docs/other/sita-accounts-payable-directory.pdf
+  label: Historical 7th Circle accounts-payable address, not proof of current office
+- type: google_maps
+  url: https://www.google.com/maps/search/?api=1&query=King+Hussein+Business+Park+Building+2+Amman+Jordan
+  label: Business-park/building search only; no verified entrance coordinate
+verification_status: partial
+last_verified: '2026-10-30'

@@ -1,40 +1,59 @@
 name: "reflect (by Arab Bank)"
-industry: "Fintech / Digital Banking (neobank app)"
+description: "Arab Bank-powered digital mobile banking service launched in 2021 and available in Jordan and Palestine. Reflect offers app-based onboarding, current and savings accounts, multicurrency banking, debit/virtual/credit cards, instant personal loans, Pay Later installments, and an in-app AI assistant called ReVA."
+industry: "Digital banking / fintech (Arab Bank mobile-banking brand)"
 website: "https://reflectapp.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/reflectappjo"
 hr_email: null
-size: null
+size: "11-50 employees (Reflect LinkedIn company-reported range; not an audited count and not Arab Bank's total workforce)"
 location:
-  area: "Amman"
-  address: "Arab Bank Head Office, Shaker Bin Zaid St., Shmeisani, Amman 11195, Jordan"
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  area: "Shmeisani, Amman"
+  address: "Arab Bank headquarters, Building 8, Shaker Bin Zaid Street, Shmeisani, Amman 11195, Jordan (Reflect's officially published location; separate dedicated office not confirmed)"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: null
+  confidence: "High for the published Shmeisani address: Reflect's own privacy policy says it is located at Arab Bank headquarters, and its website repeats Building 8. No independently verified Reflect-specific entrance or coordinate pin."
 categories:
+  - "ai"
   - "fintech"
   - "mobile"
 technologies:
-  - "Android"
-  - "iOS"
+  - "Android (customer application platform; not evidence of internal development stack)"
+  - "iOS (customer application platform; not evidence of internal development stack)"
+  - "Huawei AppGallery (customer application distribution; not internal stack)"
+  - "Conversational AI / ReVA (official product feature; implementation stack undisclosed)"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Arab Bank's lifestyle digital-banking app: digital onboarding, wallet accounts, instant personal loans and a 4-installment interest-free Pay Later service; youth and esports focus."
+notes: "First company-level verification 2026-10-29. Reflect's official support article says Arab Bank launched the mobile banking service in 2021. Its website confirms digital onboarding, debit/virtual/credit cards, multicurrency accounts, savings, instant loans and a four-interest-free-installment Pay Later feature; ReVA's official support page documents voice/text AI assistance and transaction initiation. The company LinkedIn profile identifies Amman headquarters and a self-reported 11-50 employee range; this is not the workforce of parent Arab Bank. Reflect's privacy policy explicitly says it is located at Arab Bank headquarters at 8 Shaker Bin Zaid Street, Shmeisani, Amman 11195, corroborated by its site footer. The location address is verified as published contact premises, not as a separate dedicated office; the previous 31.9539,35.9106 map pin was generic Amman-centre coordinates and was removed. support@reflectapp.com and +962792777027 are customer-support contacts, NOT verified HR contacts. Arab Bank's official careers portal lists Jordan vacancies and a 2026 Ambassadors Program, but no role was demonstrated to belong specifically to Reflect; its parent vacancies must not be counted as Reflect openings. No Reflect-specific careers page, recruitment email, live vacancy or internship was established. Android, iOS and Huawei are supported customer app platforms, not a verified internal engineering stack; ReVA is a product capability. The Reflect LinkedIn page reported a crypto trading waitlist in the Central Bank of Jordan regulatory sandbox in October 2026; do not infer unrestricted public availability. Company verification remains partial because recruitment channels, engineering stack, headcount and dedicated premises remain unconfirmed."
 evidence:
   - type: "official_website"
-    url: "https://reflectapp.com"
-    label: "Official website"
-  - type: "other"
+    url: "https://reflectapp.com/"
+    label: "Official site: Arab Bank association, mobile banking features, Pay Later, support contact and HQ address; checked 2026-10-29"
+  - type: "official_website"
     url: "https://reflectapp.com/privacy-policy/"
-    label: "Research source"
+    label: "Official privacy notice: Reflect located at Arab Bank HQ, 8 Shaker Bin Zaid Street, Shmeisani; checked 2026-10-29"
+  - type: "official_website"
+    url: "https://reflectapp.com/support/get_started_with_reflect/what-is-reflect/"
+    label: "Official support: Arab Bank launched Reflect in 2021"
+  - type: "official_website"
+    url: "https://reflectapp.com/support-reva/"
+    label: "Official ReVA assistant feature: voice/text AI and transaction support; checked 2026-10-29"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/reflectappjo"
+    label: "Company profile: 2021 founding, Amman HQ, 11-50 employees and banking products; checked 2026-10-29"
+  - type: "careers_page"
+    url: "https://arabbank.taleo.net/careersection/ab_external/joblist.ftl"
+    label: "Parent Arab Bank job portal: 2026 Jordan openings and Ambassadors Program; no vacancy attributed to Reflect, checked 2026-10-29"
   - type: "other"
     url: "https://www.jordanpulse.com/article/4667"
-    label: "Research source"
+    label: "Previously recorded secondary source; not independently revalidated during this review"
   - type: "other"
     url: "https://www.jordanpulse.com/article/12485"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Previously recorded secondary source; not independently revalidated during this review"
+  - type: "official_website"
+    url: "https://reflectapp.com/press_hub/"
+    label: "Official press hub documents ReVA launch and crypto-trading collaboration; checked 2026-10-29"
+verification_status: "partial"
+last_verified: "2026-10-29"

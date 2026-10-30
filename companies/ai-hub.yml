@@ -1,9 +1,9 @@
 name: "AI HUB"
-description: "AI HUB is an Amman-based startup founded in 2024 that provides hands-on AI and data training, AI-powered business solutions and workflow automation, and talent-development and recruitment programs. Its public activity includes university-linked training and early-career initiatives."
+description: "AI HUB is an Amman-based AI services and training startup founded in 2024. It offers AI and data skills programs, business AI automation, and talent-development initiatives. In October 2026 it promoted a Claude for Work course with the Princess Sumaya University for Technology training center and reported sponsoring AI Expo at the University of Jordan."
 verification_status: "partial"
-last_verified: "2026-10-16"
-industry: "AI Services / Training and Talent Development"
-website: null
+last_verified: "2026-10-28"
+industry: "AI Services / Workforce Training / Automation"
+website: "https://aihubjo.org/"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/aihub-talentpool/"
 hr_email: "jobs@aihub-talent.com"
@@ -27,9 +27,10 @@ job_seeker:
     - "2026 internship program reposted by AI HUB; application status not confirmed"
     - "2026 robotics-trainer opportunity reposted by AI HUB; application status not confirmed"
 notes: |-
-  Reviewed 2026-10-16. AI HUB's company LinkedIn page identifies Amman (postal code 11925), a 2024 founding date and 2-10 employees; this size is company self-reported, not an audited count. No street address, office pin or reliable office coordinates were established. Earlier coordinates (31.9539, 35.9106) and Google Maps search were generic city-center references, not evidence of the employer's premises, so they were removed.
-  The company-authored 2025 fresh-graduate job announcement explicitly supplied jobs@aihub-talent.com for applications. It is recorded as a historical recruitment contact; current deliverability and an active HR mailbox have not been verified. The company also reposted an internship announcement and a robotics-trainer hiring message during 2026, but current openings, deadlines and direct employment relationships are not confirmed.
-  In 2026 the company promoted AI-agent training using Python, n8n and APIs, plus a Claude for Work course scheduled for 17 October with Princess Sumaya University for Technology. These are training topics, not proof of the company's internal production stack; technologies therefore remain empty. No independently confirmed official company website or careers portal was found. The similarly named AI Hub jo (LinkedIn: aihubjordan; founded 2013; website aihubjo.com) appears to be a distinct initiative and must not be conflated with this 2024 AI HUB (aihub-talentpool).
+  Reviewed 2026-10-28. The AI HUB company LinkedIn page identifies an Amman headquarters (postal code 11925), 2024 founding, and 2-10 employees (self-reported, not audited). It now lists https://aihubjo.org/ as the company's website, but the domain could not be independently retrieved during this review; the URL is company-provided, not proof of an accessible website or careers portal. No street address, office pin, or reliable coordinates were established. Previous city-center coordinates were not office evidence and remain excluded.
+  AI HUB's company LinkedIn feed advertised a 12-hour Claude for Work training course beginning 2026-10-17 in collaboration with the Consultation and Training Center at Princess Sumaya University for Technology. Its team representative Tareq Masaeed reported AI HUB sponsorship of AI Expo 2026 at the University of Jordan and an AI in Business workshop in October. These are recent company-controlled signals of activity, not proof of direct recruitment or a deployed internal technology stack.
+  The company-authored 2025 AI/data fresh-graduate rotation announcement supplied jobs@aihub-talent.com for applications. This is a historical recruiting contact; current deliverability and an active HR mailbox were not independently confirmed. A 2026 internship program and robotics-trainer opportunity were reposted by AI HUB, but the original hiring organizations, current availability, and direct AI HUB employment relationships were not verified. The robotics post provided tareqmasaeed@aihubjo.org for that specific opportunity, not as a verified general HR address.
+  Python, n8n, APIs and Claude/Claude Code appear in training curricula only, so technologies remains empty rather than representing an internal production stack. No dedicated careers portal or currently open direct vacancy was confirmed. AI HUB (aihub-talentpool, founded 2024) must not be conflated with AI Hub jo (aihubjordan, founded 2013, aihubjo.com) or EY's separately named AI Hub. Verification remains partial because exact office location, current recruiting arrangements, and operational implementation details are unverified.
 evidence:
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/aihub-talentpool/"
@@ -40,3 +41,6 @@ evidence:
   - type: "company_listing"
     url: "https://www.signalhire.com/companies/aihub-24613513"
     label: "Independent listing corroborates founding year and Amman; employee estimate is not authoritative"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/tareq-masaeed-2956aa208"
+    label: "AI HUB team representative: October 2026 AI Expo sponsorship and PSUT-linked training activity"

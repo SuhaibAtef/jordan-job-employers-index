@@ -1,33 +1,94 @@
 name: "ShamiSoft Programming Solutions"
-industry: "Software / ERP & accounting"
-website: "https://shamisoft.com"
-careers_url: null
-linkedin: null
-hr_email: "info@ShamiSoft.com"
-size: null
+description: "Amman-based software company established in 1991, developing ERP and accounting systems for businesses, including specialized gold and jewelry management, inventory, payroll, CRM, electronic archiving and e-invoicing; also advertises mobile applications and business hardware integration."
+industry: "Software development / ERP, accounting and jewelry-sector business systems"
+website: "https://www.shamisoft.com/"
+careers_url: "https://www.shamisoft.com/Work_With_US"
+linkedin: "https://www.linkedin.com/company/shamisoft-english"
+hr_email: null
+size: "2-10 (LinkedIn company-wide self-reported band; JordanYP lists 6-10 and 2018 Jordan ICT directory listed 10; current exact headcount unverified)"
 location:
-  area: "Amman"
-  address: "(53) Abdallah Ghosheh St, Office (502), Amman"
-  status: "approximate"
-  latitude: 31.96774
-  longitude: 35.85519
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96774,35.85519"
+  area: "Amman, Jordan"
+  address: "Building 53, Abdallah Ghosheh Street, Office 502, Amman, Jordan (company-published; also shown on LinkedIn and JordanYP)"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=ShamiSoft+53+Abdallah+Ghosheh+Street+Amman"
 categories:
   - "erp"
   - "mobile"
+  - "web"
 technologies:
-  - "Android"
+  - "ERP, accounting, inventory, HR/payroll, CRM and e-invoicing systems (official product portfolio)"
+  - "Android and iOS mobile apps (official product catalogue and 2018 Jordan ICT company profile; framework unverified)"
+  - "C# / .NET 6+ Web API (2026 company recruitment requirement for modernization project; not confirmed deployed)"
+  - "MySQL (2026 planned replacement backend in C# vacancy; deployment unverified)"
+  - "Microsoft Access (legacy database referenced in 2026 company vacancy; existing system context only)"
+  - "Flutter and Dart (company referenced Flutter developer and earlier Flutter vacancy; not audited internal stack)"
+  - "REST APIs and JWT/OAuth2 authentication (2026 C# backend vacancy skills; implementation unverified)"
+  - "RFID, barcode readers/printers and time-attendance devices (official hardware/product offerings)"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Amman software house since 1991 developing ERP and accounting software; address and email per own site; pin is street-level fallback. | stack verified 2026-10-05: publishes own Android apps (Google Play dev account ShamiSoft Programming Solutions: Learn Arabic, Kinz Amman) + ERP/accounting/HR/CRM product suite on own site; no backend language evidenced"
+  signals:
+    - "2026 company-authored C# .NET Backend Developer vacancy in Amman required at least 2 years of experience, .NET Web API, MySQL and database migration; LinkedIn explicitly says applications are no longer accepted. The post linked to the official Work_With_US careers portal."
+    - "Earlier Flutter Developer vacancy in Amman required at least 2 years of experience and Flutter/web-service integration; LinkedIn explicitly marks applications closed. sales@shamisoft.com was a role-specific recipient, not a verified HR inbox."
+    - "Company LinkedIn advertised an accountant/software support and client training role in 2026, but current acceptance, experience threshold and application intake could not be independently confirmed."
+    - "No verified internship, fresh-graduate program or currently accepting role was established as of 2026-10-30."
+notes: "Reviewed 2026-10-30. The official website and active company LinkedIn profile corroborate Amman operations since 1991 and a broad ERP, accounting, jewelry, inventory, HR, CRM and mobile application portfolio. LinkedIn reports 2-10 employees; JordanYP lists 6-10 and the 2018 Jordan ICT directory recorded 10 staff, so no current independently audited count is available. The official contact page, LinkedIn and JordanYP corroborate Building 53, Abdallah Ghosheh Street, Office 502 and telephone +962 6 553 8099. Current office occupancy and entrance coordinates were not independently surveyed; previous 31.96774,35.85519 coordinates were a street-level fallback and have been removed. info@shamisoft.com is a general contact, not verified HR. Company job advertisements refer applicants to https://www.shamisoft.com/Work_With_US, but the portal could not be fetched during review, so submission availability is unconfirmed. The 2026 C#/.NET vacancy is closed on LinkedIn and describes a planned Web API/MySQL modernization of an Access-based legacy system, not proof of completed deployment. The older Flutter vacancy is also closed. No confirmed current internship or fresh-graduate opening. Product/hardware technologies and job-ad skills are qualified rather than represented as an audited production stack. A previous note attributed the Kinz Amman app to ShamiSoft, but the accessible Kinz listings identify other developers; that attribution was not retained."
 evidence:
-  - type: "official_website"
-    url: "https://shamisoft.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.jordanyp.com/category/Software_applications/city:Amman"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.96774,35.85519"
-    label: "Google Maps location"
+  -
+    type: "official_website"
+    url: "https://www.shamisoft.com/"
+    label: "Company website, software solutions and current contact details"
+
+  -
+    type: "official_website"
+    url: "https://www.shamisoft.com/Products"
+    label: "ERP, jewelry accounting, HR, CRM, e-invoicing, RFID, barcode and mobile products"
+
+  -
+    type: "official_website"
+    url: "https://www.shamisoft.com/Home/About"
+    label: "Company history since 1991, markets and services"
+
+  -
+    type: "official_website"
+    url: "https://www.shamisoft.com/Home/Contact"
+    label: "Building 53, Abdallah Ghosheh Street, Office 502, Amman; telephone and general mailbox"
+
+  -
+    type: "careers"
+    url: "https://www.shamisoft.com/Work_With_US"
+    label: "Official careers portal linked in company vacancy; inaccessible during 2026-10-30 review, intake unverified"
+
+  -
+    type: "linkedin_company"
+    url: "https://www.linkedin.com/company/shamisoft-english"
+    label: "Company headquarters, size 2-10, founding year, location and 2026 recruitment posts"
+
+  -
+    type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/backend-developer-c%23-net-at-shamisoft-programming-solutions-4376656193"
+    label: "Closed 2026 C#/.NET backend job; MySQL, Access migration, REST APIs and Flutter collaboration"
+
+  -
+    type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/flutter-developer-at-shamisoft-programming-solutions-4135104442"
+    label: "Closed earlier Flutter developer job; minimum two years experience"
+
+  -
+    type: "other"
+    url: "https://jordanict.com/2019/company-profile/shamisoft"
+    label: "2018 Jordan ICT directory: founding year, historical 10 staff, ERP and mobile services"
+
+  -
+    type: "other"
+    url: "https://www.jordanyp.com/company/355072/Shami_Soft_Programming_Solutions"
+    label: "Independent directory listing, same office address and phone, historical 6-10 staff"
+
+  -
+    type: "other"
+    url: "https://www.bizmideast.com/JO/%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%8A-%D9%84%D9%84%D8%AD%D9%84%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A9-shamisoft-06-553-8099"
+    label: "Geographic business directory corroborating building 53 and telephone"
+
+verification_status: "partial"
+last_verified: "2026-10-30"

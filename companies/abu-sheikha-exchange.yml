@@ -1,7 +1,7 @@
 name: "Abu Sheikha Exchange"
 description: "Abu Sheikha Exchange is a Jordanian foreign-exchange and remittance provider established in 1994. It operates branches across Jordan and offers currency exchange, domestic and international money transfers, eFawateercom bill payments, e-wallet cash services, and multicurrency prepaid cards. The official site also advertises a mobile application and an online currency converter."
 verification_status: "partial"
-last_verified: "2026-10-17"
+last_verified: "2026-10-28"
 industry: "Financial Services / Currency Exchange and Remittances"
 website: "https://abusheikhaex.com/"
 careers_url: "https://abusheikhaex.com/en/careers/"
@@ -19,18 +19,19 @@ categories:
   - "fintech"
 technologies: []
 job_seeker:
-  early_career_signal: false
+  early_career_signal: true
   signals:
-    - "Official careers portal accepts CVs for future openings; it displayed zero available vacancies on 2026-10-17."
+    - "Official careers portal accepts CVs for future openings; it again displayed zero available vacancies on 2026-10-28."
     - "A historical LinkedIn Branch Manager vacancy in Amman is closed and is not evidence of current hiring."
-notes: "Reviewed 2026-10-17. Official website and LinkedIn confirm an operating Jordanian exchange/remittance business; the company LinkedIn profile states founded 1994, 25 branches, and 201-500 employees, while its narrative mentions approximately 200 staff and 17 locations. Treat branch count and headcount as self-reported and potentially dated, not audited current figures. Official website footer lists Hesham Salameh Complex, Building 133, Wasfi Al Tal Street, Amman and general contact@abusheikha.com / +962-6-550-8081. LinkedIn lists primary Amman location at Building 133, and Waze independently identifies the main Gardens branch at Building 133; address is corroborated, but precise office coordinates were not established. Prior coordinates (31.99357, 35.86058) were not corroborated for this specific branch and were removed. Official careers page displayed 0 available vacancies and offers a general CV submission form, but no verified dedicated HR email or current open role. Previous info@abusheikha.com is not confirmed as a recruitment contact; contact@abusheikha.com is a general address only. An online currency converter is a product feature, not evidence of the company's internal programming stack. Company-level verification remains partial because direct recruitment contact, technology stack, and current employee counts are not independently established."
+    - "Historical entry-level Teller role in Aqaba accepted high-school qualifications or equivalent; LinkedIn now marks applications closed (checked 2026-10-28), so this is not a current vacancy."
+notes: "Reviewed 2026-10-28 (previous review 2026-10-17). Official website and LinkedIn confirm an operating Jordanian exchange/remittance business; the company LinkedIn profile states founded 1994, 25 branches, and 201-500 employees, while its narrative mentions approximately 200 staff and 17 locations. Treat branch count and headcount as self-reported and potentially dated, not audited current figures. Official website footer lists Hesham Salameh Complex, Building 133, Wasfi Al Tal Street, Amman and general contact@abusheikha.com / +962-6-550-8081. LinkedIn lists primary Amman location at Building 133, and Waze independently identifies the main Gardens branch at Building 133; address is corroborated, but precise office coordinates were not established. Prior coordinates (31.99357, 35.86058) were not corroborated for this specific branch and were removed. Official careers page displayed 0 available vacancies and offers a general CV submission form, but no verified dedicated HR email or current open role. Previous info@abusheikha.com is not confirmed as a recruitment contact; contact@abusheikha.com is a general address only. An online currency converter is a product feature, not evidence of the company's internal programming stack. Company-level verification remains partial because direct recruitment contact, technology stack, and current employee counts are not independently established. 2026-10-28 recheck: Official careers portal still lists zero available vacancies and accepts CVs for future openings. A historical entry-level Teller posting in Aqaba is now closed; this supports only historical early-career recruitment. Google Play lists the Abu Sheikha Exchange Android app with 10,000+ downloads and an update dated 2026-02-26; support@abusheikha.com is app support, not a recruitment mailbox. A separate Cashy app is published by uwallet, updated 2026-10-14, and described as backed by Abu Sheikha Exchange; its technology cannot be attributed to the exchange's internal engineering team. The official blog lists a 2026-03-26 article. The Android app description states founded 1995, while company LinkedIn states 1994; this historical discrepancy is unresolved. No verified current vacancy, HR email, production stack, or precise branch coordinates were established."
 evidence:
   - type: "official_website"
     url: "https://abusheikhaex.com/"
     label: "Official home page — financial services, mobile app, and footer contact/address (checked 2026-10-17)"
   - type: "careers_page"
     url: "https://abusheikhaex.com/en/careers/"
-    label: "Official careers page — 0 available vacancies; CV form for future openings (checked 2026-10-17)"
+    label: "Official careers page — 0 available vacancies; CV form for future openings (rechecked 2026-10-28)"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/abusheikha-exchange"
     label: "Company LinkedIn — founded 1994, self-reported 201-500 employees, branch network and Building 133 location"
@@ -52,3 +53,15 @@ evidence:
   - type: "company_listing"
     url: "https://jo.near-place.com/abu-sheikha-for-exchange-al-sabeel-complex-wasfi-al-tal-st-10"
     label: "Separate Wasfi Al Tal Street branch listing at Building 10, not the main Building 133 address"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/teller-at-abu-sheikha-exchange-4347391179"
+    label: "Historical entry-level Teller posting in Aqaba; LinkedIn says applications closed (checked 2026-10-28)"
+  - type: "company_listing"
+    url: "https://play.google.com/store/apps/details?id=com.wings.abuSheikhaExchange"
+    label: "Official Abu Sheikha Exchange Android app on Google Play, updated 2026-02-26; app support and Building 133 developer address"
+  - type: "company_listing"
+    url: "https://play.google.com/store/apps/details?id=abusheikha.uwallet.com"
+    label: "Cashy by uwallet, updated 2026-10-14; listing describes backing by Abu Sheikha Exchange, not its internal technology stack"
+  - type: "official_website"
+    url: "https://abusheikhaex.com/en/currency-exchange-and-money-transfer/"
+    label: "Official blog lists March 26, 2026 currency-exchange article (checked 2026-10-28)"

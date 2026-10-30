@@ -1,8 +1,8 @@
 name: "Altibbi"
 verification_status: "partial"
-last_verified: "2026-10-16"
+last_verified: "2026-10-28"
 industry: "Digital Health / Telehealth"
-description: "Altibbi is an Arabic-language digital-health and telemedicine platform providing remote consultations with licensed doctors, evidence-based medical content and AI-enabled health tools. The company lists its headquarters in Dubai and maintains an Amman office and technology teams."
+description: "Altibbi is an Arabic-language digital-health and telemedicine platform providing remote consultations with licensed doctors, evidence-based medical content and AI-enabled health tools, including its Sina AI health companion. The company lists its headquarters in Dubai and maintains an Amman office and technology teams."
 website: "https://www.altibbi.com"
 careers_url: "https://altibbi.zenats.com/en/careers_page"
 linkedin: "https://www.linkedin.com/company/altibbi/"
@@ -34,13 +34,14 @@ technologies:
   - "Python"
   - "RAG"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Reviewed 2026-10-16. Official contact page confirms the Jordan office at King Hussein Business Park, King Abdullah II Street, Building 15, 4th Floor, Amman; the company LinkedIn profile identifies Dubai as headquarters. Existing latitude/longitude are a business-park-area map point, not independently verified Building 15 entrance coordinates. LinkedIn explicitly reports the company-size band as 51-200, although approximately 252 profiles are associated with the company; profile association is not a payroll headcount and does not justify changing the band to 201-500. Official site links to an active careers portal at altibbi.zenats.com, which on this review displayed an AI Engineer role in Amman created 2026-09-16 plus other medical/marketing positions. A matching LinkedIn AI Engineer posting specifies 3-7 years, on-site Amman, Python, RAG, LangGraph/LangChain, AWS Bedrock, Azure OpenAI, Git and Docker familiarity; requirements do not prove all listed tools are deployed internally. Public Altibbi Flutter/Dart repository supports historical mobile SDK development. No dedicated HR email or entry-level engineering vacancy was confirmed. Removed unsupported ELK, TypeScript and Vue.js stack attributions pending stronger evidence. Company marked partial because precise coordinates, HR recruitment contact and production-wide stack remain unconfirmed."
+  early_career_signal: true
+  signals:
+    - "Paid Product Internship (Amman, posted 2026-06-10; closed as of 2026-10-28)"
+notes: "Reviewed 2026-10-16. Official contact page confirms the Jordan office at King Hussein Business Park, King Abdullah II Street, Building 15, 4th Floor, Amman; the company LinkedIn profile identifies Dubai as headquarters. Existing latitude/longitude are a business-park-area map point, not independently verified Building 15 entrance coordinates. LinkedIn explicitly reports the company-size band as 51-200, although approximately 252 profiles are associated with the company; profile association is not a payroll headcount and does not justify changing the band to 201-500. Official site links to an active careers portal at altibbi.zenats.com, which on this review displayed an AI Engineer role in Amman created 2026-09-16 plus other medical/marketing positions. A matching LinkedIn AI Engineer posting specifies 3-7 years, on-site Amman, Python, RAG, LangGraph/LangChain, AWS Bedrock, Azure OpenAI, Git and Docker familiarity; requirements do not prove all listed tools are deployed internally. Public Altibbi Flutter/Dart repository supports historical mobile SDK development. No dedicated HR email or entry-level engineering vacancy was confirmed. Removed unsupported ELK, TypeScript and Vue.js stack attributions pending stronger evidence. Company marked partial because precise coordinates, HR recruitment contact and production-wide stack remain unconfirmed. Rechecked 2026-10-28: Official careers portal lists a Senior Growth Marketing Manager in Amman created 2026-10-22, AI Engineer in Amman created 2026-09-16, and Clinical Quality & Patient Safety Officer in Amman created 2026-07-13; listings do not guarantee applications remain open. The direct Zenats Product Internship posting from 2026-06-10 was paid for 6-9 months and open to students or recent graduates, but explicitly says no longer accepting applications as of this check. This establishes historical early-career recruitment, not a current internship. The official Sina page confirms an Arabic AI health assistant but not a specific deployed model or vendor stack. Office address remains supported, map coordinates are only approximate, LinkedIn reports 51-200 employees, and no dedicated HR email was found."
 evidence:
   - type: "careers_page"
     url: "https://altibbi.zenats.com/en/careers_page"
-    label: "Official linked careers portal, AI Engineer Amman dated 2026-09-16 and other listings, reviewed 2026-10-16"
+    label: "Official linked careers portal: Senior Growth Marketing Manager Amman created 2026-10-22, AI Engineer 2026-09-16, other roles; checked 2026-10-28"
   - type: "official_website"
     url: "https://www.altibbi.com"
     label: "Official Altibbi website"
@@ -65,3 +66,12 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=Altibbi%2C+King+Hussein+Business+Park%2C+Building+15%2C+Amman%2C+Jordan"
     label: "Google Maps search for Altibbi at King Hussein Business Park; map point is approximate, not verified building entrance"
+  - type: "official_website"
+    url: "https://altibbi.com/sina"
+    label: "Official Sina Arabic AI health companion product page, checked 2026-10-28; not evidence of a specific production model"
+  - type: "job_post"
+    url: "https://app.zenats.com/en/public_job/pNWmNv5WVN4Sr0ulnFWinQ"
+    label: "Altibbi paid Product Internship in Amman, posted 2026-06-10, 6-9 months, students/recent graduates; closed on 2026-10-28 review"
+  - type: "job_post"
+    url: "https://jobs.global.vc/companies/altibbi-2/jobs/97833422-senior-growth-marketing-manager"
+    label: "Third-party mirror of Altibbi Senior Growth Marketing Manager Amman posting dated 2026-10-22, corroborating official careers listing"

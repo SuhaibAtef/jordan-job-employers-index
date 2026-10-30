@@ -1,7 +1,7 @@
 name: "AHLI FINTECH"
-description: "AHLI FINTECH is a wholly owned subsidiary of Jordan Ahli Bank that invests in and supports early-stage fintech startups through incubation, acceleration, mentoring, ecosystem partnerships and access to banking APIs and infrastructure. Its July 2026 partnership with portfolio company InvoiceQ provided e-invoicing services to participating startups."
+description: "AHLI FINTECH is a wholly owned subsidiary of Jordan Ahli Bank that invests in and supports early-stage fintech startups through incubation, acceleration, mentoring, ecosystem partnerships and access to banking APIs and infrastructure. Its July 2026 InvoiceQ partnership supported e-invoicing for portfolio startups; its CEO was listed as a speaker at Jordan Fintech Festival 2026."
 verification_status: "partial"
-last_verified: "2026-10-16"
+last_verified: "2026-10-28"
 industry: "Fintech / Venture Capital, Incubation & Acceleration"
 website: "https://ahlifintech.com"
 careers_url: null
@@ -38,6 +38,13 @@ notes: >-
   AHLI FINTECH hiring. A historical third-party profile mentioned a Python
   backend internship in 2022, but no reliable evidence confirms Python as the
   current internal technology stack, so it is not listed as verified technology.
+  The official Jordan Fintech Festival 2026 program lists AHLI FINTECH CEO
+  Ghassan Muasher as a speaker for the September 23-24 event, supporting
+  current ecosystem participation but not direct company hiring. Jordan Ahli
+  Bank maintains its own careers portal; those bank vacancies are not evidence
+  of AHLI FINTECH-specific openings. Rechecked 2026-10-28: no dedicated
+  AHLI FINTECH recruiting email, direct vacancy, precise office pin, or
+  internally used technology stack could be independently confirmed.
   Company verification remains partial notwithstanding the official office address.
 evidence:
   - type: "official_website"
@@ -76,3 +83,9 @@ evidence:
   - type: "official_website"
     url: "https://ahlifintech.com/2025/05/04/third-edition-of-ahli-fintech-hackathon-concludes-top-10-fintech-solutions-selected-for-incubation/"
     label: "May 2025 hackathon and incubator evidence"
+  - type: "other"
+    url: "https://jofintechfestival.com/landing-page"
+    label: "Official Jordan Fintech Festival 2026 program names AHLI FINTECH CEO Ghassan Muasher as a speaker for September 23-24"
+  - type: "other"
+    url: "https://ahli.com/ahli-careers/"
+    label: "Jordan Ahli Bank official careers portal; bank vacancies are not attributed to subsidiary AHLI FINTECH"

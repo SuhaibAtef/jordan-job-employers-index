@@ -1,17 +1,18 @@
 name: "Qawn"
-industry: "Fintech / Social Payments"
-website: "https://qawn.com"
-careers_url: null
-linkedin: null
+description: "Jordan Ahli Bank's Jordan-based digital banking and social-payments product, combining chat-based transfers, CliQ payments, remote account opening, debit cards and merchant payment features. Qawn's own site describes a cloud-native platform originating in the bank's innovation lab; Thought Machine independently confirms its Vault Core integration."
+industry: "Banking / Fintech / Digital Payments"
+website: "https://qawn.com/"
+careers_url: "https://careers.ahli.com/en/"
+linkedin: "https://www.linkedin.com/company/qawnapp/"
 hr_email: null
-size: null
+size: "11-50 employees (Qawn LinkedIn self-reported company-size band; not independently audited or Jordan-specific)"
 location:
-  area: "Amman"
-  address: null
+  area: "Al Shmeisani, Amman, Jordan"
+  address: "Qawn Bank, Al Shmeisani, Amman, Jordan (official contact-page wording; no street or building number)"
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "devops"
   - "fintech"
@@ -19,16 +20,23 @@ categories:
   - "security"
   - "web"
 technologies:
-  - "AWS"
-  - "Flutter"
-  - "Git"
-  - "Java"
-  - "Kotlin"
-  - "Swift"
+  - "Thought Machine Vault Core (Qawn core-banking platform; confirmed by vendor in 2023)"
+  - "AWS (March 2026 Qawn-support DevOps role requirement; deployed services not independently audited)"
+  - "Terraform (March 2026 Qawn-support DevOps role requirement)"
+  - "Docker / Kubernetes (March 2026 Qawn-support DevOps role requirements)"
+  - "Flutter (historical mobile engineer profile; Qawn production usage unconfirmed)"
+  - "Git (historical Jordan Ahli Bank software-role requirement; Qawn usage unconfirmed)"
+  - "Java (historical Jordan Ahli Bank software-role requirement; Qawn usage unconfirmed)"
+  - "Kotlin (historical mobile engineer skill; Qawn production usage unconfirmed)"
+  - "Swift (historical mobile engineer skill; Qawn production usage unconfirmed)"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Jordan Ahli Bank's social payments app (chat-based transfers, CliQ-integrated, 5-minute remote onboarding) built on Thought Machine's Vault Core; first Jordanian company in Mastercard Start Path.; stack verified 2026-10-06: Qawn mobile lead (getprog.ai, Principal Mobile Consultant @ Jordan Ahli Bank) specializes Flutter + native iOS/Android, GitHub skills Swift/Kotlin/Java; Jordan Ahli careers 'Java Software Engineer' posting (Amman IT) lists Git, AWS."
+  signals:
+    - "Jordan Ahli Bank posted a QAWN-app-support DevOps Engineer role in Amman on 2026-03-17 (JB5444294), seeking 3-5 years of experience; the official listing is closed/expired as of 2026-10-28."
+    - "Qawn's own LinkedIn IT Manager - Corporate Infrastructure vacancy in Amman, advertised approximately late 2025, is closed to applications; it requested 5-7 years of experience."
+    - "Jordan Ahli Bank offers internships, fresh-graduate and Ahli 777 programs through its parent-bank careers portal; participation or Qawn-specific openings were not established."
+    - "No dedicated Qawn careers portal, currently accepting Qawn-specific vacancy, or verified recruitment email established on 2026-10-28."
+notes: "Reviewed 2026-10-28. Qawn is a digital-banking product/venture of Jordan Ahli Bank, not an independently verified separate licensed employer. Its official website and LinkedIn confirm chat payments, transfers, CliQ and Qawn AI; Jordan Ahli Bank's 2023 launch announcement confirms remote onboarding and CliQ. Thought Machine's 2023 vendor announcement confirms Vault Core, while Mastercard's 2025-09-22 Start Path announcement independently names Qawn among the cohort. The official Qawn contact page lists Qawn Bank, Al Shmeisani, Amman, and customer support +96262222462; it does not supply a street/building number, dedicated HR email or precise coordinates. Earlier 31.9539,35.9106 was an Amman-area placeholder, not evidence of Qawn's office, so coordinates and map link were cleared. LinkedIn reports 11-50 employees, which is self-reported and may include roles outside Jordan. The parent bank's careers site is provided only as an associated recruitment route, not a dedicated Qawn jobs portal. The March 2026 parent-bank DevOps advertisement explicitly mentions supporting QAWN and lists AWS, Terraform, Docker and Kubernetes as requirements, not a deployment audit. Existing Flutter, Git, Java, Kotlin and Swift claims came from a historical mobile engineer profile or general Jordan Ahli Bank vacancy, not direct Qawn production-stack evidence, and are retained only with qualifications. Both identified Qawn-related vacancies are closed. Parent-bank student programs do not establish a Qawn-specific internship. Partial status reflects unconfirmed distinct legal employer identity, precise office location, independent staffing, HR contact, active recruitment and complete technology stack."
 evidence:
   - type: "official_website"
     url: "https://qawn.com"
@@ -45,6 +53,29 @@ evidence:
   - type: "other"
     url: "https://www.crowdfundinsider.com/?p=208952"
     label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+  - type: "official_website"
+    url: "https://qawn.com/about-us/"
+    label: "Qawn company history: origin within Jordan Ahli Bank innovation lab and cloud-native banking platform"
+  - type: "official_website"
+    url: "https://qawn.com/contact-us/"
+    label: "Official contact: Qawn Bank, Al Shmeisani, Amman; customer support telephone, no precise office or HR email"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/qawnapp/"
+    label: "Qawn profile: Jordan Ahli Bank affiliation, 11-50 self-reported employees, Qawn AI"
+  - type: "other"
+    url: "https://www.thoughtmachine.net/press-releases/jab"
+    label: "Thought Machine vendor announcement dated 2023-06-19 confirming Qawn runs on Vault Core"
+  - type: "other"
+    url: "https://www.mastercard.com/mea/ar/news-and-trends/press/2025/september/mastercard-welcomes-11-startups-to-start-path%E2%80%99s-emerging-fintech-program.html"
+    label: "Mastercard September 2025 announcement independently lists Qawn in Start Path Emerging Fintech"
+  - type: "careers_page"
+    url: "https://careers.ahli.com/en/"
+    label: "Jordan Ahli Bank parent-company careers portal; not Qawn-specific"
+  - type: "job_post"
+    url: "https://careers.ahli.com/en/jordan/jobs/devops-engineer-5444294/"
+    label: "Jordan Ahli Bank 2026-03-17 DevOps role explicitly supporting QAWN; closed/expired on review"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/it-manager-corporate-infrastructure-qawn-at-qawn-4304125911"
+    label: "Qawn-attributed Amman IT Manager role, approximately late 2025; no longer accepting applications"
+verification_status: "partial"
+last_verified: "2026-10-28"
