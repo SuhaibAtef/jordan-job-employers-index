@@ -1,43 +1,104 @@
-name: "Seniors IT"
-industry: "Computer and Network Security"
-website: "https://seniorsit.co"
-careers_url: null
-linkedin: "https://jo.linkedin.com/company/seniors-it-co"
-hr_email: "careers@seniorsit.me"
-size: "51-200"
+name: Seniors IT
+description: Amman-headquartered regional cybersecurity and enterprise IT infrastructure integrator founded in 2008.
+  Designs and implements network, endpoint, application, data and cloud security, identity/access controls, penetration
+  testing, compliance consulting, backup/disaster recovery and enterprise infrastructure for organizations in Jordan,
+  Qatar and Saudi Arabia.
+industry: Cybersecurity / Network security / Enterprise IT infrastructure and systems integration
+website: https://seniorsit.me/
+careers_url: https://seniorsit.net/join-us/
+linkedin: https://www.linkedin.com/company/seniors-it
+hr_email: careers@seniorsit.me
+size: 51-200 (company-wide LinkedIn range; Jordan-specific headcount unverified)
 location:
-  area: "Amman"
-  address: "Al Madina Al Monawarah St., Building 273, 1st Floor, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.9986
-  longitude: 35.8785
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9986,35.8785"
+  area: Amman, Jordan
+  address: Al Madina Al Monawarah Street, Building 273, 1st Floor, Amman, Jordan (company-published; current office
+    entrance not independently checked)
+  status: provided_unverified
+  latitude: null
+  longitude: null
+  maps_url: https://www.google.com/maps/search/?api=1&query=Al+Madina+Al+Monawarah+Street+Building+273+Amman+Jordan
 categories:
-  - "security"
+- security
+- cloud
+- telecom
 technologies:
-  - "DLP"
-  - "EDR/XDR"
-  - "Firewalls"
-  - "IAM"
-  - "SIEM"
-  - "SOC"
+- SIEM and security orchestration/response (SOAR; advertised security solution capabilities)
+- Endpoint detection and response (EDR/XDR; company services and vendor partnerships, not an audited internal stack)
+- Next-generation firewalls and IDS/IPS (official solutions and historical pre-sales vacancy)
+- Data loss prevention (DLP), encryption and data classification (official solutions)
+- Identity and privileged access management (IAM/PAM; official solutions)
+- Web application firewalls (WAF), application security and penetration testing (official services)
+- Network access control (NAC), VPN and network security (official solutions and recruitment requirements)
+- Microsoft Azure and Microsoft 365 cloud protection (company service offerings; deployments unverified)
+- Backup, recovery and disaster recovery (company service offerings)
+- Palo Alto Networks, Kaspersky, Tenable and other security vendors (advertised partnerships; not proof of deployed
+  tools)
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Regional security integrator (est. 2008, HQ Amman) doing penetration testing, SOC architecture, GRC (ISO 27001, PCI DSS, NIST) and managed services across Jordan, Qatar and KSA; actively hiring via careers@seniorsit.me."
+  early_career_signal: true
+  signals:
+  - 2026 company LinkedIn post recruited a Cybersecurity Team Lead in Jordan via careers@seniorsit.me; post has
+    no confirmed open application window as of 2026-10-30.
+  - 2026 Senior Cybersecurity Pre-Sales Engineer vacancy in Amman specified SIEM, firewalls, IDS/IPS, endpoint protection,
+    routing/VPN and security certifications; LinkedIn explicitly says applications closed.
+  - Historical company recruiting for a Senior Cybersecurity Engineer in Jordan via careers@seniorsit.me, reposted
+    by an employee; current acceptance unconfirmed.
+  - Former trainee self-reports a Cyber Security Engineer Trainee placement in Amman, March-July 2023; historical
+    individual evidence only, not an active internship program.
+  - Legacy company Join Us page includes a CV submission form and invites applications; current intake and successful
+    form submission not independently confirmed.
+notes: Reviewed 2026-10-30. The current LinkedIn company page points to seniorsit.me; seniorsit.co and seniorsit.net
+  are older company-branded sites that continue to publish the same Amman contact address. The official site and
+  LinkedIn corroborate Building 273 on Al Madina Al Monawarah Street; SignalHire repeats the address, but an independent
+  BizMidEast listing reports an alternate Tala Al Ali/Al Andalos complex address. Precise entrance coordinates and
+  current occupancy were not independently confirmed, so prior 31.9986,35.8785 map coordinates were removed and
+  an address-search link retained. Company-wide 51-200 LinkedIn employee band is not a Jordan headcount. The recruitment
+  mailbox is supported by a company-authored 2026 hiring post; no currently accepting role or current graduate internship
+  was verified. The newer seniorsit.me/join-our-team/ link was visible in official site navigation but returned
+  an access error during review; careers_url points to an accessible legacy company CV form, not a verified open
+  vacancy. A 2023 trainee experience is self-reported, not proof of a standing internship. Listed technologies describe
+  marketed client solutions, vendor partnerships or historical job requirements, not an audited production stack.
 evidence:
-  - type: "official_website"
-    url: "https://seniorsit.co"
-    label: "Official website"
-  - type: "linkedin_company"
-    url: "https://jo.linkedin.com/company/seniors-it-co"
-    label: "LinkedIn company page"
-  - type: "other"
-    url: "https://seniorsit.co/home/services/"
-    label: "Research source"
-  - type: "other"
-    url: "https://seniorsit.me/contact/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9986,35.8785"
-    label: "Google Maps location"
+- type: official_website
+  url: https://seniorsit.me/
+  label: 'Current company site: regional cybersecurity, network, cloud and infrastructure offerings (reviewed 2026-10-30)'
+- type: official_website
+  url: https://seniorsit.me/solutions/
+  label: 'Company solutions catalog: SIEM, SOAR, DLP, EDR, NAC, PAM, WAF and Azure protection'
+- type: official_website
+  url: https://seniorsit.co/home/about-us/
+  label: 'Company history: founded 2008, offices in Jordan, Qatar and Saudi Arabia; Building 273 address'
+- type: official_website
+  url: https://seniorsit.co/
+  label: 'Company website: Amman Building 273, first floor and telephone +962 6 568 7788'
+- type: careers_page
+  url: https://seniorsit.net/join-us/
+  label: Legacy company Join Us CV form; current intake and submission not confirmed
+- type: linkedin_company
+  url: https://www.linkedin.com/company/seniors-it
+  label: 'Company LinkedIn: 51-200 employees, 2008 founding, Amman HQ and Building 273'
+- type: job_post
+  url: https://www.linkedin.com/posts/seniors-it-co_hiring-jordanjobs-cybersecurityteamlead-activity-7467493514541502464--t2j
+  label: '2026 company post: Jordan Cybersecurity Team Lead, careers@seniorsit.me; open status unconfirmed'
+- type: job_post
+  url: https://jo.linkedin.com/jobs/view/senior-cybersecurity-pre-sales-engineer-at-seniors-it-4398283467
+  label: 'Closed 2026 Amman pre-sales role: SIEM, firewall, IDS/IPS, endpoint and networking skills'
+- type: linkedin_employee
+  url: https://jo.linkedin.com/in/abdullah-aldehne-5a5321182
+  label: Employee repost of historical Senior Cybersecurity Engineer recruitment in Jordan
+- type: other
+  url: https://sa.bold.pro/my/ahmad-aljaafreh
+  label: Individual self-report of March-July 2023 Cyber Security Engineer Trainee placement; unverified as program
+- type: other
+  url: https://www.signalhire.com/companies/seniors-it
+  label: 'Secondary company listing: Building 273 and phone corroboration; size estimate differs'
+- type: other
+  url: https://www.bizmideast.com/JO/seniors-it_2A-06-568-7788
+  label: Secondary listing with conflicting Tala Al Ali/Al Andalos complex address
+- type: other
+  url: https://jordanict.com/company-listings/seniorsit
+  label: Jordan ICT company listing corroborating Amman and company telephone
+- type: google_maps
+  url: https://www.google.com/maps/search/?api=1&query=Al+Madina+Al+Monawarah+Street+Building+273+Amman+Jordan
+  label: Address-search geographic reference only; not a surveyed office entrance
+verification_status: partial
+last_verified: '2026-10-30'
