@@ -1,43 +1,103 @@
-name: "Sky Software"
-industry: "Hospitality Software (SaaS)"
-website: "https://www.skyits.com/"
-careers_url: null
-linkedin: null
-hr_email: "info@skyits.com"
-size: null
+name: Sky Software
+description: >-
+  Amman-headquartered software company founded in 1997, developing and supporting
+  hospitality and business-management applications. Its products include Bayan
+  HRMS (enterprise and SME editions), Jana procurement and materials management,
+  Horizon guest-services/quality management, hotel property management, Spark
+  membership management and Osoul fixed-asset management. The company also
+  provides customization, integration, implementation, training and support.
+industry: Hospitality technology / enterprise software / HR and property-management SaaS
+website: https://skyits.com/
+careers_url: https://skyits.com/job-openings/
+linkedin: https://www.linkedin.com/company/skysoftware/
+hr_email: null
+size: 51-200 employees company-wide (LinkedIn; Jordan-specific headcount not independently verified)
 location:
-  area: "Amman"
-  address: "Ahmad Al-Tarawneh Street, Jbaiha, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 32.020692
-  longitude: 35.869768
-  maps_url: "https://www.google.com/maps/search/?api=1&query=32.020692,35.869768"
+  area: Jubeiha, Amman, Jordan
+  address: Ahmad Al-Tarawneh Street, Jubeiha, Amman, Jordan (business-directory and map listings; current building occupancy not independently confirmed)
+  status: provided_unverified
+  latitude: null
+  longitude: null
+  maps_url: https://www.google.com/maps/search/?api=1&query=Sky+Software+Ahmad+Al+Tarawneh+Jubeiha+Amman+Jordan
 categories:
-  - "web"
-technologies: []
+- web
+- erp
+- mobile
+technologies:
+- HTML5 (official Jordan software engineer vacancy requirement; deployed stack not audited)
+- CSS3 (official Jordan software engineer vacancy requirement; deployed stack not audited)
+- Bootstrap (official Jordan software engineer vacancy requirement; deployed stack not audited)
+- JavaScript (official Jordan software engineer vacancy requirement; deployed stack not audited)
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Founded 1997 in Amman; hospitality software products (Cloud SaaS + desktop: PMS, restaurant management, Bayan HRMS, materials/quality management); preferred vendor for IHG, Rotana, Four Seasons MEA, Kempinski. stack research 2026-10-05: 5 searches + 1 Wuzzuf employee profile (Full Stack Developer, mentions microservices/APIs but no named languages); no job postings naming tech; no tech evidence found."
+  early_career_signal: true
+  signals:
+  - Official Jordan Software Engineer vacancy lists a degree or equivalent and HTML5, CSS3, Bootstrap, JavaScript and object-oriented/web fundamentals; no minimum experience is stated. An application form is displayed, but its current acceptance is not independently confirmed.
+  - Official Jordan Quality Engineer vacancy asks for a computer-related university degree and understanding of software development lifecycle and business rules; no experience minimum is stated. Application form visible, current intake unconfirmed.
+  - Official Jordan Customer Success Engineer vacancy asks for an IT/computer-science degree, basic troubleshooting and preferred ticketing-system familiarity; no experience minimum is stated. Application form visible, current intake unconfirmed.
+  - Company LinkedIn updates describe a former intern joining as a full-time employee; evidence of a past internship pathway, not an advertised open internship.
+notes: >-
+  Reviewed 2026-10-30. Sky Software Co. LLC operates its official skyits.com
+  website and lists Jordan, Saudi Arabia and UAE contact numbers. Official
+  contact page confirms the Jordan number +962 6 533 9616 and separate product
+  support mailboxes; info@skyits.com is used for general business inquiries
+  and is NOT a verified recruitment address, so hr_email is null. The official
+  careers page currently displays three Jordan roles with on-page CV forms,
+  but no reliable posting/closing dates or successful application submission
+  were established. They are listed as hiring signals, not guaranteed live
+  openings. The software engineer requirements specifically name HTML5,
+  CSS3, Bootstrap and JavaScript; these are job requirements, not an audited
+  production technology stack. The official product site markets cloud-based
+  and mobile-friendly solutions without disclosing hosting provider, database,
+  backend language or mobile framework. LinkedIn reports 51-200 employees
+  worldwide/company-wide and Amman headquarters, founded 1997; the count is
+  not a Jordan-only headcount. JordanYP's Ahmad Al-Tarawneh Street address
+  was last updated 2021-04-28; Waze and local map listings also identify
+  Sky Software on that street, while LinkedIn gives only PO Box 2164,
+  Amman 11941. A map listing mentions Al Khadra Commercial Complex, but
+  the current building entrance and occupancy were not independently
+  verified. Previously stored coordinates (32.020692, 35.869768) were
+  removed because they are an approximate map point rather than a confirmed
+  current office entrance. Location verification remains separate from
+  company-level verification. A LinkedIn company update recounts a former
+  intern joining the team, but no currently accepting internship was found.
+  Company status is partial pending independently confirmed office occupancy,
+  current job application acceptance, direct HR contact and engineering stack.
 evidence:
-  - type: "official_website"
-    url: "https://www.skyits.com/"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/347040/Sky_Software_Co"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/366296/Sky_Software"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.hoteliermiddleeast.com/suppliers/supplier-profile/35100-supplier-profile-sky-software"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanict.com/2016/company-profile/sky-software"
-    label: "Research source"
-  - type: "other"
-    url: "https://skyits.com/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=32.020692,35.869768"
-    label: "Google Maps location"
+- type: official_website
+  url: https://skyits.com/
+  label: Official product portfolio and company website (reviewed 2026-10-30)
+- type: careers
+  url: https://skyits.com/job-openings/
+  label: Official careers page listing three Jordan roles; no dated application deadlines
+- type: other
+  url: https://skyits.com/blog/jobs/software-engineer/
+  label: Official Jordan software engineer vacancy with web technology requirements and application form
+- type: other
+  url: https://skyits.com/blog/jobs/quality-engineer-2/
+  label: Official Jordan quality engineer vacancy and application form
+- type: other
+  url: https://skyits.com/blog/jobs/support-engineer/
+  label: Official Jordan customer success engineer vacancy and application form
+- type: official_website
+  url: https://skyits.com/contact/
+  label: Official Jordan telephone and technical-support mailboxes (not HR addresses)
+- type: linkedin_company
+  url: https://www.linkedin.com/company/skysoftware/
+  label: Amman headquarters, 1997 founding, 51-200 employees and former-intern employee story
+- type: other
+  url: https://www.jordanyp.com/company/347040/Sky_Software_Co
+  label: Ahmad Al-Tarawneh Street address and matching telephone; directory last updated 2021-04-28
+- type: other
+  url: https://www.waze.com/ar/live-map/directions/jo/mhafzh-alaasmh/am%D9%91an/shrkh-mhmd-jhad-jmal-wamar-ata-allh-sky-software-co.-llc?to=place.ChIJp7LHFXWfHBUREDdFMibWaVc
+  label: Independent map listing of Sky Software Co. LLC on Ahmad Al Tarawina Street
+- type: other
+  url: https://jo.near-place.com/sky-software-al-khadra-commercial-complex-ahmad-al-tarawneh-st-31-amman
+  label: Independent building-level map listing; current entrance not independently verified
+- type: other
+  url: https://jordanict.com/2023/company-listings/sky-software
+  label: Jordan ICT directory corroborates PO Box 2164 and Jordan telephone
+- type: google_maps
+  url: https://www.google.com/maps/search/?api=1&query=Sky+Software+Ahmad+Al+Tarawneh+Jubeiha+Amman+Jordan
+  label: Address-level search only; not a verified precise entrance coordinate
+verification_status: partial
+last_verified: '2026-10-30'
