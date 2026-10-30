@@ -1,13 +1,14 @@
 name: "Shanab for Digital Games"
-industry: "Video Games"
+description: "Shanab Games is a privately held Amman-based mobile-game studio founded in 2016. It develops and publishes Arabic-market driving, drifting and open-world games, including Grand, Desert King and Drift Online for Android and iOS."
+industry: "Mobile game development / Video games"
 website: "https://shanabgames.com"
-careers_url: null
-linkedin: null
-hr_email: "support@shanabgames.com"
+careers_url: "https://shanabgames.com/front-page/"
+linkedin: "https://www.linkedin.com/company/shanab-games"
+hr_email: "jobs@shanabgames.com"
 size: "11-50"
 location:
   area: "Amman"
-  address: "Wasfi Al Tal street, Khalda, Amman"
+  address: "Wasfi Al Tal Street, 3rd Floor, Amman 11953, Jordan"
   status: "verified"
   latitude: 31.9935596
   longitude: 35.859851
@@ -18,11 +19,30 @@ categories:
 technologies:
   - "Android"
   - "iOS"
+  - "Unity3D"
+  - "C#"
+  - "Blender"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-notes: "Amman mobile studio with 8 localized games and 12M+ installs (Grand, Desert King); no public internship program found. | GPS verified 2026-10-06: company's own website footer (shanabgames.com) lists 'Wasfi Al Tal, St., Amman, Jordan'; LinkedIn company Locations shows 'Wasfi Al Tal, 3rd Floor, Amman 11953'; Google Maps listing 'Wasfi At-Tall St.' pins 31.9935596,35.859851 (listing phone matches company site); ZoomInfo lists 'Khalda Wasfi Altal St'. No conflicting address found anywhere."
+    - "Historical unpaid internship: University of Petra announcement dated 2022-05-19, 3 months / 240 hours for IT, animation/multimedia and marketing students or graduates; not confirmed open in 2026."
+    - "Unity Developer in Amman: Unity3D, C#, mobile optimization; 2+ years required; LinkedIn listing closed when checked 2026-10-30."
+    - "3D Artist in Amman: Blender, modeling/texturing/rigging, familiarity with Unity3D; LinkedIn listing closed when checked 2026-10-30."
+    - "Official site invites CVs at jobs@shanabgames.com; this is a general application invitation, not confirmation of a currently open vacancy."
+notes: >-
+  Reviewed 2026-10-30. Official site lists Grand, Desert King and Drift Online for
+  Android/iOS, contact@shanabgames.com and +962 6 552 7261. Its recruitment call
+  names jobs@shanabgames.com; support@shanabgames.com is for game support/privacy,
+  not HR. LinkedIn self-reports founding in 2016 and 11-50 employees (not an audited
+  Jordan headcount). Unity3D, C# and Blender are evidenced by job requirements and
+  LinkedIn specialties, not an independently audited deployed stack. A University
+  of Petra announcement dated 2022-05-19 supports a historical unpaid internship,
+  but no active internship is verified. Both discovered LinkedIn jobs are closed;
+  the standing CV invitation does not prove active hiring. Official website and
+  LinkedIn corroborate Wasfi Al Tal Street, with LinkedIn specifying the third floor;
+  an independent business listing matches the street and published phone. The
+  previously researched Google Maps business pin was retained, but exact entrance
+  and current occupancy were not independently surveyed during this review.
 evidence:
   - type: "official_website"
     url: "https://shanabgames.com"
@@ -30,9 +50,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/place/Shanab+Games/@31.9935596,35.859851,17z/"
     label: "Location evidence"
-  - type: "other"
+  - type: "linkedin_company"
     url: "https://www.linkedin.com/company/shanab-games"
-    label: "Location evidence"
+    label: "Company profile, 11-50 staff, founding year, specialties and Amman office"
   - type: "other"
     url: "https://www.zoominfo.com/c/shanab-games/"
     label: "Location evidence"
@@ -54,3 +74,21 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9935596,35.859851"
     label: "Google Maps location"
+
+  - type: "careers"
+    url: "https://shanabgames.com/front-page/"
+    label: "Official Work With Us invitation and jobs mailbox; checked 2026-10-30"
+  - type: "jobs"
+    url: "https://jo.linkedin.com/jobs/view/unity-developer-at-shanab-games-4350599738"
+    label: "Unity Developer requirements; closed when checked 2026-10-30"
+  - type: "jobs"
+    url: "https://jo.linkedin.com/jobs/view/3d-artist-at-shanab-games-4351101911"
+    label: "3D Artist requirements; closed when checked 2026-10-30"
+  - type: "other"
+    url: "https://www.uop.edu.jo/En/Announcements/pages/%D9%81%D8%B1%D8%B5-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D8%AE%D8%B1%D9%8A%D8%AC%D9%8A-%D9%88%D8%B7%D9%84%D8%A8%D8%A9-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%A8%D8%AA%D8%B1%D8%A7-%D8%B4%D8%B1%D9%83%D8%A9-%D8%B4%D9%86%D8%A8-2022.aspx"
+    label: "University of Petra historical unpaid internship announcement, 2022-05-19"
+  - type: "other"
+    url: "https://www.bizmideast.com/JO/shanab-games-06-552-7261"
+    label: "Independent street and phone corroboration"
+verification_status: "partial"
+last_verified: "2026-10-30"
