@@ -49,27 +49,28 @@ job_seeker:
   - Credit Fulfillment Operations Officer (Amman, August 2026 posting)
   - Third Party Sr. Monitoring & Reporting Officer (Jordan, official Taleo posting October 18, 2026)
   - HR Assurance & Governance Manager (Amman, employer-attributed LinkedIn posting, October 2026)
-notes: Reviewed 2026-10-16. Arab Bank PLC is an operating Amman-headquartered banking group, supported by its
-  official site and LinkedIn. The official privacy notice identifies Shmeisani, Shaker Bin Zaid Street, and
-  the branch directory lists the Head Office ATM at Building 8; location.status refers to the supported street
-  address, while stored coordinates have not been independently precision-validated. LinkedIn reports 5,001-10,000
-  employees (a platform size band, not audited headcount). The official Taleo careers portal checked 2026-10-16
-  lists Jordan/Amman Credit Fulfillment Operations Team Leader and Officer roles posted 2026-08-24, Credit
-  ECL Analyst posted 2026-08-24, and Arab Bank Ambassadors Program posted 2026-07-06; listings may change.
-  A 2026 university internship and historical fresh-graduate/Digital Academy roles provide additional early-career
-  evidence. Java/JEE/Spring/JPA/Hibernate/REST/Maven/HTML/CSS/JavaScript are documented in historical job ads,
-  not independently verified as a current production stack; other listed technologies also require current
-  role-specific confirmation. No dedicated HR email was confirmed. Company-level verification remains partial
-  because precise coordinates, current full stack and direct recruiting contact remain unconfirmed.
-  Rechecked 2026-10-28: an official Taleo Jordan search surfaced Third Party Sr. Monitoring & Reporting
-  Officer (requisition 2600006B, posted October 18, 2026), Arab Bank Ambassadors Program (posted July 6),
-  and SME RM (CB) (posted June 29); search results are dynamic and not a guarantee of application availability.
-  Employer-attributed LinkedIn listings also displayed an Amman HR Assurance & Governance Manager role
-  (approximately October 26, requiring nine years of related experience) and the same third-party risk role.
-  These are employer recruitment signals, not evidence of a verified internal software stack or a general HR
-  mailbox. Arab Bank's official October 1 media announcement confirms Reflect crypto trading with Fuze
-  following a Central Bank of Jordan regulatory sandbox pilot; the product integration does not establish
-  which technologies Arab Bank engineers internally use. Precise coordinate confidence remains unresolved.
+notes: |
+  Reviewed 2026-10-16. Arab Bank PLC is an operating Amman-headquartered banking group, supported by its
+    official site and LinkedIn. The official privacy notice identifies Shmeisani, Shaker Bin Zaid Street, and
+    the branch directory lists the Head Office ATM at Building 8; location.status refers to the supported street
+    address, while stored coordinates have not been independently precision-validated. LinkedIn reports 5,001-10,000
+    employees (a platform size band, not audited headcount). The official Taleo careers portal checked 2026-10-16
+    lists Jordan/Amman Credit Fulfillment Operations Team Leader and Officer roles posted 2026-08-24, Credit
+    ECL Analyst posted 2026-08-24, and Arab Bank Ambassadors Program posted 2026-07-06; listings may change.
+    A 2026 university internship and historical fresh-graduate/Digital Academy roles provide additional early-career
+    evidence. Java/JEE/Spring/JPA/Hibernate/REST/Maven/HTML/CSS/JavaScript are documented in historical job ads,
+    not independently verified as a current production stack; other listed technologies also require current
+    role-specific confirmation. No dedicated HR email was confirmed. Company-level verification remains partial
+    because precise coordinates, current full stack and direct recruiting contact remain unconfirmed.
+    Rechecked 2026-10-28: an official Taleo Jordan search surfaced Third Party Sr. Monitoring & Reporting
+    Officer (requisition 2600006B, posted October 18, 2026), Arab Bank Ambassadors Program (posted July 6),
+    and SME RM (CB) (posted June 29); search results are dynamic and not a guarantee of application availability.
+    Employer-attributed LinkedIn listings also displayed an Amman HR Assurance & Governance Manager role
+    (approximately October 26, requiring nine years of related experience) and the same third-party risk role.
+    These are employer recruitment signals, not evidence of a verified internal software stack or a general HR
+    mailbox. Arab Bank's official October 1 media announcement confirms Reflect crypto trading with Fuze
+    following a Central Bank of Jordan regulatory sandbox pilot; the product integration does not establish
+    which technologies Arab Bank engineers internally use. Precise coordinate confidence remains unresolved.
 evidence:
 - type: official_website
   url: https://www.arabbank.jo
