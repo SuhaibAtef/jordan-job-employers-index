@@ -1,40 +1,61 @@
 name: "SOURCEitHR"
-industry: "HR Outsourcing / Payroll / EOR"
+description: "Amman-headquartered human-resources outsourcing and payroll services company affiliated with MenaITech. It provides outsourced payroll, employer-of-record and staffing services, HR and management consulting, assessments, workforce analytics, and client-facing employee self-service tools across the MENA region."
+verification_status: "partial"
+last_verified: "2026-10-30"
+industry: "Human Resources Services / Payroll Outsourcing / Employer of Record (EOR)"
 website: "https://sourceithr.com"
 careers_url: "https://sourceithr.com/careers/"
-linkedin: null
-hr_email: "info@sourceithr.com"
-size: "11-50"
+linkedin: "https://www.linkedin.com/company/sourceithr"
+hr_email: "hr@menaitech.com"
+size: "51-200 (LinkedIn company-wide size band; not audited or Jordan-specific)"
 location:
-  area: "Amman"
-  address: "21 Thi Al Q'idah Street, Teeba Commercial Center, 1st Floor, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.9518
-  longitude: 35.94042
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+  area: "Amman, Jordan"
+  address: "Dhi Al-Qaada Street, Amman, Jordan (official street-level head-office address; building number unconfirmed)"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=SOURCEitHR+Dhi+Al+Qaada+Street+Amman+Jordan"
 categories:
   - "consulting"
-technologies: []
+technologies:
+  - "MenaITech HRMS (client-facing payroll/HR platform; not evidence of SOURCEitHR's internal engineering stack)"
+  - "MenaMe (employee self-service product listed by SOURCEitHR; not independently verified as internal development technology)"
+  - "Mena App (mobile employee self-service product listed by SOURCEitHR; not independently verified as internal development technology)"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman-headquartered HR management company offering payroll outsourcing, EOR, staffing and HR analytics tools across 8 MENA countries; offers a mobile app and web-based self-service HR platform; runs a careers page with job inquiries. stack research 2026-10-06: 11 searches; no dev team or engineering postings found (subsidiary of MenaITech; 1 payroll consultant CV on GulfTalent lists SAP FI/CO/Oracle/MenaITech platform skills — personal certs, not company stack)."
+  early_career_signal: true
+  signals:
+    - "SOURCEitHR company-authored LinkedIn update visible in late October 2026 advertises Junior Payroll Officer, 0-2 years' experience, with applications to hr@menaitech.com; closing date and acceptance status not confirmed."
+    - "Company LinkedIn also advertises Senior Payroll Officer requiring 4-6 years of experience, not an early-career position."
+    - "Official careers page includes an application form but says 'No Current Vacancies Available'; the older 2024 listings on that page are historical, including third-party/client roles."
+notes: "Reviewed 2026-10-30. Official SOURCEitHR website and About page establish ongoing payroll outsourcing, EOR/staffing, HR consulting and people-analytics services and its relationship with MenaITech; the company has an active 2026 website and recent LinkedIn posts. Company LinkedIn lists Amman headquarters, founded 2016, and a 51-200 employee range, which is platform-reported and not an audited local headcount (previous 11-50 estimate superseded). The official contact page publishes only Dhi Al-Qaada Street, Amman, without a building number. Earlier record's '21 Thi Al Q'idah Street, Teeba Commercial Center, 1st Floor' was not independently corroborated by current first-party materials, and the old generic city-center coordinates 31.9518,35.94042 were not a verified office pin; these have been removed. info@sourceithr.com is a general sales/support address, not a confirmed HR mailbox. The company's own late-October LinkedIn recruitment posts for Junior Payroll Officer (0-2 years) and Senior Payroll Officer (4-6 years) explicitly give hr@menaitech.com as an application email, which is a shared MenaITech-domain recruiting contact, not an independently verified dedicated SOURCEitHR HR mailbox. Its official careers page says 'No Current Vacancies Available' while retaining historical 2024 postings, some for external clients; therefore the status of the LinkedIn roles and any live careers-page vacancy remains uncertain. The official site lists MenaITech HRMS, MenaMe and Mena App as client-facing offerings; no specific programming languages, frameworks or SOURCEitHR-owned software development stack were established. Company-level verification remains partial because precise office location, current hiring acceptance and internal technology stack are not fully confirmed."
 evidence:
   - type: "official_website"
     url: "https://sourceithr.com"
-    label: "Official website"
+    label: "Official SOURCEitHR services and MenaITech HRMS product descriptions"
   - type: "careers"
     url: "https://sourceithr.com/careers/"
-    label: "Careers / application page"
+    label: "Official careers and application form; currently says no vacancies and retains historical 2024 client roles"
   - type: "other"
     url: "https://sourceithr.com/professional-employer-organization/employer-of-record-and-staffing-services/"
-    label: "Research source"
+    label: "Existing SOURCEitHR EOR and staffing service reference"
   - type: "other"
     url: "https://sourceithr.com/wp-content/uploads/2026/02/Arabic-Company-Profile-jordan.pdf"
-    label: "Research source"
+    label: "Previously recorded company profile PDF; not used to confirm precise current office"
   - type: "other"
     url: "https://www.jordanyp.com/company/375237/SourceitHR"
-    label: "Research source"
+    label: "Existing third-party company directory reference; not used for precise coordinates"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=SOURCEitHR+Dhi+Al+Qaada+Street+Amman+Jordan"
+    label: "Street-level map search, not a verified company entrance pin"
+  - type: "official_website"
+    url: "https://sourceithr.com/contact/"
+    label: "Official contact page: Dhi Al-Qaada Street, Amman, and general info@sourceithr.com"
+  - type: "official_website"
+    url: "https://sourceithr.com/about-us/"
+    label: "Official about page: Amman headquarters, MenaITech affiliation and services"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/sourceithr"
+    label: "Company LinkedIn: 51-200 employee band, Amman headquarters, late-October 2026 payroll recruitment and hr@menaitech.com application email"
+  - type: "other"
+    url: "https://amcham.jo/wp-content/uploads/2022/05/AmCham-Jordan-Membership-Directory.pdf"
+    label: "Historical AmCham directory: company presence and contact; address not assumed current"
