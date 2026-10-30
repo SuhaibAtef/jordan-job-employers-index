@@ -6,7 +6,7 @@ description: >-
   maintains a public LinkedIn profile, but current platform availability,
   operating activity and hiring could not be confirmed in October 2026.
 verification_status: "partial"
-last_verified: "2026-10-15"
+last_verified: "2026-10-30"
 industry: "Online Media / Local Discovery / User Reviews"
 website: "https://jeeran.com/"
 careers_url: null
@@ -48,6 +48,19 @@ notes: >-
   Previously listed Python, PHP, JavaScript and Docker stack claims were not
   independently substantiated by company engineering documentation or current
   attributable vacancies and were removed rather than asserted as current.
+  Rechecked 2026-10-30. Jeeran's LinkedIn company listing remains accessible and
+  continues to describe the historical Arabic reviews platform, Amman PO Box,
+  and an 11-50 employee size band; this is not evidence of current staffing.
+  The official jeeran.com domain timed out on retrieval, and the historical
+  jo.jeeran.com careers URL could not be accessed. A March 29, 2026 Reddit
+  discussion reported that the website was down, but is anecdotal rather than
+  company confirmation. Dealroom's AI-generated company narrative claims the
+  original platform ceased operations in June 2022; this is an unverified
+  secondary claim, not sufficient to mark the legal entity closed. No current
+  official recruitment notice, HR email, engineering stack, operating office,
+  or precise coordinates could be confirmed. The old 2019 internship remains
+  historical only. Company status stays partial pending first-party evidence
+  of current activity or definitive cessation; location remains unverified.
 evidence:
   - type: "official_website"
     url: "https://jeeran.com/"
@@ -69,4 +82,9 @@ evidence:
     label: "Historical Jeeran company overview and Amman PO Box; not proof of current operations"
   - type: "other"
     url: "https://www.address-mideast.com/JO/al-waha-2-complex-abd-al-rahim-al-hajj-mohammad-st-57-amman-jordan"
-    label: "Building-level listing only; does not identify Jeeran as tenant or verify prior coordinates"
+    label: "Building-level listing only; does not identify Jeeran as tenant or verify prior coordinates"  - type: "company_listing"
+    url: "https://app.dealroom.co/companies/jeeran"
+    label: "Dealroom company profile checked 2026-10-30; AI-generated closure claim uncorroborated and not treated as definitive"
+  - type: "other"
+    url: "https://www.reddit.com/r/jordan/comments/1s6uymm/what_happened_to_jeeran/"
+    label: "March 29, 2026 community report of inaccessible Jeeran website; anecdotal only"
