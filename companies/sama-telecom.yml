@@ -1,48 +1,115 @@
 name: "Sama Telecom"
-industry: "IoT / telematics / ICT solutions"
-website: "https://sama.jo"
+description: >-
+  Amman-headquartered Jordanian ICT and telematics provider, founded in 2005
+  according to its company LinkedIn profile. It develops and markets JoTrack
+  web/mobile fleet tracking, JoSchool GPS/GSM school-bus monitoring, OneOffice
+  collaboration tools, SMS marketing and vehicle security/MDVR solutions.
+  Its official website and recent company LinkedIn updates support continuing
+  product activity, but current recruitment and internal software architecture
+  remain incompletely verified.
+verification_status: "partial"
+last_verified: "2026-10-30"
+industry: "IoT / fleet telematics, location-based services and ICT software"
+website: "https://sama.jo/"
 careers_url: null
-linkedin: null
-hr_email: "info@sama.jo"
+linkedin: "https://www.linkedin.com/company/sama-telecom-jotrack/"
+hr_email: null
 size: "11-50"
 location:
-  area: "Amman"
-  address: "5th Circle, Zahran St. 159, P.O. Box 841005, Amman 11181, Jordan"
-  status: "provided_unverified"
-  latitude: 31.958754
-  longitude: 35.884222
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.958754,35.884222"
+  area: "Fifth Circle, Amman"
+  address: "Building 159, ground floor, Zahran Street, Fifth Circle, Amman, Jordan"
+  status: "approximate"
+  latitude: 31.958753
+  longitude: 35.884223
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.958753,35.884223"
 categories:
+  - "ai"
   - "data"
-  - "devops"
   - "iot"
   - "mobile"
   - "telecom"
   - "web"
 technologies:
-  - "C#"
-  - "GIS"
-  - "Huawei Cloud"
-  - "IoT"
-  - "PHP"
-  - "SMS Gateway"
+  - "GPS/GSM telematics (JoSchool official product documentation; not an internal code stack)"
+  - "Web-based real-time vehicle tracking (JoTrack official product; framework unspecified)"
+  - "Android and iOS fleet-tracking apps (JoTrack official product; development languages unverified)"
+  - "Huawei Cloud (OneOffice advertised hosting option; live deployment not independently audited)"
+  - "IoT and fleet telemetry (official company service offering; underlying protocols unspecified)"
+  - "AI-assisted fleet analytics (2026 company LinkedIn product claims; models and implementation unverified)"
+  - "SMS marketing and middleware integration (official SMS service; gateway implementation unspecified)"
+  - "Dashcams and mobile digital video recorders (official product line; hardware integration unspecified)"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "IoT/telematics provider (JoTrack fleet tracking, JoSchool bus monitoring, SMS marketing); 30+ engineers; info@sama.jo is their published contact email. Pin moved from city-center fallback to verified location (Zahran St 159) from the company's own site data."
+  early_career_signal: true
+  signals:
+    - "Historical B2B Sales Representative in Amman: employer-attributed LinkedIn listing required at least two years of sales experience; explicitly closed. CV recipient l.alkiswani@sama.jo was the sales manager, not verified HR."
+    - "Historical Sales Account Manager in Amman: employer-attributed LinkedIn listing preferred one to three years of telecom/IoT/IT sales experience; explicitly closed."
+    - "Customer Care Officer in Amman: third-party repost requested diploma/bachelor's degree, with previous service experience preferred; current application acceptance and original posting date unconfirmed."
+notes: >-
+  First company-level verification review on 2026-10-30. Official site confirms
+  active JoTrack, JoSchool, OneOffice, SMS marketing, security and vehicle-video
+  offerings. Company LinkedIn states founded 2005, Amman headquarters, Bahrain
+  office and self-reported 11-50 company-wide employees; this is not a verified
+  Jordan-only headcount. Recent 2026 company posts promote JoTrack AI-assisted
+  fleet analysis, but do not disclose its implementation stack. Official contact
+  page lists Building 159, Zahran Street, Fifth Circle, Amman, telephone
+  +962 6 593 9050; LinkedIn specifies the ground floor. Independent Cybo and
+  Yellow Pages listings corroborate the address and telephone. The geographic
+  listing supplies coordinates 31.958753,35.884223, retained only as an
+  approximate map point rather than a surveyed entrance. Official SMS brochure
+  publishes info@sama.jo, a general mailbox, not a dedicated HR address.
+  Historical employer-attributed LinkedIn sales roles accepted CVs at
+  l.alkiswani@sama.jo, a sales manager's address, not a verified HR mailbox;
+  both LinkedIn roles are closed. A Customer Care Officer listing appears on
+  third-party aggregators but its live status is not verified. No currently
+  accepting official vacancy, internship or dedicated careers page was
+  established. Early-career signal is qualified historical sales/customer-care
+  recruitment, not a confirmed graduate program. Unsupported prior C#, PHP
+  and GIS claims were removed; product capabilities are not an audited
+  production stack. A corroborated street address does not constitute
+  full-company verification.
 evidence:
   - type: "official_website"
-    url: "https://sama.jo"
-    label: "Official website"
+    url: "https://sama.jo/"
+    label: "Official homepage: JoTrack, JoSchool, OneOffice, SMS, IoT and vehicle security offerings; reviewed 2026-10-30"
+  - type: "official_website"
+    url: "https://sama.jo/about-us/"
+    label: "Official company description: IoT, telematics, software development and ICT services"
+  - type: "official_website"
+    url: "https://sama.jo/contact-us/"
+    label: "Official Amman address at Zahran Street 159, Fifth Circle and telephone +962 6 593 9050"
+  - type: "official_website"
+    url: "https://sama.jo/jotrack/"
+    label: "Official JoTrack web fleet-tracking platform and Android/iOS mobile app descriptions"
+  - type: "official_website"
+    url: "https://sama.jo/joschool/"
+    label: "Official JoSchool product identifies GPS and GSM bus monitoring and mobile apps"
+  - type: "official_website"
+    url: "https://sama.jo/oneoffice/"
+    label: "Official OneOffice collaboration product describes Huawei Cloud as a hosting option"
+  - type: "official_website"
+    url: "https://sama.jo/sms-marketing/"
+    label: "Official SMS marketing and middleware integration product, with historical staffing claim"
+  - type: "official_website"
+    url: "https://sama.jo/wp-content/uploads/2023/08/Sama-SMS-Quotation.pdf"
+    label: "Company-issued SMS quotation corroborates general contact info@sama.jo and office address; historical brochure"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/sama-telecom-jotrack/"
+    label: "Company profile: founded 2005, 11-50 employees, Amman Building 159 ground floor; 2026 product activity"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/b2b-sales-representative-at-sama-telecom-4257148195"
+    label: "Employer-attributed B2B Sales Representative: 2+ years, CV to sales manager; explicitly closed"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/sales-account-manager-at-sama-telecom-4093383639"
+    label: "Employer-attributed Sales Account Manager: 1-3 years preferred; explicitly closed"
+  - type: "job_post"
+    url: "https://jo.trabajo.org/job-4112-ac8c44ae1642730815c88d0d6bf6e964"
+    label: "Third-party Customer Care Officer repost; current acceptance and original publication unconfirmed"
   - type: "other"
-    url: "http://sama.jo/wp-content/uploads/2023/08/Sama-SMS-Quotation.pdf"
-    label: "Research source"
+    url: "https://www.cybo.com/JO-biz/sama-telecom"
+    label: "Independent business listing corroborates Building 159, Zahran Street and telephone"
   - type: "other"
-    url: "https://www.zoominfo.com/c/sama-telecom--jotrack/451390805"
-    label: "Research source"
-  - type: "other"
-    url: "http://www.sama.jo/"
-    label: "Research source"
+    url: "https://www.yellowpages.net/phone_962-65939050_Sama-Telecom_Amman_AEEN293400.html"
+    label: "Geographic listing associates 31.958753,35.884223 with Zahran Street 159; approximate pin only"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.958754,35.884222"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=31.958753,35.884223"
+    label: "Approximate geocoded map point; exact building entrance not surveyed"
