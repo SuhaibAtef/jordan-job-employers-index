@@ -6,7 +6,7 @@ description: >-
   orders across much of Amman. Its LinkedIn profile operates under the name
   Jet Technology; its Android and iOS apps are publicly listed.
 verification_status: "partial"
-last_verified: "2026-10-15"
+last_verified: "2026-10-30"
 industry: "Quick commerce / Online grocery retail and delivery"
 website: "https://jetapp.me/"
 careers_url: null
@@ -42,6 +42,21 @@ notes: >-
   office or warehouse address, exact coordinates, or HR email was confirmed.
   The previous Amman city-center coordinates were an unsupported placeholder
   and have been removed; city-level presence is supported independently.
+  Rechecked 2026-10-30. Jet's official website remains accessible and describes
+  ongoing Amman grocery delivery from company-held warehouse inventory, with
+  delivery hours and a general customer-service phone; the published
+  hello@jetapp.me address is a general contact, not a recruiting mailbox.
+  Jet Technology's LinkedIn still lists Amman headquarters, founding in
+  2021, and 11-50 employees (a self-reported platform size band, not an
+  independently audited headcount). Apple's current iOS listing records
+  version 11.0.0 on October 11, 2026, supporting recent app maintenance;
+  it names Talabac as publisher and carries a Jet For Trade And Ecommerce
+  copyright notice, neither of which establishes the internal developer
+  organization or a specific technology stack. The public site does not
+  display a careers section, and this review found no attributable live
+  vacancy, HR-specific email, street-level office/warehouse address, or
+  verified precise coordinates. Retain partial company verification and
+  city-level approximate location pending those details.
 evidence:
   - type: "official_website"
     url: "https://jetapp.me/"
@@ -60,4 +75,4 @@ evidence:
     label: "Google Play Android app listing, updated September 29 2026"
   - type: "other"
     url: "https://apps.apple.com/jo/app/jet-groceries-amman-delivery/id1472247279"
-    label: "Apple App Store iOS listing"
+    label: "Apple iOS listing: Jet Groceries version 11.0.0 (October 11, 2026), publisher Talabac; Jet For Trade And Ecommerce copyright"
