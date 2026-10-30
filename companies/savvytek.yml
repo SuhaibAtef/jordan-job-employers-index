@@ -1,5 +1,15 @@
 name: "Savvytek"
-industry: "IT solutions / systems integration (open-source)"
+description: >-
+  Savvytek is a Jordan-origin enterprise IT consulting and systems-integration
+  company historically serving customers in Jordan and the Gulf with Oracle
+  business applications, database and business-intelligence services, Red Hat
+  Linux solutions, implementation, technical support and professional training.
+  Historical company statements and staff project records establish these
+  specialties; current operations and recruitment were not independently
+  confirmed during the October 2026 review.
+verification_status: "partial"
+last_verified: "2026-10-30"
+industry: "Enterprise IT Consulting / Systems Integration / Oracle and Red Hat Solutions"
 website: "https://www.savvytek.com"
 careers_url: null
 linkedin: null
@@ -7,34 +17,81 @@ hr_email: null
 size: "11-50"
 location:
   area: "Amman"
-  address: "318 King Abdullah II St, Amman, Jordan"
+  address: "King Abdullah II Street, Amman, Jordan (building number disputed: 318 or 320)"
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Savvytek%20Co%20King%20Abdullah%20II%20St%20Amman%20Jordan"
 categories:
+  - "consulting"
   - "data"
   - "devops"
+  - "support"
+  - "web"
 technologies:
-  - "Linux"
-  - "Oracle Database"
+  - "Red Hat Enterprise Linux (historical Red Hat partner and implementation evidence; current deployments unconfirmed)"
+  - "Oracle Database (historical database consulting, DBA and training evidence)"
+  - "Oracle E-Business Suite (historical enterprise applications implementation evidence)"
+  - "Oracle Siebel (historical company-profile service listing; current offering unconfirmed)"
+  - "Oracle Hyperion (historical company-profile service listing; current offering unconfirmed)"
+  - "Oracle Business Intelligence / data warehousing (historical company-profile service listing)"
+  - "Oracle ADF and WebLogic (historical employee-described 2012-2014 product development; not a verified current stack)"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Jordan-HQ IT solutions provider with offices in USA, Saudi Arabia and Qatar; Red Hat Premier Partner and Oracle Platinum Partner; delivers services helping clients migrate from proprietary software to open source."
+  early_career_signal: true
+  signals:
+    - "Historical Amman Oracle DBA internship, June-August 2012, reported by a former intern; no current intake established"
+notes: >-
+  Reviewed 2026-10-30. The official domain savvytek.com was inaccessible to the
+  research browser, and no accessible official careers page, company-matched
+  LinkedIn company profile, currently accepting Jordan vacancy, dedicated HR
+  mailbox or 2026 internship was independently established. An October 2008
+  company-attributed announcement documented Red Hat Premier Partner status;
+  this does not establish a current accreditation. Historical company profiles
+  describe Oracle EBS, Siebel, Hyperion, BI/data warehousing, portal services,
+  consulting and training. A former intern reports a June-August 2012 Oracle
+  DBA internship in Amman, which is historical early-career evidence only.
+  SignalHire lists 318 King Abdullah II St, Amman; a current Google business
+  listing identifies Savvytek Co at 320 King Abdullah II St, while other
+  directories retain a different Queen Rania/University Street address.
+  Current office occupancy, precise entrance and coordinates are unresolved;
+  the previous generic coordinate pair was removed. ContactOut's company
+  description lists info@savvytek.com and +962 6 56655266 as general contacts,
+  neither verified as current or HR-specific. The retained 11-50 size is an
+  unverified directory estimate; SignalHire reports 100-200 and ContactOut
+  contains inconsistent company size/headquarters metadata. No reliable
+  current employee count can be established. No current deployed software
+  stack was independently audited.
 evidence:
   - type: "official_website"
     url: "https://www.savvytek.com"
-    label: "Official website"
+    label: "Historical official domain; inaccessible during 2026-10-30 review"
+  - type: "other"
+    url: "https://www.albawaba.com/news/savvytek-achieve-red-hat-premier-business-partner"
+    label: "2008 company-attributed Red Hat Premier Partner announcement and Linux training/services; historical"
+  - type: "company_listing"
+    url: "https://www.signalhire.com/companies/savvytek"
+    label: "Directory lists 318 King Abdullah II Street, Oracle specialties and 100-200 employee estimate; not independently verified"
+  - type: "company_listing"
+    url: "https://contactout.com/company/Savvytek-30480"
+    label: "Historical company service description, general contact and inconsistent 11-50 size metadata"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/search/?api=1&query=Savvytek%20Co%20King%20Abdullah%20II%20St%20Amman%20Jordan"
+    label: "Google business listing for Savvytek Co, King Abdullah II Street 320; building and entrance unconfirmed"
+  - type: "company_listing"
+    url: "https://www.jordanyp.com/category/Computers/16"
+    label: "Jordan business directory lists Queen Rania/University Street, conflicting with King Abdullah II Street"
+  - type: "other"
+    url: "https://wuzzuf.net/me/deiaa"
+    label: "Former intern's first-person profile documents June-August 2012 Savvytek Oracle DBA internship in Amman"
+  - type: "other"
+    url: "https://jo.linkedin.com/in/ahmad-mohammad-9142b794"
+    label: "Former developer's historical 2012-2014 Savvytek Oracle ADF/WebLogic product project; not a current stack"
   - type: "other"
     url: "https://www.zoominfo.com/c/savvytek/105677203"
-    label: "Research source"
+    label: "Legacy directory reference retained from previous record; inaccessible during 2026 review"
   - type: "other"
     url: "http://www.thefreelibrary.com/Red+Hat+deepens+its+partnership+with+Savvytek+in+Jordan-a0227578099"
-    label: "Research source"
+    label: "Legacy Red Hat partnership news reference retained; inaccessible during 2026 review"
   - type: "other"
     url: "https://abc-gcc.net/companies/23/484375/savvytek"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Legacy Gulf company-directory reference retained; inaccessible during 2026 review"
