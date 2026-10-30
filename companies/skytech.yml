@@ -1,45 +1,117 @@
-name: "SkyTech"
-industry: "Information Technology and Services"
-website: "https://www.e-skytech.com/"
-careers_url: null
-linkedin: null
+name: SkyTech
+description: >-
+  SkyTech (also identified as Marcelia for Information Technology) is an
+  Amman-headquartered enterprise software implementation and IT consulting
+  provider. It implements SAP Business One, Microsoft Dynamics 365, Odoo and
+  Zoho systems, and offers ERP hosting, business intelligence, warehouse
+  management, procurement and field-sales solutions. Its official website
+  lists offices in Jordan, Qatar and the UAE.
+industry: Enterprise software / ERP implementation / IT consulting
+website: https://www.e-skytech.com/
+careers_url: https://careers.e-skytech.com/jobs/Careers
+linkedin: https://www.linkedin.com/company/skytech/
 hr_email: null
-size: "50-249"
+size: 11-50 (LinkedIn company-wide range; Jordan-only headcount unverified)
 location:
-  area: "Amman"
-  address: "152 Mecca Street, Al Husseini Complex, 1st Floor, office #102, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.97681
-  longitude: 35.8548
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97681,35.8548"
+  area: Um Al Summaq, Amman, Jordan
+  address: 13 Mohamed Al-Amin Al Momani Street, Um Al Summaq, Amman, Jordan
+  status: provided_unverified
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
-  - "consulting"
-  - "data"
-  - "erp"
+- consulting
+- data
+- erp
 technologies:
-  - "Crystal Reports"
-  - "Microsoft Dynamics 365"
-  - "Odoo"
-  - "SAP"
-  - "Zoho"
+- SAP Business One (officially offered ERP implementation and hosting; not an audited internal stack)
+- Microsoft Dynamics 365 (officially offered ERP/CRM implementation)
+- Odoo ERP (official partner and implementation offering; 2026 development and consulting vacancies)
+- Zoho (officially offered ERP/CRM and business applications)
+- SAP Analytics Cloud (officially advertised business-intelligence service)
+- Microsoft Power BI (officially advertised business-intelligence service)
+- Crystal Reports (historical SAP reporting service in third-party company directory; current usage unconfirmed)
 job_seeker:
   early_career_signal: true
   signals:
-    - "Graduate"
-notes: "SAP REX Gold Partner in Amman; 70+ SAP Business One implementations; also partners for Odoo, Zoho and Dynamics 365. Participated in SAP Young Professionals Program training unemployed Jordanian graduates (2019)."
+  - >-
+    SkyTech's official recruitment portal displayed an Odoo ERP Developer
+    position in Amman requiring 1-3 years of experience, under Current Openings
+    on 2026-10-30. Its listed date is 10/07/2026 (format ambiguous); actual
+    application acceptance was not independently tested.
+  - >-
+    The official portal also displayed an Amman Odoo Functional Consultant
+    position requiring 4-5 years of experience under Current Openings on
+    2026-10-30; this is not an entry-level role.
+  - >-
+    A SkyTech Associate Functional Consultant vacancy dated 2026-08-15 on
+    Bayt described 0-3 years of experience and welcomed relevant coursework
+    or internship exposure. It was not present among the two current official
+    portal openings, so ongoing availability is unconfirmed.
+  - >-
+    A third-party September 2026 Sales Software Consultant listing in Amman
+    stated 1-3 years and an application deadline of 2026-12-10; its employer
+    authorization and present application status were not independently verified.
+notes: >-
+  Reviewed 2026-10-30. The official company website and LinkedIn support
+  an active Amman-based ERP and IT consulting business. LinkedIn identifies
+  the founding year as 2013 and company size as 11-50 employees, not a verified
+  Jordan-only workforce count. The official contact page currently gives
+  13 Mohamed Al-Amin Al Momani Street, Um Al Summaq, Amman and telephone
+  +962 6 222 9600; LinkedIn also identifies Amin Al-Momani Street, second
+  floor. Older JordanYP and TipnTag listings instead place SkyTech at
+  152 Mecca Street, Al Husseini Complex, with older telephone +962 6 553 1200;
+  these are treated as historical or stale and not the current address.
+  Prior coordinates 31.97681, 35.8548 and the coordinate-based maps link
+  were removed because they do not substantiate the new office entrance.
+  Precise occupancy/entrance has not been independently surveyed, hence
+  location.status is provided_unverified, distinct from company status.
+  The public contact email info@e-skytech.com is a general company mailbox,
+  not verified HR; no dedicated HR email was found. The official careers
+  portal displayed two 2026 Odoo openings; it was not possible to complete
+  an application, confirm closing dates, or establish an active internship.
+  The prior record claimed participation in SAP's 2019 Young Professionals
+  Program, but the historical source could not be rechecked; it is not
+  evidence of a current SkyTech graduate program. SAP's own 2026 graduate
+  training is not attributed to SkyTech. The company announced ISO 27001
+  certification on 2026-08-19, but the certificate was not independently
+  audited here. Technologies describe sold products and role requirements,
+  not independently inspected production infrastructure. Status remains
+  partial pending independent office occupancy, HR contact, hiring
+  acceptance and other company details.
 evidence:
-  - type: "official_website"
-    url: "https://www.e-skytech.com/"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/374153/SkyTech_SAP_REX_Gold_Partner/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.goodfirms.co/implementation-services/erp-consulting/jordan"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.itp.net/commsmea/network-infrastructure/86822-sap-marks-graduation-of-young-professional-program-in-jordan"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.97681,35.8548"
-    label: "Google Maps location"
+- type: official_website
+  url: https://www.e-skytech.com/
+  label: Official ERP products, software services and regional offices (reviewed 2026-10-30)
+- type: official_website
+  url: https://www.e-skytech.com/services/
+  label: Official ERP hosting, BI, warehouse management, procurement and field-sales solutions
+- type: official_website
+  url: https://www.e-skytech.com/contact-us/
+  label: Current official Amman street address and telephone, superseding older Mecca Street directory listing
+- type: careers
+  url: https://careers.e-skytech.com/jobs/Careers
+  label: Official recruitment portal with two displayed Amman Odoo positions on 2026-10-30
+- type: linkedin_company
+  url: https://www.linkedin.com/company/skytech/
+  label: Company LinkedIn 11-50 employees, 2013 founding, headquarters and Amman street
+- type: other
+  url: https://www.bayt.com/en/jordan/jobs/associate-functional-consultant-74444810/
+  label: Dated 2026-08-15 early-career ERP consultant vacancy with 0-3 years; not confirmed open
+- type: other
+  url: https://www.drjobpro.com/ar/jordan/jobs/sales-software-consultant-amman-skytech-MTXLDES83PRF2RA
+  label: Third-party September 2026 sales software role with future stated deadline; status unconfirmed
+- type: other
+  url: https://www.bizmideast.com/JO/skytech-06-222-9600
+  label: Independent Amin Al-Momani Street business listing corroborates current official phone
+- type: other
+  url: https://www.jordanyp.com/company/374153/SkyTech_SAP_REX_Gold_Partner/
+  label: Older Mecca Street address, employee estimate and historical Crystal Reports service; not current premises
+- type: other
+  url: https://www.e-skytech.com/driving-tech-innovation-through-equity-skytech-wins-top-honors-at-jordans-diversity-trailblazers-awards/
+  label: July 6 2026 company announcement identifying Marcelia for Information Technology
+- type: official_website
+  url: https://www.e-skytech.com/ar/%D8%B3%D9%83%D8%A7%D9%8A-%D8%AA%D9%83-%D8%AA%D8%AD%D8%B5%D9%84-%D8%B9%D9%84%D9%89-%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-iso-27001-%D9%88%D8%AA%D8%B9%D8%B2%D8%B2-%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85%D9%87/
+  label: Company announcement of ISO 27001 certification dated 2026-08-19, not independently audited
+verification_status: partial
+last_verified: '2026-10-30'
