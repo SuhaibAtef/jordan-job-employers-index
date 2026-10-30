@@ -1,32 +1,96 @@
 name: "Siemens"
-industry: "Industrial technology / Engineering"
+description: >-
+  Siemens AG is a German industrial technology group supplying automation,
+  industrial software, electrification, smart infrastructure and mobility
+  solutions. Its Digital Industries business provides SIMATIC programmable
+  controllers, TIA Portal engineering software and WinCC industrial HMI/SCADA
+  systems. A Jordan business listing identifies an Amman presence, but the
+  current local office and operating scope have not been confirmed by Siemens.
+industry: "Industrial technology / Automation / Engineering"
 website: "https://www.siemens.com/"
-careers_url: null
-linkedin: null
+careers_url: "https://jobs.siemens.com/"
+linkedin: "https://www.linkedin.com/company/siemens"
 hr_email: null
-size: null
+size: "10,001+"
 location:
   area: "Amman"
-  address: "Zaina Commercial Complex, Queen Noor St 44, Shmeisani, Amman, Jordan"
+  address: "Zaina Commercial Complex, 44 Queen Noor Street, Shmeisani, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.962399
-  longitude: 35.899117
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.962399,35.899117"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "iot"
 technologies:
   - "PLC/SCADA"
+  - "SIMATIC S7 PLC"
+  - "SIMATIC WinCC"
+  - "TIA Portal"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "German industrial-tech giant's Jordan office in Shmeisani (Zaina Commercial Complex, Queen Noor St 44) covers industry, energy and infrastructure."
+  signals:
+    - "Siemens' official worldwide careers portal offers searchable openings; no currently accepting Siemens AG vacancy specifically in Jordan was independently established on 2026-10-30."
+    - "The official Siemens Graduate Program is a two-year entry-level program for master's graduates with three assignments; Jordan eligibility or placements were not confirmed."
+    - "Siemens' official career site describes global internships and working-student opportunities, but no active Jordan internship was verified."
+notes: >-
+  Reviewed 2026-10-30. Siemens' official corporate materials document
+  industry, infrastructure and mobility activities; Siemens' LinkedIn
+  company page reports 10,001+ employees and approximately 318,000
+  worldwide employees at fiscal-year-end 2025, not a Jordan-specific count.
+  The Siemens AG Jordan listing at JordanYP provides Zaina Commercial
+  Complex, Queen Noor Street 44, Shmeisani and telephone +962 6 562 1303;
+  the listing's own last update was 2021-05-10. Buildeey repeats the
+  address and telephone. An independent listing for another business in
+  Zina Commercial Center at number 44 corroborates the building and gives
+  building-area coordinates 31.9622624,35.8991466, but does not prove
+  Siemens' current tenancy or entrance. Earlier coordinates
+  31.962399,35.899117 were removed rather than presented as an exact
+  Siemens location. No current Siemens-authored Jordan office address,
+  Jordan employee headcount, local HR mailbox, currently accepting
+  Jordan vacancy or local internship was verified. Siemens' global
+  graduate and internship programs are not evidence of Jordan openings.
+  SIMATIC S7, WinCC and TIA Portal are official Siemens product
+  technologies, not a verified Jordan office production or hiring stack.
+  Historical Siemens press material documents a Jordan power-plant
+  equipment project, not present office operations. Search results for
+  Siemens Energy and Siemens Healthineers must not be treated as
+  Siemens AG Jordan vacancies; they have distinct careers operations.
 evidence:
   - type: "official_website"
-    url: "https://www.siemens.com/"
-    label: "Official website"
+    url: "https://www.siemens.com/en-us/company/about/"
+    label: "Official Siemens corporate overview, industry, infrastructure and mobility; checked 2026-10-30"
+  - type: "official_website"
+    url: "https://www.siemens.com/en-us/company/about/businesses/digital-industries/"
+    label: "Official Siemens Digital Industries automation and industrial software portfolio"
+  - type: "official_website"
+    url: "https://www.siemens.com/en-us/products/simatic/"
+    label: "Official SIMATIC S7 controllers and TIA Portal engineering product documentation"
+  - type: "official_website"
+    url: "https://www.siemens.com/en-us/products/simatic-wincc/v8/"
+    label: "Official SIMATIC WinCC SCADA product description"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/siemens"
+    label: "Global Siemens AG LinkedIn profile, employee range and FY2025 worldwide headcount"
+  - type: "careers"
+    url: "https://jobs.siemens.com/"
+    label: "Official Siemens worldwide careers marketplace; Jordan openings not confirmed 2026-10-30"
+  - type: "careers"
+    url: "https://www.siemens.com/en-us/company/jobs/growth-careers/siemens-graduate-program/"
+    label: "Official two-year Siemens Graduate Program, no Jordan placement confirmed"
+  - type: "careers"
+    url: "https://www.siemens.com/en-us/company/jobs/growth-careers/"
+    label: "Official global internships and working-student programs overview"
   - type: "other"
-    url: "https://www.jordanyp.com/company/320692/Siemens_AGJordan"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.962399,35.899117"
-    label: "Google Maps location"
+    url: "https://www.jordanyp.com/company/360308/Siemens_AG_Jordan"
+    label: "JordanYP Siemens AG Amman address and telephone, listing last updated 2021-05-10"
+  - type: "other"
+    url: "https://buildeey.com/profile/siemens-ag-jordan/en"
+    label: "Independent business directory repeats Zaina Complex address and telephone"
+  - type: "other"
+    url: "https://jo.near-place.com/workspace-zina-commercial-center-44-queen-nour-street-amman"
+    label: "Independent location listing for another tenant at number 44; building area only"
+  - type: "other"
+    url: "https://press.siemens.com/global/en/pressrelease/siemens-deliver-key-equipment-power-plant-jordan"
+    label: "Historical Siemens press release confirming Jordan project activity, not current local staffing"
+verification_status: "partial"
+last_verified: "2026-10-30"
