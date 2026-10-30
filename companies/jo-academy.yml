@@ -7,7 +7,7 @@ description: >-
   Jo Academy is part of ULA Group, which is expanding digital education
   products in the region.
 verification_status: "partial"
-last_verified: "2026-10-15"
+last_verified: "2026-10-30"
 industry: "Education Technology / E-Learning Providers"
 website: "https://www.joacademy.com/en"
 careers_url: "https://careers.joacademy.com/en/careers_page"
@@ -18,6 +18,7 @@ location:
   area: "Amman"
   address: "158 Mecca Street, Al Hijaz Towers, 6th Floor, Amman, Jordan"
   status: "verified"
+  confidence: "medium"
   latitude: 31.97599
   longitude: 35.86075
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.97599,35.86075"
@@ -40,6 +41,8 @@ job_seeker:
   early_career_signal: true
   signals:
     - "Early-career mobile developer role (1-4 years; 2026 listing)"
+    - "Mathematics Assistant Teacher - Part Time (Amman; official careers board, posted 2026-10-07)"
+    - "Senior HR Operations Officer (Amman; official careers board, posted 2026-10-19)"
 notes: >-
   Reviewed 2026-10-15. Founded 2014 per company LinkedIn, ULA Group and JCIF;
   earlier 2013 claims are not adopted. LinkedIn reports 501-1,000 employees
@@ -61,6 +64,24 @@ notes: >-
   in February 2025 supports expansion and technology development, not proof
   of a currently open graduate intake. No public recruitment email verified;
   store support email is not an HR contact.
+  Rechecked 2026-10-30: Jo Academy's official Arabic careers board displayed
+  18 postings across two pages, including Senior Accounts Receivable (Oct 21),
+  Senior HR Operations Officer (Oct 19), Mathematics Assistant Teacher - Part
+  Time (Oct 7) and Software Quality Assurance Manager (Oct 7), all in Amman;
+  these are dated vacancy signals, not guaranteed application availability.
+  The English careers page was accessible but did not expose readable listings
+  to the research tool; the Arabic board supplied the dated evidence. The
+  official Jo Academy website remained live and described K-12, international,
+  and university courses. ULA Group reported Jo Academy's $500,000 strategic
+  investment in Saudi EdTech firm AILA on Aug 19, 2026 and a partnership with
+  Orange Jordan in Aug 2026. The AILA investment supports an AI product
+  direction, not evidence of specific internal AI frameworks. LinkedIn still
+  lists 501-1,000 employees globally, with Al Hijaz Towers in Amman as its
+  primary location. The parent group confirms the 158 Mecca Street address;
+  confidence is medium for the approximate building coordinates, not a
+  surveyed entrance. No confirmed public HR recruiting email or current
+  internship intake was found. Keep partial status pending HR contact and
+  independently verified current internal technology inventory.
 evidence:
   - type: "official_website"
     url: "https://www.joacademy.com/en"
@@ -88,4 +109,12 @@ evidence:
     label: "Independent geographic coordinates for Al Hijaz Towers building 158"
   - type: "other"
     url: "https://www.jordanyp.com/company/376051/Jo_Academy"
-    label: "Business directory corroborating Jo Academy in Al Hijaz Towers"
+    label: "Business directory corroborating Jo Academy in Al Hijaz Towers"  - type: "careers"
+    url: "https://careers.joacademy.com/ar/careers_page"
+    label: "Official Arabic Jo Academy careers board showing October 2026 Amman vacancies, checked 2026-10-30"
+  - type: "other"
+    url: "https://ulaeducation.com/en/jo-academy-announces-strategic-investment-in-saudi-edtech-innovator-aila/"
+    label: "Official ULA Group announcement 2026-08-19: Jo Academy strategic investment in AILA"
+  - type: "other"
+    url: "https://ulaeducation.com/en/jo-academy-and-orange/"
+    label: "Official ULA Group news on 2026 Jo Academy and Orange Jordan digital-education partnership"
