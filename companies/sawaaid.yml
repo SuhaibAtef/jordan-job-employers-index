@@ -1,40 +1,84 @@
 name: "Sawaaid"
-industry: "Health tech, Home healthcare"
+description: "Sawaaid For Healthcare Technology is an Amman-based home healthcare marketplace founded in 2021. Its website and company LinkedIn describe a platform connecting patients and families with professionals for home nursing, physiotherapy, physician visits, occupational therapy, speech therapy, and access to laboratories, radiology and medical-equipment providers."
+industry: "Home healthcare services / Healthtech marketplace"
 website: "https://www.sawaaidhct.com"
 careers_url: null
-linkedin: null
+linkedin: "https://jo.linkedin.com/company/sawaaid-for-healthcare-technology"
 hr_email: null
-size: null
+size: "2-10 employees (company-reported LinkedIn range, checked 2026-10-30; not an audited headcount)"
 location:
   area: "Amman"
-  address: "Al Madeena Al Mnawara St, Al Basem 2 Complex, 2nd Fl, Office 201, Amman 11953"
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: "Al Madina Al Munawara Street, Al Basem 2 Complex (Building 257), second floor, Office 201, Amman 11953, Jordan"
+  status: "provided_unverified"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Sawaaid+Al+Madina+Al+Munawara+Amman"
 categories:
   - "healthtech"
   - "web"
+  - "mobile"
 technologies:
-  - "Web platform"
+  - "Web marketplace platform (official website; underlying software stack undisclosed)"
+  - "Mobile application (company LinkedIn; programming languages/frameworks unverified)"
+  - "Microsoft Excel and Office (operations coordinator vacancy requirement; operational tools, not product stack)"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-notes: "Home-healthcare marketplace platform connecting patients with care providers; founded 2021, Flat6Labs-backed. Office address confirmed by CB Insights. No HR email published publicly (contact page lists only phone +962 796444366 and a form). No public internship postings found.\nstack research 2026-10-06: 5 searches, no employee profiles or dev job postings found; apps credited to ArabiaCell dev agency (package com.arabiacell.*)."
+    - "Healthcare Field Promotion Specialist, Amman: employer-attributed LinkedIn vacancy in 2026 welcomes fresh graduates; current application acceptance not independently confirmed."
+    - "Homecare nursing provider network: 2026 company LinkedIn recruitment post welcomes newly qualified MOH-licensed nurses and offers flexible shifts; provider-network arrangements are not necessarily salaried employment and form availability was not verified."
+    - "Operations & Client Support Coordinator, Amman: 2026 employer-attributed LinkedIn listing seeks 2-3 years' experience and Microsoft Excel/Office; application status not independently confirmed."
+    - "Client Operations and Customer Support Coordinator: third-party listing posted 2026-08-03 claims deadline 2026-11-03; listing has inconsistent experience figures and links to the general homepage, so application availability is unverified."
+notes: >-
+  Reviewed 2026-10-30. The official website describes services and lists
+  info@sawaaidhct.com and +962 7 9644 4366 as general contacts, not a dedicated
+  recruitment mailbox. The official contact page gives Al Basem 2 Complex,
+  second floor, Office 201; company LinkedIn supplies Building 257 and the
+  2-10 employee range. A matching local business listing corroborates the
+  street and phone, but an independent entrance coordinate or current
+  physical occupancy was not established. Removed previous uncorroborated
+  coordinates (31.9539, 35.9106) and retained an address-based map search.
+  No official careers portal, internship announcement or programming-language
+  stack was verified. Earlier generic 'Internship' signal was unsupported
+  and replaced with documented graduate-friendly recruitment. The 2026
+  company-attributed LinkedIn vacancies and nurse-network post demonstrate
+  hiring/provider recruitment activity, but none establishes a currently
+  accepting application. A third-party MimusJobs posting claims a 2026-11-03
+  deadline, yet directs applications to the company's general homepage and
+  inconsistently states 1-2 versus 2-3 years' experience. Official site
+  contains apparent template placeholder sections, so rely on its specific
+  service/contact claims rather than generic template material. Founded 2021;
+  Flat6Labs backing is documented by CB Insights and Dharab.
 evidence:
   - type: "official_website"
-    url: "https://www.sawaaidhct.com"
-    label: "Official website"
+    url: "https://www.sawaaidhct.com/"
+    label: "Official website: marketplace, home care services and founding year (checked 2026-10-30)"
+  - type: "official_website"
+    url: "https://www.sawaaidhct.com/about-us/"
+    label: "Official about page: 2021 founding and care-provider marketplace"
+  - type: "official_website"
+    url: "https://www.sawaaidhct.com/our-services/"
+    label: "Official services: nursing, physiotherapy, doctor visits and occupational therapy"
+  - type: "official_website"
+    url: "https://www.sawaaidhct.com/contact-us/"
+    label: "Official contact: Al Basem 2, Office 201, phone and general email"
+  - type: "linkedin_company"
+    url: "https://jo.linkedin.com/company/sawaaid-for-healthcare-technology"
+    label: "Company LinkedIn: 2-10 employees, Building 257, mobile marketplace and 2026 nurse recruitment"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/healthcare-field-promotion-specialist-at-sawaaid-for-healthcare-technology-4406449521"
+    label: "Company-attributed 2026 field promotion vacancy explicitly encourages fresh graduates"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/operations-client-support-coordinator-at-sawaaid-for-healthcare-technology-4444592892"
+    label: "Company-attributed 2026 operations coordinator role, 2-3 years, Excel/Office"
+  - type: "job_post"
+    url: "https://jordan.mimusjobs.com/job/client-operations-and-customer-support-coordinator/"
+    label: "Third-party posting dated 2026-08-03 with 2026-11-03 claimed deadline; unconfirmed application status"
   - type: "other"
     url: "https://www.cbinsights.com/company/sawaaid"
-    label: "Research source"
+    label: "CB Insights: headquarters address, 2021 founding and Flat6Labs backing"
   - type: "other"
-    url: "https://www.sawaaidhct.com/our-services/"
-    label: "Research source"
+    url: "https://dharab.com/dbentry/sawaaid/"
+    label: "Dharab 2024 profile: Building 257, Amman and service model"
   - type: "other"
-    url: "https://o.parsers.vc/startup/sawaaidhct.com/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://jordantimes.com/news/local/mou-signed-provision-home-healthcare-services-alzheimers-patients"
+    label: "Jordan Times 2023: named founder and home-care partnership"
+verification_status: "partial"
+last_verified: "2026-10-30"
