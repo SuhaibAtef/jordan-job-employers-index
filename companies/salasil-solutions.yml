@@ -1,38 +1,88 @@
 name: "Salasil Solutions"
-industry: "EdTech (e-learning / video learning platform)"
+description: >-
+  Salasil Solutions is a Jordan-origin educational software developer documented
+  since 2015, creating video-based e-learning and digital-content authoring
+  tools for teachers, training providers and corporate users. Its documented
+  products include the Salasil Desktop screen-recording/live-broadcasting tool
+  and the historically promoted bonboon AI-assisted lesson-authoring tool.
+  LinkedIn lists an Amman location and London headquarters, but current Jordan
+  staffing, operating activity and recruitment remain incompletely confirmed.
+verification_status: "partial"
+last_verified: "2026-10-29"
+industry: "Education Technology / E-learning Software and Video Authoring"
 website: "https://www.salasil.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/salasil-solutions"
 hr_email: null
-size: null
+size: "11-50 employees (LinkedIn self-reported company-wide range, reviewed 2026-10-29); Jordan ICT listed 5 staff in 2018, not a current count"
 location:
-  area: "Amman"
-  address: "King Hussein Business Park, King Abdullah II St., Building No. 7, 2nd Floor, Amman, Jordan"
+  area: "King Hussein Business Park / Al Sha'ab Street, Amman"
+  address: "King Hussein Business Park, Building No. 7, 2nd Floor, King Abdullah II Street, Amman, Jordan (2023 directory address; current occupancy unconfirmed)"
   status: "provided_unverified"
-  latitude: 31.9731
-  longitude: 35.835
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9731,35.835"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=King+Hussein+Business+Park+Building+7+Amman+Jordan"
 categories:
   - "edtech"
+  - "web"
 technologies:
-  - "REST API"
+  - "Windows desktop application (Salasil Desktop product platform; programming language and implementation frameworks unverified)"
+  - "Screen/webcam/audio recording and live multi-platform broadcasting (documented Salasil Desktop capabilities, not an audited production stack)"
+  - "AI-assisted educational-content authoring (bonboon/Faheem, company-attributed 2023 posts; underlying model and infrastructure unverified)"
+  - "E-learning portals and video publishing (LinkedIn and Jordan ICT product descriptions; underlying software stack unverified)"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman edtech (est. 2015) building Salasil Desktop, a video-based e-learning/LMS platform with virtual classrooms, gamification and assessments; based at KHBP. stack research 2026-10-07: 4 searches, no employee profiles or dev postings found"
+notes: >-
+  First company-level review 2026-10-29. Jordan ICT's 2018 company profile
+  documents the Jordanian company, 2015 establishment, Salasil Desktop, founder
+  Mouneir Alnouri, CTO Eyad Bader and five employees at that time. The LinkedIn
+  company profile currently states London headquarters, a listed Amman location,
+  2021 founding and 11-50 employees; these differences may reflect a later
+  entity or profile update and are not reconciled. LinkedIn's size is a
+  self-reported company-wide range, not verified Jordan headcount. A company-
+  attributed series of March-June 2023 posts describes bonboon and the Faheem
+  AI assistant; present product availability could not be checked. The company-
+  linked website timed out or was inaccessible at review. JordanYP's
+  owner/directory-validated 2023 listing gives KHBP Building 7, second floor,
+  and a company-attributed social page also identifies Building 7; LinkedIn
+  identifies Al Sha'ab Street in Amman. Exact entrance, current occupancy and
+  the old coordinates 31.9731,35.835 were not independently validated, so the
+  coordinates were removed and the map link is an address search only. Jordan
+  ICT provides general contact info@salasil.com and +962-7-90381908, but no
+  dedicated HR email was established. No employer-attributed accepting vacancy,
+  internship or early-career program was found in the reviewed sources. The
+  former generic REST API technology claim lacked attributable evidence and
+  was removed. Product capabilities do not establish a verified implementation
+  stack, and a listed location does not establish full-company verification.
 evidence:
   - type: "official_website"
     url: "https://www.salasil.com"
-    label: "Official website"
+    label: "Company-linked official domain; timed out/inaccessible during review 2026-10-29; current operation not independently established"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/salasil-solutions"
+    label: "Company profile: e-learning/video authoring, London HQ, Amman listing, 2021 founding and self-reported 11-50 employees; reviewed 2026-10-29"
   - type: "other"
-    url: "https://slashdot.org/software/comparison/Salasil-Desktop-vs-YuJa/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanyp.com/category/E_Learning/city:Amman"
-    label: "Research source"
+    url: "https://jordanict.com/2018/company-profile/salasil-solutions-llc"
+    label: "Jordan ICT 2018 profile: Salasil Desktop, Jordan operation, 2015 founding, five staff and founders; historical"
   - type: "other"
     url: "https://www.jordanyp.com/company/376016/Salasil_Solutions"
-    label: "Research source"
+    label: "JordanYP 2023-09-02 company listing: KHBP Building 7 second floor and published business phones; current occupancy not verified"
+  - type: "other"
+    url: "https://www.schoolandcollegelistings.com/JO/Amman/955329637864670/Salasil-Solutions"
+    label: "Company-attributed 2023 bonboon/Faheem AI content-authoring posts and KHBP Building 7 address; historical"
+  - type: "other"
+    url: "https://www.seedstars.com/community/entrepreneurs/programs/the-migration-entrepreneurship-prize/salasil-solutions-llc/"
+    label: "Seedstars startup profile: Salasil Desktop screen/webcam/audio recording, video authoring and live broadcasting product"
+  - type: "other"
+    url: "https://explorer.hub71.com/companies/salasil_solutions"
+    label: "Dealroom-powered company profile: Salasil Desktop video publishing and Amman location; not proof of current headquarters"
+  - type: "other"
+    url: "https://slashdot.org/software/comparison/Salasil-Desktop-vs-YuJa/"
+    label: "Existing software-comparison reference; third-party product description, not employer recruitment or verified stack"
+  - type: "other"
+    url: "https://jo.linkedin.com/in/m-alnouri"
+    label: "Founder LinkedIn profile associates Salasil with Amman; individual affiliation is not a current staffing audit"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9731,35.835"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=King+Hussein+Business+Park+Building+7+Amman+Jordan"
+    label: "Address-search link for Building 7 only; no verified coordinates or precise office entrance"
