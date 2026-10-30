@@ -7,7 +7,7 @@ description: >-
   security consulting for government and enterprise clients. The company
   lists offices in Amman, Aqaba, Petra and Tafilah.
 verification_status: "partial"
-last_verified: "2026-10-15"
+last_verified: "2026-10-30"
 industry: "Security and Investigations / Physical and Cybersecurity Services"
 website: "https://joeagle.com/"
 careers_url: "https://joeagle.com/careers"
@@ -26,16 +26,25 @@ categories:
   - "security"
 technologies:
   - "Access Control"
+  - "C"
+  - "C#"
+  - ".NET"
   - "CCTV"
   - "Digital Forensics"
   - "IAM"
   - "PAM"
   - "Penetration Testing"
+  - "Linux"
+  - "Python"
   - "Sophos Firewall"
   - "Zero Trust"
+  - "Windows"
 job_seeker:
   early_career_signal: false
-  signals: []
+  signals:
+    - "Company LinkedIn advertised a Software Engineer (C / Systems Developer) role in 2026; current vacancy unconfirmed"
+    - "Company LinkedIn advertised an Electrical / Mechatronics Engineer role requiring 3+ years; current vacancy unconfirmed"
+    - "Official careers page accepts general CV submissions for guarding, technical and cyber roles"
 notes: >-
   Reviewed 2026-10-15. The official contact page, company LinkedIn profile and
   JordanYP listing corroborate the Al-Jandaweel / Umm Matawee Al-Aslameyah
@@ -50,6 +59,23 @@ notes: >-
   this is not confirmed as a general HR mailbox. Official cyber pages advertise
   technologies and vendor partnerships, not a confirmed internal software stack.
   Gallagher Security announced a Jordanian Eagle partnership on 2025-10-16.
+  Rechecked 2026-10-30: the official website, contact and careers pages remain
+  accessible and confirm the Amman head-office address and general contact
+  info@joeagle.com, but no dedicated HR mailbox. LinkedIn still reports
+  51-200 employees, which is a platform band rather than audited headcount.
+  A company LinkedIn post in 2026 advertised a Software Engineer (C / Systems
+  Developer) role requiring advanced C, basic C#/.NET, Linux and Windows
+  command-line use, networking and Python automation. These are job-specific
+  skill requirements, not proof of an internal production stack. The linked
+  recruitment.joeagle.com portal could not be accessed during this review;
+  the current status of that vacancy is unconfirmed. The official careers
+  page accepts general CV applications but does not confirm a live graduate
+  or internship opening. The official manned-guarding page describes a
+  40-hour training program for selected guards, not a graduate scheme.
+  The official address is corroborated, but stored latitude and longitude
+  remain approximate third-party coordinates rather than a surveyed entrance.
+  The website references four named office locations while also stating two
+  offices in summary metrics; no independent reconciliation was available.
 evidence:
   - type: "official_website"
     url: "https://joeagle.com/"
@@ -59,7 +85,7 @@ evidence:
     label: "Official careers application page; general CV submissions"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/joeaglesec"
-    label: "LinkedIn company profile, 51-200 employees and Amman address"
+    label: "LinkedIn company profile, Amman, 51-200 size band and 2026 systems-developer hiring post"
   - type: "other"
     url: "https://joeagle.com/about"
     label: "Official history, office locations and service lines"
@@ -78,6 +104,9 @@ evidence:
   - type: "job_post"
     url: "https://www.linkedin.com/posts/activity-7394252286837035008-LIAf"
     label: "Company recruitment announcement, electrical/mechatronics engineer, 3+ years"
+  - type: "official_website"
+    url: "https://joeagle.com/manned-guarding"
+    label: "Official manned-guarding page describing selected-guard training"
   - type: "other"
     url: "https://jordan.worldplaces.me/review/95581469-jordanian-eagle.html"
     label: "Third-party approximate coordinates; not a verified entrance pin"
