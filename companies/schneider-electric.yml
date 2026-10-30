@@ -1,35 +1,82 @@
 name: "Schneider Electric"
-industry: "Energy management / Industrial automation"
+description: "Schneider Electric is a multinational energy-technology company providing electrical distribution, industrial automation, digital energy management, building and data-centre solutions. Its official Jordan website lists an Amman customer-care office; the company's global portfolio includes EcoStruxure and Modicon control systems."
+industry: "Energy management / Electrical equipment / Industrial automation"
 website: "https://www.se.com/jo/en/"
-careers_url: null
-linkedin: null
+careers_url: "https://careers.se.com/"
+linkedin: "https://www.linkedin.com/company/schneider-electric/"
 hr_email: null
-size: null
+size: "10,001+ employees worldwide (global company LinkedIn, checked 2026-10-30; Jordan headcount not verified)"
 location:
   area: "Amman"
-  address: "Rizeq Rashdan St, Bldg 13, 2nd floor, Shmeisani (behind Housing Bank), Amman, Jordan"
+  address: "Rizeq Rashdan Street, Building 13, 2nd floor, Shmeisani, behind Housing Bank, Amman 11196, Jordan"
   status: "provided_unverified"
-  latitude: 31.962777
-  longitude: 35.844106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.962777,35.844106"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Rizeq+Rashdan+Street+Building+13+Shmeisani+Amman+Jordan"
 categories:
   - "iot"
 technologies:
-  - "PLC/SCADA"
+  - "EcoStruxure energy and industrial automation platform (official global portfolio; Jordan deployment unverified)"
+  - "Modicon PLC/PAC controllers (official product family; not proof of a Jordan office software stack)"
+  - "PLC/SCADA industrial control (official product documentation and historical Jordan engineering vacancies)"
+  - "APC uninterruptible power supply and IT infrastructure products (official Jordan website)"
+  - "Microsoft Office (historical Jordan sales-engineer vacancy requirement; office productivity tool)"
+  - "Microsoft Excel and Project (historical Jordan project-manager vacancy requirements; not production stack)"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "French energy-tech multinational's Jordan office on Rizeq Rashdan St, Shmeisani (electrification, automation, digitalization); active business listing 'Schneider Electric Jordan' confirms this pin and phone +962 6 516 7887; public contact customercare.jo@schneider-electric.com is customer care, not HR."
+  early_career_signal: true
+  signals:
+    - "Global Student Experience 2026: company-run, free, fully online self-paced learning program; official 2026-02-24 announcement says registration open throughout 2026. This is training, not a Jordan internship or employment vacancy."
+    - "Services Lead Engineer - Jordan: historical Amman vacancy (Req 0094LB) referenced at least one year of related experience; LinkedIn now marks applications closed."
+    - "Senior Sales Engineer - Contractors: historical Jordan vacancy (Req 008XYX) required at least six years' experience; LinkedIn now marks applications closed."
+    - "Ecoxperts Sales Manager - Jordan: historical vacancy (Req 009DWI) required at least eight years' experience; LinkedIn now marks applications closed."
+notes: >-
+  Reviewed 2026-10-30. The official Schneider Electric Jordan website lists
+  Rizeq Rashdan Street, Building 13, second floor, Shmeisani, behind Housing
+  Bank, Amman, telephone +962 6 516 7887. This is an official published office
+  address, but independent current occupancy and precise entrance coordinates
+  were not confirmed. Removed prior coordinates 31.962777, 35.844106 because
+  they could not be tied reliably to the published building; retained an
+  address-search map link. Other directory listings show different Amman
+  streets and may be historical or different branches. The company LinkedIn
+  size of 10,001+ is global, not a Jordan staff estimate. No dedicated Jordan
+  HR email or currently accepting Jordan vacancy was independently verified.
+  Historical Jordan vacancies are closed. The Global Student Experience 2026
+  is open to students internationally but is education, not an internship or
+  a guarantee of employment. The official Jordan website's customer-care
+  telephone and historical customercare.jo@schneider-electric.com address
+  are not recruitment contacts. Listed technologies describe the company's
+  products or historical vacancy requirements, not an audited Jordan stack.
 evidence:
   - type: "official_website"
     url: "https://www.se.com/jo/en/"
-    label: "Official website"
+    label: "Official Jordan website: energy solutions, Shmeisani office address and telephone (checked 2026-10-30)"
+  - type: "careers_page"
+    url: "https://careers.se.com/"
+    label: "Official global careers portal; no live Jordan vacancy independently confirmed"
+  - type: "careers_page"
+    url: "https://careers.se.com/early-careers"
+    label: "Official international internships, graduate programs and student development pathways"
+  - type: "official_website"
+    url: "https://blog.se.com/life-at-schneider-electric/2026/02/24/schneider-electric-global-student-experience-2026/"
+    label: "Company blog 2026-02-24: 2026 global student learning program, registration open all year"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/schneider-electric/"
+    label: "Global company profile: 10,001+ worldwide staff and energy/automation portfolio"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/services-lead-engineer-jordan-at-schneider-electric-4114612464"
+    label: "Historical closed Jordan services engineer vacancy; EcoStruxure and experience requirements"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/senior-sales-engineer-contractors-at-schneider-electric-3956229640"
+    label: "Historical closed Jordan sales-engineer vacancy; six years and Microsoft Office"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/ecoxperts-sales-manager-jordan-at-schneider-electric-4236825724"
+    label: "Historical closed Jordan EcoXpert sales vacancy; eight years' experience"
+  - type: "official_website"
+    url: "https://www.se.com/ww/en/work/products/master-ranges/modicon/"
+    label: "Official global Modicon PLC and PAC product range"
+  - type: "official_website"
+    url: "https://www.se.com/ww/en/work/solutions/industrial-automation-solutions/"
+    label: "Official global EcoStruxure automation and SCADA portfolio"
   - type: "other"
     url: "https://www.jordanyp.com/company/330031/Schneider_Electric"
-    label: "Research source"
-  - type: "other"
-    url: "https://meta.ai?place_id=1120345373167025"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.962777,35.844106"
-    label: "Google Maps location"
+    label: "Independent Jordan directory entry; address evidence is subordinate to official Jordan page"
+verification_status: "partial"
+last_verified: "2026-10-30"
