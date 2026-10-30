@@ -1,38 +1,85 @@
-name: "Shabkati Network Solutions"
-industry: "Network solutions / ICT infrastructure"
-website: "https://shabkati.com"
+name: Shabkati Network Solutions
+description: Amman-headquartered network infrastructure and cybersecurity integrator founded in 2012 and part of
+  Distribution Oriented Technologies (DOT) Group. Provides enterprise routing, switching, wireless networks, structured
+  copper/fiber cabling, network security, physical security, collaboration, IoT and consulting services in Jordan,
+  with a stated Saudi Arabia branch.
+industry: IT services / Enterprise networking / Cybersecurity and ICT infrastructure
+website: https://shabkati.com/
 careers_url: null
-linkedin: null
-hr_email: "info@shabkati.com"
-size: "2-10"
+linkedin: https://www.linkedin.com/company/shabkati-network-solutions
+hr_email: null
+size: 11-50 (LinkedIn company-wide range; intaj lists 1-24; Jordan-specific headcount unverified)
 location:
-  area: "Amman"
-  address: "Mecca St., Amman, P.O. Box 18024 Amman 11195"
-  status: "provided_unverified"
-  latitude: 31.975415
-  longitude: 35.862216
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.975415,35.862216"
+  area: Amman, Jordan
+  address: Mecca Street, Amman, Jordan; P.O. Box 18024, Amman 11195 (company-published; building and office not
+    specified)
+  status: provided_unverified
+  latitude: null
+  longitude: null
+  maps_url: https://www.google.com/maps/search/?api=1&query=Shabkati+Network+Solutions+Mecca+Street+Amman+Jordan
 categories:
-  - "security"
-  - "telecom"
+- security
+- telecom
 technologies:
-  - "Cisco"
-  - "EDR/XDR"
-  - "Firewalls"
+- Cisco routing, switching and enterprise networking (official services and Cisco Gold partner claim)
+- Cisco Meraki (official vendor partnership; deployment unverified)
+- Fortinet (official security vendor partnership; deployment unverified)
+- Cisco SD-WAN and SASE (company specialization and 2026 Cisco SD-WAN workshop)
+- Hikvision CCTV and access control (official vendor partnership and physical security services)
+- Teltonika IoT/network devices (official vendor partnership; deployment unverified)
+- Cloudflare (official partner list; no verified internal use)
+- CrowdStrike, Trend Micro and Nozomi Networks (official partner list; not an audited technology stack)
+- Structured copper and fiber cabling (official service offering)
+- Microsoft Excel (required in 2026 Junior PMO advertisement; job skill, not production stack)
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Small ICT infrastructure firm (DOT Group) specializing in networking, security and surveillance for enterprises; no public fresh-grad program found."
+  early_career_signal: true
+  signals:
+  - 2026 company-authored Junior Project Management Officer advertisement in Amman seeks engineering graduates with
+    6-12 months of project coordination/PMO experience and Excel; CVs directed to t.qassas@shabkati.com. Acceptance
+    as of 2026-10-30 unconfirmed.
+  - 2026 company LinkedIn advertisement for a full-time Account Manager in Amman asks for networking/cybersecurity
+    knowledge and sales/account management experience; CVs directed to b.jweihan@shabkati.com. Current acceptance
+    unconfirmed.
+  - Company website offers a general contact form but no dedicated public careers page or standing internship program
+    was verified.
+notes: Reviewed 2026-10-30. Company official website, contact page, intaj directory and LinkedIn corroborate an
+  Amman network/cybersecurity integrator founded in 2012; the company says it is part of DOT Group and maintains
+  a Riyadh branch. LinkedIn reports 11-50 employees, while intaj lists 1-24, with no independently confirmed Jordan-specific
+  headcount. Official address is Mecca Street plus P.O. Box 18024; neither a building number nor entrance coordinates
+  are published. A local business listing corroborates Mecca Street and the company phone +962 6 552 4777, but previous
+  31.975415,35.862216 coordinates cannot be tied reliably to the entrance and were removed. info@shabkati.com is
+  a general contact, not HR. Company-authored LinkedIn hiring posts provide role-specific CV recipients t.qassas@shabkati.com
+  (Junior PMO) and b.jweihan@shabkati.com (Account Manager), but neither is established as a dedicated HR mailbox
+  and the current acceptance window was not independently tested. No standing internship or graduate program was
+  verified. Vendor names are official partnerships and services, not proof of installed client equipment or
+  an internal production software stack.
 evidence:
-  - type: "official_website"
-    url: "https://shabkati.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://tkxel.com/blog/it-companies-in-jordan/"
-    label: "Research source"
-  - type: "other"
-    url: "https://shabkati.com/partners/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.975415,35.862216"
-    label: "Google Maps location"
+- type: official_website
+  url: https://shabkati.com/
+  label: Company overview, Cisco Gold partner claim, DOT Group, network infrastructure and Amman contact
+- type: official_website
+  url: https://shabkati.com/services/
+  label: Networking, automation, collaboration, security, IoT, cabling and low-current services
+- type: official_website
+  url: https://shabkati.com/partners/
+  label: Cisco, Meraki, Fortinet, Hikvision, Teltonika, Cloudflare and security vendor partnerships
+- type: official_website
+  url: https://shabkati.com/contact-us/
+  label: Mecca Street Amman, P.O. Box 18024, telephone and general email
+- type: official_website
+  url: https://shabkati.com/about-us/
+  label: DOT Group and stated Saudi expansion
+- type: linkedin_company
+  url: https://www.linkedin.com/company/shabkati-network-solutions
+  label: Founded 2012, Amman headquarters, 11-50 employees and 2026 Account Manager recruitment
+- type: job_post
+  url: https://www.linkedin.com/posts/shabkati-network-solutions_hiring-juniorpmo-pmo-activity-7502293121293131776-TDlM
+  label: '2026 company-authored Junior PMO vacancy: 6-12 months experience, Excel and CV recipient'
+- type: other
+  url: https://www.intaj.net/network/shabkati-network-solutions
+  label: 'Jordan ICT association company profile: founded 2012, networking and security, phone; different size band'
+- type: google_maps
+  url: https://www.google.com/maps/search/?api=1&query=Shabkati+Network+Solutions+Mecca+Street+Amman+Jordan
+  label: Mecca Street name search only; not independently verified office coordinates
+verification_status: partial
+last_verified: '2026-10-30'
