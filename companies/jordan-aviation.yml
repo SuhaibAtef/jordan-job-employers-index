@@ -73,7 +73,7 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9689,35.8705"
     label: "Approximate address-level map lookup; not exact entrance"
-- type: "careers"
+  - type: "careers"
     url: "https://www.jordanaviation.jo/Careers-"
     label: "Official careers page with embedded application form; reviewed 2026-10-31"
   - type: "other"
