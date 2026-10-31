@@ -1,51 +1,118 @@
 name: "Sprintive"
-industry: "Open-source digital agency (Drupal)"
+description: >-
+  Sprintive is an Amman-based digital transformation and open-source software
+  agency founded in 2016. It builds Drupal-based websites and digital platforms,
+  offers web and mobile application development, UI/UX design, accessibility,
+  website auditing, Drupal consulting and support, and search optimization.
+  Its official site and Drupal.org profile identify it as a Drupal Gold
+  Certified Partner and a subsidiary of Saudi technology company Naseej.
+verification_status: "partial"
+last_verified: "2026-10-31"
+industry: "IT services and consulting / Open-source web and mobile development / Digital transformation"
 website: "https://sprintive.com"
-careers_url: null
-linkedin: null
+careers_url: "https://sprintive.com/jo-en/careers"
+linkedin: "https://www.linkedin.com/company/sprintive"
 hr_email: null
-size: "10-49"
+size: "11-50 employees (LinkedIn company-wide estimate; 2024 Jordan ICT directory reported 31 staff; current Jordan headcount not independently audited)"
 location:
-  area: "Amman"
-  address: "Al Jalal Complex, Suhayb Ben Sinan St., Amman 11181, Jordan"
+  area: "Amman, Jordan"
+  address: "Al Jalal Complex, Suhayb Ben Sinan Street, Amman 11181, Jordan (official contact address)"
   status: "provided_unverified"
+  confidence: "medium"
   latitude: 31.967507
   longitude: 35.905283
+  coordinate_confidence: "low; pre-existing approximate map coordinates, not independently matched to a verified Sprintive office entrance"
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.967507,35.905283"
 categories:
+  - "consulting"
+  - "design"
   - "marketing"
   - "mobile"
   - "web"
 technologies:
-  - "Drupal"
+  - "Drupal (official core development and consulting platform; Drupal.org Gold Certified Partner)"
+  - "Flutter / Dart (2026-10-31 official software engineer vacancy requirements; current production deployments unconfirmed)"
+  - "REST / GraphQL APIs, Firebase, Git (official Flutter vacancy requirements; not a verified company-wide internal stack)"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false
   signals:
-    - "Internship"
-    - "Junior"
-notes: "Amman-HQ open-source agency (est. 2016; Gold Drupal Certified Partner, 44 people per Drupal.org); subsidiary of Saudi open-source firm Naseej since 2020; ships Drupal products SprintHire, Musaed, Sprintive Guard. No public junior/intern program found."
+    - "Official Jordan-region careers page displayed HR Officer, Flutter Developer, Sales Account Manager, Senior Drupal Developer and Senior UX/UI Designer openings when checked 2026-10-31; publication dates and actual application acceptance were not independently verified."
+    - "The official Flutter Developer listing asks for 2-5 years of experience and mentions Dart, Flutter, Drupal API integration, Firebase, Git and REST/GraphQL; it is not a fresh-graduate role."
+    - "A historical LinkedIn IT Project Coordinator vacancy in Amman is marked closed; a bachelor's degree was required and prior Drupal experience was a plus, but it does not establish current entry-level hiring."
+    - "A 2026 LinkedIn company update describes participation in the TechForward university-student project initiative; this is academic collaboration, not evidence of an open internship or graduate recruitment programme."
+    - "No current zero-experience role, dedicated HR email or confirmed open internship was established."
+notes: >-
+  Reviewed 2026-10-31. Official website and Drupal.org identify Sprintive
+  as an Amman-headquartered Drupal-focused digital agency, founded in 2016,
+  offering digital platforms, web/mobile development, UI/UX, Drupal support,
+  accessibility, audits and SEO. The Drupal.org Gold Certified Partner
+  profile and official Naseej investment announcement support its partner
+  and ownership descriptions; the investment dates to 2020. LinkedIn
+  lists 11-50 company-wide employees; Jordan ICT's 2024 company profile
+  reported 31 staff, not a verified 2026 headcount. Sprintive's official
+  contact page gives Al Jalal Complex, Suhayb Ben Sinan Street, Amman,
+  P.O. Box 2894, postal code 11181 and phone +962 6 4642339; Clutch
+  independently repeats the address. Office occupancy and entrance
+  coordinates were not independently geocoded. The existing coordinates
+  31.967507,35.905283 remain approximate, with low coordinate confidence;
+  a coordinate-search Maps link is not proof of a business pin. The
+  company's official careers page displayed several positions on the
+  review date, including a Flutter Developer requiring 2-5 years and
+  a Senior Drupal Developer. The Flutter job description specifically
+  mentions Drupal integrations, REST/GraphQL, Firebase, Dart and Git,
+  but these requirements are not an independently audited production
+  stack. The application form was accessible as a page but submission
+  was not tested; posting dates and role-specific Jordan work locations
+  were not stated. The earlier record's Internship and Junior signals
+  were unsupported by a confirmed opportunity and have been replaced
+  with qualified hiring observations. A LinkedIn post about student
+  project collaboration does not establish a formal internship.
+  The contact page obfuscates its general email, and no dedicated
+  recruitment mailbox was confirmed, so hr_email remains null.
+  Company verification is partial and distinct from location verification.
 evidence:
   - type: "official_website"
-    url: "https://sprintive.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://jordanict.com/company-profile/sprintive"
-    label: "Research source"
+    url: "https://sprintive.com/"
+    label: "Official services, Drupal Gold partner claim and digital agency description; checked 2026-10-31"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/sprintive"
+    label: "Company LinkedIn: Amman headquarters, 2016 founding, 11-50 employee band and 2026 activity"
+  - type: "careers"
+    url: "https://sprintive.com/jo-en/careers"
+    label: "Official Jordan-region careers page with HR, Flutter, sales, senior Drupal and senior design listings; checked 2026-10-31"
+  - type: "job_posting"
+    url: "https://sprintive.com/jo-en/careers/flutterdeveloper"
+    label: "Flutter Developer role: 2-5 years, Dart, Flutter, REST/GraphQL, Firebase, Git and Drupal integration; checked 2026-10-31"
+  - type: "official_website"
+    url: "https://sprintive.com/contact-us"
+    label: "Official Al Jalal Complex address, P.O. Box and +962 6 4642339 telephone"
   - type: "other"
     url: "https://new.drupal.org/sprintive"
-    label: "Research source"
+    label: "Drupal.org organization profile: Gold Certified Partner, Amman headquarters and open-source Drupal services"
   - type: "other"
+    url: "https://jordanict.com/2024/company-profile/sprintive"
+    label: "Jordan ICT 2024 company profile: 2016 establishment, historical 31 staff and service portfolio"
+  - type: "other"
+    url: "https://clutch.co/profile/sprintive"
+    label: "Independent agency profile corroborates Al Jalal Complex and Drupal services; exact pin unverified"
+  - type: "official_website"
+    url: "https://sprintive.com/company/media-center/sprintive%E2%80%99s-new-portal-live"
+    label: "January 2026 official website relaunch announcement, evidence of recent activity"
+  - type: "other"
+    url: "https://jo.linkedin.com/jobs/view/information-technology-project-coordinator-at-sprintive-3845790057"
+    label: "Historical Amman project coordinator listing explicitly closed; not current recruitment"
+  - type: "official_website"
     url: "https://sprintive.com/company/media-center/naseej-investment-sprintive"
-    label: "Research source"
+    label: "Official historical Naseej investment announcement; company relationship evidence"
   - type: "other"
     url: "https://naseej.com/news/2020/03/naseej-invests-in-sprintive-to-further-enhance-its-portfolio-of-digital-transformation-solutions-based-on-leading-open-source-platforms/"
-    label: "Research source"
+    label: "Historical 2020 Naseej investment announcement; not a current hiring signal"
+  - type: "other"
+    url: "https://jordanict.com/company-profile/sprintive"
+    label: "Earlier Jordan ICT company directory reference; historical context only"
   - type: "other"
     url: "https://themanifest.com/jo/web-development/drupal/companies/amman"
-    label: "Research source"
-  - type: "other"
-    url: "https://sprintive.com/contact-us"
-    label: "Research source"
+    label: "Previously recorded third-party Drupal agency directory; not used to establish current hiring"
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.967507,35.905283"
-    label: "Google Maps location"
+    label: "Previously stored approximate coordinates; not independently verified as an office entrance"
