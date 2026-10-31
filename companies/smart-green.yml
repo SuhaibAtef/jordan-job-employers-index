@@ -1,20 +1,28 @@
 name: "Smart Green"
-industry: "AgriTech / Smart Irrigation"
-website: "https://sg-agritech.com"
+description: >-
+  Smart Green for AgriTech Solutions is a Canadian-headquartered agricultural
+  technology company founded in 2020 with an Amman presence and Jordanian farm
+  projects. It develops Fertigo irrigation/fertigation controls, Rootrika
+  root-zone monitoring and SgView/SG-Connect software, combining IoT sensors,
+  field data and AI-supported irrigation decisions.
+verification_status: "partial"
+last_verified: "2026-10-31"
+industry: "AgriTech / Precision Irrigation / IoT"
+website: "https://sg-agritech.com/"
 careers_url: null
-linkedin: null
-hr_email: "info@sg-agritech.com"
-size: null
+linkedin: "https://www.linkedin.com/company/smart-green-for-agritech-solutions"
+hr_email: null
+size: "2-10 (LinkedIn company-wide estimate; Jordan headcount unknown)"
 location:
   area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: "Housing Bank Complex, Queen Nour Street, Amman, Jordan (official contact-page map label; exact office unconfirmed)"
+  status: "provided_unverified"
+  confidence: "low"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
-  - "devops"
   - "iot"
 technologies:
   - "AI/ML"
@@ -22,20 +30,59 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Fertigo smart irrigation/fertigation system using AI, IoT and cloud; launched 2020 in Jordan and Canada by Mohammad Zeinati; active operations across Saudi Arabia, Canada, Spain and Jordan (Jerash and Jordan Valley farms per its own site). No public entry-level hiring page found."
+notes: >-
+  Reviewed 2026-10-31. The official website confirms Fertigo, Rootrika and
+  SgView/SG-Connect systems and says Smart Green operates in Jordan, Canada,
+  Saudi Arabia and Spain. The 2026-07-03 Jordan News Agency (Petra) report
+  independently documents Jordanian engineers Mohammad Zeinati and Salma
+  Amayri, fourth-generation smart irrigation technology and farm projects in
+  the Jordan Valley, Mafraq and Jerash. Company LinkedIn reports founding in
+  2020, a self-reported global size of 2-10, Montreal headquarters and an
+  Amman location; Jordan-specific staffing is not established. The official
+  contact page lists +962 7 8764 0761 and info@sg-agritech.com as general
+  contacts, not HR. It labels a map 'Housing Bank Complex, Queen Nour Street',
+  but that map resolves to a bank branch, not a confirmed Smart Green office
+  entrance. A directory last updated in 2023 instead lists Teiba Commercial
+  Complex, Al Jadah Street; no precise office or coordinates were verified.
+  Removed the unsupported Amman city-centre coordinates and generic map pin.
+  The company's October 2026 C3 Launchpad accelerator selection and recent
+  LinkedIn activity support continued operations, not recruitment. No
+  dedicated careers page, current vacancy, HR email, graduate intake or
+  internal programming-language/framework stack was verified. AI/ML and IoT
+  describe documented product technology, not an audited internal stack;
+  the previous devops category had no supporting evidence. Verification
+  remains partial; location evidence alone does not verify the full company.
 evidence:
   - type: "official_website"
-    url: "https://sg-agritech.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://Www.entrepreneur.com/en-ae/growth-strategies/startup-spotlight-jordan-based-smart-green-is-on-a-mission/463323"
-    label: "Research source"
-  - type: "other"
+    url: "https://sg-agritech.com/"
+    label: "Official website — Fertigo, Rootrika, SgView/SG-Connect and active markets (checked 2026-10-31)"
+  - type: "official_website"
+    url: "https://sg-agritech.com/contact-us/"
+    label: "Official Jordan telephone and general email; Queen Nour Street map label is not an exact company pin"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/smart-green-for-agritech-solutions"
+    label: "Company LinkedIn — 2-10 global size, Montreal HQ, Amman location and recent 2026 updates"
+  - type: "official_website"
     url: "https://sg-agritech.com/smart-irrigation-fertigation-system/"
-    label: "Research source"
+    label: "Official Fertigo smart irrigation and fertigation product description"
+  - type: "other"
+    url: "https://petra.gov.jo/gweb/index.php/ar/news/%D9%85%D9%87%D9%86%D8%AF%D8%B3%D8%A7%D9%86-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A7%D9%86-%D9%8A%D8%B7%D9%88%D8%B1%D8%A7%D9%86-%D8%AC%D9%8A%D9%84%D8%A7-%D8%B1%D8%A7%D8%A8%D8%B9%D8%A7-%D9%85%D9%86-%D8%A3%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D8%AA%D8%B3%D9%85%D9%8A%D8%AF-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9%C2%A0"
+    label: "Jordan News Agency Petra, 2026-07-03 — fourth-generation AI/IoT irrigation and Jordan field projects"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/smart-green-for-agritech-solutions_smartgreen-agritech-precisionagriculture-activity-7507457821949677568-2FmL"
+    label: "October 2026 company C3 Launchpad accelerator announcement; business activity, not hiring"
+  - type: "company_listing"
+    url: "https://www.startupsjo.com/en/Pages/CustomPages/Startup/616"
+    label: "StartupsJo — Jordan company affiliation and general info@sg-agritech.com contact"
+  - type: "company_listing"
+    url: "https://grc-jordan.org/info_card/smart-green-for-agritech-solutions/"
+    label: "Jordan Green Resource Center — Amman presence and general contact number"
+  - type: "company_listing"
+    url: "https://www.jordanyp.com/company/375971/Smart_Green"
+    label: "2023 business listing — conflicting Teiba Commercial Complex address, not confirmed current"
+  - type: "other"
+    url: "https://www.entrepreneur.com/en-ae/growth-strategies/startup-spotlight-jordan-based-smart-green-is-on-a-mission/463323"
+    label: "Historical startup profile — Jordan origin and irrigation business"
   - type: "other"
     url: "https://south.euneighbours.eu/news/emphasis-empowers-4-jordanian-smes-to-forge-open-innovation-partnerships-in-the-mediterranean-region/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Historical regional innovation partnership reference"
