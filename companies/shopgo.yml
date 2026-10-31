@@ -1,10 +1,11 @@
 name: "ShopGo"
-industry: "E-commerce enablement / SaaS"
-website: "https://www.shopgo.me/"
+description: "Jordan-origin e-commerce enablement SaaS platform founded as ShopGo in 2012, subsequently operating under the MakanE name. MakanE offers merchant online-store and mobile-app creation, payment and shipping integrations, and business growth support across MENA; legacy ShopGo and current MakanE headcounts must not be conflated."
+industry: "E-commerce enablement / merchant SaaS"
+website: "https://makane.com/"
 careers_url: null
-linkedin: null
-hr_email: "support@shopgo.me"
-size: "11-50"
+linkedin: "https://www.linkedin.com/company/shopgome1"
+hr_email: null
+size: "Current ShopGo headcount unverified (legacy Crunchbase: 11-50; ShopGo LinkedIn: 501-1,000; MakanE LinkedIn: 201-500)"
 location:
   area: "Amman"
   address: "Building No. 3 B, Yaser Sabaaneh St., Amman, Jordan (P.O. Box 802)"
@@ -15,13 +16,16 @@ location:
 categories:
   - "ecommerce"
   - "web"
+  - "mobile"
 technologies:
   - "Magento"
   - "PHP"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "E-commerce platform (rebranded to Makane) helping MENA merchants build online stores; founded 2012 in Amman; CEO Lubna Taimeh. support@shopgo.me is the publicly listed general contact (no dedicated HR email found). support@shopgo.me kept — publicly listed as contact email (Crunchbase, Wamda, ShopGo GitHub orgs). Tech stack reset to PHP/Magento evidenced by ShopGo's public Magento extension repos; prior items untraceable to sources. No office pin found; GPS remains approximation. GPS VERIFIED 2026-10-04: shopgo.me redirects to makane.com; official contact page lists Jordan office \"Yaser Sabaaneh street, Building No. 3 B - P.O Box 802\". Claimed, owner-managed Google Maps \"MakanE\" listing (109 reviews, owner responses, category E-commerce service) pins 31.948644, 35.8600017 on the same street; arageek independently lists makane.com at Yaser Sabaaneh St., Amman 11198. Legacy JordanYP \"King Faisal Bin Abdulaziz St.\" address and older KHBP directory entries superseded by the company-stated current address. | stack verified 2026-10-06: Magento platform confirmed by sme10x + Wellfound company profiles; ShopGo's own Magento shipping modules on GitHub (shopgo-me)"
+  signals:
+    - "MakanE's 2021 recruitment campaign advertised sales, account-management and software-engineering roles via careers@mawdoo3.com; historical only, not a current vacancy or verified ShopGo HR contact."
+    - "No currently open Jordan role, early-career intake, company-operated careers page, or dedicated HR email independently confirmed on 2026-10-31."
+notes: "Reviewed 2026-10-31. ShopGo's original Jordan e-commerce enablement business dates to 2012; CB Insights and other industry profiles identify MakanE as its successor/formerly ShopGo. The active MakanE official website describes online-store and mobile-app builders, payments/shipping integrations and merchant support; ShopGo's legacy shopgo.me URL was not independently accessible on this review. MakanE's own office page gives Yaser Sabaaneh Street, Building 3 B, P.O. Box 802, Amman; the existing Google Maps business listing pin at 31.948644,35.8600017 is retained from prior evidence, but entrance precision is not surveyed. Location verification does not mean the entire company is verified. Legacy ShopGo LinkedIn lists Riyadh and 501-1,000 employees, while MakanE LinkedIn lists Amman and 201-500; Crunchbase's historical ShopGo band is 11-50. These are conflicting, differently scoped estimates, not an established present-day Jordan headcount. support@shopgo.me is an older general support contact and support@makane.com is a current official general support contact, neither a dedicated HR email. ShopGo-branded public GitHub Magento extensions (2015-2016, PHP) support historical Magento/PHP experience only; they do not prove the current MakanE production stack. A 2021 MakanE hiring post used careers@mawdoo3.com; it is historical, not proof of current hiring or a valid present-day application address. No active job or graduate program verified. Company record remains partial because legacy/successor entity boundaries, current ShopGo staffing, HR channel, vacancies and internal stack are unresolved."
 evidence:
   - type: "official_website"
     url: "https://www.shopgo.me/"
@@ -62,3 +66,23 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.948644,35.8600017"
     label: "Google Maps location"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/shopgome1"
+    label: "Legacy ShopGo company profile: founded 2012, Riyadh HQ, LinkedIn 501-1,000 size estimate (checked 2026-10-31); not equivalent to MakanE headcount"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/makanedotcom1"
+    label: "MakanE company profile: Amman HQ, founded 2020, LinkedIn 201-500 size estimate, merchant web/mobile commerce products (checked 2026-10-31)"
+  - type: "official_website"
+    url: "https://makane.com/sa-en/about-us"
+    label: "MakanE official current office directory: Yaser Sabaaneh Street, Building 3 B, P.O. Box 802, Amman and general support@makane.com (checked 2026-10-31)"
+  - type: "official_website"
+    url: "https://makane.com/en"
+    label: "MakanE official active merchant SaaS site: online stores, mobile apps, payment integrations and consulting (checked 2026-10-31)"
+  - type: "other"
+    url: "https://www.cbinsights.com/company/shopgo"
+    label: "Industry profile explicitly identifies MakanE as formerly ShopGo, established 2012; historical King Hussein Business Park address differs from current official office"
+  - type: "job_post"
+    url: "https://ae.linkedin.com/posts/mohjaber_500-job-opportunities-in-jordan-for-makane-activity-6819539248434176000-vyCy"
+    label: "2021 MakanE recruitment campaign for sales, account managers and software engineers; historical, not a current opening or verified HR contact"
+verification_status: "partial"
+last_verified: "2026-10-31"
