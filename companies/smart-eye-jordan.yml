@@ -1,32 +1,103 @@
 name: "Smart Eye (Jordan)"
-industry: "IoT / Energy & Water Management"
+description: >-
+  SmartEye (also branded SmartEye-NeuroTech) is a Jordan-based technology
+  company founded in 2018 that develops AI- and IoT-enabled energy and water
+  monitoring, efficiency, renewable-energy and low-current systems for
+  organizations and facilities. Its services include consumption analytics,
+  smart controls, leak detection and digital transformation.
+verification_status: "partial"
+last_verified: "2026-10-31"
+industry: "ClimateTech / IoT / AI-enabled Energy & Water Management"
 website: "https://smarteyeglobal.com/"
 careers_url: null
-linkedin: null
-hr_email: "info@smarteyeglobal.com"
-size: null
+linkedin: "https://www.linkedin.com/company/neurotech-smarteye"
+hr_email: "jobs@smarteyeglobal.com"
+size: "11-50 employees (LinkedIn company-wide estimate; official 2022-era About page describes a team of six; current headcount not independently verified)"
 location:
   area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.95672
-  longitude: 35.92519
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+  address: "Office No. 111, Building No. 7, King Hussein Complex for Business, Amman, Jordan (officially published; entrance not independently geocoded)"
+  status: "provided_unverified"
+  confidence: "medium"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "iot"
+  - "ai"
+  - "web"
 technologies:
-  - "IoT"
+  - "IoT sensors and smart controls (official product capability)"
+  - "AI / analytics (official product capability)"
+  - "React / TypeScript (2026 closed full-stack vacancy requirement; deployment unconfirmed)"
+  - "ASP.NET Core / C# (2026 closed full-stack vacancy requirement; deployment unconfirmed)"
+  - "MQTT / REST APIs (2026 closed full-stack vacancy requirements; deployment unconfirmed)"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Jordan-based IoT integrator for energy and water management (AI-powered smart devices, renewables); info@smarteyeglobal.com confirmed on site; Orange Social Venture competition finalist; SmartEye Group page links smartwti.com (sister company)."
+  signals:
+    - "Company LinkedIn advertised a Full-Stack Developer (React/TypeScript/.NET Core) role in Amman requiring 3-5 years of experience; listing is closed as checked 2026-10-31."
+    - "Company LinkedIn advertised AI Specialist and business development roles in Amman; listings are closed and do not establish current vacancies."
+    - "jobs@smarteyeglobal.com appeared in company-authored recruitment advertisements; current mailbox acceptance was not tested."
+    - "No active graduate intake, internship, dedicated careers portal or currently accepting vacancy confirmed on 2026-10-31."
+notes: >-
+  Reviewed 2026-10-31. The official SmartEye website describes Jordan-based
+  AI/IoT solutions for energy management, water monitoring, renewable energy,
+  digital transformation and low-current systems. Its contact page lists
+  Office No. 111, Building No. 7, King Hussein Complex for Business, Amman,
+  phone +962 79 672 1321 and general email info@smarteyeglobal.com. The
+  related Neurotech site independently repeats the address and phone, but
+  neither confirms the exact office entrance; the previous 31.95672,35.92519
+  city-centre pin and generic Maps search were unsupported and removed.
+  SmartEye-NeuroTech's company LinkedIn links to smarteyeglobal.com, identifies
+  Amman headquarters, founding in 2018 and a self-reported 11-50 employees;
+  the older official About page describes six founding team members, not a
+  verified current workforce count. StartupsJo corroborates founder Omar
+  Asa'd and the Jordan energy-management focus. The LinkedIn company feed
+  includes 2026 product activity and recognition by the British Design Fund
+  / Royal Academy of Engineering programme, supporting continuing operations.
+  LinkedIn recruitment posts include an Amman full-stack role requesting
+  React/TypeScript, ASP.NET Core/C#, MQTT and REST APIs, plus AI and business
+  roles. These listings were closed at review; their skill requirements do
+  not establish the deployed internal engineering stack. The published
+  jobs@smarteyeglobal.com recruitment mailbox is historical and its current
+  responsiveness is unverified. No active vacancies or graduate programme
+  were established. SmartWTI is a related group venture but has a separate
+  employer record and is not treated as identical to SmartEye. Verification
+  remains partial: published office details do not establish a precise
+  geolocation or full-company verification.
 evidence:
   - type: "official_website"
     url: "https://smarteyeglobal.com/"
-    label: "Official website"
+    label: "Official company website: Jordan-based AI/IoT energy and water solutions; checked 2026-10-31"
+  - type: "official_website"
+    url: "https://smarteyeglobal.com/contact/"
+    label: "Official office 111, building 7, King Hussein Business Complex; general email and phone"
+  - type: "official_website"
+    url: "https://smarteyeglobal.com/solutions/"
+    label: "Official descriptions of energy, water, green-energy, low-current and digital solutions"
+  - type: "official_website"
+    url: "https://smarteyeglobal.com/about/"
+    label: "Official 2018 founding and historical six-person team description; not current headcount"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/neurotech-smarteye"
+    label: "SmartEye-NeuroTech company profile: official domain, Amman HQ, 2018 founding, 11-50 size and 2026 activity"
+  - type: "company_listing"
+    url: "https://www.startupsjo.com/en/Pages/CustomPages/Startup/9902"
+    label: "StartupsJo SmartEye listing: Omar Asa'd, phone, Jordan HQ and AI/IoT energy sector"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/full-stack-developer-react-typescript-net-core-at-smarteye-neurotech-4358072282"
+    label: "Closed Amman full-stack posting: 3-5 years; React, TypeScript, ASP.NET Core, MQTT, REST"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/ai-specialist-operational-ai-smart-systems-at-smarteye-neurotech-4259852012"
+    label: "Closed Amman AI Specialist posting; jobs@smarteyeglobal.com recruitment address"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/business-development-b2b-sales-specialist-at-smarteye-neurotech-4263989143"
+    label: "Closed business development posting; 3-5+ years and company recruitment email"
+  - type: "other"
+    url: "https://neurotechjo.com/contact-light/"
+    label: "Related Neurotech website corroborates office 111/building 7 and telephone"
   - type: "other"
     url: "https://orange.jo/en/corporate/csr/competition"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
-    label: "Google Maps location"
+    label: "Orange Jordan Social Venture competition lists Smart Eye as energy-management finalist"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/activity-7493275158003085313-M-Pd"
+    label: "2026 LIF Alumni Jordan post recognizing SmartEye-NeuroTech in British Design Fund programme"
