@@ -1,46 +1,85 @@
 name: "SP-Apps (Starting Point Apps)"
-industry: "Mobile app development / digital studio"
+description: >-
+  SP-Apps (Starting Point Apps) is an Amman-based software studio founded in
+  2011. It designs and develops Android and iOS applications, games, websites,
+  and UI/UX experiences for clients, and offers mobile-app consulting and
+  application porting. Its website published project and company news in 2026.
+industry: "IT services and consulting / mobile and web software development"
 website: "https://sp-apps.com"
-careers_url: "https://sp-apps.com/careers"
+careers_url: "https://sp-apps.com/careers/"
 linkedin: "https://www.linkedin.com/company/sp-apps/"
-hr_email: "info@sp-apps.com"
-size: "10-49"
+hr_email: null
+size: "2-10 employees (LinkedIn company estimate; not independently audited)"
 location:
-  area: "Amman"
-  address: "Al-Dalahma Complex, Khalda-Dabouq, King Abdullah II Street, Amman, Jordan (PO Box 925946 Code: 11190)"
-  status: "approximate"
-  latitude: 31.99792
-  longitude: 35.83011
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99792,35.83011"
+  area: "Amman (Khalda-Dabouq)"
+  address: "Al-Dalahma Complex, Khalda-Dabouq, King Abdullah II Street, Amman, Jordan (PO Box 925946, 11190)"
+  status: "provided_unverified"
+  latitude: 31.998468
+  longitude: 35.8306499
+  coordinate_confidence: "low; approximate center of the company's embedded Google map, not an independently verified office entrance"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.998468,35.8306499"
 categories:
-  - "data"
+  - "design"
   - "mobile"
   - "web"
 technologies:
   - "Android"
   - "Flutter"
   - "iOS"
+  - "Laravel"
   - "PHP"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman mobile development firm (est. 2011) building Android/iOS apps, games and web platforms for clients including Samsung, Government of Dubai and UNRWA; footer email info@sp-apps.com, LinkedIn and a dedicated Careers page (showing 0 openings at last check)."
+  early_career_signal: true
+  signals:
+    - "Historical paid Flutter developer internship in Amman for students or recent computer-science graduates; LinkedIn states applications are no longer accepted."
+    - "Historical paid Laravel internship in Khalda, Amman; LinkedIn states applications are no longer accepted."
+    - "Official careers page showed zero published jobs on 2026-10-31; no current vacancy or graduate intake confirmed."
+notes: >-
+  Reviewed 2026-10-31. Official site and services pages confirm mobile (Android/iOS),
+  web, game and UI/UX work; the September 19, 2026 website news item supports
+  recent project activity, not current hiring. LinkedIn lists 2-10 employees,
+  while the former 10-49 size figure was not corroborated. Official contact
+  page publishes the Al-Dalahma Complex address in Khalda-Dabouq and general
+  email info@sp-apps.com (+962796015420); no dedicated HR mailbox was found,
+  so hr_email is null. LinkedIn still lists Al-Rabiah as its primary location;
+  the discrepancy and exact office entrance remain unresolved. The coordinates
+  are an approximate center from the Google map embedded on the official
+  contact page, not verified building or entrance coordinates. Android and iOS
+  are company-advertised delivery platforms; Flutter and PHP/Laravel are
+  evidenced by historical internship requirements, not a verified current
+  production stack. LinkedIn's closed Flutter and Laravel internships show
+  historical early-career recruitment, but the official careers page displayed
+  zero jobs at review; no open position was established.
+verification_status: "partial"
+last_verified: "2026-10-31"
 evidence:
   - type: "official_website"
-    url: "https://sp-apps.com"
-    label: "Official website"
+    url: "https://sp-apps.com/"
+    label: "Official site, company services and 2026 project updates (reviewed 2026-10-31)"
+  - type: "official_website"
+    url: "https://sp-apps.com/about-us"
+    label: "Official about page: founding year, Amman and mobile development"
+  - type: "official_website"
+    url: "https://sp-apps.com/services"
+    label: "Official services: mobile, web, games, UI/UX and consulting"
+  - type: "official_website"
+    url: "https://sp-apps.com/contact"
+    label: "Official Khalda-Dabouq address, general email, phone and embedded map"
   - type: "careers"
-    url: "https://sp-apps.com/careers"
-    label: "Careers / application page"
+    url: "https://sp-apps.com/careers/"
+    label: "Official careers page: zero jobs shown on 2026-10-31"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/sp-apps/"
-    label: "LinkedIn company page"
+    label: "Company LinkedIn: 2-10 employees, Amman, alternate Al-Rabiah location"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/fresh-flutter-developer-paid-internship-at-sp-apps-starting-point-4267152161"
+    label: "Historical paid Flutter internship; applications closed"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/laravel-paid-internship-at-sp-apps-starting-point-3845324834"
+    label: "Historical paid PHP/Laravel internship; applications closed"
   - type: "other"
-    url: "https://sp-apps.com/terms-and-conditions"
-    label: "Research source"
+    url: "https://sp-apps.com/en/articles-and-news"
+    label: "Official 2026 company news, including September 19 project announcement"
   - type: "other"
     url: "https://themanifest.com/jo/app-development/companies/amman"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.99792,35.83011"
-    label: "Google Maps location"
+    label: "Existing third-party mobile development directory (not proof of current hiring)"
