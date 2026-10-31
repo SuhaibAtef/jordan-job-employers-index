@@ -1,38 +1,116 @@
 name: "SquareOne Technologies"
-industry: "IT services / Digital transformation"
+description: >-
+  SquareOne Technologies is a Dubai-headquartered IT services and digital
+  transformation company founded in 2008, with a documented office in Amman,
+  Jordan. Its services include robotic process automation, enterprise content
+  and document management, data integration and analytics, artificial
+  intelligence, business process management, low-code applications, and
+  enterprise technology consulting. Its official website lists regional
+  partnerships with Microsoft, Automation Anywhere, Hyland, Qlik and Kore.ai.
+verification_status: "partial"
+last_verified: "2026-10-31"
+industry: "IT services and consulting / Digital transformation / Enterprise automation and data analytics"
 website: "https://www.squareonemea.com"
-careers_url: null
-linkedin: null
-hr_email: null
-size: "51-200"
+careers_url: "https://www.squareonemea.com/careers/"
+linkedin: "https://www.linkedin.com/company/squareone-technologies/"
+hr_email: "careers@squareonemea.com"
+size: "201-500 employees (LinkedIn company-wide band; Jordan office headcount not independently established)"
 location:
-  area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.9518
-  longitude: 35.94042
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+  area: "Khalda, Amman, Jordan"
+  address: "Al Hayat Complex, Building 257, 4th Floor, Office 402, Wasfi Al Tal Street, Khalda, Amman, Jordan (official contact page)"
+  status: "provided_unverified"
+  confidence: "high for published office address (official site, LinkedIn and Craft); current physical occupancy not independently checked"
+  latitude: 31.9927321
+  longitude: 35.8631268
+  coordinate_confidence: "medium; business-place pin linked directly from official contact page, not independently surveyed office entrance"
+  maps_url: "https://www.google.com/maps/place/Square+One+Technologies/@31.9927321,35.8631268,17z"
 categories:
   - "ai"
   - "consulting"
   - "data"
 technologies:
-  - "Data & AI"
-  - "RPA"
+  - "Robotic process automation: Automation Anywhere and Microsoft Power Automate (official partner/service offerings)"
+  - "UiPath (historical Amman RPA Developer vacancy; not proof of current internal deployments)"
+  - "Microsoft Power Platform: Power Apps, Power Automate and Power BI (official partner offerings and historical Amman hiring)"
+  - "Hyland / OnBase / Alfresco, Qlik and Kore.ai (official enterprise content, analytics and conversational AI partnerships)"
+  - "Java, Spring Boot, JPA/Hibernate and Oracle/MySQL (Jordan senior developer recruitment requirements; production stack unverified)"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Dubai-based digital transformation firm (51-200 staff) with employees in Jordan/Amman; hiring RPA Technical Lead in Amman; focuses on automation, data & AI and intelligent content services. No public Jordan office address found — kept on employee/hiring presence. stack research 2026-10-06: 5 searches; employee profile (RPA consultant, Automation Anywhere-certified since 2020) + partner page (Hyland sell partner, Qlik, Kore.ai, Microsoft low-code) confirm vendor stack, but none map to canonical tags; tags unchanged."
+  signals:
+    - "The official careers page links to a Zoho Recruit portal displaying Jordan Senior Java Developer and Team Lead Automation roles on 2026-10-31, but their listed opening dates are 2023-10-20 and 2022-06-01 respectively; current application acceptance was not tested."
+    - "Third-party Dr.Job pages republished Senior Java Developer and Team Lead Automation listings on 2026-09-11 with a 2026-12-10 application deadline; these may be recycled from the older official portal and should not be treated as independently confirmed new vacancies."
+    - "A historical Amman Power Platform Developer LinkedIn listing sought 0-1 year of experience and mentioned C#/.NET, Power Apps, Power Automate and Power BI; LinkedIn explicitly marks applications closed."
+    - "Official contact page explicitly invites CVs to careers@squareonemea.com; this is a recruitment mailbox, not confirmation of a specific open role."
+    - "No currently confirmed fresh-graduate or internship vacancy in Jordan was established."
+notes: >-
+  Reviewed 2026-10-31. SquareOne's official website, contact page and LinkedIn
+  corroborate the company, its Dubai headquarters and its Amman branch. The
+  official Amman address is Khalda, Wasfi Al Tal Street, Al Hayat Complex,
+  Building 257, fourth floor, Office 402; the phone is +962 6 5542091.
+  LinkedIn and Craft independently reproduce the address. The original
+  31.9518,35.94042 city-centre coordinates were inconsistent with Khalda
+  and replaced with 31.9927321,35.8631268 from the Google Maps business
+  place link supplied by SquareOne's own contact page. This is a linked
+  business pin, not a surveyed office entrance or proof of occupancy;
+  location status remains provided_unverified. LinkedIn gives 201-500
+  company-wide employees and 2008 founding, superseding the unsupported
+  51-200 estimate; Jordan-specific headcount is unknown. The official
+  careers page links to a Zoho Recruit portal with two Jordan positions,
+  Senior Java Developer (opened 2023-10-20) and Team Lead Automation
+  (opened 2022-06-01). Third-party Dr.Job copies claim September 2026
+  posting and December 2026 deadlines, but their freshness conflicts with
+  the older official opening dates. A junior Power Platform vacancy asking
+  for 0-1 years was found on LinkedIn but is closed. The official careers
+  contact careers@squareonemea.com is supported. Technology descriptions
+  reflect public partner offerings and historical role requirements,
+  not a verified internal production stack. September 2026 official news
+  supports regional activity, not a current Amman hiring commitment.
+  Earlier generic job-directory and LeadIQ sources are retained only as
+  historical research context. Company verification remains partial,
+  independent of location confidence.
 evidence:
   - type: "official_website"
-    url: "https://www.squareonemea.com"
-    label: "Official website"
+    url: "https://www.squareonemea.com/"
+    label: "Official enterprise digital transformation, content, data, process and AI services; checked 2026-10-31"
+  - type: "official_website"
+    url: "https://www.squareonemea.com/contact-us/"
+    label: "Official Amman office address and phone, careers@squareonemea.com, and Google Maps direction link; checked 2026-10-31"
+  - type: "careers"
+    url: "https://www.squareonemea.com/careers/"
+    label: "Official careers page linking to Zoho Recruit and inviting applications; checked 2026-10-31"
+  - type: "careers"
+    url: "https://squareonemea.zohorecruit.com/recruit/Portal.na?digest=AfCa1xS0LnK6wFfXINiCtHGAUnkE7bVo.a85bxdBEmQ-"
+    label: "Official linked Zoho job portal: Jordan Senior Java Developer opened 2023-10-20 and Team Lead Automation opened 2022-06-01; checked 2026-10-31"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/squareone-technologies/"
+    label: "LinkedIn: Dubai headquarters, 2008 founding, 201-500 company-wide employees, and Amman office address"
+  - type: "other"
+    url: "https://craft.co/squareone-technologies/locations"
+    label: "Independent company-office directory corroborates Khalda, Al Hayat Complex, Building 257, Office 402"
+  - type: "google_maps"
+    url: "https://www.google.com/maps/place/Square+One+Technologies/@31.9927321,35.8631268,17z"
+    label: "Official contact-page business-place directions pin; approximate coordinates, not independently verified office entrance"
+  - type: "official_website"
+    url: "https://www.squareonemea.com/partners/"
+    label: "Official partner list: Microsoft, Automation Anywhere, Hyland, Qlik and Kore.ai"
+  - type: "official_website"
+    url: "https://www.squareonemea.com/blogs/squareone-technologies-at-leap-2026/"
+    label: "September 3, 2026 official account of participation in LEAP with Qlik and Hyland; regional activity evidence"
+  - type: "job_posting"
+    url: "https://jo.linkedin.com/jobs/view/power-platform-developer-at-squareone-technologies-4058275328"
+    label: "Historical Amman 0-1 year Power Platform Developer listing, explicitly closed; not a current graduate opening"
+  - type: "job_posting"
+    url: "https://www.drjobpro.com/jordan/jobs/senior-java-developer-amman-squareone-technologies-MTXLDF273P0I4NG"
+    label: "Third-party Senior Java listing with September 2026 repost date; official Zoho role opened in 2023"
+  - type: "job_posting"
+    url: "https://www.drjobpro.com/jordan/jobs/team-lead-automation-amman-squareone-technologies-MTXLDI8H3PCTHK1"
+    label: "Third-party Automation Lead listing with September 2026 repost date; official Zoho role opened in 2022"
+  - type: "job_posting"
+    url: "https://jo.linkedin.com/jobs/view/rpa-developer-uipath-at-squareone-technologies-2565604088"
+    label: "Closed historical Amman UiPath RPA Developer advertisement; technology context only"
   - type: "other"
     url: "https://www.drjobpro.com/jordan/software-systems-jobs-in-amman?page=4"
-    label: "Research source"
+    label: "Previously recorded generic Amman job-search directory; historical research only, not a current company-specific vacancy"
   - type: "other"
     url: "https://leadiq.com/c/squareone-technologies/5a1d8afb240000240065ac87"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
-    label: "Google Maps location"
+    label: "Previously recorded company-directory research source; not relied on for current address, headcount or hiring"
