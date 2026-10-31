@@ -1,45 +1,93 @@
 name: "Software Consultancy"
-industry: "Oracle Cloud consulting"
-website: "http://www.sc.com.jo"
+description: >-
+  Software Consultancy (SC) is an Amman-headquartered, privately held Oracle
+  Fusion Cloud implementation and consulting company founded in 2016. It
+  provides ERP, supply-chain, finance, HCM and customer-experience consulting,
+  implementation, integration and managed support services. Its company
+  LinkedIn page documents 2026 recruitment for Oracle Fusion consultants and
+  historical graduate and internship opportunities.
+verification_status: "partial"
+last_verified: "2026-10-31"
+industry: "Oracle Fusion Cloud ERP / HCM / SCM consulting and software services"
+website: "https://www.sc.com.jo/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/software-consultancy-sc.com.jo-"
 hr_email: "careers@sc.com.jo"
-size: "6-10"
+size: "11-50 employees (LinkedIn company-reported band; exact current headcount and Jordan staffing unverified)"
 location:
-  area: "Amman"
-  address: "Queen Rania St 351, 5th floor, Marar Commercial Complex, Amman, Jordan"
+  area: "Amman, Jordan"
+  address: "Queen Rania Street 351, 5th floor, Marar Commercial Complex, Amman, Jordan (business-directory listing; current office occupancy unconfirmed)"
   status: "provided_unverified"
+  confidence: "low"
   latitude: 32.022833
   longitude: 35.85961
   maps_url: "https://www.google.com/maps/search/?api=1&query=32.022833,35.85961"
 categories:
   - "consulting"
-  - "devops"
   - "erp"
+  - "data"
 technologies:
-  - "Oracle Cloud"
-  - "Oracle Fusion"
+  - "Oracle Fusion Cloud ERP / HCM / SCM / CX (consulting and implementation services, not an independently audited internal stack)"
+  - "SQL / PL/SQL, Oracle BI Publisher, OTBI, OIC and Visual Builder (requirements in a 2026 Oracle Technical Consultant recruitment post; production usage unverified)"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-notes: "Oracle Gold Partner (est. 2015/16, Amman); implements Oracle Fusion Cloud ERP/CRM/HCM/SCM; holds 4 Oracle Cloud expertise certs (int@j). Previously listed at Zahran Street, Jawheret Al Swifeih Complex (Sweifieh) per owner-verified JordanYP listing (2017). No internship program found."
+    - "2026 LinkedIn company posts advertised Senior Oracle Fusion SCM Consultant (3+ years), Oracle Cloud Finance Consultant (1 year), and Oracle Fusion SCM Consultant (1-3 years), directing CVs to careers@sc.com.jo. Posts were visible 2026-10-31; whether applications remain open was not confirmed."
+    - "A 2026 Oracle Technical Consultant - Reporting & Integration post accepted fresh graduates with 0-1 year of experience or relevant academic projects, alongside mid-level applicants; listed SQL/PLSQL, BI Publisher, OTBI, OIC and Oracle Visual Builder. Current availability not established."
+    - "An early-2026 remote internship for recent Jordanian graduates in technical, engineering and business fields offered up to three months of Oracle Cloud ERP/HCM training; the LinkedIn job page explicitly says applications are no longer accepted."
+    - "A 2026 Junior Internal Auditor recruitment post welcomed industrial engineering graduates with 0-2 years of experience; current opening status not established."
+notes: >-
+  Reviewed 2026-10-31. The company's LinkedIn profile identifies the official
+  sc.com.jo domain, 2016 founding, Amman headquarters and an 11-50 employee
+  size band; the band is not a verified present-day headcount. Recent company
+  posts describe a new brand identity, Oracle Fusion implementations, managed
+  support and 2026 Oracle consultancy recruitment. The official domain
+  responded at https://www.sc.com.jo/ but its current content could not be
+  fully extracted for a contact or careers-page audit; no dedicated careers
+  portal was confirmed. The recruiting email careers@sc.com.jo is supported
+  by the company's own LinkedIn hiring posts. A 2026 internship posting
+  demonstrates a real early-career program but is explicitly closed; the
+  separate fresh/mid-level technical consultant post has no confirmed active
+  application status. The 351 Queen Rania Street, fifth-floor Marar Commercial
+  Complex address and near-identical coordinates are reported by two business
+  directories, while LinkedIn lists both Queen Rania Street and Zahran Street
+  without an office number. Retained coordinates are an approximate
+  directory-derived map point, NOT an independently verified entrance or
+  confirmed current office; location confidence is low. A 2017 JordanYP
+  listing separately mentioned a Sweifieh address, so historical location
+  differences remain unresolved. Oracle Cloud technologies are supported as
+  delivered services and job requirements, not as a verified internal
+  production stack. Historical Oracle Cloud expertise certifications were
+  reported by int@j; their present validity was not independently checked.
+  Company verification remains partial and separate from location status.
 evidence:
   - type: "official_website"
     url: "http://www.sc.com.jo"
-    label: "Official website"
+    label: "Original company website URL retained from record; HTTPS site reachable 2026-10-31 but current contact details not extractable"
   - type: "other"
     url: "https://www.g2.com/products/oracle-ebs-projects/implementation?order=g2_score&page=12"
-    label: "Research source"
+    label: "Previously recorded G2 implementation listing (historical, not independent proof of current service scope)"
   - type: "other"
     url: "https://intaj.net/software-consultancy-obtained-4-oracle-cloud-expertise-certifications-in-erp-hcm-scm-platform-integration/"
-    label: "Research source"
+    label: "Historical int@j report on four Oracle Cloud expertise certifications"
   - type: "other"
     url: "https://www.jordanyp.com/company/374643/SoftwareConsultancy"
-    label: "Research source"
+    label: "Historical JordanYP business listing; earlier Sweifieh address"
   - type: "other"
     url: "https://www.linkedin.com/posts/software-consultancy-sc.com.jo-_telesales-open-vacancy-software-consultancy-activity-6310794465959378944-818i"
-    label: "Research source"
+    label: "Historical telesales vacancy retained from original record"
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=32.022833,35.85961"
-    label: "Google Maps location"
+    label: "Approximate directory-derived Queen Rania Street map point, not independently verified office entrance"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/software-consultancy-sc.com.jo-"
+    label: "Company LinkedIn: 2016 founding, Amman HQ, 11-50 band, Oracle services and 2026 hiring posts including CV email"
+  - type: "job_posting"
+    url: "https://jo.linkedin.com/jobs/view/internship-opportunity-at-software-consultancy-sc-com-jo-4359833347"
+    label: "Early-2026 recent-graduate Oracle Cloud internship, up to three months remote; applications explicitly closed by 2026-10-31"
+  - type: "other"
+    url: "https://www.bizmideast.com/JO/software-consultancy_14-06-581-4882"
+    label: "Business directory: Queen Rania Street 351, Marar Complex, fifth floor, contact details"
+  - type: "other"
+    url: "https://www.courierslist.com/detail/jordan/amman/warehouse-management-software/1828425/software-consultancy"
+    label: "Second directory: same Queen Rania Street address and approximate coordinates (32.0227511, 35.8595193)"
