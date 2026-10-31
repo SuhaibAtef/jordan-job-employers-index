@@ -1,45 +1,52 @@
 name: "Sustainability Computing LLC"
-industry: "IT services, hosting & cloud"
+description: "Amman-based IT services provider advertising domain registration, networking, web and email hosting, virtualization, cybersecurity assessments, VoIP, and Odoo/ERPNext implementation. The available service and staffing details come chiefly from a business-directory profile last updated in December 2022; current operations have not been independently confirmed."
+industry: "IT services, hosting, networking and cybersecurity"
 website: "https://www.alestidama.com"
 careers_url: null
 linkedin: null
-hr_email: "sales@alestidama.com"
+hr_email: null
 size: null
 location:
   area: "Amman"
-  address: "198 Madina Monawara Street, Khazindar Complex, Office 302, P.O. Box 744, Amman 11831, Jordan"
+  address: "198 Madina Monawara Street, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.98794
-  longitude: 35.86711
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.98794,35.86711"
+  latitude: 31.987801
+  longitude: 35.867205
+  maps_url: "https://www.google.com/maps/search/?api=1&query=31.987801,35.867205"
 categories:
   - "consulting"
   - "devops"
   - "erp"
+  - "security"
   - "support"
   - "telecom"
 technologies:
+  - "3CX"
+  - "ERPNext"
+  - "FreePBX"
+  - "Hyper-V"
+  - "MailEnable"
+  - "Microsoft Exchange"
+  - "Nextcloud"
   - "Odoo"
   - "VMware"
   - "VoIP"
-  - "VPS Hosting"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman IT firm (est. 2013) providing web/email/VM hosting on its own on-premises servers, private cloud storage, virtualization, VoIP and open-source ERP (ERPNext/Odoo); runs on open-source firewalls and enterprise Linux/Windows."
+notes: "Reviewed 2026-10-31. The company website and previously listed /contact/ page were inaccessible during this review; no current official careers page, company LinkedIn profile, dedicated HR email, open vacancy or internship was substantiated. The previously recorded sales@alestidama.com is not verified as an HR/recruitment address and was removed from hr_email. JordanYP's company listing (last updated 2022-12-07) identifies Ashraf Odeh as general manager, lists 1-5 employees at that time and describes domain, networking, security, hosting, virtualization, VoIP and ERP services. This is not a verified 2026 headcount. The named technologies are advertised services or products, not a verified internal production stack. JordanYP, BizMidEast and a geographic listing corroborate the street-level address and telephone +962 7 9503 9029, but the Khazindar Complex / Office 302 detail from the old record was not independently confirmed and is omitted. Coordinates reflect a third-party map listing near the street address, not a confirmed office entrance; location confidence is low. No evidence establishes full-company verification or ongoing hiring."
 evidence:
   - type: "official_website"
     url: "https://www.alestidama.com"
-    label: "Official website"
+    label: "Listed company website; inaccessible on 2026-10-31"
+  - type: "company_listing"
+    url: "https://www.jordanyp.com/company/374058/Sustainability_Computing_LLC"
+    label: "JordanYP company listing; service, address, size and manager claims (last updated 2022-12-07)"
   - type: "other"
-    url: "https://www.alestidama.com/contact/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanyp.com/category/Internet_security/city:Amman"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanyp.com/category/web_hosting/city:Amman"
-    label: "Research source"
+    url: "https://www.bizmideast.com/JO/sustainability-computing-llc-07-9503-9029"
+    label: "BizMidEast independent street address and telephone listing"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.98794,35.86711"
-    label: "Google Maps location"
+    url: "https://jo.near-place.com/sustainability-computing-llc-198-madina-monawara-street-amman/de"
+    label: "Third-party mapped business location; approximate coordinates only"
+verification_status: "partial"
+last_verified: "2026-10-31"
