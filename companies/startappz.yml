@@ -1,16 +1,26 @@
 name: "Startappz"
-industry: "Digital product agency (web/mobile apps, UX)"
+description: >-
+  Startappz is an Amman-headquartered digital product and software development
+  agency serving telecom operators, banks, government organizations and other
+  enterprises. Its public services include mobile and web application
+  development, UX/UI design, software architecture, digital transformation and
+  digital marketing. Its official website lists offices in Amman, Dubai and Riyadh.
+verification_status: "partial"
+last_verified: "2026-10-31"
+industry: "Software development / Digital product engineering / IT services and consulting"
 website: "https://www.startappz.com"
-careers_url: null
+careers_url: "https://www.startappz.com/careers"
 linkedin: "https://www.linkedin.com/company/startappz/"
-hr_email: "info@startappz.com"
-size: "50-249"
+hr_email: "hiring@startappz.com"
+size: "51-200 employees (LinkedIn company-wide band; Jordan headcount not confirmed)"
 location:
-  area: "Amman"
-  address: "Building No.41, Abd Al Rahim Al Haj St, Sweifiyeh, Amman, Jordan"
-  status: "verified"
+  area: "Sweifieh, Amman, Jordan"
+  address: "Third floor, Building 41, Abd Al Rahim Al Haj Street, Sweifieh, Amman, Jordan (official contact page)"
+  status: "provided_unverified"
+  confidence: "high for company-published address; office occupancy and precise entrance not independently verified"
   latitude: 31.958704
   longitude: 35.8642463
+  coordinate_confidence: "low; pre-existing approximate Google Maps business pin near Sweifieh, not independently tied to Building 41"
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.958704,35.8642463"
 categories:
   - "data"
@@ -29,26 +39,70 @@ technologies:
   - "Redis"
   - "TypeScript"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false
   signals:
-    - "Internship"
-notes: "Amman agency (est. 2011/2013, 50-249 staff; also Dubai and Riyadh offices) for web/mobile apps, UI/UX and agile product delivery; clients include Virgin Mobile UAE, STC, Dubai Smart Government. No public internship/fresh-grad programme found. GPS verified 2026-10-06: official contact page (Building 41, A Rahim Al Haj St, Sweifiyeh) matches claimed Google Maps business pin at 31.958704, 35.8642463; rejected unverified JordanYP listing (Al Izz Bin Abdelsalam St, stale).\nstack verified 2026-10-07: employee CV (Fullstack+Mobile Developer 2022-2023) lists Startappz Tech Stack: Python/FastAPI, React.js, TypeScript, PostgreSQL, Redis, Flutter, Android/Kotlin (FastAPI/Svelte not canonical tags); 2nd profile (Senior Mobile Engineer 2012-2015) built Android mobile apps."
+    - "Official careers page explicitly states no available positions on 2026-10-31; no current Jordan graduate or internship opening confirmed."
+    - "Official 2025-07-14 Senior Android Developer advertisement sought 5+ years, Kotlin, Android Jetpack, MVVM/MVI and Firebase; Dubai/remote, historical, not a confirmed current vacancy."
+    - "Official 2025-02-19 Riyadh Business Development Manager advertisement used hiring@startappz.com; mailbox confirmed for historical recruitment, not evidence of current openings."
+    - "Previous YAML mentioned an internship signal but supplied no current, attributable internship announcement; not treated as verified hiring."
+notes: >-
+  Reviewed 2026-10-31. Official website, About Us, contact page and LinkedIn
+  confirm Startappz as a regional digital product agency with Amman operations.
+  LinkedIn reports founding in 2011 and a company-wide 51-200 employee band;
+  the Jordan ICT directory also records 2011, but no audited current Jordan
+  workforce figure is available. The official contact page lists third floor,
+  Building 41, Abd Al Rahim Al Haj Street, Sweifieh, Amman, phone
+  +962 797733772 and general email info@startappz.com. LinkedIn and older
+  third-party listings still give Al Izz Bin Abdelsalam Street, Building 10;
+  this conflict may reflect an older office and was not independently resolved.
+  Previous coordinates 31.958704,35.8642463 were retained only as a low
+  confidence approximate Sweifieh pin, not a surveyed entrance or proof of
+  present occupancy; the prior verified location label was downgraded to
+  provided_unverified. The official About Us page identifies Intisar
+  Abuhalaweh as Admin and HR Manager, but publishes no direct HR address.
+  The official 2025 recruitment posts use hiring@startappz.com; that address
+  is a historical recruiting contact, not confirmation that applications are
+  currently accepted. The official careers page says there are no available
+  positions on review date. The 2025 Senior Android job demonstrates historical
+  demand for Android, Kotlin, Jetpack and Firebase; Flutter was only an
+  optional skill. Other technology tags (HTML, JavaScript, PostgreSQL, Python,
+  React, Redis and TypeScript) were preserved from earlier employee-profile
+  research in this record, but their underlying CVs were not independently
+  rechecked and they are not established as the current production stack.
+  A prior internship claim likewise lacks a current attributable opening.
+  Company verification is partial; a published address does not establish
+  complete company verification.
 evidence:
   - type: "official_website"
-    url: "https://www.startappz.com"
-    label: "Official website"
+    url: "https://www.startappz.com/"
+    label: "Official products, web/mobile app services, client work and ongoing 2026 blog activity; reviewed 2026-10-31"
+  - type: "official_website"
+    url: "https://www.startappz.com/contact-us"
+    label: "Official Building 41 Sweifieh Amman office address, telephone and general email; reviewed 2026-10-31"
+  - type: "official_website"
+    url: "https://www.startappz.com/about-us"
+    label: "Official company description and named Admin and HR Manager Intisar Abuhalaweh"
+  - type: "careers"
+    url: "https://www.startappz.com/careers"
+    label: "Official careers page explicitly says no positions available; checked 2026-10-31"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/startappz/"
-    label: "LinkedIn company page"
+    label: "LinkedIn: Amman headquarters, 2011 founding, 51-200 employees and older Al Izz Bin Abdelsalam Street address"
+  - type: "job_posting"
+    url: "https://blog.startappz.com/were-hiring-android-developer/"
+    label: "Official 2025-07-14 Dubai/remote senior Android hiring post, Kotlin/Jetpack requirements and hiring@startappz.com"
+  - type: "job_posting"
+    url: "https://blog.startappz.com/were-hiring-business-development-manager-in-ksa/"
+    label: "Official 2025-02-19 Saudi business development recruitment and hiring@startappz.com"
   - type: "other"
-    url: "https://www.startappz.com/contact-us"
-    label: "Location evidence"
-  - type: "other"
-    url: "Google Maps place 'Startappz Jordan' (plus code XV57+FM Amman) — claimed/maintained listing, 4.8 stars, matching phone"
-    label: "Location evidence"
+    url: "https://jordanict.com/2023/company-profile/startappz"
+    label: "Jordan ICT company directory: services, 2011 founding, historical 70+ staff estimate"
   - type: "other"
     url: "https://clutch.co/profile/startappz-0"
-    label: "Location evidence"
+    label: "Independent services and historical office listing, not proof of current Building 41 occupancy"
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.958704,35.8642463"
-    label: "Google Maps location"
+    label: "Pre-existing approximate Sweifieh business pin, not independently verified office entrance"
+  - type: "other"
+    url: "https://www.bizmideast.com/JO/startappz-06-586-3103"
+    label: "Historical Al Izz Bin Abdelsalam Street listing marked closed; do not infer current business closure"
