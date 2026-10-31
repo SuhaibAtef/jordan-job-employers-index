@@ -3,11 +3,12 @@ description: >-
   Jordan Horizons Tours (JHT) is a Jordan-based travel agency and destination
   management company founded in 2013. It organizes private tailor-made tours,
   cultural and pilgrimage itineraries, regional multi-country programs,
-  ground-handling services, and transfers for international visitors and travel
-  partners. The company advertises tourism sales and business-development
-  positions through its official careers page.
+  ground-handling services, transport and MICE arrangements for international
+  visitors and travel partners. Its official company profile lists offices in
+  Amman and Aqaba; its careers page advertises tourism sales and business
+  development roles.
 verification_status: "partial"
-last_verified: "2026-10-15"
+last_verified: "2026-10-31"
 industry: "Travel Arrangements / Tour Operator / Destination Management"
 website: "https://johtt.com/"
 careers_url: "https://johtt.com/en/travel-agency-career-opportunities-in-jordan/"
@@ -18,6 +19,7 @@ location:
   area: "Amman"
   address: "Khawaja Center, 5th Floor, Office E-9, Wasfi Al Tal Street, Amman, Jordan"
   status: "verified"
+  confidence: "medium"
   latitude: 31.9845278
   longitude: 35.8833999
   maps_url: "https://maps.app.goo.gl/AdW7edrARsSZbriD7"
@@ -26,25 +28,30 @@ categories:
 technologies: []
 job_seeker:
   early_career_signal: false
-  signals: []
+  signals:
+    - "Official careers page checked 2026-10-31: Sales Executive (Jordan, onsite or hybrid) and Business Development Manager (Jordan), both requiring at least two years of relevant experience; a Cognito Forms CV application iframe is linked, but submission was not tested and publication dates are not shown."
 notes: >-
-  Reviewed 2026-10-15. The official website describes private and customized
-  Jordan tours, MICE/ground-handling services, and regional itineraries;
-  LinkedIn identifies a 2013 founding year and 11-50 employees. Official
-  contact page lists Khawaja Center, fifth floor, Office E-9 on Wasfi Al Tal
-  Street; LinkedIn and independent Petit Fute and TourismRendezvous listings
-  corroborate Wasfi Al Tal Street and/or Khawaja Center. Coordinates represent
-  an approximate Google Maps business-place pin linked by the official website,
-  not a surveyed office entrance. Other business listings report Ali Al
-  Sarayrah Street, an unresolved alternate or possibly older location.
-  The official careers page advertises Sales Executive and Business Development
-  Manager positions in Jordan, each requiring at least two years of experience,
-  and embeds a CV application form; no graduate-specific program or internship
-  was confirmed. info@johtt.com is a general enquiries address, not verified
-  as an HR mailbox. No public evidence establishes an internal software stack;
-  the earlier web category was removed because an online tour website alone
-  does not establish web-development hiring. Company verification remains
-  partial despite corroborated office-address evidence.
+  Reviewed 2026-10-31. The official website remains accessible and describes
+  private tours, customized regional itineraries, ground handling, transportation
+  and MICE services. Its company profile, last updated 2026-05-11, identifies
+  founding in 2013 and offices in Amman and Aqaba; a public Tripadvisor listing
+  contains 2026 guest reviews and management replies, supporting recent service
+  activity without independently auditing staffing or licensing. LinkedIn
+  self-reports 11-50 employees, Amman headquarters and a location on Al Seddiq
+  Street in Aqaba. The official profile instead gives the Aqaba branch as the
+  3rd Commercial Area, so the exact Aqaba branch address is not reconciled.
+  The official Amman contact page confirms Khawaja Center, 5th Floor, Office
+  E-9, Wasfi Al Tal Street; the retained Google Maps pin is company-linked
+  and approximate, not a surveyed office entrance (medium location confidence).
+  Other directories give an alternate Ali Al Sarayrah Street address, which
+  remains unresolved. Official careers page still advertises Sales Executive
+  and Business Development Manager positions in Jordan with at least two years
+  of experience and a CV upload iframe; posting dates and successful submission
+  were not independently established. No graduate program or internship found.
+  info@johtt.com and sales@johtt.com are general/sales contacts, not verified
+  HR addresses. No public source substantiates an internal engineering stack.
+  Company verification remains partial despite supported operating activity and
+  the confirmed Amman street address.
 evidence:
   - type: "official_website"
     url: "https://johtt.com/"
@@ -73,3 +80,9 @@ evidence:
   - type: "other"
     url: "https://wanderlog.com/place/details/15821269/jordan-horizons-tours-amman"
     label: "Alternate address listing; location discrepancy"
+  - type: "official_website"
+    url: "https://johtt.com/en/kb/jordan-horizons-tours-jht-company-profile/"
+    label: "Official company profile updated 2026-05-11: services, founding and both branches (checked 2026-10-31)"
+  - type: "other"
+    url: "https://www.tripadvisor.com/Attraction_Review-g293986-d9801240-Reviews-Jordan_Horizons_Tours-Amman_Amman_Governorate.html"
+    label: "Independent travel platform with 2026 customer reviews and management responses (checked 2026-10-31)"
