@@ -5,7 +5,7 @@ description: >-
   accommodations, and guided transportation across Jordan, including Petra,
   Wadi Rum, Jerash, and the Dead Sea.
 verification_status: "partial"
-last_verified: "2026-10-15"
+last_verified: "2026-10-31"
 industry: "Travel Arrangements / Inbound Tour Operator"
 website: "https://www.jdtours.com/"
 careers_url: null
@@ -16,6 +16,7 @@ location:
   area: "Amman (Abdoun)"
   address: "Second floor, 7 Shihan Al Oqlah Street, Abdoun, Amman, Jordan"
   status: "verified"
+  confidence: "low"
   latitude: 31.95107
   longitude: 35.872196
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.95107,35.872196"
@@ -40,6 +41,24 @@ notes: >-
   current job posting, internship, graduate program, or internal software
   stack was corroborated. The site's inquiry and online payment functions
   do not establish which technologies the company uses internally.
+  Rechecked 2026-10-31: The official homepage and company profile remained
+  accessible, advertising tailored private tours and scheduled small-group
+  departures, with the company reporting 26 years of operation since 2000.
+  Its official contact page still lists the second-floor office at 7 Shihan
+  Al Oqlah Street, Abdoun, and info@jdtours.com as a general enquiries
+  address. An independent business directory also lists this exact office
+  address and telephone. The company LinkedIn profile still gives the older
+  Amin Marie Complex/Boumedin Street location and an unverified 11-50 staff
+  band; treat the official address as the current contact address, not a
+  surveyed coordinate. The retained map pin is approximate with low
+  coordinate confidence. A public travel-agency listing reproduces company
+  tourism posts dated June 8, June 15 and June 22, 2026, suggesting recent
+  promotional activity; these are not proof of current hiring or staffing.
+  No company-specific 2026 vacancy, official recruitment portal, public HR
+  email, internship or graduate intake was corroborated in this review.
+  The general enquiries email is not classified as HR. No internal software
+  stack or precise office entrance coordinates were established. Company
+  verification remains partial even though its contact address is supported.
 evidence:
   - type: "official_website"
     url: "https://www.jdtours.com/"
@@ -65,3 +84,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.95107,35.872196"
     label: "Approximate existing street-level pin"
+  - type: "other"
+    url: "https://www.bizmideast.com/JO/jordan-direct-tours-06-593-8238"
+    label: "Independent business directory corroborating Shihan Al Oqlah Street 7 office and phone; checked 2026-10-31"
+  - type: "other"
+    url: "https://www.travelagents10.com/JO/Amman/305893811647/Jordan-Direct-Tours"
+    label: "Public travel-agency listing reproducing June 2026 Jordan Direct Tours promotional posts; checked 2026-10-31"
