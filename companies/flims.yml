@@ -4,9 +4,9 @@ description: >-
   2021-2022 Flat6Labs Amman seed program. Its proposed web and mobile platform
   combined diagnostic testing, lab results, wellness coaching, activity tracking,
   and chronic-disease risk information. Historical company activity is documented,
-  but current operations and active employment were not confirmed as of 2026-10-21.
+  but current operations, staffing and hiring could not be confirmed as of 2026-10-30.
 verification_status: "unresolved"
-last_verified: "2026-10-21"
+last_verified: "2026-10-30"
 industry: "Health technology, Preventive wellness"
 website: "https://flims.co"
 careers_url: null
@@ -17,16 +17,14 @@ location:
   maps_url: null
   longitude: null
   latitude: null
-  status: "approximate"
+  status: "unresolved"
   address: null
   area: "Amman, Jordan (historical accelerator participation; current office unverified)"
 categories:
   - "healthtech"
   - "web"
-technologies:
-  - "Mobile application (historically described product; implementation unverified)"
-  - "Web platform (historically described product; implementation unverified)"
-  - "Cloud medical data platform (historical product description; infrastructure unverified)"
+  - "mobile"
+technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
@@ -43,11 +41,24 @@ notes: >-
   vacancy was found. Generic Amman coordinates previously listed did not identify
   a specific FLIMS office and have been removed. Current operating status remains
   unresolved. Names of founders in earlier research notes were not corroborated
-  by the primary 2022 investor brief.
+  by the primary 2022 investor brief. Rechecked 2026-10-30: the historical
+  flims.co website could not be retrieved. Flat6Labs' first Amman Demo Day
+  page and 2022 investor brief corroborate the startup's participation and
+  proposed preventive-wellness app and web platform, but not operations in
+  2026. The first-party 2022 pitch deck describes future expansion and a
+  funding ask, neither evidence that these plans materialized. No current
+  attributable company LinkedIn profile, careers page, active vacancy,
+  HR mailbox, headcount, street office, precise coordinates or internal
+  engineering stack could be substantiated. Mobile, web and cloud were
+  historical product descriptions, not confirmed programming technologies,
+  and have been removed from the technologies list. Amman is documented
+  only as the historical accelerator location; the current physical office
+  is unresolved. The company remains unresolved rather than claiming
+  current activity or closure without contemporary first-party evidence.
 evidence:
   - type: "official_website"
     url: "https://flims.co"
-    label: "Historical official domain; inaccessible during 2026-10-21 check"
+    label: "Historical official domain; inaccessible during 2026-10-21 and 2026-10-30 checks"
   - type: "company_listing"
     url: "https://flat6labs.com/fr/Company/flims/"
     label: "Flat6Labs portfolio entry documenting Jordan and historical product"
@@ -57,6 +68,12 @@ evidence:
   - type: "other"
     url: "https://www.flat6labs.com/wp-content/uploads/2022/03/FLIMS.pdf"
     label: "2022 FLIMS pitch deck documenting product and general contact"
+  - type: "official_website"
+    url: "https://flat6labs.com/fr/demoday/first-demo-day-in-jordan/"
+    label: "Flat6Labs first Amman Demo Day program page — FLIMS founder and historical startup description, not current operations"
+  - type: "other"
+    url: "https://jordantimes.com/news/local/flat6labs-celebrates-first-demo-day-jordan"
+    label: "Jordan Times March 15, 2022 report corroborating first Amman Demo Day and seed-program cohort"
   - type: "other"
     url: "https://www.wamda.com/2022/03/startups-graduate-flat6labs-seed-programme-jordan"
     label: "Wamda report dated 2022-03-16 on Flat6Labs Amman graduation"
