@@ -1,45 +1,100 @@
 name: "SmartZone"
-industry: "IT services / E-commerce"
+description: >-
+  SmartZone is an Amman-based IT services and digital marketing company
+  offering website and mobile application development, e-commerce solutions,
+  ERP systems, SEO, cloud hosting, design, and software support. Its official
+  website lists an office in Al Khalidi, Amman, and its LinkedIn company
+  profile reports that it was founded in 2018.
+verification_status: "partial"
+last_verified: "2026-10-31"
+industry: "IT services / Software development / Digital marketing"
 website: "https://smartzone-jo.com"
 careers_url: null
-linkedin: null
-hr_email: "info@smartzonejo.com"
-size: null
+linkedin: "https://www.linkedin.com/company/smart-zone-jo"
+hr_email: null
+size: "11-50 employees (LinkedIn company-wide band; current Jordan headcount not independently verified)"
 location:
-  area: "Amman"
-  address: "Bldg No. 5, May Ziadeh St, Alkhalidi, Jabal Amman, Amman"
-  status: "approximate"
-  latitude: 31.95075
-  longitude: 35.906
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95075,35.906"
+  area: "Al Khalidi, Jabal Amman, Amman, Jordan"
+  address: "Building No. 5, Mai Ziadeh Street, Al Khalidi, Amman, Jordan (official company contact address; entrance not independently geocoded)"
+  status: "provided_unverified"
+  confidence: "medium"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Building+5+Mai+Ziadeh+Street+Al+Khalidi+Amman+Jordan"
 categories:
   - "consulting"
   - "data"
   - "ecommerce"
   - "erp"
   - "mobile"
+  - "web"
+  - "marketing"
+  - "design"
 technologies:
-  - "ERPNext"
-  - "Flutter"
-  - "Odoo"
-  - "SQL Server"
+  - "Flutter (advertised cross-platform mobile development service; internal production use unconfirmed)"
+  - "PHP / Laravel / MySQL / JavaScript (2024 junior developer vacancy requirements; not proof of current production stack)"
+  - "ERPNext / Odoo (named in official ERP service-page titles; deployed products not independently confirmed)"
+  - "SQL Server (named in official database service-page title; actual deployment not independently confirmed)"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman IT & e-commerce company established 2018 (Flutter apps, web development, ERP); address and email per own site; pin is street-level fallback."
+  early_career_signal: true
+  signals:
+    - "Smart Zone's LinkedIn Technology Sales Specialist advertisement was visible on 2026-10-31, labeled entry level and full time, and requests software/B2B sales experience; applications directed to info@smartzone-jo.com. No closing date or completed application was verified."
+    - "A historical Junior Full Stack Developer advertisement (approximately 2024) requested 1-3 years of experience with PHP/Laravel, MySQL and frontend tools; LinkedIn says applications are no longer accepted."
+    - "No current graduate software engineering vacancy, internship, company-operated careers portal or dedicated HR-only mailbox was established."
+notes: >-
+  Reviewed 2026-10-31. Official SmartZone company and service pages confirm
+  web/mobile development, ERP, e-commerce, cloud/hosting, digital marketing,
+  SEO, design and support services. LinkedIn's company page points to the
+  same official domain and lists Amman headquarters, founding in 2018 and
+  an 11-50 employee band; its displayed name varies between Smart Zone and
+  Smart Move by locale/crawl, so identity is grounded in the linked domain.
+  The official contact page and company PDF agree on Mai Ziadeh Street in
+  Al Khalidi; the website specifies Building 5. This is a company-provided
+  address, not an independently verified office entrance. The previous
+  31.95075,35.906 coordinates were a generic street-level fallback and are
+  removed; the Maps URL is an address search, not an exact verified pin.
+  The former hr_email info@smartzonejo.com did not match the current official
+  domain and was not corroborated. Official contact and recent recruiting
+  materials instead use info@smartzone-jo.com, a general-purpose address
+  that also accepts CVs; no dedicated HR mailbox was confirmed. The company
+  LinkedIn page and an October 2026-era Technology Sales Specialist posting
+  support recent hiring activity; the listing is marked entry level but
+  asks for B2B software-sales experience and is not proof of a graduate
+  program. An older Junior Full Stack Developer listing is explicitly closed;
+  its PHP/Laravel/MySQL/JavaScript requirements are historical stack evidence.
+  Flutter is offered on the current mobile service page; ERPNext, Odoo and
+  SQL Server appear in service-page titles, not as verified deployments.
+  No current internal production stack, exact workforce, live software
+  engineering vacancy or independently geocoded office was established.
+  Company verification is partial and separate from location verification.
 evidence:
   - type: "official_website"
-    url: "https://smartzone-jo.com"
-    label: "Official website"
+    url: "https://smartzone-jo.com/en"
+    label: "Official site: IT solutions, marketing, web/mobile development, ERP and Amman office (reviewed 2026-10-31)"
+  - type: "official_website"
+    url: "https://smartzone-jo.com/en/company"
+    label: "Company description and digital services"
+  - type: "official_website"
+    url: "https://smartzone-jo.com/en/contact"
+    label: "Official Building 5, Mai Ziadeh Street contact address and general info@smartzone-jo.com email"
   - type: "other"
-    url: "https://smartzone-jo.com/en/services/Mobile-application-development/Mobile-App-Development"
-    label: "Research source"
-  - type: "other"
-    url: "https://smartzone-jo.com/en/services/Website-development-and-design/Database-Development-and-Management"
-    label: "Research source"
-  - type: "other"
-    url: "https://smartzone-jo.com/en/services/ERP-Systems/Mobile-App-ERP-Development"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.95075,35.906"
-    label: "Google Maps location"
+    url: "https://smartzone-jo.com/front_end_style/assets/img/cp.pdf"
+    label: "Company profile PDF corroborates Al Khalidi, Mai Ziadeh Street office"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/smart-zone-jo"
+    label: "Company LinkedIn: official domain, Amman HQ, 2018 founding, 11-50 employee estimate and recent recruiting post"
+  - type: "job_posting"
+    url: "https://jo.linkedin.com/jobs/view/technology-sales-specialist-at-smart-zone-4461485034"
+    label: "Technology Sales Specialist: recent entry-level-tagged recruitment, B2B sales experience and general CV email; checked 2026-10-31"
+  - type: "job_posting"
+    url: "https://jo.linkedin.com/jobs/view/software-engineer-at-smart-zone-3656600565"
+    label: "Historical closed Junior Full Stack Developer role with PHP/Laravel/MySQL requirements"
+  - type: "official_website"
+    url: "https://smartzone-jo.com/en/services/mobile-application-development/mobile-app-development"
+    label: "Official mobile development service advertises Flutter"
+  - type: "official_website"
+    url: "https://smartzone-jo.com/en/services/erp-systems/cloud-erp-solutions"
+    label: "ERP service page; ERPNext/Odoo appear in title, deployment unconfirmed"
+  - type: "official_website"
+    url: "https://smartzone-jo.com/en/services/website-development-and-design/database-development-and-management"
+    label: "Database service page; SQL Server in title, deployment unconfirmed"
