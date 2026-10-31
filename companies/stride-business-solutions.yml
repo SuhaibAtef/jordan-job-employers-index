@@ -1,34 +1,96 @@
 name: "STRIDE Business Solutions"
-industry: "ERP consulting"
-website: "http://stridebs.com/"
+description: >-
+  STRIDE Business Solutions is an Amman-based IT consultancy founded in 2023
+  that implements, customizes, migrates and supports Odoo ERP for organizations
+  in Jordan and the Gulf. Its Odoo-based vertical offerings include EPMS
+  enterprise performance management, STRIDELAB laboratory systems, ROOTS
+  functional-medicine software and Bio-Pest field-service management.
+verification_status: "partial"
+last_verified: "2026-10-31"
+industry: "IT Services and Consulting / Odoo ERP Implementation"
+website: "https://www.stridebs.com/"
 careers_url: null
-linkedin: null
-hr_email: "info@stridebs.com"
-size: null
+linkedin: "https://www.linkedin.com/company/stridebs"
+hr_email: null
+size: "2-10 employees (LinkedIn company-wide band; not audited)"
 location:
-  area: "Amman"
-  address: "King Hussein Business Park, King Abdullah II St 242, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.97183
-  longitude: 35.83394
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
+  area: "King Hussein Business Park, Amman, Jordan"
+  address: "King Hussein Business Park, King Abdullah II Street 242, Amman, Jordan (official park-level address; exact office unconfirmed)"
+  status: "provided_unverified"
+  confidence: "medium for published business-park address; low for exact building or office"
+  latitude: null
+  longitude: null
+  coordinate_confidence: "unresolved; former 31.97183,35.83394 coordinates identify the business-park area, not a verified STRIDE office entrance"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=STRIDE+Business+Solutions+King+Hussein+Business+Park+Amman"
 categories:
   - "consulting"
   - "erp"
+  - "support"
 technologies:
-  - "Odoo"
+  - "Odoo ERP 17/18/19 (company implementation and product platform; not an audited internal stack)"
+  - "Python (historical Odoo Developer job requirement)"
+  - "XML (historical Odoo Developer job requirement)"
+  - "CSS (historical Odoo Developer job requirement)"
+  - "PostgreSQL (historical Odoo Developer job requirement)"
+  - "Ubuntu (historical Odoo Developer job requirement)"
+  - "Nginx (historical Odoo Developer job requirement)"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-notes: "Odoo Gold Partner (Jordan & KSA); 50+ Odoo implementations; vertical ERPs incl. STRIDELAB (labs), EPMS, Roots. No internship program found."
+    - "Historical company Odoo Developer advertisement in Amman requested 1-2 years of experience and Python, XML, CSS, PostgreSQL, Ubuntu and Nginx; LinkedIn marks applications closed."
+    - "Another historical Amman Odoo Developer advertisement was labeled entry-level, but LinkedIn also marks applications closed; it is not a confirmed current vacancy."
+    - "No attributable internship or fresh-graduate program, dedicated careers page, or currently accepting Jordan vacancy was confirmed on 2026-10-31."
+notes: >-
+  Reviewed 2026-10-31. STRIDE's official website and Odoo's independent partner
+  directory establish an active Amman-based Odoo implementation, migration,
+  customization and support business. The company advertises its EPMS,
+  STRIDELAB, ROOTS and Bio-Pest Odoo solutions; its published Odoo Apps Store
+  modules independently support active Odoo module development. LinkedIn
+  reports a 2023 founding, King Hussein Business Park headquarters and a 2-10
+  company-wide employee band; this is not an audited Jordan headcount. The
+  official contact page and Odoo partner listing agree on King Abdullah II
+  Street 242 within King Hussein Business Park. LinkedIn specifies Building 23,
+  while the company's website footer says 23B; neither an exact office unit
+  nor a geocoded entrance was corroborated. Removed the old precise-looking
+  business-park coordinates because they did not verify the office entrance.
+  The published info@stridebs.com and Odoo directory's admin@stridebs.com are
+  general/business contacts, not confirmed recruiting mailboxes, so hr_email
+  is null. The homepage describes the company as an Odoo partner; Odoo's own
+  partner directory identifies its partner listing, but no Gold tier is
+  independently asserted here. Historical LinkedIn Odoo Developer postings
+  establish early-career (1-2 years) recruitment and relevant requirements,
+  but explicitly state that applications are closed. No internship program or
+  current graduate vacancy was verified, correcting the earlier unsupported
+  Internship signal. Odoo versions describe delivered solutions, and listed
+  programming/infrastructure tools come from historical hiring requirements,
+  not an audited internal production stack. Company verification remains
+  partial because precise office occupancy, HR recruitment contact and
+  current hiring status remain unconfirmed.
 evidence:
   - type: "official_website"
-    url: "http://stridebs.com/"
-    label: "Official website"
-  - type: "other"
+    url: "https://www.stridebs.com/"
+    label: "Official Odoo implementation, migration, support and vertical products; reviewed 2026-10-31"
+  - type: "official_website"
     url: "https://www.stridebs.com/contactus"
-    label: "Research source"
+    label: "Official King Hussein Business Park, King Abdullah II Street 242 and general info@stridebs.com contact"
+  - type: "official_website"
+    url: "https://www.stridebs.com/odoo-partner-jordan"
+    label: "Official EPMS, STRIDELAB, ROOTS and Bio-Pest product descriptions and Amman support"
+  - type: "company_listing"
+    url: "https://www.odoo.com/partners/stride-business-solutions-14430101"
+    label: "Odoo partner directory corroborates official partner listing, King Hussein Business Park and business phone"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/stridebs"
+    label: "LinkedIn company profile: Amman HQ, Building 23, founded 2023, 2-10 employee band and Odoo activity"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/odoo-developer-at-stride-business-solutions-4043865483"
+    label: "Historical Amman Odoo Developer role requiring 1-2 years, Python/XML/CSS/PostgreSQL; no longer accepting applications"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/odoo-developer-at-stride-business-solutions-4264254985"
+    label: "Historical entry-level Amman Odoo Developer role; LinkedIn explicitly says applications closed"
+  - type: "other"
+    url: "https://apps.odoo.com/apps/modules/19.0/sbs_amiri_font_ar"
+    label: "Odoo Apps Store lists STRIDE-authored Odoo 19 Arabic typography module, demonstrating product development"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.97183,35.83394"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=STRIDE+Business+Solutions+King+Hussein+Business+Park+Amman"
+    label: "Park-level search only; no independently verified STRIDE office entrance"
