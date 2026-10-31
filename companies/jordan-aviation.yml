@@ -5,10 +5,10 @@ description: >-
   aircraft wet-leasing services. The airline has historically supported transport
   contracts for United Nations peacekeeping operations.
 verification_status: "partial"
-last_verified: "2026-10-15"
+last_verified: "2026-10-31"
 industry: "Airlines and Aviation"
 website: "https://www.jordanaviation.jo/"
-careers_url: null
+careers_url: "https://www.jordanaviation.jo/Careers-"
 linkedin: "https://www.linkedin.com/company/jordanaviation"
 hr_email: null
 size: "501-1,000"
@@ -24,24 +24,27 @@ categories:
 technologies: []
 job_seeker:
   early_career_signal: false
-  signals: []
+  signals:
+    - "Experienced aviation technical-store, CAMO quality and safety-assurance roles advertised in 2026; no confirmed graduate opening"
 notes: >-
-  Reviewed 2026-10-15. The official contact/office pages, Jordan Aviation's
-  LinkedIn profile and independent business listings agree on the Amman head
-  office in Um Uthaina at King Faisal Bin Abdul Aziz Street, building 55.
-  Coordinates are an approximate building/address geocode from a geographic
-  listing, not a surveyed entrance; location verification is separate from
-  company-level verification. LinkedIn lists 501-1,000 employees on the active
-  Jordan Aviation Airline profile, while another similarly branded profile
-  reports 1,001-5,000; the size is an estimate. September-October 2026 hiring
-  evidence includes experienced A320/A330 commanders, safety assurance,
-  technical-store management and CAMO quality roles. The role-specific pilot
-  recruitment mailbox JAV-InitPilotTrng@jordanaviation.jo appeared in the
-  September 14, 2026 advertisement; it is not established as a general HR
-  contact. The published info@jordanaviation.jo is a general contact, not a
-  confirmed HR mailbox. No official careers portal, active graduate/internship
-  program or internal software/AI technology stack was substantiated. Removed
-  the unsupported AI category.
+  Reviewed 2026-10-31. Jordan Aviation's official contacts and offices pages
+  confirm its Amman head office in Um Uthaina on King Faisal Bin Abdulaziz
+  Street; the recorded building number 55 is also on its company LinkedIn.
+  Coordinates are approximate address-level geocoding, not a surveyed entrance;
+  verified location does not imply full-company verification. The company's
+  LinkedIn reports 501-1,000 employees (a platform estimate), and its official
+  website has a Careers page with an embedded Jotform application form.
+  On 2026-10-31 the embedded form displayed "Form over quota", so submissions
+  through that form could not be confirmed working. The company's LinkedIn
+  advertised a Technical Store Manager and recent CAMO Quality Auditor and
+  Safety Assurance Manager roles, but their current application availability
+  and closing dates were not confirmed. Some company-feed reposts concern
+  Alexandria Airlines, not Jordan Aviation vacancies, and are not counted.
+  JAV-InitPilotTrng@jordanaviation.jo is a pilot-role-specific address from a
+  2026 recruitment post, while info@jordanaviation.jo is the official general
+  contact; neither is verified as a general HR mailbox. No current graduate
+  program, independently verified internal software stack, or exact office
+  entrance coordinates were established. Company verification remains partial.
 evidence:
   - type: "official_website"
     url: "https://www.jordanaviation.jo/"
@@ -70,3 +73,12 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9689,35.8705"
     label: "Approximate address-level map lookup; not exact entrance"
+- type: "careers"
+    url: "https://www.jordanaviation.jo/Careers-"
+    label: "Official careers page with embedded application form; reviewed 2026-10-31"
+  - type: "other"
+    url: "https://form.jotform.com/212292024005440"
+    label: "Official careers embedded form returned over-quota notice on 2026-10-31"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/jordanaviation_jordan-aviation-airlines-hiring-technical-activity-7493586931541450752-V_t9"
+    label: "Company LinkedIn Technical Store Manager recruitment post, checked 2026-10-31"
