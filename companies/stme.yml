@@ -1,35 +1,89 @@
 name: "STME"
-industry: "IT Infrastructure / Systems Integration"
-website: "https://stme.com"
+description: >-
+  STME (System Technologies Middle East) is a Riyadh-headquartered regional
+  enterprise IT systems integrator founded in 1982. It provides consulting,
+  deployment and managed support for data centers, enterprise storage, cloud
+  infrastructure, cybersecurity, networking, backup and disaster recovery,
+  with a company-published office in Amman, Jordan.
+verification_status: "partial"
+last_verified: "2026-10-31"
+industry: "IT services and consulting / Enterprise infrastructure and systems integration"
+website: "https://stme.com/"
 careers_url: "https://stme.com/careers/"
-linkedin: null
+linkedin: "https://www.linkedin.com/company/stme/"
 hr_email: null
-size: null
+size: "51-200 employees (LinkedIn company-wide band; Jordan headcount unknown)"
 location:
-  area: "Amman"
-  address: "Zahran St, Abdoun, Amman, Jordan"
+  area: "Abdoun, Amman, Jordan"
+  address: "Zahran Street, Abdoun, Amman, Jordan (company-published street-level office location; no building or unit identified)"
   status: "provided_unverified"
-  latitude: 31.95185
-  longitude: 35.89474
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95185,35.89474"
+  confidence: "medium for company-published Amman/Abdoun street location; exact premises and occupancy not independently corroborated"
+  latitude: null
+  longitude: null
+  coordinate_confidence: "unresolved; prior 31.95185,35.89474 pin was unsupported, while official map link resolves to a different street-level area"
+  maps_url: null
 categories:
   - "devops"
   - "security"
   - "support"
+  - "cloud"
+  - "networking"
 technologies:
   - "Veeam"
+  - "Commvault"
+  - "Cohesity"
+  - "Fortinet"
+  - "Palo Alto Networks"
+  - "NetApp ONTAP"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false
   signals:
-    - "Internship"
-notes: "Founded 1982; regional systems integrator with an Amman office (Zahran St, Abdoun, +962 6 559 0006); large-scale data-center and infrastructure projects; no public grad/internship info found."
+    - "Official careers page links to the STME LinkedIn company jobs page; no active Jordan-specific vacancy could be confirmed on 2026-10-31."
+    - "The earlier generic Internship signal had no attributable vacancy or program source and is not treated as current hiring evidence."
+notes: >-
+  Reviewed 2026-10-31. STME's official site and LinkedIn establish a regional
+  enterprise infrastructure integrator headquartered in Riyadh and founded in
+  1982; the official homepage reports a 2026 merger of Creative Telecom Company
+  and Integrated System Solutions into STME. Its official contact page lists
+  an Amman office on Zahran Street in Abdoun, with telephone +962 6 5850368
+  and mobile +962 799747807. The About page lists a different Jordan number,
+  +962 6 559 0006, so telephone details should be checked before use.
+  Neither page supplies a building or unit number. The contact page's map
+  link resolves to Al Fadl Ben Al Hasan Street around 31.957658,35.867807,
+  which does not independently establish the stated Zahran Street office;
+  the old coordinate pin 31.95185,35.89474 was therefore removed. This is
+  a company-published location, not a physically verified office entrance.
+  LinkedIn's 51-200 employee band is company-wide and not a Jordan headcount;
+  the careers page separately claims 120+ engineers and specialists across
+  eight markets. The official careers page redirects job discovery to LinkedIn,
+  but a currently open Jordan role, graduate intake or internship could not
+  be substantiated; the original internship flag was unsupported. No dedicated
+  HR or recruitment email was found. supportline@stme.com and sales@stme.com
+  are published support/sales contacts, not HR contacts. Veeam, Commvault,
+  Cohesity, Fortinet, Palo Alto Networks and NetApp ONTAP are publicly
+  advertised partner/customer-solution technologies, not proof of the
+  company's internal production stack or Jordan team skills. Current
+  company-level verification remains partial despite confirmed official
+  business information and the published Amman location.
 evidence:
   - type: "official_website"
-    url: "https://stme.com"
-    label: "Official website"
+    url: "https://stme.com/"
+    label: "Official services, 1982 founding, Riyadh headquarters, Amman presence and 2026 corporate history; checked 2026-10-31"
+  - type: "official_website"
+    url: "https://stme.com/about-us/"
+    label: "Official regional offices and alternate Amman telephone +962 6 559 0006"
+  - type: "official_website"
+    url: "https://stme.com/contact-us/"
+    label: "Official Zahran Street Abdoun Amman location and local telephone numbers; no building or unit"
   - type: "careers"
     url: "https://stme.com/careers/"
-    label: "Careers / application page"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.95185,35.89474"
-    label: "Google Maps location"
+    label: "Official careers page links to LinkedIn jobs; no Jordan-specific open vacancy confirmed 2026-10-31"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/stme/"
+    label: "Company LinkedIn: founded 1982, Riyadh HQ, 51-200 employee band; posts advertise backup vendors"
+  - type: "official_website"
+    url: "https://stme.com/products-solutions/netapp-snapmirror/"
+    label: "Official NetApp SnapMirror/ONTAP customer solution; vendor technology not internal engineering stack"
+  - type: "official_website"
+    url: "https://stme.com/products-solutions/quantum-stornext/"
+    label: "Official enterprise data management and storage solution example"
