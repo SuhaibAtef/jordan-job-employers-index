@@ -1,7 +1,10 @@
 name: "TAG-Recruit"
-industry: "Staffing & Recruiting"
-website: "http://www.tagirecruitment.com"
-careers_url: null
+description: "Talal Abu-Ghazaleh Recruitment and Human Resources Development (TAG-Recruit) is a recruitment and HR development firm within Talal Abu-Ghazaleh Global. It provides candidate sourcing and assessment, executive search, job-matching support, job-description and employment-contract assistance, and an online vacancy and candidate-registration portal for employers and job seekers in Jordan and other markets. Its job board advertises technical and nontechnical roles, but those postings do not establish TAG-Recruit's own engineering headcount or internal technology stack."
+verification_status: "partial"
+last_verified: "2026-10-31"
+industry: "Staffing & Recruiting / Human Resources Services"
+website: "https://www.tagirecruit.com"
+careers_url: "https://www.tagirecruit.com/candidates/candidates_Login.aspx?lang=en"
 linkedin: null
 hr_email: null
 size: null
@@ -9,43 +12,46 @@ location:
   area: "Amman"
   address: null
   status: "approximate"
-  latitude: 31.9518
-  longitude: 35.94042
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "data"
   - "devops"
   - "web"
-technologies:
-  - ".NET"
-  - "Angular"
-  - "Ansible"
-  - "AWS"
-  - "C#"
-  - "Git"
-  - "Laravel"
-  - "MySQL"
-  - "PHP"
-  - "Redis"
-  - "SQL Server"
-  - "Terraform"
+technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Talal Abu-Ghazaleh Recruitment & Human Resources Development arm in Amman; listed as a TAG-Org member with its own domain (direct candidate-registration page could not be verified in this pass). | stack verified 2026-10-06: 5 dev/DevOps postings on own job board (tagirecruit.com) for TAG-Org roles show .NET (C#, ASP.NET Core, EF, SQL Server), PHP/Laravel/MySQL, Angular, Ansible/Terraform, AWS"
+notes: "Reviewed 2026-10-31. TAG.Global's official company directory and TAG-Recruit's own Who We Are page confirm the distinct recruitment/HR development firm and its group affiliation. Its live tagirecruit.com site offers candidate sign-up and displays Jordan vacancies, including junior auditing and senior software engineering roles. A Full Stack Developer listing (job ID 21317) was originally posted 2021-06-15, specifies 3-5 years and C#, ASP.NET Core/MVC, Web API, LINQ, Entity Framework, SQL and optional Angular, and shows a 2026-10-31 deadline. A Junior Auditor listing (job ID 11312) was posted 2021-05-19, specifies 1-3 years and the same 2026-10-31 deadline. The board's 2026-09-12 news page also displays multiple Jordan vacancies; listing presence and future/expiring deadlines do not prove current acceptance or that TAG-Recruit itself is the employing organization. Previously recorded .NET, Angular, Ansible, AWS, C#, Git, Laravel, MySQL, PHP, Redis, SQL Server and Terraform are recruitment-ad requirements for TAG.Global or client positions, not evidence of TAG-Recruit's internal stack; removed from technologies while retaining job-category tags as historical advertised role types. The older tagirecruitment.com domain was not accessible; tagirecruit.com is the functioning official recruitment portal. TAG.Global LinkedIn gives the parent group 1,001-5,000 employees and the parent headquarters at TAG-Org Building, No. 26 Prince Shaker bin Zaid Street, Shmeisani, Amman, but neither figure nor address was verified specifically for TAG-Recruit. Therefore TAG-Recruit's own size, precise address, coordinates and map pin remain unknown; prior generic 31.9518, 35.94042 coordinates were removed. No standalone company LinkedIn page, dedicated HR email, TAG-Recruit-specific open vacancy, internship or confirmed candidate submission was established. The online contact form is available. Company verification remains partial and independent of location status."
 evidence:
   - type: "official_website"
-    url: "http://www.tagirecruitment.com"
-    label: "Official website"
+    url: "https://www.tag.global/Companies/en/tag-recruit"
+    label: "TAG.Global official subsidiary profile; TAG-Recruit services and parent affiliation; checked 2026-10-31"
+  - type: "official_website"
+    url: "https://www.tagirecruit.com/page.aspx?lang=en&page_key=who_we_are"
+    label: "TAG-Recruit official Who We Are page; recruitment and HR development services"
+  - type: "careers_page"
+    url: "https://www.tagirecruit.com/candidates/candidates_Login.aspx?lang=en"
+    label: "Official job-seeker portal; candidate login and registration and job listing links; checked 2026-10-31"
+  - type: "official_website"
+    url: "https://www.tagirecruit.com/Contact_us.aspx?lang=en"
+    label: "Official contact form; no dedicated HR mailbox or exact office address shown"
+  - type: "job_post"
+    url: "https://www.tagirecruit.com/View/CandidateSearchView.aspx?id=21317&lang=en"
+    label: "Full Stack Developer job ID 21317; originally posted 2021-06-15; deadline 2026-10-31; group recruitment role requirements"
+  - type: "job_post"
+    url: "https://www.tagirecruit.com/View/CandidateSearchView.aspx?id=11312&lang=en"
+    label: "Junior Auditor job ID 11312; originally posted 2021-05-19; 1-3 years; deadline 2026-10-31"
+  - type: "other"
+    url: "https://www.tagirecruit.com/News_tagorg.aspx?lang=en&news_id=47803"
+    label: "TAG-Recruit 2026-09-12 news page; job board displays Jordan roles, acceptance unconfirmed"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/talal-abu-ghazaleh-global"
+    label: "Parent TAG.Global LinkedIn only; Amman group headquarters and 1,001-5,000 group employees, not TAG-Recruit figures"
   - type: "other"
     url: "https://www.tag-publication.com/UploadFiles/2020/Marketing/Brochures/TAG-Recruit/TAG_Recruit_brochure_(En).pdf"
-    label: "Research source"
+    label: "Previously recorded TAG-Recruit brochure; historical reference not rechecked in this pass"
   - type: "other"
-    url: "http://www.tagi.com/UploadFiles/Talal%20Abu-Ghazaleh%20Resume%20English.pdf?lang=en"
-    label: "Research source"
-  - type: "job_post"
     url: "https://www.jobs.ps/en/jobs/talal-abu-ghazaleh-organization-v-235"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
-    label: "Google Maps location"
+    label: "Previously recorded TAG.Global jobs directory; historical reference not rechecked in this pass"
