@@ -7,7 +7,7 @@ description: >-
   Central Bank of Jordan and 21 operating banks, it also runs JOIN Fincubator
   for fintech entrepreneurship and university talent programs.
 verification_status: "partial"
-last_verified: "2026-10-15"
+last_verified: "2026-10-30"
 industry: "Financial Services / Payment Infrastructure and Fintech"
 website: "https://www.jopacc.com/"
 careers_url: null
@@ -35,7 +35,7 @@ job_seeker:
     - "Academy"
     - "Hackathon"
 notes: >-
-  Reviewed 2026-10-15. Official website confirms five payment systems and JOIN
+  Reviewed 2026-10-15; re-reviewed 2026-10-30. Official website confirms five payment systems and JOIN
   Fincubator; official About page reports Central Bank of Jordan and 21 banks
   as owners. LinkedIn reports 11-50 employees. Street address corroborated by
   company LinkedIn, official privacy policy and Central Bank of Jordan register.
@@ -47,7 +47,17 @@ notes: >-
   engagement, NOT an active employee hiring opportunity. CliQ is a product,
   ISO 20022 a messaging standard, and Open APIs a JOIN integration offering:
   none establishes JoPACC's internal programming stack. Unsupported REST API
-  claim removed.
+  claim removed. October 2026 follow-up: JoPACC remains active, with its
+  September 2026 systems figures reported by the Jordan Times on 2026-10-13
+  (CliQ: 185.49 million transactions, JD18.99 billion January-September)
+  and 2026-10-14 (JoMoPay: 130.33 million transactions, JD6.02 billion
+  January-September). JoPACC's official 2026-01-19 Orange Jordan MoU
+  describes practical training, applied projects and fintech engagement for
+  Coding Academy graduates, not an advertised JoPACC job vacancy. LinkedIn
+  continues to show 11-50 employees and Building 195, fifth floor, Arar
+  Street. No confirmed active direct vacancy, dedicated HR email or
+  internal production programming stack was established in this review.
+  Retain partial verification despite the corroborated office address.
 evidence:
   - type: "official_website"
     url: "https://www.jopacc.com/"
@@ -85,3 +95,12 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.960401,35.894925"
     label: "Existing approximate building coordinates"
+  - type: "official_website"
+    url: "https://www.jopacc.com/media-center/news/jopacc-and-orange-jordan-sign-mou-empower-digital-talent-and-advance-fintech"
+    label: "JoPACC official 2026-01-19 Orange Jordan agreement — Coding Academy graduate training and fintech projects, not an employment opening"
+  - type: "other"
+    url: "https://jordantimes.com/news/business/cliq-transactions-rise-58-to-jd1899-billion-in-first-nine-months"
+    label: "Jordan Times 2026-10-13 — JoPACC September 2026 CliQ transaction report and current operating evidence"
+  - type: "other"
+    url: "https://jordantimes.com/news/business/e-wallet-transfers-reach-jd6b-in-first-nine-months-of-2026-jopacc"
+    label: "Jordan Times 2026-10-14 — JoPACC September 2026 JoMoPay report and current operating evidence"
