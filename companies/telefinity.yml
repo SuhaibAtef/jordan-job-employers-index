@@ -1,54 +1,91 @@
-name: "TeleFinity"
-industry: "Telecom Software"
-website: "https://tele-finity.com"
+name: TeleFinity
+description: TeleFinity is an Amman-based developer of enterprise telephony and customer-experience software, founded
+  in 2005 with roots in Amman and Melbourne. Its products cover contact centers, omnichannel customer interactions,
+  call recording and quality management, IVR/voicemail, SIP softphones, computer-telephony integration, call accounting
+  and helpdesk tools.
+verification_status: partial
+last_verified: '2026-11-01'
+industry: Enterprise telecommunications software / Contact-center and customer-experience platforms
+website: https://tele-finity.com/
 careers_url: null
-linkedin: null
-hr_email: null
-size: "100-200"
+linkedin: https://www.linkedin.com/company/telefinity/
+hr_email: jobs@tele-finity.com
+size: 51-200 employees (LinkedIn company-size band, not audited); 2015 GJU job-fair handbook reported 27 worldwide
+  and 17 in Jordan (historical)
 location:
-  area: "Amman"
-  address: "Mecca St. 164, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.976318
-  longitude: 35.85845
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.976318,35.85845"
+  area: Amman, Jordan
+  address: 164 Mecca Street, Suite 404, Amman, Jordan
+  status: provided_unverified
+  confidence: high for street/building (company LinkedIn, business directory and business listing); medium for Suite
+    404 (company LinkedIn only); current physical occupancy not independently established
+  latitude: null
+  longitude: null
+  coordinate_confidence: unresolved; prior 31.976318, 35.85845 pin was not independently confirmed as the Suite
+    404 entrance
+  maps_url: null
 categories:
-  - "data"
-  - "telecom"
-  - "web"
+- data
+- telecom
+- web
 technologies:
-  - ".NET"
-  - "C#"
-  - "JavaScript"
-  - "jQuery"
-  - "SQL Server"
-  - "VoIP"
+- .NET
+- C#
+- JavaScript
+- jQuery
+- SQL Server
+- VoIP
+- SIP
+- WebRTC
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Founded 2005 in Amman; computer-telephony software products (InFinity IP PBX, LogFinity call recording, IVR, call-center platforms) sold across MENA, Europe and Asia. stack verified 2026-10-05: 2 employee profiles (Sr .Net Developer Raed Shabatat: ASP.NET MVC, C#, SQL Server, jQuery; Omar Abuhadid: ASP.NET, C#, MS SQL Server) + VoIP engineer at TeleFinity show .NET/C#, SQL Server, JavaScript/jQuery, VoIP."
+  early_career_signal: true
+  signals:
+  - Graduate
+notes: 'Reviewed 2026-11-01. The company-controlled website describes its in-house telecom and customer-service
+  software, including contact center, LogFinity recording/quality management, ActFinity IVR, SIP softphone, CTI,
+  helpdesk and WebRTC-SIP gateway. Its LinkedIn company profile reports establishment in 2005, Amman headquarters,
+  a 51-200 employee size band and 164 Mecca Street, Suite 404; Yellow Pages and a local business listing corroborate
+  building 164. Earlier JordanYP records from 2012 list a different Um Uthaina address, so precise current suite
+  occupancy is not independently confirmed. The previous coordinates were removed because a business-specific entrance
+  could not be corroborated. The official website lists sales@tele-finity.com for sales, not HR; a German Jordanian
+  University 2015 job-fair handbook lists jobs@tele-finity.com and fresh-graduate and young-professional hiring,
+  but that email''s current monitoring and present-day openings are unconfirmed. The 2015 handbook''s headcount
+  of 27 globally/17 Jordan is historical, not a current estimate. No current careers page, dated accepting vacancy
+  or internship found. .NET, C#, JavaScript, jQuery and SQL Server are supported only by historical employee self-reported
+  experience (including a 2010-2011 TeleFinity role), not a confirmed present production stack; VoIP, SIP and WebRTC
+  are supported product/protocol capabilities. Partial company verification: current headcount, active recruitment
+  channel, present internal stack and exact office occupancy remain unconfirmed.'
 evidence:
-  - type: "official_website"
-    url: "https://tele-finity.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.signalhire.com/companies/telefinity"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/345089/Telefinity_Computer_Telephony_Solutions"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.1888pressrelease.com/telefinity-signs-partnership-agreement-with-tawasol-telefin-pr-307691.html"
-    label: "Research source"
-  - type: "other"
-    url: "https://people.bayt.com/raed-shabatat/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.gulftalent.com/people/omar-abuhadid-1201379"
-    label: "Research source"
-  - type: "other"
-    url: "https://topline.com/people/jaber-260525105"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.976318,35.85845"
-    label: "Google Maps location"
+- type: official_website
+  url: https://tele-finity.com/
+  label: 'Official company homepage: contact center, call recording, IVR, CTI and telephony product lines; checked
+    2026-11-01'
+- type: official_website
+  url: https://tele-finity.com/about-us/
+  label: 'Official About Us: founded in 2005 in Melbourne and Amman; in-house software; sales@tele-finity.com'
+- type: official_website
+  url: https://tele-finity.com/contact-center/
+  label: 'Official product page: contact-center software'
+- type: company_linkedin
+  url: https://www.linkedin.com/company/telefinity/
+  label: 'Company LinkedIn: 51-200 size band, Amman HQ, 164 Mecca Street Suite 404, recent JoCall/LogFinity product
+    posts'
+- type: other
+  url: https://www.gju.edu.jo/sites/default/files/handbook_20152.pdf
+  label: 'German Jordanian University 2015 job-fair handbook p.100: historical fresh-graduate hiring, jobs@tele-finity.com
+    and 27 worldwide/17 Jordan employees'
+- type: company_listing
+  url: https://jordanict.com/company-listings/telefinity
+  label: 'Jordan ICT directory: Amman operation and +962 6 5526670'
+- type: company_listing
+  url: https://www.yellowpages.net/phone-962-65526670-software-company-Amman-JO35291.html
+  label: 'Local business listing: 164 Mecca Street and telephone +962 6 5526670'
+- type: other
+  url: https://www.jordanyp.com/company/372647/Tele_Finity_Computer_Telephony_Solutions
+  label: Older directory, last updated 2012, reports different Um Uthaina address; historical conflict
+- type: other
+  url: https://www.gulftalent.com/people/omar-abuhadid-1201379
+  label: 'Former employee self-report: 2010-2011 TeleFinity role and ASP.NET, C#, JavaScript and SQL Server skills;
+    historical, not present-day stack'
+- type: other
+  url: https://www.signalhire.com/companies/telefinity
+  label: 'Third-party 2026-10-22 listing: 100-200 estimated employees and 164 Mecca Street; not independently audited'
