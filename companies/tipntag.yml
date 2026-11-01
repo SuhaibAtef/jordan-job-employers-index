@@ -1,36 +1,62 @@
 name: "TipnTag"
-industry: "Local Discovery / Restaurant Tech"
+description: >-
+  Tip n' Tag is an Amman-based local discovery and community Q&A platform for finding products, services, places and activities. Its related Tatbeeqi offering supplies branded online-ordering websites and mobile apps for restaurants and other local businesses; Tip n' Tag, LLC is identified as the publisher of the Tatbeeqi Merchant app.
+verification_status: "partial"
+last_verified: "2026-11-01"
+industry: "Internet / Local Discovery / Restaurant Ordering Software"
 website: "https://www.tipntag.com/"
-careers_url: null
-linkedin: null
+careers_url: "https://www.tipntag.com/contact"
+linkedin: "https://www.linkedin.com/company/tip-n%27-tag"
 hr_email: null
-size: null
+size: "11-50 employees (company LinkedIn estimate; Bayt lists 1-9; current audited headcount unavailable)"
 location:
-  area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  area: "Jabal Amman, First Circle, Amman"
+  address: "59 Rainbow Street, Jabal Amman, Amman, Jordan (street and number supported by Tatbeeqi site and third-party directory; current office occupancy not independently confirmed)"
+  status: "provided_unverified"
+  confidence: "medium-high for Rainbow Street and number 59 from Tatbeeqi's contact footer, Tip n' Tag's HQ listing, company LinkedIn and JordanYP; current occupancy and entrance coordinates unverified; Google Play developer address instead lists 33 Mecca Street"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=59+Rainbow+Street+Jabal+Amman+Jordan"
 categories:
   - "mobile"
   - "web"
 technologies:
-  - "Flutter"
+  - "Android"
+  - "iOS"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman community-driven platform (Tip n' Tag) for local restaurant/shop discovery; also builds white-label restaurant ordering apps used by Amman eateries (e.g. Bites n' Bags). No public hiring info found. stack verified 2026-10-05: mobile engineer Aboud Khalaf's GitHub Flutter project 'tatbeeqi-' (domain used in TipnTag's App Store apps' privacy policies); TipnTag publishes cross-platform white-label restaurant apps on iOS/Android"
+notes: >-
+  Reviewed 2026-11-01. The official Tip n' Tag website remains accessible and describes local Q&A, community discovery, advertising and development work. Its About page says Khalid Kassim created the platform in 2011; LinkedIn lists founding in 2012, so legal founding year is unresolved. LinkedIn classifies the company as telecommunications but its actual services are more accurately local discovery, advertising and restaurant-ordering technology. The company LinkedIn profile lists 11-50 employees; Bayt's older employer profile lists 1-9, so no current headcount is confirmed. Tip n' Tag's own HQ listing and LinkedIn identify Rainbow Street, First Circle; Tatbeeqi's website states 59 Rainbow Street and solutions@tipntag.com, while Google Play lists Tip n' Tag, LLC as the Tatbeeqi Merchant publisher and a separate developer address at 33 Mecca Street. The Rainbow Street office address is plausible but current occupancy is not independently confirmed; earlier city-centre coordinates were removed as not a precise business location. The official Tip n' Tag contact page provides a Career Opportunities email link and a form accepting CVs, but the email address is obfuscated in the available page and was not transcribed or guessed. This is a general career-contact route, not evidence of a currently open role. No currently accepting vacancy, graduate internship or early-career programme was verified. Apple lists the company's Tip n' Tag iOS app (last version dated January 2021) and multiple branded restaurant apps; Google Play confirms Android merchant and restaurant products. Android and iOS are documented delivery platforms, not proof of a current internal programming stack. The previous Flutter attribution from an unrelated or unverified personal GitHub project could not be independently tied to this company and was removed.
 evidence:
   - type: "official_website"
     url: "https://www.tipntag.com/"
-    label: "Official website"
+    label: "Live local discovery and community Q&A platform"
+  - type: "official_website"
+    url: "https://www.tipntag.com/eula?page=about_us"
+    label: "Company About page, platform origins and founder"
+  - type: "official_website"
+    url: "https://www.tipntag.com/contact"
+    label: "Official career-opportunities contact link and CV form; mailbox obfuscated"
+  - type: "official_website"
+    url: "https://www.tipntag.com/place/s/tip-n-tag-hq-Amman-Jordan"
+    label: "Company-hosted HQ listing on Rainbow Street, First Circle and business telephone"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/tip-n%27-tag"
+    label: "Company services, 11-50 size band, 2012 founding claim and Rainbow Street address"
   - type: "other"
-    url: "https://www.tipntag.com/place/s/turkish-land-restaurant-1-Gardens-Amman-Jordan"
-    label: "Research source"
+    url: "https://www.jordanyp.com/company/375881/TipnTag"
+    label: "Independent but unverified directory listing Rainbow Street 59 and business phone"
+  - type: "official_website"
+    url: "https://www.tatbeeqi.com/"
+    label: "Related ordering product's official site, solutions@tipntag.com and Rainbow Street 59 address"
   - type: "other"
-    url: "https://www.ipaddress.com/website/tipntag.com/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://play.google.com/store/apps/details?id=com.tatbeeqimerchantapp"
+    label: "Google Play publisher Tip n' Tag LLC, merchant Android app and alternate developer address"
+  - type: "other"
+    url: "https://apps.apple.com/us/app/tip-n-tag/id469077482"
+    label: "Apple App Store publisher TipnTag Inc and historical iOS application release"
+  - type: "other"
+    url: "https://apps.apple.com/sg/developer/tip-n-tag-inc/id469077485"
+    label: "Apple developer portfolio of branded restaurant mobile apps"
+  - type: "other"
+    url: "https://www.bayt.com/en/company/tipntag-llc-1482257/"
+    label: "Historical employer profile with conflicting 1-9 size estimate"
