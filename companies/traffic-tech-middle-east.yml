@@ -1,39 +1,93 @@
 name: "Traffic Tech Middle East"
-industry: "Intelligent Transportation Systems / Smart Parking"
+description: >-
+  Traffic Tech Middle East (TTME) is an Amman-founded intelligent transportation and
+  traffic-engineering systems integrator established in 1985. It supplies, integrates,
+  installs and maintains traffic monitoring and enforcement systems, urban traffic
+  control, smart parking and access control, CCTV, automatic number-plate recognition,
+  industrial weighing and weigh-in-motion systems in Jordan and other regional markets.
+  Traffic Tech (Jordan) Co. (TTJ), established in 1994, is described by the company as
+  its principal Jordanian contracting subsidiary.
+verification_status: "partial"
+last_verified: "2026-11-01"
+industry: "Intelligent Transportation Systems / Traffic Engineering / Smart Parking and Security Integration"
 website: "https://traffic-tech.jo/"
 careers_url: null
-linkedin: null
-hr_email: "ttme@traffic-tech.com"
-size: "500+ (group)"
+linkedin: "https://www.linkedin.com/company/traffic-tech-middle-east"
+hr_email: null
+size: "11-50 employees (TTME LinkedIn company band; not audited; 500+ applies to a separately profiled Gulf company, not verified TTME headcount)"
 location:
-  area: "Amman"
-  address: "No. 4 Suleiman Nabulsi St, Abdali, Jabal Luwaibdeh, Amman 11191, Jordan"
-  status: "provided_unverified"
-  latitude: 31.96156
-  longitude: 35.90859
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96156,35.90859"
+  area: "Amman - Abdali / Jabal Al Lweibdeh"
+  address: "No. 4 Suleiman Nabulsi Street, Abdali, Jabal Al Lweibdeh, Amman 11191, Jordan"
+  status: "verified"
+  confidence: "high for published street and building: official site, company LinkedIn and independent parking-industry directory agree; current entrance occupancy was not inspected"
+  latitude: null
+  longitude: null
+  coordinate_confidence: "unresolved; prior 31.96156,35.90859 pin not independently verified as the company entrance"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=No.+4+Suleiman+Nabulsi+Street+Amman+Jordan"
 categories:
-  - "ai"
   - "iot"
+  - "security"
 technologies:
-  - "Computer Vision"
+  - "Automatic Number Plate Recognition (ANPR)"
+  - "IP CCTV"
+  - "RFID access control"
+  - "Parking guidance and LED space detection"
+  - "SCADA"
+  - "Weigh-in-Motion (WIM)"
+  - "Jenoptik TraffiStar SR591"
+  - "Jenoptik VECTOR SR P2P"
+  - "Jenoptik FlowTris"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Founded 1985 in Amman; regional ITS/smart-parking integrator; Jenoptik partner rolling out red-light/speed enforcement cameras and the FlowTris back-office platform across Greater Amman Municipality. Address and ttme@traffic-tech.com confirmed on official site footer."
+notes: >-
+  Reviewed 2026-11-01. The official site and company LinkedIn identify Traffic Tech
+  Middle East as founded in Amman in 1985; Traffic Tech (Jordan) Co. is described as a
+  related contracting company founded in 1994. Official product pages document ITS,
+  ANPR, IP CCTV, RFID, WIM and parking systems, while the company's project gallery
+  describes SCADA-enabled parking guidance at Abdali Boulevard and Abdali Mall.
+  Jenoptik's 2025-10-28 release independently confirms a Greater Amman Municipality
+  contract with TTME as local integrator/maintenance partner for 41 TraffiStar SR591
+  cameras, nine VECTOR SR P2P devices and the FlowTris back-office platform; the
+  announcement is not evidence that deployment was completed. These are delivered
+  products/partner platforms, not a verified internal programming or production stack.
+  Company LinkedIn gives 11-50 employees; the 500+ figure belongs to the separately
+  profiled Doha-based Traffic Tech (Gulf) W.L.L. and must not be used as TTME staff size.
+  The official site, LinkedIn and Parking Network corroborate No. 4 Suleiman Nabulsi
+  Street, Amman and phone +962 6 464 6941. The prior precise coordinates were not
+  independently corroborated and were removed. The previously listed
+  ttme@traffic-tech.com is a general business contact in Parking Network, not a
+  verified HR mailbox. No TTME-specific active careers page, current vacancy,
+  recruitment mailbox, internship or fresh-graduate programme was established.
+  Do not confuse this Jordanian traffic-systems company with traffictech.com, a
+  similarly named global freight/logistics business. Full-company verification
+  remains partial because recruitment information, current staff count and internal
+  software stack are not independently established.
 evidence:
   - type: "official_website"
     url: "https://traffic-tech.jo/"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.itsinternational.com/jenoptik-and-traffictech-middle-east-sign-jordan-deal"
-    label: "Research source"
-  - type: "other"
+    label: "Official Jordan company site: history, services, Amman address and phone; checked 2026-11-01"
+  - type: "official_website"
+    url: "https://traffic-tech.jo/about/"
+    label: "Official TTME 1985 and TTJ 1994 history, regional services"
+  - type: "official_website"
+    url: "https://traffic-tech.jo/products/"
+    label: "Official ITS, traffic monitoring, smart parking, CCTV, WIM and ANPR solutions"
+  - type: "official_website"
+    url: "https://traffic-tech.jo/products/access-control-security-and-cctv-systems/"
+    label: "Official RFID, IP CCTV, access control and ANPR products"
+  - type: "official_website"
+    url: "https://traffic-tech.jo/project-gallery/"
+    label: "Official Abdali parking guidance and SCADA project description"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/traffic-tech-middle-east"
+    label: "TTME company profile: 11-50 staff band, 1985 founding and No. 4 Suleiman Nabulsi address"
+  - type: "company_listing"
     url: "https://www.parking.net/parking-industry/traffic-tech-middle-east"
-    label: "Research source"
+    label: "Independent Amman address and phone corroboration; general business email"
   - type: "other"
-    url: "https://www.jenoptik.com/news/pressreleases/2025/10/28/contract-traffic-safety-amman-jordan"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.96156,35.90859"
-    label: "Google Maps location"
+    url: "https://www.jenoptik.us/news/press-releases/2025/10/28/traffic-safety-contract-in-jordan"
+    label: "Jenoptik press release dated 2025-10-28: Amman contract, TTME integration role, TraffiStar, VECTOR and FlowTris"
+  - type: "company_listing"
+    url: "https://www.asia-pages.com/company/2111.html"
+    label: "Independent directory corroborating Jordanian address and telephone"
