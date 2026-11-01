@@ -1,49 +1,102 @@
 name: "TruTed"
-industry: "Software agency (web, mobile, cloud)"
-website: "https://truted.com"
-careers_url: null
-linkedin: null
-hr_email: null
-size: "50+"
+description: >-
+  TruTed is an Amman-headquartered software development and digital-product
+  agency founded in 2016 by Mohammad Al-Sallal. It designs and builds websites,
+  e-commerce and retail platforms, mobile applications, cloud-based systems,
+  and custom business software. Its official portfolio describes inventory,
+  point-of-sale and order-management integrations, while its services also
+  cover UI/UX, branding and creative production for clients internationally.
+verification_status: "partial"
+last_verified: "2026-11-01"
+industry: "IT services and consulting / custom web, mobile and cloud software development"
+website: "https://truted.com/"
+careers_url: "https://truted.com/careers"
+linkedin: "https://www.linkedin.com/company/truted"
+hr_email: "careers@truted.com"
+size: "51-200 employees (LinkedIn size band; official site claims 50+ professionals across five offices but also displays 15+ team members; no audited headcount)"
 location:
-  area: "Amman"
-  address: "Queen Rania St, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.99797
-  longitude: 35.88235
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99797,35.88235"
+  area: "Amman - Queen Rania Street"
+  address: "Queen Rania Street, Amman, Jordan (official headquarters; building and suite not published)"
+  status: "provided_unverified"
+  confidence: "high for Amman and Queen Rania Street based on official contact page, Clutch and DesignRush; exact building, current occupancy and entrance unverified"
+  latitude: 32.0112415
+  longitude: 35.870346
+  coordinate_confidence: "approximate Google Maps business pin linked from official contact page; not independently surveyed or verified as an office entrance; replaces unrelated older pin"
+  maps_url: "https://maps.app.goo.gl/CgzFDWqC8ctvoKc4A"
 categories:
   - "data"
-  - "devops"
   - "ecommerce"
   - "mobile"
   - "web"
+  - "design"
 technologies:
-  - "Angular"
-  - "Flutter"
-  - "Kotlin"
-  - "MongoDB"
-  - "Node.js"
-  - "Shopify"
-  - "Swift"
-  - "WordPress"
+  - "Angular (officially named on project case studies and 2026 careers listing)"
+  - "Node.js (officially named on project case studies)"
+  - "MongoDB (officially named on project case studies)"
+  - "Flutter (official mobile-services technology graphic; production deployment unconfirmed)"
+  - "Kotlin (official mobile-services technology graphic; production deployment unconfirmed)"
+  - "Swift (official mobile-services technology graphic; production deployment unconfirmed)"
+  - "JavaScript / HTML / CSS (official Angular Front-End Developer job requirements)"
+  - "Shopify (TechBehemoths-listed service focus; not independently confirmed internal stack)"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Amman software agency (est. 2016 by Mohammad Al-Sallal) building websites, cross-platform mobile apps and cloud systems; 50+ team across 5 offices, 450+ projects, Spark Award 2019. No public email, LinkedIn or careers page found on site."
+  signals:
+    - "Official careers page listed an Angular Front-End Developer role in Amman, full-time and mid-senior, on 2026-11-01; application acceptance not independently tested"
+    - "Official careers page invites general applications at careers@truted.com"
+notes: >-
+  Reviewed 2026-11-01. Official About page identifies Mohammad Al-Sallal as
+  founder and a 2016 Amman origin, and documents websites, apps, cloud systems,
+  e-commerce/POS integrations, digital branding and creative production.
+  Portfolio case studies explicitly identify Angular, Node.js and MongoDB;
+  mobile-services graphics show Flutter, Kotlin and Swift, without proving
+  deployment in a specific client project. The official careers page currently
+  lists one Angular Front-End Developer opening in Amman (full-time,
+  mid-senior), asks for JavaScript, HTML and CSS, and accepts general
+  applications at careers@truted.com. No graduate-specific vacancy or formal
+  internship was confirmed, so early_career_signal remains false. The
+  company contact page independently publishes the same recruitment mailbox,
+  general contact hello@truted.com and phone +962 79 155 5633. LinkedIn
+  lists 51-200 employees; the official About page says 50+ professionals
+  across five international offices but elsewhere says 15+ team members,
+  while third-party agency directories report different ranges. None is
+  an audited current Jordan headcount. Official contact, Clutch and DesignRush
+  corroborate Queen Rania Street, Amman, without a building or suite.
+  The map pin is taken from the Google Maps business listing linked on the
+  official contact page, not a verified entrance. The previous 31.99797,
+  35.88235 coordinates were not supported for the listed headquarters.
+  The full current production stack, precise office occupancy, current
+  application acceptance and early-career hiring remain unconfirmed;
+  company verification is therefore partial. Previously listed WordPress
+  was not established as a production technology, and a DevOps specialization
+  was not independently confirmed.
 evidence:
   - type: "official_website"
-    url: "https://truted.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://truted.com/about/"
-    label: "Research source"
-  - type: "other"
+    url: "https://truted.com/"
+    label: "Official homepage: founding, web/mobile/cloud services, current projects and 2026 activity; checked 2026-11-01"
+  - type: "official_website"
+    url: "https://truted.com/about"
+    label: "Official founding, founder, service lines, self-reported size and Angular/Node.js/MongoDB project stacks"
+  - type: "official_website"
     url: "https://truted.com/services"
-    label: "Research source"
-  - type: "other"
+    label: "Official services: cross-platform apps, cloud systems and Kotlin/Swift/Flutter/Angular/Node.js/MongoDB technology graphics"
+  - type: "official_website"
+    url: "https://truted.com/contact"
+    label: "Official Jordan headquarters on Queen Rania Street, phone, general and careers email and Google Maps listing"
+  - type: "official_careers"
+    url: "https://truted.com/careers"
+    label: "Official Angular Front-End Developer opening (Amman, full-time, mid-senior), JavaScript/HTML/CSS and general applications; checked 2026-11-01"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/truted"
+    label: "Company LinkedIn: Amman headquarters, 2016 founding, 51-200 employee size band and software services"
+  - type: "company_listing"
     url: "https://clutch.co/profile/truted"
-    label: "Research source"
+    label: "Clutch company profile: Queen Rania Street headquarters, 50-249 estimate, 2026 client reviews and services"
+  - type: "company_listing"
+    url: "https://www.designrush.com/agency/profile/truted"
+    label: "DesignRush independent Queen Rania Street, Amman location listing; different headcount estimate"
+  - type: "company_listing"
+    url: "https://techbehemoths.com/company/truted"
+    label: "TechBehemoths Amman listing and third-party Shopify service attribution; not a verified internal stack"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.99797,35.88235"
-    label: "Google Maps location"
+    url: "https://maps.app.goo.gl/CgzFDWqC8ctvoKc4A"
+    label: "Google Maps company pin linked by official contact page; approximate business marker, not independently verified office entrance"
