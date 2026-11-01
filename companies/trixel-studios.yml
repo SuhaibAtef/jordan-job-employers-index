@@ -1,44 +1,87 @@
 name: "Trixel Studios"
-industry: "3D animation / AR/VR production"
-website: "https://www.trixelcg.com"
+description: >-
+  Trixel Studios is an Amman-based computer-generated imagery (CGI), animation
+  and virtual-production studio founded in 2010 by Rami Al-Fuqaha'a. It
+  produces 3D character animation, visual effects, architectural and interior
+  visualization, interactive AR/VR/MR experiences, and game-design projects.
+  The company says it joined forces with UBitc Group in 2022 and offers
+  creative-technology training alongside client production services.
+verification_status: "partial"
+last_verified: "2026-11-01"
+industry: "Animation and post-production / CGI / XR and game production"
+website: "https://trixelcg.com/"
 careers_url: null
-linkedin: null
-hr_email: "info@trixelcg.com"
-size: "10-49"
+linkedin: "https://www.linkedin.com/company/trixel-studios"
+hr_email: null
+size: "11-50 employees (LinkedIn company-size band; Clutch estimates 10-49; not audited)"
 location:
-  area: "Amman"
-  address: "Al Madenah Street, Al-Basem Center, 4th Floor, Office #7, Amman 11937, Jordan"
+  area: "Amman - King Abdullah II Street (published current address); older Tla Al-Ali listing"
+  address: "King Abdullah II Street, Amman 11822, Jordan (official website lists no. 162; company LinkedIn and BizMidEast list no. 169; exact building unresolved)"
   status: "provided_unverified"
-  latitude: 31.99978
-  longitude: 35.83061
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99978,35.83061"
+  confidence: "medium for King Abdullah II Street and Amman; low for exact building number and present occupancy because official and LinkedIn addresses conflict, while older Al-Madinah Street listings differ"
+  latitude: null
+  longitude: null
+  coordinate_confidence: "unverified: prior 31.99978,35.83061 pin was not corroborated for the currently published King Abdullah II Street premises"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=King+Abdullah+II+Street+Amman+Jordan"
 categories:
   - "design"
   - "games"
 technologies:
-  - "BIM"
-  - "Unity"
-  - "Unreal Engine"
+  - "Unreal Engine (official virtual-production and portfolio evidence)"
+  - "Autodesk Maya (official 3D character-animation service)"
+  - "Autodesk 3ds Max (official training expertise)"
+  - "V-Ray (official training expertise)"
+  - "BIM (Clutch-listed architectural service; software unspecified)"
+  - "AR/VR/MR (documented production capabilities)"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman CGI/animation studio (est. 2010) producing VR/AR, 3D animation, archviz and games; an Autodesk Certified Training Center running 3D training courses — relevant for aspiring grads (public email Info@Trixelcg.com, +962 6 553 3149)."
+notes: >-
+  Reviewed 2026-11-01. The official About and Services pages corroborate the
+  2010 founding, Rami Al-Fuqaha'a, CGI/VFX, animation, architectural
+  visualization, XR and game design, as well as the reported 2022 collaboration
+  with UBitc Group. Company LinkedIn activity in 2026 describes in-house
+  avatar/character and virtual-production work; LinkedIn's 11-50 size band
+  is not a current audited headcount. Official service pages mention Maya,
+  Autodesk and V-Ray training expertise, and Unreal Engine virtual production;
+  Clutch lists BIM as an architectural-design service, not a named software
+  stack. Previously listed Unity was not corroborated and was removed.
+  Official website contact details are +962 6 534 1800 and info@trixelcg.com,
+  which is a general inquiries address, not a confirmed HR mailbox. The
+  company advertises training courses and a training portal; course attendance
+  is not evidence of a graduate job or internship. No current careers portal,
+  recruiting email, active vacancy or formal internship was established.
+  The official footer gives 162 King Abdullah II Street, Amman 11822, while
+  company LinkedIn and BizMidEast identify no. 169 on the same street. Older
+  TipnTag and Allspots listings give Al-Madinah Street, Al Basem Center,
+  with inconsistent floor and office numbers. Exact current occupancy is
+  unresolved; prior numeric coordinates were removed instead of asserting
+  a verified entrance. Company verification remains partial.
 evidence:
   - type: "official_website"
-    url: "https://www.trixelcg.com"
-    label: "Official website"
-  - type: "other"
     url: "https://trixelcg.com/"
-    label: "Research source"
-  - type: "other"
+    label: "Official website, services, public phone/email and King Abdullah II Street address; checked 2026-11-01"
+  - type: "official_website"
+    url: "https://trixelcg.com/about-us/"
+    label: "Official founding, UBitc collaboration, named founder, Autodesk/V-Ray expertise and conflicting no. 162 address"
+  - type: "official_website"
+    url: "https://trixelcg.com/services/"
+    label: "Official CGI, animation, Maya, game production, AR/VR, Unreal virtual production and training services"
+  - type: "official_website"
+    url: "https://trixelcg.com/our-work/"
+    label: "Official XR, Unreal Engine and architectural visualization portfolio"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/trixel-studios"
+    label: "Company LinkedIn: 11-50 employee band, no. 169 address, 2010 founding, UBitc partnership and recent 2026 production posts"
+  - type: "company_listing"
     url: "https://clutch.co/profile/trixel-studios"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.youtube.com/watch?v=AOuF_MzNDes"
-    label: "Research source"
-  - type: "other"
+    label: "Clutch: 10-49 employee estimate, 2010 founding, CGI/XR services and BIM service listing"
+  - type: "company_listing"
+    url: "https://www.bizmideast.com/JO/trixel-studios-06-534-1800"
+    label: "Independent listing: King Abdullah II Street no. 169 and phone +962 6 534 1800"
+  - type: "company_listing"
+    url: "https://www.tipntag.com/place/s/trixel-studios-Amman-Jordan"
+    label: "Older Al Madinah Street, Al Basem Complex office no. 1 listing; conflicts with current company address"
+  - type: "company_listing"
     url: "https://www.allspots.com/jo/directory/%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1+%D9%85%D8%B1%D8%A7%D9%83%D8%B2+%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-Computer+training+centers/Trixel+Studios-.html"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.99978,35.83061"
-    label: "Google Maps location"
+    label: "Historical Al Madenah Street, Al-Basem Center floor 2 office 7 listing; not current-location proof"
