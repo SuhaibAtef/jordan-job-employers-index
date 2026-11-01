@@ -1,19 +1,30 @@
 name: "Talentspace.ai"
-industry: "HR tech / AI recruitment"
-website: "https://talentspace.ai"
+description: >-
+  Talentspace.ai is an AI-enabled recruitment and workforce-technology platform
+  founded in 2020, offering candidate sourcing, screening, job matching,
+  recruitment automation, labor-market analytics and managed hiring services.
+  Its brand operates through legal entities in Jordan, Saudi Arabia and Qatar;
+  the official website identifies Al-Adwat Al-Tiqanih Lilbarmajah as its
+  Jordanian operating company. The company's LinkedIn profile currently
+  identifies Riyadh as its primary headquarters and lists an Amman office.
+verification_status: "partial"
+last_verified: "2026-11-01"
+industry: "HR Technology / AI Recruitment & Software"
+website: "https://talentspace.ai/"
 careers_url: "https://drive.talentspace.ai/recruitment/recruitment_portal/job_detail/1"
-linkedin: null
+linkedin: "https://www.linkedin.com/company/talentspaceai/"
 hr_email: null
 size: "11-50"
 location:
-  area: "Amman"
-  address: "Al-Yanabii Street, 6th Circle, Amman, Jordan"
+  area: "Amman, 6th Circle"
+  address: "Building 8, Al Adeeb Center, Al-Yanabii Street 102, Amman, Jordan (official legal-entity address; office unit unverified)"
   status: "provided_unverified"
-  latitude: 31.956374
-  longitude: 35.863308
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.956374,35.863308"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
+  - "data"
   - "web"
 technologies:
   - "Angular"
@@ -25,27 +36,64 @@ technologies:
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-notes: "Amman AI-powered recruitment platform (founded 2020, registered in Jordan, 11-50 employees); ran front-end internships converting top interns to full-time; AI job matching and resume parsing. GPS upgraded: Google Maps business listing (Al-Yanabii Street, 6th Circle) corroborated by the company's own privacy policy (6th Circle, Amman)."
+    - "Historical Amman UI/UX/front-end internship advertised on the company recruitment portal, with an application deadline of 2024-11-10 and a possible full-time offer for a top intern; not currently open."
+    - "Historical Amman Software QA Engineer posting (1-3 years' experience) on LinkedIn; closed to applications at the 2026-11-01 review."
+notes: >-
+  Reviewed 2026-11-01. The official Talentspace.ai site describes AI recruitment,
+  automated matching, candidate vetting, workforce services and labor-market
+  analytics. Its official legal-information page names the Jordanian operating
+  entity Al-Adwat Al-Tiqanih Lilbarmajah (national establishment number
+  200148172) and gives Building 8, Al Adeeb Center, Al-Yanabii Street 102,
+  Amman, telephone +962 79 588 5661. The official privacy policy separately
+  states 6th Circle, Amman. LinkedIn lists an Amman office at Building 14,
+  Hawa Complex, Office 15, Al-Yanabii Street and now describes Al Raed,
+  Riyadh as the primary headquarters. CB Insights also repeats the Building
+  14 address, while Lucidity Insights still describes Amman as headquarters.
+  These are conflicting location and headquarters records, not evidence of
+  one confirmed office entrance. Previous coordinates 31.956374,35.863308
+  were not independently tied to the current official legal address and
+  were removed; street-level Amman presence has medium confidence, precise
+  unit and map pin low confidence. LinkedIn's 11-50 size band is company-wide,
+  not a verified Jordan headcount. StartupsJo lists hello@talentspace.ai as a
+  general contact and Mohannad Alsouqi as contact person, not as an HR contact;
+  no dedicated HR email was corroborated. The retained recruitment-portal
+  link is to an expired 2024 internship (HTML, CSS, JavaScript, React, Angular,
+  Node.js), and a 2025 Software QA Engineer LinkedIn listing is closed.
+  Historical senior engineering recruitment referenced the MERN stack.
+  These technologies are historical advertised requirements, not a verified
+  current production stack. Other portal internship entries are dated 2023-25;
+  no currently accepting internship or direct vacancy was established.
 evidence:
   - type: "official_website"
-    url: "https://talentspace.ai"
-    label: "Official website"
-  - type: "careers"
-    url: "https://drive.talentspace.ai/recruitment/recruitment_portal/job_detail/1"
-    label: "Careers / application page"
-  - type: "other"
-    url: "https://talentspace.ai/terms-and-conditions/"
-    label: "Research source"
-  - type: "other"
+    url: "https://talentspace.ai/"
+    label: "Official platform - AI hiring, recruitment services and labor-market analytics"
+  - type: "official_website"
+    url: "https://talentspace.ai/legal_information/"
+    label: "Official legal information - Jordan operating entity, Building 8 address and phone"
+  - type: "official_website"
     url: "https://talentspace.ai/privacy-policy/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.cbinsights.com/compare/talentprise-vs-talentspaceai"
-    label: "Research source"
-  - type: "other"
+    label: "Official privacy policy - 6th Circle, Amman contact location"
+  - type: "official_website"
+    url: "https://talentspace.ai/terms-and-conditions/"
+    label: "Official 2025 terms - recruitment platform functions and jurisdictions"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/talentspaceai/"
+    label: "Company LinkedIn - founded 2020, 11-50 employees, Riyadh primary HQ and Building 14 Amman office"
+  - type: "careers_page"
+    url: "https://drive.talentspace.ai/recruitment/recruitment_portal/job_detail/1"
+    label: "Company recruitment portal - expired Amman UI/UX/front-end internship, deadline 2024-11-10"
+  - type: "job_post"
+    url: "https://www.linkedin.com/jobs/view/4233292578"
+    label: "Historical Software QA Engineer Amman listing, 1-3 years; no longer accepting applications"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/senior-full-stack-engineer-mern-react-node-js-at-talentspace-ai-we-are-hiring-%F0%9F%9A%80-3998652400"
+    label: "Historical closed senior MERN engineering posting - not a verified current internal stack"
+  - type: "company_listing"
+    url: "https://www.startupsjo.com/en/Pages/CustomPages/Startup/6807"
+    label: "StartupsJo - Jordan startup identity, general contact and named contact person"
+  - type: "company_listing"
+    url: "https://www.cbinsights.com/company/talentspaceai"
+    label: "CB Insights - historical Amman Building 14 address and founding date"
+  - type: "company_listing"
     url: "https://lucidityinsights.com/startups/talentspace-ai-11456"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.956374,35.863308"
-    label: "Google Maps location"
+    label: "Lucidity Insights - 2020 founding, Amman headquarters listing and 11-50 size estimate"
