@@ -1,41 +1,56 @@
 name: "Telecom Enterprise"
-industry: "Telecommunications / Value-Added Services (VAS)"
-website: "http://www.tele-ent.com"
+description: "Telecom Enterprise (Tele-Ent) is a Jordan-based telecommunications value-added-services developer established in 2010. Its official site describes managed VAS and mobile content services for MENA operators, including USSD advertising, telecom voucher/credit POS services, and consumer mobile and web products for diet planning and gaming top-ups."
+verification_status: "partial"
+last_verified: "2026-11-01"
+industry: "Telecommunications / Mobile Value-Added Services (VAS) & Digital Products"
+website: "https://www.tele-ent.com/"
 careers_url: null
 linkedin: null
 hr_email: null
-size: "~15"
+size: "25 staff in Jordan ICT's 2022 directory (historical); a third-party company database currently estimates 11-20, not independently verified"
 location:
-  area: "Amman"
-  address: "Queen Rania Street, Abu El Hajj Commercial Complex, Floor 7, Office 713, Amman, Jordan"
+  area: "Amman, Jordan"
+  address: null
   status: "approximate"
-  latitude: 32.04856
-  longitude: 35.88933
-  maps_url: "https://www.google.com/maps/search/?api=1&query=32.04856,35.88933"
+  confidence: "medium for Amman operations (Jordan ICT industry directory); low for any specific street, building or office"
+  latitude: null
+  longitude: null
+  coordinate_confidence: "unresolved; previously listed 32.04856, 35.88933 has no corroborated building-level source"
+  maps_url: null
 categories:
-  - "consulting"
   - "telecom"
+  - "mobile"
   - "web"
 technologies:
-  - "HTML"
-  - "JavaScript"
-  - "PHP"
-  - "SMS Gateway"
+  - "USSD"
+  - "SMS"
+  - "Android"
 job_seeker:
-  early_career_signal: true
-  signals:
-    - "Internship"
-notes: "Managed VAS and content services for mobile operators in MENA since 2010 (USSD advertising platform, TE-Cards POS, gaming top-up apps). No public internship/grad evidence found."
+  early_career_signal: false
+  signals: []
+notes: "Reviewed 2026-11-01. Official tele-ent.com site is live and describes managed mobile VAS/content, USSD advertising, TE-Cards POS, Sambateek/Takhsees diet services and Into Gamers top-ups. Jordan ICT's 2022 directory lists 2010 establishment, 25 staff, MENA services, Amman P.O. Box 360064, telephone +962 79 6968481, Aiman Ziq as CEO and aiman@tele-ent.com as a business contact; these figures and personnel are historical, not independently reconfirmed in 2026. A third-party aggregator estimates 11-20 employees, conflicting with the historical 25; no reliable current headcount established. The official dev.tele-ent.com TE VAS login lists support@tele-ent.com for product support, not HR. No verified company LinkedIn page or current careers page, job posting, internship or graduate-hiring evidence found; the similarly named telecomenterprise.net LinkedIn company is an unrelated Cairo-based entity and must not be used. The prior Queen Rania Street/Abu El Hajj Commercial Complex floor/office address and coordinates were not corroborated by the company or reliable independent geographic sources and have been removed; only city-level Amman is supported. USSD and SMS are documented service platforms; Android is supported by the third-party app listing for the Telecom Enterprise-published SlimCity Diet app, not proof of a full internal stack. Removed unsupported PHP, HTML and JavaScript internal-stack claims and unsupported internship signal. Company verification is partial because precise office location, current workforce, HR recruitment channel and current technical stack remain unverified."
 evidence:
   - type: "official_website"
-    url: "http://www.tele-ent.com"
-    label: "Official website"
+    url: "https://www.tele-ent.com/"
+    label: "Official site: managed VAS, USSD advertising, TE-Cards POS, diet and gaming products; checked 2026-11-01"
+  - type: "official_website"
+    url: "https://www.tele-ent.com/contact.html"
+    label: "Official contact page exists, but public text does not expose a verifiable street address or HR contact"
+  - type: "official_website"
+    url: "https://dev.tele-ent.com/TEVAS2/auth/login"
+    label: "Company-hosted TE VAS product support page: support@tele-ent.com, not an HR mailbox"
+  - type: "company_listing"
+    url: "https://jordanict.com/whos_who_Jordan_ICT_PDF_2022.pdf"
+    label: "Jordan ICT 2022 directory: 2010 founding, 25 historical staff, Amman postal address, telephone, Aiman Ziq and service lines"
+  - type: "company_listing"
+    url: "https://jordanict.com/2020/company-profile/telecom-enterprise"
+    label: "Jordan ICT historical company profile: USSD, location-based services, mobile advertising and regional telecom customers"
+  - type: "company_listing"
+    url: "https://prospeo.io/c/telecom-enterprise"
+    label: "Third-party estimate of 11-20 staff and 2010 founding; employee count not independently confirmed"
   - type: "other"
-    url: "http://tele-ent.com"
-    label: "Research source"
+    url: "https://chrome-stats.com/d/com.ta5sees.sambateek"
+    label: "2026 app listing: Telecom Enterprise publisher, SlimCity Diet Android app updated 2026-01-29"
   - type: "other"
-    url: "https://rocketreach.co/telecom-enterprise-profile_b5df0f8af42e4fb7"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=32.04856,35.88933"
-    label: "Google Maps location"
+    url: "https://teletimesinternational.com/2012/telecom-enterprise-and-umniah-launch-targeted-mobile-advertising-service/"
+    label: "2012 independent report of Telecom Enterprise and Umniah targeted mobile advertising partnership; historical"
