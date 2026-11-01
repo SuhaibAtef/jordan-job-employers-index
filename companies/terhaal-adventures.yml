@@ -1,42 +1,56 @@
 name: "Terhaal Adventures"
-industry: "Adventure Tour Operator / Tourism Platform"
+description: >-
+  Terhaal Adventures is an Amman-based inbound destination-management and adventure-tour operator offering guided hiking, trekking, canyoning, cycling, Petra and Wadi Rum excursions, day trips and multi-day Jordan itineraries. Its current website describes the Terhaal brand as a joint venture between Terhaal Adventures Limited and Discovery Circle Tours.
+verification_status: "partial"
+last_verified: "2026-11-01"
+industry: "Travel Arrangements / Adventure Tourism and Inbound Tour Operations"
 website: "https://terhaal.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/terhaal-adventures"
 hr_email: null
-size: null
+size: "2-10 employees (LinkedIn company-size band; not an audited headcount)"
 location:
-  area: "Amman"
-  address: "Al-Sina'ah, Bayader Wadi Al-Seer, Amman"
+  area: "Jabal Al Lweibdeh, Amman"
+  address: "22 Al Baouneyya, Jabal Al Lweibdeh, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.95563
-  longitude: 35.84277
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95563,35.84277"
+  confidence: "high for the published street/building address (official contact page and business listings); medium for current physical occupancy because LinkedIn still shows an older Sweifieh address"
+  latitude: null
+  longitude: null
+  coordinate_confidence: "unresolved; former 31.95563, 35.84277 pin was linked to an older Bayader address, not the currently published office"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=22+Al+Baouneyya+Jabal+Al+Lweibdeh+Amman+Jordan"
 categories:
   - "travel"
-  - "web"
-technologies:
-  - "WordPress"
+technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman adventure travel operator (hiking, cycling, trekking, canyoning) with online bookable trips and group departures. NOTE: directory listings conflict on the office address — an older listing gives Al-Sina'ah, Bayader Wadi Al-Seer (matching this pin), while newer listings give Ali Nasuh Al Tahir St., Sweifieh (Building #48, 2nd floor); no Maps listing confirmed the exact pin."
+notes: >-
+  Reviewed 2026-11-01. The current official website advertises Jordan adventure tours and scheduled 2026/2027 departures, and the About page describes a joint venture between Terhaal Adventures Limited and Discovery Circle Tours. LinkedIn lists a 2-10 employee size band, Amman headquarters, and founded 2006, while its About text says established in 2007; the founding year is not reconciled. The official contact page gives 22 Al Baouneyya, Jabal Al Lweibdeh, Amman and +962 6 464 1959, corroborated by business listings. LinkedIn and older directories instead give 48 Ali Nasooh Tahir Street, Sweifieh; an older directory also gives Al-Sina'ah, Bayader Wadi Al-Seer. The current official address is preferred, but office occupancy and precise coordinates were not independently confirmed; the old Bayader-linked pin was removed. A business listing publishes team@terhaal.com as a general contact, not a confirmed HR channel. No current careers page, dated employee vacancy, internship, or recruiting email was found. The previously listed WordPress stack was not independently revalidated after the company's reported June 2026 website redesign, so no internal technology stack is asserted. Partial company verification does not imply confirmed hiring or verified location.
 evidence:
   - type: "official_website"
     url: "https://terhaal.com/"
-    label: "Official website"
+    label: "Current official tours and departures"
+  - type: "official_website"
+    url: "https://terhaal.com/about-terhaal/"
+    label: "Official services and joint-venture description"
+  - type: "official_website"
+    url: "https://terhaal.com/contact-us/"
+    label: "Current published office address and telephone"
+  - type: "official_website"
+    url: "https://terhaal.com/trip/jordan-adventure/"
+    label: "2026 scheduled trip evidence"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/terhaal-adventures"
+    label: "Company size, industry, headquarters and older Sweifieh address"
   - type: "other"
-    url: "https://www.jordanyp.com/company/341941/Terhaal_Ecoadventure"
-    label: "Research source"
+    url: "https://www.travelagents10.com/JO/Amman/416453766392/Terhaal--Adventures"
+    label: "2026 business activity and Al Baouneyya address"
   - type: "other"
-    url: "https://www.tourtravelworld.com/travel-agents/terhaal-adventures-in-amman-41064/"
-    label: "Research source"
+    url: "https://www.bizmideast.com/JO/discovery-terhaal-jordan-and-petra-06-464-1959"
+    label: "Independent listing of current office address and telephone"
   - type: "other"
-    url: "https://www.tipntag.com/place/s/terhaal-adventures-Seventh-Circle-Amman-Jordan"
-    label: "Research source"
+    url: "https://www.jordanyp.com/company/353984/Terhaal_Eco_Adventures"
+    label: "Older Sweifieh address; explicitly unverified listing"
   - type: "other"
     url: "https://www.allspots.com/jo/directory/Travel+agencies-%D8%B3%D9%81%D8%B1+%D9%88%D9%83%D8%A7%D9%84%D8%A7%D8%AA/Terhaal-%D8%AA%D8%B1%D8%AD%D8%A7%D9%84.html"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.95563,35.84277"
-    label: "Google Maps location"
+    label: "Older 48 Ali Nasuh Al Tahir Street, second-floor listing"
