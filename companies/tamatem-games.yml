@@ -1,62 +1,83 @@
-name: "Tamatem Games"
-industry: "Mobile games"
-website: "https://www.tamatem.co"
-careers_url: "https://builtin.com/company/tamatem-games/jobs"
-linkedin: null
+name: Tamatem Games
+description: Amman-headquartered mobile-games publisher founded in 2013. Tamatem partners with international developers to localize, market, monetize and distribute mobile games for Arabic-speaking audiences; its public services include game design, marketing, localization, analytics and community support, alongside Tamatem Plus payment-related activities.
+verification_status: partial
+last_verified: '2026-11-01'
+industry: Mobile game publishing and gaming technology
+website: https://tamatem.co/
+careers_url: https://apply.workable.com/tamatem/
+linkedin: https://www.linkedin.com/company/tamatem-inc-/
 hr_email: null
-size: "51-200"
+size: 51-200
 location:
-  area: "Amman"
-  address: "King Hussein Business Park, Grow Building No. 23, Amman, Jordan"
-  status: "provided_unverified"
+  area: Amman, Al Jandaweel
+  address: King Hussein Business Park, Building 23, 2nd floor (floor per LinkedIn), Al Jandaweel, Amman, Jordan
+  status: provided_unverified
   latitude: 31.971632
   longitude: 35.83284
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.971632,35.83284"
+  maps_url: https://www.google.com/maps/search/?api=1&query=31.971632,35.83284
 categories:
-  - "data"
-  - "devops"
-  - "games"
-  - "mobile"
-  - "web"
+- data
+- fintech
+- games
+- mobile
+- web
 technologies:
-  - "Django"
-  - "Docker"
-  - "JavaScript"
-  - "MySQL"
-  - "PostgreSQL"
-  - "Python"
-  - "React"
-  - "TypeScript"
+- Android
+- Django
+- Flask
+- iOS
+- Jira
+- Playwright
+- PostgreSQL
+- Postman
+- Python
+- REST API
+- SQL
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-notes: "Arabic mobile game publisher localizing international games for MENA (plus Tamatem Plus payments platform); active internship postings on BuiltIn ('Intern - Game Artist & Graphic designer', 'Community & Support Intern') indicate grad-friendly hiring. No public HR email found. Audit 2026-10-03: GPS coords confirmed as-is (match King Hussein Business Park) and approx flipped to false — office address verified on tamatem.co's own privacy policy plus craft.co/pitchbook. LinkedIn URL nulled (not evidenced in listed sources). tech_stack trimmed to items from their startup.jobs software-engineer posting (Unity/iOS/Android untraceable)."
+  - Tamatem Internship Program listed for Amman students and recent graduates on Built In in 2026; current acceptance on official ATS not independently confirmed.
+  - Amman QA Specialist Engineer posting in October 2026 required 3-4 years of experience; Built In listing observed, official application status unconfirmed.
+  - Junior Python/software engineer posting for Amman required 1-4 years of experience but was removed from Built In on 2026-10-11.
+notes: '2026-11-01 review: Official website confirms 2013 founding, game publishing/localization, analytics, marketing, and contact address King Hussein Business Park Building 23, Amman; LinkedIn specifies second floor and estimates 51-200 employees (not an audited Jordan headcount). Phone +962 6 5860010 and general support@tamatem.co appear on official contact pages; neither is a dedicated HR mailbox. Official recruitment-process page profiles Batoul (recruitment supervisor) and Dina (recruitment representative), but publication date/current tenure are not established. Official careers page links to Workable; its dynamically rendered vacancies could not be independently enumerated. Built In listed an Amman internship for students/recent graduates and a QA role, but live application acceptance was not confirmed. The junior Python role was explicitly removed on 2026-10-11. Technologies represent Android/iOS published game platforms and requirements or nice-to-have tools in 2026 engineering/QA
+  postings, not a verified full internal production stack. Prior Docker, JavaScript, MySQL, React and TypeScript claims were removed from the current technology list because current corroboration was insufficient. Third-party geolocation at 31.971607,35.832823 closely matches the retained coordinate, but the exact office entrance/occupancy is not independently verified; coordinate is approximate with medium confidence. Company-level verification remains partial regardless of location evidence.'
 evidence:
-  - type: "official_website"
-    url: "https://www.tamatem.co"
-    label: "Official website"
-  - type: "careers"
-    url: "https://builtin.com/company/tamatem-games/jobs"
-    label: "Careers / application page"
-  - type: "other"
-    url: "https://builtin.com/company/tamatem-games"
-    label: "Research source"
-  - type: "job_post"
-    url: "https://www.pyjobs.com/job/software-engineer-wMVYx5WJ"
-    label: "Research source"
-  - type: "other"
-    url: "http://startup.jobs/software-engineer-tamatem-7574862"
-    label: "Research source"
-  - type: "other"
-    url: "https://tamatem.co/privacy-policy/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.prnewswire.co.uk/news-releases/tamatem-the-leading-mobile-games-publisher-raises-3-5mm-to-expand-beyond-the-mena-market-822967550.html"
-    label: "Research source"
-  - type: "other"
-    url: "http://craft.co/tamatem"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.971632,35.83284"
-    label: "Google Maps location"
+- type: official_website
+  url: https://tamatem.co/about-us/
+  label: Official company history and mobile-game publishing activities
+- type: official_website
+  url: https://tamatem.co/service/
+  label: Official publishing, marketing, analytics and localization services
+- type: official_website
+  url: https://tamatem.co/contact-us/
+  label: Official Amman office address and phone
+- type: careers
+  url: https://tamatem.co/careers/
+  label: Official careers portal linking to Workable
+- type: careers
+  url: https://apply.workable.com/tamatem/
+  label: Official ATS linked from Tamatem; dynamic listings not fully readable
+- type: official_website
+  url: https://tamatem.co/how-we-hire/
+  label: Official recruitment process and recruitment team first names
+- type: linkedin
+  url: https://www.linkedin.com/company/tamatem-inc-/
+  label: 'Company LinkedIn: Amman headquarters, size range and second-floor address'
+- type: job_post
+  url: https://builtin.com/job/tamatem-internship-program/9793292
+  label: Amman internship for students and recent graduates, listed in 2026
+- type: job_post
+  url: https://builtin.com/job/qa-specialist-engineer-tamatem/11496219
+  label: Amman QA job and skills, observed October 2026
+- type: job_post
+  url: https://builtin.com/job/software-engineer-python/11068997
+  label: Junior Python role removed October 11 2026
+- type: other
+  url: https://jo.near-place.com/point_of_interest-nearby-tamatem-games-king-hussein-business-park-building-23-amman
+  label: Third-party map coordinates near retained office pin
+- type: other
+  url: https://craft.co/tamatem/locations
+  label: Independent Building 23 headquarters address corroboration
+- type: google_maps
+  url: https://www.google.com/maps/search/?api=1&query=31.971632,35.83284
+  label: Approximate retained business pin (not independently verified entrance)
