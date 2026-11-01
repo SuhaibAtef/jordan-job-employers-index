@@ -1,17 +1,17 @@
 name: "TebCan"
-industry: "HealthTech (doctor booking / telemedicine)"
+description: "TebCan is a digital-health and medical-tourism platform serving Jordan and Saudi Arabia. It enables patients to find healthcare providers, book in-clinic appointments and remote consultations, and access connected medical services. Its platform also supports provider networks and medical-record workflows."
+industry: "Digital health, medical appointment booking and telemedicine"
 website: "https://tebcan.com"
 careers_url: null
-linkedin: null
-hr_email: "support@tebcan.com"
-size: null
+linkedin: "https://www.linkedin.com/company/tebcan"
+hr_email: "hr@tebcan.com"
+size: "51-200 employees (LinkedIn company-wide estimate; not Jordan-specific)"
+verification_status: "partial"
+last_verified: "2026-11-01"
 location:
-  area: "Amman"
-  address: "221 Zahran St., Sweifieh, Amman, Jordan"
+  area: "Amman, Sweifieh"
+  address: "221 Zahran Street, Sweifieh, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.96041
-  longitude: 35.87257
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96041,35.87257"
 categories:
   - "healthtech"
   - "mobile"
@@ -20,19 +20,51 @@ technologies:
   - "Android"
   - "Angular"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Jordanian online doctor-booking and teleconsultation platform covering Amman clinics/hospitals with online payments; publicly lists a support email for contact.\nstack verified 2026-10-04: tebcan.com page source uses Angular front-end API (AngularApi endpoints); official Android app (Tebcan LLC, 100k+ installs) on Google Play."
+  early_career_signal: true
+  signals:
+    - "Historical Amman Registration Officer and Call Center Agent postings accepted fresh graduates or applicants with one year of experience; both are closed."
+    - "Past company job advertisements used hr@tebcan.com for CV submissions; current monitoring is unconfirmed."
+notes: >-
+  Reviewed 2026-11-01. Official TebCan About Us page confirms appointment booking,
+  telemedicine, medical tourism and a cloud-based healthcare platform serving Jordan
+  and Saudi Arabia. Official Jordan website publishes +962 6 400 1111. The LinkedIn
+  company profile identifies Riyadh as primary headquarters, founded 2015 and 51-200
+  employees globally; third-party CB Insights identifies 221 Zahran Street, Amman,
+  as a headquarters address. This Amman street address is not confirmed by the
+  official site as a currently occupied office, and no independent exact map pin
+  was established; previous coordinates and coordinate-based maps link were removed.
+  LinkedIn historical Amman vacancies for Registration Officer and Call Center
+  Agent explicitly accepted fresh graduates and directed applications to
+  hr@tebcan.com; both are closed, and the mailbox's present use is unverified.
+  support@tebcan.com is a public general-support address, not an HR contact.
+  Official Google Play publisher Tebcan LLC confirms an Android application;
+  Angular was recorded from an earlier 2026-10-04 site-source inspection, not
+  independently revalidated here and not proof of the current internal stack.
+  No official careers page, active vacancy, internship or Jordan headcount was
+  independently confirmed. Company verification remains partial, regardless
+  of its presence in Jordan.
 evidence:
   - type: "official_website"
-    url: "https://tebcan.com"
-    label: "Official website"
+    url: "https://tebcan.com/en/Jordan"
+    label: "Official Jordan platform: doctor booking and contact phone (reviewed 2026-11-01)"
+  - type: "official_website"
+    url: "https://tebcan.com/Home/StaticPage?PageID=1"
+    label: "Official About Us: services, telemedicine and operating markets"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/tebcan"
+    label: "Company LinkedIn: size, Riyadh primary HQ, founded 2015, public support mailbox"
   - type: "other"
-    url: "https://tebcan.com/en/Jordan/online/Doctors/addiction/amman"
-    label: "Research source"
+    url: "https://play.google.com/store/apps/developer?id=Tebcan+LLC"
+    label: "Google Play publisher: Tebcan LLC Android apps"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/registration-officer-at-tebcan-com-3722971708"
+    label: "Historical closed Amman Registration Officer role; fresh graduates and HR mailbox"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/call-center-agent-at-tebcan-com-4122361681"
+    label: "Historical closed Amman junior Call Center Agent role; fresh graduates and HR mailbox"
   - type: "other"
-    url: "https://www.1888pressrelease.com/tebcan-expands-presence-in-the-region-with-new-office-openin-pr-645346.html"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.96041,35.87257"
-    label: "Google Maps location"
+    url: "https://www.cbinsights.com/company/tebcancom"
+    label: "Third-party company listing: 221 Zahran Street, Amman (current occupancy unverified)"
+  - type: "other"
+    url: "https://www.crunchbase.com/organization/tebcan"
+    label: "Third-party Tebcan LLC profile: founders and Jordan/Saudi operations"
