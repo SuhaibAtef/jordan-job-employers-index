@@ -1,38 +1,77 @@
 name: "Tawqi3i"
-industry: "eSignature / trusted digital services"
+description: "Tawqi3i (توقيعي) is an Amman-headquartered Jordanian software company founded in 2021 that develops electronic/digital-signature and digital-trust services for government, financial institutions and businesses. Its products include document-signing workflows, identity and authentication integrations, eSignature APIs, and government and banking signing solutions. Jordan Ahli Bank independently confirmed deploying Tawqi3i's remote digital-signature technology in August 2026."
+verification_status: "partial"
+last_verified: "2026-11-01"
+industry: "Software Development / Digital Trust and Electronic Signatures"
 website: "https://www.tawqi3i.com"
-careers_url: null
-linkedin: null
+careers_url: "https://www.tawqi3i.com/careers"
+linkedin: "https://www.linkedin.com/company/tawqi3i/"
 hr_email: null
-size: null
+size: "11-50 employees (LinkedIn company-wide estimate; not independently audited)"
 location:
   area: "Amman"
   address: null
   status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  confidence: "high for Amman headquarters (company LinkedIn and Jordan ICT directory); no published physical street/building or independently corroborated office pin"
+  latitude: null
+  longitude: null
+  coordinate_confidence: "unresolved; removed prior 31.9539, 35.9106 city-centre coordinates, which did not identify Tawqi3i premises"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Tawqi3i+Amman+Jordan"
 categories:
   - "consulting"
   - "mobile"
+  - "security"
 technologies:
   - "Android"
   - "iOS"
   - "REST API"
+  - "React.js"
+  - "Redux.js"
+  - "JavaScript"
+  - "React Native"
+  - "TypeScript"
+  - "C# / .NET"
+  - "Docker"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Jordan's first digital-signature platform with iOS/Android apps (eIDAS-compliant), powering the SANAD national e-gateway and remote bank signing with Jordan Ahli Bank. No public email or office address found (phone-only contact sales)."
+  early_career_signal: true
+  signals:
+    - "Official careers page provides a general job-application form, but does not list dated open positions; acceptance for specific roles is unconfirmed as of 2026-11-01."
+    - "Historical Amman React Developer posting was tagged entry-level on LinkedIn and requested React.js, Redux.js and JavaScript; LinkedIn states applications are no longer accepted. This supports an early-career hiring precedent, not a current vacancy."
+    - "Historical Amman React Native Mobile Developer posting required 5+ years' experience (3+ React Native), JavaScript and TypeScript; applications closed."
+    - "Historical Amman Lead Software Engineer posting required 12+ years' experience, C#/.NET, microservices and Docker; applications closed."
+    - "Historical Amman UI/UX Designer posting listed Figma, Sketch and Adobe XD as design-tool alternatives; applications closed. No current graduate internship was established."
+notes: "Reviewed 2026-11-01. Tawqi3i's official site documents e-signatures, digital signing for the SANAD government gateway, banking remote-signing solutions, API integrations and mobile/web products; the site describes eIDAS compliance, but its broad legal-compliance claims were not independently audited. Jordan Ahli Bank's August 2026 announcement independently corroborates Tawqi3i's remote signing engine and Central Bank of Jordan PKI integration. LinkedIn identifies a privately held Amman-headquartered software-development company founded in 2021, with an 11-50 employee estimate; Jordan ICT independently lists establishment in 2021, CEO Sami Rasekh, CTO Raed Abu Sanad and P.O. Box 140317, Amman 11814. A postal box is not a street address. No physical office entrance, business-specific coordinates or reliable map pin was established; previous city-centre coordinates were removed. The official support page gives info@tawqi3i.com as a general sales/corporate address, not a dedicated HR mailbox; official sales phones are +962 77 883 8091 and +962 77 909 2588. The official careers page has a general application form, without an independently verified currently accepting role. Historical LinkedIn job ads confirm direct Amman hiring in React/Redux/JavaScript, React Native/TypeScript, .NET/C#/Docker and UX design; those postings are closed. The technologies field combines supported public product interfaces/platforms and historical recruitment requirements, not a verified current internal production stack. The Apple App Store listing corroborates the iOS application. No current internship, dedicated HR contact, or exact office address was established. Company verification remains partial regardless of headquarters corroboration."
 evidence:
   - type: "official_website"
-    url: "https://www.tawqi3i.com"
-    label: "Official website"
-  - type: "other"
-    url: "https://apps.apple.com/sa/app/tawqi3i-%D8%AA%D9%88%D9%82%D9%8A%D8%B9%D9%8A/id1567218327"
-    label: "Research source"
+    url: "https://www.tawqi3i.com/"
+    label: "Official product site; eSignature, API, government SANAD and banking signing products, iOS/Android support and sales phones; checked 2026-11-01"
+  - type: "official_website"
+    url: "https://www.tawqi3i.com/contact-support"
+    label: "Official support page; info@tawqi3i.com is a general sales/corporate mailbox, not a verified HR contact"
+  - type: "careers"
+    url: "https://www.tawqi3i.com/careers"
+    label: "Official careers page; general application form, no dated active vacancies shown; checked 2026-11-01"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/tawqi3i/"
+    label: "Company LinkedIn; Amman headquarters, 2021 founding, software-development industry and 11-50 employee estimate"
+  - type: "company_listing"
+    url: "https://jordanict.com/company-profile/tawqi3i"
+    label: "Jordan ICT directory; digital trust services, CEO/CTO, 2021 establishment and Amman P.O. Box, not a street address"
   - type: "other"
     url: "https://ahli.com/jordan-ahli-bank-becomes-the-first-bank-in-jordan-to-launch-a-certified-remote-digital-signature-service-for-its-customers/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Jordan Ahli Bank's August 2026 announcement independently confirms Tawqi3i remote digital signing and CBJ PKI integration"
+  - type: "other"
+    url: "https://apps.apple.com/sa/app/tawqi3i-%D8%AA%D9%88%D9%82%D9%8A%D8%B9%D9%8A/id1567218327"
+    label: "Apple App Store listing for Tawqi3i's iOS e-signature application; product platform evidence, not native development language"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/react-developer-at-tawqi3i-4406432803"
+    label: "Historical Amman React Developer role, LinkedIn entry-level tag, React/Redux/JavaScript requirements; no longer accepting applications"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/react-native-mobile-developer-at-tawqi3i-4407717246"
+    label: "Historical Amman React Native Mobile Developer role, 5+ years and TypeScript; closed to applications"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/lead-software-engineer-at-tawqi3i-4313880013"
+    label: "Historical Amman lead engineering role, 12+ years and .NET/C#/Docker; closed to applications"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/user-experience-designer-at-tawqi3i-4429897962"
+    label: "Historical Amman UI/UX Designer role, design-tool requirements; no longer accepting applications"
