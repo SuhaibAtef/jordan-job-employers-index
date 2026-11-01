@@ -1,17 +1,28 @@
 name: "Talal Abu-Ghazaleh Global (TAG.Global)"
-industry: "Professional Services / IT & Education"
-website: "https://www.tag.global"
-careers_url: null
-linkedin: null
+description: >-
+  Talal Abu-Ghazaleh Global (TAG.Global, also presented as TAG.Global Digital)
+  is an Amman-headquartered international professional-services group founded
+  in 1972. Its member firms provide audit and accounting, intellectual property,
+  legal and management consulting, education and professional training,
+  recruitment, and IT services including software development, cloud,
+  cybersecurity and e-archiving. The group operates through multiple member
+  firms and locations, so recruitment listings and technologies must not be
+  attributed to every group company.
+verification_status: "partial"
+last_verified: "2026-11-01"
+industry: "Professional Services / IT, Education & Consulting"
+website: "https://www.tag.global/"
+careers_url: "https://www.tagirecruit.com/candidates/CandidateJobSearch.aspx?lang=en"
+linkedin: "https://www.linkedin.com/company/talal-abu-ghazaleh-global"
 hr_email: null
-size: "501-1,000 employees"
+size: "1,001-5,000"
 location:
-  area: "Amman"
-  address: "TAG-Org Building, No. 26, Prince Shaker bin Zaid Street, Shmeisani, Amman"
+  area: "Shmeisani, Amman"
+  address: "Building No. 46, Abdel Rahim Al-Waked Street, Shmeisani, Amman 11192, Jordan"
   status: "provided_unverified"
-  latitude: 31.96644
-  longitude: 35.89467
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96644,35.89467"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "consulting"
   - "data"
@@ -29,23 +40,58 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman-headquartered global group (est. 1972, 501-1,000 employees) running TAG-DIT accredited IT-skills training and certification, TAGTech devices, and Talal Abu-Ghazaleh Global Digital University with online master's programs in AI and IT. stack verified 2026-10-05: TAG-Recruit Full Stack Developer posting (C#, ASP.NET web framework/MVC/Core, Web API, LINQ, Entity Framework, SQL; Angular a plus) + PHP Developer at TAG-ITI since 2016 (Topline profile) + TAG-ITI newsletter: website dev services in PHP, Drupal, WordPress, .NET, Java."
+notes: >-
+  Reviewed 2026-11-01. The official TAG.Global contact page lists Building
+  No. 46, Abdel Rahim Al-Waked Street, Shmeisani, Amman, phone +962 6 5100 900
+  and general mailbox info@tag.global. The company LinkedIn profile instead
+  lists TAG-Org Building No. 26, Prince Shaker bin Zaid Street, Shmeisani;
+  Waze has a TAG.Global listing at 104 Mecca Street. These may refer to
+  different group offices; a single precise headquarters entrance or map pin
+  cannot be established from the conflicting public records. Former
+  coordinates 31.96644,35.89467 were not corroborated against the official
+  contact address and have been removed. LinkedIn reports 1,001-5,000
+  employees for the international group, while the official group directory
+  describes over 1,500 professionals; neither provides a Jordan headcount.
+  TAG-ITI's official 2024 service guide explicitly describes PHP, Drupal,
+  WordPress, Java and MS.NET as web-development capabilities of that member
+  firm. C#, ASP.NET, SQL and Angular are documented in an older 2021
+  TAG-Recruit Full Stack Developer listing; they are historical advertised
+  job requirements, not a verified current internal stack for TAG.Global.
+  TAG-Recruit is a group member operating a recruitment portal for employers
+  and job seekers, not necessarily a list of direct TAG.Global vacancies.
+  The portal lists an Amman Auditor role posted 2026-09-24 (1-3 years of
+  experience), with a 2026-10-31 deadline; as of this review the deadline has
+  passed and application acceptance and employing entity are unconfirmed.
+  No verified currently accepting direct group vacancy, graduate internship,
+  dedicated HR mailbox or Jordan-specific staff count was established.
 evidence:
   - type: "official_website"
-    url: "https://www.tag.global"
-    label: "Official website"
+    url: "https://www.tag.global/"
+    label: "Official group website and current TAG.Global Digital branding"
+  - type: "official_website"
+    url: "https://www.tag.global/Page/en/feedback-info"
+    label: "Official contact page - Building 46 Abdel Rahim Al-Waked Street, phone and general email"
+  - type: "official_website"
+    url: "https://www.tag.global/CompaniesGroup/en/information-technology"
+    label: "Official IT member-firms page - software, cloud, cybersecurity and e-archiving services"
   - type: "other"
-    url: "https://www.talalabughazaleh.com/Uploads/Files/TAG-Bio-Jordan-En.pdf"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.tageducanews.com/news.aspx?id=82588&lang=en"
-    label: "Research source"
-  - type: "other"
-    url: "https://contactout.com/company/talal-abu-ghazaleh-global-7631091"
-    label: "Research source"
-  - type: "other"
-    url: "http://www.tagdit.global/UploadFiles/Talal-Abu-Ghazaleh-Profile-English.pdf"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.96644,35.89467"
-    label: "Google Maps location"
+    url: "https://www.tag.global/UploadFiles/Guide_Service_2024_En.pdf"
+    label: "Official 2024 services guide - TAG-ITI web technologies PHP, Drupal, WordPress, Java and MS.NET"
+  - type: "official_website"
+    url: "https://www.tag.global/LinksGroup/en"
+    label: "Official group member directory - over 1,500 professionals and TAG-Recruit scope"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/talal-abu-ghazaleh-global"
+    label: "Company LinkedIn - 1972, 1,001-5,000 group employees and conflicting Building 26 address"
+  - type: "careers_page"
+    url: "https://www.tagirecruit.com/candidates/CandidateJobSearch.aspx?lang=en"
+    label: "Group recruitment member job-search portal - not exclusively direct TAG.Global vacancies"
+  - type: "job_post"
+    url: "https://www.tagirecruit.com/View/CandidateSearchView.aspx?id=21478&lang=en"
+    label: "Amman Auditor posting dated 2026-09-24, 1-3 years, deadline 2026-10-31"
+  - type: "job_post"
+    url: "https://www.tagirecruit.com/View/CandidateSearchView.aspx?id=21317"
+    label: "Historical 2021 Full Stack Developer listing - C#, ASP.NET, SQL, Angular preferred"
+  - type: "company_listing"
+    url: "https://www.waze.com/live-map/directions/jo/amman-governorate/amman/talal-abu-ghazaleh-global?to=place.ChIJzy2GN2igHBURTf4waLPaQg0"
+    label: "Waze TAG.Global listing at 104 Mecca Street - conflicting location, not a verified office pin"
