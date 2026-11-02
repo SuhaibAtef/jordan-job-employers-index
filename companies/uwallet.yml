@@ -1,67 +1,103 @@
 name: "UWallet"
-industry: "Financial Services / Fintech (mobile payments)"
-website: "https://uwallet.jo"
-careers_url: null
-linkedin: null
+description: >-
+  UWallet is a Jordanian mobile-wallet and digital-payments provider operating
+  under AlHulool for Mobile Payments, launched in 2014 by an Umniah-led
+  consortium of Jordanian banks and other financial partners. Licensed by the
+  Central Bank of Jordan, it offers person-to-person transfers, bill payments,
+  cash-in/cash-out, merchant QR and online payments, Mastercard debit/virtual
+  cards, international transfers, and business payroll and disbursement
+  services. Its Amman headquarters and financial-services business are
+  documented by official sources. The current internal software stack and
+  complete Jordan workforce are not independently established.
+verification_status: "partial"
+last_verified: "2026-11-02"
+industry: "Financial Services / Fintech / Mobile Payments"
+website: "https://uwallet.jo/"
+careers_url: "https://iaavas.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
+linkedin: "https://www.linkedin.com/company/uwalletjo"
 hr_email: null
-size: null
+size: "201-500 employees (company LinkedIn band; not an audited headcount)"
 location:
-  area: "Amman"
-  address: "25 Abdul Rahim Al-Waked Street, Shmeisani, Amman, Jordan"
+  area: "Shmeisani, Amman"
+  address: "25 Abdul Rahim Al-Waked Street, Shmeisani, Amman 11953, Jordan"
   status: "verified"
-  latitude: 31.967843
-  longitude: 35.9021763
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.967843,35.9021763"
+  confidence: "high for the published street and building number, supported by the official English contact and about pages and an independent street listing; current occupancy and entrance-level coordinates not independently surveyed"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=25+Abdul+Rahim+Al-Waked+Street+Shmeisani+Amman+Jordan"
 categories:
-  - "consulting"
-  - "data"
   - "fintech"
   - "mobile"
+  - "web"
 technologies:
   - "Android"
+  - "eFAWATEERcom"
+  - "Google Pay"
   - "Mastercard"
   - "Payment Gateway"
+  - "QR payments"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Central Bank of Jordan-licensed mobile wallet launched 2014 by an Umniah-led consortium (66% Umniah + six banks); past Amman job ads for Business Analyst/Back Office roles, recent Jordan Post digital-wallet partnership. No verifiable map pin found (building-level geocode failed; jordanict profile has no map); GPS remains Amman city-center approximation. Address corroborated by CB Insights HQ listing. | GPS VERIFIED 2026-10-05: current HQ is 25 Abdul Rahim Al-Waked St., Shmeisani, Amman (31.967843, 35.9021763) — stated on uwallet.jo's own contact page (EN+AR) and pinned on the same street by its Google Maps business listing. Old Mecca St./Al Hamdani Complex address appears outdated (2014 launch-era); address updated."
+  early_career_signal: true
+  signals:
+    - "UWallet launched a student ambassador programme on 12 May 2026 for Jordanian university students, offering commission-based campus marketing and sales experience; it is not a software internship or salaried graduate engineering position."
+    - "The official university-student campaign page describes eligibility for students aged 18-24 and commissions per successful wallet registration; current intake or application acceptance was not independently tested (checked 2026-11-02)."
+    - "An Umniah-posted UWallet IT Internal Auditor & Data Protection Officer role was advertised in October 2026 and displayed an Apply action when checked; the role requires approximately 3+ years' experience and is not entry-level."
+    - "A UWallet Commercial Director advertisement from September 2026 is closed on LinkedIn; other senior UWallet audit/management listings do not establish graduate hiring."
+notes: >-
+  Reviewed 2026-11-02. The official UWallet about page states that Umniah
+  launched the service in 2014 in cooperation with a consortium, including six
+  Jordanian banks, and describes the AlHulool for Mobile Payments operating
+  entity and Central Bank of Jordan licensing. The official contact page
+  publishes 25 Abdul Rahim Al-Waked Street, Shmeisani, Amman, and the
+  official about page repeats the address and lists P.O. Box 3124, Amman
+  11953. BizMidEast corroborates the street, but the previous exact latitude
+  31.967843 and longitude 35.9021763 were not independently confirmed as
+  the current office entrance and were removed; the replacement map link
+  searches for the published address. LinkedIn identifies UWallet's own
+  company page and 201-500 employee band; the number of people linked to
+  the profile is not a verified total workforce count. The official site
+  provides info@uwallet.jo for general enquiries and complaints@uwallet.jo
+  for complaints, neither confirmed as an HR recruitment mailbox.
+  Umniah's Oracle-hosted candidate portal is used for UWallet-branded jobs;
+  a current October 2026 IT Internal Auditor & DPO posting is attributable
+  to UWallet through Umniah but application completion was not tested.
+  UWallet's May 2026 student ambassador programme provides early-career
+  field-marketing exposure, not a confirmed engineering internship. Android,
+  Mastercard, eFAWATEERcom, Google Pay, QR payments and payment gateway
+  describe supported products, integrations or customer platforms, not a
+  verified internal programming stack. No UWallet-specific software
+  engineering recruitment or dedicated HR email was established. The
+  published headquarters address is verified independently of the partial
+  company-level verification status.
 evidence:
   - type: "official_website"
-    url: "https://uwallet.jo"
-    label: "Official website"
-  - type: "other"
-    url: "https://uwallet.jo/en/contact-us/"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://uwallet.jo/%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%85%D8%B9%D9%86%D8%A7/"
-    label: "Location evidence"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/place/uwallet/@31.967843,35.9021763"
-    label: "Location evidence"
-  - type: "other"
     url: "https://uwallet.jo/en/about-us/"
-    label: "Research source"
+    label: "Official about page: 2014 launch, AlHulool operating entity, consortium, licence, Amman address"
+  - type: "official_website"
+    url: "https://uwallet.jo/en/home/"
+    label: "Official consumer and business wallet services, bill payments, Mastercard, cash withdrawals and general contact"
+  - type: "official_website"
+    url: "https://uwallet.jo/en/contact-us/"
+    label: "Official headquarters: 25 Abdul Rahim Al-Waked Street, Shmeisani; public customer service contacts"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/uwalletjo"
+    label: "Company LinkedIn: 201-500 employees, financial services, founded 2014, recent commercial recruitment"
   - type: "other"
-    url: "https://uwallet.jo/en/faqs-2/"
-    label: "Research source"
+    url: "https://www.jordanict.com/company-profile/uwallet"
+    label: "Jordan ICT company profile: 2025 services and digital-payment capabilities"
   - type: "other"
-    url: "https://uwallet.jo/en/uwallet-new-services/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.cbinsights.com/company/uwallet"
-    label: "Research source"
-  - type: "other"
-    url: "https://jordanict.com/company-profile/uwallet"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanpulse.com/article/14218"
-    label: "Research source"
-  - type: "other"
-    url: "https://everything.pk/jobs-detail-722211--business-analyst-officer-senior-officer-uwallet-jobs-in-amman-jordan.html"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.samenacouncil.org/samena_daily_news?news=81283"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.967843,35.9021763"
-    label: "Google Maps location"
+    url: "https://www.bizmideast.com/JO/uwallet-06-200-4010"
+    label: "Independent business directory corroborates Abdul Rahim Al-Waked Street, not entrance coordinates"
+  - type: "official_website"
+    url: "https://uwallet.jo/2026/05/12/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%B3%D9%81%D9%8A%D8%B1-uwallet-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%AA%D8%A8%D9%86%D9%91%D9%8A-%D8%A7%D9%84%D8%AD%D9%84%D9%88/"
+    label: "Official 12 May 2026 launch of student ambassador programme, paid commissions and possible future training"
+  - type: "official_website"
+    url: "https://uwallet.jo/%D8%AD%D9%85%D9%84%D8%A9-%D8%B7%D9%84%D8%A7%D8%A8-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA/"
+    label: "Official student campaign details: ages 18-24, campus promotion and per-registration commissions"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/uwallet-it-internal-auditor-dpo-at-umniah-4478259928"
+    label: "Umniah employer-listed UWallet IT Internal Auditor and DPO role, October 2026, experienced hire"
+  - type: "careers"
+    url: "https://iaavas.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
+    label: "Umniah Oracle candidate portal linked from UWallet-branded employer job advertisement; application not tested"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/uwallet-director-of-commercial-at-umniah-4462285082"
+    label: "UWallet Commercial Director job advertised September 2026; LinkedIn now says no longer accepting applications"
