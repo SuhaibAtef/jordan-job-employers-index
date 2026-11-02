@@ -1,49 +1,122 @@
 name: "WATEEN Information Technology"
-industry: "Information Technology and Services"
-website: "http://wit-jo.com/"
-careers_url: null
-linkedin: null
-hr_email: "info@wit-jo.com"
-size: "10-50 employees"
+description: >-
+  WATEEN Information Technology (WIT) is a privately held Jordanian enterprise
+  IT systems integrator founded in 2008 and headquartered in Jbeiha, Amman.
+  It designs, deploys and supports networking and data-center infrastructure,
+  cybersecurity and Zero Trust solutions, cloud migration, Microsoft 365 and
+  business applications, backup and disaster recovery, managed IT services,
+  and education/LMS hosting for organizations in Jordan and the region.
+industry: "IT Services and IT Consulting / Enterprise Infrastructure and Cybersecurity"
+website: "https://wit-jo.com/"
+careers_url: "https://wit-jo.com/company/careers"
+linkedin: "https://www.linkedin.com/company/wateen-information-technology"
+hr_email: "jobs@wit-jo.com"
+size: "11-50 employees (LinkedIn company band; not independently audited)"
 location:
-  area: "Amman"
-  address: "Office 809, AbulHaj Building, 148 Queen Rania Street, Jbeiha, Amman, Jordan"
+  area: "Jbeiha, Amman"
+  address: "Office 809, Abulhaj Commercial Building, 148 Queen Rania Al-Abdullah Street, Jbeiha, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.99884
-  longitude: 35.88088
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99884,35.88088"
+  confidence: "high for the published office address, corroborated by WATEEN's official contact page, company LinkedIn and Open-E partner listing; actual current occupancy and entrance-level coordinates have not been independently checked"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Abulhaj%20Commercial%20Building%20148%20Queen%20Rania%20Street%20Amman%20Jordan"
 categories:
   - "consulting"
   - "devops"
   - "erp"
   - "security"
+  - "cloud"
+  - "networking"
 technologies:
-  - "Azure"
-  - "Firewalls"
-  - "Microsoft 365"
-  - "SIEM"
-  - "Veeam"
-  - "VMware"
+  - "Microsoft Azure (advertised customer cloud migration/management service)"
+  - "Microsoft 365 (advertised customer migration and licensing service)"
+  - "VMware vSphere/VDI (advertised virtualization solutions)"
+  - "Fortinet firewalls and SD-WAN (advertised security integration offering)"
+  - "Logsign SIEM/SOAR (advertised security integration offering)"
+  - "Open-E JovianDSS (independently listed vendor partner and certified engineer expertise)"
+  - "Moodle LMS (advertised hosting and management service)"
+  - "Windows Server and Active Directory (skills requested in October 2026 support job)"
+  - "Veeam (present in previous record; current offering or use not corroborated in this review)"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman IT services firm founded 2008 (10-50 employees); secure infrastructure, cloud, servers, HCI, intelligent switching and traffic aggregation with data-protection/cybersecurity services."
+  early_career_signal: true
+  signals:
+    - "WATEEN's company LinkedIn update advertised a Technical Support Engineer role welcoming fresh graduates and a Systems Engineer role requiring 2-3 years, with an application deadline of 2026-10-26; that specific fresh-graduate deadline has passed."
+    - "The official careers page viewed 2026-11-02 lists Senior Solutions Architect (5+ years), Cybersecurity Specialist (4+ years), Network Engineer (3+ years), and Technical Support Engineer (2+ years) in Amman, plus a resume submission form; the page does not establish that every role is still accepting applications."
+    - "A third-party job advertisement dated 2026-10-24 lists a Technical Support Engineer vacancy requiring 2+ years and applications to jobs@wit-jo.com; application acceptance and email delivery were not independently tested."
+notes: >-
+  Reviewed 2026-11-02. WATEEN's live official website describes an Amman-based
+  enterprise IT integrator operating since 2008, with cybersecurity, networking,
+  cloud, managed services, data protection and education technology offerings.
+  Company LinkedIn reports a privately held business with 11-50 employees and
+  Jbeiha headquarters; this is a platform-reported size band, not a verified
+  headcount. The official contact page and company LinkedIn both publish
+  Office 809, Abulhaj Commercial Building, 148 Queen Rania Street, Amman;
+  Open-E independently repeats the same address and lists WATEEN as a partner.
+  The previous latitude 31.99884 and longitude 35.88088 were not substantiated
+  as office-entrance coordinates, so both have been removed; the map link is
+  an address search, not a verified pin. The official contact page gives
+  info@wit-jo.com and support@wit-jo.com as general/support contacts, not HR.
+  The recruitment address jobs@wit-jo.com appears in a 2026-10-24 job listing
+  and an older WATEEN recruitment repost, but was not published as an HR
+  mailbox on the inspected official contact page and was not delivery-tested.
+  The official careers page lists four Amman positions and an application
+  form. A company LinkedIn update offered a fresh-graduate Technical Support
+  Engineer position with a 2026-10-26 deadline; that particular opportunity
+  should be treated as expired unless the employer confirms otherwise.
+  The official careers page separately states 2+ years for Technical Support
+  Engineer, so the criteria may describe different recruitment rounds.
+  Vendor products in technologies represent WATEEN's advertised integration
+  and customer-service portfolio, not a verified internal software stack;
+  Windows Server/Active Directory are job-advertised skills. The older Veeam
+  entry remains flagged as uncorroborated. The company published a 2025
+  Yarmouk University e-learning recognition, supporting recent activity.
+  ERP and DevOps categories were inherited from the existing record and
+  were not independently substantiated as dedicated current service lines.
+  Status is partial because current staffing, internal engineering stack,
+  HR mailbox deliverability, precise entrance coordinates and each vacancy's
+  acceptance status have not all been independently confirmed.
 evidence:
   - type: "official_website"
-    url: "http://wit-jo.com/"
-    label: "Official website"
+    url: "https://wit-jo.com/"
+    label: "Official current homepage: enterprise services, partner technologies and 2025 company news"
+  - type: "official_website"
+    url: "https://wit-jo.com/company/about"
+    label: "Official company profile: established 2008, enterprise IT integration and service portfolio"
+  - type: "official_website"
+    url: "https://wit-jo.com/company/contact"
+    label: "Official Office 809 address, general/support emails and phone numbers"
+  - type: "careers_page"
+    url: "https://wit-jo.com/company/careers"
+    label: "Official Amman careers page, four displayed roles and CV application form; reviewed 2026-11-02"
+  - type: "official_website"
+    url: "https://wit-jo.com/partners"
+    label: "Official partner and customer-facing solutions: Microsoft, VMware, Fortinet, Logsign and others"
+  - type: "official_website"
+    url: "https://wit-jo.com/news/wateen-honored-yarmouk-elfuturemena2025"
+    label: "Company announcement of August 2025 Yarmouk University e-learning recognition"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/wateen-information-technology"
+    label: "Company LinkedIn: 11-50 size band, Jbeiha address and late-October 2026 fresh-graduate hiring post with October 26 deadline"
+  - type: "job_posting"
+    url: "https://jojobhub.com/en/job/technical-support-engineer-amman-wateen-information-technology-1539-1"
+    label: "Third-party Technical Support Engineer posting dated 2026-10-24: 2+ years, jobs@wit-jo.com"
   - type: "other"
-    url: "https://www.signalhire.com/companies/wateen-information-technology-jordan"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.selling.com/company/wateen-information-technology/190289587"
-    label: "Research source"
+    url: "https://jo.linkedin.com/posts/jordan-jobs-gate_networking-networking-engineer-activity-7062694780442439680-qJ0i"
+    label: "Historical recruitment repost inviting fresh graduates and giving jobs@wit-jo.com; not a current vacancy"
   - type: "other"
     url: "https://www.open-e.com/buy/open-e-partners/wateen-information-technology/"
-    label: "Research source"
+    label: "Independent storage vendor partner listing: Office 809 address and Open-E JovianDSS certification"
+  - type: "other"
+    url: "https://www.signalhire.com/companies/wateen-information-technology-jordan"
+    label: "Legacy third-party company listing retained from previous record; not relied on for current facts"
+  - type: "other"
+    url: "https://www.selling.com/company/wateen-information-technology/190289587"
+    label: "Legacy company listing retained from previous record; not relied on for current facts"
   - type: "other"
     url: "https://www.rasmal.com/cybersecurity-companies-in-jordan/"
-    label: "Research source"
+    label: "Legacy industry listing retained from previous record; not relied on for current facts"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.99884,35.88088"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=Abulhaj%20Commercial%20Building%20148%20Queen%20Rania%20Street%20Amman%20Jordan"
+    label: "Address-based map search only; exact office entrance coordinates not independently confirmed"
+verification_status: "partial"
+last_verified: "2026-11-02"
