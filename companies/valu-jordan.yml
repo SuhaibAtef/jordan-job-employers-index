@@ -1,48 +1,114 @@
 name: "Valu Jordan"
-industry: "Fintech / Consumer Finance (BNPL)"
-website: null
+description: >-
+  Valu Jordan is the Jordanian consumer-finance operation of Egypt-founded Valu.
+  The Central Bank of Jordan lists the licensed local entity as Valu Specialized
+  Financing and gives its head office at King Hussein Business Park in Amman.
+  Valu received final specialized-finance regulatory approval in January 2026
+  and began offering buy-now-pay-later and flexible consumer financing in
+  Jordan during 2026, through a mobile app, merchants and physical service
+  locations. The current Jordan-specific workforce and full internal software
+  engineering stack are not independently established.
+verification_status: "partial"
+last_verified: "2026-11-02"
+industry: "Financial Services / Fintech / Specialized Consumer Finance (BNPL)"
+website: "https://valugroup.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/valujordan"
 hr_email: "Careers-jo@valugroup.com"
-size: null
+size: "201-500 employees (Valu Jordan LinkedIn band; not an audited local headcount)"
 location:
-  area: "Amman"
-  address: "King Hussein Business Park, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  area: "King Hussein Business Park, Amman"
+  address: "Building 9, King Hussein Business Park, King Abdullah II Bin Al Hussein Street, Amman, Jordan"
+  status: "verified"
+  confidence: >-
+    High for King Hussein Business Park on King Abdullah II Street, independently
+    confirmed by the Central Bank of Jordan and Valu Jordan LinkedIn; medium
+    for Building 9, specified on the company LinkedIn profile but not in the
+    regulator's address. Present-day office occupancy and entrance-level GPS
+    have not been independently surveyed.
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Building+9+King+Hussein+Business+Park+Amman+Jordan"
 categories:
   - "data"
-  - "devops"
   - "fintech"
   - "mobile"
   - "web"
 technologies:
-  - ".NET"
-  - "AWS"
-  - "C#"
-  - "CI/CD"
-  - "Flutter"
-  - "REST API"
+  - "Dynatrace"
+  - "Elasticsearch"
+  - "Linux"
+  - "MySQL"
+  - "NoSQL databases"
+  - "Oracle Database"
+  - "Postman"
+  - "Python"
   - "SQL Server"
+  - "Shell scripting"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Egyptian fintech Valu's Jordan arm; CBJ-licensed specialized financing company offering BNPL plans up to 60 months via 1,000+ merchants; HQ at King Hussein Business Park with branches at Sweifieh Village, KHBP and Taj Mall. stack verified 2026-10-06: Lead Mobile Developer profile owns the Jordan customer app end-to-end (Flutter, flutter packages, CI/CD); Valu .NET Developer posting lists C#, ASP.NET Core, REST APIs, SQL Server, AWS."
+  early_career_signal: true
+  signals:
+    - "Valu Jordan advertised an Amman Soft Collection Agent role requiring 1-3 years of relevant experience; LinkedIn now states that applications are closed. This supports historical early-career nonengineering recruitment, not fresh-graduate intake."
+    - "A recent Jordan-recruitment post for Soft Collection Agent (1-3 years' experience) directs applications to Careers-jo@valugroup.com; submission and current vacancy acceptance were not tested as of 2026-11-02."
+    - "Valu Jordan's Senior Application Support Engineer post seeks 3-6+ years' experience and documents Linux, Python, SQL/NoSQL, Dynatrace, Elasticsearch and Postman requirements; it is not a graduate role."
+    - "An earlier company-authored Jordan recruitment post sought finance, marketing, risk and IT leadership roles using careers-jo@valu.com.eg; no dedicated live careers portal or confirmed Jordan engineering internship was found."
+notes: >-
+  Reviewed 2026-11-02. The Central Bank of Jordan directory identifies the
+  licensed entity as Valu Specialized Financing, lists Chairman Mothanna
+  Gharaibeh and General Manager Mohammad Sameh Al-Yousef, and publishes
+  King Abdullah II Bin Al Hussein Street, King Hussein Business Park,
+  P.O. Box 360 (postal code 11831), phone 0791133456 and general contact
+  info-jo@valugroup.com. The postal code belongs to the published P.O. Box
+  and is not treated as a verified physical-building postal code. The Valu
+  Jordan LinkedIn profile provides Building 9 and the 201-500 employee band,
+  but does not independently prove the exact number of staff working in
+  Jordan. The prior 31.9539, 35.9106 coordinates pointed to an unsupported
+  generic Amman location and have been removed; the map link is an address
+  search, not a surveyed entrance pin. The corporate website's /jo landing
+  path redirected to the general Valu website when checked; the regulator
+  independently links that /jo path. The company has a Jordan-specific
+  complaints page, but no verified public Jordan careers portal.
+  Careers-jo@valugroup.com is supported by a Jordan hiring post circulated
+  by Valu Jordan leadership; a separate older company LinkedIn recruitment
+  post uses careers-jo@valu.com.eg. Neither mailbox was tested for delivery.
+  A previously recorded Flutter, C#/.NET, AWS and CI/CD technology attribution
+  was not independently re-established for Jordan in this review and is not
+  represented as a confirmed production stack. The listed technologies are
+  directly sourced from a Valu Jordan Senior Application Support Engineer
+  advertisement and describe job requirements rather than proof of every
+  technology in current production. A 1-3-year collection role is evidence
+  of early-career hiring history, not an active vacancy or software internship.
+  The headquarters campus is independently corroborated, but company-level
+  verification remains partial.
 evidence:
+  - type: "regulator"
+    url: "https://www.cbj.gov.jo/EN/ListDetails/Specialized_Finance_Company/2431/15"
+    label: "Central Bank of Jordan specialized-finance company listing: licensed name, headquarters campus, telephone and general contact"
+  - type: "official_website"
+    url: "https://valugroup.com/about-us"
+    label: "Valu corporate about page confirms 2026 Jordan expansion and company business"
+  - type: "official_website"
+    url: "https://valugroup.com/jo/complaints"
+    label: "Official Jordan consumer support and complaints page; not an HR contact"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/valujordan"
+    label: "Valu Jordan company LinkedIn: Building 9 King Hussein Business Park, size band, Jordan operations and recent updates"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/valujordan_were-looking-for-a-senior-application-support-activity-7490342531172401153-L_uu"
+    label: "Valu Jordan Senior Application Support Engineer posting: 3-6+ years, Linux, Python, SQL/NoSQL, monitoring and API testing tools"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/soft-collection-agent-at-valu-jordan-4412395132"
+    label: "Valu Jordan Amman Soft Collection Agent, 1-3 years; listing no longer accepting applications"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/rima-al-adham-929b878a_valu-jordan-is-looking-for-a-motivated-and-activity-7503390052610117632-2flK"
+    label: "Jordan Soft Collection Agent recruitment circulated by Valu Jordan leadership: Careers-jo@valugroup.com"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/valujordan_valujordan-hiring-fintechjobs-activity-7427010151473319936-fcfr"
+    label: "Earlier company recruitment post for experienced Jordan leadership and IT Supervisor; older careers-jo@valu.com.eg address"
   - type: "other"
     url: "https://waya.media/valu-officially-launches-operations-in-jordan/"
-    label: "Research source"
+    label: "Independent coverage of Jordan operations launch"
   - type: "other"
     url: "https://entarabi.com/en/2026/09/valu-officially-launches-in-jordan-with-bnpl-and-digital-financing-services/"
-    label: "Research source"
+    label: "September 2026 Jordan BNPL launch and financing services coverage"
   - type: "other"
     url: "https://techafricanews.com/2026/09/14/valu-jordan-and-zbooni-partner-to-expand-digital-commerce-and-bnpl-in-jordan/"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.linkedin.com/posts/rima-al-adham-929b878a_valu-jordan-is-looking-for-a-motivated-and-activity-7503390052610117632-2flK"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "September 2026 Valu Jordan and Zbooni merchant integration announcement"
