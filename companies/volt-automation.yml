@@ -1,36 +1,114 @@
 name: "Volt Automation"
-industry: "Industrial Automation / IIoT"
-website: "http://va.jo"
-careers_url: null
-linkedin: null
-hr_email: "info@va.jo"
-size: null
+description: >-
+  Volt Automation is an Amman-headquartered industrial automation,
+  instrumentation and electrical engineering systems integrator founded in
+  2016. It designs, supplies, programs, assembles, installs and commissions
+  PLC/SCADA, distributed-control, electrical distribution and measurement
+  systems for water and wastewater, grain processing, cement and minerals,
+  and oil and gas operations. The company also publishes regional contacts
+  in Qatar and Sudan. ABB identified Volt Automation as its local delivery
+  partner for a planned industrial IoT and AI water-efficiency project in
+  Jordan announced in December 2025.
+industry: "Industrial Automation / Electrical Engineering / Industrial IoT"
+website: "https://va.jo"
+careers_url: "https://va.jo/Joinus"
+linkedin: "https://www.linkedin.com/company/volt-automation"
+hr_email: null
+size: "51-200 employees (LinkedIn company-wide band; Jordan-specific count unverified)"
 location:
-  area: "Amman"
-  address: "80, Amir Ben Malek St., Khalda, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.98635
-  longitude: 35.84831
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.98635,35.84831"
+  area: "Khalda, Amman"
+  address: "Building 80, 3rd floor, office 303, Amir Ben Malek Street, Khalda, Amman 11821, Jordan"
+  status: "verified"
+  confidence: "high for the published building, street and neighborhood (official site, company LinkedIn and independent directory); low for entrance-level GPS and independently observed current occupancy"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Volt%20Automation%2C%2080%20Amir%20Ben%20Malek%20Street%2C%20Khalda%2C%20Amman"
 categories:
   - "iot"
 technologies:
   - "IoT"
   - "PLC/SCADA"
+  - "HMI/PAC/RTU"
+  - "Distributed Control Systems (DCS)"
+  - "ABB System 800xA"
+  - "Siemens PCS 7"
+  - "ABB Genix Industrial IoT and AI Suite (announced implementation partner)"
+  - "Siemens / ABB / Rockwell Automation / Schneider Electric control platforms"
+  - "Profibus/Profinet / Modbus / OPC UA (recruitment requirements)"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman industrial-automation integrator (est. 2016); ABB partner implementing the ABB Genix Industrial IoT/AI Suite for Jordan's water sector with GIZ and the Water Authority of Jordan. Address and info@va.jo confirmed on official site (site gives no building/floor/postal detail)."
+  early_career_signal: true
+  signals:
+    - "Company-authored 2026 Automation Engineer recruitment in Amman requests an electrical or mechatronics engineering degree and 0+ years of relevant automation programming/commissioning experience; Siemens, ABB, Rockwell or Schneider control-system familiarity is requested."
+    - "Company LinkedIn also advertised Junior Instrumentation Sales Engineer with 0-3 years' experience in 2026; this is a technical sales role, not a software-development internship."
+    - "Official Join The Team page presents a general CV-upload application form; the form was visible on 2026-11-02, but submission and current vacancy acceptance were not tested."
+    - "An older company-authored design-engineer recruitment post encouraged fresh graduates and mentioned careers@va.jo; the mailbox's present-day recruitment use is unconfirmed."
+notes: >-
+  Reviewed 2026-11-02. Volt Automation's official website confirms the
+  Khalda, Amman street/building address and general contact info@va.jo;
+  LinkedIn and Decypha add third floor, office 303 and postal code 11821.
+  This independently corroborates the published headquarters address, not
+  present-day physical occupancy or a surveyed entrance coordinate. The
+  earlier 31.98635, 35.84831 map pin was removed because its precision
+  could not be substantiated against the published street address; the map
+  link now searches the address rather than asserting GPS. LinkedIn also
+  lists a Tadmur Street, North Marka site, which is not independently
+  verified as a current staffed office. LinkedIn's 51-200 band covers the
+  whole company, not an audited Jordan headcount. The official careers
+  page has a general CV application form but no dated vacancy list;
+  completion of the form was not tested. Company-authored LinkedIn posts
+  advertised an Amman Automation Engineer position accepting 0+ years
+  of experience and a Junior Instrumentation Sales Engineer position
+  accepting 0-3 years. The Automation Engineer post was subsequently
+  edited/re-shared, but the application link could not be opened, so
+  active acceptance is unconfirmed. A much older design-engineer post
+  published careers@va.jo, while the current official site lists only
+  info@va.jo as a general contact; neither is verified as a current HR
+  mailbox, so hr_email remains null. ABB's 2025-12-02 announcement names
+  Volt Automation as its Jordan partner for planned deployment of ABB
+  Genix with GIZ and the Water Authority of Jordan; completion and
+  production deployment were not confirmed. PLC/SCADA, ABB 800xA and
+  Siemens PCS 7 are company-advertised industrial automation capabilities;
+  protocol names come from recruitment requirements. These do not
+  establish a conventional internal software engineering stack.
+  Company-level verification remains partial despite corroborated
+  location, operations and early-career recruitment evidence.
+verification_status: "partial"
+last_verified: "2026-11-02"
 evidence:
   - type: "official_website"
-    url: "http://va.jo"
-    label: "Official website"
+    url: "https://va.jo/Home"
+    label: "Official company services, sectors, Jordan contact and industrial engineering work"
+  - type: "official_website"
+    url: "https://va.jo/Aboutus"
+    label: "Official business description and Jordan/Qatar/Sudan contact details"
+  - type: "official_website"
+    url: "https://va.jo/Industries"
+    label: "Official water, grain, cement, mineral and oil/gas industry capabilities"
+  - type: "official_website"
+    url: "https://va.jo/Offer/offer_details?id=1"
+    label: "Official PLC/PAC/SCADA/DCS and Siemens/ABB/Rockwell/Schneider integration capabilities"
+  - type: "careers_page"
+    url: "https://va.jo/Joinus"
+    label: "Official Join The Team CV application form, visible 2026-11-02"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/volt-automation"
+    label: "Company profile: 2016 founding, 51-200 employee band, Building 80 office 303 and hiring updates"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/volt-automation_hiring-activity-7424454470903738368-95yo"
+    label: "Company-authored Amman Automation Engineer advertisement: 0+ years, automation platform requirements"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/volt-automation_were-looking-for-a-automation-engineer-activity-7274364951064891393-mv1y"
+    label: "Historical company-authored Automation Engineer advertisement with 0+ years"
+  - type: "other"
+    url: "https://new.abb.com/news/detail/131402/jordans-water-industry-taps-into-abbs-digital-and-ai-technology-to-address-resource-scarcity"
+    label: "ABB press release dated 2025-12-02: Volt Automation local partner for planned Genix deployment"
+  - type: "company_listing"
+    url: "https://www.decypha.com/en/company-list/Volt-Automation-Co-Ltd-277631"
+    label: "Independent directory corroborates Building 80, third floor, office 303 and contact"
   - type: "other"
     url: "https://www.automation.com/article/jordan-water-industry-abb-digital-ai-technology-resource-scarcity"
-    label: "Research source"
+    label: "Industry report on ABB and Volt Automation Jordan water project"
   - type: "other"
     url: "https://h2oglobalnews.com/abb-jordan-digital-water-efficiency/"
-    label: "Research source"
+    label: "Water-industry report on ABB and Volt Automation Jordan partnership"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.98635,35.84831"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=Volt%20Automation%2C%2080%20Amir%20Ben%20Malek%20Street%2C%20Khalda%2C%20Amman"
+    label: "Address-based map search, not a verified entrance GPS pin"
