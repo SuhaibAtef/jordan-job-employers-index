@@ -1,49 +1,113 @@
 name: "Umniah"
-industry: "Mobile telecommunications"
-website: "https://www.umniah.com"
-careers_url: null
-linkedin: null
+description: >-
+  Umniah by Beyon is a Jordanian telecommunications and digital-services
+  provider operating since 2005. It supplies mobile connectivity, fixed and
+  fiber broadband, 5G services, and enterprise ICT, cloud and cybersecurity
+  solutions. Its network expansion includes an Ericsson partnership for 3G,
+  4G and 5G radio access; its business portfolio also includes digital
+  financial services through the UWallet consortium. The company's complete
+  internal software stack and recruitment contacts are not independently known.
+verification_status: "partial"
+last_verified: "2026-11-02"
+industry: "Telecommunications / mobile, broadband and enterprise ICT"
+website: "https://www.umniah.com/"
+careers_url: "https://iaavas.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
+linkedin: "https://www.linkedin.com/company/umniah"
 hr_email: null
-size: "1001-5000"
+size: "501-1,000 employees (company LinkedIn band); Jordan ICT's 2025 profile reports 900 staff, not an audited current count"
 location:
-  area: "Amman"
-  address: "Abdul Rahim Al-Waked St., Shmeisani, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.967905
-  longitude: 35.902783
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.967905,35.902783"
+  area: "Shmeisani, Amman"
+  address: "Umniah Mobile Company, Queen Nour (Queen Noor) Street, Al-Shmeisani, Amman 11194, Jordan; LinkedIn lists No. 73"
+  status: "verified"
+  confidence: "high for the published Queen Noor Street headquarters: official contact page, company LinkedIn and official Directions map agree; building number 73 is LinkedIn-listed only; current entrance occupancy not independently checked"
+  latitude: 31.9679091
+  longitude: 35.9027875
+  coordinate_confidence: "approximate Google Maps Umniah HQ place pin from the company's own Directions link, not surveyed entrance coordinates"
+  maps_url: "https://maps.app.goo.gl/3CTxsnrHZHsZbt9W8"
 categories:
   - "data"
   - "mobile"
   - "telecom"
   - "web"
+  - "cybersecurity"
 technologies:
-  - ".NET"
-  - "5G"
-  - "Fiber Networks"
-  - "PHP"
+  - "5G NR / LTE"
+  - "Fiber networks"
+  - "Ericsson Radio System"
+  - "C# / .NET / ASP.NET Core"
+  - "REST APIs"
+  - "JavaScript / TypeScript"
+  - "SQL Server"
+  - "Git"
+  - "Python"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-    - "Graduate"
-notes: "Third mobile operator in Jordan (Batelco subsidiary); Youth Unit trained 400+ students/graduates; posted Network Engineer internships — fresh-grad friendly. Pin moved from city-center fallback to Umniah HQ pin from the company's own site data (address updated accordingly)."
+    - "Fresh-graduate / entry-level software engineering (2026 job advertisement)"
+    - "Talent Acquisition Trainee / internship (October 2026 advertisement)"
+    - "Network engineering internship for fresh graduates (2026, closed)"
+notes: >-
+  Reviewed 2026-11-02. Official Umniah contact information lists the HQ on
+  Queen Nour Street in Shmeisani (telephone +962 6 200 2000); LinkedIn lists
+  No. 73 Queen Noor Street. The earlier Abdul Rahim Al-Waked Street address
+  was not supported as Umniah's current headquarters and may reflect a
+  related business. The previous coordinates align closely with the Umniah
+  HQ Google Maps business pin linked from Umniah's official Directions link;
+  the recorded pin is approximate, not a surveyed building entrance.
+  LinkedIn reports 501-1,000 employees, differing from the prior 1001-5000
+  band; Jordan ICT's 2025 profile gives 900 staff. Umniah's official website
+  links to an Oracle-hosted candidate portal, but its dynamic job inventory
+  could not be independently inspected. A recent LinkedIn Software
+  Development Engineer advertisement explicitly seeks fresh graduates with
+  0-1 years of experience, and shows an Apply action as checked; application
+  completion was not tested. Its listed C#/.NET, ASP.NET Core, REST APIs,
+  JavaScript/TypeScript, SQL Server and Git are role requirements, not a
+  verified full production stack. An October 2026 Talent Acquisition Trainee
+  advertisement also displays an Apply action; a Network Engineer Internship
+  - JEA listing explicitly says applications are closed. An earlier
+  Call For Talents campaign accepted 0-3 years of experience but is closed.
+  Ericsson radio technology and 5G expansion are documented in official
+  September 2026 announcements; Python appears in network optimization job
+  requirements, not as independently confirmed production usage. The former
+  PHP attribution lacked sufficient direct evidence and was removed. The
+  Shababi youth-marketing initiative is not itself an employment internship.
+  No verified dedicated HR email, audited live headcount or complete current
+  engineering stack was found. Company-level verification therefore remains
+  partial despite corroborated HQ street-level location.
 evidence:
   - type: "official_website"
-    url: "https://www.umniah.com"
-    label: "Official website"
+    url: "https://www.umniah.com/contact-us/"
+    label: "Official headquarters address, telephone and Directions map; checked 2026-11-02"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/umniah"
+    label: "Company profile: 501-1,000 employees, 2005 founding, 73 Queen Noor Street"
+  - type: "official_website"
+    url: "https://www.umniah.com/business/about-umniah/"
+    label: "Official business portfolio, UWallet relationship and link to careers portal"
+  - type: "careers"
+    url: "https://iaavas.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1"
+    label: "Oracle candidate portal linked directly from Umniah official website; dynamic vacancy list not inspected"
+  - type: "google_maps"
+    url: "https://maps.app.goo.gl/3CTxsnrHZHsZbt9W8"
+    label: "Official contact page Directions link to Umniah HQ Google Maps business pin"
   - type: "other"
-    url: "https://en.wikipedia.org/wiki/Umniah"
-    label: "Research source"
-  - type: "other"
-    url: "https://rocketreach.co/umniah-profile_b5c64480f42e0cbe"
-    label: "Research source"
+    url: "https://jordanict.com/2025/company-profile/umniah"
+    label: "Jordan ICT 2025 company profile: 900 staff, Amman contacts and services"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/software-development-engineer-at-umniah-4479422329"
+    label: "Recent 2026 entry-level software engineer, fresh graduates 0-1 years, .NET/SQL/JS requirements; Apply shown"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/talent-acquisition-trainee-at-umniah-4478675432"
+    label: "October 2026 Talent Acquisition Trainee internship; Apply shown, acceptance untested"
   - type: "job_post"
     url: "https://jo.linkedin.com/jobs/view/network-engineer-internship-jea-at-umniah-4468551219"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.umniah.com/business/about-umniah/"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.967905,35.902783"
-    label: "Google Maps location"
+    label: "2026 fresh-graduate network internship; LinkedIn says no longer accepting applications"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/call-for-talents-at-umniah-4364778310"
+    label: "2026 multi-department entry-level campaign, 0-3 years; applications closed"
+  - type: "official_website"
+    url: "https://www.umniah.com/explore-umniah/umniah-network-expansion-with-ericsson/"
+    label: "September 2026 official Ericsson partnership and second-phase 5G expansion"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/ra-optimization-engineer-at-umniah-4399743065"
+    label: "Historical entry-level radio optimization role: Ericsson ENM/ENIQ and Python as desirable; closed"
