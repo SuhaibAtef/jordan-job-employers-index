@@ -1,47 +1,79 @@
 name: "Vertical Solutions"
-industry: "ERP consulting"
+description: "Vertical Solutions for Consulting & IT is an enterprise resource planning (ERP) implementation and business-process consultancy founded in 2010 by Faris Fleifel. It supports ERP selection, finance and operations consulting, implementation, training and support across Oracle NetSuite, Epicor and Odoo, with a documented Amman presence and regional operations."
+industry: "ERP implementation and IT consulting"
 website: "https://ver-solutions.com"
 careers_url: null
-linkedin: null
-hr_email: null
-size: "10-49"
+linkedin: "https://www.linkedin.com/company/vertical-solutions-for-consulting-and-it"
+hr_email: "info@ver-solutions.com"
+size: "11-50"
 location:
   area: "Amman"
-  address: "7th Circle, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.97227
-  longitude: 35.8841
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97227,35.8841"
+  address: "7th Circle, Amman, Jordan (official contact page; conflicting Al Rabieh listing on LinkedIn)"
+  status: "provided_unverified"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=7th+Circle+Amman+Jordan"
 categories:
   - "consulting"
   - "erp"
 technologies:
   - "Oracle NetSuite"
-  - "SAP"
+  - "Epicor Kinetic"
+  - "Epicor iScala"
+  - "Odoo ERP"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-notes: "Amman-HQ ERP consultancy (est. 2010, founded by Faris Fleifel); Epicor authorized VAR (iScala implementations) and NetSuite partner. Also has a Dubai office (City Gate Building, Office 3-4). No internship program found."
+    - "Company LinkedIn advertised a junior/mid-level Functional ERP Implementer role in Amman; current acceptance unconfirmed"
+    - "Earlier entry-level Functional ERP Implementer posting is closed"
+notes: >-
+  Reviewed 2026-11-02. Official site identifies founder Faris Fleifel and 2010 founding,
+  with ERP consulting, implementation, training and support for NetSuite, Epicor and Odoo.
+  Company LinkedIn reports 11-50 employees, not an audited headcount, and an Amman
+  headquarters. Its primary location is 11 Siqilliyah Street, Al Rabieh, while the
+  current official contact page gives Al Sahel and 7th Circle, Amman; these are
+  materially different descriptions, so no precise office location or coordinates
+  are asserted. The old 7th Circle coordinate pin was removed. Official contact
+  publishes info@ver-solutions.com and sales@ver-solutions.com; company-authored
+  LinkedIn recruitment posts direct applicants to the general info@ address, not
+  a dedicated HR mailbox. A junior/mid-level Functional ERP Implementer recruitment
+  post requests MIS/CIS/AIS education and ERP/accounting/business-process knowledge;
+  its current application acceptance cannot be confirmed. Separate LinkedIn job
+  listings for Functional ERP Implementer and ERP Sales Supervisor explicitly say
+  applications are closed. No internship or graduate programme was confirmed;
+  prior Internship signal was unsupported. Technology names represent customer ERP
+  products implemented or advertised, not a verified internal development stack.
+  SAP is not listed as a delivered solution: it appears only as comparative sales
+  experience in an advertisement. Older third-party profile and PDF references
+  were not used to establish current office occupancy.
+verification_status: "partial"
+last_verified: "2026-11-02"
 evidence:
   - type: "official_website"
     url: "https://ver-solutions.com"
-    label: "Official website"
-  - type: "other"
+    label: "Official site: ERP products and services"
+  - type: "official_website"
     url: "https://ver-solutions.com/about"
-    label: "Research source"
+    label: "Official company history, founder and services"
+  - type: "official_website"
+    url: "https://ver-solutions.com/contact-form"
+    label: "Official contact details and 7th Circle address"
+  - type: "official_website"
+    url: "https://ver-solutions.com/our-client"
+    label: "Official examples of ERP customer implementations"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/vertical-solutions-for-consulting-and-it"
+    label: "Company size, Al Rabieh address, products and recruitment posts"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/functional-erp-implementer-at-vertical-solutions-for-consulting-4293796112"
+    label: "Closed entry-level ERP Implementer posting"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/erp-sales-supervisor-at-vertical-solutions-for-consulting-4442393277"
+    label: "Closed ERP Sales Supervisor posting"
   - type: "other"
-    url: "https://www.prlog.org/12380586-advanced-medical-industries-and-al-watanieh-selects-epicor-iscala.html"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.azdan.com/blog/erp-companies-ksa"
-    label: "Research source"
+    url: "https://www.signalhire.com/companies/vertical-solutions-for-consulting-and-it-jordan"
+    label: "Third-party Al Rabieh address corroboration, updated September 2026"
   - type: "other"
     url: "https://www.goodfirms.co/company/vertical-solutions-erp"
-    label: "Research source"
+    label: "Historical ERP consultancy profile and Al Rabieh address"
   - type: "other"
-    url: "https://img1.wsimg.com/blobby/go/4e042b00-63ce-417a-a833-9d8ddf41b296/downloads/6b96cf75-ab28-4594-875b-a55ea1f050a1/Vertical%20Solutions%20Company%20Profile.pdf?ver=1768821093827"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.97227,35.8841"
-    label: "Google Maps location"
+    url: "https://www.azdan.com/blog/erp-companies-ksa"
+    label: "July 2026 regional NetSuite integrator directory"
