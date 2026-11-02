@@ -1,38 +1,94 @@
 name: "Wafii"
-industry: "Fintech / Loyalty"
+description: >-
+  Wafii is a Jordan-origin consumer rewards and retail-insights platform launched
+  around 2019. Its mobile app lets shoppers scan grocery receipts for cashback,
+  while its business offering provides FMCG brands and retailers with consumer
+  panel data, purchase-behavior insights, targeted promotions and advertising.
+  The company lists an Amman location and a Dubai headquarters; a current
+  Jordan office headcount and internal engineering stack have not been confirmed.
+industry: "Consumer insights / retail analytics / loyalty and cashback technology"
 website: "https://wafii.co/"
 careers_url: null
-linkedin: null
-hr_email: "info@wafii.co"
-size: null
+linkedin: "https://www.linkedin.com/company/wafii"
+hr_email: null
+size: "2-10 employees (LinkedIn company-wide band; not audited or Jordan-specific)"
 location:
-  area: "Amman"
-  address: "3rd Circle, Amman 11195"
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  area: "Arar Street, Amman"
+  address: "Arar Street, Amman, Jordan (company LinkedIn); CB Insights lists 268 Arar Street, but building and present occupancy are unconfirmed"
+  status: "provided_unverified"
+  confidence: "medium for an Amman operation and Arar Street (company LinkedIn and independent business profile); low for building number, present occupancy and entrance-level coordinates"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Arar%20Street%2C%20Amman%2C%20Jordan"
 categories:
   - "fintech"
   - "mobile"
 technologies:
-  - "Android"
-  - "iOS"
+  - "Android (Google Play app; published by Stark Software Technologies LLC)"
+  - "iOS (Apple App Store app; published by StarkTech LLC)"
+  - "Grocery receipt scanning and cashback (documented mobile app capability)"
+  - "Consumer panel analytics and targeted promotions (company-described business platform)"
+  - "AI-powered insights dashboard (LinkedIn-described product feature; underlying implementation unverified)"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false
   signals:
-    - "Internship"
-notes: "Amman cashback loyalty platform by Stark Software Technologies LLC (founded 2018); Wafii app lets users scan grocery receipts to earn cashback, Wafii Card accepted at 200+ merchants incl. Jordan restaurants. No public internship postings found. Stack verified 2026-10-05: Google Play + App Store listings by STARK SOFTWARE TECHNOLOGIES LLC show live Android and iOS apps."
+    - "No current company-authored Jordan job vacancy, careers portal, formal graduate programme or internship recruitment was confirmed on 2026-11-02."
+    - "A self-reported profile describes two short Wafii internships in 2022-2023; this is historical individual testimony, not an open internship or a confirmed structured programme."
+notes: >-
+  Reviewed 2026-11-02. Wafii's current official homepage redirects to its
+  business-facing consumer-panel site, which describes receipt-based cashback
+  data, FMCG shopper insights, targeted advertising and promotional measurement.
+  The Google Play listing (updated 2026-08-03) and Apple App Store identify
+  Stark Software Technologies LLC / StarkTech LLC as the mobile app publisher;
+  this is a publisher attribution, not proof of current ownership or a legal
+  parent-company relationship. LinkedIn identifies Wafii as founded in 2019,
+  lists 2-10 employees company-wide, names Dubai as primary headquarters and
+  Arar Street, Amman as another location. Older sources give a 2018 origin,
+  so the exact founding year is not independently reconciled. The old dataset's
+  3rd Circle address and precise 31.9539, 35.9106 coordinates could not be
+  corroborated and were replaced with an address-based map search. CB Insights
+  lists 268 Arar Street, but the exact building and current office occupancy
+  are not independently confirmed. The official business site publishes
+  info@wafii.co and +962 79 81 222 81 as general contacts, not a dedicated
+  HR mailbox; hr_email is therefore null. The earlier generic 'Internship'
+  signal lacked company-authored recruitment evidence; a third-party personal
+  profile mentions short historical internships, but no open role or structured
+  programme was confirmed. Android/iOS and consumer-analytics capabilities
+  are public product evidence, not proof of specific programming languages,
+  frameworks, infrastructure or a Jordan-based engineering team. Historical
+  Wafii Card / contactless-payment claims on older official pages should not
+  be treated as current product availability. Company verification remains
+  partial due to unconfirmed HR, hiring, office occupancy and internal stack.
 evidence:
   - type: "official_website"
-    url: "https://wafii.co/"
-    label: "Official website"
+    url: "https://wafii.co/business/"
+    label: "Current official business offering: receipt-based consumer insights, FMCG panel and general contact"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/wafii"
+    label: "Company LinkedIn: 2019 founding, Dubai primary HQ, Amman Arar Street location, 2-10 employees, AI dashboard claim"
   - type: "other"
-    url: "https://play.google.com/store/apps/details?id=io.starktech.wafiicr.wafii&pli=1"
-    label: "Research source"
+    url: "https://play.google.com/store/apps/details?id=io.starktech.wafiicr.wafii"
+    label: "Google Play: Android cashback app by Stark Software Technologies LLC; updated 2026-08-03"
   - type: "other"
-    url: "https://zyda.com/en/blog/7-restaurant-loyalty-programs"
-    label: "Research source"
+    url: "https://apps.apple.com/jo/app/wafii/id1448299276"
+    label: "Apple App Store: iOS cashback app by StarkTech LLC"
+  - type: "company_listing"
+    url: "https://www.cbinsights.com/company/wafii"
+    label: "Business directory: 268 Arar Street address, not independently confirmed for occupancy"
+  - type: "company_listing"
+    url: "https://www.decypha.com/en/company-list/Wafii-194980"
+    label: "Older 2022 directory: Jordan contact and historical 2018 founding claim"
+  - type: "other"
+    url: "https://www.wamda.com/2022/10/wafii-raises-seed-round-launch-crypto-cashback-platform"
+    label: "2022 independent funding report: Jordan origin, loyalty/payment history and UAE expansion"
+  - type: "official_website"
+    url: "https://wafii.co/card/"
+    label: "Historical Wafii Card promotion and general email; not evidence of current card availability"
+  - type: "other"
+    url: "https://ca.bold.pro/my/rakan-aqrouq"
+    label: "Individual self-reported short internships in 2022-2023; unverified as a structured company programme"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=Arar%20Street%2C%20Amman%2C%20Jordan"
+    label: "Street-level address search only, not verified office GPS"
+verification_status: "partial"
+last_verified: "2026-11-02"
