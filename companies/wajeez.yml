@@ -1,48 +1,113 @@
 name: "Wajeez"
-industry: "E-Learning Providers"
-website: "https://www.wajeez.com/"
+description: >-
+  Wajeez is a Jordan-founded Arabic digital audio and learning platform offering
+  short book summaries, full audiobooks, podcasts, novels and professional-skills
+  learning for individuals and organizations. The Wajeez app launched in 2020
+  after the founders' earlier Faylasoof book venture. The company identifies
+  Amman as its headquarters and also publishes a Riyadh contact address;
+  current Amman office occupancy, Jordan-specific headcount and the complete
+  production engineering stack have not been independently established.
+industry: "Software development / Arabic digital media and learning technology"
+website: "https://wajeez.com/"
 careers_url: null
-linkedin: "https://www.linkedin.com/company/72175298"
-hr_email: "support@wajeez.co"
-size: "51-100"
+linkedin: "https://www.linkedin.com/company/wajeezapp"
+hr_email: "HR@wajeez.co"
+size: "51-200 employees (LinkedIn company-wide band; not independently audited or Jordan-specific)"
 location:
-  area: "Amman"
-  address: "Abd Ar-Rahim Al-Hajj Muhammad St. 67, Amman"
+  area: "Amman (recent Sweifieh hiring location)"
+  address: "67 Abd Ar-Rahim Al-Hajj Muhammad Street, Sweifieh, Amman (EMIS-listed address; current occupancy unconfirmed)"
   status: "provided_unverified"
-  latitude: 31.958439
-  longitude: 35.858974
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.958439,35.858974"
+  confidence: "high for Amman operations (company LinkedIn and 2026 Amman job advertisements); medium for Sweifieh hiring area; low for the EMIS street/building address and current office occupancy, given conflicting directory addresses and an official Riyadh contact"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=67%20Abd%20Al%20Rahim%20Al%20Hajj%20Mohammad%20St%2C%20Amman%2C%20Jordan"
 categories:
   - "edtech"
   - "mobile"
   - "web"
 technologies:
-  - "Android"
-  - "iOS"
-  - "Next.js"
+  - "Android (official Google Play application, updated 2026-10-11)"
+  - "iOS (official Apple App Store application)"
+  - "C# / .NET Core (Amman backend engineering job requirement)"
+  - "PostgreSQL and SQL (Amman backend engineering job requirement)"
+  - "TypeScript (internal tooling requirement in backend job advertisement)"
+  - "FFmpeg (audio-processing workflow mentioned in backend job advertisement)"
+  - "AWS / Azure / GCP, CI/CD and serverless (cloud options in job advertisement; actual provider and deployment unverified)"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Arabic audiobook/book-summary subscription app (6M users claimed), founded by Mohammad Zatara and Rami Abu Jbara; site contact also lists a Riyadh office while press and directories confirm the Amman office. Public support email listed; no HR-specific address found. Audit 2026-10-03: GPS upgraded from city-center fallback to the maps business listing pin tied to wajeez.co (31.958439, 35.858974), matching the stated street address. support@wajeez.co and LinkedIn page verified in wajeez.com footer. tech_stack kept: Next.js (site's _next/ assets), iOS/Android (app-store badges on site)."
+  early_career_signal: true
+  signals:
+    - "2026 Amman Content Creation Intern advertisement offered a 3-6 month full-time internship aimed at fresh graduates; LinkedIn showed applications closed when checked 2026-11-02."
+    - "2026 Amman Social Media Marketing Intern (Content Creator) advertisement described a paid full-time internship for students or fresh graduates; LinkedIn showed applications closed."
+    - "2026 Amman .NET Backend Engineer role required 4+ years of experience and listed HR@wajeez.com; LinkedIn showed applications closed. Not an entry-level software role."
+    - "A recent founder-authored Chief Accountant recruitment post shared HR@wajeez.co; a separate company-reposted telesales post cited Sweifieh, Amman. Current application acceptance and mailbox delivery were not tested."
+notes: >-
+  Reviewed 2026-11-02. The official website and About page describe Arabic
+  book-summary audio/text, full audiobooks, novels, podcasts, and Wajeez Skills
+  corporate learning. The official site claims six million users; this is a
+  company-reported marketing figure, not independently audited. Company LinkedIn
+  reports founding in 2019, Amman headquarters and 51-200 employees company-wide;
+  the Royal Hashemite Court's 2021 account confirms founders Mohammad Zatara and
+  Rami Abu Jbara, the preceding Faylasoof venture, and Wajeez's 2020 launch.
+  The official site now lists a Riyadh, Al-Yasmin/Anas bin Malik Street contact
+  and support@wajeez.co, but no current Jordan street address. EMIS lists 67
+  Abd Ar-Rahim Al-Hajj Muhammad Street in Amman, while CB Insights gives a
+  different Jabal Al-Weibdeh address; the company-reposted telesales notice
+  locates on-site work in Sweifieh. Neither building occupancy nor an entrance
+  GPS pin was verified. Removed the previously recorded 31.958439, 35.858974
+  coordinates, which mapped to the street vicinity rather than a confirmed
+  Wajeez office. The founder's recent Chief Accountant hiring notice uses
+  HR@wajeez.co, while the older .NET engineer advertisement uses
+  HR@wajeez.com; the two domains are not interchangeable and neither inbox
+  was delivery-tested. The site's support@wajeez.co is customer support, not HR.
+  Wajeez published several Amman content/marketing internships for students
+  and recent graduates in 2026, but the inspected LinkedIn listings were closed;
+  no current open internship or software graduate scheme is confirmed. The
+  .NET/C#, PostgreSQL, TypeScript, FFmpeg and cloud technologies come from a
+  company-authored backend job description and should not be treated as an
+  audited deployed stack. Android/iOS are publicly distributed apps. Earlier
+  Next.js attribution based on old site assets was not revalidated against the
+  current site. Company-level verification remains partial because of
+  unconfirmed current office address, exact staffing, active vacancies and
+  full production stack.
 evidence:
   - type: "official_website"
-    url: "https://www.wajeez.com/"
-    label: "Official website"
+    url: "https://wajeez.com/"
+    label: "Current official Arabic audio-content platform, app links, Riyadh contact and support email"
+  - type: "official_website"
+    url: "https://wajeez.com/about-us"
+    label: "Official product history, learning offerings and company-reported user metrics"
   - type: "linkedin_company"
-    url: "https://www.linkedin.com/company/72175298"
-    label: "LinkedIn company page"
+    url: "https://www.linkedin.com/company/wajeezapp"
+    label: "Company profile: Amman HQ, 51-200 employee band, 2019 founding; recent founder HR and Sweifieh recruitment reposts"
   - type: "other"
-    url: "http://www.wajeez.co/"
-    label: "Research source"
+    url: "https://play.google.com/store/apps/details?id=com.faylasof.android.waamda"
+    label: "Officially linked Android app, publisher Wajeez LTD, updated 2026-10-11"
   - type: "other"
-    url: "https://royalcentral.co.uk/east/queen-rania-visits-technology-startup-wajeez-164422/"
-    label: "Research source"
+    url: "https://apps.apple.com/jo/app/wajeez-audiobooks-podcasts/id1483042035"
+    label: "Officially linked iOS app"
+  - type: "job_posting"
+    url: "https://jo.linkedin.com/jobs/view/back-end-developer-at-wajeez-%D9%88%D8%AC%D9%8A%D8%B2-4364660237"
+    label: "Closed Amman .NET backend engineer recruitment: 4+ years, stack and HR@wajeez.com"
+  - type: "job_posting"
+    url: "https://jo.linkedin.com/jobs/view/content-creation-intern-at-wajeez-%D9%88%D8%AC%D9%8A%D8%B2-4423628455"
+    label: "Closed 3-6 month full-time Amman content internship for fresh graduates"
+  - type: "job_posting"
+    url: "https://jo.linkedin.com/jobs/view/social-media-marketing-intern-content-creator-at-wajeez-%D9%88%D8%AC%D9%8A%D8%B2-4443123359"
+    label: "Closed paid full-time Amman marketing internship for students and fresh graduates"
+  - type: "job_posting"
+    url: "https://jo.linkedin.com/jobs/view/content-creator-intern-at-wajeez-%D9%88%D8%AC%D9%8A%D8%B2-4440008938"
+    label: "Additional closed Amman content-creator internship listing"
+  - type: "company_listing"
+    url: "https://www.emis.com/php/company-profile/JO/Wajeez__Wajeez__en_21443256.html"
+    label: "EMIS 2025 company profile listing 67 Abd Ar-Rahim Al-Hajj Muhammad Street; current occupancy not verified"
+  - type: "company_listing"
+    url: "https://www.cbinsights.com/company/wajeez"
+    label: "Alternative Jabal Al-Weibdeh office address; conflicts with EMIS and is not current-office proof"
   - type: "other"
-    url: "https://www.crunchbase.com/organization/wajeez"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/376069/Wajeez"
-    label: "Research source"
+    url: "https://www.queenrania.jo/en/media/press-releases/queen-rania-visits-technology-startup-wajeez"
+    label: "Royal Hashemite Court 2021 release: founders, Faylasoof history and 2020 Wajeez launch"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.958439,35.858974"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=67%20Abd%20Al%20Rahim%20Al%20Hajj%20Mohammad%20St%2C%20Amman%2C%20Jordan"
+    label: "Street-address map search only, not verified office GPS"
+verification_status: "partial"
+last_verified: "2026-11-02"
