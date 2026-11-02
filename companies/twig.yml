@@ -1,33 +1,90 @@
 name: "TWIG"
-industry: "AgriTech / Landscaping Platform"
-website: null
+description: >-
+  TWIG is a Jordanian agritech and gardening marketplace founded in 2019,
+  connecting garden owners with landscaping, garden-maintenance, farm-management
+  and agricultural-supply services. Its published product concept includes
+  a web marketplace and mobile application for ordering products and services,
+  tracking maintenance, and arranging smart irrigation systems. A January 2021
+  funding announcement documents investment from Miqdadi Agricultural Materials
+  Company and participation in the HASSAD agritech accelerator. Current operating
+  activity and recruitment could not be independently confirmed in November 2026.
+verification_status: "partial"
+last_verified: "2026-11-01"
+industry: "Agritech / Gardening and Landscaping Marketplace"
+website: "https://www.twigjo.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/twigjor"
 hr_email: null
-size: null
+size: "11-50 employees (company LinkedIn size band; not an audited or confirmed current headcount)"
 location:
   area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: "Mecca Street, Amman, Jordan (third-party directory listing at plus code XVG6+5HG; current office or trading address unconfirmed)"
+  status: "provided_unverified"
+  confidence: "high for Amman as the company-reported headquarters on LinkedIn; low for the Mecca Street address, which is listed by directories but not corroborated by an accessible company contact page"
+  latitude: null
+  longitude: null
+  coordinate_confidence: "unverified; previous 31.9539,35.9106 was a generic central-Amman marker rather than a documented TWIG office or entrance"
+  maps_url: null
 categories:
-  - "iot"
   - "mobile"
+  - "ecommerce"
 technologies:
-  - "Mobile app"
+  - "Mobile application (company LinkedIn and 2021 press reports; OS, framework and current availability not established)"
+  - "Web marketplace / online store (company LinkedIn and publicly accessible storefront; production architecture unverified)"
+  - "Smart irrigation systems (company-described service; no specific IoT hardware or engineering stack confirmed)"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Mobile-first platform for landscaping/garden-maintenance services and workforce management, plus smart home-gardening software; founded 2019 (Ali Al Rawashdeh, Ayat Shahin, Mohammed Al Houmsi); seed funding from Miqdadi AMC (2020). No current website/LinkedIn found - status may be dated. stack research 2026-10-05: 3 searches, no employee profiles or dev postings found; company appears dormant (no current site/LinkedIn); only evidenced: mobile-first per 2020 laffaz seed-funding piece."
+notes: >-
+  Reviewed 2026-11-01. The Jordanian TWIG gardening business is distinguished
+  from unrelated international companies named Twig. January 2021 coverage by
+  intaj, MAGNiTT, LAFFAZ and Wamda confirms seed funding from Miqdadi AMC,
+  founder/CEO Mohammad Al Homsi and HASSAD accelerator participation; LAFFAZ
+  names Ali Al Rawashdeh, Ayat Shahin and Mohammed Al Houmsi as 2019 founders.
+  The company LinkedIn profile identifies an Amman headquarters, a gardening
+  products/services marketplace, an app, smart irrigation and an 11-50 employee
+  band, but lists a conflicting 2021 founding year. The Refugee Investment
+  Network also describes the 2019 founding and links twigjo.com. The
+  www.twigjo.com site was accessible during this review and displayed plant
+  product listings, but its homepage also contained unrelated placeholder
+  travel-destination text; its current commercial reliability and recent
+  transaction activity are therefore unconfirmed. LinkedIn links to
+  ar.twigjor.com, which could not be accessed during the review. Buildeey and
+  JordanYP list Mecca Street, plus code XVG6+5HG and phone +962 7 7719 3008;
+  these directory listings do not independently establish current occupancy.
+  The previous central-Amman coordinates were removed rather than misrepresenting
+  an exact office. No current careers page, recruitment email, dated job post,
+  employee hiring campaign or internship was found. The company mentions
+  gardener onboarding and potential training, not verified employee recruitment.
+  The mobile/web product is documented, but no programming languages, app
+  frameworks or IoT implementation are verified; the former generic IoT
+  category was removed. Partial company verification reflects historical
+  identity and services with unresolved current operations, location and hiring.
 evidence:
+  - type: "official_website"
+    url: "https://www.twigjo.com/"
+    label: "Company-linked storefront with plant categories and listings; unrelated template text makes current operations uncertain; checked 2026-11-01"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/twigjor"
+    label: "TWIG gardening marketplace, Amman headquarters, 11-50 size band, mobile/web products and smart irrigation; 2021 founding claim conflicts with 2019 reporting"
+  - type: "other"
+    url: "https://www.intaj.net/media-center/newsroom/jordanian-agritech-startup-twig-secures-seed-funding"
+    label: "intaj January 25, 2021 announcement of Miqdadi AMC seed investment, CEO and HASSAD participation"
   - type: "other"
     url: "https://laffaz.com/twig-jordanian-agritech-seed-funding/"
-    label: "Research source"
+    label: "LAFFAZ January 26, 2021 reporting of 2019 founders and mobile-first gardening platform"
   - type: "other"
     url: "https://magnitt.com/news/twig-seed-funding-52446"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "MAGNiTT January 24, 2021 funding press release, service scope and HASSAD accelerator"
+  - type: "other"
+    url: "https://www.wamda.com/index.php/en/2021/01/jordans-twig-raises-funding-amc"
+    label: "Wamda January 21, 2021 corroboration of AMC funding and mobile-first gardening concept"
+  - type: "company_listing"
+    url: "https://refugeeinvestments.org/opportunities/twig/"
+    label: "Refugee Investment Network: 2019 founding, Jordan gardening services and twigjo.com website"
+  - type: "company_listing"
+    url: "https://buildeey.com/profile/twig/ar"
+    label: "Third-party Mecca Street plus-code and telephone listing; not independently verified as current premises"
+  - type: "company_listing"
+    url: "https://www.jordanyp.com/category/agtech_agricultural_technology/city:Amman"
+    label: "JordanYP TWIG listing with matching Mecca Street plus code and phone; possible syndicated listing"
