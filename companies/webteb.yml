@@ -1,41 +1,99 @@
 name: "WebTeb"
-industry: "HealthTech / Digital Media"
-website: "https://webteb.com"
+description: >-
+  WebTeb (ويب طب) is an Arabic-language digital health and wellness information
+  publisher founded in 2011. Its live website provides medical articles,
+  medicine and disease references, symptom-checking and health tools, and
+  content intended to connect Arabic-speaking readers with health providers.
+  The company says its editorial and product team includes doctors, editors,
+  programmers, designers and advertising specialists; this does not imply
+  that WebTeb directly provides medical treatment.
+industry: "Digital Health / Health Information Publishing / Software"
+website: "https://www.webteb.com/"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/webteb-ltd"
 hr_email: null
-size: null
+size: "51-200 employees (LinkedIn company-wide self-reported range; not a Jordan headcount)"
 location:
-  area: "Amman"
-  address: "15 Arar Street"
-  status: "approximate"
-  latitude: 31.954
-  longitude: 35.91944
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.954,35.91944"
+  area: "Amman, Jordan (LinkedIn headquarters; Riyadh office also reported)"
+  address: "15 Arar Street, Amman (historical third-party listing; current premises unconfirmed)"
+  status: "provided_unverified"
+  confidence: >-
+    LinkedIn identifies Amman headquarters and an additional Riyadh office.
+    CB Insights and a Jordan business directory independently list 15 Arar
+    Street, but neither establishes a current occupied office or entrance.
+    Previous precise coordinates were not supported by an independently
+    verified map pin and have been removed.
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "healthtech"
   - "mobile"
+  - "web"
 technologies:
-  - "Android"
-  - "iOS"
+  - "iOS (historical WebTeb mobile app, launched 2014; current availability unconfirmed)"
+  - "Android (historical WebTeb mobile app; removed from Google Play in 2024)"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false
   signals:
-    - "Internship"
-notes: "Arabic-language health & wellness information portal (founded 2011, Amman HQ) connecting users with doctors, hospitals and pharmacies. Pin upgraded from city-center fallback to HQ address (CB Insights); public contact email not verifiable on company sources, set to null. No public grad/internship postings found. stack verified 2026-10-05: former mobile dev at WebTeb (RocketReach public profile, skills iOS/Android) + company's 2014 press release launching its iOS app, Android app announced."
+    - "No current WebTeb-authored internship, fresh-graduate vacancy or official careers page was corroborated in the 2026-11-02 review."
+    - "Company LinkedIn describes an editorial, medical and software team, but this is not evidence of current recruitment."
+notes: >-
+  Reviewed 2026-11-02. WebTeb's official Arabic-language medical-information
+  website and About page were accessible and the homepage referenced 2026
+  content. The official About page describes licensed evidence-based medical
+  information and a multidisciplinary editorial/technology team. Company
+  LinkedIn reports founding in 2011, Amman headquarters, a Riyadh office and
+  51-200 employees, which is a company-reported global band rather than an
+  audited Jordan headcount. LinkedIn publicly lists marketing@webteb.net,
+  but that is a marketing contact, NOT a verified HR/recruitment mailbox;
+  hr_email remains null. No official careers board or current WebTeb-authored
+  vacancy was established. The prior generic 'Internship' signal was not
+  supported by a WebTeb internship advertisement and was corrected. The
+  historical iOS and Android applications are documented by the company's
+  own announcements and independent 2014 reporting. AppBrain records the
+  Android application as removed from Google Play on 2024-03-16, so past
+  mobile products must not be represented as currently distributed apps or
+  as proof of the internal production stack. CB Insights and BizMidEast
+  both list 15 Arar Street, but the current office address and entrance
+  coordinates could not be corroborated from an official contact page;
+  previous 31.954,35.91944 coordinates were therefore removed. WebTeb's
+  website remains active, but full employer verification is incomplete due
+  to unconfirmed current premises, HR channel, vacancies, Jordan staffing,
+  and production engineering stack.
 evidence:
   - type: "official_website"
-    url: "https://webteb.com"
-    label: "Official website"
+    url: "https://www.webteb.com/"
+    label: "Live official health-information website; 2026 content observed 2026-11-02"
+  - type: "official_website"
+    url: "https://www.webteb.com/aboutusen"
+    label: "Official About page: medical content, editorial and software team, licensed sources"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/webteb-ltd"
+    label: "Company LinkedIn: Amman and Riyadh, 51-200 employees, marketing contact, founded 2011"
   - type: "other"
     url: "https://www.cbinsights.com/company/webteb"
-    label: "Research source"
+    label: "Third-party historical company profile listing 15 Arar Street, Amman"
   - type: "other"
     url: "https://bouncewatch.com/company/webteb"
-    label: "Research source"
+    label: "Previously recorded third-party company profile; not relied on for current staffing"
   - type: "other"
     url: "https://www.jordanyp.com/company/376066/WebTeb/qa"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.954,35.91944"
-    label: "Google Maps location"
+    label: "Previously recorded third-party directory listing; not independently current"
+  - type: "other"
+    url: "https://www.bizmideast.com/JO/webteb-ltd-06-465-3142"
+    label: "Jordan business listing: historical 15 Arar Street address, not verified current"
+  - type: "official_website"
+    url: "https://news.webteb.com/اطلاق-تطبيق-ويب-طب-webteb-على-نظام-اندرويد_3118"
+    label: "Official WebTeb announcement of Android application following iPhone release"
+  - type: "official_website"
+    url: "https://news.webteb.com/جديد-تحميل-تطبيق-ويب-طب-مجانا-على-جهاز-ال-iphone_3098"
+    label: "Official WebTeb announcement of historical iPhone application"
+  - type: "other"
+    url: "https://www.wamda.com/index.php/2014/08/webteb-goes-mobile-with-arabic-language-app"
+    label: "2014 independent report documenting iOS launch and Amman origins"
+  - type: "other"
+    url: "https://www.appbrain.com/app/webteb-health-news-%D8%A7%D9%84%D8%B7%D8%A8-%D9%88%D8%A7%D9%84%D8%B5%D8%AD%D8%A9/com.webteb.webteb"
+    label: "Android app historical listing: removed from Google Play March 2024"
+verification_status: "partial"
+last_verified: "2026-11-02"
