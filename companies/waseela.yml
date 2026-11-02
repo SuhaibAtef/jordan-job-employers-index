@@ -1,44 +1,120 @@
 name: "Waseela"
-industry: "Telecommunications / ICT Systems Integration"
+description: >-
+  Waseela is a Jordan-founded regional ICT and telecommunications master systems
+  integrator established in 2007. It delivers connectivity and in-building
+  wireless coverage, network engineering, smart and safe city systems, IoT,
+  cybersecurity, and enterprise ICT infrastructure for government, telecom
+  operators and businesses across the Middle East. Waseela operates in Amman
+  and other regional markets and describes itself as a subsidiary of Revonence
+  Technologies International; its company LinkedIn now lists Dubai as the
+  primary headquarters rather than Amman.
+industry: "ICT systems integration / telecommunications engineering / cybersecurity"
 website: "https://waseela.com/"
-careers_url: null
-linkedin: null
-hr_email: null
-size: "201-500"
+careers_url: "https://waseela.com/waseela-hiring/"
+linkedin: "https://www.linkedin.com/company/waseela-telecom"
+hr_email: "hr-jordan@waseela.com"
+size: "201-500 employees (LinkedIn company-wide band; not audited or Jordan-specific)"
 location:
-  area: "Amman"
-  address: "Al Husseini Complex, Office 406, Al-Madina Al-Monawara Street, Amman, Jordan"
+  area: "Al-Madinah Al-Munawara Street, Amman"
+  address: "Al Husseini Complex, Office 406, Al-Madinah Al-Munawara Street, Amman, Jordan (official contact page; LinkedIn instead lists Jad Center, Office 401)"
   status: "provided_unverified"
-  latitude: 31.974056
-  longitude: 35.864925
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.974056,35.864925"
+  confidence: "high for active Amman operations and the street (official contact and 2026 Jordan activity); medium for the precise office because official contact and company LinkedIn list different buildings; entrance coordinates not independently verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Al%20Husseini%20Complex%20Al%20Madinah%20Al%20Munawara%20Street%20Amman%20Jordan"
 categories:
   - "ai"
-  - "devops"
   - "iot"
   - "security"
   - "telecom"
 technologies:
-  - "5G"
-  - "IoT"
+  - "5G and in-building wireless systems (commercial integration offerings and Airgain partnership)"
+  - "IoT and smart-city systems (company business unit and announced projects)"
+  - "Zscaler Zero Trust Network Access (documented delivery partnership and 2026 Jordan workshop)"
+  - "ICT/ELV, CCTV, access control and network infrastructure (company service portfolio)"
+  - "SAP Business One, Crystal Reports, SQL and Power BI (skills requested in an October 2026 junior support advertisement; actual deployment unverified)"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-notes: "Amman-HQ master systems integrator (est. 2007) delivering large-scale ICT/telecom projects (5G coverage, IoT, smart cities, cybersecurity) for telecom service providers across MENA. No public internship/grad evidence found."
+    - "The company explicitly offered telecom graduates internships leading potentially to full-time roles through My Communication Academy in May 2022; this is historical, not a current application window."
+    - "A third-party job listing dated 2026-10-26 advertised a Junior Business Applications Support Specialist (up to three years' experience) and listed hr-jordan@waseela.com; the vacancy and acceptance status were not confirmed on the employer's own site."
+    - "The KayanHunt recruitment portal lists a Waseela Jordan Sales Support Specialist role in Amman (reference JP26-20) as a development track toward Account Manager, plus other Waseela roles; live acceptance should be checked before applying."
+    - "Waseela's recruiter shared an Amman Key Account Manager vacancy and hr-jordan@waseela.com; the company also participated in the 2026 PSUT career fair."
+notes: >-
+  Reviewed 2026-11-02. The current official About page identifies Waseela as
+  established in Jordan in 2007, operating in Jordan, UAE, Saudi Arabia and
+  Qatar, with more than 270 professionals in a company-reported figure and a
+  Revonence Technologies International affiliation. Company LinkedIn reports
+  201-500 employees worldwide, Dubai as primary HQ and a separate Amman
+  location; neither figure is a verified Jordan headcount. The current official
+  Contact page still lists Al Husseini Complex, Office 406, Al-Madinah
+  Al-Munawara Street, +962 6 5543105 and info@waseela.com, whereas company
+  LinkedIn lists Jad Center, Office 401 on the same street. Current occupancy
+  of either specific office and entrance GPS were not independently confirmed;
+  removed the old 31.974056, 35.864925 coordinates to avoid a false exact pin.
+  Waseela's recruiter Rawan Owiss publicly used hr-jordan@waseela.com for an
+  Amman vacancy; delivery was not tested. The official Join Us page is live
+  but did not expose a vacancy list in the accessible HTML. A KayanHunt portal
+  lists Waseela Jordan roles including Sales Support Specialist; the portal
+  also includes jobs for other companies, so those are not attributed to
+  Waseela. A 2026-10-26 third-party junior applications support posting
+  requests SAP Business One, Crystal Reports, SQL and Power BI experience;
+  these are advertised skills, not an audited internal stack. The company
+  explicitly described a telecom-graduate internship pathway in 2022, but
+  no currently open internship was verified. Jordan's Petra news agency
+  independently reported Waseela's August 2026 Zscaler/NCSC workshop, and
+  Waseela's LinkedIn documents 2026 Jordan smart-campus exploration. These
+  support ongoing operations but not full verification of office, staff,
+  internal software infrastructure or all current hiring. Status remains
+  partial; verified location alone would not imply full company verification.
 evidence:
   - type: "official_website"
     url: "https://waseela.com/"
-    label: "Official website"
+    label: "Official Waseela homepage and current service portfolio"
+  - type: "official_website"
+    url: "https://waseela.com/about-us/"
+    label: "Official About page updated 2026: Jordan origins, regional operations, group affiliation and company-reported staffing"
+  - type: "official_website"
+    url: "https://waseela.com/contact-us/"
+    label: "Current official Amman contact: Al Husseini Complex Office 406, street, phone and general email"
+  - type: "careers_page"
+    url: "https://waseela.com/waseela-hiring/"
+    label: "Official Join Us page; no vacancy rows exposed in accessible HTML"
+  - type: "official_website"
+    url: "https://waseela.com/waseela-played-a-primary-role-in-kicking-off-the-first-my-communication-annual-conference-mctc-by-my-communication-academy/"
+    label: "May 2022 company announcement explicitly inviting telecom graduates to internships with possible full-time transition"
+  - type: "official_website"
+    url: "https://waseela.com/waseela-announced-relocating-to-a-new-office-in-amman-jordan-2/"
+    label: "2022 Amman relocation announcement; historical Office 406 address"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/waseela-telecom"
+    label: "Company LinkedIn: Dubai HQ, 201-500 worldwide size, Jad Center Office 401 Amman listing and recent Jordan projects"
+  - type: "careers_page"
+    url: "https://hunt.kayanhr.com/CareerSite/Index/N0xIM2RYazFiYTFid1Qs"
+    label: "KayanHunt recruitment portal with Waseela Jordan roles; includes other employers too"
+  - type: "job_posting"
+    url: "https://hunt.kayanhr.com/JobDetails/JobPostDetails/UGpDMHhCOWVZSG1heVNqUmJ3V0RzUT09/N0xIM2RYazFiYTFid1QsZW1FM2RrTmtNVU5MTDFVMmJIWXpSMWxJU0c0Mlp6MDk%3D"
+    label: "Waseela Jordan Sales Support Specialist, JP26-20, development-track role, visible October-November 2026"
+  - type: "linkedin_employee"
+    url: "https://jo.linkedin.com/in/rawan-owiss-b32b248a"
+    label: "Company recruiter shared Amman account-management recruitment and hr-jordan@waseela.com; 2026 PSUT career-fair participation"
+  - type: "job_posting"
+    url: "https://jojobhub.com/jobs/junior-business-applications-support-specialist-jordan-waseela-1694-1"
+    label: "Third-party junior support vacancy dated 2026-10-26; skills and HR address; employer-side opening not independently confirmed"
+  - type: "other"
+    url: "https://www.petra.gov.jo/en/news/ncsc-chief-calls-for-institutional-approach-to-data-protection"
+    label: "Petra 2026-08-09: Waseela/Zscaler/NCSC Zero Trust workshop in Amman"
+  - type: "official_website"
+    url: "https://waseela.com/waseela-partners-with-airgain-to-offer-smart-5g-coverage-solutions/"
+    label: "2024 official 5G connectivity partnership announcement"
   - type: "other"
     url: "https://www.businesswire.com/news/home/20240731802639/en/Airgain-Expands-Into-Growing-Middle-East-Market-With-Waseela-Partnership"
-    label: "Research source"
+    label: "2024 independent Airgain/Waseela partnership release"
   - type: "other"
     url: "https://theorg.com/org/waseela-telecom"
-    label: "Research source"
-  - type: "other"
-    url: "https://waseela.com/waseela-announced-relocating-to-a-new-office-in-amman-jordan-2/"
-    label: "Research source"
+    label: "Historical business listing retained; not relied upon for current office or staffing"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.974056,35.864925"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=Al%20Husseini%20Complex%20Al%20Madinah%20Al%20Munawara%20Street%20Amman%20Jordan"
+    label: "Address-based search only; not a verified entrance GPS coordinate"
+verification_status: "partial"
+last_verified: "2026-11-02"
