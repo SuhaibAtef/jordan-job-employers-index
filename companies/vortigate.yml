@@ -1,38 +1,91 @@
 name: "Vortigate"
-industry: "AR/VR/XR development"
-website: "http://www.vortigate.com/"
+description: >-
+  Vortigate is an immersive-technology and digital-experience studio founded in
+  Amman, Jordan in 2023. It develops virtual-reality, augmented-reality and
+  mixed-reality experiences, VR training and simulations, architectural and
+  real-estate walkthroughs, 3D animation, and web solutions for clients in
+  Jordan and regional markets including Saudi Arabia and the UAE. Client
+  reviews document completed Unreal Engine visualization and Meta Quest VR
+  training work, but do not establish the full internal engineering stack.
+industry: "Immersive Technology / AR, VR and XR Development / IT Services"
+website: "https://www.vortigate.com/"
 careers_url: null
-linkedin: null
-hr_email: "sales@vortigate.com"
-size: "10-49"
+linkedin: "https://www.linkedin.com/company/vortigate"
+hr_email: null
+size: "11-50 employees (LinkedIn company-wide band; not an audited headcount)"
 location:
-  area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  area: "University Street / Queen Rania Al-Abdullah Street, Amman"
+  address: "Queen Rania Al-Abdullah Street, Amman, Jordan (LinkedIn); Clutch lists Al Jama'a Street, Amman 11942; building and office unconfirmed"
+  status: "provided_unverified"
+  confidence: "medium for the published Amman street area (company LinkedIn and Clutch); low for exact building, entrance coordinates and current office occupancy"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Queen%20Rania%20Al-Abdullah%20Street%2C%20Amman%2C%20Jordan"
 categories:
   - "games"
   - "web"
 technologies:
-  - "C#"
-  - "C++"
-  - "HTML"
-  - "Unity"
-  - "Unreal Engine"
-  - "Vuforia"
+  - "Unity (Clutch-listed service focus)"
+  - "Vuforia (Clutch-listed service focus)"
+  - "Unreal Engine (client-confirmed project)"
+  - "C# (Clutch-listed programming capability)"
+  - "C++ (Clutch-listed programming capability)"
+  - "HTML5 (Clutch-listed programming capability)"
+  - "Meta Quest 2/3 (client-reported VR training delivery)"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "AR/VR/MR studio founded 2023 in Amman (serving Saudi Arabia, Dubai, Jordan) building immersive VR/AR/MR experiences; homepage invites applicants via a 'Join Our Team' section (listed contact is sales@vortigate.com, no dedicated HR email)."
+  signals:
+    - "The official homepage displays a Join Our Team invitation and an Apply Now link, but it does not identify a dated vacancy, role requirements or a dedicated careers portal; application acceptance was not verified on 2026-11-02."
+    - "The company LinkedIn profile links to a Co-Founder / Investor opportunity for Saudi-market expansion in Riyadh; the listing is closed and is neither a Jordan vacancy nor an early-career role."
+    - "No confirmed Jordan internship, graduate programme, fresh-graduate advertisement or active technical vacancy was located during this review."
+notes: >-
+  Reviewed 2026-11-02. The official website and company LinkedIn profile
+  independently establish Vortigate's Amman origin in 2023 and its immersive
+  VR/AR/MR, training, real-estate visualization and web-development services.
+  LinkedIn reports 11-50 employees, whereas Clutch estimates 10-49; neither
+  figure is an independently audited current headcount. LinkedIn publishes
+  Queen Rania Al-Abdullah Street in Amman, while Clutch publishes Al Jama'a
+  Street, Amman 11942. These are street-level directory descriptions without
+  a verifiable building or office number. The former 31.9539, 35.9106
+  coordinates were a generic Amman-centre fallback, not a confirmed Vortigate
+  entrance, and have been removed. The map URL is a street-address search,
+  not evidence of a surveyed pin. The official contact page publishes
+  sales@vortigate.com and +962781313782, but sales@ is a general sales
+  address, not a verified HR mailbox; hr_email remains null. The homepage
+  includes a generic Join Our Team call to action without a dedicated
+  vacancy list. The only identifiable company-authored LinkedIn opening was
+  a closed Riyadh Co-Founder / Investor listing, which supplied
+  mr@vortigate.com for that strategic partnership, not for Jordan HR.
+  Clutch lists Unity, Vuforia, C#, C++, HTML5 and other technologies as
+  service/programming focus; these are directory-reported capabilities,
+  not verified production-stack inventories. A 2024 client review
+  specifically documents Unreal Engine delivery, and a 2025 client review
+  documents a VR training app delivered for Meta Quest 2/3. The company's
+  regional service coverage does not prove physical offices in Saudi Arabia
+  or the UAE. Company verification remains partial because office occupancy,
+  current Jordan recruiting, HR contact and full internal stack are unconfirmed.
+verification_status: "partial"
+last_verified: "2026-11-02"
 evidence:
   - type: "official_website"
-    url: "http://www.vortigate.com/"
-    label: "Official website"
-  - type: "other"
+    url: "https://www.vortigate.com/"
+    label: "Official homepage: Amman founding, services, projects and generic Join Our Team invitation"
+  - type: "official_website"
+    url: "https://www.vortigate.com/about-us"
+    label: "Official founding history, 2023, and company mission"
+  - type: "official_website"
+    url: "https://www.vortigate.com/contact-us"
+    label: "Official sales contact email and Jordan telephone; no published HR email"
+  - type: "official_website"
+    url: "https://www.vortigate.com/virtual-reality-solutions"
+    label: "Official VR training, simulation, visualization, gaming and walkthrough services"
+  - type: "official_website"
+    url: "https://www.vortigate.com/augmented-reality-solutions"
+    label: "Official AR development and web-based AR service descriptions"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/vortigate"
+    label: "Company profile: 2023 founding, Amman street location, 11-50 employee band and recruitment update"
+  - type: "company_listing"
     url: "https://clutch.co/profile/vortigate"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Independent directory: Al Jama'a Street, 10-49 staff estimate, listed technologies and 2024-2025 client reviews"
+  - type: "job_post"
+    url: "https://sa.linkedin.com/jobs/view/co-founder-investor-expansion-into-the-saudi-market-at-vortigate-4313679981"
+    label: "Closed Riyadh co-founder/investor listing; not Jordan or early-career recruitment"
