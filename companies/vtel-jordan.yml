@@ -1,43 +1,75 @@
 name: "VTEL Jordan"
-industry: "Telecom infrastructure / ISP"
-website: "http://www.vtel.jo/"
-careers_url: null
-linkedin: null
-hr_email: null
-size: "11-50"
+industry: "Telecommunications / fiber ISP / data-center and cloud infrastructure"
+website: "https://www.vtel.jo/"
+careers_url: "https://www.vtel.jo/Business/en/Careers"
+linkedin: "https://www.linkedin.com/company/vtel-jordan"
+hr_email: "jobs@vtel.jo"
+size: "51-200"
 location:
-  area: "Amman"
-  address: "Al Reem Center, Arar Mustafa Wahbi Al Tal St 244, Wadi Saqra, Amman"
-  status: "provided_unverified"
-  latitude: 31.962192
-  longitude: 35.890565
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.962192,35.890565"
+  area: "Wadi Saqra, Amman"
+  address: "Al Reem Center, Building 244, Arar Mustafa Wahbi Al Tal Street, Wadi Saqra, Amman 11181, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Al%20Reem%20Center%2C%20244%20Arar%20Mustafa%20Wahbi%20Al%20Tal%20Street%2C%20Amman%2C%20Jordan"
 categories:
   - "iot"
   - "telecom"
 technologies:
-  - "Fiber Networks"
-  - "IoT"
+  - "Fiber-optic networking (FTTH/FTTB)"
+  - "IP transit and BGP (AS50670)"
+  - "MPLS and VPN"
+  - "VLAN and QinQ"
+  - "GPON and Huawei OLT (recruitment requirement/preference)"
+  - "Cisco CCNA networking (preferred certification)"
+  - "SD-WAN"
+  - "VSAT"
+  - "Virtual private servers (VPS) and hosting"
+  - "IoT and vehicle tracking"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Regional provider of fiber internet, IoT and smart data centers headquartered in Amman; operating since 2008. GPS upgraded from city-center fallback to verified Google Maps business pin (Al Reem Center, Arar St 244; address confirmed in RIPE member listing). Website added from verified business listing. stack verified 2026-10-07: employee evidence confirms network-operations roles (Sr. Network Operations Engineer at VTEL Jordan per public profile; RIPE LIR record shows VTEL as an ISP/data-center operator in Amman); fiber network operations tags corroborated."
+  early_career_signal: true
+  signals:
+    - "Network Support Engineer, Amman: company-authored posting circa October 2026 requested 1-3 years of relevant experience, routing/MPLS/VLAN/QinQ and GPON knowledge; LinkedIn marked applications closed when checked 2026-11-02."
+    - "Outdoor Sales, Amman: company-authored posting circa late October 2026 sought fiber sales experience and a vehicle; LinkedIn marked applications closed when checked 2026-11-02."
+    - "Official careers page offers a general CV-upload application form; successful submission and any current role-specific intake were not tested."
+notes: |
+  VTEL Holdings Limited/Jordan Co. is an Amman-based telecom and internet infrastructure operator established in 2008. Official business pages describe enterprise fiber internet, dedicated connectivity, IP transit, domestic/international data links, data-center hosting, VPS, SD-WAN, VSAT, IoT, smart facilities and tracking. RIPE NCC identifies the Jordan operator and confirms its network registration; AS50670 is attributable to VTEL.
+  The official business contact page, RIPE NCC and company LinkedIn independently corroborate Al Reem Center, Building 244, Arar Street, Wadi Saqra. Location.status verified means the published business address is corroborated, not that present-day occupancy or entrance-level GPS has been surveyed. Earlier coordinates (31.962192, 35.890565) were removed because their entrance-level precision could not be independently validated.
+  LinkedIn's company-wide 51-200 employee band differs from an older intaj listing of 1-24; no audited headcount was found. A 2024/2025 Jordan ICT profile lists general contact info@vtel.jo and technical management; neither is a dedicated HR contact. A company-authored Network Support Engineer posting directs CVs to jobs@vtel.jo, recorded as the recruitment contact without inbox-delivery testing. A newer Outdoor Sales posting instead gives jobs@vtel.com; the two recruitment domains were not reconciled.
+  The Network Support Engineer role is early-career (1-3 years), not explicitly open to fresh graduates; no confirmed internship or graduate scheme. Both identified LinkedIn listings showed applications closed, while the official general careers form was visible on 2026-11-02. The technology list combines services and role requirements, not an independently audited internal production software stack. An earlier October 2026 note cited network-operations employee evidence; current company-authored requirements provide stronger direct corroboration.
 evidence:
   - type: "official_website"
-    url: "http://www.vtel.jo/"
-    label: "Official website"
-  - type: "other"
-    url: "https://Theorg.com/org/vtel-jordan/org-chart/ahmed-abdelrazzaq"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanyp.com/company/322390/Vtel_Holdings_Ltd"
-    label: "Research source"
-  - type: "other"
-    url: "https://www-public.telecom-sudparis.eu/~maigron/rir-stats/ripe-allocations/ipv4/by-lir/jo-ipv4-by-lir.html"
-    label: "Research source"
+    url: "https://www.vtel.jo/Business/en/Contact"
+    label: "Official VTEL business contact page: Al Reem Center, Arar Street 244, Amman"
+  - type: "official_website"
+    url: "https://www.vtel.jo/Business/en/Careers"
+    label: "Official careers page with CV upload form (checked 2026-11-02)"
+  - type: "official_website"
+    url: "https://www.vtel.jo/Business/en/"
+    label: "Official business services and network infrastructure"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/vtel-jordan"
+    label: "Company LinkedIn: headquarters, 51-200 employees, services and hiring updates"
   - type: "other"
     url: "https://www.ripe.net/membership/member-support/list-of-members/jo/vtel-jordan/"
-    label: "Research source"
+    label: "RIPE NCC member directory: registered legal operator and Wadi Saqra address"
+  - type: "other"
+    url: "https://www.intaj.net/network/vtel-jordan"
+    label: "intaj member directory: Al Reem Center 244 and historical employee estimate"
+  - type: "other"
+    url: "https://www.jordanict.com/company-profile/vtel-jordan"
+    label: "Jordan ICT industry profile: infrastructure services, contact and leadership"
+  - type: "other"
+    url: "https://jo.linkedin.com/jobs/view/network-support-engineer-at-vtel-jordan-4469740524"
+    label: "Company-authored Network Support Engineer listing: 1-3 years, technical requirements, jobs@vtel.jo; closed"
+  - type: "other"
+    url: "https://jo.linkedin.com/jobs/view/outdoor-sales-at-vtel-jordan-4480473817"
+    label: "Company-authored Outdoor Sales listing: jobs@vtel.com; closed"
+  - type: "other"
+    url: "https://asnbase.com/AS50670"
+    label: "VTEL AS50670 network registration and routing overview"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.962192,35.890565"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=Al%20Reem%20Center%2C%20244%20Arar%20Mustafa%20Wahbi%20Al%20Tal%20Street%2C%20Amman%2C%20Jordan"
+    label: "Address-based map search; not a surveyed GPS point"
+verification_status: "partial"
+last_verified: "2026-11-02"
