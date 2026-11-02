@@ -1,31 +1,79 @@
 name: "Wathefty"
-industry: "Internet / Job Board"
-website: "https://wathefty.com"
+description: >-
+  Wathefty (وظيفتي) is an Arabic-language Jordanian job-listing and
+  employment-access initiative serving job seekers across Jordan. Its official
+  About page describes a website and Facebook page issued by the office of
+  Mutaz Abu Rumman under the "Together to Fight Unemployment" initiative,
+  rather than establishing a separately incorporated recruitment employer.
+  The website aggregates vacancies across industries, locations and
+  experience levels, including fresh-graduate and remote-work categories.
+industry: "Employment services / Job board / Community employment initiative"
+website: "https://wathefty.com/"
 careers_url: null
 linkedin: null
 hr_email: null
 size: null
 location:
-  area: "Amman"
+  area: "Jordan (specific office location unconfirmed)"
   address: null
-  status: "approximate"
-  latitude: 31.9518
-  longitude: 35.94042
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
-categories: []
+  status: "unresolved"
+  confidence: "Jordan-wide scope confirmed by official About page; no independently corroborated office address or entrance-level GPS coordinates. Previous Amman pin was unsupported."
+  latitude: null
+  longitude: null
+  maps_url: null
+categories:
+  - "recruiting"
+  - "web"
 technologies: []
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false
   signals:
-    - "Graduate"
-notes: "Arabic-language Jordanian job board (وظيفتي) publishing Jordan vacancies; recent posts include fresh-graduate-friendly IT roles (e.g. GISTEC web developer, fresh to 1 year). stack research 2026-10-06: 3 searches (employee snippets, wuzzuf/gulftalent, own hiring); no dev employee profiles or dev postings found - Arabic job board, jobs site runs WordPress only"
+    - "The official site includes a fresh-graduate vacancy category, but these are third-party employer listings; this does not establish that Wathefty itself recruits graduates."
+    - "No current Wathefty-authored employee vacancy, internship, internal careers page or verified HR application address was identified in the 2026-11-02 review."
+notes: >-
+  Reviewed 2026-11-02. The official homepage is indexed and displays vacancies
+  for Jordan and Saudi Arabia, categories for fresh graduates, remote work,
+  part-time roles and a company job-posting facility. Its About page identifies
+  the project as a website and Facebook page associated with the office of
+  Mutaz Abu Rumman and an anti-unemployment initiative serving Jordanian
+  youth. Independent historical reporting in 2016 describes the initiative
+  as voluntary/nonprofit; a May 2024 news report says the associated Labour
+  Party announced a Wathefty mobile application, but this does not confirm
+  its current app availability, technical implementation or corporate status.
+  A separate wathefty.com/jobs/ section carries older 2022-2024 postings;
+  these are advertisements for third parties, not proof of Wathefty's own
+  hiring. The original generic "Graduate" hiring signal was therefore
+  replaced with an explicit distinction between graduate job-board content
+  and employer recruitment. No verified LinkedIn company profile, employee
+  count, dedicated HR email, current internal vacancy, legal employer entity
+  or precise Amman office address was found. The previous 31.9518, 35.94042
+  coordinates and associated map pin were unsupported as a Wathefty office
+  and have been removed. The old claim that the site's internal stack is
+  WordPress was not substantiated; the separate /jobs/ pages do not establish
+  the main site's production stack. Company-level verification remains
+  partial because the operator's present legal/employment structure, staffing,
+  office location and internal engineering stack remain unconfirmed.
 evidence:
   - type: "official_website"
-    url: "https://wathefty.com"
-    label: "Official website"
+    url: "https://wathefty.com/"
+    label: "Official current job-board homepage: vacancy categories, Jordan and Gulf listings, employer posting"
+  - type: "official_website"
+    url: "https://wathefty.com/about.php"
+    label: "Official About page: Mutaz Abu Rumman office and anti-unemployment initiative"
+  - type: "official_website"
+    url: "https://wathefty.com/daily.php"
+    label: "Official daily vacancy listing; listings are for third-party employers"
+  - type: "official_website"
+    url: "https://wathefty.com/jobs/"
+    label: "Separate historical WordPress-style jobs section, with 2022-2024 third-party postings; not proof of main site stack"
+  - type: "other"
+    url: "https://www.altaj.news/article/384461"
+    label: "Independent 2024-05-02 report on Wathefty application launch announcement by Labour Party and Mutaz Abu Rumman; current app unverified"
+  - type: "other"
+    url: "https://www.sarayanews.com/article/367619"
+    label: "Historical reporting describing Wathefty initiative as voluntary and nonprofit, not proof of current legal structure"
   - type: "other"
     url: "https://wathefty.com/single.php?post=8519"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9518,35.94042"
-    label: "Google Maps location"
+    label: "Legacy vacancy reference retained from previous record; not verified as current or Wathefty internal recruitment"
+verification_status: "partial"
+last_verified: "2026-11-02"
