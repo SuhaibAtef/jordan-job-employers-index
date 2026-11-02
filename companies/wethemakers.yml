@@ -1,17 +1,26 @@
 name: "WeTheMakers"
-industry: "Information Technology / Software Studio"
+description: >-
+  WeTheMakers is a Jordanian software engineering and AI-enabled product studio
+  founded in 2019 and based in Dabouq, Amman. It builds web, mobile and
+  enterprise applications, provides fractional technical leadership and
+  DevOps/product-engineering support, and runs WeTheMakers School, a developer
+  training program for students, junior engineers and career changers.
+verification_status: "partial"
+last_verified: "2026-11-02"
+industry: "IT Services and Consulting / Software Engineering and AI Product Development"
 website: "https://wethemakers.dev/"
 careers_url: "https://wethemakers.dev/careers"
 linkedin: "https://www.linkedin.com/company/wethemakers/"
-hr_email: "hello@wethemakers.dev"
-size: "10-49"
+hr_email: null
+size: "11-50"
 location:
-  area: "Ma'an"
-  address: "1 Khair Al Din Al Maani, Dabouq, Amman, Jordan"
-  status: "approximate"
-  latitude: 32.011805
-  longitude: 35.833036
-  maps_url: "https://www.google.com/maps/search/?api=1&query=32.011805,35.833036"
+  area: "Dabouq, Amman"
+  address: "1 Khair Al Din Al Maani Street, Dabouq, Amman 11953, Jordan"
+  status: "provided_unverified"
+  confidence: "high for published address (official site and company LinkedIn); medium for the approximate Google Maps business pin, not a surveyed office entrance"
+  latitude: 32.0118086
+  longitude: 35.8330369
+  maps_url: "https://maps.app.goo.gl/HHuKP7y5tzLzZN8z5"
 categories:
   - "ai"
   - "data"
@@ -21,7 +30,6 @@ categories:
 technologies:
   - "Docker"
   - "Flutter"
-  - "Generative AI"
   - "Laravel"
   - "n8n"
   - "Next.js"
@@ -30,30 +38,81 @@ technologies:
   - "Python"
   - "React"
   - "TypeScript"
+  - "React Native"
+  - "NestJS"
+  - "PHP"
+  - "MySQL"
+  - "Dart"
+  - "Firebase"
+  - "Tailwind CSS"
+  - "OpenAI"
+  - "Anthropic"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Graduate"
-notes: "AI-native software studio (Amman, est. 2019) shipping for global clients on retainer/team models; runs the 'School' developer training program (120+ graduates, 85% employment) and has an open careers page with posted roles."
+    - "Official careers page checked 2026-11-02 lists five full-time Jordan/hybrid positions: Backend Engineer, Laravel Developer, Mobile Engineer (Flutter), Mobile Engineer (React Native), and Senior Frontend Engineer; application acceptance was not independently tested."
+    - "The official WeTheMakers School page invites applications for its next free four-month developer cohort, aimed at students, junior developers and career changers. This is training, not a confirmed paid internship or employment offer."
+notes: >-
+  Reviewed 2026-11-02. The official website and company LinkedIn support
+  WeTheMakers' continuing operation as a Dabouq, Amman software and AI product
+  studio founded in 2019. It describes Build, Solutions and School business
+  tracks; claims of 100+ delivered products, 120+ School graduates and 85%
+  graduate employment are company-reported and not independently audited.
+  LinkedIn gives a company-wide size band of 11-50, while Clutch estimates
+  10-49; neither establishes a verified Jordan headcount. The official careers
+  page displayed five Jordan/hybrid software engineering roles on the review
+  date, generally requesting two or more years of experience; the site's
+  application links and open-role status were not independently transaction-
+  tested. Its School page offers a free four-month program and a next-cohort
+  application form; this is an early-career training pathway, not proof of a
+  paid internship or a guaranteed job. The original hello@wethemakers.dev
+  address is corroborated by third-party directories as a general business
+  contact, not a confirmed HR-specific mailbox; the careers page provides an
+  obfuscated application email that could not be independently decoded, so
+  hr_email is null. The official contact page and company LinkedIn agree on
+  1 Khair Al Din Al Maani Street, Dabouq, Amman; the former area 'Ma'an' was
+  erroneous. The official site's linked Google Maps place resolves to a
+  business pin near 32.0118086, 35.8330369; coordinates describe that pin,
+  not a surveyed office entrance. GoodFirms lists a different Yathreb Street
+  address, so physical occupancy remains unverified and location status is
+  provided_unverified. Listed technologies are a combination of the studio's
+  publicly advertised service stack and requirements in its current careers
+  listings, not an independently audited inventory of all internal systems.
+  'Generative AI' from the prior technology list is treated as a capability
+  rather than a specific product/framework. Company verification remains
+  partial pending independent confirmation of HR contact, headcount and
+  precise current office occupancy.
 evidence:
   - type: "official_website"
     url: "https://wethemakers.dev/"
-    label: "Official website"
+    label: "Official homepage: current services, AI product studio and advertised technology stack (reviewed 2026-11-02)"
+  - type: "official_website"
+    url: "https://wethemakers.dev/about"
+    label: "Official about page: founded 2019, team and School history; self-reported metrics"
   - type: "careers"
     url: "https://wethemakers.dev/careers"
-    label: "Careers / application page"
+    label: "Official careers page: five Jordan/hybrid engineering roles and applications (reviewed 2026-11-02)"
+  - type: "official_website"
+    url: "https://wethemakers.dev/school"
+    label: "Official free developer School, next-cohort form, four-month curriculum and self-reported graduate outcomes"
+  - type: "official_website"
+    url: "https://wethemakers.dev/build"
+    label: "Official web/mobile/AI services and advertised React, Next.js, TypeScript, Python, Docker and other technologies"
+  - type: "official_website"
+    url: "https://wethemakers.dev/contact"
+    label: "Official contact page: 1 Khair Al Din Al Maani Street, Dabouq, Amman and telephone"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/wethemakers/"
-    label: "LinkedIn company page"
-  - type: "other"
-    url: "https://wethemakers.dev/build"
-    label: "Research source"
+    label: "Company LinkedIn: Dabouq headquarters, street address, 2019 founding, 11-50 employee band and activity"
   - type: "other"
     url: "https://clutch.co/profile/wethemakers"
-    label: "Research source"
+    label: "Clutch profile: 2019 founding, Amman and 10-49 employee estimate"
   - type: "other"
     url: "https://www.goodfirms.co/company/wethemakers"
-    label: "Research source"
+    label: "GoodFirms listing with conflicting Yathreb Street address; not adopted over current official address"
+  - type: "other"
+    url: "https://www.signalhire.com/companies/we-the-makers"
+    label: "Third-party company profile: Dabouq address and 10-50 staff estimate, updated 2026-09-09"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=32.011805,35.833036"
-    label: "Google Maps location"
+    url: "https://maps.app.goo.gl/HHuKP7y5tzLzZN8z5"
+    label: "Google Maps business-place link published on official website; approximate map pin only, not surveyed entrance"
