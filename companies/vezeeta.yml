@@ -1,17 +1,16 @@
 name: "Vezeeta"
-industry: "Health tech, Digital health"
+description: "Vezeeta is a digital-health platform founded in 2012 that enables patients to find and book medical appointments and provides practice-management tools for healthcare providers. Its official Jordan website lists doctors and appointments in Amman, Zarqa and Irbid; the company operates across several Middle Eastern and African markets."
+industry: "Digital health, healthcare technology and online medical booking"
 website: "https://jordan.vezeeta.com/en"
-careers_url: null
-linkedin: null
+careers_url: "https://careers.vezeeta.com/"
+linkedin: "https://www.linkedin.com/company/vezeeta/"
 hr_email: null
-size: null
+size: "201-500"
 location:
   area: "Amman"
-  address: "14 Zahran Street, Amman 11183, Jordan"
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  address: "14 Zahran Street, Amman 11183, Jordan (directory-listed; current office unconfirmed)"
+  status: "provided_unverified"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=14+Zahran+Street+Amman+Jordan"
 categories:
   - "data"
   - "devops"
@@ -24,30 +23,81 @@ technologies:
   - "AWS"
   - "C#"
   - "Docker"
-  - "Elasticsearch"
   - "iOS"
-  - "Jenkins"
   - "Kubernetes"
   - "MySQL"
-  - "Redis"
-  - "Swift"
+  - "PostgreSQL"
+  - "Python"
+  - "React"
+  - "SQL Server"
+  - "TypeScript"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Digital healthcare booking platform + practice-management software for clinics; operates a Jordan office in Amman (Third Circle, 14 Zahran Street — confirmed on vezeeta.com and business directories). No public HR email found.\nstack verified 2026-10-06: backend engineer profile lists C#/.NET MVC/.NET Core/Redis/MySql/RabbitMQ/Elasticsearch/AWS; Senior iOS posting requires Swift/Objective-C; Android engineer profiles; AppSec posting requires .NET/AWS/Kubernetes; getprog notes Docker/Jenkins microservices. Objective-C/RabbitMQ have no canonical tags (noted only)."
+  signals:
+    - "Historical company-authored recruitment post lists iOS, backend, product and call-center roles, without a confirmed Jordan location or current application period."
+    - "2026 Staff Engineer - Backend & AI Systems advert was based in Cairo, required 7+ years and is closed; not a Jordan opening."
+notes: >-
+  Reviewed 2026-11-02. The official Jordan booking website is operational and
+  lists Amman, Zarqa and Irbid, confirming Jordan market coverage but not
+  necessarily a staffed Jordan engineering office. Vezeeta's official About Us
+  describes physician booking and practice-management software and Jordan
+  operations. Company LinkedIn lists Dubai headquarters, founding year 2012
+  and a global 201-500 employee band; it lists Dubai, Riyadh and Cairo offices,
+  but not a current Amman office. The 14 Zahran Street, Amman 11183 address
+  and +962 6 500 1616 phone appear in third-party business-directory and
+  Vezeeta Jordan profile listings, but the current official Jordan contact
+  page displays a Dubai address. Current office occupancy and precise GPS
+  are unconfirmed. The previous 31.9539, 35.9106 coordinates represented
+  an approximate Amman city-centre pin, not verified office GPS, and were
+  removed. Street-address confidence is low to medium; Jordan market-service
+  confidence is high. BizMidEast lists customercare.jo@vezeeta.com as a
+  customer-care address, not HR. A historical company-authored LinkedIn
+  recruitment post supplied Jobs@Vezeeta.com for a call-centre role, but
+  this mailbox is not verified for current Jordan recruitment; hr_email
+  remains null. The official Jordan site links to careers.vezeeta.com,
+  which returned HTTP 502 when checked. No currently accepting Jordan
+  vacancy, internship or graduate programme was verified. A 2026 Cairo
+  Staff Engineer advertisement documents C#/.NET, Python, SQL Server,
+  PostgreSQL, MySQL, Docker, Kubernetes and AWS requirements; an older
+  Cairo frontend advertisement lists React and TypeScript. Android and
+  iOS are public consumer app platforms. These are company-wide product
+  and recruitment technologies, not evidence of a Jordan-specific internal
+  engineering stack. Previously listed Jenkins, Redis, Elasticsearch
+  and Swift were not retained as current claims without direct evidence.
+  Company verification remains partial despite the live Jordan service.
+verification_status: "partial"
+last_verified: "2026-11-02"
 evidence:
   - type: "official_website"
     url: "https://jordan.vezeeta.com/en"
-    label: "Official website"
+    label: "Current Jordan doctor-booking service and service cities"
+  - type: "official_website"
+    url: "https://jordan.vezeeta.com/en/Generic/AboutUs"
+    label: "Official services and Jordan market presence"
+  - type: "official_website"
+    url: "https://jordan.vezeeta.com/en/Generic/ContactUs"
+    label: "Current contact page displays Dubai address, not Amman"
+  - type: "careers_page"
+    url: "https://careers.vezeeta.com/"
+    label: "Careers site linked by official Jordan page; inaccessible on review"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/vezeeta/"
+    label: "Global size, Dubai headquarters and company profile"
   - type: "other"
-    url: "https://www.lacartes.com/business/Vezeeta/932672"
-    label: "Research source"
+    url: "https://www.bizmideast.com/JO/vezeeta-com-06-500-1616"
+    label: "Third-party 14 Zahran Street listing and customer-care contact"
   - type: "other"
-    url: "https://www.linkcentre.com/profile/davidmitchell143/"
-    label: "Research source"
+    url: "https://about.me/vezeeta"
+    label: "Vezeeta Jordan profile lists 14 Zahran Street and local phone"
+  - type: "job_post"
+    url: "https://eg.linkedin.com/jobs/view/staff-engineer-backend-ai-systems-at-vezeeta-4433924990"
+    label: "Closed 2026 Cairo engineering job and company-wide stack evidence"
+  - type: "job_post"
+    url: "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-vezeeta-4072588402"
+    label: "Closed Cairo frontend job documenting React and TypeScript"
+  - type: "linkedin_company"
+    url: "https://ae.linkedin.com/posts/vezeeta_empoweringpatients-futureofhealth-vezeetacareers-activity-7023598795431034880-8N4r"
+    label: "Historical company-authored recruitment and jobs email"
   - type: "other"
-    url: "https://www.vezeeta.com/en-lb"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://apps.apple.com/jo/app/vezeeta-doctors-pharmacy/id1010281314"
+    label: "Jordan App Store listing confirms mobile app"
