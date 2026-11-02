@@ -1,35 +1,85 @@
 name: "Uber Jordan"
-industry: "Ride-hailing / delivery tech"
-website: "https://www.uber.com/jo/en/?userId"
-careers_url: null
-linkedin: "https://www.linkedin.com/company/uber-com"
+description: >-
+  Uber operates an app-based ride-hailing and taxi-booking platform in Jordan.
+  It launched locally in 2015 and introduced Uber Taxi in 2019. Its current
+  Amman city page advertises on-demand and advance-booked rides and local taxi
+  requests. Jordanian authorities identified Uber among licensed smart-app
+  transport operators in October 2026. Uber is a global technology company;
+  the Jordan operation's local staffing and engineering footprint are not
+  independently established.
+verification_status: "partial"
+last_verified: "2026-11-02"
+industry: "Mobility technology / ride-hailing and taxi platform"
+website: "https://www.uber.com/jo/en/"
+careers_url: "https://jobs.uber.com/en/"
+linkedin: "https://www.linkedin.com/company/uber-com/"
 hr_email: null
-size: null
+size: "10,001+ employees worldwide (Uber company LinkedIn band); Jordan employee count unverified"
 location:
-  area: "Amman"
+  area: "Amman (confirmed service area; not a verified office location)"
   address: null
   status: "approximate"
-  latitude: 31.95121
-  longitude: 35.91933
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95121,35.91933"
+  confidence: "high for active Amman ride service, based on Uber's city and driver pages and October 2026 Jordanian regulatory reporting; low for any physical office address"
+  latitude: null
+  longitude: null
+  coordinate_confidence: "unresolved; prior 31.95121,35.91933 was an Amman city-center fallback, not a verified Uber office"
+  maps_url: null
 categories:
-  - "ai"
   - "logistics"
+  - "mobile"
 technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Global mobility platform operating Uber Taxi in Jordan since 2019; CEO met Jordan's Crown Prince (Sept 2026) on deepening its Jordan footprint. No independently verified Jordan office address found (listed Zarqa office is permanently closed) - pin is a city-center fallback.\nstack research 2026-10-04: 3 searches, ops-only country office (driver ops/city management), engineering is global; no employee profiles or dev postings found"
+notes: >-
+  Reviewed 2026-11-02. Uber's official Amman city page confirms 24/7 ride
+  requests, local taxi booking and advance reservations. Uber's official
+  Jordan newsroom dates its local launch to 2015 and Uber Taxi launch to
+  April 2019; the earlier record's suggestion that Jordan service began in
+  2019 confused Uber Taxi with the overall launch. The Royal Hashemite Court
+  reported a 2026-09-21 meeting with Uber's CEO discussing potential Jordan
+  service expansion and tourism cooperation, not a confirmed expansion or
+  technology investment. Jordan's Petra news agency reported on 2026-10-03
+  that Uber was among licensed smart-transport app operators in regulatory
+  discussions. Uber's Jordan driver page references a Greenlight support hub
+  in Amman, but no reliable current street/building address or office GPS
+  was found; a third-party fleet partner listing must not be treated as an
+  Uber corporate office. The previous coordinates were a generic city-center
+  fallback and were removed rather than represented as a workplace location.
+  Uber's global LinkedIn lists 10,001+ employees, not a Jordan headcount.
+  Uber's global careers portal is available, but the 2026 Amman Country
+  Manager/Country Operations Manager listing (minimum eight years' experience)
+  is closed. No currently accepting Jordan vacancy, dedicated Jordan HR email,
+  internship or graduate scheme was confirmed. Driver-partner enrollment is
+  not employee hiring. No Jordan-specific software engineering roles or
+  internal production technologies were verified; the unsupported AI category
+  was removed. Company verification remains partial because local staffing,
+  office address, recruitment contact and engineering footprint are unknown.
 evidence:
   - type: "official_website"
-    url: "https://www.uber.com/jo/en/?userId"
-    label: "Official website"
+    url: "https://www.uber.com/global/en/r/cities/amman-amman-jo/"
+    label: "Official Amman city page: ride requests, local taxis and advance booking; checked 2026-11-02"
+  - type: "official_website"
+    url: "https://www.uber.com/jo/en/drive/"
+    label: "Official Jordan driver page: Amman Greenlight support hub, no office address"
+  - type: "official_website"
+    url: "https://www.uber.com/jo/en/newsroom/jordan-ubertaxi/"
+    label: "Uber Taxi Jordan launched 2019-04-16"
+  - type: "official_website"
+    url: "https://www.uber.com/jo/en/blog/100kpartners/"
+    label: "Uber's Jordan history: platform launched locally in 2015; 2019 article"
+  - type: "careers"
+    url: "https://jobs.uber.com/en/"
+    label: "Official global careers portal; no accepting Jordan vacancy independently confirmed"
   - type: "linkedin_company"
-    url: "https://www.linkedin.com/company/uber-com"
-    label: "LinkedIn company page"
+    url: "https://www.linkedin.com/company/uber-com/"
+    label: "Global company profile, San Francisco headquarters, 10,001+ employees worldwide"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/country-manager-jordan-at-uber-4371046081"
+    label: "2026 Amman Country Manager role, applications closed, senior operations position"
   - type: "other"
-    url: "https://theprofiler.co.za/weeks-after-exiting-nigeria-and-uganda-uber-ceo-meets-jordans-crown-prince-as-expansion-plans-emerge"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.95121,35.91933"
-    label: "Google Maps location"
+    url: "https://www.rhc.jo/en/news/crown-prince-meets-in-new-york-with-ceos-of-two-global-us-companies"
+    label: "Royal Hashemite Court, 2026-09-21: potential Jordan expansion and tourism cooperation discussions"
+  - type: "other"
+    url: "https://petra.gov.jo/candid/index.php/en/news/minister-discusses-transport-solutions-for-vulnerable-groups-with-uber"
+    label: "Petra, 2026-09-22: Jordan ministry discussions with Uber officials"
