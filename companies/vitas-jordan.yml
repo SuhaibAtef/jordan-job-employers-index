@@ -1,53 +1,109 @@
 name: "Vitas Jordan"
-industry: "Microfinance / Lending"
-website: "https://vitasjordan.com"
-careers_url: null
-linkedin: null
-hr_email: "Customerservice@vitasjordan.com"
-size: "201-500"
+description: >-
+  Vitas Jordan is the trading name of Partners for Micro Credit, a Jordanian
+  microfinance lender supervised by the Central Bank of Jordan. It provides
+  loans for individuals, small enterprises and agricultural activities through
+  branches across Jordan. Its roots are in the 1998 Southern Jordan Access to
+  Credit Project; the current for-profit Vitas Jordan entity was formed in
+  2013 under Vitas Group. It also offers customer mobile applications and
+  electronic loan-repayment services.
+industry: "Microfinance / Financial Services / Lending"
+website: "https://www.vitasjordan.com/en"
+careers_url: "https://www.vitasjordan.com/en/career"
+linkedin: "https://www.linkedin.com/company/vitas-jordan"
+hr_email: "jobs@vitasjordan.com"
+size: "201-500 (LinkedIn company band; not an audited headcount)"
 location:
-  area: "Amman"
-  address: "Farah Building, 3rd floor, Al-Wakalat Street, Sweifieh, Amman"
+  area: "Sweifieh, Amman"
+  address: "Farah Building No. 13, 3rd floor, Al-Wakalat Street, Sweifieh, Amman, Jordan"
   status: "verified"
+  confidence: "high for the published headquarters street, building and floor (official site and Central Bank of Jordan); medium for approximate map pin, not surveyed entrance-level GPS or current occupancy"
   latitude: 31.9573438
   longitude: 35.8606264
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.9573438,35.8606264"
 categories:
   - "fintech"
+  - "mobile"
 technologies:
+  - "Android"
+  - "eFAWATEERcom"
+  - "iOS"
   - "TMX Digital Lending platform"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Microfinance lender (est. 2013, part of Vitas Group / Global Communities); digitized field lending through the TMX Digital Lending platform; 27,000+ borrowers across 17+ branches. No public office address found. | stack research 2026-10-04: 3 searches; employee (Head of Risk & Info Unit) confirms core system is Web-Abacus, vendor-built/maintained by CHF International SDS; website by agency (code-pro.io); no in-house dev stack evidence. | GPS verified 2026-10-07: head office at Farah Building, 3rd floor, Al-Wakalat Street, Sweifieh, Amman — confirmed by official contact page + branches page, owner-managed Google Maps head-office pin (31.9573438, 35.8606264), LinkedIn company page (\"Swefieh (Al-Wakalat Street), Farah Building # 13\"), and RocketReach/arab.org/future-pioneers snippets; branch listings (Shatara Commercial Complex, Al Amani 1 Complex) are separate branches."
+  early_career_signal: true
+  signals:
+    - "Official Sales and Marketing Officer vacancy published 2026-11-01, with a stated 2026-11-15 application deadline; bachelor's degree in finance, administration, accounting or related field, and fresh graduates explicitly welcome alongside candidates with 2-5 years of experience."
+    - "The official vacancy page links to an application form accepting CV uploads; the recruitment page lists jobs@vitasjordan.com. Submission and mailbox delivery were not tested."
+    - "The company careers page displayed the Sales and Marketing Officer vacancy on 2026-11-02; this is an early-career field sales/customer-service role, not a software engineering internship."
+notes: >-
+  Reviewed 2026-11-02. The Central Bank of Jordan's microfinance directory
+  identifies the licensed local company as Partners for Micro Credit and
+  independently confirms Farah Building, third floor, Al-Wakalat Street,
+  Sweifieh; the Arabic directory specifies Building 13. Vitas Jordan's own
+  contact and branches pages corroborate the headquarters address and
+  general customer-service email customerservice@vitasjordan.com. The
+  official careers page and 2026-11-01 Sales and Marketing Officer advert
+  confirm a current fresh-graduate-eligible vacancy with a 2026-11-15
+  deadline, and the associated application form explicitly publishes
+  jobs@vitasjordan.com for recruitment. Application completion was not
+  tested. LinkedIn lists 201-500 employees, but this is a profile size band,
+  not a verified current headcount. The current official branches page
+  confirms multiple Jordan service locations; historical 17+ branch and
+  27,000+ borrower figures in the vendor case study are not asserted as
+  current counts. The headquarters map coordinates are a previously
+  recorded business pin in the correct street vicinity; a separate map
+  directory locates Farah Complex around 31.957278, 35.86048. Treat the
+  retained coordinates as approximate, not a surveyed office entrance.
+  The TMX vendor case study documents deployment of its digital-lending
+  platform at Vitas Jordan, but does not establish a present-day internal
+  programming stack. The official online-service page and Apple App Store
+  confirm Android/iOS consumer apps and eFAWATEERcom loan payments; none
+  proves in-house mobile development. An older employee-profile assertion
+  about a Web-Abacus core system could not be independently verified and
+  is not included as a current technology claim. The official website
+  credits an external agency for site development. No active Jordan
+  software-engineering role or formal internship was confirmed. Company
+  verification remains partial despite independently corroborated
+  headquarters address and fresh-graduate hiring evidence.
+verification_status: "partial"
+last_verified: "2026-11-02"
 evidence:
   - type: "official_website"
-    url: "https://vitasjordan.com"
-    label: "Official website"
+    url: "https://www.vitasjordan.com/en/about"
+    label: "Official company history, regulated microfinance business and loan products"
+  - type: "official_website"
+    url: "https://www.vitasjordan.com/en/contact-us"
+    label: "Official headquarters, Farah Building third floor, Al-Wakalat Street and general contact"
+  - type: "regulator"
+    url: "https://www.cbj.gov.jo/EN/ListDetails/Guide_of_Microfinance_Sector/2382/2"
+    label: "Central Bank of Jordan directory: Partners for Micro Credit and headquarters address"
+  - type: "regulator"
+    url: "https://www.cbj.gov.jo/AR/ListDetails/%D8%AF%D9%84%D9%8A%D9%84_%D9%82%D8%B7%D8%A7%D8%B9_%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84_%D8%A7%D9%84%D8%A3%D8%B5%D8%BA%D8%B1/2174/2"
+    label: "Arabic regulator directory specifies Farah Building No. 13, third floor"
+  - type: "official_website"
+    url: "https://www.vitasjordan.com/en/branch"
+    label: "Current official head office and Jordan branch listings"
+  - type: "careers_page"
+    url: "https://www.vitasjordan.com/en/career"
+    label: "Current employer careers page listing November 2026 vacancy"
+  - type: "job_post"
+    url: "https://vitasjordan.com/en/career/sales-and-marketing-officer"
+    label: "2026-11-01 Sales and Marketing Officer: fresh graduates welcome, deadline 2026-11-15"
+  - type: "careers_page"
+    url: "https://vitasjordan.com/en/career/sales-and-marketing-officer/apply"
+    label: "Employer CV application form and dedicated jobs@vitasjordan.com recruitment email"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/vitas-jordan"
+    label: "Company LinkedIn profile, 201-500 employee band and Amman headquarters"
   - type: "other"
-    url: "https://vitasjordan.com/en/contact-us"
-    label: "Location evidence"
+    url: "https://tlxmobility.com/loan-origination-at-vitas-jordan-goes-digital/"
+    label: "TMX vendor case study documents historic loan-origination platform deployment"
+  - type: "official_website"
+    url: "https://www.vitasjordan.com/en/online-service"
+    label: "Official Android/iOS app and eFAWATEERcom customer payment services"
   - type: "other"
-    url: "https://vitasjordan.com/en/branch"
-    label: "Location evidence"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/Vitas+Jordan"
-    label: "Location evidence"
+    url: "https://apps.apple.com/jo/app/vitas-jo/id6464667308"
+    label: "Apple App Store listing attributes Vitas Jo app to Vitas Jordan Co."
   - type: "other"
-    url: "https://jo.linkedin.com/company/vitas-jordan"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://www.jordanfinancialservices.com/2022/company-profile/vitas-jordan"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://rocketreach.co/vitas-jordan-financing-a-better-world-profile_b44e66cffd93bd2c"
-    label: "Location evidence"
-  - type: "other"
-    url: "https://theorg.com/org/vitas-jordan?focus=p-9481260"
-    label: "Research source"
-  - type: "other"
-    url: "https://tlxmobility.com/wp-content/uploads/2026/06/case-study-TMX_Vitas.pdf"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9573438,35.8606264"
-    label: "Google Maps location"
+    url: "https://jo.near-place.com/vitas-jordan-farah-al-katabi-commercial-complex-al-wakalat-street-13-amman"
+    label: "Independent Farah Complex business location and approximate map coordinates"
