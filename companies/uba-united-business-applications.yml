@@ -1,38 +1,111 @@
 name: "UBA - United Business Applications"
-industry: "ERP/CRM business applications"
-website: "https://uba.com.jo"
-careers_url: null
-linkedin: null
+description: >-
+  United Business Applications (UBA) is an Amman-headquartered business software
+  and digital-transformation consultancy founded in 2002. It implements and
+  supports ERP, CRM, business-intelligence and HR management solutions, including
+  Microsoft Dynamics 365, Power Platform, Sage and Salesforce products. UBA also
+  develops its DXTR automotive dealership-management system, Kayan HR platform
+  and Jordanian electronic-invoicing integrations, and serves customers across
+  the Middle East.
+verification_status: "partial"
+last_verified: "2026-11-01"
+industry: "Enterprise software / ERP and CRM implementation / IT consulting"
+website: "https://uba.com.jo/"
+careers_url: "https://uba.com.jo/careers/"
+linkedin: "https://www.linkedin.com/company/united-business-applications"
 hr_email: null
-size: "50-249"
+size: "51-200 employees (LinkedIn company-wide band); company profile describes about 50 full-time staff, and int@j lists 50-99; no audited current Jordan headcount"
 location:
-  area: "Amman"
-  address: "28 Sate El Hosari, 4th Floor Anshassi Square Building, Shmeisani, Amman 11194"
-  status: "provided_unverified"
-  latitude: 31.97032
-  longitude: 35.89216
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97032,35.89216"
+  area: "Amman - Shmeisani"
+  address: "28 Sate El Hosari Street, Anshassi Square Building, 4th Floor, Shmeisani, Amman 11194, Jordan"
+  status: "verified"
+  confidence: "high for published street and building: official contact page, company LinkedIn, CB Insights and BizMidEast corroborate 28 Sate El Hosari; fourth floor is company-published but current physical occupancy has not been independently checked"
+  latitude: null
+  longitude: null
+  coordinate_confidence: "unresolved; prior 31.97032,35.89216 coordinate was not independently confirmed as this building or entrance"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=28+Sate+El+Hosari+Street+Shmeisani+Amman+Jordan"
 categories:
+  - "consulting"
   - "data"
-  - "devops"
   - "erp"
+  - "web"
 technologies:
-  - "Azure"
-  - "Microsoft Dynamics 365"
-  - "Odoo"
-  - "Power BI"
-  - "Power Platform"
-  - "Salesforce"
-  - "SAP"
+  - "Microsoft Dynamics 365 (officially offered ERP/CRM platform)"
+  - "Microsoft Power Platform (officially offered platform)"
+  - "Microsoft Azure (officially listed Microsoft offering)"
+  - "Power BI (officially listed BI offering)"
+  - "Salesforce (officially offered CRM platform)"
+  - "Sage 300 / Sage CRM (officially documented implementation expertise)"
+  - "Bitdefender GravityZone (officially offered security platform)"
+  - "Node.js (historical Amman job requirement; current internal stack unverified)"
+  - "Python / Django (historical full-stack job requirement; current internal stack unverified)"
+  - "React / Vue (historical full-stack job requirement; current internal stack unverified)"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-notes: "Business applications consultancy implementing ERP/CRM (Sage, Dynamics 365, Odoo, Salesforce); no public fresh-grad/internship program found. Audit 2026-10-03: GPS upgraded from fallback to geocoded street address (28 Sate El Hosari); map data places the pin in Abdali district on the Shmeisani border."
+    - "An Amman Operations role posted around September 2026 was marked entry-level on LinkedIn; the listing is closed, not a currently accepting vacancy."
+    - "An older CRM Implementer listing was marked entry-level and is closed; no internship or graduate programme was confirmed."
+    - "Official careers page explicitly says there are no active openings as checked 2026-11-01."
+notes: >-
+  Reviewed 2026-11-01. The official site and company LinkedIn establish a 2002
+  founding, Amman headquarters, ERP/CRM/BI implementation and consulting, and
+  the DXTR automotive and Kayan HR products. Microsoft Dynamics 365, Power
+  Platform, Azure, Power BI, Salesforce, Sage and Bitdefender are documented
+  customer-facing platforms, not proof of UBA's internal production stack.
+  Historical Amman developer vacancies mention Node.js, Django/Python, React
+  and Vue; these are not current engineering-stack confirmations. SAP and Odoo
+  were removed because current official offerings did not substantiate them;
+  the prior DevOps category was also unsupported. LinkedIn reports 51-200
+  employees while its description says approximately 50 full-time team members;
+  int@j reports 50-99. These are unaudited and not a Jordan-only headcount.
+  The official contact page lists 28 Sate El Hosari Street, Anshassi Square
+  Building, fourth floor, Shmeisani, telephone +962 6 565 2002 / 3003.
+  LinkedIn, CB Insights and BizMidEast independently corroborate the street
+  and number; older int@j and JordanYP listings show 12 Nasser Bin Jameel
+  Street, apparently historical. The previous precise coordinates were not
+  validated against the current office and were removed. The official site
+  provides a map search but not verified entrance GPS. Its contact email is
+  obfuscated; info@uba.com.jo appears in third-party directories as a general
+  business contact, not a confirmed recruitment mailbox, so hr_email is null.
+  The official careers page says there are no current openings. A recent
+  entry-level Operations listing and older entry-level CRM Implementer listing
+  are closed; the previously claimed internship was unsupported and removed.
+  Company-level verification remains partial because current hiring, HR
+  contact, precise office occupancy and full engineering stack are unconfirmed.
 evidence:
   - type: "official_website"
-    url: "https://uba.com.jo"
-    label: "Official website"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.97032,35.89216"
-    label: "Google Maps location"
+    url: "https://uba.com.jo/"
+    label: "Official products, Microsoft/Sage/Salesforce, DXTR, Kayan HR, Bitdefender and services; checked 2026-11-01"
+  - type: "official_website"
+    url: "https://uba.com.jo/home/about-uba/"
+    label: "Official founding in 2002, product and partnership history"
+  - type: "official_website"
+    url: "https://uba.com.jo/contact-uba-jordan/"
+    label: "Official current Shmeisani street/building/floor address and contact phone"
+  - type: "careers"
+    url: "https://uba.com.jo/careers/"
+    label: "Official careers page: explicitly no active vacancies on 2026-11-01"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/united-business-applications"
+    label: "Company LinkedIn: 2002 founding, 51-200 band, headquarters at 28 Sate Il Hosari, products"
+  - type: "company_listing"
+    url: "https://www.cbinsights.com/company/united-business-applications"
+    label: "Independent 28 Sate Il Hosari headquarters and 2002 founding corroboration"
+  - type: "company_listing"
+    url: "https://www.bizmideast.com/JO/united-business-applications-uba-06-565-2002"
+    label: "Independent 28 Sate Al-Husari address, telephone and general (not HR) email"
+  - type: "company_listing"
+    url: "https://www.intaj.net/network/united-business-applications-uba"
+    label: "Jordan ICT association profile, older Nasser Bin Jameel address and 50-99 employee band"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/operation-at-united-business-applications-uba-4435636917"
+    label: "2026 entry-level Amman Operations advertisement, explicitly closed"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/crm-implementer-at-united-business-applications-uba-4244091072"
+    label: "Historical entry-level Amman CRM Implementer vacancy, closed"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-united-business-applications-uba-3086049334"
+    label: "Historical Django/Python, React/Vue and PostgreSQL full-stack requirements, not current stack"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/nodejs-developer-at-united-business-applications-3803588409"
+    label: "Historical Node.js and JavaScript developer requirements, listing closed"
