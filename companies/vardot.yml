@@ -1,51 +1,122 @@
 name: "Vardot"
-industry: "Digital agency (Drupal / enterprise web)"
-website: "https://www.vardot.com"
-careers_url: null
+description: >-
+  Vardot is a privately held digital-experience and enterprise web development
+  agency founded in 2011, specializing in Drupal-based websites, content
+  management, migrations, headless and composable architecture, managed
+  hosting, and AI-enabled content workflows. Its Varbase product is an
+  open-source enterprise Drupal distribution. The company serves universities,
+  governments, nonprofits, media and enterprise customers and maintains an
+  Amman operation alongside international offices. Its LinkedIn profile lists
+  Santa Clara, California as its primary headquarters. Jordan-specific
+  employee headcount, current exact Amman office premises and the complete
+  internal production stack remain unconfirmed.
+verification_status: "partial"
+last_verified: "2026-11-02"
+industry: "Enterprise Drupal web development / Digital experience agency"
+website: "https://www.vardot.com/"
+careers_url: "https://www.vardot.com/about/careers"
 linkedin: "https://www.linkedin.com/company/vardot"
 hr_email: null
-size: "50-249"
+size: "51-200 employees (LinkedIn company-wide band; Jordan-specific count unknown)"
 location:
-  area: "Amman"
-  address: "20 Paris St, Swefieh, Amman, Jordan"
+  area: "Amman (Sweifieh / Deir Ghbar address discrepancy)"
+  address: "20 Paris Street, Sweifieh, Amman 11185, Jordan (LinkedIn-listed office; current premises unconfirmed)"
   status: "provided_unverified"
-  latitude: 31.957373
-  longitude: 35.85965
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.957373,35.85965"
+  confidence: >-
+    Medium for the published 20 Paris Street, Sweifieh address, repeated by
+    company LinkedIn and a business directory. A September 2026 company
+    recruitment advertisement instead requires on-site attendance in Deir
+    Ghbar, Amman; this could be another office or a move, but neither is
+    established. The official contact page currently omits the Amman office.
+    Low confidence in current building occupancy and entrance-level GPS.
+  maps_url: "https://www.google.com/maps/search/?api=1&query=20+Paris+Street+Sweifieh+Amman+Jordan"
 categories:
   - "ai"
   - "devops"
-  - "erp"
   - "web"
 technologies:
   - "AWS"
   - "Azure"
   - "Drupal"
   - "GraphQL"
+  - "HubSpot"
+  - "JavaScript"
+  - "PHP"
   - "React"
+  - "Twig"
+  - "TypeScript"
+  - "Varbase"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Enterprise Drupal agency founded 2011 (Acquia partner); clients include Al Jazeera, UNRWA, USAID, Royal Hashemite Court; offices in Amman, Santa Clara, Cairo and Doha. GPS upgraded to the office's verified Google business pin at 20 Paris St, Sweifieh (3rd floor, suite 305)."
+  early_career_signal: true
+  signals:
+    - "Vardot's paid 12-week Amman QA Engineering Internship Program (2026) explicitly targeted students and fresh graduates and taught Jira, Postman, BrowserStack, Playwright and Cypress; the KayanHunt record shows a July 9, 2026 closing date, so this is historical evidence, not an open intake."
+    - "An Amman Admin Assistant advertisement was marked entry-level, requiring 1-3 years of experience; its stated application deadline was October 20, 2026, despite the role still appearing on the company careers page on November 2."
+    - "The company careers page displays Admin Assistant and Sr. Software Engineer apply links, but the linked KayanHunt postings have expired closing dates; their current acceptance was not verified."
+    - "An Amman/hybrid Business Operations Lead posting on KayanHunt lists November 30, 2026 as its closing date and requires 3-4 years of experience; the corresponding LinkedIn listing says applications are no longer accepted. Do not assume a currently functioning application."
+notes: >-
+  Reviewed 2026-11-02. The official company website describes enterprise
+  Drupal 10/11 development, migrations, headless sites, managed services,
+  AI integrations and the Varbase CMS. The company LinkedIn page gives
+  51-200 employees globally, founding year 2011, primary HQ in Santa Clara,
+  and an Amman office at 20 Paris Street, Sweifieh (P.O. Box 852277).
+  BizMidEast repeats that street address and specifies third floor, suite
+  305, but that suite and present-day occupancy were not independently
+  confirmed. The official current contact page lists US, UAE and Saudi
+  locations but does not list Jordan. A company-authored September 2026
+  Admin Assistant advertisement instead names Deir Ghbar as the on-site
+  Amman work location, making the current office address ambiguous.
+  Previous coordinates 31.957373, 35.85965 were not backed by a verifiable
+  office-specific geospatial source and have been removed; the map URL is
+  only an address search. The official careers page displays two roles,
+  but their linked job-board records have past closing dates. The QA
+  internship is confirmed as a historical paid early-career programme;
+  its application deadline has passed. The Business Operations Lead
+  KayanHunt listing gives a future closing date while LinkedIn marks
+  applications closed, so its acceptance is uncertain. No public dedicated
+  HR email was confirmed; info@vardot.com appears in an independent
+  business directory as a general contact, not a recruitment mailbox.
+  Drupal/PHP/Twig/JavaScript are directly supported by the company job
+  specifications. React and GraphQL are advertised delivery capabilities;
+  AWS and Azure are listed company cloud partners. HubSpot and
+  JavaScript/TypeScript are cited in the business operations job description.
+  These are not proof of a complete current production stack. The devops
+  category reflects published Drupal hosting and managed operations;
+  ERP categorization was removed for lack of evidence. Company-level
+  verification remains partial.
 evidence:
   - type: "official_website"
-    url: "https://www.vardot.com"
-    label: "Official website"
+    url: "https://www.vardot.com/about"
+    label: "Official company overview, Drupal services and cloud partnerships"
+  - type: "official_website"
+    url: "https://www.vardot.com/products/varbase"
+    label: "Official Varbase enterprise Drupal CMS and AI product capabilities"
+  - type: "official_website"
+    url: "https://www.vardot.com/en-us/solutions/drupal-development-services"
+    label: "Official Drupal 10/11, headless, React and GraphQL service description"
+  - type: "official_website"
+    url: "https://www.vardot.com/contact"
+    label: "Current contact page lists US, UAE and KSA offices but no Amman address"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/vardot"
-    label: "LinkedIn company page"
+    label: "Company size band, founding date, Santa Clara HQ and 20 Paris Street Amman location"
   - type: "other"
-    url: "https://www.vardot.com/en/drupal-development-services"
-    label: "Research source"
-  - type: "other"
-    url: "https://clutch.co/profile/vardot?verified=true&location=752#reviews-subheader"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.jordanyp.com/category/web_design/8/city:all"
-    label: "Research source"
-  - type: "other"
-    url: "https://wellfound.com/company/vardot-1"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.957373,35.85965"
-    label: "Google Maps location"
+    url: "https://www.bizmideast.com/JO/vardot-06-581-7612"
+    label: "Business directory lists 20 Paris Street, third floor suite 305 and general info email"
+  - type: "careers"
+    url: "https://www.vardot.com/about/careers"
+    label: "Official careers page displays Admin Assistant and Sr. Software Engineer links on 2026-11-02"
+  - type: "job_post"
+    url: "https://hunt.kayanhr.com/JobDetails/JobPostDetails/UmN6QTN1SWNjZGZNN1RZM000a0ZOdz09/aVc1bkJMZjJNbkQxM08s"
+    label: "2026 Amman paid QA internship for students and fresh graduates; July 9 closing date"
+  - type: "job_post"
+    url: "https://hunt.kayanhr.com/JobDetails/JobPostDetails/Njg3Qk1aSHVMbWd6TTVpWFhqUTExQT09/aVc1bkJMZjJNbkQxM08s"
+    label: "Entry-level Amman Admin Assistant, Deir Ghbar work location, October 20 closing date"
+  - type: "job_post"
+    url: "https://hunt.kayanhr.com/JobDetails/JobPostDetails/V3dydmZ4aVQ5VWo0Z0NOaGY5T1o1UT09/aVc1bkJMZjJNbkQxM08s"
+    label: "Amman Senior Software Engineer job: PHP, Drupal, Twig, JavaScript; July 12 closing date"
+  - type: "job_post"
+    url: "https://hunt.kayanhr.com/JobDetails/JobPostDetails/UEVzTUZhWWxQeUpaZkYxZFVUaGFSZz09/aVc1bkJMZjJNbkQxM08s"
+    label: "Business Operations Lead, Amman/hybrid, HubSpot, TypeScript, Python, analytics; November 30 closing date"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/business-operations-lead-at-vardot-4475663225"
+    label: "Corresponding LinkedIn Amman Business Operations Lead listing says applications no longer accepted"
