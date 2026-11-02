@@ -1,50 +1,83 @@
 name: "websitejo"
-industry: "Information Technology / Web Development Outsourcing"
-website: "https://websitejo.com"
-careers_url: null
-linkedin: null
-hr_email: null
-size: "10-49"
+description: >-
+  Websitejo is an Amman-based web design and digital services agency founded in
+  2011. It offers website and e-commerce development, mobile app design,
+  branding, graphic design, digital marketing, hosting and website maintenance
+  for business clients.
+verification_status: "partial"
+last_verified: "2026-11-02"
+industry: "Web Design / Software Development / Digital Marketing"
+website: "https://websitejo.com/"
+careers_url: "https://websitejo.com/career/"
+linkedin: "https://www.linkedin.com/company/websitejo/"
+hr_email: "career@websitejo.com"
+size: "11-50"
 location:
   area: "Amman"
   address: "University Street, Amman, Jordan"
-  status: "approximate"
-  latitude: 31.99797
-  longitude: 35.88235
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99797,35.88235"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=University+Street%2C+Amman%2C+Jordan"
 categories:
   - "consulting"
+  - "design"
+  - "ecommerce"
   - "mobile"
   - "web"
-technologies:
-  - ".NET"
-  - "Django"
-  - "Flutter"
-  - "Laravel"
-  - "Node.js"
-  - "React"
-  - "Vue.js"
-  - "WordPress"
+technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Web development and outsourcing agency (Amman, est. 2011): web/mobile apps, e-commerce, app maintenance and support for international SMB clients."
+notes: >-
+  Reviewed 2026-11-02. The current official website describes website and
+  e-commerce design, mobile applications, digital marketing, branding, hosting
+  and maintenance; its June 2026 blog content and recent company LinkedIn posts
+  support continuing activity. LinkedIn identifies an Amman headquarters, a
+  2011 founding year and 11-50 employees; the employee band is self-reported,
+  not an independently audited Jordan headcount. The official careers page
+  publishes career@websitejo.com and accepts CVs, but a linked position is
+  explicitly marked 'not currently available'; the page also displays a
+  generic training label without a dated, confirmed internship. Therefore no
+  currently open vacancy or early-career hiring signal is asserted. The
+  official contact page publishes contactus@websitejo.com and
+  websitejoTeam@gmail.com as general enquiries, not HR-specific contacts.
+  The official address is University Street, Amman, corroborated by GoodFirms,
+  but no building number or entrance coordinates could be confirmed. Earlier
+  latitude/longitude were not substantiated and have been removed; the map URL
+  is a street search, not a verified office pin. The website's technology FAQ
+  lists illustrative HTML, CSS, JavaScript, PHP, Java, Node.js, ASP.NET and SQL,
+  and its service page names additional example platforms, but these do not
+  establish an actual deployed engineering stack. Earlier unsubstantiated
+  framework entries were removed. Company verification remains partial.
 evidence:
   - type: "official_website"
-    url: "https://websitejo.com"
-    label: "Official website"
+    url: "https://websitejo.com/"
+    label: "Official website, services, University Street contact and June 2026 blog content (reviewed 2026-11-02)"
+  - type: "careers"
+    url: "https://websitejo.com/career/"
+    label: "Official careers page with career@websitejo.com and CV form; no confirmed open vacancy"
+  - type: "careers"
+    url: "https://websitejo.com/career/%D9%84%D8%A7-%D9%8A%D8%AA%D9%88%D9%81%D8%B1-%D8%AD%D8%A7%D9%84%D9%8A%D8%A7/"
+    label: "Official position page explicitly states no current availability"
+  - type: "official_website"
+    url: "https://websitejo.com/contact-us/"
+    label: "Official contact page, University Street and general contact addresses"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/websitejo/"
+    label: "Company LinkedIn: Amman headquarters, 11-50 staff band, 2011 founding and recent posts"
   - type: "other"
     url: "https://techbehemoths.com/company/websitejo"
-    label: "Research source"
+    label: "Third-party agency profile with Amman location and service categories"
   - type: "other"
-    url: "https://Clutch.co/profile/websitejo"
-    label: "Research source"
+    url: "https://clutch.co/profile/websitejo"
+    label: "Clutch company profile, 10-49 employees, Amman and 2025 client review"
   - type: "other"
     url: "https://www.goodfirms.co/company/websitejo"
-    label: "Research source"
+    label: "GoodFirms company listing, University Street address and founding year"
   - type: "other"
     url: "https://www.designrush.com/agency/profile/websitejo"
-    label: "Research source"
+    label: "DesignRush listing corroborating Amman-based design and development services"
   - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.99797,35.88235"
-    label: "Google Maps location"
+    url: "https://www.google.com/maps/search/?api=1&query=University+Street%2C+Amman%2C+Jordan"
+    label: "Street-level address search only; office coordinates and entrance unverified"
