@@ -1,37 +1,86 @@
 name: "UPS Jordan"
-industry: "Logistics / package delivery"
-website: "https://www.ups.com"
-careers_url: "https://www.upsjobs.com"
+description: >-
+  UPS provides international parcel shipping, tracking and express delivery
+  services in Jordan through Consolidated Marketing & Logistics Corp. (CML),
+  its locally authorized service contractor. UPS's Jordan locations page
+  identifies CML at Abbasi Plaza, 425 King Abdullah II Street, Amman. CML
+  also offers air, ocean and overland freight, customs brokerage, warehousing
+  and healthcare logistics under its own business. CML is a separate local
+  company, not evidence of a UPS-owned Jordan subsidiary or UPS payroll.
+  Jordan-specific staffing, hiring and internal engineering technologies
+  have not been independently established.
+verification_status: "partial"
+last_verified: "2026-11-02"
+industry: "International parcel delivery / express logistics and freight forwarding"
+website: "https://www.ups.com/jo/en/home"
+careers_url: "https://www.jobs-ups.com/"
 linkedin: "https://www.linkedin.com/company/ups"
 hr_email: null
-size: null
+size: "UPS: 10,001+ global employees (LinkedIn); CML Jordan contractor: 51-200 employees (separate LinkedIn profile); UPS Jordan-specific headcount unknown"
 location:
-  area: "Amman"
-  address: "XRWJ+RG2, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.997016
-  longitude: 35.831258
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.997016,35.831258"
+  area: "King Abdullah II Street, Amman"
+  address: "Abbasi Plaza, 425 King Abdullah II Street, Amman 11185, Jordan (CML, authorized UPS service contractor)"
+  status: "verified"
+  confidence: "high for the published contractor street/building address: official UPS Jordan locations, CML's official contact page and CML LinkedIn agree; current occupancy and entrance-level GPS not independently surveyed"
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Abbasi+Plaza+425+King+Abdullah+II+Street+Amman+Jordan"
 categories:
   - "logistics"
 technologies: []
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Global package-delivery giant with a Jordan operation (courierslist listing 'Ups Jordan', XRWJ+RG2, Amman); hires across operations, tech and corporate roles via upsjobs.com. | stack research 2026-10-04: no Jordan-specific engineering evidence found (employee-snippet, getprog.ai, akhtaboot, job-board searches; global UPS IT roles not Jordan-specific). Tags left unverified."
+  signals:
+    - "UPS publishes a global careers portal with hourly, professional and student pathways, but this does not establish an active Jordan vacancy (checked 2026-11-02)."
+    - "No currently accepting UPS Jordan or CML Jordan job, dedicated recruitment mailbox, local graduate programme or internship was confirmed in public sources (checked 2026-11-02)."
+notes: >-
+  Reviewed 2026-11-02. Official UPS Jordan locations and support pages
+  identify Consolidated Marketing & Logistics Corp. as the authorized UPS
+  service contractor at Abbasi Plaza, 425 King Abdullah II Street, Amman.
+  CML's official contact page independently publishes the same address,
+  names its head office and operations centre there, and gives +962 6
+  585 6956; UPS's support page also lists +962 6 537 7772 for customer
+  support. CML's company history dates its UPS Supply Chain Solutions
+  authorization to 2007 and exclusive UPS Small Package authorization to
+  2016. CML's company LinkedIn profile reports 51-200 staff, but these
+  are contractor employees and cannot be counted as direct UPS Jordan
+  employees. UPS's own LinkedIn band of 10,001+ is global, not local.
+  A third-party courier directory and BizMidEast list XRWJ+RG2 and
+  31.997016,35.831258; this conflicts with the primary-source address.
+  Those unsupported precise coordinates and the old coordinate-based
+  map link were removed. The new Google Maps link searches for the
+  published address and is not a surveyed entrance pin. The official
+  global UPS careers portal does not confirm Jordan vacancies; no
+  Jordan-specific development stack, HR email, internship or fresh-graduate
+  intake was substantiated. info@cml.jo is a general contractor contact,
+  not a confirmed recruiting address. Company-level verification remains
+  partial even though the published service-contractor location is verified.
 evidence:
   - type: "official_website"
-    url: "https://www.ups.com"
-    label: "Official website"
-  - type: "careers"
-    url: "https://www.upsjobs.com"
-    label: "Careers / application page"
+    url: "https://www.ups.com/jo/en/home"
+    label: "Official UPS Jordan shipping and tracking services; checked 2026-11-02"
+  - type: "other"
+    url: "https://www.ups.com/jo/en/locations"
+    label: "Official UPS Jordan locations: CML authorized contractor, Abbasi Plaza, 425 King Abdullah II Street"
+  - type: "other"
+    url: "https://www.ups.com/jo/en/support/contact-us"
+    label: "Official UPS Jordan customer support: contractor identity, address and contact number"
+  - type: "official_website"
+    url: "https://cml.jo/about-us/"
+    label: "CML contractor history, UPS authorizations and logistics service scope"
+  - type: "other"
+    url: "https://cml.jo/contact-us/"
+    label: "CML official contact: Abbasi Plaza 425 address, head office, operations centre and telephone"
+  - type: "other"
+    url: "https://cml.jo/logistic/worldwide-express-courier/"
+    label: "CML official express courier page confirms UPS authorized service contractor role"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/ups"
-    label: "LinkedIn company page"
+    label: "UPS corporate LinkedIn: 10,001+ global employees, not a Jordan headcount"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/cmljo"
+    label: "Separate CML Jordan company LinkedIn: 51-200 employees and 425 King Abdullah II Street"
+  - type: "careers"
+    url: "https://www.jobs-ups.com/"
+    label: "Official global UPS careers site; Jordan openings not confirmed on 2026-11-02"
   - type: "other"
     url: "https://www.courierslist.com/detail/jordan/amman/shipping-service/1214595/ups-jordan"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.997016,35.831258"
-    label: "Google Maps location"
+    label: "Older third-party listing with conflicting XRWJ+RG2 location and unsupported coordinates"
