@@ -1,22 +1,20 @@
 name: "AI Makers"
 description: "AI Makers is a Jordan technology company that turns AI concepts into production software, including AI agents, workflow automation, computer-vision systems and custom enterprise platforms. Its public materials also emphasize MLOps, CI/CD, security, monitoring and integration with business systems."
-verification_status: "verified"
-last_verified: "2026-10-07"
+verification_status: "partial"
+last_verified: "2026-11-03"
 industry: "AI services / Software"
 website: "https://www.ai-makers.com/"
-careers_url: null
+careers_url: "https://www.ai-makers.com/Careers.html"
 linkedin: "https://www.linkedin.com/company/ai-makers-jo"
 hr_email: "hr@ai-makers.com"
 size: null
 location:
-  status: "provided_unverified"
-  address: "Complex 38, Khair Al Deen Al Maani St. 38, Amman, Jordan"
   area: "Amman"
   address: "Complex No 38, Khair Al Deen Al Maani St 38, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 32.01095
-  longitude: 35.83277
-  maps_url: "https://www.google.com/maps/search/?api=1&query=32.01095,35.83277"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=AI%20Makers%20Khair%20Al%20Deen%20Al%20Maani%20St%2038%20Amman"
 categories:
   - "ai"
   - "consulting"
@@ -34,7 +32,7 @@ job_seeker:
   early_career_signal: true
   signals:
     - "Junior"
-notes: "Amman AI/software studio building AI-powered solutions (MLOps, CI/CD, monitoring); hiring junior full-stack .NET developers (0-2 yrs) in Jordan via hr@ai-makers.com. Address confirmed on company site; pin reverse-geocodes to full address (Khair Al Deen Al Maani St 38, Sweileh, Amman)."
+notes: "Reviewed 2026-11-03. Official website confirms Jordan-based AI consulting, AI agents, workflow automation, MLOps and software delivery. Official contact and privacy pages publish Complex No 38, Khair Al Deen Al Maani St 38, Amman; independent occupancy and exact map coordinates were not confirmed, so the address remains provided_unverified and coordinates were cleared. Duplicate location address/status YAML keys were consolidated. Company LinkedIn recruitment post advertises a remote Jordan full-stack .NET developer position for 0-2 years experience, with applications directed to hr@ai-makers.com; current application acceptance was not independently confirmed. A separate business-development co-founder listing is explicitly equity-only, not salaried, and was closed when checked. Company headcount remains unknown; advertised technical requirements are not a complete internal production-stack audit. Company verification remains partial."
 evidence:
   - type: "official_website"
     url: "https://www.ai-makers.com/"
@@ -54,3 +52,12 @@ evidence:
   - type: "linkedin_employee"
     url: "https://jo.linkedin.com/in/abdallah-hyassat"
     label: "Current Head of AI profile and ongoing hiring/product evidence"
+  - type: "official_website"
+    url: "https://www.ai-makers.com/Privacy-Policy.html"
+    label: "Official privacy policy corroborates Amman street address and contact details (2026-11-03)"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/ai-makers-jo_hiring-dotnetdeveloper-fullstackdeveloper-activity-7469025305182007296-FtF1"
+    label: "Company .NET recruitment post, 0-2 years experience and hr@ai-makers.com; acceptance unconfirmed"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/business-development-sales-co-founder-partner-%E2%80%93-equity-based-opportunity-at-ai-makers-4430636373"
+    label: "Closed equity-only co-founder role, not salaried employment"
