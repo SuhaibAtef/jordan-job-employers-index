@@ -1,39 +1,61 @@
 name: "Xina AI"
-industry: "Conversational AI"
+industry: "Conversational AI and speech technology"
 website: "https://www.xina.tech/"
 careers_url: null
 linkedin: null
-hr_email: null
-size: null
+hr_email: "careers@xina.tech"
+size: "11-50 (third-party estimates; current headcount unverified)"
 location:
   area: "Amman"
-  address: "King Hussein St. 264, Amman, Jordan"
+  address: null
   status: "provided_unverified"
-  latitude: 31.971681
-  longitude: 35.909783
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.971681,35.909783"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
 technologies:
-  - "Generative AI"
-  - "NLP"
+  - "Natural Language Understanding (NLU)"
+  - "Natural Language Processing (NLP)"
+  - "Speech-to-Text (STT)"
+  - "Text-to-Speech (TTS)"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman-based Arabic conversational AI startup (founded 2020, $1M seed 2021); interactive voice assistant & chatbot covering Arabic dialects; partners include Nvidia, Microsoft for Startups, HubSpot. GPS upgraded from city fallback to Google Maps business listing (xina.tech)."
+notes: >-
+  Jordan-based Arabic conversational AI company founded in 2020; develops
+  dialect-aware voice assistants and bilingual customer-support chatbots.
+  Jordan ICT's 2023 profile reported 25 staff, whereas third-party company
+  directories report 11-50 (and Crunchbase reports 1-10); current audited
+  headcount is unknown. StartupsJo publishes careers@xina.tech as a contact,
+  but current inbox operation and an open vacancy were not confirmed.
+  Wuzzuf reported no open Xina AI vacancies at the November 2026 review.
+  Former CEO Sari Hweitat publicly announced his resignation around 2023/24;
+  historical leadership information must not be presented as current.
+  Amman operations are supported by industry directories, but the previous
+  King Hussein Street 264 address and exact map coordinates were not
+  independently corroborated and were removed. Listed AI technologies
+  describe documented product capabilities, not a verified internal
+  deployment stack. Official website could not be independently inspected
+  during this review. Partial verification only.
 evidence:
   - type: "official_website"
     url: "https://www.xina.tech/"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.wamda.com/en/2021/09/jordan-xina-ai-raises-1-million-seed-round"
-    label: "Research source"
-  - type: "other"
-    url: "https://www.thesaasnews.com/news/conversational-ai-platform-xina-ai-raises-1-million-in-seed-round"
-    label: "Research source"
+    label: "Company website (listed by industry directories; live content not confirmed in this review)"
   - type: "other"
     url: "https://jordanict.com/2023/company-profile/xina"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.971681,35.909783"
-    label: "Google Maps location"
+    label: "Jordan ICT 2023 company profile: products, Amman office, founding and historical staff count"
+  - type: "other"
+    url: "https://www.startupsjo.com/en/Pages/CustomPages/Startup/479"
+    label: "StartupsJo startup directory: careers contact and AI sector"
+  - type: "other"
+    url: "https://wuzzuf.net/jobs/careers/Xina-AI-Jordan-79809"
+    label: "Wuzzuf company profile: 11-50 estimate and no open jobs at review"
+  - type: "other"
+    url: "https://www.cbinsights.com/company/xina-ai"
+    label: "CB Insights company profile and 2024 product integration news"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/posts/sari-hweitat-5513a298_dear-linkedin-community-today-with-a-mix-activity-7146048578065502208-pVSX"
+    label: "Former CEO public resignation and shareholder context (historical)"
+verification_status: "partial"
+last_verified: "2026-11-03"
