@@ -1,17 +1,17 @@
 name: "Zetta Global"
-industry: "IT Services / IT Consulting"
-website: null
-careers_url: "https://www.drjobpro.com/jordan/jobs/senior-quality-assurance-engineer-manual-amman-zetta-global-MS2FKX3L3PCJXAP"
-linkedin: null
+industry: "IT Consulting / Data Engineering / AI and Automation"
+website: "https://gozetta.com/"
+careers_url: "https://recruit.gozetta.com/jobs"
+linkedin: "https://www.linkedin.com/company/zettaglobal"
 hr_email: null
-size: null
+size: "51-200 employees (LinkedIn global company estimate; not Jordan headcount)"
 location:
-  area: "Amman"
-  address: null
-  status: "approximate"
-  latitude: 31.95672
-  longitude: 35.92519
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
+  area: "Abdali, Amman"
+  address: "34 Suleiman Al Nabulsi Street, Abdali Boulevard, Amman (Z. affiliate LinkedIn listing; current Zetta office entrance not independently confirmed)"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "consulting"
   - "data"
@@ -19,33 +19,44 @@ categories:
   - "qa"
   - "web"
 technologies:
-  - ".NET"
-  - "Azure"
+  - "AI/ML"
+  - "Cloud data platforms"
+  - "Data integration"
+  - "Workflow automation"
   - "CI/CD"
-  - "Cypress"
-  - "Docker"
-  - "Google Cloud"
-  - "Java"
-  - "Jenkins"
-  - "Jira"
-  - "JMeter"
-  - "Kubernetes"
-  - "Playwright"
-  - "Python"
-  - "Selenium"
-  - "SQL"
-  - "Terraform"
+  - "DevSecOps"
+  - "C#"
+  - ".NET"
+  - "Angular"
+  - "TypeScript"
+  - "SQL Server"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Houston-headquartered IT consultancy hiring in Amman, including Senior QA (manual) engineers and DevOps engineers via Dr.Job; no company website could be verified."
+  early_career_signal: true
+  signals:
+    - "Official careers portal listed two Jordan-tagged positions on 2026-11-03: Lead Generation (SDR/BDR) – MENA (posted 2026-10-13) and Head of Business Development – MENA (posted 2026-08-06); both require substantial experience. Application submission not independently tested."
+    - "Company LinkedIn reported participation in Al Hussein Technical University career fair in 2026; outreach is not evidence of a currently open internship or entry-level vacancy."
+notes: "Reviewed 2026-11-03. Zetta Global is a Houston/Texas-headquartered technology consulting and delivery business founded in 2018, focused on connected data, automation, AI, cloud infrastructure, engineering and team augmentation. Official company site explicitly references an Amman delivery team; affiliated Z. LinkedIn page states it is part of Zetta Global and lists 34 Suleiman Al Nabulsi Street, Abdali Boulevard. This published affiliate address is not independently verified as the current Zetta office entrance, especially given a company announcement of an expanded Jordan office. LinkedIn size is a global estimate. Official recruiting portal confirms Jordan-tagged business development openings; no current Jordan engineering opening or dedicated HR email was confirmed. Technologies include documented service capabilities and skills from a 2026 company engineering advertisement, not an audited internal production stack. Previous Dr.Job listings and arbitrary central-Amman GPS pin were not reliable proof of current hiring or location. Company verification remains partial."
 evidence:
+  - type: "official_website"
+    url: "https://gozetta.com/about-us/"
+    label: "Official company history, services, leadership, and Amman delivery presence (reviewed 2026-11-03)"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/zettaglobal"
+    label: "Official LinkedIn profile: industry, 2018 founding, global 51-200 size and activity"
+  - type: "linkedin"
+    url: "https://jo.linkedin.com/company/gozconnect"
+    label: "Z. affiliate LinkedIn: explicitly part of Zetta Global, Abdali address, service specialties"
   - type: "careers"
-    url: "https://www.drjobpro.com/jordan/jobs/senior-quality-assurance-engineer-manual-amman-zetta-global-MS2FKX3L3PCJXAP"
-    label: "Careers / application page"
+    url: "https://recruit.gozetta.com/jobs"
+    label: "Official jobs portal: two Jordan-tagged MENA roles shown 2026-11-03"
   - type: "job_post"
-    url: "https://www.drjobpro.com/jordan/jobs/devops-engineer-amman-zetta-MUBVOFAQ3P53NMW"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.95672,35.92519"
-    label: "Google Maps location"
+    url: "https://recruit.gozetta.com/jobs/job_opening/8718907/senior-ios-developer"
+    label: "Official historical Jordan iOS engineering vacancy, closed 2026-05-21"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/posts/zettaglobal_zettas-growth-in-jordan-a-bigger-space-activity-7290764677540667393-TXEh"
+    label: "Company announcement of expanded Jordan office (historical)"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/posts/zettaglobal_zettateam-productdevelopment-impactthroughtech-activity-7332362310797230080-0u3c"
+    label: "Company confirmation of Amman product development team"
+verification_status: "partial"
+last_verified: 2026-11-03
