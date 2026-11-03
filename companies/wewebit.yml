@@ -1,47 +1,106 @@
 name: "WeWebIt"
-industry: "Web & mobile development / e-solutions"
-website: "https://wewebit.com"
+description: >-
+  WeWebIt (Al Asmaa Programming) is an Amman-based software development and
+  digital-solutions company operating since 2012. It develops custom web and
+  mobile applications, e-commerce systems, integration solutions and UX/UI
+  designs, and offers CRM, data-governance and partner-management software.
+verification_status: "partial"
+last_verified: "2026-11-02"
+industry: "IT Services and Consulting / Custom Software, Web and Mobile Development"
+website: "https://wewebit.com/"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/wewebit"
 hr_email: "careers@wewebit.com"
-size: "10-49"
+size: "11-50"
 location:
-  area: "Amman"
-  address: "Wasfi At-Tall St. 342, Amman, Jordan"
+  area: "Khalda, Amman"
+  address: "342 Wasfi Al Tal Street, 4th Floor, Khalda, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.99683
-  longitude: 35.83797
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.99683,35.83797"
+  confidence: "high for published street/building and floor (official contact page and company LinkedIn); physical occupancy and exact entrance coordinates not independently verified"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "data"
   - "design"
-  - "devops"
   - "ecommerce"
-  - "erp"
   - "mobile"
   - "web"
 technologies:
-  - "VPS Hosting"
+  - "Dart"
+  - "Flutter"
+  - "Git"
+  - "JavaScript"
+  - "Laravel"
+  - "MySQL"
+  - "PHP"
+  - "PostgreSQL"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "Amman web/mobile studio (est. 2012, 'Al Asmaa Programming') offering mobile apps, custom web apps, CRM and eCommerce; publicly lists careers@wewebit.com for applications and info@wewebit.com for general contact."
+  early_career_signal: true
+  signals:
+    - "Historical entry-level Flutter Developer role in Amman, posted around October 2026; LinkedIn displayed applications closed when checked 2026-11-02. Role specified Flutter, Dart and REST APIs, with no explicit minimum years of experience."
+    - "Historical Full Stack PHP Developer role in Khalda, Amman required at least two years' experience and listed PHP, Laravel/Yii or similar, JavaScript, MySQL and PostgreSQL; LinkedIn displayed applications closed on 2026-11-02."
+    - "Official contact page lists careers correspondence, but no currently accepting vacancy or dedicated careers board was independently confirmed."
+notes: >-
+  Reviewed 2026-11-02. Official homepage/about/contact pages and company
+  LinkedIn corroborate active operations since 2012, web/mobile development,
+  UX/UI, e-commerce, integration and CRM services. The official product pages
+  document GoverGate data governance, a configurable CRM platform and a
+  Success Partner sales/order-management product. Company LinkedIn reports
+  11-50 employees (a self-reported company-wide band, not an audited Jordan
+  headcount), headquarters in Amman and 342 Wasfi Al Tal Street, 4th Floor.
+  The official contact page gives the same street/building number and the
+  Arabic contact page identifies Khalda. BizMidEast corroborates the street
+  address and telephone +962 6 550 6530, but does not independently establish
+  current office occupancy or precise entrance coordinates. The original
+  coordinates 31.99683,35.83797 came from an unverified generic Google Maps
+  search, so they and the associated maps URL were removed rather than
+  presented as a surveyed office point. The official contact page lists a
+  careers email, and a company-authored LinkedIn PHP vacancy explicitly
+  prints careers@wewebit.com; mailbox delivery was not tested. The LinkedIn
+  Flutter Developer posting was tagged entry-level and had no minimum years
+  of experience, supporting a historical early-career hiring signal; both
+  inspected Flutter and PHP vacancies were closed as of this review, and
+  no currently open role or internship was verified. The technology list
+  represents named skills in historical company-authored job advertisements,
+  not an audit of the deployed production stack; Laravel was listed as an
+  example alongside Yii rather than a confirmed deployed framework. The
+  prior 'VPS Hosting' technology entry describes a service, not a verified
+  implementation technology. The original ERP and DevOps categories lacked
+  sufficient evidence of standalone business offerings and were removed.
+  Company verification remains partial pending confirmation of current
+  recruitment, audited size, production technologies and precise office pin.
 evidence:
   - type: "official_website"
-    url: "https://wewebit.com"
-    label: "Official website"
+    url: "https://wewebit.com/"
+    label: "Official homepage: active services and product portfolio, reviewed 2026-11-02"
+  - type: "official_website"
+    url: "https://wewebit.com/about/"
+    label: "Official company background: operations since 2012, web/mobile, CRM and e-commerce"
+  - type: "official_website"
+    url: "https://wewebit.com/contact/"
+    label: "Official contact: 342 Wasfi At-Tall Street, telephone and careers email section"
+  - type: "official_website"
+    url: "https://wewebit.com/ar/%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A8%D9%86%D8%A7/"
+    label: "Official Arabic contact page: identifies Khalda and 342 Wasfi Al Tal Street"
+  - type: "official_website"
+    url: "https://wewebit.com/our-products/govergate-data-governance-platform/"
+    label: "Official GoverGate product: data governance and compliance offering"
+  - type: "official_website"
+    url: "https://wewebit.com/our-products/customer-relationship-management-crm/"
+    label: "Official CRM product: integrations, forms, workflows and mobile capabilities"
+  - type: "official_website"
+    url: "https://wewebit.com/our-products/success-partner-system/"
+    label: "Official partner platform: order management, sales support and integrations"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/wewebit"
-    label: "LinkedIn company page"
+    label: "Company LinkedIn: 11-50 employees, 2012 founding, Amman office and 4th floor"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/flutter-developer-at-wewebit-4444571884"
+    label: "Company Flutter/Dart Developer role in Amman, tagged entry level; applications closed on review"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/full-stack-php-developer-at-wewebit-4312580872"
+    label: "Company PHP Developer role: 2+ years, technologies, careers@wewebit.com; applications closed"
   - type: "other"
-    url: "https://wewebit.com/about/"
-    label: "Research source"
-  - type: "other"
-    url: "https://wewebit.com/privacy-policy/"
-    label: "Research source"
-  - type: "other"
-    url: "https://craft.co/wewebit"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.99683,35.83797"
-    label: "Google Maps location"
+    url: "https://www.bizmideast.com/JO/wewebit-06-550-6530"
+    label: "Third-party business directory corroborating street address and telephone; not entrance GPS"
