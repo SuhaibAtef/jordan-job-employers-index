@@ -1,44 +1,47 @@
 name: "Wizard Cyber"
-industry: "Cybersecurity (MSSP)"
+industry: "Cybersecurity; managed security services (MSSP)"
 website: "https://wizardcyber.com"
 careers_url: "https://wizardcyber.com/careers/"
-linkedin: null
-hr_email: "info@wizardcyber.com"
-size: null
+linkedin: "https://www.linkedin.com/company/wizard-cyber"
+hr_email: null
+size: "51-200 employees globally (LinkedIn estimate; Jordan headcount unverified)"
 location:
-  area: "Amman"
-  address: "Yacoub Plaza, King Abdullah II St., Khalda Circle, Amman, Jordan"
+  area: "Amman (7th Circle; company careers page)"
+  address: "7th Circle, Amman, Jordan (careers); Balbisi Building, Abdallah Ghosheh Street, Amman (LinkedIn); conflicting/insufficient detail for an exact office entrance"
   status: "provided_unverified"
-  latitude: 31.97891
-  longitude: 35.8364
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97891,35.8364"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "security"
 technologies:
+  - "Microsoft Sentinel"
+  - "Microsoft Defender"
+  - "Microsoft Entra"
+  - "Azure Logic Apps"
   - "SOC"
 job_seeker:
   early_career_signal: true
   signals:
-    - "Internship"
-    - "Graduate"
-    - "Academy"
-notes: "UK-based MSSP (Wizard Group est. 1995) running its 24/7/365 SOC in Amman; operates a Training Academy and in-person internships in Amman that feed graduates into SOC analyst L1 roles - strong fresh-grad pipeline."
+    - "In-person internships in Amman: administration, marketing and development (unpaid; travel/subsistence contribution)"
+    - "Training Academy for entrants to cybersecurity (availability and enrollment dates not confirmed)"
+    - "No open employed roles listed on official careers page at 2026-11-03 review; speculative CVs accepted"
+notes: "Wizard Cyber is a UK-headquartered managed cybersecurity provider and a division of Wizard Group, with a 24/7 SOC in Amman. LinkedIn dates Wizard Cyber's founding to 2017; the wider group's 1995 history should not be treated as Wizard Cyber's founding date. Official careers page advertises three in-person Amman internship tracks, requiring a degree or final-year study and a practical computer-literacy interview; internships are unpaid with a contribution to travel/subsistence. It lists no open employee roles at review. Send CVs with internship or desired role in subject to info@wizardcyber.com (general contact/application mailbox, not independently verified as dedicated HR). Training Academy is separate from the internships; current intake and any progression into paid SOC positions are not established. Location descriptions differ between official careers page (7th Circle) and company LinkedIn (Abdallah Ghosheh/Balbisi Building); prior Yacoub Plaza/Khalda address and precise coordinates were not corroborated. Microsoft products listed are customer-facing managed-security technologies, not a complete audited internal stack. Company size is global, not Jordan-specific."
 evidence:
   - type: "official_website"
     url: "https://wizardcyber.com"
-    label: "Official website"
+    label: "Official managed cybersecurity services website; reviewed 2026-11-03"
   - type: "careers"
     url: "https://wizardcyber.com/careers/"
-    label: "Careers / application page"
+    label: "Official careers: no current roles, Amman internships, Academy, application email and 7th Circle; reviewed 2026-11-03"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/wizard-cyber"
+    label: "Company profile: 51-200 global size, founding 2017, Amman office and Microsoft security capabilities; reviewed 2026-11-03"
   - type: "other"
-    url: "https://wizardcyber.com/cyber-security-company-middle-east/"
-    label: "Research source"
-  - type: "job_post"
-    url: "https://wizardcyber.com/careers/training-academy/"
-    label: "Research source"
+    url: "https://wizardcyber.com/contact/"
+    label: "Official general contact email and SOC locations; reviewed 2026-11-03"
   - type: "other"
-    url: "https://Wizardcyber.com/contact"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.97891,35.8364"
-    label: "Google Maps location"
+    url: "https://www.linkedin.com/posts/wizard-cyber_weve-just-moved-into-our-brand-new-soc-in-activity-6969926859094380544-i7Eu"
+    label: "Company announcement of Amman SOC move (historical, circa 2022)"
+verification_status: "partial"
+last_verified: "2026-11-03"
