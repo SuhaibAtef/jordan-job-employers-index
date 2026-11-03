@@ -1,38 +1,50 @@
 name: "ZenHR"
-industry: "HR Software (HRMS SaaS)"
-website: "https://zenhr.com/"
-careers_url: null
-linkedin: null
+description: "ZenHR is a MENA-focused cloud human resources management software provider offering payroll, attendance, employee lifecycle management, applicant tracking (ZenATS), and AI-supported HR analytics. The company maintains an Amman office alongside regional operations."
+verification_status: "partial"
+last_verified: "2026-11-03"
+industry: "HR Technology / HRMS SaaS"
+website: "https://www.zenhr.com/"
+careers_url: "https://careers.zenhr.com/"
+linkedin: "https://www.linkedin.com/company/zenhr"
 hr_email: null
-size: null
+size: "51-200 employees (LinkedIn company-wide estimate; Jordan headcount unverified)"
 location:
-  area: "Amman"
-  address: "Salah Al-Suhaimat St. 24, Wadi Al Seer, Amman, Jordan"
+  area: "Sweifieh, Amman"
+  address: null
   status: "provided_unverified"
-  latitude: 31.957566
-  longitude: 35.867548
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.957566,35.867548"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "web"
+  - "saas"
+  - "hr-tech"
 technologies:
   - "REST API"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Cloud HRMS SaaS founded 2017 in Amman, localized for MENA labor laws (payroll, attendance, ZenATS applicant tracking); rated 4.7/5 on Capterra; growing regional team."
+  signals:
+    - "Official ZenHR careers board lists Amman roles including Product Marketing Manager (posted 2026-08-03), Engineering Manager L1 (2026-07-09), Sales Development Representative (2026-06-22), Infrastructure Engineer L2 (2026-04-12), and Software Engineer L3/L4 (2025); application acceptance for each role was not independently tested."
+notes: >-
+  The official site describes cloud HRMS, payroll, attendance, ZenATS and AI-powered HR analytics.
+  LinkedIn identifies Riyadh as current headquarters and Sweifieh, Amman as a company office;
+  the former Salah Al-Suhaimat Street 24 address and precise GPS pin could not be corroborated
+  from current official sources and were removed. LinkedIn reports 51-200 employees globally,
+  not an audited Jordan headcount. The official careers board lists Amman positions, but no
+  dedicated public recruitment email or currently open entry-level/internship opportunity was
+  independently established. REST API is retained from the previous record as an advertised
+  integration capability, not proof of the internal production stack. Company-level verification
+  remains partial despite confirmation of the Amman office.
 evidence:
   - type: "official_website"
-    url: "https://zenhr.com/"
-    label: "Official website"
-  - type: "other"
-    url: "https://www.saasworthy.com/product/zenhr"
-    label: "Research source"
-  - type: "other"
-    url: "https://slashdot.org/software/comparison/RippleHire-vs-zenHR/"
-    label: "Research source"
-  - type: "other"
-    url: "https://craft.co/zenhr"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.957566,35.867548"
-    label: "Google Maps location"
+    url: "https://www.zenhr.com/"
+    label: "Official HR software product and features"
+  - type: "official_website"
+    url: "https://www.zenhr.com/en/about"
+    label: "Official company background and regional operations"
+  - type: "careers_page"
+    url: "https://careers.zenhr.com/"
+    label: "Official careers board with dated Amman roles; reviewed 2026-11-03"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/zenhr"
+    label: "Company LinkedIn: size, Riyadh headquarters and Sweifieh Amman office"
