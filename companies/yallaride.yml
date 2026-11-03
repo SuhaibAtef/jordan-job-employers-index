@@ -1,32 +1,36 @@
 name: "YallaRide"
 industry: "Ride-sharing / Carpooling"
-website: null
+website: "https://yallaride.net/"
 careers_url: null
 linkedin: null
 hr_email: null
 size: null
 location:
-  area: "Amman"
+  area: "Jordan (city-level office unconfirmed)"
   address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  status: "unresolved"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "mobile"
+  - "travel"
 technologies:
   - "Android"
+  - "iOS"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Jordanian ride-sharing/carpooling app ('Your smart way to travel across Jordan'); fixed pricing, verified drivers, intercity carpooling; available on Google Play and App Store. No company website found."
+notes: "Reviewed 2026-11-03. YallaRide is a passenger-driver intercity ride-sharing and carpooling mobile application serving Jordan. Google Play's developer-authored listing describes fixed prices, driver verification, booking and support; these are product claims, not independently audited safety guarantees. Google Play lists the developer as Jafar Alqudah (Jordan), the support phone +962797791090, and support email yallaride.app@gmail.com; neither is verified as an HR contact. Google Play links yallaride.net as the app website, but its current page content could not be independently examined. No distinct company LinkedIn profile, headcount, Jordan office address, current vacancies, internships, or production engineering stack were confirmed. Android and iOS indicate app distribution platforms, not verified internal frameworks. Previous coordinates 31.9539,35.9106 were a generic Amman centroid, not a verified company location, and were removed. The similarly named YalaRide.com car-rental marketplace and Yalla Jordan community organization are different entities and must not be conflated with this app. Google Play listing was last updated 2026-01-05; current operational status beyond listing availability remains unconfirmed."
 evidence:
   - type: "other"
     url: "https://play.google.com/store/apps/details?id=com.yallaride"
-    label: "Research source"
+    label: "Google Play developer listing: app features, website, Jordan developer and support contact (checked 2026-11-03)"
+  - type: "official_website"
+    url: "https://yallaride.net/"
+    label: "App website linked by Google Play; page content not independently verified (checked 2026-11-03)"
   - type: "other"
     url: "https://apps.apple.com/us/app/yallaride/id6754461363"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    label: "Previously recorded Apple App Store listing; returned 404 during 2026-11-03 review"
+verification_status: "partial"
+last_verified: "2026-11-03"
