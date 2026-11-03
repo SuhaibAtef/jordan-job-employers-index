@@ -1,22 +1,20 @@
 name: "Advanced Business Solutions"
 description: "Advanced Business Solutions is an Amman software and consulting company focused on SAP Business One implementations for small and midsize organizations. It provides ERP implementation, hosting, managed services, business intelligence, reporting and SAP HANA-related services across Jordan and regional markets."
-verification_status: "verified"
-last_verified: "2026-10-07"
+verification_status: "partial"
+last_verified: "2026-11-03"
 industry: "Information Technology and Services"
 website: "https://www.e2abs.com"
-careers_url: null
+careers_url: "https://e2abs.com/career/"
 linkedin: "https://www.linkedin.com/company/e2abs"
-hr_email: "info@e2abs.com"
+hr_email: null
 size: "51-200"
 location:
-  status: "verified"
-  address: "Building 38, 3rd Floor, Suleiman Al Hadidi St., Abdoun Al Shamali, Amman 11814, Jordan"
   area: "Abdoun Al Shamali, Amman"
-  address: "38 Sulaiman Al Hadidi St., Abdoun Al Shamali, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.95994
-  longitude: 35.873899
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.95994,35.873899"
+  address: "Building 38, 3rd Floor, Suleiman Al Hadidi Street, Abdoun Al Shamali, Amman 11814, Jordan"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Advanced%20Business%20Solutions%20Suleiman%20Al%20Hadidi%2038%20Amman"
 categories:
   - "consulting"
   - "erp"
@@ -29,8 +27,8 @@ technologies:
 job_seeker:
   early_career_signal: true
   signals:
-    - "Entry-level roles"
-notes: "First SAP Gold Partner in Jordan (est. 2010); SAP Business One implementation/support for SMEs, 200+ clients (Ayla, Al Ameed Coffee). No internship/fresh-grad program found. stack research 2026-10-06: 3 searches + company site; no employee profiles or company job postings with tech requirements found; tags unchanged."
+    - "2026 BI Associate Consultant posting explicitly welcomes fresh graduates (third-party listing; application status not confirmed)"
+notes: "Reviewed 2026-11-03. SAP partner directory and company LinkedIn independently corroborate Building 38, third floor, Suleiman Al Hadidi Street, Abdoun Al Shamali, Amman. The previous YAML had duplicate address and status keys, which have been consolidated. Exact coordinates were not independently corroborated and were removed. LinkedIn reports 51-200 employees globally and founding in 2010; not an audited Jordan headcount. SAP identifies ABS as an SAP Business One Premier Partner and documents implementation, support, integration and managed hosting. Official careers page welcomes recent graduates and links to vacancies, but current application acceptance was not verified. A third-party 2026 BI Associate Consultant posting describes fresh-graduate eligibility and SQL, SAP HANA SQL, Crystal Reports and Power BI; treat as recruitment evidence, not proof of an internal production stack. No dedicated HR email was confirmed; former info@e2abs.com was not established as an HR mailbox. Company status is partial pending recruitment-contact and current-vacancy verification."
 evidence:
   - type: "official_website"
     url: "https://www.e2abs.com"
@@ -59,3 +57,12 @@ evidence:
   - type: "job_post"
     url: "https://jo.linkedin.com/jobs/view/associate-sales-consultant-at-advanced-business-solutions-4309263184"
     label: "Entry-level Amman Associate Sales Consultant role"
+  - type: "careers_page"
+    url: "https://e2abs.com/career/"
+    label: "Official careers page — welcomes recent graduates and links to openings; current application status unconfirmed (2026-11-03)"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/e2abs"
+    label: "Current company LinkedIn — 51-200 employees and Building 38 third-floor Amman office (2026-11-03)"
+  - type: "job_post"
+    url: "https://jordan.mimusjobs.com/job/bi-associate-consultant/"
+    label: "Third-party 2026 BI Associate Consultant listing — fresh graduates and SQL/Power BI/Crystal Reports requirements; unconfirmed application status"
