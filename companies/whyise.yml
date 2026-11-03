@@ -1,17 +1,14 @@
 name: "Whyise"
-industry: "Impact Analytics SaaS / AI"
+industry: "Impact data management and analytics SaaS"
 website: "https://whyise.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/whyise"
 hr_email: null
-size: "1-10"
+size: "11-50"
 location:
   area: "Amman"
   address: "Mecca St. 33, Floor 5, Um Uthaina, Amman 11941, Jordan"
   status: "provided_unverified"
-  latitude: 31.96512
-  longitude: 35.887538
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.96512,35.887538"
 categories:
   - "ai"
   - "data"
@@ -19,9 +16,21 @@ categories:
 technologies: []
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Founded 2018 in Amman by Reem Khouri; AI-powered impact-analytics SaaS for ESG/SDG measurement and reporting; raised $675K+ (Ahli Fintech, ISSF, Wamda). | stack research 2026-10-05: 5 searches + 1 page opened; only evidence is 1 Wuzzuf profile ('Full Stack Developer at Whyise') with no stack detail — no employee profiles or dev job postings found."
+  signals:
+    - "Historical Customer Success Officer recruitment (2021); applications closed, not a current vacancy."
+notes: "Founded in 2018; impact-data management and analytics software for organizations to collect, aggregate and analyze social, economic and environmental outcome data. LinkedIn lists 11-50 employees and Mecca Street 33, Floor 5, Um Uthaina, Amman; this is a published address, not an independently verified current office or entrance. Removed previously asserted precise coordinates because the source does not substantiate entrance-level precision. The UN Jordan 2022 Seeds of Impact publication describes the platform and company impact measurement. A historical Customer Success Officer vacancy requested applications to info@whyise.com by September 16, 2021; this is not proof of current hiring or a dedicated HR mailbox. No current company-authored opening, internship, internal engineering stack or active careers portal confirmed. Official website returns no readable content in the research browser, so current website activity is not independently established. Earlier funding amounts are historical and vary across sources; avoid treating them as current."
+verification_status: partial
+last_verified: 2026-11-02
 evidence:
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/whyise"
+    label: "Company LinkedIn profile: size, headquarters, founding year and address; accessed 2026-11-02"
+  - type: "other"
+    url: "https://jordan.un.org/sites/default/files/2022-06/Seedsofimpact%20%281%29.pdf"
+    label: "UN Jordan Seeds of Impact (2022): company description and impact analytics"
+  - type: "job_posting"
+    url: "https://jo.linkedin.com/jobs/view/customer-success-officer-at-whyise-2696893795"
+    label: "Historical Customer Success Officer vacancy, application deadline 2021-09-16"
   - type: "official_website"
     url: "https://whyise.com"
     label: "Official website"
