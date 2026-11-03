@@ -2,38 +2,61 @@ name: "World of Plants"
 industry: "AgriTech / AI Plant Diagnostics"
 website: "https://worldofplants.ai"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/world-of-plants"
 hr_email: null
-size: null
+size: "2-10 employees (LinkedIn self-reported; not audited)"
 location:
-  area: "Amman"
+  area: "Jordan; Amman on official website, Irbid headquarters on LinkedIn (conflicting)"
   address: null
-  status: "approximate"
-  latitude: 31.9539
-  longitude: 35.9106
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
+  status: "unresolved"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
-  - "iot"
   - "mobile"
 technologies:
   - "AI/ML"
+  - "Computer vision / image analysis"
   - "Android"
   - "iOS"
 job_seeker:
-  early_career_signal: false
-  signals: []
-notes: "AI plant-disease diagnosis from photos plus Android/iOS app with free agricultural consultations; offers delivery inside Jordan per its own site; listed in GIZ's Jordan green-business ecosystem mapping (Sept 2025)."
+  early_career_signal: true
+  signals:
+    - "Company LinkedIn advertised remote practical training in smart agriculture and AI for agricultural engineers and graduates approximately seven to eight months before November 2026; current intake not confirmed."
+    - "Historical Amman AI developer/computer vision project contract posting sought an individual developer or software company; LinkedIn now says applications closed."
+notes: >-
+  Jordanian agritech platform offering AI-assisted crop disease and pest recognition,
+  agricultural consultations, and agricultural products/delivery. The official site
+  lists Amman and info@worldofplants.ai / +962795399237; LinkedIn lists Irbid
+  as headquarters, so the precise office and city of headquarters remain unresolved.
+  The company LinkedIn profile reports founding in 2022 and 2-10 employees, neither
+  independently audited. Official website describes Android and iOS applications,
+  but app-store availability and internal engineering stack were not independently
+  confirmed. info@worldofplants.ai is a general contact and historical training
+  application address, not a verified dedicated HR mailbox. shahd@worldofplants.ai
+  was used in a historical project recruitment posting, not established as HR.
+  No currently accepting employee vacancy or dedicated careers portal confirmed.
+  Earlier coordinates 31.9539,35.9106 were generic Amman coordinates, not
+  verified company premises, and have been removed. Reviewed 2026-11-03.
 evidence:
   - type: "official_website"
-    url: "https://worldofplants.ai"
-    label: "Official website"
+    url: "https://worldofplants.ai/en/"
+    label: "Official homepage: plant diagnosis, apps, agricultural services and delivery"
+  - type: "official_website"
+    url: "https://worldofplants.ai/en/contact-us/"
+    label: "Official contact: Amman, general email and phone"
+  - type: "official_website"
+    url: "https://worldofplants.ai/en/business/"
+    label: "Official AI image recognition and application services"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/world-of-plants"
+    label: "Company profile: Irbid headquarters, 2-10 employees, founded 2022, historical training announcement"
   - type: "other"
-    url: "https://worldofplants.ai/en/%D8%AD%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D9%81%D8%A7%D8%B1-%D9%83%D9%84%D8%A8-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1/"
-    label: "Research source"
+    url: "https://jo.linkedin.com/jobs/view/ai-developer-computer-vision-company-at-the-world-of-plants-4378111146"
+    label: "Historical AI/computer vision project recruitment; applications closed"
   - type: "other"
-    url: "https://www.giz.de/sites/default/files/media/pkb-document/2025-10/giz2025-en-jordan-green-business-ecosystem.pdf"
-    label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.9539,35.9106"
-    label: "Google Maps location"
+    url: "https://startupsjo.com/en/Pages/CustomPages/Startup/657"
+    label: "Jordan startup directory: agritech platform and Jordan headquarters"
+verification_status: "partial"
+last_verified: "2026-11-03"
