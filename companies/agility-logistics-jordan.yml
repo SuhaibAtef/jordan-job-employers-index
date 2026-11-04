@@ -8,7 +8,7 @@ description: >-
   development near Amman's airport; this does not establish continuity of the
   historical Shmeisani employer or that the park is fully operational.
 verification_status: partial
-last_verified: '2026-10-28'
+last_verified: '2026-11-04'
 industry: Logistics / freight forwarding / warehousing (historical Jordan listing)
 website: https://agility.com/
 careers_url: https://agility.com/careers/
@@ -29,7 +29,7 @@ job_seeker:
   early_career_signal: false
   signals: []
 notes: >-
-  Rechecked 2026-10-28. The official Agility Logistics Parks Jordan page describes
+  Rechecked 2026-11-04. The official Agility Logistics Parks Jordan page describes
   more than 100,000 square metres of land, warehousing and logistics infrastructure
   under development in Qastal, near Airport Road. This is first-party evidence of
   a separate Agility group project in Jordan, NOT proof that the historical
@@ -49,6 +49,13 @@ notes: >-
   Jordan-specific Agility vacancy or dedicated HR email was confirmed. Leave
   local size, HR email, coordinates and technologies unknown. Company-level
   verification remains partial despite the separate official Jordan parks page.
+  On 2026-11-04, the current ALP corporate About page's listed country footprint
+  did not include Jordan, although its separate Jordan project page remains live.
+  ALP's official contact page explicitly states that it does not provide 3PL
+  services directly. This reinforces the need to distinguish the historical
+  freight-forwarding listing from the separate industrial-real-estate project.
+  Neither source confirms a current local employer, hiring, operational park,
+  or the historical Shmeisani office.
 evidence:
 - type: official_website
   url: https://agility.com/
@@ -89,3 +96,10 @@ evidence:
 - type: other
   url: https://agility.com/news/agility-global-plc-reports-resilient-q2-2026-performance/
   label: Agility 2026-08-07 results - ongoing group activity and logistics parks, not Jordan-specific employment
+
+- type: official_website
+  url: https://agilitylogisticsparks.com/about-agility-logistics-parks/
+  label: Current ALP corporate footprint omits Jordan from listed operating countries; not proof the separate Jordan project is cancelled
+- type: official_website
+  url: https://agilitylogisticsparks.com/contact-us/
+  label: ALP explicitly states it does not directly provide third-party logistics services
