@@ -6,7 +6,7 @@ description: >-
   children. Its 2026 activities include Amman classes, a U.S. live tour and
   an Arabic-letter learning game developed with eduTechnoz.
 verification_status: "partial"
-last_verified: "2026-10-28"
+last_verified: "2026-11-04"
 industry: "Children's Edutainment / Arabic-Language Education and Media"
 website: "https://www.adamwamishmish.com"
 careers_url: "https://www.adamwamishmish.com/work-with-us"
@@ -29,7 +29,7 @@ job_seeker:
   signals:
     - "The official Work With Us page accepts join-the-team inquiries via a contact form; no specific open position or entry-level recruitment was listed on 2026-10-28."
 notes: >-
-  Reviewed 2026-10-28. The official About page identifies Hend Baghdady as
+  Reviewed 2026-11-04 (UTC). The official About page identifies Hend Baghdady as
   CEO and Luma Aladnani as co-founder and president; its footer places the
   business in Amman, Jordan. The current class calendar lists in-person
   Circle Time sessions at Moonbirds (6th Circle) and Tiny Tots (Swefieh
@@ -43,10 +43,16 @@ notes: >-
   address; the directory timed out on this review, so the address remains
   provided_unverified and precise coordinates remain null. StartupsJo
   lists founder contact Luma@adamwamishmish.com, not a dedicated HR mailbox.
-  The official Work With Us page now invites join-the-team inquiries via
-  a form, but lists no open vacancies, job levels or recruitment email.
+  The official Work With Us page still invites join-the-team inquiries via
+  a form but lists no open vacancies, job levels or recruitment email on
+  2026-11-04. The official privacy policy (updated July 3, 2026) gives
+  info@adamwamishmish.com for general privacy inquiries, not HR. The official
+  class booking page advertises a ten-week online Arabic cohort starting
+  November 15, 2026, indicating ongoing service delivery, not hiring.
   The Arabic-letter game was built in partnership with eduTechnoz; no
-  internal software stack is verified. Company verification remains
+  internal software stack is verified; Stripe and Zoom are named by the
+  company as external class-payment and video providers, not evidence of
+  an in-house engineering stack. Company verification remains
   partial because a current office pin, direct HR contact and current
   technical hiring are not established.
 evidence:
@@ -70,7 +76,7 @@ evidence:
     label: "StartupsJo founder contact and industry"
   - type: "official_website"
     url: "https://www.adamwamishmish.com/work-with-us"
-    label: "Official work-with-us page — join-team contact form; no listed openings (2026-10-28)"
+    label: "Official work-with-us page — join-team contact form; no listed openings (rechecked 2026-11-04)"
   - type: "official_website"
     url: "https://www.adamwamishmish.com/classes/dates"
     label: "Current Amman Circle Time sessions at partner venues, not a company office"
@@ -80,3 +86,9 @@ evidence:
   - type: "other"
     url: "https://edutechnoz.com/"
     label: "Technology partner independently describes the Adam Wa Mishmish Arabic-literacy game"
+  - type: "official_website"
+    url: "https://www.adamwamishmish.com/privacy"
+    label: "July 2026 privacy policy identifies general contact email and external Stripe/Zoom providers; not HR or internal stack (reviewed 2026-11-04)"
+  - type: "official_website"
+    url: "https://www.adamwamishmish.com/classes/dates"
+    label: "Online ten-week Arabic class cohort advertised to start November 15, 2026 (reviewed 2026-11-04)"
