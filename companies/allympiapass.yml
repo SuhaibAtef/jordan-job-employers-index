@@ -6,7 +6,7 @@ description: >-
   activity in Jordan, Lebanon, Egypt and Kuwait. Its current operational status
   could not be independently established in October 2026.
 verification_status: "partial"
-last_verified: "2026-10-17"
+last_verified: "2026-11-04"
 industry: "Fitness Technology / Sports and Wellness Memberships"
 website: "https://www.allympiapass.com"
 careers_url: null
@@ -45,6 +45,15 @@ notes: >-
   internship or graduate hiring program could be corroborated. Historical
   operations and an Amman location do not establish current full-company
   verification; the company remains partially verified.
+  Rechecked 2026-11-04: LinkedIn continues to describe a 2017-founded Amman
+  fitness-studio membership platform and reports 51-200 employees, but does
+  not provide evidence of active 2026 operations or recruitment. Dealroom's
+  recently crawled company profile instead estimates 2-10 employees, leaving
+  current staffing unresolved. CB Insights lists the historical company and
+  seed funding but its database classification is not independent proof of
+  an operating 2026 service. No company-confirmed active vacancy, HR contact,
+  current office occupancy, coordinates or production software stack was
+  established. The company therefore remains partially verified.
 evidence:
   - type: "official_website"
     url: "https://www.allympiapass.com"
@@ -69,4 +78,7 @@ evidence:
     label: "Former mobile developer reports Android and iOS work from 2017 to 2019"
   - type: "other"
     url: "https://app.dealroom.co/companies/allympiapass"
-    label: "Third-party company profile with conflicting 2-10 employee estimate"
+    label: "Third-party company profile with conflicting 2-10 employee estimate; rechecked 2026-11-04"
+  - type: "other"
+    url: "https://www.cbinsights.com/company/allympiapass"
+    label: "Company database profile: historical 2017 founding, Amman and seed funding; not evidence of current operations (checked 2026-11-04)"
