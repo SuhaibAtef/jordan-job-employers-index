@@ -1,6 +1,6 @@
 name: "Akhtaboot"
 verification_status: "partial"
-last_verified: "2026-10-28"
+last_verified: "2026-11-04"
 industry: "Staffing and Recruiting"
 description: "Akhtaboot is a Jordanian online recruitment and career platform connecting employers with job seekers across MENA. It operates a job marketplace and employer-recruiting services, and has historically run job fairs, internship and fresh-graduate initiatives."
 website: "https://www.akhtaboot.com"
@@ -29,7 +29,7 @@ job_seeker:
     - "Historical 2015 university career-fair handbook: paid IT internships, traineeships, fresh-graduate positions"
     - "Historical 2016 university career-fair handbook: internships and fresh-graduate opportunities; not confirmed open in 2026"
 notes: >-
-  Reviewed 2026-10-28 (previous review 2026-10-16). Akhtaboot is an Amman-headquartered online recruitment
+  Reviewed 2026-11-04 (previous review 2026-10-28). Akhtaboot is an Amman-headquartered online recruitment
   network and employer-facing hiring platform serving the MENA region. Its
   company LinkedIn lists 11-50 employees, founded 2007, and Emaar Towers,
   6th Circle, Amman 11181. A separate Jordan business directory corroborates
@@ -59,6 +59,14 @@ notes: >-
   Akhtaboot careers page, current internal opening or HR recruiting
   mailbox was confirmed. Partial company verification remains
   appropriate despite the independently supported office address.
+  On 2026-11-04 the public company LinkedIn profile continued to describe
+  Akhtaboot as a privately held staffing/recruiting business founded in 2007,
+  with 11-50 employees and its primary office at Emaar Towers, Sixth Circle,
+  Amman. This is company self-reporting, not an independent headcount audit.
+  The 2014 German Jordanian University career-fair handbook also documented
+  internships and fresh-graduate hiring historically; its then-current
+  Jordan headcount is not applicable to 2026. No fresh internal job opening,
+  HR-specific address, or validated technology stack was found in this review.
 evidence:
   - type: "official_website"
     url: "https://www.akhtaboot.com"
@@ -102,3 +110,6 @@ evidence:
   - type: "official_website"
     url: "https://example.akhtaboot.com/en/jordan/jobs/amman/167540-HR-Partner-at-International-Committee-of-the-Red-Cross--ICRC-"
     label: "Akhtaboot-hosted ICRC HR Partner vacancy posted 2026-10-14, deadline 2026-10-29; October 2026 marketplace activity, not Akhtaboot internal hiring"
+  - type: "career_fair"
+    url: "https://www.gju.edu.jo/sites/default/files/Office%20for%20Industrial%20Links/gju_job_fair_2014_handbook.pdf"
+    label: "Historical 2014 GJU employer handbook documenting Akhtaboot internships and graduate recruitment, not current vacancies"
