@@ -1,7 +1,7 @@
 name: "Apprikot"
 description: "Apprikot was established in 2015 as a Jordan-based mobile application and web development company and the technology development arm of Beecell International. Documented services included native iOS and Android applications, enterprise mobility, web development, and UX design. Current standalone operations and hiring activity were not independently confirmed in October 2026."
 verification_status: "partial"
-last_verified: "2026-10-17"
+last_verified: "2026-11-04"
 industry: "Software Development / Mobile Applications"
 website: null
 careers_url: null
@@ -40,6 +40,18 @@ notes: >-
   headcount. Android and iOS are historical development capabilities, not a
   confirmed 2026 internal technology stack. Previous generic Amman coordinates
   were removed because they did not identify a verified office.
+  Rechecked 2026-11-04: Beecell's official website documents October 2026
+  participation at Telemedia Marbella and lists Beecell careers and an Amman
+  mailing address, but it does not identify an operating Apprikot division.
+  Beecell's company LinkedIn profile still describes Apprikot as a
+  subsidiary, while its 2022 Jordan ICT profile lists only Tomandora as a
+  subsidiary. These differing descriptions cannot establish Apprikot's
+  current independent status. A 2016 Jordan ICT directory lists Apprikot's
+  historical Amman mailing address and management contacts, not current
+  appointments. Beecell recruitment instructions are not Apprikot openings.
+  No standalone active website, current Apprikot vacancy, HR contact,
+  verified office coordinates, current employee count, or technology stack
+  could be substantiated. Company verification remains partial.
 evidence:
   - type: "industry_directory"
     url: "https://jordanict.com/2017/company-profile/apprikot"
@@ -55,4 +67,12 @@ evidence:
     label: "Beecell official site: parent group activity and Amman contact, not standalone Apprikot confirmation"
   - type: "news"
     url: "https://www.prlog.org/12520809-apprikot-signs-strategic-agreement-with-koooracom-to-develop-mobile-application.html"
-    label: "December 2015 Apprikot announcement about Kooora agreement and Beecell spin-off (historical)"
+    label: "December 2015 Apprikot announcement about Kooora agreement and Beecell spin-off (historical)"  - type: "official_website"
+    url: "https://www.beecell.com/"
+    label: "Beecell official October 2026 activity and careers information; not standalone Apprikot operations (checked November 4, 2026)"
+  - type: "industry_directory"
+    url: "https://jordanict.com/2022/company-profile/beecell"
+    label: "2022 Beecell profile identifies Tomandora but does not list Apprikot among subsidiaries"
+  - type: "industry_directory"
+    url: "https://www.jordanict.com/2016/listings_page?section=mobile-content-services-apps"
+    label: "Historical 2016 Apprikot listing and Amman mailing address, not current staffing"
