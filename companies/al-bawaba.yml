@@ -6,7 +6,7 @@ description: >-
   a content licensing and syndication business, and operates the DISCO
   digital-content marketplace.
 verification_status: "partial"
-last_verified: "2026-10-28"
+last_verified: "2026-11-04"
 industry: "Digital publishing / Online media / Content licensing and syndication"
 website: "https://www.albawaba.com"
 careers_url: null
@@ -79,6 +79,15 @@ notes: >-
   remains unconfirmed. No dedicated careers page or HR email was verified.
   The self-reported 11-50 size is not a Jordan-only audited headcount, and
   historical technology evidence was not revalidated for current deployment.
+  Rechecked 2026-11-04: Official English and Arabic contact pages continue
+  to publish the same Amman headquarters address and general mailbox.
+  The official terms-of-use page independently repeats the principal-office
+  street address and confirms Jordanian legal jurisdiction. The official
+  About page continues to describe the publisher, SyndiGate and DISCO.
+  This is evidence for the corporate identity and stated address, not
+  independent confirmation of office occupancy, current vacancies, an HR
+  mailbox, exact coordinates, or current production technology versions.
+  Company verification therefore remains partial.
 evidence:
   - type: "official_website"
     url: "https://www.albawaba.com"
@@ -131,3 +140,9 @@ evidence:
   - type: "job_post"
     url: "https://jo.linkedin.com/jobs/view/editor-in-chief-arabic-news-at-al-bawaba-news-4480021671"
     label: "October 2026 separate Arabic News Editor in Chief Amman listing; no closed notice, live applications unconfirmed"
+  - type: "official_website"
+    url: "https://www.albawaba.com/abstatic/terms-use"
+    label: "Official terms of use independently repeats principal office address and Jordanian jurisdiction; rechecked November 4, 2026"
+  - type: "official_website"
+    url: "https://www.albawaba.com/ar/abstatic/%D8%A7%D8%AA%D8%B5%D9%84-%D8%A8%D9%86%D8%A7"
+    label: "Official Arabic contact page corroborates Amman office address and general email; rechecked November 4, 2026"
