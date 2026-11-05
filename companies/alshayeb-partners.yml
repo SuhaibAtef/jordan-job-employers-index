@@ -1,7 +1,7 @@
 name: "AlShayeb Partners"
 description: "AlShayeb Partners comprises three separately registered firms in Palestine and Jordan. Its Amman entity, AlShayeb for Programming and Consulting Ltd., provides software consulting, Odoo ERP implementation, migration, custom development and support. Related firms in Bethlehem and Ramallah provide audit, accounting, advisory and software services."
 verification_status: "partial"
-last_verified: "2026-10-17"
+last_verified: "2026-11-05"
 industry: "IT Services and Consulting / ERP (Odoo) / Audit and Advisory"
 website: "https://www.alshayebco.com/"
 careers_url: "https://www.alshayebco.com/jobs"
@@ -29,7 +29,7 @@ job_seeker:
   signals:
     - "Official trainee listing for audit, accounting, IT and development in Bethlehem, Palestine (not a confirmed Jordan opening)"
     - "Official Odoo Implementer / Remote Job listing based in Bethlehem (current vacancy status not independently confirmed)"
-notes: "Reviewed 2026-10-17. The official site distinguishes three separately registered businesses; the Jordan entity is AlShayeb for Programming and Consulting Ltd. Its Anani Center address is independently corroborated by Odoo's Jordan Silver Partner listing. Exact coordinates were not established. LinkedIn's 2-10 employee range is for the umbrella company profile, not a verified Jordan headcount. The official careers page lists a Bethlehem trainee role and a Bethlehem-based remote Odoo implementer role; neither confirms a currently open Amman vacancy. jobs@alshayebco.com is the group-level recruitment contact, not a dedicated Jordan HR address. The official team page documents Odoo 18/19, Python, PostgreSQL and Odoo.sh used by Bethlehem/remote developers; these are group capabilities, not independently verified technologies of Amman employees. The July 2026 Bethlehem senior auditor advertisement has an elapsed deadline. Full employer verification remains partial despite independently corroborated office address."
+notes: "Reviewed 2026-10-17. The official site distinguishes three separately registered businesses; the Jordan entity is AlShayeb for Programming and Consulting Ltd. Its Anani Center address is independently corroborated by Odoo's Jordan Silver Partner listing. Exact coordinates were not established. LinkedIn's 2-10 employee range is for the umbrella company profile, not a verified Jordan headcount. The official careers page lists a Bethlehem trainee role and a Bethlehem-based remote Odoo implementer role; neither confirms a currently open Amman vacancy. jobs@alshayebco.com is the group-level recruitment contact, not a dedicated Jordan HR address. The official team page documents Odoo 18/19, Python, PostgreSQL and Odoo.sh used by Bethlehem/remote developers; these are group capabilities, not independently verified technologies of Amman employees. The July 2026 Bethlehem senior auditor advertisement has an elapsed deadline. On 2026-11-05 the company LinkedIn feed also displayed a recent welcome post for a new Junior Audit Staff member, Dourine Hazboun; this supports recent group-level staffing activity in audit but is not a Jordan vacancy, proof of an open position, or evidence of Amman engineering hiring. Full employer verification remains partial despite independently corroborated office address."
 evidence:
   - type: "official_website"
     url: "https://www.alshayebco.com/"
@@ -57,4 +57,6 @@ evidence:
     label: "Company LinkedIn — 2-10 employees, Bethlehem headquarters and Amman presence; 2026 activity"
   - type: "official_website"
     url: "https://www.alshayebco.com/contactus"
-    label: "Official contact — Amman presence, Jordan telephone and general contact info@alshayebco.com"
+    label: "Official contact — Amman presence, Jordan telephone and general contact info@alshayebco.com"  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/alshayeb-partners"
+    label: "Reviewed 2026-11-05 — company feed welcomes new Junior Audit Staff member; group-level staffing signal, not an Amman vacancy"
