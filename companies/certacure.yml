@@ -1,19 +1,18 @@
 name: "CertaCure"
 description: "CertaCure is an Amman healthcare-IT company developing hospital information systems, electronic medical-record workflows, PACS, clinical decision support and voice-recognition integrations for hospitals and healthcare providers."
-verification_status: "verified"
-last_verified: "2026-10-07"
+verification_status: "partial"
+last_verified: "2026-11-05"
 industry: "HealthTech (hospital information systems)"
 website: "https://certacure.com"
-careers_url: "https://certacure.com/careers-location/jo/"
+careers_url: "https://certacure.com/careers/"
 linkedin: "https://www.linkedin.com/company/certacure"
 hr_email: null
 size: "11-50"
 location:
-  status: "provided_unverified"
   area: "Mecca Street, Amman"
-  address: "Mecca Street 147 Bldg, 2nd Floor, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.975453
+  address: "Mecca Street 147 Bldg, 2nd Floor, Amman 11192, Jordan"
+  status: "verified"
+  latitude: 31.975477
   longitude: 35.859869
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.975453,35.859869"
 categories:
@@ -22,17 +21,19 @@ categories:
 technologies:
   - ".NET"
   - "Git"
+  - "ASP.NET Web API"
+  - "SQL Server"
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman-based (est. 2016) healthcare IT firm building HMIS/EMR, PACS and clinical decision support for hospitals (Istishari, Al Kindi); runs a Jordan careers page with open developer roles."
+notes: "Reviewed 2026-11-05. Official website identifies CertaCure as a healthcare IT company established in 2016, offering hospital management and electronic patient record systems. Official contact page publishes Mecca Street 147 Building, 2nd Floor, Amman 11192, phone +962 795269091 and info@certacure.com (general, not HR). Its embedded map supplies coordinates 31.975477, 35.859869; location verified as company-published only, not independently surveyed. Official careers archive lists a senior developer role posted nine years ago, describing .NET, ASP.NET Web API, SQL Server and other technologies; this is historical job-stack evidence, not proof of current hiring or internal stack. Jordan careers-location page does not establish an active opening. Employee size 11-50 remains a third-party estimate; no dedicated HR email or current vacancy was verified. Company status partial because current operational and hiring details remain incomplete."
 evidence:
   - type: "official_website"
     url: "https://certacure.com"
     label: "Official website"
   - type: "careers"
     url: "https://certacure.com/careers-location/jo/"
-    label: "Careers / application page"
+    label: "Jordan careers-location page; no confirmed current opening"
   - type: "other"
     url: "https://www.jordanyp.com/company/375892/CertaCure"
     label: "Research source"
@@ -45,3 +46,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.975453,35.859869"
     label: "Google Maps location"
+  - type: "official_website"
+    url: "https://certacure.com/contact/"
+    label: "Official contact page with Amman address, general email, phone and embedded map coordinates; checked 2026-11-05"
+  - type: "careers"
+    url: "https://certacure.com/careers/"
+    label: "Official jobs archive; senior developer posting nine years old, not a live hiring signal"
