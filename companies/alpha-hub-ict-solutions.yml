@@ -57,6 +57,7 @@ evidence:
     label: "Historical Amman Cyber Security Engineer advertisement; applications closed"
   - type: "other"
     url: "https://intaj.net/user/2227/"
-    label: "Intaj company profile: Jordanian cybersecurity and networking business"  - type: "linkedin_company"
+    label: "Intaj company profile: Jordanian cybersecurity and networking business"
+  - type: "linkedin_company"
     url: "https://jo.linkedin.com/company/alpha-hub-think-security"
     label: "2026-11-05 review: company reports delivering Jordan National Cyber Drill 2026 with CybExer Technologies and NCSC; LinkedIn reports 11-50 employees and Amman 11821"
