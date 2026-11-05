@@ -1,7 +1,7 @@
 name: "Al Hodhud"
 description: "Al Hodhud is an Amman-based Jordanian educational-content and edtech company founded in 2011 by siblings Shaima and Mohammed Al-Bishtawi. It develops Arabic-language early-childhood curricula, interactive classroom and tablet learning materials, home-learning programs and children's educational apps, including the Salma reading program and My Cheerful Letters. Its Android app was updated in May 2025; a partner publicly announced an Arabic-learning mobile-app memorandum of understanding in late 2025."
 verification_status: "partial"
-last_verified: "2026-10-28"
+last_verified: "2026-11-05"
 industry: "Educational Technology / Arabic Children's Digital Content"
 website: "https://alhodhud.com/"
 careers_url: null
@@ -52,6 +52,12 @@ notes: >-
   are evidence of a published app portfolio, not proof of 2026 app
   development, recruitment or active office occupancy. No current direct
   vacancy, recruiting email, exact office pin or internal stack was found.
+  Rechecked 2026-11-05: The official Al Hodhud online product page for
+  "Al Hodhud at Home" is accessible and advertises a paid Arabic-language
+  self-learning program for children, with selectable one- or two-child
+  options. This confirms a currently published product offering, not
+  fulfillment, active hiring, current office occupancy or employee count.
+  No dedicated HR contact or internal technical stack was established.
 evidence:
   - type: "official_website"
     url: "https://alhodhud.com/"
@@ -83,3 +89,6 @@ evidence:
   - type: "other"
     url: "https://apps.apple.com/ua/app/%D8%A3%D8%B3%D8%A6%D9%84%D8%AA%D9%8A-%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D8%A9/id690515469"
     label: "Apple App Store: historical Questions Game, Alhodhud developer, Shaima Al-Bishtawi provider; latest listed version 2019-01-24"
+  - type: "official_website"
+    url: "https://alhodhud.com/product/alhodhud-at-home/"
+    label: "Official Al Hodhud at Home product page, accessed 2026-11-05; advertised Arabic-learning program, not hiring evidence"
