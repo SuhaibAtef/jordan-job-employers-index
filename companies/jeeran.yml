@@ -6,7 +6,7 @@ description: >-
   maintains a public LinkedIn profile, but current platform availability,
   operating activity and hiring could not be confirmed in October 2026.
 verification_status: "partial"
-last_verified: "2026-10-30"
+last_verified: "2026-11-05"
 industry: "Online Media / Local Discovery / User Reviews"
 website: "https://jeeran.com/"
 careers_url: null
@@ -82,7 +82,8 @@ evidence:
     label: "Historical Jeeran company overview and Amman PO Box; not proof of current operations"
   - type: "other"
     url: "https://www.address-mideast.com/JO/al-waha-2-complex-abd-al-rahim-al-hajj-mohammad-st-57-amman-jordan"
-    label: "Building-level listing only; does not identify Jeeran as tenant or verify prior coordinates"  - type: "company_listing"
+    label: "Building-level listing only; does not identify Jeeran as tenant or verify prior coordinates"
+  - type: "company_listing"
     url: "https://app.dealroom.co/companies/jeeran"
     label: "Dealroom company profile checked 2026-10-30; AI-generated closure claim uncorroborated and not treated as definitive"
   - type: "other"
