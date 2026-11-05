@@ -57,6 +57,7 @@ evidence:
     label: "Company LinkedIn — 2-10 employees, Bethlehem headquarters and Amman presence; 2026 activity"
   - type: "official_website"
     url: "https://www.alshayebco.com/contactus"
-    label: "Official contact — Amman presence, Jordan telephone and general contact info@alshayebco.com"  - type: "linkedin_company"
+    label: "Official contact — Amman presence, Jordan telephone and general contact info@alshayebco.com"
+  - type: "linkedin_company"
     url: "https://www.linkedin.com/company/alshayeb-partners"
     label: "Reviewed 2026-11-05 — company feed welcomes new Junior Audit Staff member; group-level staffing signal, not an Amman vacancy"
