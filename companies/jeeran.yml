@@ -61,6 +61,12 @@ notes: >-
   or precise coordinates could be confirmed. The old 2019 internship remains
   historical only. Company status stays partial pending first-party evidence
   of current activity or definitive cessation; location remains unverified.
+  Rechecked 2026-11-05: the public LinkedIn profile still lists the historical
+  local-discovery product, Amman headquarters, PO Box 9162 and an 11-50
+  employee band; these are profile claims, not proof of current staffing.
+  Bayt retains historical recruiting copy but no verified current vacancy.
+  Current operations, HR mailbox, exact office occupancy and technical stack
+  remain unconfirmed. Corrected a pre-existing malformed evidence-list entry.
 evidence:
   - type: "official_website"
     url: "https://jeeran.com/"
