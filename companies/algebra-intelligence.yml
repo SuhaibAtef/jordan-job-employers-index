@@ -1,19 +1,17 @@
 name: "Algebra Intelligence"
 description: "Algebra Intelligence is an Amman energy-technology company using AI, IoT and analytics to monitor energy assets, forecast consumption and detect operational inefficiencies. Its products target sectors such as telecom towers, commercial real estate and renewable-energy operations."
-verification_status: "verified"
-last_verified: "2026-10-07"
+verification_status: "partial"
+last_verified: "2026-11-05"
 industry: "Energy AI / IoT"
-website: "http://www.algebraintelligence.com"
+website: "https://algebraintelligence.com/"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/algebra-intelligence"
 hr_email: null
 size: "11-50"
 location:
-  status: "verified"
-  address: "Makkah Towers Complex, Al-Salam 2 Gate, Office 413, Mecca St., Amman 11821, Jordan"
   area: "Amman"
-  address: "Makkah Towers, Mecca St., Amman, Jordan"
-  status: "provided_unverified"
+  address: "Al-Salam 2 Gate, Office 413, Makkah Towers, Mecca Street, Amman, Jordan"
+  status: "verified"
   latitude: 31.97694
   longitude: 35.85567
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.97694,35.85567"
@@ -36,7 +34,7 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Amman AI-driven energy monitoring startup (founded 2020); TaQTaK product offers real-time plant monitoring, predictive maintenance and energy forecasting. | stack verified 2026-10-07: GulfTalent profile of IoT Integration Engineer (Dec 2023-present) lists Python/Java/Kotlin/C#/PHP skills, Java web-services+Angular and Spring Boot certs; TaQTaK ships Android/iOS/web platform (Ibtikar Fund)."
+notes: "Reviewed 2026-11-05. Official website confirms Jordan-based energy and maintenance IoT company founded 2020, with Taqtak energy monitoring and Donefy maintenance products. Official contact page publishes Al-Salam 2 Gate, Office 413, Makkah Towers, Mecca Street, Amman, and +962 79 280 0468. Address is company-published and corroborated by LinkedIn; recorded coordinates remain approximate and are not independently validated to the specific office. LinkedIn reports 11-50 employees, an estimate rather than a verified headcount. No dedicated HR contact or current vacancy established. Historical technical-stack evidence (GulfTalent engineer profile and product platforms) retained, but does not prove current internal use of every listed technology. Company status partial pending independent validation of hiring, staffing and technical stack."
 evidence:
   - type: "official_website"
     url: "http://www.algebraintelligence.com"
@@ -56,3 +54,12 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.97694,35.85567"
     label: "Google Maps location"
+  - type: "official_website"
+    url: "https://algebraintelligence.com/contact-us/"
+    label: "Official Jordan office address and phone; checked 2026-11-05"
+  - type: "official_website"
+    url: "https://algebraintelligence.com/"
+    label: "Official Taqtak and Donefy product descriptions; checked 2026-11-05"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/algebra-intelligence"
+    label: "Company location and 11-50 employee size range; checked 2026-11-05"
