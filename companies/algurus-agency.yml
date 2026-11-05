@@ -1,6 +1,6 @@
 name: "AlGurus Agency"
 verification_status: "partial"
-last_verified: "2026-10-28"
+last_verified: "2026-11-05"
 industry: "Marketing Services / Digital Marketing / E-commerce Development"
 description: >-
   AlGurus is an Amman-based digital marketing, performance advertising and
@@ -38,7 +38,7 @@ job_seeker:
   early_career_signal: false
   signals: []
 notes: >-
-  Reviewed 2026-10-28. The active official website, company LinkedIn profile,
+  Reviewed 2026-11-05 (following 2026-10-28 review). The active official website, company LinkedIn profile,
   and independent Shopify Partner Directory corroborate ongoing agency
   activity in Amman. Shopify lists AlGurus as a service partner active since
   March 2020, with Amman as its primary location and services including store
@@ -51,6 +51,12 @@ notes: >-
   is self-reported, not an audited headcount. The official website lists
   Um Uthaina, phone +962 79 100 6167 and Mohammad@algurus.com for general
   inquiries; the email is not a confirmed HR or recruitment contact.
+  On 2026-11-05 Shopify's live Partner Directory independently confirmed
+  the Amman service-partner listing, March 2020 partnership date, public
+  general contact Mohammad@algurus.com, and Shopify store-building, migration
+  and theme-customization services. The agency's current official website
+  continues to advertise digital marketing and web development. These sources
+  corroborate business activity but do not verify internal hiring.
   No dedicated careers page, open internal job vacancy or internship was
   established in this review. The agency's separate academy offers paid or
   organized marketing training, not employment opportunities. Listed
@@ -99,3 +105,9 @@ evidence:
   - type: "official_website"
     url: "https://algurus.com/service/digital-marketing-training-in-jordan/"
     label: "Agency training through AlGurus Academy, distinct from jobs; checked 2026-10-28"
+  - type: "company_listing"
+    url: "https://www.shopify.com/partners/directory/partner/algurus"
+    label: "Shopify live partner profile reconfirmed 2026-11-05; Amman location, partner since March 2020, general contact and client services"
+  - type: "official_website"
+    url: "https://algurus.com/"
+    label: "Official agency homepage rechecked 2026-11-05; current marketing and ecommerce development offerings"
