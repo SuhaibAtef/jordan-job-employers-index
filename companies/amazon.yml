@@ -1,7 +1,7 @@
 name: "Amazon"
 description: "Amazon operates a corporate and technology presence in Amman, Jordan, supporting Middle East commerce, software engineering, data and AI operations, customer service, and regional business functions. A corporate office opened in the Abdali district in 2021; Amazon's 2026 careers listings document subsequent recruitment in Amman."
 verification_status: "partial"
-last_verified: "2026-10-18"
+last_verified: "2026-11-05"
 industry: "E-commerce / Software and Technology"
 website: "https://www.amazon.com/"
 careers_url: "https://www.amazon.jobs/en/search?country=JOR&loc_query=Jordan"
@@ -32,6 +32,7 @@ job_seeker:
     - "June 2026 Amman AI Data Associate and customer service recruitment (current vacancy status unconfirmed)"
 notes: >-
   Reviewed 2026-10-18 (Jordan local date); company verification remains partial. The Royal Hashemite Court confirmed that Amazon inaugurated an Abdali-district corporate office on 2021-11-02 and employed approximately 1,220 Jordanians at that time; this historical Jordan headcount must not be treated as current. Amazon's LinkedIn company profile reports 10,001+ employees globally, not in Jordan. Amazon's official careers search indexed Amman roles posted in May-June 2026, including AI Data Associate, Customer Service Associate and Amazon Payment Services Software Development Engineer, supporting activity in Jordan, but the dynamically rendered current search did not allow confirmation that these particular vacancies remain open on the review date. Amazon Science listed a 2026 Applied Scientist Intern role with Jordan among possible EMEA locations; the listing is historical, not a confirmed October opening. Java, C++ and Python are evidenced as internship programming requirements, and distributed-systems work by historical SDE recruitment; none establishes an independently audited present-day Amman production stack. No dedicated public Jordan HR email, verified current Jordan headcount, precise street address, office building or independently supported pin coordinates were found. The Abdali location is approximate and is not proof of full-company verification.
+  Rechecked 2026-11-05: Amazon\u0027s own LinkedIn announcement confirms its Amman corporate office inaugurated in 2021 had planned capacity for more than 1,600 employees; capacity is not actual 2026 staffing. The official Amazon Jobs site remains accessible and advertises student opportunities globally, but does not establish a currently accepting Jordan-specific role from that page alone. A 2026 Software Development Engineer Intern - Jordan listing on LinkedIn explicitly states applications are no longer accepted; it is historical evidence of local internship recruitment, not an open vacancy. The public LinkedIn Amman search displayed a Software Development Engineer, Amazon Payment Services listing as actively hiring when indexed, but this third-party search status was not independently confirmed on Amazon\u0027s application site. Dedicated Jordan HR contact, current Jordan headcount and exact office coordinates remain unverified. Company verification remains partial.
 evidence:
   - type: "official_website"
     url: "https://www.amazon.com/"
@@ -51,3 +52,12 @@ evidence:
   - type: "job_post"
     url: "https://www.amazon.jobs/fr/jobs/2920108/sde-i-12-months-contract-mena-tech"
     label: "Historical Amman entry-level SDE I recruitment; listing no longer accessible"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/posts/amazon_today-we-had-the-privilege-of-inaugurating-activity-6861366848689197056-kZBX"
+    label: "Amazon corporate announcement of 2021 Amman office opening and planned capacity exceeding 1,600, not current headcount; reviewed 2026-11-05"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/2026-software-dev-engineer-intern-jordan-at-amazon-4344629500"
+    label: "2026 Amman software engineering internship; listing says no longer accepting applications on 2026-11-05"
+  - type: "careers"
+    url: "https://amazon.jobs/en"
+    label: "Official Amazon global careers portal with student opportunities; does not independently confirm currently open Jordan roles"
