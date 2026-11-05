@@ -5,7 +5,7 @@ description: >-
   drawings, BIM management, scan-to-BIM and digital-twin services for building
   and infrastructure projects in Jordan and other markets.
 verification_status: "partial"
-last_verified: "2026-10-17"
+last_verified: "2026-11-05"
 industry: "Construction Technology / BIM Engineering"
 website: "https://bimpad-eng.com"
 careers_url: "https://bimpad-eng.com/careers"
@@ -51,6 +51,18 @@ notes: >-
   could be established. The city-level location is company-provided, not an
   independently verified map pin. Partial company verification reflects the
   corroborated official service and recruitment footprint with these gaps.
+  Rechecked 2026-11-05: the official English homepage and Arabic site remain
+  accessible and publish Amman, +962 79 101 7381, team@bimpad-eng.com,
+  multidisciplinary BIM services, and Autodesk Revit, Navisworks, Dynamo,
+  AutoCAD, IFC/BCF and point-cloud workflows. The official careers page
+  continues to accept year-round applications and describes internship/training,
+  but this does not establish a dated vacancy or an available internship slot.
+  The homepage reports 70+ BIM projects and projects across multiple countries;
+  these are company-reported claims, not independently audited metrics.
+  No reliable current headcount, dedicated recruiting email, street-level
+  address, exact coordinates or confirmed company LinkedIn profile was found.
+  General team@bimpad-eng.com is not designated an HR contact. Status remains
+  partial; the Amman city-level location is not an independently verified pin.
 evidence:
   - type: "official_website"
     url: "https://bimpad-eng.com/"
@@ -66,4 +78,9 @@ evidence:
     label: "Historical full-time BIM Architect job in Amman; applications closed"
   - type: "linkedin_employee"
     url: "https://sa.linkedin.com/in/sadam-a-01828888"
-    label: "Self-reported BIMPAD engineering affiliation; not company-wide headcount evidence"
+    label: "Self-reported BIMPAD engineering affiliation; not company-wide headcount evidence"  - type: "official_website"
+    url: "https://bimpad-eng.com/"
+    label: "Official homepage rechecked 2026-11-05 — Amman contact, BIM services, project portfolio and technologies"
+  - type: "careers_page"
+    url: "https://bimpad-eng.com/careers"
+    label: "Official careers page rechecked 2026-11-05 — year-round applications and internship/training; no dated vacancy confirmed"
