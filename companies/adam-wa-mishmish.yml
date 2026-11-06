@@ -6,7 +6,7 @@ description: >-
   children. Its 2026 activities include Amman classes, a U.S. live tour and
   an Arabic-letter learning game developed with eduTechnoz.
 verification_status: "partial"
-last_verified: "2026-11-04"
+last_verified: "2026-11-06"
 industry: "Children's Edutainment / Arabic-Language Education and Media"
 website: "https://www.adamwamishmish.com"
 careers_url: "https://www.adamwamishmish.com/work-with-us"
@@ -29,7 +29,7 @@ job_seeker:
   signals:
     - "The official Work With Us page accepts join-the-team inquiries via a contact form; no specific open position or entry-level recruitment was listed on 2026-10-28."
 notes: >-
-  Reviewed 2026-11-04 (UTC). The official About page identifies Hend Baghdady as
+  Reviewed 2026-11-06 (UTC); previous review 2026-11-04. The official About page identifies Hend Baghdady as
   CEO and Luma Aladnani as co-founder and president; its footer places the
   business in Amman, Jordan. The current class calendar lists in-person
   Circle Time sessions at Moonbirds (6th Circle) and Tiny Tots (Swefieh
@@ -54,7 +54,15 @@ notes: >-
   company as external class-payment and video providers, not evidence of
   an in-house engineering stack. Company verification remains
   partial because a current office pin, direct HR contact and current
-  technical hiring are not established.
+  technical hiring are not established. On 2026-11-06 the official Work With
+  Us page still displayed a Join the team inquiry option but no named
+  vacancy; the same page chiefly advertises commercial bookings, sponsorship
+  and licensing, so these are not employment openings. The company LinkedIn
+  profile continued to self-report 2-10 employees and no usable headquarters
+  address. Its 2026 posts explicitly credit eduTechnoz as the technology
+  partner for the Arabic-letter game; app availability is not proof of an
+  in-house engineering stack. No current Jordan recruitment opening,
+  dedicated HR mailbox or precise office coordinates were established.
 evidence:
   - type: "official_website"
     url: "https://www.adamwamishmish.com/"
@@ -92,3 +100,9 @@ evidence:
   - type: "official_website"
     url: "https://www.adamwamishmish.com/classes/dates"
     label: "Online ten-week Arabic class cohort advertised to start November 15, 2026 (reviewed 2026-11-04)"
+  - type: "official_website"
+    url: "https://www.adamwamishmish.com/work-with-us"
+    label: "Rechecked 2026-11-06: Join the team contact form, no named vacancies; other options are commercial partnerships"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/adamwamishmish"
+    label: "Rechecked 2026-11-06: self-reported 2-10 employees, no usable headquarters address, eduTechnoz game partnership"
