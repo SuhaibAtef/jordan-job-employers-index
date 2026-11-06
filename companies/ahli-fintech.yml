@@ -1,7 +1,7 @@
 name: "AHLI FINTECH"
 description: "AHLI FINTECH is a wholly owned subsidiary of Jordan Ahli Bank that invests in and supports early-stage fintech startups through incubation, acceleration, mentoring, ecosystem partnerships and access to banking APIs and infrastructure. Its July 2026 InvoiceQ partnership supported e-invoicing for portfolio startups; its CEO was listed as a speaker at Jordan Fintech Festival 2026."
 verification_status: "partial"
-last_verified: "2026-11-04"
+last_verified: "2026-11-06"
 industry: "Fintech / Venture Capital, Incubation & Acceleration"
 website: "https://ahlifintech.com"
 careers_url: null
@@ -52,8 +52,7 @@ notes: >-
   Rechecked 2026-11-04: no confirmed direct vacancy, HR-specific contact, or
   precise office coordinates. Company verification remains partial
   notwithstanding the official office address.
-evidence:
-  - type: "official_website"
+  Rechecked 2026-11-06: the official website terms identify the registered\n  business as Ahli for Financial Technology company, a Jordanian private\n  shareholding company, registration 1206, with registered address at\n  King Hussein Business Park, Building 19, Floor 1. This strengthens\n  confidence in the published registered address but does not independently\n  verify physical occupancy or exact coordinates. The terms and privacy\n  policy give contact@ahlifintech.com as a general contact, not an HR inbox.\n  The official FAQ clarifies that hackathon/incubator applications are\n  startup-program applications rather than employment. An AHLI FINTECH-hosted\n  Account Manager hospitality-tech job page contains a submission form, but\n  the role is described for a portfolio startup, not confirmed as an\n  AHLI FINTECH direct vacancy; posting date and live acceptance are unknown.\n  A historical Jordan Ahli Bank Investment Associate job explicitly\n  describes work with AHLI FINTECH but is closed and does not demonstrate\n  current hiring. No verified internal engineering stack or audited headcount.\nevidence:\n  - type: "official_website"
     url: "https://ahlifintech.com"
     label: "Official website and company activities"
   - type: "official_website"
@@ -101,3 +100,15 @@ evidence:
   - type: "other"
     url: "https://www.jordanfinancialservices.com/sites/default/files/pdf_2023_whos_who_in_jordans_banking_insurance_and_financial_services.pdf"
     label: "2023 directory: historical UiPath RPA projects, not current internal stack"
+  - type: "official_website"
+    url: "https://ahlifintech.com/terms-and-conditions/"
+    label: "Official legal terms: Jordan company registration 1206 and registered Building 19 office address; reviewed 2026-11-06"
+  - type: "official_website"
+    url: "https://ahlifintech.com/faqs/"
+    label: "Official FAQs distinguish startup program applications from employment; reviewed 2026-11-06"
+  - type: "official_website"
+    url: "https://ahlifintech.com/job-post/account-manager-hospitality-tech/"
+    label: "AHLI FINTECH-hosted hospitality startup job form; not confirmed direct company hiring or live acceptance"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/investment-associate-fintech-programs-at-jordan-ahli-bank-3970881472"
+    label: "Historical closed Jordan Ahli Bank job describing AHLI FINTECH investment work, not current opening"
