@@ -1,10 +1,10 @@
 name: Arquiconsult
-description: Arquiconsult is a Portugal-headquartered IT consultancy delivering Microsoft Dynamics 365 ERP/CRM, analytics, Azure and Power Platform solutions. Its official 2024 recruitment notices advertised Dynamics 365 Finance and Supply Chain consulting roles in Amman; current Jordan office operations and vacancies remain unconfirmed.
+description: Arquiconsult is a Portugal-headquartered IT consultancy delivering Microsoft Dynamics 365 ERP/CRM, analytics, Azure and Power Platform solutions. Its official careers portal lists May 2026 Dynamics 365 Finance and Supply Chain consultant positions in Amman, including junior roles. These employer-posted listings establish recent Jordan recruitment activity, but current application acceptance and an occupied Jordan office remain unconfirmed.
 verification_status: partial
-last_verified: '2026-10-18'
+last_verified: '2026-11-06'
 industry: IT Services and IT Consulting / Microsoft Dynamics ERP and CRM
 website: https://arquiconsult.com/en/
-careers_url: https://arquiconsult.com/en/jobs-talents/
+careers_url: https://arquiconsult.com/en/arquitalent/
 linkedin: https://www.linkedin.com/company/arquiconsult
 hr_email: talent@arquiconsult.com
 size: 201-500
@@ -30,7 +30,8 @@ job_seeker:
   signals:
   - Historical 2024 Amman Junior Finance Functional Consultant posting (1-3 years experience)
   - Historical 2024 Amman Junior Supply Chain Functional Consultant posting (1-3 years experience)
-notes: Reviewed 2026-10-18. The official 2024 Amman Finance and Supply Chain Junior Functional Consultant adverts required 1-3 years of Dynamics 365 Finance and Operations experience and offered structured training and Microsoft certifications; these are historical early-career hiring signals, not confirmed open vacancies. The current official 2026 jobs archive lists vacancies in other countries but no confirmed Jordan-specific role. The current official global contacts page does not list a Jordan office, so no current Amman office address, office coordinates, or Jordan-specific headcount can be verified; Amman is retained only as a historically documented recruitment location. The official career adverts and recruitment pages identify talent@arquiconsult.com as the group recruitment mailbox, not a Jordan-dedicated HR contact. LinkedIn reports 201-500 global employees, headquartered in Odivelas, Portugal. Technologies reflect official client-facing products and consulting capabilities, not an independently verified internal engineering stack.
+  - Official careers portal lists May 2026 Amman junior Finance and Supply Chain consultant roles and a senior Finance consultant role; current application acceptance not independently confirmed
+notes: 2026-11-06 recheck: The official Arquitalent careers page 3 lists three May 2026 Amman, Jordan postings (junior Finance Functional Consultant on May 8, junior Supply Chain Functional Consultant on May 7, senior Finance Functional Consultant on May 6). These are newer employer-authored Jordan recruitment signals than the previously recorded 2024 postings; the listing remains on the employer's site but an application submission was not tested, so live acceptance is unconfirmed. The global contacts section still does not show a Jordan street address or coordinates; do not infer an occupied Amman office from job locations. The Arquiconsult MENA LinkedIn profile reports ongoing regional activity but lists Riyadh headquarters and no Amman address. The group size remains self-reported and not Jordan-specific; Microsoft technologies are service capabilities, not proof of an internal engineering stack. Previous review: 2026-10-18. The official 2024 Amman Finance and Supply Chain Junior Functional Consultant adverts required 1-3 years of Dynamics 365 Finance and Operations experience and offered structured training and Microsoft certifications; these are historical early-career hiring signals, not confirmed open vacancies. The current official 2026 jobs archive lists vacancies in other countries but no confirmed Jordan-specific role. The current official global contacts page does not list a Jordan office, so no current Amman office address, office coordinates, or Jordan-specific headcount can be verified; Amman is retained only as a historically documented recruitment location. The official career adverts and recruitment pages identify talent@arquiconsult.com as the group recruitment mailbox, not a Jordan-dedicated HR contact. LinkedIn reports 201-500 global employees, headquartered in Odivelas, Portugal. Technologies reflect official client-facing products and consulting capabilities, not an independently verified internal engineering stack.
 evidence:
 - type: official_website
   url: https://arquiconsult.com/en/
@@ -49,4 +50,9 @@ evidence:
   label: Current global office directory — no Jordan location listed, preventing office-address confirmation
 - type: linkedin_company
   url: https://www.linkedin.com/company/arquiconsult/
-  label: Official LinkedIn company profile — Portugal headquarters, 201-500 global employees, Microsoft consulting specialties
+  label: Official LinkedIn company profile — Portugal headquarters, 201-500 global employees, Microsoft consulting specialties- type: careers_page
+  url: https://arquiconsult.com/en/arquitalent/page/3/
+  label: Official careers portal checked 2026-11-06; May 2026 Amman junior Finance, junior Supply Chain, and senior Finance consultant listings; application acceptance unconfirmed
+- type: linkedin_company
+  url: https://sa.linkedin.com/company/arquiconsultmena
+  label: Arquiconsult MENA regional profile checked 2026-11-06; recent activity, Riyadh headquarters, no verified Amman street address
