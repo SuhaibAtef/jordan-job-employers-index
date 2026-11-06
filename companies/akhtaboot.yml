@@ -1,6 +1,6 @@
 name: "Akhtaboot"
 verification_status: "partial"
-last_verified: "2026-11-04"
+last_verified: "2026-11-06"
 industry: "Staffing and Recruiting"
 description: "Akhtaboot is a Jordanian online recruitment and career platform connecting employers with job seekers across MENA. It operates a job marketplace and employer-recruiting services, and has historically run job fairs, internship and fresh-graduate initiatives."
 website: "https://www.akhtaboot.com"
@@ -67,6 +67,19 @@ notes: >-
   internships and fresh-graduate hiring historically; its then-current
   Jordan headcount is not applicable to 2026. No fresh internal job opening,
   HR-specific address, or validated technology stack was found in this review.
+  Reviewed again 2026-11-06: the publicly accessible Akhtaboot company LinkedIn
+  profile still reports staffing and recruiting, 11-50 employees, and Emaar
+  Towers at Sixth Circle, Amman. These are self-reported company details,
+  not audited employee counts or independently measured office occupancy.
+  The Akhtaboot-hosted employer-services page describes ZenATS applicant
+  tracking, Career Connect recruitment management and Testello assessments;
+  these are marketed products, not proof of the company's internal stack.
+  Its employer contact sales@akhtaboot.com is for sales, not verified HR.
+  October 2026 jobs displayed on Akhtaboot identify other organizations as
+  employers and do not demonstrate Akhtaboot hiring. No current internal
+  vacancy or dedicated recruiting email was established. Coordinates were
+  retained without fresh independent geospatial validation; partial status
+  remains appropriate.
 evidence:
   - type: "official_website"
     url: "https://www.akhtaboot.com"
@@ -113,3 +126,9 @@ evidence:
   - type: "career_fair"
     url: "https://www.gju.edu.jo/sites/default/files/Office%20for%20Industrial%20Links/gju_job_fair_2014_handbook.pdf"
     label: "Historical 2014 GJU employer handbook documenting Akhtaboot internships and graduate recruitment, not current vacancies"
+  - type: "official_website"
+    url: "https://example.akhtaboot.com/en/companies/new"
+    label: "Employer registration and recruitment-sales contact, reviewed 2026-11-06; not an HR address"
+  - type: "official_website"
+    url: "https://example.akhtaboot.com/ar/about"
+    label: "Akhtaboot-hosted Arabic company overview, services and mobile applications, reviewed 2026-11-06"
