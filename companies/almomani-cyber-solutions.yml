@@ -1,5 +1,5 @@
 name: Almomani Cyber Solutions
-last_verified: '2026-10-28'
+last_verified: '2026-11-06'
 industry: IT Services and IT Consulting / Cybersecurity
 description: Amman-based cybersecurity and IT consultancy providing managed SOC, incident
   response, vulnerability assessment, DevSecOps, cloud infrastructure, software development
@@ -44,7 +44,17 @@ job_seeker:
   - Full Stack Development Internship (three-month training; registration open)
   - Cybersecurity Defense Engineer Internship (three-month training; registration open)
 notes: >-
-  Reviewed 2026-10-28. Official contact page continues to identify Al Quds Center,
+  Rechecked 2026-11-06. The live official website still advertises managed SOC,
+  incident response, cloud services, DevSecOps and security assessments. Its
+  contact page continues to list Al Quds Center, Building 224, Office 210,
+  Wasfi Al Tall Street, Amman 11953, +962 785314928 and general mailbox
+  info@almomanicybersolutions.com. Both official three-month training programs
+  still display Open for Registration; these are educational registrations,
+  not verified salaried vacancies. The website's claims of 20+ experts and
+  4K+ security projects are unverified marketing figures, not a reliable
+  Jordan employee count. No dedicated HR contact, paid opening, independently
+  verified headcount, or precise office coordinates was established.
+  Previously reviewed 2026-10-28. Official contact page continues to identify Al Quds Center,
   Building 224, Office 210, Wasfi Al Tall Street, Amman 11953, phone +962 785314928
   and general email info@almomanicybersolutions.com. LinkedIn self-reports 2-10
   employees, founded 2024, and advertises internships and a Growth Lead (Marketing
@@ -101,4 +111,7 @@ evidence:
 - type: job_post
   url: https://www.linkedin.com/jobs/view/growth-lead-at-almomani-cyber-solutions-4457744355
   label: Growth Lead posting; LinkedIn job card misgeocodes Jordan as Pennsylvania
+- type: official_website
+  url: https://almomanicybersolutions.com/en/service/devsecops/
+  label: Official DevSecOps service description rechecked 2026-11-06
 verification_status: partial
