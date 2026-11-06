@@ -1,7 +1,7 @@
 name: "Bayut.jo"
 description: "Bayut.jo is the Jordan property-listings portal of Dubizzle Group, connecting buyers and renters with property agents and advertisers. The group's Amman operation also supports regional Bayut and dubizzle businesses through sales, marketing, content, design and operations functions; this does not establish a Jordan-based software engineering team."
 verification_status: "partial"
-last_verified: "2026-10-17"
+last_verified: "2026-11-06"
 industry: "PropTech / Real Estate Portal"
 website: "https://www.bayut.jo"
 careers_url: "https://apply.workable.com/bayutdubizzle/"
@@ -33,7 +33,7 @@ job_seeker:
     - "Historical Amman sales recruitment: Sales Manager (February 2025) and Account Manager (October 2025); these are not confirmed open in October 2026."
     - "Group-wide careers and application portal exists; no current Jordan-specific opening was confirmed in this review."
 notes: >-
-  Reviewed 2026-10-17. Dubizzle Group's official brand directory explicitly links
+  Rechecked 2026-11-06. The live Bayut | dubizzle Workable careers portal\n  explicitly lists a Jordan office on Princess Basmah Street, Amman,\n  displays a Jordan office gallery, and reports nine offices across six\n  countries including Jordan. It lists 40 group-wide openings at review,\n  but no Jordan-specific vacancy was confirmed; its generic resume intake\n  explicitly solicits UAE candidates and is not a Jordan HR mailbox.\n  Great Place to Work Jordan continues to display its October 2025 profile\n  identifying 49 Jordan-based staff and the Abdoun support operation; this\n  is a dated reported headcount, not a fresh 2026 census. The 2026 Best\n  Workplaces Jordan listing also includes Bayut Dubizzle in Amman, providing\n  contemporary corroboration of the employer presence. Street number,\n  precise office coordinates and Jordan engineering recruitment remain\n  unconfirmed. Previously reviewed 2026-10-17. Dubizzle Group's official brand directory explicitly links
   Bayut Jordan to bayut.jo. Its official website reports over 2,600 employees
   worldwide, whereas LinkedIn shows a different global employee-size band;
   neither is a Jordan headcount. Great Place to Work Jordan's October 2025
@@ -83,3 +83,9 @@ evidence:
   - type: "linkedin_employee"
     url: "https://www.linkedin.com/company/dubizzlelabs"
     label: "Dubizzle Labs engineering arm; does not establish a Jordan-based engineering team"
+  - type: "careers_page"
+    url: "https://apply.workable.com/bayutdubizzle/"
+    label: "Official Workable portal rechecked 2026-11-06 — Jordan office, Princess Basmah Street, 40 group-wide roles; no confirmed Jordan vacancy"
+  - type: "other"
+    url: "https://greatplacetowork.jo/best-workplace-cat/best-workplaces-jordan/2025-best-workplaces-jordan/"
+    label: "Best Workplaces in Jordan 2026 — Bayut Dubizzle listed in Amman"
