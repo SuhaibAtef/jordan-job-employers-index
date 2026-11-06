@@ -52,7 +52,23 @@ notes: >-
   Rechecked 2026-11-04: no confirmed direct vacancy, HR-specific contact, or
   precise office coordinates. Company verification remains partial
   notwithstanding the official office address.
-  Rechecked 2026-11-06: the official website terms identify the registered\n  business as Ahli for Financial Technology company, a Jordanian private\n  shareholding company, registration 1206, with registered address at\n  King Hussein Business Park, Building 19, Floor 1. This strengthens\n  confidence in the published registered address but does not independently\n  verify physical occupancy or exact coordinates. The terms and privacy\n  policy give contact@ahlifintech.com as a general contact, not an HR inbox.\n  The official FAQ clarifies that hackathon/incubator applications are\n  startup-program applications rather than employment. An AHLI FINTECH-hosted\n  Account Manager hospitality-tech job page contains a submission form, but\n  the role is described for a portfolio startup, not confirmed as an\n  AHLI FINTECH direct vacancy; posting date and live acceptance are unknown.\n  A historical Jordan Ahli Bank Investment Associate job explicitly\n  describes work with AHLI FINTECH but is closed and does not demonstrate\n  current hiring. No verified internal engineering stack or audited headcount.\nevidence:\n  - type: "official_website"
+  Rechecked 2026-11-06: the official website terms identify the registered
+  business as Ahli for Financial Technology company, a Jordanian private
+  shareholding company, registration 1206, with registered address at
+  King Hussein Business Park, Building 19, Floor 1. This strengthens
+  confidence in the published registered address but does not independently
+  verify physical occupancy or exact coordinates. The terms and privacy
+  policy give contact@ahlifintech.com as a general contact, not an HR inbox.
+  The official FAQ clarifies that hackathon/incubator applications are
+  startup-program applications rather than employment. An AHLI FINTECH-hosted
+  Account Manager hospitality-tech job page contains a submission form, but
+  the role is described for a portfolio startup, not confirmed as an
+  AHLI FINTECH direct vacancy; posting date and live acceptance are unknown.
+  A historical Jordan Ahli Bank Investment Associate job explicitly
+  describes work with AHLI FINTECH but is closed and does not demonstrate
+  current hiring. No verified internal engineering stack or audited headcount.
+evidence:
+  - type: "official_website"
     url: "https://ahlifintech.com"
     label: "Official website and company activities"
   - type: "official_website"
