@@ -6,7 +6,7 @@ description: >-
   activity in Jordan, Lebanon, Egypt and Kuwait. Its current operational status
   could not be independently established in October 2026.
 verification_status: "partial"
-last_verified: "2026-11-04"
+last_verified: "2026-11-07"
 industry: "Fitness Technology / Sports and Wellness Memberships"
 website: "https://www.allympiapass.com"
 careers_url: null
@@ -54,13 +54,22 @@ notes: >-
   an operating 2026 service. No company-confirmed active vacancy, HR contact,
   current office occupancy, coordinates or production software stack was
   established. The company therefore remains partially verified.
+  Rechecked 2026-11-07: Public LinkedIn profile still identifies the 2017-founded
+  Amman fitness-membership business, shows a self-reported 51-200 employee
+  range and only five visible associated profiles; neither number verifies
+  present payroll. LinkedIn labels its industry Spectator Sports, while its
+  own business description establishes the more specific fitness membership
+  model. Its company-listed website was inaccessible during this review.
+  No dated 2026 company update, direct job posting, careers portal, recruiting
+  contact, independently confirmed office occupancy or GPS coordinates was
+  established. No evidence justifies upgrading company-level verification.
 evidence:
   - type: "official_website"
     url: "https://www.allympiapass.com"
     label: "Company-listed website; inaccessible during review on 2026-10-17"
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/allympiapass"
-    label: "Company profile: 2017 founding, Amman headquarters, self-reported 51-200 size band"
+    label: "Company profile: 2017 founding, Amman headquarters, self-reported 51-200 size band; rechecked 2026-11-07 (five visible profiles do not verify headcount)"
   - type: "other"
     url: "https://jordantimes.com/news/business/allympiapass-regions-largest-fitness-network-celebrates-first-anniversary"
     label: "Jordan Times, 2018-10-18: historical operations and fitness membership product"
