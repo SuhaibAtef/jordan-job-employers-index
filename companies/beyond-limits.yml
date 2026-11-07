@@ -3,7 +3,7 @@ description: Beyond Limits (also branded BeyondAI) develops enterprise and indus
   learning, generative AI and neuro-symbolic reasoning. Its official website lists an Amman office and a Jordan
   engineering recruitment presence.
 verification_status: partial
-last_verified: '2026-10-22'
+last_verified: '2026-11-07'
 industry: Enterprise AI / Industrial AI Software
 website: https://www.beyond.ai/
 careers_url: https://www.beyond.ai/careers
@@ -43,6 +43,7 @@ job_seeker:
   - An official QA Automation Engineer application page described an on-site Jordan role requiring 5-8 years of
     QA experience; this standalone page may outlast its current listing.
   - Official job application privacy text identifies recruiting@beyond.ai as a recruitment contact.
+  - Official careers directory still advertises an early-career hybrid DevOps Engineer role in Amman (checked 2026-11-07); application acceptance not independently tested.
 notes: Reviewed 2026-10-22. The company also uses the BeyondAI brand. Its official contact page publishes the Shmeisani,
   Amman address, but current physical occupancy and building-level coordinates were not independently verified.
   LinkedIn reports 201-500 employees worldwide; Jordan headcount is unknown. The official careers page displayed
@@ -54,6 +55,15 @@ notes: Reviewed 2026-10-22. The company also uses the BeyondAI brand. Its offici
   which were not independently reconfirmed in current official material. The former coordinate pin was removed because
   it was not tied reliably to the published office address. Company-level verification remains partial despite official
   location and recruitment evidence.
+  Rechecked 2026-11-07: The official contact page continues to publish 11 Al Thaqafa Street,
+  Abdallat Center, Shmeisani, Amman; physical occupancy and precise coordinates remain unconfirmed.
+  The live official careers directory advertises a hybrid full-time DevOps Engineer role in Amman
+  and explicitly welcomes early-career applicants. Its standalone Machine Learning QA role is
+  marked remote/EMEA, not specifically Jordan; it requires Python and SQL familiarity and 8-14
+  years of experience. The platform documentation describes neuro-symbolic reasoning, LLMOps,
+  MLOps and agent orchestration as company products, not proof of every engineer's current stack.
+  The official application page identifies recruiting@beyond.ai for recruitment/privacy inquiries.
+  Global headcount and actual acceptance of applications remain unverified; status stays partial.
 evidence:
 - type: official_website
   url: https://www.beyond.ai/
@@ -86,4 +96,9 @@ evidence:
   label: Historical third-party Amman UX research listing; not current vacancy evidence
 - type: other
   url: https://www.twine.net/irshaidt
-  label: Historical individual-profile research source; not authoritative for current company stack
+  label: Historical individual-profile research source; not authoritative for current company stack- type: careers_page
+  url: https://www.beyond.ai/careers
+  label: Rechecked 2026-11-07; official directory lists early-career hybrid DevOps Engineer in Amman
+- type: job_post
+  url: https://www.beyond.ai/careers/machine-learning-qa
+  label: Official remote EMEA Machine Learning QA role, 8-14 years; not specifically Jordan (checked 2026-11-07)
