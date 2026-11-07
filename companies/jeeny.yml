@@ -3,7 +3,7 @@ description: Jeeny is a regional ride-hailing and on-demand mobility platform of
   payments/wallet features and delivery-related services. It operates in Jordan and Saudi Arabia, is headquartered
   in Riyadh and maintains a regional office in Amman.
 verification_status: partial
-last_verified: '2026-10-16'
+last_verified: '2026-11-07'
 industry: Mobility Technology / Ride-hailing / On-demand Logistics
 website: https://www.jeeny.me
 careers_url: https://apply.workable.com/jeeny/
@@ -40,7 +40,9 @@ job_seeker:
   - Senior Business Development Manager - Amman listed on Jeeny's Workable job board during October 2026 review.
   - Historical graduate/associate software-engineer recruiting evidence; current Jordan graduate-engineer
     openings not confirmed.
-notes: Reviewed 2026-10-16. Official Jeeny contact page confirms the Amman regional-office address (Mecca
+  - Official Workable board listed Amman on-site Sales Agent and Live Operations Agent positions on 2026-11-07; listings do not guarantee successful application submission.
+notes: >-
+  2026-11-07 review: Jeeny official Jordan privacy policy identifies Bab Al Qamar for Website Management LLC as the Jordan controller and repeats the Mecca Street, Al-Hijaz Tower, Building 158 Amman address; this supports the published office address but not the recorded coordinates or current physical occupancy. Official Jeeny Workable board displayed 12 jobs, including on-site Amman Sales Agent and Live Operations Agent roles, checked 2026-11-07; direct application submission was not tested. Sales Agent description requests a high-school certificate and rotating-shift availability, an entry-level hiring signal. No Jordan-specific HR mailbox or audited headcount was found; the privacy-policy DPO is not an HR contact. Existing technology tags remain job-advert requirements, not verified deployments. Previous review: 2026-10-16. Official Jeeny contact page confirms the Amman regional-office address (Mecca
   St., Al Hijaz Tower, Building 158), and LinkedIn independently lists Mecca Street 158 and company size 201-500;
   headquarters is Riyadh, not Amman. The existing coordinate pair (31.975671, 35.8609) is retained as an approximate
   map pin, NOT independently verified as the office entrance; location.status is therefore approximate despite
@@ -82,3 +84,12 @@ evidence:
 - type: google_maps
   url: https://www.google.com/maps/search/?api=1&query=31.975671,35.8609
   label: Previously recorded approximate map pin; exact Jeeny office location not independently confirmed
+- type: official_website
+  url: https://www.jeeny.me/en/privacy-policy-jo
+  label: Official Jordan privacy policy checked 2026-11-07; identifies local controller and Mecca Street office address, not office coordinates
+- type: careers
+  url: https://apply.workable.com/jeeny/?lng=en
+  label: Official Jeeny Workable board checked 2026-11-07; 12 jobs including Amman Sales Agent and Live Operations Agent listings
+- type: job_post
+  url: https://apply.workable.com/jeeny/j/C3F8637037/
+  label: Amman on-site full-time Sales Agent posting checked 2026-11-07; high-school qualification and rotating shifts
