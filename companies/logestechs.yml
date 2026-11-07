@@ -42,8 +42,18 @@ notes: >-
   features and integrations alone do not establish implementation tools.
   Company-level verification remains partial because live hiring, HR
   availability, engineering stack and office coordinates remain unresolved.
+  Rechecked 2026-11-07: The official website continues to advertise delivery,
+  warehouse, order, transport, returns, accounting and analytics modules.
+  The company LinkedIn profile contains recent product updates (including
+  smart shipment routing and warehouse expiry alerts), supporting ongoing
+  public business activity but not Jordan office occupancy. The historical
+  Jordan implementation/customer-success vacancies still show applications
+  closed; no current direct Jordan opening was confirmed. The previously
+  published career@logestechs.com is retained only as a historical job-post
+  application address, not a verified currently monitored HR mailbox.
+  No exact office coordinates or internal engineering stack were verified.
 verification_status: "partial"
-last_verified: "2026-10-19"
+last_verified: "2026-11-07"
 evidence:
   - type: "official_website"
     url: "https://logestechs.com/"
@@ -59,4 +69,6 @@ evidence:
     label: "Historical Jordan junior/early-career hiring and career@logestechs.com; closed by 2026-10-19"
   - type: "job_post"
     url: "https://jo.linkedin.com/jobs/view/sales-executive-at-logestechs-4227245599"
-    label: "Historical Jordan/Lebanon remote sales hiring; closed by 2026-10-19"
+    label: "Historical Jordan/Lebanon remote sales hiring; closed by 2026-10-19"  - type: "linkedin_company"
+    url: "https://sa.linkedin.com/company/logestechs"
+    label: "Company product updates visible in November 2026 — ongoing public activity, not proof of Jordan hiring or office occupancy"
