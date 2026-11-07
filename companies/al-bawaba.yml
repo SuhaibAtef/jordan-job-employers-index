@@ -6,7 +6,7 @@ description: >-
   a content licensing and syndication business, and operates the DISCO
   digital-content marketplace.
 verification_status: "partial"
-last_verified: "2026-11-04"
+last_verified: "2026-11-07"
 industry: "Digital publishing / Online media / Content licensing and syndication"
 website: "https://www.albawaba.com"
 careers_url: null
@@ -88,6 +88,17 @@ notes: >-
   independent confirmation of office occupancy, current vacancies, an HR
   mailbox, exact coordinates, or current production technology versions.
   Company verification therefore remains partial.
+  Rechecked 2026-11-07: The official English contact and About pages still
+  publish the Amman headquarters at The Plenary, fourth floor, 74 Abdel
+  Hamid Sharaf Street, and contact@albawaba.com as a general mailbox.
+  Al Bawaba News LinkedIn continues to self-report 11-50 employees and
+  an online-media business. Recent third-party Arabic Editor in Chief
+  listings display November 2026 deadlines, but these are not employer-
+  confirmed openings and their live application status is unverified.
+  No direct careers portal, dedicated HR mailbox, precise office coordinates,
+  or current deployment of the historical technologies was established.
+  The published address supports location confidence, not complete company
+  verification; status remains partial.
 evidence:
   - type: "official_website"
     url: "https://www.albawaba.com"
@@ -146,3 +157,6 @@ evidence:
   - type: "official_website"
     url: "https://www.albawaba.com/ar/abstatic/%D8%A7%D8%AA%D8%B5%D9%84-%D8%A8%D9%86%D8%A7"
     label: "Official Arabic contact page corroborates Amman office address and general email; rechecked November 4, 2026"
+  - type: "job_post"
+    url: "https://bebee.com/jo/jobs/editor-in-chief-arabic-al-bawaba-news-amman--fj-2432694201"
+    label: "Third-party Arabic Editor in Chief listing showing November 24, 2026 deadline; application status unconfirmed at November 7 review"
