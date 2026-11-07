@@ -37,6 +37,15 @@ notes: >-
   out-of-business date in December 2024, but the underlying profile was not
   independently retrievable in this review; do not treat shutdown as confirmed.
   The company is historically documented, but present operations remain uncertain.
+  Reviewed 2026-11-07: the company LinkedIn profile still describes football
+  competition automation, data management and fan engagement, with Amman as
+  headquarters, 2021 as founding year and 2-10 self-reported employees.
+  A separately retrievable Flat6Labs 2023 investor brief corroborates the
+  historical B2B competition platform, live data and B2C mobile product.
+  An executive's 2024 account describes a WAFF U23 Championship collaboration;
+  this is historical project evidence, not proof of 2026 operations or hiring.
+  No current company vacancy, HR mailbox, street address, precise coordinates,
+  audited headcount or internal engineering stack was independently confirmed.
 evidence:
   - type: "other"
     url: "https://www.flat6labs.com/wp-content/uploads/2023/07/Post-Demo-Day-Amman-Cycle-Four-.pdf"
@@ -50,5 +59,11 @@ evidence:
   - type: "official_website"
     url: "https://www.kabaten.com"
     label: "Historical official domain; unavailable at 2026-10-18 review"
+  - type: "other"
+    url: "https://www.flat6labs.com/wp-content/uploads/2023/07/Flat6Labs-4th-Demo-Day-in-Amman-Investor-Brief-1-3.pdf"
+    label: "Flat6Labs investor brief independently retrievable in November 2026; historical products and leadership"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/posts/ozhadid_kabaten-technologys-collaboration-with-the-activity-7201507626101227521-iEPg"
+    label: "Executive account of 2024 WAFF U23 football data collaboration; historical, not current hiring"
 verification_status: "partial"
-last_verified: "2026-10-18"
+last_verified: "2026-11-07"
