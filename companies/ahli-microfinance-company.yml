@@ -8,7 +8,7 @@ description: >-
   general applications; the linked application forms were reachable on
   2026-10-28, although posting dates and deadlines were not displayed.
 verification_status: "partial"
-last_verified: "2026-11-04"
+last_verified: "2026-11-07"
 industry: "Microfinance / Financial Services"
 website: "https://amc.com.jo"
 careers_url: "https://amc.com.jo/en/career"
@@ -105,3 +105,9 @@ evidence:
   - type: "other"
     url: "https://cbj.gov.jo/en/listdetails/guide_of_microfinance_sector/2382/1"
     label: "Central Bank of Jordan directory, head-office address and contact; rechecked 2026-11-04"
+  - type: "careers"
+    url: "https://amc.com.jo/ar/career"
+    label: "Official Arabic vacancy directory rechecked 2026-11-07; same three application categories, no posting dates"
+  - type: "official_website"
+    url: "https://amc.com.jo/en/contact"
+    label: "Official contact page rechecked 2026-11-07; Al Jandaweel head office and general contact mailbox"
