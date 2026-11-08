@@ -1,10 +1,10 @@
 name: "Alpha Hub ICT Solutions"
 description: "Alpha Hub is an Amman-based cybersecurity and network-security solutions provider established in 2005. It offers incident response, threat intelligence, security assessments, penetration testing, endpoint and network detection and response, and security services for IT and operational-technology environments."
 verification_status: "partial"
-last_verified: "2026-11-05"
+last_verified: "2026-11-08"
 industry: "Cybersecurity / Network Security"
 website: "https://alpha-hub.com/"
-careers_url: null
+careers_url: "https://alpha-hub.com/careers/"
 linkedin: "https://www.linkedin.com/company/alpha-hub-think-security"
 hr_email: null
 size: "11-50"
@@ -28,9 +28,15 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals:
-    - "Historical Amman Cyber Security Engineer advertisement required 2+ years of experience; no currently open vacancy confirmed on 2026-10-18."
-notes: "Official contact page and JordanYP both identify Crown Complex, third floor, Amman; precise street and coordinates are not verified. info@alpha-hub.com is an official general-contact address, not a confirmed HR mailbox. LinkedIn reports 11-50 employees (self-reported range). Company LinkedIn posts in 2026 report delivery of Jordan's National Cyber Drill 2026 with CybExer Technologies for the National Cyber Security Center, corroborating recent operations. Listed technologies are offered cybersecurity solutions and service competencies, not a verified internal software-development stack. No official careers page, dedicated HR contact, or currently open Jordan vacancy or internship was established in the 2026-11-05 review. The official website lists info@alpha-hub.com and +962 6 55 16616 as general business contacts, not HR contacts. Company LinkedIn lists Amman 11821, but no street-level geocoding is verified."
+    - "Historical Amman Cyber Security Engineer advertisement required 2+ years of experience; official careers page showed no listed vacancy on 2026-11-08."
+notes: "Official contact page and JordanYP both identify Crown Complex, third floor, Amman; precise street and coordinates are not verified. info@alpha-hub.com is an official general-contact address, not a confirmed HR mailbox. LinkedIn reports 11-50 employees (self-reported range). Company LinkedIn posts in 2026 report delivery of Jordan's National Cyber Drill 2026 with CybExer Technologies for the National Cyber Security Center, corroborating recent operations. Listed technologies are offered cybersecurity solutions and service competencies, not a verified internal software-development stack. An official careers page was identified on 2026-11-08, but it displays a placeholder rather than an open position. No dedicated HR contact or currently open Jordan vacancy or internship was established. The official website lists info@alpha-hub.com and +962 6 55 16616 as general business contacts, not HR contacts. Company LinkedIn lists Amman 11821, but no street-level geocoding is verified."
 evidence:
+  - type: "official_website"
+    url: "https://alpha-hub.com/careers/"
+    label: "2026-11-08: official careers page displays a coming-soon placeholder; no open role listed"
+  - type: "official_website"
+    url: "https://alpha-hub.com/about-us/"
+    label: "2026-11-08: official about page confirms establishment in 2005 and cybersecurity business"
   - type: "official_website"
     url: "https://alpha-hub.com/"
     label: "Official homepage: cybersecurity services and establishment in 2005"
