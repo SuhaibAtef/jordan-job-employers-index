@@ -1,5 +1,5 @@
 name: Arab Bank
-last_verified: '2026-10-28'
+last_verified: '2026-11-08'
 industry: Banking / Financial Services
 description: Arab Bank is a Jordan-headquartered banking group providing retail, corporate, institutional and
   digital financial services across multiple markets. Its technology organization supports digital banking,
@@ -70,6 +70,7 @@ notes: Reviewed 2026-10-16. Arab Bank PLC is an operating Amman-headquartered ba
   mailbox. Arab Bank's official October 1 media announcement confirms Reflect crypto trading with Fuze
   following a Central Bank of Jordan regulatory sandbox pilot; the product integration does not establish
   which technologies Arab Bank engineers internally use. Precise coordinate confidence remains unresolved.
+  Rechecked 2026-11-08: The official Arab Bank vacancies page indexed three Jordan postings: Third Party Sr. Monitoring & Reporting Officer (October 18), Arab Bank Ambassadors Program (July 6), and SME RM (CB) (June 29). A separately indexed official Taleo URL returned only two postings, so dynamic search results differ and individual application acceptance must be checked directly. A third-party November 2 listing advertises HR Assurance & Governance Manager in Amman with a February 2, 2027 deadline, but the bank's own vacancy portal did not independently confirm that specific role. The official careers page confirms that applications use Taleo. No general HR mailbox, verified present-day production stack, or precision-validated head-office coordinates were established. Company verification remains partial.
 evidence:
 - type: official_website
   url: https://www.arabbank.jo
@@ -123,4 +124,10 @@ evidence:
 - type: official_website
   url: https://www.arabbank.jo/smartmenu/smart-menu/media-room
   label: Official October 1, 2026 Reflect crypto-trading launch with Fuze
+- type: careers
+  url: https://www.arabbank.jo/smartmenu/smart-menu/careers/vacancies-job-applications
+  label: Official Taleo Jordan search rechecked November 8 2026; showed third-party monitoring, Ambassadors Program and SME RM listings
+- type: job_post
+  url: https://jordan.mimusjobs.com/job/hr-assurance-governance-manager/
+  label: Third-party November 2 2026 HR Assurance and Governance Manager listing; direct application availability not independently confirmed
 verification_status: partial
