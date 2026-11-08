@@ -1,7 +1,7 @@
 name: "24Online"
 description: "24Online is an Amman-based software-development and IT-services company serving businesses and institutions with mobile and web development, UX/UI, cloud services, infrastructure support, cybersecurity and IT outsourcing. Its current public footprint shows active software and technical hiring in Jordan."
 verification_status: "verified"
-last_verified: "2026-10-07"
+last_verified: "2026-11-08"
 industry: "Software Development / IT Services"
 website: "https://24online.jo/"
 careers_url: "https://24online.jo/careers/"
@@ -37,7 +37,7 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Verified 2026-10-07 against the official website, current careers page, official contact page, LinkedIn company page and current Google Maps business listing. The official careers page currently lists Senior Backend Developer (Java), Senior Frontend Developer (Angular), Solutions Architect, Flutter Developer, Technical Manager, Technical Sales Specialist, Sales Manager and Frontend Developer roles; the engineering roles shown are experienced/senior rather than internship or fresh-graduate roles. The current HQ is Ward Complex. An older 2018 company post identifies IGIT Complex as a former headquarters; a later company post documents a subsequent move, while the current contact page and LinkedIn location both point to Ward Complex."
+notes: "Verified 2026-10-07; rechecked 2026-11-08 against official careers, contact, about and services pages. The careers page still displays senior Java backend, Angular frontend, Solutions Architect, Flutter, Technical Manager, Technical Sales Specialist, Sales Manager and React frontend roles; these are advertised listings, not individually confirmed unfilled positions. Official contact page continues to list Ward Complex at 131 King Abdullah II Street, Amman, and phone +962 6 582 88 33. The official about page describes 600+ clients in seven countries, founded in 2008; this is company self-report, not audited headcount. No dedicated HR mailbox or independently confirmed employee count was found. Previously verified coordinates were retained without fresh coordinate-level validation. Verified 2026-10-07 against the official website, current careers page, official contact page, LinkedIn company page and current Google Maps business listing. The official careers page currently lists Senior Backend Developer (Java), Senior Frontend Developer (Angular), Solutions Architect, Flutter Developer, Technical Manager, Technical Sales Specialist, Sales Manager and Frontend Developer roles; the engineering roles shown are experienced/senior rather than internship or fresh-graduate roles. The current HQ is Ward Complex. An older 2018 company post identifies IGIT Complex as a former headquarters; a later company post documents a subsequent move, while the current contact page and LinkedIn location both point to Ward Complex."
 evidence:
   - type: "official_website"
     url: "https://24online.jo/"
@@ -63,3 +63,6 @@ evidence:
   - type: "other"
     url: "https://24online.jo/blog/24online-enters-expansion-phase/"
     label: "Historical official post — IGIT Complex was the company's 2018 headquarters"
+  - type: "official_website"
+    url: "https://24online.jo/about/"
+    label: "Official about page — reviewed 2026-11-08; founded 2008, 600+ clients, service markets and engineering capabilities"
