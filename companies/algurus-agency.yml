@@ -1,6 +1,6 @@
 name: "AlGurus Agency"
 verification_status: "partial"
-last_verified: "2026-11-05"
+last_verified: "2026-11-08"
 industry: "Marketing Services / Digital Marketing / E-commerce Development"
 description: >-
   AlGurus is an Amman-based digital marketing, performance advertising and
@@ -38,7 +38,7 @@ job_seeker:
   early_career_signal: false
   signals: []
 notes: >-
-  Reviewed 2026-11-05 (following 2026-10-28 review). The active official website, company LinkedIn profile,
+  Reviewed 2026-11-08 (following 2026-11-05 and 2026-10-28 reviews). The active official website, company LinkedIn profile,
   and independent Shopify Partner Directory corroborate ongoing agency
   activity in Amman. Shopify lists AlGurus as a service partner active since
   March 2020, with Amman as its primary location and services including store
@@ -57,6 +57,7 @@ notes: >-
   and theme-customization services. The agency's current official website
   continues to advertise digital marketing and web development. These sources
   corroborate business activity but do not verify internal hiring.
+  On 2026-11-08, the live official homepage and partnerships page continued to advertise digital marketing, Shopify and WordPress services. Shopify independently listed the Amman service partner and public general contact; LinkedIn continued to report 11-50 employees and Um Uthaina headquarters. The agency claims 2026 Google Premier Partner status, but the direct Google directory was not independently confirmed. No fresh employer-authored hiring announcement was established. These checks do not establish exact office coordinates, audited headcount or internal software stack.
   No dedicated careers page, open internal job vacancy or internship was
   established in this review. The agency's separate academy offers paid or
   organized marketing training, not employment opportunities. Listed
@@ -111,3 +112,9 @@ evidence:
   - type: "official_website"
     url: "https://algurus.com/"
     label: "Official agency homepage rechecked 2026-11-05; current marketing and ecommerce development offerings"
+  - type: "official_website"
+    url: "https://algurus.com/partnerships/"
+    label: "2026 partnership and service claims rechecked 2026-11-08; Google Premier status remains company-attributed"
+  - type: "company_listing"
+    url: "https://www.shopify.com/partners/directory/partner/algurus"
+    label: "Shopify service-partner directory rechecked 2026-11-08; Amman, March 2020 partnership, general contact"
