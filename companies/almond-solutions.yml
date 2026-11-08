@@ -1,22 +1,20 @@
 name: "Almond Solutions"
 description: "Almond Solutions is an Amman digital-transformation, web and digital-marketing consultancy. It combines website and marketing services with Zoho-based CRM, workplace, automation and business-operations implementations."
-verification_status: "verified"
-last_verified: "2026-10-07"
-industry: "Digital Marketing / Web Development"
+verification_status: "partial"
+last_verified: "2026-11-08"
+industry: "IT Services / Digital Transformation / Marketing"
 website: "https://www.almondsolutions.com"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/almond-solutions"
 hr_email: null
 size: "2-10"
 location:
-  status: "verified"
-  address: "Queen Rania Street, Amman, Jordan"
   area: "Amman"
   address: "Queen Rania Street, Amman - Jordan"
-  status: "provided_unverified"
-  latitude: 31.992825
-  longitude: 35.88941
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.992825,35.88941"
+  status: "verified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Queen%20Rania%20Street%20Amman%20Jordan"
 categories:
   - "erp"
   - "marketing"
@@ -27,7 +25,25 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Est. 2005 veteran web + digital marketing agency (Zoho CRM partner, email hosting services) that runs digital marketing training courses - training focus suggests fresh-grad relevance. Pin upgraded from city fallback to Google business listing coordinates on Queen Rania St. No careers page found."
+notes: >-
+  Reviewed 2026-11-08. The official About and Contact pages confirm a 2005-founded
+  Jordan-based digital-transformation, website, marketing and Zoho implementation
+  consultancy, with an Amman office on Queen Rania Street and sales telephone
+  +962 79 9634782. The company LinkedIn profile independently corroborates
+  Queen Rania Street, Amman, and reports 2-10 employees; this is a LinkedIn
+  estimate, not an audited headcount. The address is corroborated at street
+  level, but neither source establishes a building number or exact office pin.
+  Previous coordinates 31.992825,35.88941 were attributed to a map listing
+  without confirmed company-specific entrance and are retained here only as
+  historical, unverified information; coordinates are cleared from the location.
+  Official Zoho consulting pages describe CRM, Books, People, Creator and
+  integrations offered to customers, not proof of an internal production stack.
+  Recent LinkedIn posts advertise products and services, not vacancies.
+  No dedicated HR contact, active direct vacancy or careers portal was confirmed.
+  Earlier notes described digital-marketing training, but no current
+  early-career opening was established. Company verification is partial despite
+  corroborated street-level location because hiring and technical details remain
+  incomplete.
 evidence:
   - type: "official_website"
     url: "https://www.almondsolutions.com"
@@ -43,4 +59,13 @@ evidence:
     label: "Google Maps location"
   - type: "official_website"
     url: "https://www.almondsolutions.com/about-us"
-    label: "Current official address and Zoho-focused service description"
+    label: "Official About page — founded 2005, Zoho digital transformation and Queen Rania Street address (reviewed 2026-11-08)"
+  - type: "official_website"
+    url: "https://www.almondsolutions.com/contact"
+    label: "Official contact page — Queen Rania Street, Amman, sales +962 79 9634782 (reviewed 2026-11-08)"
+  - type: "official_website"
+    url: "https://www.almondsolutions.com/zoho-consulting"
+    label: "Official Zoho consulting services — customer implementations, not verified internal stack (reviewed 2026-11-08)"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/almond-solutions"
+    label: "Company LinkedIn — Amman Queen Rania Street, 2-10 employee estimate and recent product posts (reviewed 2026-11-08)"
