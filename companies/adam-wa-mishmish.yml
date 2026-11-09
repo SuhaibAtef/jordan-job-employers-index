@@ -6,7 +6,7 @@ description: >-
   children. Its 2026 activities include Amman classes, a U.S. live tour and
   an Arabic-letter learning game developed with eduTechnoz.
 verification_status: "partial"
-last_verified: "2026-11-06"
+last_verified: "2026-11-09"
 industry: "Children's Edutainment / Arabic-Language Education and Media"
 website: "https://www.adamwamishmish.com"
 careers_url: "https://www.adamwamishmish.com/work-with-us"
@@ -29,7 +29,7 @@ job_seeker:
   signals:
     - "The official Work With Us page accepts join-the-team inquiries via a contact form; no specific open position or entry-level recruitment was listed on 2026-10-28."
 notes: >-
-  Reviewed 2026-11-06 (UTC); previous review 2026-11-04. The official About page identifies Hend Baghdady as
+  Reviewed 2026-11-09 (UTC); previous detailed review 2026-11-06. The official\n  live-classes page still advertises Amman Circle Time at Moonbirds (6th\n  Circle) and Tiny Tots (Swefieh Village), plus online Music Hour cohorts.\n  These are program venues, not independently verified company premises.\n  The eduTechnoz co-branded Arabic-learning game landing page describes\n  a partnership and an early-bird signup; it does not establish in-house\n  engineering employment or an open vacancy. Current Jordan recruitment,\n  dedicated HR contact and precise office coordinates remain unverified.\n  Reviewed 2026-11-06 (UTC); previous review 2026-11-04. The official About page identifies Hend Baghdady as
   CEO and Luma Aladnani as co-founder and president; its footer places the
   business in Amman, Jordan. The current class calendar lists in-person
   Circle Time sessions at Moonbirds (6th Circle) and Tiny Tots (Swefieh
@@ -106,3 +106,9 @@ evidence:
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/adamwamishmish"
     label: "Rechecked 2026-11-06: self-reported 2-10 employees, no usable headquarters address, eduTechnoz game partnership"
+  - type: "official_website"
+    url: "https://www.adamwamishmish.com/classes/online"
+    label: "Rechecked 2026-11-09: Amman partner-venue Circle Time and online Music Hour; not an office-location or hiring confirmation"
+  - type: "other"
+    url: "https://awm.edutechnoz.com/"
+    label: "Rechecked 2026-11-09: eduTechnoz co-branded Arabic-learning game and early-bird signup; not evidence of an internal technology stack"
