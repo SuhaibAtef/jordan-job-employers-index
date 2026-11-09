@@ -1,7 +1,7 @@
 name: "Binance"
-description: "Binance is a global digital-asset exchange and blockchain ecosystem offering trading, financial services, and Web3 products. Its careers materials include remote opportunities and early-career programs, but a current Jordan-specific vacancy or physical office in Amman was not confirmed on 2026-10-22."
+description: "Binance is a global digital-asset exchange and blockchain ecosystem offering trading, financial services, and Web3 products. Its careers materials include remote opportunities and early-career programs, but a current Jordan-specific vacancy or physical office in Amman was not confirmed on 2026-11-09."
 verification_status: "partial"
-last_verified: "2026-10-22"
+last_verified: "2026-11-09"
 industry: "Crypto Exchange / Fintech"
 website: "https://www.binance.com/en"
 careers_url: "https://jobs.lever.co/binance"
@@ -28,8 +28,8 @@ job_seeker:
   signals:
     - "Official careers page advertises Binance Seeds early-career programs; Jordan-specific eligibility was not confirmed."
     - "A live remote Binance Accelerator Program Web3 Operations posting includes Middle East & North Africa and accepts current students/recent graduates; country eligibility requires confirmation."
-    - "The Lever Jordan, Amman location filter displayed no matching postings on 2026-10-22; previously indexed Jordan-targeted postings are not treated as currently open."
-notes: "Reviewed 2026-10-22. LinkedIn lists 5,001-10,000 employees globally; the official careers page reports 5,000+ employees, not a Jordan headcount. A published Amman office address, office coordinates, and dedicated HR email were not verified. Past search-indexed Jordan/Amman remote job advertisements may be stale because the live location-filtered board returned no matches. Product-facing blockchain, REST API, and WebSocket capabilities are documented, but they do not establish Binance's complete internal technology stack. Location confidence is low because remote recruitment does not establish physical premises."
+    - "The official Lever Jordan, Amman filter showed no matching jobs when checked 2026-11-09; separately indexed Jordan-inclusive listings are not confirmed currently accepting applications."
+notes: "Reviewed 2026-11-09: Binance official careers page continues to advertise global remote roles and Binance Seeds, and reports more than 5,000 employees globally. The official Lever Amman location filter displayed no matching postings when accessed, despite search-indexed filtered pages showing Jordan-inclusive customer service, marketing, clearing support and Arabic-speaking case analyst roles. These conflicting dynamic results cannot substantiate an open Jordan vacancy; confirm directly on the live application page. No staffed Amman office, precise address or coordinates, dedicated HR contact or Jordan headcount was established. Earlier review 2026-10-22. LinkedIn lists 5,001-10,000 employees globally; the official careers page reports 5,000+ employees, not a Jordan headcount. A published Amman office address, office coordinates, and dedicated HR email were not verified. Past search-indexed Jordan/Amman remote job advertisements may be stale because the live location-filtered board returned no matches. Product-facing blockchain, REST API, and WebSocket capabilities are documented, but they do not establish Binance's complete internal technology stack. Location confidence is low because remote recruitment does not establish physical premises."
 evidence:
   - type: "official_website"
     url: "https://www.binance.com/en"
@@ -48,4 +48,6 @@ evidence:
     label: "Remote MENA-inclusive Web3 Operations accelerator role for students and graduates"
   - type: "official_website"
     url: "https://www.binance.com/en/binance-api"
-    label: "Binance API product page documenting REST and WebSocket"
+    label: "Binance API product page documenting REST and WebSocket"  - type: "careers"
+    url: "https://jobs.lever.co/binance/?location=Jordan%2C%20Amman"
+    label: "Official Lever Amman filter checked 2026-11-09; returned no matching postings, conflicting with search-indexed job results"
