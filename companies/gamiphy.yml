@@ -1,7 +1,7 @@
 name: "Gamiphy"
 description: "Gamiphy, founded in 2017, rebranded as Coretava, a marketing-technology platform for customer loyalty, CRM, retail media and personalization. The company-operated coretava.com homepage now presents Tavyo OS, an AI-assisted marketing and customer-relationship workspace. Jordan operations were publicly described in 2022, but a current Jordan office or local hiring has not been established."
 verification_status: "partial"
-last_verified: "2026-10-23"
+last_verified: "2026-11-09"
 industry: "Marketing Technology / Customer Engagement SaaS / AI CRM"
 website: "https://coretava.com/"
 careers_url: null
@@ -53,6 +53,17 @@ notes: >-
   were not independently reverified as the current internal production
   stack. Company-level verification remains partial because Jordan
   employment and physical presence are unresolved.
+  Rechecked 2026-11-09: Coretava's company LinkedIn profile continues to
+  describe customer loyalty, personalization and marketing software, with
+  11-50 employees globally and listed locations in San Francisco, Sao Paulo
+  and Mexico City, not Jordan. PalTrade's company-related coverage of the
+  October 2025 Expand North Star Dubai event documents Coretava presenting
+  an AI-powered retail-media analytics platform, supporting recent public
+  product activity but not Jordan employment. The older Ramallah backend
+  and QA recruitment listings explicitly no longer accept applications;
+  neither establishes current Jordan hiring. No current Jordan office,
+  verified recruitment contact, local headcount or precise coordinates
+  were found. Partial company verification remains appropriate.
 evidence:
   - type: "official_website"
     url: "https://gamiphy.co/"
@@ -90,3 +101,6 @@ evidence:
   - type: "job_post"
     url: "https://www.linkedin.com/jobs/view/mid-back-end-engineer-at-coretava-3692132731"
     label: "Closed 2023 Ramallah backend engineering vacancy; historical technologies, not current Jordan hiring"
+  - type: "other"
+    url: "https://www.linkedin.com/posts/palestine-trade-center_meet-coretava-at-expand-north-star-dubai-activity-7384108763487555584-Mba9"
+    label: "PalTrade coverage of Coretava at Expand North Star Dubai 2025: AI retail-media analytics; historical event, not Jordan hiring"
