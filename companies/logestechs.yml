@@ -52,8 +52,17 @@ notes: >-
   published career@logestechs.com is retained only as a historical job-post
   application address, not a verified currently monitored HR mailbox.
   No exact office coordinates or internal engineering stack were verified.
+  Reviewed 2026-11-09: The live official homepage continues to describe cloud-based
+  delivery, warehouse, order, transport, returns, accounting and analytics
+  software. A separate official careers page advertises Saudi Arabia-based
+  sales, customer-success and partnership positions; those roles do not
+  establish a current Jordan opening. Existing Amman office details and
+  historical HR application email were retained without new confirmation.
+  No Jordan-specific current vacancy, office coordinates, audited staffing
+  or internal programming stack was established. Corrected an existing
+  malformed evidence-list line that joined two YAML entries.
 verification_status: "partial"
-last_verified: "2026-11-07"
+last_verified: "2026-11-09"
 evidence:
   - type: "official_website"
     url: "https://logestechs.com/"
@@ -69,6 +78,10 @@ evidence:
     label: "Historical Jordan junior/early-career hiring and career@logestechs.com; closed by 2026-10-19"
   - type: "job_post"
     url: "https://jo.linkedin.com/jobs/view/sales-executive-at-logestechs-4227245599"
-    label: "Historical Jordan/Lebanon remote sales hiring; closed by 2026-10-19"  - type: "linkedin_company"
+    label: "Historical Jordan/Lebanon remote sales hiring; closed by 2026-10-19"
+  - type: "linkedin_company"
     url: "https://sa.linkedin.com/company/logestechs"
     label: "Company product updates visible in November 2026 — ongoing public activity, not proof of Jordan hiring or office occupancy"
+  - type: "official_website"
+    url: "https://logestechs.com/careers-saudi-arabia/"
+    label: "Official Saudi Arabia careers page reviewed 2026-11-09; advertised roles explicitly require Saudi location, not evidence of Jordan vacancies"
