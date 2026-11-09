@@ -1,7 +1,7 @@
 name: "AHLI FINTECH"
 description: "AHLI FINTECH is a wholly owned subsidiary of Jordan Ahli Bank that invests in and supports early-stage fintech startups through incubation, acceleration, mentoring, ecosystem partnerships and access to banking APIs and infrastructure. Its July 2026 InvoiceQ partnership supported e-invoicing for portfolio startups; its CEO was listed as a speaker at Jordan Fintech Festival 2026."
 verification_status: "partial"
-last_verified: "2026-11-06"
+last_verified: "2026-11-09"
 industry: "Fintech / Venture Capital, Incubation & Acceleration"
 website: "https://ahlifintech.com"
 careers_url: null
@@ -67,6 +67,12 @@ notes: >-
   A historical Jordan Ahli Bank Investment Associate job explicitly
   describes work with AHLI FINTECH but is closed and does not demonstrate
   current hiring. No verified internal engineering stack or audited headcount.
+  Rechecked 2026-11-09: AHLI FINTECH's official November 16, 2025
+  announcement confirms a signed cooperation MoU with JoPACC's JOIN
+  Fincubator for startup support and knowledge exchange. This supports
+  ecosystem activity, not direct hiring or a verified internal tech stack.
+  The official news archive lists July 7, 2026 as its newest release;
+  no new direct AHLI FINTECH vacancy was established in this review.
 evidence:
   - type: "official_website"
     url: "https://ahlifintech.com"
@@ -128,3 +134,6 @@ evidence:
   - type: "job_post"
     url: "https://jo.linkedin.com/jobs/view/investment-associate-fintech-programs-at-jordan-ahli-bank-3970881472"
     label: "Historical closed Jordan Ahli Bank job describing AHLI FINTECH investment work, not current opening"
+  - type: "official_website"
+    url: "https://ahlifintech.com/2025/11/16/fintech-innovation-empowered-through-ahli-fintech-and-jopacc-partnership/"
+    label: "November 16 2025 official JoPACC JOIN Fincubator MoU, checked 2026-11-09; not direct hiring"
