@@ -1,7 +1,7 @@
 name: "360Moms"
 description: "360Moms is an Amman-based Arabic parenting and family platform combining expert-backed content, workshops, family rewards and an AI Parents Advisor. It serves families in Jordan and the wider Arab region and has recent Jordan hiring evidence across creative and commercial roles."
 verification_status: "verified"
-last_verified: "2026-10-07"
+last_verified: "2026-11-09"
 industry: "Online Media / Family Tech"
 website: "https://360moms.net/en"
 careers_url: null
@@ -31,7 +31,7 @@ job_seeker:
   early_career_signal: true
   signals:
     - "2026 Graphic Design Internship"
-notes: "Verified 2026-10-07. The current official contact page lists Jordan, Amman and info@360moms.net; LinkedIn lists Amman, 11-50 employees, founded 2016, and recent 2026 hiring activity. A 2026 Graphic Design Intern posting in Amman is now closed, so it is retained as recent early-career evidence rather than a current opening. A company LinkedIn engineering post documents Laravel/PHP/MySQL/HTML/JavaScript requirements, while a 2025 project record documents a platform migration involving React, Next.js and Node.js. The detailed King Hussein Business Park address is corroborated by the current Maps business listing and multiple company-profile sources; the official contact page itself currently publishes only 'Jordan, Amman'."
+notes: "Verified 2026-10-07. The current official contact page lists Jordan, Amman and info@360moms.net; LinkedIn lists Amman, 11-50 employees, founded 2016, and recent 2026 hiring activity. A 2026 Graphic Design Intern posting in Amman is now closed, so it is retained as recent early-career evidence rather than a current opening. A company LinkedIn engineering post documents Laravel/PHP/MySQL/HTML/JavaScript requirements, while a 2025 project record documents a platform migration involving React, Next.js and Node.js. The detailed King Hussein Business Park address is corroborated by the current Maps business listing and multiple company-profile sources; the official contact page itself currently publishes only 'Jordan, Amman'. Rechecked 2026-11-09: Official homepage continues to offer 360Family Rewards, AI Parents Advisor and Arabic parenting content. Official contact page confirms Amman and info@360moms.net, but no street-level address. LinkedIn company profile still lists 11-50 employees and shows 2026 activity, including an earlier Graphic Designer Intern and Jordan Sales Executive recruitment post; posting age does not confirm vacancies remain open. The email is a general contact and historical application channel, not a dedicated HR mailbox. No independent fresh confirmation of precise office occupancy, coordinates, or currently open vacancies; existing address and coordinates are retained as historical directory/map evidence, not newly verified."
 evidence:
   - type: "official_website"
     url: "https://360moms.net/en"
@@ -57,3 +57,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=360Moms%20King%20Hussein%20Business%20Park%20Amman%20Jordan"
     label: "Current Google Maps business listing — King Hussein Business Park, Amman"
+  - type: "official_website"
+    url: "https://360moms.net/en/subscriptions"
+    label: "Official current subscription page reviewed 2026-11-09 — Rewards and AI Parents Advisor products"
+  - type: "linkedin_company"
+    url: "https://jo.linkedin.com/company/360moms"
+    label: "Company LinkedIn reviewed 2026-11-09 — Amman headquarters, 11-50 size band and historical 2026 internship and sales hiring posts"
