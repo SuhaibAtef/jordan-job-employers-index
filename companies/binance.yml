@@ -48,6 +48,7 @@ evidence:
     label: "Remote MENA-inclusive Web3 Operations accelerator role for students and graduates"
   - type: "official_website"
     url: "https://www.binance.com/en/binance-api"
-    label: "Binance API product page documenting REST and WebSocket"  - type: "careers"
+    label: "Binance API product page documenting REST and WebSocket"
+  - type: "careers"
     url: "https://jobs.lever.co/binance/?location=Jordan%2C%20Amman"
     label: "Official Lever Amman filter checked 2026-11-09; returned no matching postings, conflicting with search-indexed job results"
