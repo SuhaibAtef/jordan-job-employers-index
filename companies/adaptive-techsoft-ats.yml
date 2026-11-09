@@ -1,20 +1,20 @@
 name: "Adaptive TechSoft (ATS)"
 description: "Adaptive TechSoft develops enterprise information systems for healthcare and education, including hospital information systems, electronic medical records, student information systems and university e-services. Its Amman engineering branch actively hires across Java, Oracle, DevOps and database disciplines."
 verification_status: "verified"
-last_verified: "2026-10-07"
+last_verified: "2026-11-09"
 industry: "Software / E-services"
 website: "https://ats-ware.com"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/adaptive-techsoft"
-hr_email: "job@ats-ware.com"
+hr_email: null
 size: "201-500"
 location:
   area: "Amman"
   address: "Queen Rania St., Abu-Alhaj Building, 6th floor, office 607, Amman 11196, Jordan"
   status: "provided_unverified"
-  latitude: 31.998773
-  longitude: 35.880738
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.998773,35.880738"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Adaptive%20TechSoft%20Abu%20Al%20Hajj%20Complex%20Amman"
 categories:
   - "ai"
   - "consulting"
@@ -38,7 +38,7 @@ job_seeker:
   early_career_signal: true
   signals:
     - "Historical fresh-graduate hiring"
-notes: "Established 1992; builds hospital information systems and university e-services (e-registration, e-payment, correspondence management); 80+ hospitals and 63+ universities as partners; hires Java/Oracle developers; no public internship page found."
+notes: "Reviewed 2026-11-09. Official ATS contact page confirms Abu Al Hajj Commercial Complex, 148 Queen Rania Al Abdullah Street, Amman, and +962 6 5162001. LinkedIn company profile corroborates Abu-Alhaj Building, 6th floor, office 607, and reports 201-500 employees globally (self-reported platform range, not audited Jordan headcount). The official website describes healthcare information systems and higher-education systems and company history dating to 1992. A recently posted Amman DevOps Engineer listing on LinkedIn is marked no longer accepting applications; its Maven, CI/CD and containerization requirements document historical hiring demand, not necessarily current production deployment. An older WordPress Specialist listing is also closed. No verified active Jordan vacancy or dedicated current HR mailbox was established; historical job@ats-ware.com was removed from the HR field pending fresh attribution. Previously supplied exact coordinates were removed because no independently verified geospatial pin was established. The official street address and LinkedIn office suite differ in specificity, not necessarily location; office suite and occupancy are not independently confirmed. Historical fresh-graduate recruitment remains historical evidence. Previously recorded technologies are retained as historical or job-advertised skills, not confirmed present-day production stack."
 evidence:
   - type: "official_website"
     url: "https://ats-ware.com"
@@ -73,3 +73,9 @@ evidence:
   - type: "linkedin_employee"
     url: "https://www.linkedin.com/posts/ashwaq-abu-hejleh-b390871b3_amman-jobs-freshgraduate-activity-7053327421504200704-JcF4"
     label: "HR employee post showing historical fresh-graduate technical hiring"
+  - type: "official_website"
+    url: "https://ats-ware.com/contact-us/"
+    label: "Official contact page reviewed 2026-11-09 — Amman Abu Al Hajj Commercial Complex, Queen Rania Street 148 and telephone"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/devops-engineer-at-adaptive-techsoft-4457259454"
+    label: "Amman DevOps Engineer posting rechecked 2026-11-09 — closed to applications; Maven, CI/CD and containerization skills"
