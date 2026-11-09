@@ -37,8 +37,9 @@ technologies:
 job_seeker:
   early_career_signal: true
   signals:
-  - Historical 2026 Amman backend Software Engineer listing described mentorship and skill development; the current
-    official Workable board shows no vacancies (checked 2026-10-20).
+  - Historical 2026 Amman backend Software Engineer listing described mentorship and skill development; no vacancies were observed on 2026-10-20.
+  - Official Workable board advertised a hybrid Amman Sales Operations Specialist role when checked 2026-11-09; 2-4 years of Sales Ops or RevOps experience requested.
+  - Official Maqsam senior software engineer challenge accepts applicants based in Jordan or Cairo with 5+ years of experience; challenge completion only shortlists candidates.
 notes: 'Maqsam was founded in 2019 and operates an Arabic-first AI-powered contact-center platform. Its current
   LinkedIn profile lists Riyadh as global headquarters and 51–200 employees worldwide; Jordan headcount is not established.
   The official company site confirms voice AI, Arabic transcription, customer analytics and CRM integration. Maqsam''s
@@ -55,7 +56,18 @@ notes: 'Maqsam was founded in 2019 and operates an Arabic-first AI-powered conta
   it was rejected. The retained 31.9631665,35.9057078 pin is an approximate Abdali-area point, not a verified office
   entrance. The Jordan office street/building cannot be independently reconfirmed as current; location confidence
   is approximate, distinct from partial company verification.'
+notes_review_2026_11_09: >-
+  Official Workable posting for hybrid Amman Sales Operations Specialist was visible on 2026-11-09; the job page invites applications but submission was not tested. The official senior software engineer challenge accepts Jordan-based applicants with 5+ years experience; its 48-hour challenge is a selection process, not a guarantee of hiring. The company careers page names a People and Culture lead but does not publish a dedicated recruitment email. Existing employee count is a global estimate, not Jordan headcount. Previous October 20 no-openings observation is historical and superseded by current posting. The previously recorded Abdali address and coordinates remain approximate, not independently verified office occupancy or entrance. Existing technical stack entries are employee-reported or product capabilities, not independently audited deployment evidence.
 evidence:
+- type: job_post
+  url: https://apply.workable.com/maqsam/j/2C9A0DE0C1
+  label: Official hybrid Amman Sales Operations Specialist posting visible 2026-11-09; application completion not tested
+- type: careers_page
+  url: https://maqsam.com/challenge
+  label: Official senior software engineer challenge accepts Jordan-based applicants; 5+ years experience and shortlist conditional on challenge
+- type: careers_page
+  url: https://maqsam.com/careers
+  label: Official careers page checked 2026-11-09; identifies People and Culture lead, but no dedicated HR email
 - type: official_website
   url: https://maqsam.com
   label: Official website
@@ -117,4 +129,4 @@ evidence:
   url: https://mahmood.you-sef.dev/cv/
   label: Technical lead self-reported production technology
 verification_status: partial
-last_verified: '2026-10-20'
+last_verified: '2026-11-09'
