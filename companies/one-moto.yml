@@ -59,8 +59,8 @@ notes: >-
   2026-10-05 also found no Jordan software-development job postings.
   The company's Jordan market claim is supported, but the existence and
   present scale of a direct local employer remain unresolved.
-verification_status: "partial"
-last_verified: "2026-10-26"
+  Rechecked 2026-11-09: The official global careers page remains publicly accessible\n  and advertises marketing, global launch, sales/leasing and operations roles.\n  Its operations supervisor description explicitly locates that role in Dubai;\n  the global launch role discusses UAE, India, Australia and UK travel and\n  publishes hr@one-moto.com. None substantiates a Jordan-based opening or\n  confirms that the undated advertisements are actively accepting applicants.\n  The official Amman expansion article describes Jordan as a target market,\n  not a staffed local office or a Jordan engineering team. The official\n  contact page publishes general and dealership channels but no Jordan\n  address. Current Jordan employment, exact coordinates, audited local\n  headcount and internal software stack remain unverified.\nverification_status: "partial"
+last_verified: "2026-11-09"
 evidence:
   - type: "official_website"
     url: "https://one-moto.com/"
