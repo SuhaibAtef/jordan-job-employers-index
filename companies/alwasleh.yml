@@ -1,7 +1,7 @@
 name: "Alwasleh"
 description: "Alwasleh is an OFFTEC Holding financial-services company and Jordanian buy-now-pay-later provider. It finances purchases over installment periods, operates payment and virtual-card services, and is expanding regulated electronic-payment offerings under Central Bank of Jordan licensing."
 verification_status: "verified"
-last_verified: "2026-10-07"
+last_verified: "2026-11-09"
 industry: "Lending / BNPL"
 website: "https://www.alwasleh.com/en"
 careers_url: null
@@ -22,8 +22,10 @@ technologies:
   - "Payment Gateway"
 job_seeker:
   early_career_signal: false
-  signals: []
+  signals:
+    - "Company LinkedIn published an Amman collections-officer recruitment notice approximately October 2026, requesting diploma or bachelor degree and collections experience; application via hr@alwasleh.com. Posting availability not independently confirmed."
 notes: "OFFTEC Holding subsidiary (est. 2011), Jordan's first buy-now-pay-later company; secured a CBJ e-payment license in Dec 2024 with a proprietary Smart Limit Tool and medical limit; QR payments and virtual credit cards via its app. | GPS 2026-10-07: verified — official branches page + parent OFFTEC page agree on 3rd Circle / Queen Misbah St (pin 31.955861, 35.911932); corrected street name (was \"243 Prince Mohammad St\", an aggregator error); unclaimed sparse Maps listing for a Mecca Mall kiosk branch ~7 km away disregarded. | stack research 2026-10-07: 5 searches (careers, hiring, flutter/android, akhtaboot, wuzzuf) + alwasleh.com (site returned 500); no employee profiles or dev job postings found; tags left as-is"
+  2026-11-09 review: The company LinkedIn profile still identifies Alwasleh as an OFFTEC Holding subsidiary founded in 2011, with 51-200 employees. A company post approximately one month old advertises an Amman collections officer and directs CVs to hr@alwasleh.com. This is a recent hiring signal, not confirmation that applications remain open. LinkedIn does not independently verify the exact office pin, production stack or audited headcount; preserve prior location sourcing and treat the employee range as self-reported. No additional HR contact or engineering vacancy confirmed.
 evidence:
   - type: "official_website"
     url: "https://www.alwasleh.com/en"
@@ -58,3 +60,7 @@ evidence:
   - type: "job_post"
     url: "https://jo.linkedin.com/company/alwasleh"
     label: "Current sales and collections hiring posts published with hr@alwasleh.com"
+
+  - type: "job_post"
+    url: "https://www.linkedin.com/company/alwasleh"
+    label: "Company LinkedIn profile reviewed 2026-11-09: recent Amman collections officer hiring notice, hr@alwasleh.com, self-reported 51-200 employees"
