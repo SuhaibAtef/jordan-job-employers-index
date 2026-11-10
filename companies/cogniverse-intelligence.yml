@@ -1,13 +1,13 @@
 name: "CogniVerse Intelligence"
 description: "CogniVerse Intelligence is an Amman-based AI-native deep-technology company building enterprise decision-intelligence systems, data platforms, RAG/LLM applications and multi-agent orchestration through its AXIS platform."
-verification_status: "verified"
-last_verified: "2026-10-07"
+verification_status: "partial"
+last_verified: "2026-11-10"
 industry: "Artificial Intelligence / Deep Technology"
 website: "https://cogniverseai.net/"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/cogniverse-intelligence"
 hr_email: null
-size: null
+size: "2-10 employees (company LinkedIn self-reported)"
 location:
   area: "Amman"
   address: null
@@ -33,10 +33,10 @@ technologies:
 job_seeker:
   early_career_signal: true
   signals:
-    - "Current entry-level AI & ML Engineer hiring"
-    - "Current entry-level Data Engineer hiring"
+    - "Employer advertised entry-level AI & ML Engineer; acceptance unconfirmed"
+    - "Employer advertised entry-level Data Engineer; acceptance unconfirmed"
     - "0-2 years experience; internships/projects count"
-notes: "Verified 2026-10-07. Current CogniVerse LinkedIn hiring explicitly advertises entry-level AI/ML and Data Engineer roles onsite in Amman with 0-2 years of experience, including internships/projects. The public engineering requirements include Python, SQL, Git, RAG/LLM systems, PyTorch, Docker and AWS/Azure. The previous generic Amman center coordinate was removed because current evidence verifies the city, not an exact office pin."
+notes: "Reviewed 2026-11-10. Official cogniverseai.net describes enterprise data, BI, AI and decision intelligence, including CogniGraph in development. LinkedIn lists 2-10 employees globally, Delaware headquarters and an Amman office. Employer posts advertise Amman entry-level AI/ML and data-engineering roles (0-2 years; internships/projects count), plus a mid-senior PMO role; current application acceptance is not independently confirmed. Python, SQL, Git, RAG, PyTorch, Docker and AWS/Azure are publicly advertised skills, not an audited production stack. General contact info@cogniverseai.net is not a dedicated HR address. Another similarly named LinkedIn profile using cgni.ai exists, but the relationship is unconfirmed; its office address and vacancies have not been imported. Amman location is confirmed at city level only, with no verified street address or precise coordinates. Verification remains partial due to brand/profile ambiguity and incomplete current recruiting confirmation."
 evidence:
   - type: "official_website"
     url: "https://cogniverseai.net/"
@@ -46,7 +46,10 @@ evidence:
     label: "LinkedIn company page — Amman hiring and company profile"
   - type: "job_post"
     url: "https://www.linkedin.com/posts/cogniverse-intelligence_were-hiring-ai-ml-engineers-entry-level-activity-7459872690745659392-Jwos"
-    label: "Current entry-level and mid-senior AI/ML hiring in Amman"
+    label: "Employer-authored Amman AI/ML recruitment post; application status unconfirmed"
   - type: "job_post"
     url: "https://jo.linkedin.com/jobs/view/ai-ml-engineer-entry-level-at-cogniverse-ai-4408885400"
-    label: "Entry-level AI & ML Engineer role in Amman"
+    label: "Entry-level Amman AI/ML vacancy; current acceptance unconfirmed"
+  - type: "official_website"
+    url: "https://cogniverseai.net/services/bi-analytics/"
+    label: "Official business intelligence and analytics services, reviewed 2026-11-10"
