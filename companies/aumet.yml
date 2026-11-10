@@ -1,7 +1,7 @@
 name: "Aumet"
 description: "Aumet is a B2B healthcare-technology company providing pharmacy ERP, procurement, marketplace and data products that connect pharmacies, healthcare providers, manufacturers and distributors. Its Amman team is part of a regional operation spanning Jordan, Saudi Arabia, Egypt and Oman."
 verification_status: "verified"
-last_verified: "2026-10-07"
+last_verified: "2026-11-10"
 industry: "HealthTech (pharmaceutical procurement / pharmacy OS)"
 website: "https://aumet.com"
 careers_url: "https://www.bayt.com/en/jordan/jobs/aumet-inc-jobs-in-amman/"
@@ -9,13 +9,12 @@ linkedin: "https://www.linkedin.com/company/aumetinc"
 hr_email: null
 size: "51-200"
 location:
-  status: "verified"
   area: "Amman"
   address: "King Hussein Business Park, Building 23, King Abdullah II Street, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 31.9719
-  longitude: 35.851
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9719,35.851"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
   - "data"
@@ -41,9 +40,12 @@ technologies:
   - "TypeScript"
   - "Vue.js"
 job_seeker:
-  early_career_signal: false
-  signals: []
+  early_career_signal: true
+  signals:
+    - "October 12, 2026 third-party Amman Business Development Intern posting, application deadline January 12, 2027; independently verify before applying"
+    - "September 2026 third-party Amman Flutter engineering postings with December 2026 deadlines; current availability unconfirmed"
 notes: "Jordan-founded (2016) AI-first procurement operating system for pharmacies/hospitals; raised $12M Series A in 2026; Amman office at KHBP with active hiring (jobs listed on Bayt). | stack verified 2026-10-06: 3 employee profiles - Wuzzuf frontend engineer at Aumet (Vue.js/Pinia pharmacy ERP), engineer who rebuilt Aumet Marketplace 2021-22 (React/Next.js/TypeScript/Node.js/Laravel/MySQL/Elasticsearch/Docker), Flutter mobile dev 2021-23 (Flutter/Dart/Firebase); AI/ML kept from company product claims (no employee evidence)"
+  2026-11-10 review: Aumet official About page confirms Jordan operations and pharmacy procurement/management solutions; official Pulse product page documents POS, inventory, marketplace, AI-assisted procurement and Jordan Fawtara compliance. Third-party listings dated 2026-09-01/02 and 2026-10-12 advertise Amman mobile engineering and business development internship roles, respectively; these are hiring signals rather than confirmation that applications are still accepted. Flutter/Dart appear in job requirements; other historical stack entries are not revalidated as current production infrastructure. Existing King Hussein Business Park address and map coordinates lack independently checked office-level geocoding in this review; precise coordinates were cleared and location remains provided_unverified. No dedicated HR mailbox verified; application email in a job advert is not assumed to be a general HR contact. Company operations are verified independently of office-location confidence.
 evidence:
   - type: "official_website"
     url: "https://aumet.com"
@@ -69,3 +71,15 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9719,35.851"
     label: "Google Maps location"
+  - type: "official_website"
+    url: "https://aumet.com/en/about/"
+    label: "Rechecked 2026-11-10 — official About page confirms Jordan operations and pharmacy technology services"
+  - type: "official_website"
+    url: "https://aumet.com/pulse/"
+    label: "Rechecked 2026-11-10 — Pulse pharmacy POS, inventory, procurement, marketplace and Jordan Fawtara features"
+  - type: "job_post"
+    url: "https://jordan.mimusjobs.com/job/business-development-intern/"
+    label: "Third-party listing posted 2026-10-12 — Amman business development internship, deadline 2027-01-12; current availability unconfirmed"
+  - type: "job_post"
+    url: "https://jordan.mimusjobs.com/job/senior-mobile-applications-developer/"
+    label: "Third-party listing posted 2026-09-02 — Amman Flutter/Dart engineering role, deadline 2026-12-02"
