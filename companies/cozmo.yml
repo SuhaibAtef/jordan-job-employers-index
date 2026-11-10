@@ -1,15 +1,15 @@
 name: "Cozmo"
-description: "Cozmo is a Jordanian supermarket and e-commerce brand within THE Group, combining physical retail with online grocery shopping and home delivery."
+description: "Cozmo is a Jordanian premium supermarket and online grocery brand operated by THE Group. Established in 2003, it operates retail stores in Amman and an online grocery delivery platform launched in 2016. THE Group also operates the Simply Cozmo neighbourhood-store concept."
 verification_status: "verified"
-last_verified: "2026-10-07"
-industry: "Retail / E-commerce"
+last_verified: "2026-11-10"
+industry: "Retail / Grocery / E-commerce"
 website: "https://cozmo.jo/"
-careers_url: "https://cozmo.jo/careers"
+careers_url: "https://www.thegroup.jo/available-vacancies/"
 linkedin: null
 hr_email: null
 size: null
 location:
-  area: "Amman"
+  area: "7th Circle, Amman"
   address: "Cozmo Centre, Issa Al-Naouri Street, 7th Circle, Amman, Jordan"
   status: "provided_unverified"
   latitude: null
@@ -21,15 +21,46 @@ categories:
 technologies: []
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Verified 2026-10-07. Cozmo's official careers page is active and links into THE Group's current vacancy system; the current vacancy page includes a Cozmo Supermarket Bakery Manager role in Amman and accepts general CV submissions. The existing 7th Circle address is retained as provided location evidence, but precise coordinates were removed because a current first-party HQ pin was not confirmed in this pass."
+  signals:
+    - "THE Group's official vacancies page displayed a full-time Cozmo Supermarket Bakery Manager role in Amman on 2026-11-10; no posting date or application deadline was supplied."
+    - "THE Group's official careers portal accepts general CV submissions for future openings."
+notes: >-
+  Reviewed 2026-11-10. Cozmo's official website and THE Group's first-party
+  company profile confirm a Jordanian supermarket brand founded in 2003,
+  online grocery shopping launched in 2016, and operations at 7th Circle,
+  Amman. THE Group reports seven Simply Cozmo neighbourhood branches across
+  Amman; these are not seven separately verified Cozmo main stores. The
+  official THE Group vacancies page currently lists a Cozmo Bakery Manager
+  position, but the page supplies no publication date or deadline and
+  application acceptance was not tested. A historical LinkedIn posting
+  used Careers@thegroup.jo for recruitment, but this is a group-level
+  application address and has not been verified as a current dedicated
+  Cozmo HR mailbox. THE Group's LinkedIn size range of 501-1000 describes
+  the parent group, not Cozmo-specific headcount; Cozmo size remains unknown.
+  The existing street address is retained from earlier research without
+  new independent door-level verification. Coordinates remain unset.
+  No internally operated software engineering stack was established from
+  the existence of the online shop. Company verification does not imply
+  precise location verification.
 evidence:
   - type: "official_website"
-    url: "https://cozmo.jo/"
-    label: "Official Cozmo website"
+    url: "https://cozmo.jo/about-cozmo"
+    label: "Official Cozmo history, grocery e-commerce and brand operations; checked 2026-11-10"
+  - type: "official_website"
+    url: "https://www.thegroup.jo/cozmo-supermarket/"
+    label: "Parent company's Cozmo profile, 7th Circle and Simply Cozmo operations; checked 2026-11-10"
   - type: "careers_page"
     url: "https://cozmo.jo/careers"
-    label: "Official Cozmo careers page"
+    label: "Official Cozmo careers page linking to THE Group vacancies"
   - type: "careers_page"
     url: "https://www.thegroup.jo/available-vacancies/"
-    label: "THE Group current vacancies — includes Cozmo roles and general CV submission"
+    label: "Official THE Group vacancies showing Cozmo Bakery Manager role and CV submissions on 2026-11-10"
+  - type: "careers_page"
+    url: "https://www.thegroup.jo/vacancy/bakery-manager/"
+    label: "Employer-authored Cozmo Bakery Manager job description; current portal listing checked 2026-11-10"
+  - type: "linkedin"
+    url: "https://do.linkedin.com/company/the-group-cozmo-bhs-readers-%26-hamleys-"
+    label: "Parent THE Group profile; 501-1000 is group-wide employee size, not Cozmo headcount"
+  - type: "other"
+    url: "https://jo.linkedin.com/jobs/view/bakery-manager-at-the-group-cozmo-the-department-store-readers-hamleys-cozmo-home-4277216292"
+    label: "Historical closed LinkedIn posting showing group recruitment mailbox, not a currently open application"
