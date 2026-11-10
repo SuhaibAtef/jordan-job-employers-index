@@ -32,7 +32,20 @@ job_seeker:
   signals:
     - "Historical infrastructure and test-automation roles in Amman; current openings not confirmed"
     - "Company LinkedIn posts in 2026 document ongoing AI product work and employee activity, not active vacancies"
-notes: "Conversational AI company (founded 2016, Amman office plus KSA/UAE) with proprietary AI chatbot platform and Arabic NLP; built Aramex's WhatsApp chatbot. GPS verified 2026-10-05: official contact-page embedded map + claimed, well-maintained Google listing ('Boto for internet applications') both place office at Khalaf wa Shttai Towers, Al-Madina Al-Monawara St 93, Amman (31.9719387, 35.8645938); LinkedIn agrees on street, house-no 95 (minor)."
+notes: >-
+  Founded in 2016. Official contact page checked 2026-11-10 lists the Amman
+  office at 95 Al-Madina Al-Monawara Street, phone +962 6 580 5700 and general
+  email info@arabot.io; this is not a verified HR mailbox. Company LinkedIn
+  independently lists the same Amman street and number, global headcount 11-50,
+  and Jeddah headquarters. An older directory lists Khalaf wa Shttai Towers
+  at number 93, so the current first-party number 95 is preferred. Previously
+  mapped coordinates 31.9719387, 35.8645938 are approximate to the building
+  area and not independently revalidated for door number 95. Company updates
+  in 2026 support current operations, AI-agent and private-LLM offerings, but
+  no currently open Jordan vacancy or recruiting email was established.
+  Azure, containers, MySQL and Selenium originate in historical engineering
+  job advertisements, not confirmed current production infrastructure.
+
 evidence:
   - type: "official_website"
     url: "https://arabot.io"
