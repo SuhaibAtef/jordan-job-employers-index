@@ -8,7 +8,7 @@ description: >-
   general applications; the linked application forms were reachable on
   2026-10-28, although posting dates and deadlines were not displayed.
 verification_status: "partial"
-last_verified: "2026-11-07"
+last_verified: "2026-11-10"
 industry: "Microfinance / Financial Services"
 website: "https://amc.com.jo"
 careers_url: "https://amc.com.jo/en/career"
@@ -111,3 +111,12 @@ evidence:
   - type: "official_website"
     url: "https://amc.com.jo/en/contact"
     label: "Official contact page rechecked 2026-11-07; Al Jandaweel head office and general contact mailbox"
+  - type: "careers"
+    url: "https://amc.com.jo/en/career"
+    label: "Official English vacancies directory reviewed 2026-11-10 — Branch Manager, Loan Officer and general application; no visible posting dates"
+  - type: "official_website"
+    url: "https://amc.com.jo/en/branches"
+    label: "Official branch directory reviewed 2026-11-10 — 23 branches and head office"
+  - type: "official_website"
+    url: "https://amc.com.jo/en/contact"
+    label: "Official contact page reviewed 2026-11-10 — Building 449, phone and general contact email"
