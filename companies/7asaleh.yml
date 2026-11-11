@@ -5,7 +5,7 @@ description: >-
   and teenagers, combining allowances, chores, savings goals and a prepaid-card
   concept. Its current operating status remains unconfirmed as of November 2026.
 verification_status: "partial"
-last_verified: "2026-11-09"
+last_verified: "2026-11-11"
 industry: "Family Fintech / Financial Education"
 website: "https://7asaleh.com"
 careers_url: null
@@ -60,6 +60,13 @@ notes: >-
   operations or recruiting; no newer official hiring evidence was established.
   On 2026-11-09, Umniah's official retrospective of its December 2022 The Tank\n  annual event was reviewed: it explicitly names 7asaleh among 20 participating\n  startups. This independently supports historical incubator participation,\n  but neither current operations nor employment. Targeted November 2026 searches\n  did not establish a current official vacancy, company LinkedIn page, or\n  operational office. The 2024 Umniah/Startupbootcamp partnership concerns\n  the incubator generally and is not evidence that 7asaleh participated in 2024.\n  No confirmed current company LinkedIn page, careers portal, open direct
   vacancy, headcount, street address, coordinates or HR mailbox was found.
+  Rechecked 2026-11-11: Targeted searches for 7asaleh/حصالة did not establish a
+  current official careers page, vacancy, active Jordan office or headcount.
+  The AppBrain page currently presents inconsistent platform wording: its URL
+  and heading refer to iOS, while the body describes Google Play removal on
+  2026-01-19. Consequently the exact affected storefront is unresolved;
+  the listing is evidence of historical distribution only, not proof that
+  both app stores removed the product or that the company closed.
   A ChangeLabs 2023 Jordan and Palestine Fintech for a Future program report
   (published in 2024) names Nayef El Fayez as 7asaleh founder and participant;
   this independently corroborates historical founder identity and fintech
@@ -94,3 +101,6 @@ evidence:
   - type: "other"
     url: "https://www.umniah.com/explore-umniah/the-tank-annual-activities/"
     label: "Umniah official December 2022 The Tank annual event retrospective — explicitly lists 7asaleh among 20 startups; historical participation only (reviewed 2026-11-09)"
+  - type: "other"
+    url: "https://www.appbrain.com/appstore/7asaleh/ios-1634617551"
+    label: "Rechecked 2026-11-11 — AppBrain page contains inconsistent iOS/Google Play platform wording; store-specific removal cannot be confidently assigned"
