@@ -1,7 +1,7 @@
 name: "Alefredo EdTech"
 description: "Alefredo EdTech is an Amman-based education-technology business offering international-curriculum textbooks, used-book trading, past papers, interactive assessments and AI-enabled learning resources for British, American and IB students. In 2026 it announced the acquisition of UK tutoring platform Tutor House, adding access to live tutoring services."
 verification_status: "partial"
-last_verified: "2026-11-06"
+last_verified: "2026-11-11"
 industry: "Education technology (international curricula, learning resources and tutoring)"
 website: "https://alefredoedtech.com/"
 careers_url: "https://alefredoedtech.com/work-with-us"
@@ -28,7 +28,7 @@ job_seeker:
     - "November 2026: official Education Advisor registration invites independent advisors to set hourly rates, with a 25% platform fee; this is platform participation, not a salaried Alefredo employee vacancy."
     - "Historical Amman junior IT Quality Assurance full-time listing invited fresh graduates and referenced manual/automation testing, Jira and Office 365; LinkedIn now marks applications closed."
 notes: >-
-  Reviewed 2026-11-06: the official People page still invites team applicants without confirming specific open roles. Company LinkedIn reports 11-50 staff in Amman; an older junior QA posting is closed and must not be treated as a live vacancy. Alefredo Books publishes Jordan phone +962 78 649 4949, but not a dedicated HR line. The official site and LinkedIn confirm Amman operations, international-curriculum education products and a self-reported 11-50 employee range. The company announced the Tutor House acquisition in 2026. The prior King Hussein Business Park office description is retained as provided but could not be confirmed as a current street/building address; former point coordinates were only approximate park coordinates and have been removed. The existing HR email (Hr@alefredoedtech.com) could not be corroborated in current official sources; info@alefredoedtech.com is the published general contact, not a dedicated HR mailbox. The official Education Advisor registration offers fee-sharing independent advisory participation, not verified staff employment. The official internships directory aggregates opportunities from other employers and must not be counted as Alefredo hiring. Recent paid content-creator and ambassador invitations are recruitment signals, not confirmed staff positions. Alefredo's AI product positioning and Replit education partnership do not establish its internal technology stack; former Jira, Microsoft 365 and Generative AI stack entries were removed as unverified. The LinkedIn founding year (2019) differs from press coverage (2020); no founding year is asserted here.
+  Rechecked 2026-11-11: Official contact page continues to list only Amman, Jordan, telephone 0786494949 and info@alefredoedtech.com; no precise office address or dedicated HR contact is published. The current homepage advertises British, American and IB curriculum materials, past-paper bundles and AI-assisted educational matching. The People page still links to Work With Us without establishing an accepting staff vacancy. The internships page lists third-party organizations, and the education-advisor registration is fee-sharing independent participation, not direct salaried employment. The April 25, 2026 company acquisition announcement corroborates Tutor House expansion, but no new independently supported internal engineering stack or exact office coordinates were found. Partial status retained. Reviewed 2026-11-06: the official People page still invites team applicants without confirming specific open roles. Company LinkedIn reports 11-50 staff in Amman; an older junior QA posting is closed and must not be treated as a live vacancy. Alefredo Books publishes Jordan phone +962 78 649 4949, but not a dedicated HR line. The official site and LinkedIn confirm Amman operations, international-curriculum education products and a self-reported 11-50 employee range. The company announced the Tutor House acquisition in 2026. The prior King Hussein Business Park office description is retained as provided but could not be confirmed as a current street/building address; former point coordinates were only approximate park coordinates and have been removed. The existing HR email (Hr@alefredoedtech.com) could not be corroborated in current official sources; info@alefredoedtech.com is the published general contact, not a dedicated HR mailbox. The official Education Advisor registration offers fee-sharing independent advisory participation, not verified staff employment. The official internships directory aggregates opportunities from other employers and must not be counted as Alefredo hiring. Recent paid content-creator and ambassador invitations are recruitment signals, not confirmed staff positions. Alefredo's AI product positioning and Replit education partnership do not establish its internal technology stack; former Jira, Microsoft 365 and Generative AI stack entries were removed as unverified. The LinkedIn founding year (2019) differs from press coverage (2020); no founding year is asserted here.
 evidence:
   - type: "official_website"
     url: "https://alefredoedtech.com/"
@@ -69,3 +69,12 @@ evidence:
   - type: "official_website"
     url: "https://alefredoedtech.com/internships"
     label: "Checked 2026-11-06: curated internships belong to external organizations and are not Alefredo staff vacancies"
+  - type: "official_website"
+    url: "https://alefredoedtech.com/contact"
+    label: "Rechecked 2026-11-11: official contact lists Amman, general email and phone; no street address"
+  - type: "official_website"
+    url: "https://alefredoedtech.com/people"
+    label: "Rechecked 2026-11-11: team invitation links to Work With Us; no confirmed live staff role"
+  - type: "official_website"
+    url: "https://alefredoedtech.com/internships"
+    label: "Rechecked 2026-11-11: curated internship entries are third-party opportunities"
