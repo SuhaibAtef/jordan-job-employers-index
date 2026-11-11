@@ -1,17 +1,20 @@
 name: "ZainTECH"
+description: "ZainTECH is Zain Group’s regional enterprise digital-solutions provider, offering cloud and managed infrastructure, cybersecurity and SOC/NOC services, data and AI, digital engineering, IoT and automation. Its official website identifies an Amman office and Jordan operations."
+verification_status: "partial"
+last_verified: "2026-11-11"
 industry: "ICT / digital solutions (Zain Group)"
 website: "https://zaintech.com"
-careers_url: null
-linkedin: null
+careers_url: "https://zaintech.com/en/careers/"
+linkedin: "https://www.linkedin.com/company/zaintech/"
 hr_email: null
-size: null
+size: "501-1000 (LinkedIn company-wide band; not Jordan headcount)"
 location:
   area: "Amman"
-  address: "Abdallah Ghosheh St. 1, Amman"
+  address: "Building 1, Abdallah Ghosheh Street, P.O. Box 950745, Amman 11195, Jordan"
   status: "provided_unverified"
-  latitude: 31.959986
-  longitude: 35.857136
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.959986,35.857136"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "ai"
   - "data"
@@ -36,8 +39,10 @@ technologies:
   - "VPN"
 job_seeker:
   early_career_signal: false
-  signals: []
-notes: "Zain Group's ICT arm (est. 2021, absorbed STS); operates in Jordan; earned CREST SOC accreditation in Jordan — strong cybersecurity hiring signal. | stack verified 2026-10-04: ZainTECH job postings (Senior Support Engineer-Public Cloud: AWS/Azure/Oracle OCI; Cloud Network Engineer: Kubernetes, Terraform, Ansible, Cisco; Senior Cloud Engineer AWS: Python, CI/CD; SOC Analyst post: managed SOC)"
+  signals:
+    - "Official ZainTECH careers page links to open positions (checked 2026-11-11); current Jordan-specific acceptance not independently confirmed."
+    - "Third-party listings show Amman bid management and digital marketing roles in October-November 2026; verify on employer application page before applying."
+notes: "2026-11-11: Official site lists Jordan office at Building 1, Abdallah Ghosheh Street, while LinkedIn lists Building 5, King Abdullah II Street near 8th Circle; office discrepancy unresolved. Previously stored coordinates cleared as unverified. Company-wide LinkedIn size band is not a Jordan employee count. Official site confirms Jordan SOC/NOC operations, but current individual vacancy acceptance and dedicated HR contact were not verified. Historical technology keywords retained; AWS, Azure and Oracle are corroborated as service platforms, not proof of every internal tool. Zain Group's ICT arm (est. 2021, absorbed STS); operates in Jordan; earned CREST SOC accreditation in Jordan — strong cybersecurity hiring signal. | stack verified 2026-10-04: ZainTECH job postings (Senior Support Engineer-Public Cloud: AWS/Azure/Oracle OCI; Cloud Network Engineer: Kubernetes, Terraform, Ansible, Cisco; Senior Cloud Engineer AWS: Python, CI/CD; SOC Analyst post: managed SOC)"
 evidence:
   - type: "official_website"
     url: "https://zaintech.com"
@@ -51,6 +56,18 @@ evidence:
   - type: "other"
     url: "http://www.zaintech.com/"
     label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=31.959986,35.857136"
-    label: "Google Maps location"
+  - type: "official_website"
+    url: "https://zaintech.com/ar/"
+    label: "Official regional office directory and company size, checked 2026-11-11"
+  - type: "official_website"
+    url: "https://zaintech.com/en/careers/"
+    label: "Official careers page, checked 2026-11-11"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/zaintech/"
+    label: "Company LinkedIn profile, employee band and alternative Amman address"
+  - type: "official_website"
+    url: "https://zaintech.com/en/news/zaintech-crest/"
+    label: "February 17 2025 announcement of Jordan SOC CREST accreditation"
+  - type: "official_website"
+    url: "https://zaintech.com/en/multi-cloud-services/"
+    label: "Jordan SOC/NOC and supported cloud platforms"
