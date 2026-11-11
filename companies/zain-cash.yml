@@ -1,17 +1,20 @@
 name: "Zain Cash"
+verification_status: "partial"
+last_verified: "2026-11-11"
+description: "Zain Cash is a Jordanian mobile financial-services and digital-payments provider offering electronic wallets, local transfers, bill payments, remittances, payment cards and merchant services. Its official website states that it operates under Central Bank of Jordan supervision."
 industry: "Financial Services / Fintech (mobile financial services)"
-website: "http://www.jo.zain.com/"
-careers_url: null
-linkedin: null
+website: "https://www.zaincash.com/"
+careers_url: "https://apply.workable.com/zaincash-1/"
+linkedin: "https://www.linkedin.com/company/zaincash-jo"
 hr_email: null
-size: "200-500"
+size: null
 location:
   area: "Amman"
   address: "King Abdullah II Street, Building 425, 8th Circle, Amman"
-  status: "verified"
-  latitude: 31.9622417
-  longitude: 35.8451057
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.9622417,35.8451057"
+  status: "provided_unverified"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=King%20Abdullah%20II%20Street%20Building%20425%20Amman"
 categories:
   - "consulting"
   - "data"
@@ -29,7 +32,7 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Zain Jordan's fintech unit, launched 2011 and relaunched 2014; mobile wallet + credit cards + remittances; Amman HQ; hiring evidence: Amman-based roles (e.g. Head of AI Technology, hybrid Amman/Cairo; Product Manager postings) on ZainCash careers page; Mastercard Innovation Hub collaboration (Sep 2025). Audit 2026-10-03: no separate Zain Cash office address published — HQ listed as King Abdullah II St (SignalHire) so pin placed at Zain Jordan HQ / 8th Circle area; kept approx=true. jo.zain.com confirmed as their official web presence (cited by Zain Cash app store listings). GPS-verified 2026-10-05: official zaincash.com footer gives \"King Abdullah II Street, Building 425, P.O. Box 940821, Amman 11194, Jordan\"; corroborated by Maps pin \"King Abdullah II St 425\" (31.9622417,35.8451057, unclaimed/thin - corroboration only), Google Play developer address (Future Home Building, 8th Circle), LinkedIn/Facebook snippets (King Abdullah II St); minor postal-code variance 11194 vs 11181."
+notes: "2026-11-11 verification: Official Zain Cash about-us page confirms Jordan mobile wallet, bill payment and transfer services under Central Bank of Jordan supervision. Official site footer confirms King Abdullah II Street, Building 425, Amman 11194, but exact GPS coordinates were only supported by a thin/unclaimed map listing and have been cleared; location remains provided_unverified. A third-party job-board snapshot dated 2026-11-10 reports five Amman Workable-sourced openings including backend, IT infrastructure and an internship, but direct application acceptance was not independently confirmed. A historical company LinkedIn recruitment post provides ZainCashJobs@jo.zain.com, not independently confirmed as a current HR mailbox. Published workforce counts conflict (100 in 2025 industry directory versus earlier 200-500 estimate), so size is unset. Technology keywords are retained as historical leads, not a verified internal stack. Company-level status partial. Earlier notes: Zain Jordan's fintech unit, launched 2011 and relaunched 2014; mobile wallet + credit cards + remittances; Amman HQ; hiring evidence: Amman-based roles (e.g. Head of AI Technology, hybrid Amman/Cairo; Product Manager postings) on ZainCash careers page; Mastercard Innovation Hub collaboration (Sep 2025). Audit 2026-10-03: no separate Zain Cash office address published — HQ listed as King Abdullah II St (SignalHire) so pin placed at Zain Jordan HQ / 8th Circle area; kept approx=true. jo.zain.com confirmed as their official web presence (cited by Zain Cash app store listings). GPS-verified 2026-10-05: official zaincash.com footer gives \"King Abdullah II Street, Building 425, P.O. Box 940821, Amman 11194, Jordan\"; corroborated by Maps pin \"King Abdullah II St 425\" (31.9622417,35.8451057, unclaimed/thin - corroboration only), Google Play developer address (Future Home Building, 8th Circle), LinkedIn/Facebook snippets (King Abdullah II St); minor postal-code variance 11194 vs 11181."
 evidence:
   - type: "official_website"
     url: "http://www.jo.zain.com/"
@@ -70,3 +73,15 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9622417,35.8451057"
     label: "Google Maps location"
+  - type: "official_website"
+    url: "https://zaincash.com/about-us"
+    label: "2026-11-11: official services and regulatory positioning"
+  - type: "official_website"
+    url: "https://www.zaincash.com/support-and-complaints"
+    label: "2026-11-11: official contact and mailing details"
+  - type: "company_listing"
+    url: "https://alion.io/company/zain-cash/jobs"
+    label: "2026-11-10 third-party snapshot of five Workable-sourced Amman roles; acceptance unconfirmed"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/posts/zaincash-jo_be-part-of-zain-cash-family-join-the-innovation-activity-7013496828281151490-df_n"
+    label: "Historical company HR mailbox in recruitment post; current validity unconfirmed"
