@@ -6,7 +6,7 @@ description: >-
   a content licensing and syndication business, and operates the DISCO
   digital-content marketplace.
 verification_status: "partial"
-last_verified: "2026-11-07"
+last_verified: "2026-11-11"
 industry: "Digital publishing / Online media / Content licensing and syndication"
 website: "https://www.albawaba.com"
 careers_url: null
@@ -99,6 +99,15 @@ notes: >-
   or current deployment of the historical technologies was established.
   The published address supports location confidence, not complete company
   verification; status remains partial.
+  Rechecked 2026-11-11: Official English and Arabic About/Contact pages
+  continue to identify the Amman headquarters at The Plenary, fourth floor,
+  74 Abdel Hamid Sharaf Street, and the general contact mailbox
+  contact@albawaba.com. The official The Node index includes editorial
+  articles dated November 9, 2026, supporting ongoing publication activity.
+  These sources do not independently establish current salaried vacancies,
+  dedicated HR contact, exact office coordinates, audited headcount or
+  current deployment of historically documented technologies. The address
+  is publisher-reported; company-level verification remains partial.
 evidence:
   - type: "official_website"
     url: "https://www.albawaba.com"
@@ -160,3 +169,6 @@ evidence:
   - type: "job_post"
     url: "https://bebee.com/jo/jobs/editor-in-chief-arabic-al-bawaba-news-amman--fj-2432694201"
     label: "Third-party Arabic Editor in Chief listing showing November 24, 2026 deadline; application status unconfirmed at November 7 review"
+  - type: "official_website"
+    url: "https://www.albawaba.com/the-node"
+    label: "Official editorial index with November 9, 2026 publication; checked November 11, 2026"
