@@ -8,7 +8,7 @@ description: >-
   development near Amman's airport; this does not establish continuity of the
   historical Shmeisani employer or that the park is fully operational.
 verification_status: partial
-last_verified: '2026-11-07'
+last_verified: '2026-11-11'
 industry: Logistics / freight forwarding / warehousing (historical Jordan listing)
 website: https://agility.com/
 careers_url: https://agility.com/careers/
@@ -65,6 +65,14 @@ notes: >-
   the completed GIL transfer. No direct current Agility Jordan vacancy,
   local workforce size, HR mailbox or reliable office coordinates were
   established. Retain partial company status and unverified historic address.
+  Rechecked 2026-11-11: The live official ALP Jordan page still describes over
+  100,000 sqm at Qastal as under development; this is a project description,
+  not proof of completed construction, active hiring or the old Shmeisani office.
+  The current ALP About page lists operating countries without Jordan, while
+  its contact page says ALP does not directly offer 3PL services. No current
+  Jordan-specific Agility vacancy, local headcount, HR email, precise site
+  coordinates or internal software stack was verified. Historic address and
+  company-level partial status are unchanged.
 evidence:
 - type: official_website
   url: https://agility.com/
@@ -115,3 +123,9 @@ evidence:
 - type: official_website
   url: https://agilitylogisticsparks.com/sitemap/
   label: 'Official ALP sitemap reviewed 2026-11-07: Jordan project link remains listed; operational status not established'
+- type: official_website
+  url: https://agilitylogisticsparks.com/logistics-parks-in-middle-east/jordan/
+  label: 'Official ALP Jordan page rechecked 2026-11-11: Qastal project described as under development; no confirmed operating office or vacancy'
+- type: official_website
+  url: https://agilitylogisticsparks.com/about-agility-logistics-parks/
+  label: 'ALP operating-country list rechecked 2026-11-11: Jordan absent, notwithstanding separate project page'
