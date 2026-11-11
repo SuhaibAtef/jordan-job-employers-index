@@ -1,7 +1,7 @@
 name: "Al Hodhud"
 description: "Al Hodhud is an Amman-based Jordanian educational-content and edtech company founded in 2011 by siblings Shaima and Mohammed Al-Bishtawi. It develops Arabic-language early-childhood curricula, interactive classroom and tablet learning materials, home-learning programs and children's educational apps, including the Salma reading program and My Cheerful Letters. Its Android app was updated in May 2025; a partner publicly announced an Arabic-learning mobile-app memorandum of understanding in late 2025."
 verification_status: "partial"
-last_verified: "2026-11-07"
+last_verified: "2026-11-11"
 industry: "Educational Technology / Arabic Children's Digital Content"
 website: "https://alhodhud.com/"
 careers_url: null
@@ -67,6 +67,15 @@ notes: >-
   public listings do not establish active hiring, current physical office
   occupancy, audited headcount or internal software stack. No current
   vacancy or dedicated HR contact was substantiated in this review.
+  Rechecked 2026-11-11: The official homepage and product listing are indexed
+  and accessible, naming Mohammed and Shaima Al-Bishtawi as founders and
+  advertising Al Hodhud at Home for Arabic self-learning. The product page
+  displays a USD 35-60 price range and one- or two-child variants; these
+  are advertised offers, not proof of completed sales or 2026 hiring.
+  The official team page documents multidisciplinary educational and
+  software-development roles historically, without confirming a current
+  technology stack, vacancies, headcount or physical office occupancy.
+  No new HR contact or reliable office coordinates were established.
 evidence:
   - type: "official_website"
     url: "https://alhodhud.com/"
@@ -104,3 +113,6 @@ evidence:
   - type: "official_website"
     url: "https://alhodhud.com/"
     label: "Official homepage checked 2026-11-07: founders, Arabic-learning offerings; not recruitment evidence"
+  - type: "official_website"
+    url: "https://alhodhud.com/product/alhodhud-at-home/"
+    label: "Official product listing rechecked 2026-11-11: home Arabic-learning offer, USD 35-60, one/two-child variants; not a hiring signal"
