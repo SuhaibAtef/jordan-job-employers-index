@@ -42,7 +42,7 @@ notes: Reviewed 2026-10-25. Microsoft official worldwide directory explicitly li
   .NET, Azure and Microsoft 365 are documented Microsoft platforms/products and are not evidence of the Jordan office internal development stack.
   Categories describe product/service domains rather than Jordan-specific engineering teams. The global careers page and Jordan MCAPS internship
   eligibility guidance do not establish any presently open Jordan vacancy or internship. No dedicated HR email was confirmed. Company verification
-  remains partial even though the office address is verified.
+  remains partial even though the office address is verified. Rechecked 2026-11-11: Microsoft's official worldwide directory still lists the Jordan office at King Hussein Business Park, Building GH3, second floor, Amman, and telephone +962 6 5503444. The official internship eligibility page still includes Jordan University Interns MCAPS, requiring final-year or recent STEM graduates with Jordan work authorization; this is program eligibility rather than proof of an accepting vacancy. Precise coordinates, current local headcount, dedicated HR contact, and currently open Jordan vacancies remain unverified. The Jordan office address is corroborated but company verification remains partial.
 evidence:
 - type: official_website
   url: https://www.microsoft.com/en-us/worldwide
@@ -71,5 +71,8 @@ evidence:
 - type: google_maps
   url: https://www.google.com/maps/search/?api=1&query=31.972833,35.835229
   label: Previously recorded unclaimed business-listing map coordinates; approximate, not exact GH3 office pin
+- type: official_website
+  url: https://www.microsoft.com/en-jo/
+  label: 'Official Microsoft Jordan localized website, checked 2026-11-11; product presence not evidence of Jordan internal stack'
 verification_status: partial
-last_verified: '2026-10-25'
+last_verified: '2026-11-11'
