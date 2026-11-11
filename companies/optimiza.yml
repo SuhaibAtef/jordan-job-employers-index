@@ -36,7 +36,7 @@ job_seeker:
     - "Fresh-graduate SQL/PLSQL and Oracle database recruitment posts (September 2026)"
     - "Technical training and development on official careers page"
 notes: >-
-  Reviewed 2026-10-18. Official website and LinkedIn confirm an active
+  Rechecked 2026-11-11: The official careers index continues to display five roles: Operations Associate, Oracle Presales Architect (explicitly Saudi Arabia), Product Line Manager Data & AI Solutions, Senior Oracle EAM Consultant, and Senior Oracle HCM Specialist. The official HCM and Data & AI role pages publish careers@optimizasolutions.com for applications; posting presence does not prove individual applications are currently accepted or that unspecified roles are based in Jordan. The official 2024 annual report records 440 employees in Optimiza Jordan as of 2024 year-end, a historical Jordan figure, not current 2026 headcount. The official contact page continues to identify Mecca Towers on Mecca Al Mukarramah Street in Amman, but does not independently verify building number, floor or exact coordinates. Company-level verification remains partial.\n  Reviewed 2026-10-18. Official website and LinkedIn confirm an active
   Jordan-headquartered ICT systems integrator founded in 1983. Official site
   describes over 450 experts across the group; LinkedIn's self-reported
   201-500 size range is not a Jordan-specific audited headcount. The Amman
@@ -53,7 +53,7 @@ notes: >-
   services, not an audited internal production stack. Historical Optimiza
   Academy references do not establish an active academy in 2026.
 verification_status: "partial"
-last_verified: "2026-10-18"
+last_verified: "2026-11-11"
 evidence:
   - type: "official_website"
     url: "https://optimiza.me/"
@@ -84,4 +84,4 @@ evidence:
     label: "September 2026 Jordan Angular and Java role"
   - type: "other"
     url: "https://optimiza.me/wp-content/uploads/2023/05/التقرير-السنوي-وتقرير-الحوكمة-AD22Mar2023-final_compressed.pdf"
-    label: "Historical 2022 annual report; not current headcount evidence"
+    label: "Historical 2022 annual report; not current headcount evidence"  - type: "other"\n    url: "https://optimiza.me/wp-content/uploads/2025/05/2024-%D8%A7%D9%84%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D9%86%D9%88%D9%8A-%D9%88%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%A7%D9%84%D8%AD%D9%88%D9%83%D9%85%D8%A9.pdf"\n    label: "Official 2024 annual report: 440 Optimiza Jordan employees at 2024 year-end; historical, checked 2026-11-11"\n  - type: "job_post"\n    url: "https://optimiza.me/archives/current-vacancies/senior-oracle-hcm-specialist"\n    label: "Official Senior Oracle HCM Specialist job requirements and application email; checked 2026-11-11"\n
