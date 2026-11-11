@@ -1,7 +1,7 @@
 name: "BlackStone eIT"
 description: "BlackStone eIT is a systems integrator and independent software vendor providing enterprise software, digital transformation, AI-enabled solutions, systems integration, and managed services. Its official site confirms a Jordan office; Amman-based technical recruitment is documented by job listings, but the current physical street address is not independently established."
 verification_status: "partial"
-last_verified: "2026-10-22"
+last_verified: "2026-11-11"
 industry: "IT services and consulting / Enterprise software"
 website: "https://blackstoneeit.com"
 careers_url: "https://blackstoneeit.com/careers/"
@@ -31,8 +31,8 @@ job_seeker:
   early_career_signal: false
   signals:
     - "A September 2026 third-party job listing documented an Amman hybrid senior .NET/Angular full-stack position; live vacancy status on October 22 is not independently confirmed."
-    - "A junior QC engineer position in Amman was listed historically but was removed on June 1, 2026; it is not evidence of a current entry-level opening."
-notes: "Verified 2026-10-22 against official company, contact, and careers pages; LinkedIn and dated recruitment listings. The official contact page explicitly lists an office in Jordan, but provides no Jordan street address. Amman is corroborated by a Bayt company profile and Amman job advertisements; no reliable office coordinates are established, so previous generic map-point coordinates were removed. LinkedIn's 1,001-5,000 figure is a global self-reported company-size range, not a Jordan office headcount. The official careers page is accessible but displays duplicated Dubai positions with apparently unrelated architecture/construction placeholder text; it should not be treated as a reliable live vacancy list. Sales@blackstoneeit.com is an official general sales address, not a verified HR contact. Technical skills listed here are requirements in a September 2026 Amman job advertisement, not an audited complete internal production stack. Historical recruitment does not prove currently open Jordan roles."
+    - "A junior QC engineer position in Amman was listed historically but was removed on June 1, 2026; it is not evidence of a current entry-level opening."\n    - "An employer-branded Workable posting for Senior QC Engineer explicitly permits onsite work in Jordan; application acceptance and posting date were not independently confirmed on 2026-11-11."
+notes: "Reviewed 2026-11-11: The employer-branded Workable board contains a Senior QC Engineer posting specifying onsite Jordan, strengthening direct recruitment evidence but not confirming that applications are currently accepted. The official corporate homepage reports 1,300+ professionals globally (company claim), consistent with the existing global size band; no Jordan-only headcount is established. A third-party October 16 listing for a senior full-stack Angular role in Amman corroborates more recent local recruitment but does not establish present vacancy availability. No exact Jordan office address, HR-specific mailbox or verified coordinates were found. Previously verified 2026-10-22 against official company, contact, and careers pages; LinkedIn and dated recruitment listings. The official contact page explicitly lists an office in Jordan, but provides no Jordan street address. Amman is corroborated by a Bayt company profile and Amman job advertisements; no reliable office coordinates are established, so previous generic map-point coordinates were removed. LinkedIn's 1,001-5,000 figure is a global self-reported company-size range, not a Jordan office headcount. The official careers page is accessible but displays duplicated Dubai positions with apparently unrelated architecture/construction placeholder text; it should not be treated as a reliable live vacancy list. Sales@blackstoneeit.com is an official general sales address, not a verified HR contact. Technical skills listed here are requirements in a September 2026 Amman job advertisement, not an audited complete internal production stack. Historical recruitment does not prove currently open Jordan roles."
 evidence:
   - type: "official_website"
     url: "https://blackstoneeit.com/company/"
@@ -52,6 +52,6 @@ evidence:
   - type: "job_post"
     url: "https://echojobs.io/job/blackstone-eit-senior-full-stack-developer-net-angular-cuxa8"
     label: "Amman full-stack role, verified by aggregator September 8, 2026; current opening unconfirmed"
-  - type: "historical_job_post"
+  - type: "official_website"\n    url: "https://blackstoneeit.com/"\n    label: "Official homepage reviewed 2026-11-11 — SI/ISV services, 1,300+ company-reported global professionals and enterprise product categories"\n  - type: "job_post"\n    url: "https://apply.workable.com/blackstone-eit-2/j/26B98B673B/"\n    label: "Employer-branded Workable Senior QC Engineer listing specifying onsite Jordan; application acceptance unconfirmed on 2026-11-11"\n  - type: "job_post"\n    url: "https://echojobs.io/job/blackstone-eit-senior-full-stack-net-developer-angular-6xags"\n    label: "Third-party senior Angular/.NET full-stack role in Amman marked verified 2026-10-16; current acceptance unconfirmed"\n  - type: "historical_job_post"
     url: "https://builtin.com/job/junior-quality-control-engineer/9279006"
     label: "Amman junior QA role removed June 1, 2026"
