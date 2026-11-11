@@ -1,17 +1,17 @@
 name: "Aramex"
 description: "Aramex is a global transportation and logistics company providing international and domestic express delivery, freight forwarding, warehousing and supply-chain services. Although now headquartered in Dubai, it was founded in Amman and maintains a significant Jordan technology and operations footprint."
-verification_status: "verified"
-last_verified: "2026-10-07"
+verification_status: "partial"
+last_verified: "2026-11-11"
 industry: "Transportation & Logistics"
-website: "http://www.aramex.com/"
-careers_url: "https://www.aramex.com/careers"
+website: "https://www.aramex.com/jo/en"
+careers_url: "https://careers.aramex.com/"
 linkedin: "https://www.linkedin.com/company/aramex/"
 hr_email: null
 size: "10000+"
 location:
   area: "Amman"
   address: "Khalil Al Salem Street, Building 18, Tla' Al-Ali, Amman, Jordan"
-  status: "provided_unverified"
+  status: "verified"
   latitude: 31.995436
   longitude: 35.864502
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.995436,35.864502"
@@ -32,7 +32,8 @@ job_seeker:
   signals:
     - "Fresh graduate"
     - "Junior"
-notes: "Global logistics provider headquartered in Amman; large Digital & Technology (D&T) org with active Amman developer hiring per recent Bayt postings (incl. junior-level .NET roles with 2+ yrs). Tech-heavy employer for fresh grads. Pin moved from city-center fallback to verified main office (Khalil Al Salem St., Tla' Al-Ali)."
+notes: >-
+  Reviewed 2026-11-11: Aramex's official Jordan office directory explicitly lists the Tla' Al-Ali branch at Khalil Al Salem Street, Building 18, Amman, matching the stored street address. This verifies the branch address, not the stored coordinates or that it is the company's principal technology office. The same directory separately lists a Global Support Office at King Hussein Business Park and a Jordan regional office at Al Muqablain, so the Tla' Al-Ali branch must not be represented as the sole or head office. AMMcare@aramex.com is published as customer service contact, not a recruitment mailbox. The official careers portal has an Amman Contact Center Executive posting dated 2026-10-25 and a Global Process Owner - Purchase to Pay role posted 2026-11-02 that may be based in Amman, Cairo or Dubai; acceptance remains subject to the application portal. Historical junior developer signals and .NET/SQL technologies are based on prior advertisements, not an independently verified current production stack. Global size band is not Jordan headcount. Precise coordinates, HR email and current engineering hiring are unverified; company-level status is partial.
 evidence:
   - type: "official_website"
     url: "http://www.aramex.com/"
@@ -64,3 +65,12 @@ evidence:
   - type: "job_post"
     url: "https://jo.linkedin.com/jobs/view/corporate-software-engineer-at-aramex-3913651671"
     label: "Amman corporate software-engineer role with .NET, ASP.NET, SQL Server and REST APIs"
+  - type: "official_website"
+    url: "https://www.aramex.com/jo/ar/find-aramex-office"
+    label: "Official Jordan office directory; Tla' Al-Ali Building 18, separate Global Support Office and Jordan RO; checked 2026-11-11"
+  - type: "job_post"
+    url: "https://careers.aramex.com/job/Amman-Contact-Center-Executive/6621-en_US/"
+    label: "Official Amman Contact Center Executive posting dated 2026-10-25; checked 2026-11-11"
+  - type: "job_post"
+    url: "https://careers.aramex.com/job/Global-Process-Owner-Purchase-to-Pay/8641-en_US/"
+    label: "Official global process role dated 2026-11-02; Amman one of three possible locations"
