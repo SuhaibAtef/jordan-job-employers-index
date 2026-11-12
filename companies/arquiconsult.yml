@@ -57,9 +57,9 @@ evidence:
 - type: linkedin_company
   url: https://sa.linkedin.com/company/arquiconsultmena
   label: Arquiconsult MENA regional profile checked 2026-11-06; recent activity, Riyadh headquarters, no verified Amman street address
-  - type: careers_page
-    url: https://arquiconsult.com/en/arquitalent/
-    label: Official Arquitalent open positions index reviewed 2026-11-12; Portugal roles visible, no current Jordan vacancy confirmed
-  - type: official_website
-    url: https://arquiconsult.com/contactos/
-    label: Official global locations directory reviewed 2026-11-12; Jordan office not listed
+- type: careers_page
+  url: https://arquiconsult.com/en/arquitalent/
+  label: Official Arquitalent open positions index reviewed 2026-11-12; Portugal roles visible, no current Jordan vacancy confirmed
+- type: official_website
+  url: https://arquiconsult.com/contactos/
+  label: Official global locations directory reviewed 2026-11-12; Jordan office not listed
