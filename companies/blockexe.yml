@@ -1,7 +1,7 @@
 name: "Blockexe"
 description: "Blockexe is a Jordan-based blockchain and digital-trust technology company offering distributed-ledger solution development, deployment, network operations, consultation and professional training. It also describes AI-enabled applications. In 2024 it partnered with Jordan's Ministry of Digital Economy and Entrepreneurship on the MODEE DLT network integrated with the Sanad government platform."
 verification_status: "partial"
-last_verified: "2026-10-22"
+last_verified: "2026-11-12"
 industry: "Blockchain Services / Digital Trust Technology"
 website: "https://blockexe.com/"
 careers_url: null
@@ -24,7 +24,7 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Official website active when reviewed on 2026-10-22. LinkedIn lists Amman headquarters, founding year 2023 and a company-size range of 2-10 (self-reported, not an independently audited headcount). The company publishes Al Shmeisani, Amman, but no confirmed street address, office coordinates or independent occupancy verification. General contact: admin@blockexe.com; +962790446803 (not identified as HR). Company advertises blockchain and AI-enabled solutions, but no specific programming languages or internal production stack were verified. Its professional training courses are customer-facing, not evidence of graduate recruitment. No dedicated careers page, current vacancy, HR email or early-career hiring program was confirmed."
+notes: "Official website rechecked on 2026-11-12; current pages still describe DLT development, training and Al Shmeisani, Amman contact details. Company LinkedIn shows recent product activity, including a proposed decentralized financial-credit solution and a reported partnership with Alawnah Exchange; these are company claims, not independently verified deployments or hiring signals. No open Jordan vacancy or HR contact was confirmed on 2026-11-12. Original review: official website active on 2026-10-22. LinkedIn lists Amman headquarters, founding year 2023 and a company-size range of 2-10 (self-reported, not an independently audited headcount). The company publishes Al Shmeisani, Amman, but no confirmed street address, office coordinates or independent occupancy verification. General contact: admin@blockexe.com; +962790446803 (not identified as HR). Company advertises blockchain and AI-enabled solutions, but no specific programming languages or internal production stack were verified. Its professional training courses are customer-facing, not evidence of graduate recruitment. No dedicated careers page, current vacancy, HR email or early-career hiring program was confirmed."
 evidence:
   - type: "official_website"
     url: "https://blockexe.com/"
@@ -41,3 +41,9 @@ evidence:
   - type: "other"
     url: "https://coingeek.com/jordan-launches-national-blockchain-network/"
     label: "2024 reporting of ministry-announced MODEE DLT/Sanad integration"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/posts/blockexejor_blockexe-defi-credit-activity-7478099131664752640-ZqT9"
+    label: "Company product announcement: decentralized credit solution described as forthcoming (reviewed 2026-11-12; not a vacancy)"
+  - type: "official_website"
+    url: "https://blockexe.com/about"
+    label: "Official company about page rechecked 2026-11-12: DLT development, operations and Al Shmeisani contact"
