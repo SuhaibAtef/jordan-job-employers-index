@@ -6,7 +6,7 @@ description: >-
   and chronic-disease risk information. Historical company activity is documented,
   but current operations, staffing and hiring could not be confirmed as of 2026-10-30.
 verification_status: "unresolved"
-last_verified: "2026-11-06"
+last_verified: "2026-11-12"
 industry: "Health technology, Preventive wellness"
 website: "https://flims.co"
 careers_url: null
@@ -63,6 +63,14 @@ notes: >-
   Flat6Labs activity in 2026 concerns the accelerator, not necessarily FLIMS.
   Current operating status, hiring, headcount, HR contact, office coordinates
   and production technology stack remain unresolved.
+  Rechecked 2026-11-12: Flat6Labs portfolio and 2022 investor brief remain accessible
+  and substantiate the historical Amman accelerator participation and proposed
+  wellness product. Searches for FLIMS-specific contemporary operations, a
+  company-controlled careers page, recruitment, staff size and Jordan office
+  did not establish current activity. Flat6Labs current Jordan programs and
+  vacancies belong to the accelerator, not FLIMS. No current HR contact,
+  verified street address, precise coordinates or implementation stack was
+  established. Company status remains unresolved.
 evidence:
   - type: "official_website"
     url: "https://flims.co"
@@ -84,4 +92,6 @@ evidence:
     label: "Jordan Times March 15, 2022 report corroborating first Amman Demo Day and seed-program cohort"
   - type: "other"
     url: "https://www.wamda.com/2022/03/startups-graduate-flat6labs-seed-programme-jordan"
-    label: "Wamda report dated 2022-03-16 on Flat6Labs Amman graduation"
+    label: "Wamda report dated 2022-03-16 on Flat6Labs Amman graduation"  - type: "company_listing"
+    url: "https://flat6labs.com/Location/jordan/"
+    label: "2026-11-12 cross-check: current accelerator Jordan programs, not evidence that FLIMS remains active"
