@@ -21,7 +21,7 @@ technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Reviewed 2026-10-19. Official site documents legal/compliance services, legal-tech contract tools, AI-assisted legal offerings and LawInMotion workshops/bootcamps; training enrollment is not evidence of an internship or job. No current vacancy, dedicated careers page, verified recruitment email or developer technology stack established. Official contact Hello@lexi-tech.net is a general inquiry address, not verified HR; previous hello@lexitech.net was not corroborated. LinkedIn reports 11-50 employees and lists Housing Bank Complex, Queen Nour Street, Amman, but current physical office and exact coordinates were not independently corroborated; previous 31.9539,35.9106 point was an Amman city centroid, not a company pin. Founding year conflicts: official about page states 2024, LinkedIn states 2025. Previously linked company-profile PDF was inaccessible during this review."
+notes: "Reviewed 2026-10-19; rechecked 2026-11-12. Official site documents legal/compliance services, legal-tech contract tools, AI-assisted legal offerings and LawInMotion workshops/bootcamps; training enrollment is not evidence of an internship or job. No current vacancy, dedicated careers page, verified recruitment email or developer technology stack established. Official contact Hello@lexi-tech.net is a general inquiry address, not verified HR; previous hello@lexitech.net was not corroborated. LinkedIn reports 11-50 employees and lists Housing Bank Complex, Queen Nour Street, Amman, but current physical office and exact coordinates were not independently corroborated; previous 31.9539,35.9106 point was an Amman city centroid, not a company pin. Founding year conflicts: official about page states 2024, LinkedIn states 2025. Previously linked company-profile PDF was inaccessible during the October review. On 2026-11-12 the official website and contact page continued to describe legal-tech, compliance, training and digital forensics, and listed Hello@lexi-tech.net as general contact. LinkedIn continued to report 11-50 employees and the Queen Nour Street address. The 2024 (official) versus 2025 (LinkedIn) founding-year discrepancy remains. No active job posting, dedicated HR contact, verified production stack or precise office coordinates established."
 evidence:
   - type: "official_website"
     url: "https://www.lexi-tech.net/"
@@ -38,5 +38,11 @@ evidence:
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/lexitech-legaltech/"
     label: "Company LinkedIn; 11-50 employees, address, activity and stated 2025 founding year"
+  - type: "other"
+    url: "https://www.lexi-tech.net/contact"
+    label: "Official contact page rechecked 2026-11-12; general inquiry address, not HR"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/lexitech-legaltech/"
+    label: "Company profile rechecked 2026-11-12; size and self-reported office location"
 verification_status: "partial"
-last_verified: "2026-10-19"
+last_verified: "2026-11-12"
