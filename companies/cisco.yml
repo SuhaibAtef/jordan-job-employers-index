@@ -1,7 +1,7 @@
 name: "Cisco"
 description: "Cisco is a global networking, cybersecurity, collaboration and observability technology company. Its products include enterprise networking, AI-ready infrastructure, security, Webex collaboration and network/application monitoring. Cisco's own supplier directory lists two Jordan legal entities with Amman billing addresses, supporting a documented Jordan presence without independently establishing current office occupancy."
 verification_status: "partial"
-last_verified: "2026-10-22"
+last_verified: "2026-11-12"
 industry: "Networking, Cybersecurity and Enterprise Technology"
 website: "https://www.cisco.com/"
 careers_url: "https://careers.cisco.com/"
@@ -32,7 +32,7 @@ job_seeker:
   signals:
     - "Cisco's official global careers site advertises internships, co-ops, apprenticeships and entry-level pathways; availability and eligibility in Jordan were not confirmed on 2026-10-22."
     - "The official careers site supports searching by location and role; no live Amman-specific vacancy was independently verified in this review."
-notes: "Reviewed 2026-10-22. Cisco's official EMEA accounts-payable directory lists Cisco Systems Jordan (entity 593) at Astra Plaza Complex, Block A, Office 505, 5th Floor, Northern Malfuf-Wadi Saqra Street, Amman 11821, and Cisco Systems Netherlands Holdings B.V. (Jordan) (entity 682) at King Hussein Business Park, King Abdullah II Street, Building 1, 1st Floor, Amman 11953. These are company-published BILLING addresses, not independently verified staffed offices; the first entity's address is retained as a provided, unverified location, and the alternate entity address is noted here. Cisco's 2025 list of subsidiaries separately identifies Cisco Systems (Jordan). Coordinates and a map pin remain unset. LinkedIn reports 10,001+ employees globally, not Jordan-specific headcount. The official global careers site describes early-career programs, but no currently open Jordan job was confirmed. Cisco's published recruitment sender addresses are not designated public HR inquiry mailboxes; hr_email remains null. Listed technologies are publicly documented Cisco products/capabilities, not an independently audited internal engineering stack. The official accounts-payable alias 593-jo-ap@cisco.com is for invoices, not HR."
+notes: "Rechecked 2026-11-12: Cisco\u0027s official EMEA supplier billing directory continues to list the two Jordan entities and their Amman billing addresses; these remain billing records rather than proof of staffed office occupancy. Cisco\u0027s FY2026 official results confirm ongoing networking, security, collaboration and observability businesses globally, but not Jordan-specific staffing or hiring. A fresh search did not establish a currently accepting Amman vacancy, public dedicated HR mailbox, independently verified office coordinates or audited internal engineering stack. Retain partial status. Reviewed 2026-10-22. Cisco's official EMEA accounts-payable directory lists Cisco Systems Jordan (entity 593) at Astra Plaza Complex, Block A, Office 505, 5th Floor, Northern Malfuf-Wadi Saqra Street, Amman 11821, and Cisco Systems Netherlands Holdings B.V. (Jordan) (entity 682) at King Hussein Business Park, King Abdullah II Street, Building 1, 1st Floor, Amman 11953. These are company-published BILLING addresses, not independently verified staffed offices; the first entity's address is retained as a provided, unverified location, and the alternate entity address is noted here. Cisco's 2025 list of subsidiaries separately identifies Cisco Systems (Jordan). Coordinates and a map pin remain unset. LinkedIn reports 10,001+ employees globally, not Jordan-specific headcount. The official global careers site describes early-career programs, but no currently open Jordan job was confirmed. Cisco's published recruitment sender addresses are not designated public HR inquiry mailboxes; hr_email remains null. Listed technologies are publicly documented Cisco products/capabilities, not an independently audited internal engineering stack. The official accounts-payable alias 593-jo-ap@cisco.com is for invoices, not HR."
 evidence:
   - type: "official_website"
     url: "https://www.cisco.com/"
@@ -58,3 +58,6 @@ evidence:
   - type: "company_listing"
     url: "https://www.info-clipper.com/en/company/jordan/cisco-systems-jordan.jod8ubudb.html"
     label: "Historical third-party Jordan corporate-presence listing; Cisco-owned evidence takes precedence"
+  - type: "official_website"
+    url: "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m08/cisco-reports-fourth-quarter-earnings.html"
+    label: "Cisco FY2026 earnings release, published August 2026; confirms global product lines and operations, not Jordan staffing; checked 2026-11-12"
