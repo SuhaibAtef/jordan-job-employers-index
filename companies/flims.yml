@@ -92,6 +92,7 @@ evidence:
     label: "Jordan Times March 15, 2022 report corroborating first Amman Demo Day and seed-program cohort"
   - type: "other"
     url: "https://www.wamda.com/2022/03/startups-graduate-flat6labs-seed-programme-jordan"
-    label: "Wamda report dated 2022-03-16 on Flat6Labs Amman graduation"  - type: "company_listing"
+    label: "Wamda report dated 2022-03-16 on Flat6Labs Amman graduation"
+  - type: "company_listing"
     url: "https://flat6labs.com/Location/jordan/"
     label: "2026-11-12 cross-check: current accelerator Jordan programs, not evidence that FLIMS remains active"
