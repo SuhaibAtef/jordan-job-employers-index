@@ -1,5 +1,8 @@
 name: "Yella Message"
-industry: "Software / Bulk Messaging SaaS"
+description: "Yella Message is listed as an Amman-based provider of bulk email, SMS and WhatsApp messaging services. Current operations and the company website could not be independently confirmed in this review."
+verification_status: "partial"
+last_verified: "2026-11-12"
+industry: "Bulk Messaging / Digital Marketing Services"
 website: "https://yellamessage.com/"
 careers_url: null
 linkedin: null
@@ -9,20 +12,19 @@ location:
   area: "Amman"
   address: "Queen Rania Street, Amman, Jordan"
   status: "provided_unverified"
-  latitude: 32.024218
-  longitude: 35.856827
-  maps_url: "https://www.google.com/maps/search/?api=1&query=32.024218,35.856827"
+  latitude: null
+  longitude: null
+  maps_url: null
 categories:
   - "marketing"
   - "web"
 technologies:
   - "Email Marketing"
-  - "REST API"
 job_seeker:
-  early_career_signal: true
+  early_career_signal: false
   signals:
-    - "Internship"
-notes: "Cloud SaaS for bulk SMS, email and WhatsApp messaging (est. 2024, Amman). No public internship/grad evidence found."
+    - "No current vacancies or internship program independently confirmed"
+notes: "Reviewed 2026-11-12. JordanYP lists Yella Message on Queen Rania Street in Amman, established 2024, offering bulk email, SMS and WhatsApp messaging, with general telephone +962791704164. This is third-party directory evidence, not confirmation of active operations or precise office coordinates. The listed official domain could not be accessed during review. No company LinkedIn, careers page, HR email, workforce count, internal stack or active hiring evidence was independently established. Prior generic coordinates and unsupported internship signal removed; the email-marketing category is a service description, not a verified internal technology stack."
 evidence:
   - type: "official_website"
     url: "https://yellamessage.com/"
@@ -36,6 +38,6 @@ evidence:
   - type: "other"
     url: "https://prime-web.andro.io/"
     label: "Research source"
-  - type: "google_maps"
-    url: "https://www.google.com/maps/search/?api=1&query=32.024218,35.856827"
-    label: "Google Maps location"
+  - type: "other"
+    url: "https://www.jordanyp.com/category/sms_marketing"
+    label: "JordanYP directory listing — Yella Message, Queen Rania Street, Amman, 2024, bulk messaging; reviewed 2026-11-12"
