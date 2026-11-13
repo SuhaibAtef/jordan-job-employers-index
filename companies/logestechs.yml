@@ -59,10 +59,18 @@ notes: >-
   establish a current Jordan opening. Existing Amman office details and
   historical HR application email were retained without new confirmation.
   No Jordan-specific current vacancy, office coordinates, audited staffing
-  or internal programming stack was established. Corrected an existing
+  or internal programming stack was established.
+  Rechecked 2026-11-13: The live official product site continues to describe
+  delivery, warehouse, order, transport, returns and analytics SaaS modules.
+  The official Saudi Arabia careers page lists sales, customer-success and
+  partnership positions requiring Saudi-based candidates. These postings
+  demonstrate company recruitment activity outside Jordan, not an open
+  Jordan vacancy. No new Jordan-specific recruitment, dedicated current HR
+  mailbox confirmation, audited size, precise office pin or internal
+  programming stack was established; company status remains partial. Corrected an existing
   malformed evidence-list line that joined two YAML entries.
 verification_status: "partial"
-last_verified: "2026-11-09"
+last_verified: "2026-11-13"
 evidence:
   - type: "official_website"
     url: "https://logestechs.com/"
@@ -85,3 +93,9 @@ evidence:
   - type: "official_website"
     url: "https://logestechs.com/careers-saudi-arabia/"
     label: "Official Saudi Arabia careers page reviewed 2026-11-09; advertised roles explicitly require Saudi location, not evidence of Jordan vacancies"
+  - type: "official_website"
+    url: "https://logestechs.com/careers-saudi-arabia/"
+    label: "Rechecked 2026-11-13: Saudi-based sales, customer success and partnerships roles; not Jordan hiring"
+  - type: "official_website"
+    url: "https://logestechs.com/"
+    label: "Rechecked 2026-11-13: live logistics SaaS product modules; no implementation stack inferred"
