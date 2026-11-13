@@ -1,6 +1,6 @@
 name: "Akhtaboot"
 verification_status: "partial"
-last_verified: "2026-11-10"
+last_verified: "2026-11-13"
 industry: "Staffing and Recruiting"
 description: "Akhtaboot is a Jordanian online recruitment and career platform connecting employers with job seekers across MENA. It operates a job marketplace and employer-recruiting services, and has historically run job fairs, internship and fresh-graduate initiatives."
 website: "https://www.akhtaboot.com"
@@ -29,7 +29,7 @@ job_seeker:
     - "Historical 2015 university career-fair handbook: paid IT internships, traineeships, fresh-graduate positions"
     - "Historical 2016 university career-fair handbook: internships and fresh-graduate opportunities; not confirmed open in 2026"
 notes: >-
-  Reviewed 2026-11-10: Public company LinkedIn still reports Amman headquarters at Emaar Towers, Sixth Circle, 11-50 employees, founded 2007 and staffing/recruiting operations. This is company-reported, not independently audited. No current Akhtaboot-internal hiring, HR-specific email, independently validated precise coordinates or internal engineering stack was established. Historical German Jordanian University 2014 and 2016 career-fair handbooks document past internship and fresh-graduate recruitment, not open 2026 opportunities. The coordinates remain a previously recorded approximate pin, not a verified office entrance. Partial verification remains appropriate. Reviewed 2026-11-04 (previous review 2026-10-28). Akhtaboot is an Amman-headquartered online recruitment
+  Reviewed 2026-11-13: The publicly accessible company LinkedIn profile still identifies Akhtaboot as an Amman-based staffing and recruiting marketplace founded in 2007, with a self-reported 11-50 employee range and Emaar Towers, Sixth Circle address. Its job marketplace displayed third-party employer vacancies dated as recently as 2026-11-12 (for example Doculand B2B Sales Representative, reference 167708); this supports recent marketplace listings, not Akhtaboot internal hiring. No currently accepting Akhtaboot vacancy, HR-specific inbox, independently audited headcount, validated precise office coordinates, or internal engineering stack was established. Existing coordinates remain unverified as a precise entrance. Partial verification remains appropriate. Reviewed 2026-11-10: Public company LinkedIn still reports Amman headquarters at Emaar Towers, Sixth Circle, 11-50 employees, founded 2007 and staffing/recruiting operations. This is company-reported, not independently audited. No current Akhtaboot-internal hiring, HR-specific email, independently validated precise coordinates or internal engineering stack was established. Historical German Jordanian University 2014 and 2016 career-fair handbooks document past internship and fresh-graduate recruitment, not open 2026 opportunities. The coordinates remain a previously recorded approximate pin, not a verified office entrance. Partial verification remains appropriate. Reviewed 2026-11-04 (previous review 2026-10-28). Akhtaboot is an Amman-headquartered online recruitment
   network and employer-facing hiring platform serving the MENA region. Its
   company LinkedIn lists 11-50 employees, founded 2007, and Emaar Towers,
   6th Circle, Amman 11181. A separate Jordan business directory corroborates
@@ -135,3 +135,9 @@ evidence:
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/akhtaboot"
     label: "Rechecked 2026-11-10: company-reported staffing/recruiting, 11-50 employees, founded 2007, Emaar Towers Sixth Circle Amman; not audited headcount or precise GPS verification"
+  - type: "linkedin_company"
+    url: "https://jo.linkedin.com/company/akhtaboot"
+    label: "Rechecked 2026-11-13: self-reported Amman headquarters, Emaar Towers Sixth Circle, 11-50 employees, staffing and recruiting"
+  - type: "official_website"
+    url: "https://example.akhtaboot.com/ar/الشرق-الاوسط/عمل-وظائف/job_role/المحاسبة و التدقيق"
+    label: "Checked 2026-11-13: marketplace listed Doculand vacancy ref 167708 dated 2026-11-12; third-party hiring, not Akhtaboot recruitment"
