@@ -1,6 +1,6 @@
 name: "AlGurus Agency"
 verification_status: "partial"
-last_verified: "2026-11-08"
+last_verified: "2026-11-13"
 industry: "Marketing Services / Digital Marketing / E-commerce Development"
 description: >-
   AlGurus is an Amman-based digital marketing, performance advertising and
@@ -58,7 +58,7 @@ notes: >-
   continues to advertise digital marketing and web development. These sources
   corroborate business activity but do not verify internal hiring.
   On 2026-11-08, the live official homepage and partnerships page continued to advertise digital marketing, Shopify and WordPress services. Shopify independently listed the Amman service partner and public general contact; LinkedIn continued to report 11-50 employees and Um Uthaina headquarters. The agency claims 2026 Google Premier Partner status, but the direct Google directory was not independently confirmed. No fresh employer-authored hiring announcement was established. These checks do not establish exact office coordinates, audited headcount or internal software stack.
-  No dedicated careers page, open internal job vacancy or internship was
+  Rechecked 2026-11-13: The official homepage currently advertises Google Ads, Meta/social advertising, SEO/GEO and Shopify/WordPress services and publishes Um Uthaina, Amman, telephone 0791006167 and Mohammad@algurus.com. The company claims 120+ brands served, $28M+ managed advertising spend and Google Premier Partner 2026 status; these performance and certification claims were not independently audited. Shopify's live official Partner Directory independently confirms an Amman-based service partner since March 2020, with store-building, migration and theme-customization services, the same public phone and email, and a Select Partner designation. This confirms ongoing public commercial presence, not direct recruitment. No current employer-authored job vacancy, dedicated HR email, exact office pin, audited headcount or internal software stack was established. The general contact is not classified as HR.\n  No dedicated careers page, open internal job vacancy or internship was
   established in this review. The agency's separate academy offers paid or
   organized marketing training, not employment opportunities. Listed
   technologies are platforms advertised for client work, not a verified
@@ -118,3 +118,9 @@ evidence:
   - type: "company_listing"
     url: "https://www.shopify.com/partners/directory/partner/algurus"
     label: "Shopify service-partner directory rechecked 2026-11-08; Amman, March 2020 partnership, general contact"
+  - type: "company_listing"
+    url: "https://www.shopify.com/partners/directory/partner/algurus"
+    label: "Shopify official live partner listing checked 2026-11-13 — Select Partner, Amman, March 2020, contact and ecommerce services; not recruitment evidence"
+  - type: "official_website"
+    url: "https://algurus.com/"
+    label: "Official homepage checked 2026-11-13 — current services, Um Uthaina public contact and self-reported 2026 partnership/performance claims"
