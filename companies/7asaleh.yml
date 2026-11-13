@@ -5,7 +5,7 @@ description: >-
   and teenagers, combining allowances, chores, savings goals and a prepaid-card
   concept. Its current operating status remains unconfirmed as of November 2026.
 verification_status: "partial"
-last_verified: "2026-11-11"
+last_verified: "2026-11-13"
 industry: "Family Fintech / Financial Education"
 website: "https://7asaleh.com"
 careers_url: null
@@ -74,7 +74,13 @@ notes: >-
   2026-11-07 search found no attributable current company careers listing or
   newer official operating announcement; similarly named Saudi Salla is
   unrelated. Jordan-level origin is documented, but the current operating address and
-  company activity remain unresolved. Partial verification reflects
+  company activity remain unresolved. Rechecked 2026-11-13: a targeted search for
+  7asaleh and حصالة returned no attributable current official recruitment or
+  operating announcement. The 2024 ChangeLabs program report continues to
+  corroborate founder Nayef El Fayez and historical fintech participation,
+  but not operations or hiring in 2026. Unrelated Saudi Salla recruitment
+  results were excluded. No new HR contact, size, office coordinates or
+  current internal stack could be supported. Partial verification reflects
   corroborated historical identity, not a verified active employer.
 evidence:
   - type: "company_listing"
