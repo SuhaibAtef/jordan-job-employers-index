@@ -1,7 +1,7 @@
 name: "AI HUB"
 description: "AI HUB is an Amman-based AI services and training startup founded in 2024. It offers AI and data skills programs, business AI automation, and talent-development initiatives. In October 2026 it promoted a Claude for Work course with the Princess Sumaya University for Technology training center and reported sponsoring AI Expo at the University of Jordan."
 verification_status: "partial"
-last_verified: "2026-11-09"
+last_verified: "2026-11-13"
 industry: "AI Services / Workforce Training / Automation"
 website: "https://aihubjo.org/"
 careers_url: null
@@ -27,6 +27,7 @@ job_seeker:
     - "2026 internship program reposted by AI HUB; application status not confirmed"
     - "2026 robotics-trainer opportunity reposted by AI HUB; application status not confirmed"
 notes: |-
+  2026-11-13 recheck: The company LinkedIn profile, crawled today, still identifies AI HUB (aihub-talentpool) as a 2024-founded Amman organization with 2-10 self-reported employees and lists aihubjo.org. Its recent company-authored post advertises a November 21 Start Your Business with AI event at VBC Abdoun; this is a future event venue, not an office location or direct hiring signal. The historical 2025 graduate recruitment post identifies jobs@aihub-talent.com but does not prove an active opening or current mailbox availability. No independently confirmed street address, precise coordinates, active employer-owned vacancy, or internal production stack established. Distinct 2013-founded aihubjordan/aihubjo.com excluded. Company status remains partial.
   Reviewed 2026-11-04 (follow-up to 2026-10-28). The AI HUB company LinkedIn page identifies an Amman headquarters (postal code 11925), 2024 founding, and 2-10 employees (self-reported, not audited). It now lists https://aihubjo.org/ as the company's website, but the domain could not be independently retrieved during this review; the URL is company-provided, not proof of an accessible website or careers portal. No street address, office pin, or reliable coordinates were established. Previous city-center coordinates were not office evidence and remain excluded.
   November 4 follow-up: AI HUB's Jordan-localized LinkedIn company profile continues to identify the company as founded in 2024, headquartered in Amman 11925, with 2-10 self-reported employees. It lists AI-powered recruitment, analytics, automation, and software development as specialties. Its feed reposts a team representative's announcement of partnership with Global Entrepreneurship Week Jordan (event scheduled November 16-22, 2026); this is a future partnership signal, not evidence that the event has occurred. No current direct employer vacancy or precise office location was confirmed. Source: https://jo.linkedin.com/company/aihub-talentpool (accessed 2026-11-04).
   November 9 follow-up: The company LinkedIn feed continues to advertise the November 21, 2026 Start Your Business with AI event at VBC in Abdoun, with Tareq Masaeed and Forat Maen identified as speakers. This is an announced future event and venue, not a company office or evidence of direct hiring. The company profile still reports Amman 11925, 2-10 employees and a 2024 founding year; these remain self-reported. No active employer-owned vacancy or independent street-address confirmation was found. The 2013-founded AI Hub jo, EY AI Hub and Moroccan AI HUB were excluded as different entities. Source: https://jo.linkedin.com/company/aihub-talentpool (reviewed 2026-11-09).\n  November 7 follow-up: The AI HUB company LinkedIn profile continues to identify the 2024-founded Amman organization (2-10 self-reported employees) and links to aihubjo.org. It announces a Start Your Business with AI event for November 21, 2026 at VBC, Abdoun, as part of Global Entrepreneurship Week Jordan; this is an upcoming event, not a confirmed office address or vacancy. The separately indexed aihubjo.com site and LinkedIn profile aihubjordan belong to a distinct 2013-founded organization and must not be used to verify this employer. No current direct vacancy was confirmed. Source: https://jo.linkedin.com/company/aihub-talentpool (reviewed 2026-11-07).
@@ -55,3 +56,6 @@ evidence:
   - type: "linkedin_company"
     url: "https://jo.linkedin.com/company/aihub-talentpool"
     label: "2026-11-09 review: company-announced November 21 GEW Jordan AI event at VBC Abdoun; venue is not company headquarters"
+  - type: "linkedin_company"
+    url: "https://jo.linkedin.com/company/aihub-talentpool"
+    label: "2026-11-13 recheck: company profile and November 21 event announcement; self-reported size and Amman headquarters, no active vacancy established"
