@@ -1,7 +1,7 @@
 name: "Almond Solutions"
 description: "Almond Solutions is an Amman digital-transformation, web and digital-marketing consultancy. It combines website and marketing services with Zoho-based CRM, workplace, automation and business-operations implementations."
 verification_status: "partial"
-last_verified: "2026-11-08"
+last_verified: "2026-11-13"
 industry: "IT Services / Digital Transformation / Marketing"
 website: "https://www.almondsolutions.com"
 careers_url: null
@@ -44,6 +44,16 @@ notes: >-
   early-career opening was established. Company verification is partial despite
   corroborated street-level location because hiring and technical details remain
   incomplete.
+  Rechecked 2026-11-13: The official homepage and About page remain accessible and
+  advertise digital business growth reviews, website/e-commerce development,
+  digital marketing and Zoho implementation. The official contact page still
+  publishes Queen Rania Street, Amman and sales phone +962 79 9634782;
+  this supports street-level location only, not precise coordinates.
+  The official privacy policy publishes info@almondsolutions.com as a general
+  contact, not an HR-specific mailbox. No attributable dated internal vacancy,
+  dedicated recruiting channel, audited workforce or internal engineering stack
+  was established. The Zoho products are client-facing implementation offerings.
+  The 2-10 size band remains a LinkedIn estimate from the earlier review.
 evidence:
   - type: "official_website"
     url: "https://www.almondsolutions.com"
@@ -69,3 +79,6 @@ evidence:
   - type: "linkedin_company"
     url: "https://www.linkedin.com/company/almond-solutions"
     label: "Company LinkedIn — Amman Queen Rania Street, 2-10 employee estimate and recent product posts (reviewed 2026-11-08)"
+  - type: "official_website"
+    url: "https://www.almondsolutions.com/privacy"
+    label: "Official privacy policy checked 2026-11-13 — general info@almondsolutions.com contact, not HR"
