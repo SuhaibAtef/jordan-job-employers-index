@@ -3,7 +3,7 @@ description: Lahza (لحظة) is a Jordanian software startup developing Arabic-
   existing factory and warehouse camera feeds for real-time safety, quality, and operations alerts. The company
   describes on-premises deployments using vision-language models and NVIDIA edge hardware.
 verification_status: partial
-last_verified: '2026-11-09'
+last_verified: '2026-11-13'
 industry: Industrial Computer Vision / AI Software
 website: https://lahza.ai
 careers_url: null
@@ -46,6 +46,18 @@ notes: Reviewed 2026-10-19 (Jordan time). Company LinkedIn self-reports founding
   HR recruitment email. Do not confuse with unrelated lahza.io fintech company.
   Rechecked 2026-11-05: the employer-authored LinkedIn AI Engineer and Computer Vision Working Student listings, both posted approximately two weeks earlier, explicitly state applications are no longer accepted. The working-student advertisement describes a three-month internship at 40 hours per week, not conventional part-time hours. A third-party Dr.Job mirror still shows an application deadline of 2027-01-15, but that does not override the closed application status at LinkedIn. An employer-authored Industrial Sales Partner commission-based posting is also marked no longer accepting applications. Thus these are recent hiring signals, not confirmed currently open vacancies. The AI Engineer posting refers to an Irbid-based 11-50-person team while the company profile has described an Amman headquarters and 2-10 employees; do not replace the company location or size without resolving the discrepancy. No dedicated HR contact, street address, coordinates, or independently audited headcount established.
   Rechecked 2026-11-09: the original LinkedIn AI Engineer and Computer Vision Working Student listings remain marked no longer accepting applications. The AI Engineer description says Irbid and 11-50 employees, conflicting with the company profile's earlier Amman and 2-10 claims. Third-party job mirrors still display the AI Engineer role, sometimes with a January 2027 deadline, but do not establish that direct applications remain open. Python and PyTorch are supported as advertised role requirements, not independently audited deployed technologies. No new verified street address, coordinates, dedicated HR email or current open direct application was found.
+  Rechecked 2026-11-13: the company-controlled LinkedIn profile still identifies
+  Amman as headquarters, 2-10 employees (self-reported), and a 2025 founding.
+  Its indexed employer-authored posts document an AI Engineer recruitment call
+  for Irbid and an October 19 Startup Alley appearance at German Jordanian
+  University, alongside a claimed intaj membership. The public page does not
+  establish whether the recruitment call remains open on this review date;
+  earlier individual LinkedIn job advertisements were marked closed. The
+  official lahza.ai website could not be accessed during this check. No
+  independently confirmed HR email, office address, coordinates, audited
+  headcount or deployed production stack was established. Company-level
+  verification remains partial; Amman is a self-reported city, not a
+  geocoded office.
 evidence:
 - type: official_website
   url: https://lahza.ai
@@ -81,3 +93,6 @@ evidence:
 - type: job_post
   url: https://jo.jobiglo.com/%D9%88%D8%B8%D9%8A%D9%81%D8%A9-ai-engineer-computer-vision-j-6ad5d8cdfb16093e2b0f75a6
   label: Third-party November 2026 job mirror for Irbid hybrid AI Engineer; not proof direct applications are open
+- type: linkedin_company
+  url: https://jo.linkedin.com/company/lahza-ai
+  label: '2026-11-13 review: self-reported Amman headquarters and 2-10 staff; employer-authored AI Engineer recruitment and October Startup Alley posts; current application status not confirmed'
