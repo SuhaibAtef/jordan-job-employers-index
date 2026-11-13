@@ -8,7 +8,7 @@ description: >-
   general applications; the linked application forms were reachable on
   2026-10-28, although posting dates and deadlines were not displayed.
 verification_status: "partial"
-last_verified: "2026-11-10"
+last_verified: "2026-11-13"
 industry: "Microfinance / Financial Services"
 website: "https://amc.com.jo"
 careers_url: "https://amc.com.jo/en/career"
@@ -63,6 +63,7 @@ notes: >-
   Al Jandaweel, phone +962 79 7 530530 and general email amc@amc.com.jo.
   This is not a dedicated HR address; no current internal technology stack,
   graduate programme or dated vacancy was independently established.
+  Rechecked 2026-11-13: The official English and Arabic careers directories still display Branch Manager, Loan Officer and general applications, without publication dates or deadlines. The official branch directory lists 23 branches plus a head office. The official contact page confirms King Abdullah II Street, Al Jandaweel, Building 449, Amman, phone +962 79 7 530530 and general email amc@amc.com.jo, not an HR-specific inbox. The official management page names Jumana Faraj as Human Resources Manager. The undated 294-employee figure on the official About page is not a current audited headcount. No active dated vacancy, dedicated HR mailbox, graduate programme or internal technology stack was established. Partial verification remains appropriate.
 evidence:
   - type: "official_website"
     url: "https://amc.com.jo/en/about-us-main"
@@ -127,3 +128,18 @@ evidence:
   - type: "official_website"
     url: "https://amc.com.jo/en/contact"
     label: "Official contact page reviewed 2026-11-10 — Building 449, phone and general contact email"
+  - type: "careers"
+    url: "https://amc.com.jo/en/career"
+    label: "Official English vacancies reviewed 2026-11-13; Branch Manager, Loan Officer and general applications, undated"
+  - type: "careers"
+    url: "https://amc.com.jo/ar/career"
+    label: "Official Arabic vacancies reviewed 2026-11-13; matching application categories"
+  - type: "official_website"
+    url: "https://amc.com.jo/en/branches"
+    label: "Official branch directory reviewed 2026-11-13; 23 branches plus head office"
+  - type: "official_website"
+    url: "https://amc.com.jo/en/contact"
+    label: "Official contact details reviewed 2026-11-13; Al Jandaweel address and general email"
+  - type: "official_website"
+    url: "https://www.amc.com.jo/en/our-team"
+    label: "Official management page reviewed 2026-11-13; named HR manager"
