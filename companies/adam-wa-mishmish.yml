@@ -6,7 +6,7 @@ description: >-
   children. Its 2026 activities include Amman classes, a U.S. live tour and
   an Arabic-letter learning game developed with eduTechnoz.
 verification_status: "partial"
-last_verified: "2026-11-09"
+last_verified: "2026-11-13"
 industry: "Children's Edutainment / Arabic-Language Education and Media"
 website: "https://www.adamwamishmish.com"
 careers_url: "https://www.adamwamishmish.com/work-with-us"
@@ -29,6 +29,15 @@ job_seeker:
   signals:
     - "The official Work With Us page accepts join-the-team inquiries via a contact form; no specific open position or entry-level recruitment was listed on 2026-10-28."
 notes: >-
+  Reviewed 2026-11-13: The official Work With Us page still invites general
+  join-the-team messages but provides no named vacancy or dedicated HR email.
+  The official class calendar advertises Amman sessions at Moonbirds and Tiny
+  Tots, and an online cohort starting November 15, 2026; these are evidence
+  of services offered, not a verified staffed office or Jordan recruitment.
+  The official About page identifies five named founders/leaders and reports
+  more than one million YouTube subscribers; audience size is not headcount.
+  Precise office coordinates, current hiring and internal engineering stack
+  remain unverified. Previous review details follow.
   Reviewed 2026-11-09 (UTC); previous detailed review 2026-11-06. The official\n  live-classes page still advertises Amman Circle Time at Moonbirds (6th\n  Circle) and Tiny Tots (Swefieh Village), plus online Music Hour cohorts.\n  These are program venues, not independently verified company premises.\n  The eduTechnoz co-branded Arabic-learning game landing page describes\n  a partnership and an early-bird signup; it does not establish in-house\n  engineering employment or an open vacancy. Current Jordan recruitment,\n  dedicated HR contact and precise office coordinates remain unverified.\n  Reviewed 2026-11-06 (UTC); previous review 2026-11-04. The official About page identifies Hend Baghdady as
   CEO and Luma Aladnani as co-founder and president; its footer places the
   business in Amman, Jordan. The current class calendar lists in-person
@@ -112,3 +121,12 @@ evidence:
   - type: "other"
     url: "https://awm.edutechnoz.com/"
     label: "Rechecked 2026-11-09: eduTechnoz co-branded Arabic-learning game and early-bird signup; not evidence of an internal technology stack"
+  - type: "official_website"
+    url: "https://www.adamwamishmish.com/work-with-us"
+    label: "Rechecked 2026-11-13: join-team inquiry option but no named vacancy or HR email"
+  - type: "official_website"
+    url: "https://www.adamwamishmish.com/classes/dates"
+    label: "Rechecked 2026-11-13: Amman partner class venues and November 15 online cohort; not office evidence"
+  - type: "official_website"
+    url: "https://www.adamwamishmish.com/about"
+    label: "Rechecked 2026-11-13: named leadership and audience metrics, not staff count"
