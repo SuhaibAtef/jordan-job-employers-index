@@ -1,7 +1,7 @@
 name: "Apprikot"
 description: "Apprikot was established in 2015 as a Jordan-based mobile application and web development company and the technology development arm of Beecell International. Documented services included native iOS and Android applications, enterprise mobility, web development, and UX design. Current standalone operations and hiring activity were not independently confirmed in October 2026."
 verification_status: "partial"
-last_verified: "2026-11-07"
+last_verified: "2026-11-13"
 industry: "Software Development / Mobile Applications"
 website: null
 careers_url: null
@@ -52,6 +52,13 @@ notes: >-
   No standalone active website, current Apprikot vacancy, HR contact,
   verified office coordinates, current employee count, or technology stack
   could be substantiated. Company verification remains partial.
+  Rechecked 2026-11-13: Beecell's live official homepage describes digital
+  content, corporate solutions, digital marketing and payments, and reports
+  October 4-6, 2026 participation at Telemedia Marbella. It does not identify
+  Apprikot among its listed products or services. Search results for similarly
+  named Apricot and Aprikoti employers refer to different organizations and
+  must not be attributed to Apprikot. No independent current Apprikot hiring,
+  operating website, office address or personnel count was established.
 evidence:
   - type: "industry_directory"
     url: "https://jordanict.com/2017/company-profile/apprikot"
@@ -80,3 +87,6 @@ evidence:
   - type: "industry_directory"
     url: "https://www.jordanict.com/2016/company-profile/beecell"
     label: "2016 Jordan ICT Beecell profile explicitly names Apprikot as subsidiary; historical only (reviewed 2026-11-07)"
+  - type: "official_website"
+    url: "https://www.beecell.com/"
+    label: "Rechecked 2026-11-13 — Beecell official homepage shows October 2026 activity but does not establish current standalone Apprikot operations or hiring"
