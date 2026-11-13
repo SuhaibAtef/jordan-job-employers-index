@@ -1,7 +1,7 @@
 name: "Algebra Intelligence"
 description: "Algebra Intelligence is an Amman energy-technology company using AI, IoT and analytics to monitor energy assets, forecast consumption and detect operational inefficiencies. Its products target sectors such as telecom towers, commercial real estate and renewable-energy operations."
 verification_status: "partial"
-last_verified: "2026-11-07"
+last_verified: "2026-11-13"
 industry: "Energy AI / IoT"
 website: "https://algebraintelligence.com/"
 careers_url: null
@@ -12,9 +12,9 @@ location:
   area: "Amman"
   address: "Al-Salam 2 Gate, Office 413, Makkah Towers, Mecca Street, Amman, Jordan"
   status: "verified"
-  latitude: 31.97694
-  longitude: 35.85567
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.97694,35.85567"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Al-Salam+2+Gate+Makkah+Towers+Amman+Jordan"
 categories:
   - "ai"
   - "iot"
@@ -36,7 +36,7 @@ job_seeker:
   signals:
     - "Third-party job aggregator lists Junior UI/UX Designer (part-time, 2026-10-18) and Executive Assistant (2026-10-14) in Amman; confirm open status with employer."
     - "Company-attributed LinkedIn Business Development Officer listing provides role-specific application address r.alaryan@algebraintelligence.com; listing availability not independently confirmed."
-notes: "Reviewed 2026-11-07. October 2026 job listings for junior UI/UX, executive assistance and business development were found, but open application status is unconfirmed; r.alaryan@algebraintelligence.com is role-specific and not established as a general HR inbox. Official website and LinkedIn remain accessible and confirm product activity and Jordan office. 2024 energy-industry directory reported 25 staff, a historical figure rather than current audited headcount. Reviewed 2026-11-05. Official website confirms Jordan-based energy and maintenance IoT company founded 2020, with Taqtak energy monitoring and Donefy maintenance products. Official contact page publishes Al-Salam 2 Gate, Office 413, Makkah Towers, Mecca Street, Amman, and +962 79 280 0468. Address is company-published and corroborated by LinkedIn; recorded coordinates remain approximate and are not independently validated to the specific office. LinkedIn reports 11-50 employees, an estimate rather than a verified headcount. No dedicated HR contact or current vacancy established. Historical technical-stack evidence (GulfTalent engineer profile and product platforms) retained, but does not prove current internal use of every listed technology. Company status partial pending independent validation of hiring, staffing and technical stack."
+notes: "Reviewed 2026-11-13: Official contact page again confirms the Amman office at Al-Salam 2 Gate, Office 413, Makkah Towers, Mecca Street and Jordan phone +962 79 280 0468; it also lists a Riyadh branch. Official current solutions pages describe integrated electricity, water, diesel and chilled-water monitoring, billing, analytics, maintenance and hardware-agnostic IoT device integration. These are product capabilities, not proof of the listed internal programming-language stack. Previously recorded numerical coordinates are not independently validated to the specific office and have been cleared; address confidence remains company-published, not independent physical occupancy verification. No current employer-confirmed vacancy or dedicated HR inbox was established. Reviewed 2026-11-07. October 2026 job listings for junior UI/UX, executive assistance and business development were found, but open application status is unconfirmed; r.alaryan@algebraintelligence.com is role-specific and not established as a general HR inbox. Official website and LinkedIn remain accessible and confirm product activity and Jordan office. 2024 energy-industry directory reported 25 staff, a historical figure rather than current audited headcount. Reviewed 2026-11-05. Official website confirms Jordan-based energy and maintenance IoT company founded 2020, with Taqtak energy monitoring and Donefy maintenance products. Official contact page publishes Al-Salam 2 Gate, Office 413, Makkah Towers, Mecca Street, Amman, and +962 79 280 0468. Address is company-published and corroborated by LinkedIn; recorded coordinates remain approximate and are not independently validated to the specific office. LinkedIn reports 11-50 employees, an estimate rather than a verified headcount. No dedicated HR contact or current vacancy established. Historical technical-stack evidence (GulfTalent engineer profile and product platforms) retained, but does not prove current internal use of every listed technology. Company status partial pending independent validation of hiring, staffing and technical stack."
 evidence:
   - type: "official_website"
     url: "http://www.algebraintelligence.com"
@@ -74,3 +74,9 @@ evidence:
   - type: "other"
     url: "https://whoswhoinewe.com/sites/default/files/pdf_whos_who_jordan_energy_water_environment_ewe_2025.pdf"
     label: "Industry directory historical 25-person staffing estimate; checked 2026-11-07"
+  - type: "official_website"
+    url: "https://algebraintelligence.com/solutions/"
+    label: "Current modular energy, maintenance, analytics and IoT solutions; checked 2026-11-13"
+  - type: "official_website"
+    url: "https://algebraintelligence.com/contact-us/"
+    label: "Jordan and Riyadh office addresses and contact details reconfirmed 2026-11-13"
