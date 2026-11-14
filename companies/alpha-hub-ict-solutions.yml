@@ -1,7 +1,7 @@
 name: "Alpha Hub ICT Solutions"
 description: "Alpha Hub is an Amman-based cybersecurity and network-security solutions provider established in 2005. It offers incident response, threat intelligence, security assessments, penetration testing, endpoint and network detection and response, and security services for IT and operational-technology environments."
 verification_status: "partial"
-last_verified: "2026-11-08"
+last_verified: "2026-11-14"
 industry: "Cybersecurity / Network Security"
 website: "https://alpha-hub.com/"
 careers_url: "https://alpha-hub.com/careers/"
@@ -29,7 +29,7 @@ job_seeker:
   early_career_signal: false
   signals:
     - "Historical Amman Cyber Security Engineer advertisement required 2+ years of experience; official careers page showed no listed vacancy on 2026-11-08."
-notes: "Official contact page and JordanYP both identify Crown Complex, third floor, Amman; precise street and coordinates are not verified. info@alpha-hub.com is an official general-contact address, not a confirmed HR mailbox. LinkedIn reports 11-50 employees (self-reported range). Company LinkedIn posts in 2026 report delivery of Jordan's National Cyber Drill 2026 with CybExer Technologies for the National Cyber Security Center, corroborating recent operations. Listed technologies are offered cybersecurity solutions and service competencies, not a verified internal software-development stack. An official careers page was identified on 2026-11-08, but it displays a placeholder rather than an open position. No dedicated HR contact or currently open Jordan vacancy or internship was established. The official website lists info@alpha-hub.com and +962 6 55 16616 as general business contacts, not HR contacts. Company LinkedIn lists Amman 11821, but no street-level geocoding is verified."
+notes: "Official contact page and JordanYP both identify Crown Complex, third floor, Amman; precise street and coordinates are not verified. info@alpha-hub.com is an official general-contact address, not a confirmed HR mailbox. LinkedIn reports 11-50 employees (self-reported range). Company LinkedIn posts in 2026 report delivery of Jordan's National Cyber Drill 2026 with CybExer Technologies for the National Cyber Security Center, corroborating recent operations. Listed technologies are offered cybersecurity solutions and service competencies, not a verified internal software-development stack. An official careers page was identified on 2026-11-08, but it displays a placeholder rather than an open position. No dedicated HR contact or currently open Jordan vacancy or internship was established. The official website lists info@alpha-hub.com and +962 6 55 16616 as general business contacts, not HR contacts. Company LinkedIn lists Amman 11821, but no street-level geocoding is verified. Rechecked 2026-11-14: Official careers page continues to show a work-in-progress placeholder rather than an accepting vacancy. Official contact page continues to list Crown Complex, third floor, Amman, general mailbox info@alpha-hub.com and +962 6 55 16616. Company LinkedIn includes a recent team-culture repost and its National Cyber Drill 2026 delivery announcement, supporting ongoing business activity, but not an active vacancy or dedicated HR mailbox. LinkedIn's 11-50 global employee band is self-reported; exact office coordinates and internal production stack remain unconfirmed. Verification remains partial."
 evidence:
   - type: "official_website"
     url: "https://alpha-hub.com/careers/"
@@ -67,3 +67,6 @@ evidence:
   - type: "linkedin_company"
     url: "https://jo.linkedin.com/company/alpha-hub-think-security"
     label: "2026-11-05 review: company reports delivering Jordan National Cyber Drill 2026 with CybExer Technologies and NCSC; LinkedIn reports 11-50 employees and Amman 11821"
+  - type: "linkedin_company"
+    url: "https://jo.linkedin.com/company/alpha-hub-think-security"
+    label: "Rechecked 2026-11-14: recent team-culture repost and 2026 national cyber drill activity; Amman headquarters and self-reported 11-50 size; no current vacancy confirmation"
