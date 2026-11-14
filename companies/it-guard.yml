@@ -1,7 +1,7 @@
 name: "IT-Guard"
 description: "Information Technology Guard (IT-Guard) is a historically documented Amman IT-services company whose past activities included computer and network support, security/antivirus products, IT service contracts and hardware/software sales. Current operating status and current services remain unconfirmed as of November 2026."
 verification_status: "partial"
-last_verified: "2026-11-08"
+last_verified: "2026-11-14"
 industry: "IT Services / Network and Endpoint Security (historical)"
 website: "https://www.itgshield.com"
 careers_url: null
@@ -23,6 +23,16 @@ job_seeker:
   early_career_signal: false
   signals: []
 notes: "Reviewed 2026-10-24. Historical existence in Jordan is supported by the 2009 ICT/ITES yearbook, which lists Information Technology Guard / IT Guard without a website and gives a historical phone number. The JordanYP directory listing, registered on 2012-01-04 and explicitly marked unverified, reports Al-Sharie'ah, Jabal Al-Weibdeh, Amman, telephone +962-6-4601606, and former domain www.it-guard.com.jo; neither these contacts nor the address can be treated as current. The original record's Queen Rania Street claim conflicts with the directory, so no current street address or coordinates are asserted. Historical employment records from 2006-2013 describe system engineering, IT support, networking, antivirus/security products, security alarms, computer hardware/software and service contracts. A university-hosted former staff CV also documents an IT Guard role in 2011-2012; the individual's security-vendor certifications do not prove a company-wide stack. A separate third-party directory associates the company with itgshield.com and a 2005 founding date, but these are not independently corroborated. Both itgshield.com and the older it-guard.com.jo were inaccessible on 2026-10-24. No reliable current official website, matching active LinkedIn company page, careers page, recruitment email, employee count, active Jordan vacancy or engineering stack could be confirmed. The website field is retained as a historical third-party lead, NOT a verified active company website. Location remains unresolved and company verification partial, reflecting historical evidence only. Review 2026-11-08: Fresh searches for the exact Information Technology Guard name, IT-Guard, and the itgshield.com domain did not establish a current official company website, operating Jordan office, dedicated HR contact, verified headcount, active hiring, or a production technology stack. A currently indexed JordanYP computers-category listing repeats the historical Jabal Al-Weibdeh address and telephone but provides no independently established current occupancy. A 2026-indexed former-employee profile references employment ending in 2011; this supports historical identity only. Search results for Integrated Technology Group (ITG) refer to a distinct Jordan company and must not be conflated with IT-Guard. Retain partial status, unresolved location and null coordinates; website remains an unverified historical lead."
+  Review 2026-11-14: Fresh exact-name and itgshield.com searches yielded only
+  historical third-party company listings and former-employee records, not
+  a current official company site, company-controlled LinkedIn, careers page,
+  accepting vacancy or verifiable Amman office. A July 2026 domain lifecycle
+  listing includes itgshield.com among domains entering redemption; this is
+  not proof of company closure or current domain ownership. Search results
+  for CGuards, IT Security C&T and Integrated Technology Group are distinct
+  employers and were excluded. Current HR email, workforce, precise address,
+  coordinates and production stack remain unsupported. Retain partial
+  historical verification and unresolved location.
 evidence:
   - type: "other"
     url: "https://intaj.net/wp-content/uploads/2017/12/ICT-ITES-INDUSTRY-STATISTICS-AND-YEARBOOK-2010.pdf"
@@ -45,3 +55,6 @@ evidence:
   - type: "company_listing"
     url: "https://www.jordanyp.com/category/Computers/9/city%3AAmman"
     label: "Rechecked 2026-11-08 — current index of historical JordanYP IT-Guard listing; no proof of present office or operations"
+  - type: "other"
+    url: "https://abtdomain.com/expired-domains/redemption/2026-07/com-new-2026-07-08/"
+    label: "2026-07-08 domain redemption listing includes itgshield.com; domain lifecycle lead only, not evidence of IT-Guard closure or ownership"
