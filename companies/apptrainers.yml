@@ -1,8 +1,8 @@
 name: "AppTrainers"
 description: "AppTrainers is an Amman and Riyadh technology-training and software-development company. It trains learners in mobile and web development, game development, AI and data science, cybersecurity, QA and UI/UX, while also delivering development and consulting services."
 verification_status: "verified"
-last_verified: "2026-10-07"
-industry: "Mobile app training & consulting"
+last_verified: "2026-11-14"
+industry: "Technology training, software development & consulting"
 website: "https://www.apptrainers.com"
 careers_url: null
 linkedin: "https://www.linkedin.com/company/apptrainers"
@@ -12,8 +12,7 @@ location:
   status: "verified"
   address: "Queen Rania Al-Abdullah Street, Amman, Jordan"
   area: "Amman"
-  address: "Queen Rania St, Abu Alhaj Complex, office 710, Amman"
-  status: "verified"
+  address_detail_historical: "Abu Alhaj Complex, 7th floor, office 710 (older directory listing; not currently confirmed)"
   latitude: 31.9879855
   longitude: 35.8950749
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.9879855,35.8950749"
@@ -33,7 +32,9 @@ job_seeker:
   signals:
     - "Youth training"
     - "Free digital-skills programs"
+    - "Recent employer-attributed Amman video-editor recruitment post; application status not independently confirmed"
 notes: "Amman mobile-app training & consulting company (est. 2012) running iOS/Android/PhoneGap/Unity courses; launched AppTrainers Lab with Al-Ahliyya Amman University to train students — strong fresh-grad fit. GPS verified 2026-10-06: company contact page (apptrainers.com/contact) states Amman, Queen Rania Street; its embedded map carries the same place ID as the Google Maps pin 31.9879855,35.8950749 (address label \"Queen Rania St, Amman\", category Software company, 4.9/42 reviews). jordanyp (owner-validated, updated 2016) gives building detail \"Abu Alhaj complex, 7th floor, office 710\"; current company site names no building, so building/office detail treated as dated."
+research_notes_2026_11_14: "Company LinkedIn profile reviewed 2026-11-14 identifies Amman and Riyadh operations, 11-50 self-reported global employees, and training in AI/data, cybersecurity, mobile/web, games, QA and UI/UX. LinkedIn shows a recent Amman Video Editor hiring post, but whether applications remain open is unconfirmed. A separate Data Warehouse Consultant LinkedIn vacancy explicitly no longer accepts applications. intaj member listing corroborates Amman consulting/training and +962 79 6644560; its headcount range differs from LinkedIn. Queen Rania Street is supported; precise building occupancy and coordinates were not revalidated. info@apptrainers.com is a general/application address, not a dedicated HR mailbox. Listed Android/iOS/PhoneGap/Unity technologies describe training offerings, not independently verified production stack. LinkedIn company bio describes Saudi headquarters while its structured headquarters field lists Amman and Riyadh; avoid treating either as sole headquarters."
 evidence:
   - type: "official_website"
     url: "https://www.apptrainers.com"
@@ -62,3 +63,12 @@ evidence:
   - type: "other"
     url: "https://sa.linkedin.com/company/apptrainers"
     label: "Current 2026 youth digital-skills training update"
+  - type: "linkedin"
+    url: "https://www.linkedin.com/company/apptrainers"
+    label: "Company profile and recent Amman Video Editor hiring signal; reviewed 2026-11-14"
+  - type: "other"
+    url: "https://www.intaj.net/network/apptrainers"
+    label: "Jordan ICT association member profile, Amman services and telephone; reviewed 2026-11-14"
+  - type: "other"
+    url: "https://jo.linkedin.com/jobs/view/data-warehouse-consultant-at-apptrainers-4458883129"
+    label: "Amman training contract vacancy marked no longer accepting applications; reviewed 2026-11-14"
