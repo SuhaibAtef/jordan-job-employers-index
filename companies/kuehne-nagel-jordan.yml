@@ -3,16 +3,16 @@ description: Jordan operation of Kuehne+Nagel, the Swiss-headquartered logistics
   contract logistics and customs brokerage. The Jordan operation is listed in Amman, but current street-level office details are not
   independently confirmed.
 verification_status: partial
-last_verified: '2026-10-18'
+last_verified: '2026-11-14'
 industry: Transportation, Logistics, Supply Chain and Storage
 website: https://www.kuehne-nagel.com/
 careers_url: https://jobs.kuehne-nagel.com/global/en
 linkedin: https://www.linkedin.com/company/kuehne-nagel
 hr_email: null
-size: 82,000+ employees globally (2026 company careers and LinkedIn; Jordan headcount unknown)
+size: Approximately 92,000 globally (official corporate homepage checked 2026-11-14; Jordan headcount unknown)
 location:
   area: Amman
-  address: Al-Thaqafah, Shmeisani, Amman, Jordan (historical directory listing; current office unconfirmed)
+  address: 14 Zahran Street, 3rd Circle, 11180 Amman, Jordan (official locator listing; physical occupancy not independently checked)
   status: provided_unverified
   latitude: null
   longitude: null
@@ -32,13 +32,14 @@ notes: Reviewed 2026-10-18. The official corporate website and LinkedIn confirm 
   handbook listed 103 Jordan employees and fresh-graduate opportunities; this is historical only. 82,000+ is a global workforce figure,
   not a Jordan estimate. info.amman@kuehne-nagel.com is a general contact, not verified HR. No locally supported internal technology
   stack or AI hiring was found; removed unsupported AI category.
+  Rechecked 2026-11-14: The official Kuehne+Nagel Jordan-filtered location locator explicitly lists Jordan - National HQ at 14 Zahran Street, 3rd Circle, 11180 Amman, telephone +962 (6) 4403682 and general mailbox info.amman@kuehne-nagel.com, with air, sea, road, contract logistics and customs brokerage services. This is first-party address evidence, but no independent physical-site inspection or precise coordinates were established, so location remains provided_unverified. The current corporate homepage states close to 92,000 employees worldwide; this is not a Jordan headcount. No confirmed currently accepting Jordan vacancy, dedicated HR contact, or locally evidenced internal engineering stack was established. Verification remains partial.
 evidence:
 - type: official_website
   url: https://www.kuehne-nagel.com/
   label: 'Official corporate website: global services and company identity'
 - type: official_website
   url: https://home.kuehne-nagel.com/en/locations?query=Jordan
-  label: 'Legacy official location listing: formerly indexed 14 Zahran St, Amman; current page dynamically rendered'
+  label: 'Official Jordan-filtered locator lists National HQ at 14 Zahran Street, 3rd Circle, Amman, phone +962 (6) 4403682 and general email; checked 2026-11-14'
 - type: official_website
   url: https://jobs.kuehne-nagel.com/global/en
   label: Official global careers portal; not evidence of Jordan vacancies
@@ -53,4 +54,6 @@ evidence:
   label: 'JordanYP listing: Al-Thaqafah, Shmeisani address'
 - type: other
   url: https://www.gju.edu.jo/sites/default/files/Office%20for%20Industrial%20Links/gju_job_fair_2014_handbook.pdf
-  label: 'German Jordanian University 2014 fair handbook: historical Jordan staffing and graduate opportunities'
+  label: 'German Jordanian University 2014 fair handbook: historical Jordan staffing and graduate opportunities'- type: official_website
+  url: https://www.kuehne-nagel.com/
+  label: 'Official global homepage checked 2026-11-14: close to 92,000 worldwide employees and current logistics service portfolio; not Jordan headcount'
