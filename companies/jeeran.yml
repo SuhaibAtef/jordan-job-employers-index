@@ -6,7 +6,7 @@ description: >-
   maintains a public LinkedIn profile, but current platform availability,
   operating activity and hiring could not be confirmed in October 2026.
 verification_status: "partial"
-last_verified: "2026-11-05"
+last_verified: "2026-11-14"
 industry: "Online Media / Local Discovery / User Reviews"
 website: "https://jeeran.com/"
 careers_url: null
@@ -61,7 +61,7 @@ notes: >-
   or precise coordinates could be confirmed. The old 2019 internship remains
   historical only. Company status stays partial pending first-party evidence
   of current activity or definitive cessation; location remains unverified.
-  Rechecked 2026-11-05: the public LinkedIn profile still lists the historical
+  Rechecked 2026-11-14: The public Jeeran LinkedIn company profile remains accessible and describes the historical local-review platform, Amman headquarters, PO Box 9162, and self-reported 11-50 size band; these do not establish current operating activity or headcount. No attributable recent company announcement, accepting vacancy, dedicated HR address, verified street-level office or current engineering stack was established in this review. Search results for Saudi real-estate Jeeran, Egyptian Jeeran LLC, and Lebanese Jeerann were excluded as unrelated. Status stays partial and location remains provided_unverified. Rechecked 2026-11-05: the public LinkedIn profile still lists the historical
   local-discovery product, Amman headquarters, PO Box 9162 and an 11-50
   employee band; these are profile claims, not proof of current staffing.
   Bayt retains historical recruiting copy but no verified current vacancy.
@@ -95,3 +95,6 @@ evidence:
   - type: "other"
     url: "https://www.reddit.com/r/jordan/comments/1s6uymm/what_happened_to_jeeran/"
     label: "March 29, 2026 community report of inaccessible Jeeran website; anecdotal only"
+  - type: "linkedin_company"
+    url: "https://jo.linkedin.com/company/jeeran"
+    label: "Company profile rechecked 2026-11-14: historical local-review platform, Amman PO Box, self-reported 11-50 size; not evidence of current hiring or active office"
