@@ -30,7 +30,7 @@ job_seeker:
   early_career_signal: false
   signals: []
 verification_status: "partial"
-last_verified: "2026-10-19"
+last_verified: "2026-11-14"
 notes: >-
   Reviewed 2026-10-19. The live official borrowing site confirms SME lending,
   a Jordan business-loan application flow and Sharia-compliant options. The
@@ -55,6 +55,19 @@ notes: >-
   The company and street address are corroborated, but hiring, headcount,
   current stack and exact coordinates remain incomplete, so company-level
   verification is partial.
+  Rechecked 2026-11-14: the official borrowing page continues to present a
+  Jordan SME loan application, collateral-free and Sharia-compliant options,
+  telephone +962 79 870 4070 and 257 Prince Mohammed Street, Mezzanine
+  Floor, Office #2, 3rd Circle, Amman. The official FAQ identifies Murabaha,
+  merchant-cash, factoring and working-capital products and eligibility for
+  Jordan-registered SMEs. The investor page still explicitly states that the
+  retail investment marketplace is closed, distinct from active borrower
+  services. The company LinkedIn profile still self-reports 51-200 employees,
+  Amman headquarters and the same street address; this is not an audited
+  current Jordan headcount. An older LinkedIn Relationship Officer job is
+  explicitly closed to applications. No live company-issued hiring notice,
+  HR-specific email, precise independently corroborated coordinates or
+  current production stack was established. Partial status remains appropriate.
 evidence:
   - type: "official_website"
     url: "https://liwwa.com/"
@@ -79,4 +92,4 @@ evidence:
     label: "Independent Jordan directory confirms street area; plus code differs from stored pin"
   - type: "other"
     url: "https://www.twine.net/user1182770"
-    label: "Former employee self-report of historical Selenium/Java/Python QA automation"
+    label: "Former employee self-report of historical Selenium/Java/Python QA automation"\n  - type: "official_website"\n    url: "https://liwwa.com/about/faqs"\n    label: "Official borrower FAQ checked 2026-11-14 — Jordan eligibility and Murabaha, merchant-cash, factoring and working-capital products"\n  - type: "official_website"\n    url: "https://liwwa.com/borrow"\n    label: "Official borrower page checked 2026-11-14 — SME lending, street address, contact telephone and business hours"\n  - type: "official_website"\n    url: "https://liwwa.com/invest"\n    label: "Official investor page checked 2026-11-14 — retail investment marketplace closed; not evidence of cessation of SME lending"\n
