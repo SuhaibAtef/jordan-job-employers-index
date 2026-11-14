@@ -1,25 +1,21 @@
 name: "Avertra"
 description: "Avertra is a utility-focused enterprise software and digital-transformation company. Its products and consulting services help energy and water utilities modernize customer experience, billing, field operations and analytics, with an Amman delivery and engineering office and a graduate-focused training academy."
 verification_status: "verified"
-last_verified: "2026-10-07"
+last_verified: "2026-11-14"
 industry: "Enterprise software / digital transformation for utilities and energy"
 website: "https://avertra.com/"
-careers_url: "https://builtin.com/company/avertra-corp/jobs"
+careers_url: "https://avertra.com/life-at-avertra/"
 linkedin: "https://www.linkedin.com/company/avertra/"
-hr_email: null
+hr_email: "talent@avertra.com"
 size: "201-500"
 location:
   status: "verified"
-  address: "301 Wasfi El Tall Street, Khalda, Amman, Jordan"
-  area: "Khalda, Amman"
-  status: "verified"
-  address: "301 Wasfi El Tall Street, Khalda, Amman, Jordan"
-  area: "Khalda, Amman"
-  address: "Abdoun, Amman, Jordan"
-  status: "provided_unverified"
-  latitude: 31.954991
-  longitude: 35.885384
-  maps_url: "https://www.google.com/maps/search/?api=1&query=31.954991,35.885384"
+  address: "8th floor, Methaq Tower, Princess Basmah Street, North Abdoun, Amman 11183, Jordan"
+  area: "North Abdoun, Amman"
+  latitude: null
+  longitude: null
+  maps_url: "https://www.google.com/maps/search/?api=1&query=Methaq+Tower+Princess+Basmah+Street+Amman+Jordan"
+  confidence: "high"
 categories:
   - "ai"
   - "devops"
@@ -34,7 +30,8 @@ job_seeker:
   signals:
     - "Graduate"
     - "Academy"
-notes: "US-headquartered digital-experience company with an Amman engineering office (opened 2024); runs the avertra Academy DigiSkills grant — a 3-month paid training program for unemployed Jordanian graduates aged 20-35 with direct job offers for top performers. GPS pinned to Abdoun-area Maps listing; office location corroborated by Ministry of Digital Economy opening-ceremony coverage (Abdoun neighborhood). Tech stack trimmed to items evidenced by Built In job postings (Mendix, AI/automation, CI/CD, QA) — SAP/React/TypeScript/JavaScript dropped."
+    - "Official careers page accepts talent-pool submissions; availability of individual Jordan vacancies must be checked separately."
+notes: "Reviewed 2026-11-14: Official contact page identifies the current Jordan office as 8th floor, Methaq Tower, Princess Basmah Street, North Abdoun, Amman 11183 and gives talent@avertra.com for recruitment inquiries. Older Khalda and generic Abdoun addresses conflicted in duplicate YAML keys and were replaced by the current first-party address. Historical approximate coordinates cleared because no independent building-level geocode was established. Official careers page describes an application process and talent pool; third-party Jordan job listings are signals, not confirmation of accepting applications. Prior notes: US-headquartered digital-experience company with an Amman engineering office (opened 2024); runs the avertra Academy DigiSkills grant — a 3-month paid training program for unemployed Jordanian graduates aged 20-35 with direct job offers for top performers. GPS pinned to Abdoun-area Maps listing; office location corroborated by Ministry of Digital Economy opening-ceremony coverage (Abdoun neighborhood). Tech stack trimmed to items evidenced by Built In job postings (Mendix, AI/automation, CI/CD, QA) — SAP/React/TypeScript/JavaScript dropped."
 evidence:
   - type: "official_website"
     url: "https://avertra.com/"
@@ -54,3 +51,12 @@ evidence:
   - type: "job_post"
     url: "https://www.bayt.com/en/jordan/jobs/software-engineering-jobs-in-amman/"
     label: "Current 2026 Avertra Senior QA hiring in Amman"
+  - type: "official_website"
+    url: "https://avertra.com/contact/"
+    label: "Official contact page: current Methaq Tower Amman address and talent@avertra.com; reviewed 2026-11-14"
+  - type: "careers"
+    url: "https://avertra.com/life-at-avertra/"
+    label: "Official hiring process and talent-pool invitation; reviewed 2026-11-14"
+  - type: "company_listing"
+    url: "https://jordanjobs.net/en/jo/companies/avertra"
+    label: "Third-party Amman job listings including QA, JavaScript and Mendix roles; application status unconfirmed 2026-11-14"
