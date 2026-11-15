@@ -8,7 +8,7 @@ description: >-
   development near Amman's airport; this does not establish continuity of the
   historical Shmeisani employer or that the park is fully operational.
 verification_status: partial
-last_verified: '2026-11-11'
+last_verified: '2026-11-15'
 industry: Logistics / freight forwarding / warehousing (historical Jordan listing)
 website: https://agility.com/
 careers_url: https://agility.com/careers/
@@ -73,6 +73,14 @@ notes: >-
   Jordan-specific Agility vacancy, local headcount, HR email, precise site
   coordinates or internal software stack was verified. Historic address and
   company-level partial status are unchanged.
+  Rechecked 2026-11-15: The official ALP Jordan English and Arabic pages still
+  describe more than 100,000 sqm at Qastal as under development, without
+  confirming completed construction or current local employment. Agility's
+  official history confirms its GIL freight-forwarding business was sold to
+  DSV in 2021. These are distinct activities: neither source establishes a
+  current Agility-branded Shmeisani freight office. The historic address,
+  precise coordinates, local size, HR contact, tech stack and active Jordan
+  hiring remain unverified. Retain partial company status.
 evidence:
 - type: official_website
   url: https://agility.com/
@@ -129,3 +137,10 @@ evidence:
 - type: official_website
   url: https://agilitylogisticsparks.com/about-agility-logistics-parks/
   label: 'ALP operating-country list rechecked 2026-11-11: Jordan absent, notwithstanding separate project page'
+
+- type: official_website
+  url: https://agilitylogisticsparks.com/ar/logistics-parks-in-middle-east/jordan/
+  label: 'Official Arabic ALP Jordan page checked 2026-11-15: Qastal site still described as under construction; no operational or employment confirmation'
+- type: official_website
+  url: https://agility.com/about-us/our-history/dsv/
+  label: 'Official Agility GIL history rechecked 2026-11-15: freight-forwarding business sold to DSV in 2021'
