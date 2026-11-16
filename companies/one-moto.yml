@@ -70,8 +70,20 @@ notes: >-
   contact page publishes general and dealership channels but no Jordan
   address. Current Jordan employment, exact coordinates, audited local
   headcount and internal software stack remain unverified.
+  Rechecked 2026-11-16: The current ONE MOTO LinkedIn company profile continues
+  to list Jordan among international markets and a global 2-10 employee size
+  band with London headquarters. Its official Amman expansion article discusses
+  electric last-mile delivery in Jordan but supplies no occupied office address.
+  PwC Middle East Future50 independently identifies Jordan as an operational
+  country in its historical regional report; this does not establish current
+  direct Jordan employment. The official contact page publishes general and
+  distribution contacts, while the dealership page solicits partners without
+  naming a verified Jordan dealership. No current Jordan-specific job, HR
+  representative, street address, surveyed coordinates, local workforce size
+  or production engineering stack was established. Global HR contact and
+  self-reported workforce range remain distinct from local employment evidence.
 verification_status: "partial"
-last_verified: "2026-11-09"
+last_verified: "2026-11-16"
 evidence:
   - type: "official_website"
     url: "https://one-moto.com/"
@@ -97,3 +109,6 @@ evidence:
   - type: "official_website"
     url: "https://one-moto.com/dealerships/"
     label: "Official dealership programme; no named Jordan dealer or location verified"
+  - type: "other"
+    url: "https://www.pwc.com/m1/en/esg/images/future50/docs/mobility/ONE-MOTO-Technologies%20Ltd.pdf"
+    label: "PwC Middle East Future50 historical profile: Jordan among operational countries; no local employer address (rechecked 2026-11-16)"
