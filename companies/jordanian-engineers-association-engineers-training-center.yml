@@ -4,7 +4,7 @@ description: The Jordan Engineers Association (JEA) is a Jordanian professional 
   training in engineering, IT, project management, contracts, and related fields. The academy is a training arm of the association,
   not a separate verified technology employer.
 verification_status: partial
-last_verified: '2026-10-16'
+last_verified: '2026-11-16'
 industry: Nonprofit Professional Association / Engineering Training and Continuing Education
 website: https://www.jea.org.jo/
 careers_url: https://www.jea.org.jo/AR/List/%D9%88%D8%B8%D8%A7%D8%A6%D9%81_%D8%B6%D9%85%D9%86_%D9%83%D8%A7%D8%AF%D8%B1_%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%A8%D8%A9
@@ -34,7 +34,7 @@ notes: Reviewed 2026-10-16. JEA founded 1958; its Engineers Academy for Training
   contact, NOT a verified HR inbox. Official JEA internal-staff vacancies page exists but displays no publicly confirmed active
   vacancies. JEA job board advertises third-party employers; its listings are NOT evidence of JEA hiring. Academy provides
   early-career training for engineers, but no current academy internship or graduate employment recruitment was confirmed.
-  Therefore early_career_signal false.
+  Therefore early_career_signal false. Rechecked 2026-11-16: JEA's official Engineers Training Center page confirms continuing education in engineering, IT, management, finance and contracts and describes more than 120 certified trainers; this is a trainer network, not a verified employee headcount. The academy's JEALearn website publishes training@jea.org.jo and +962 6 5622562 / +962 79 9900138 for course enquiries, not HR recruitment. The official internal-staff jobs page displayed only a content-unavailable placeholder on review; it did not confirm an open academy vacancy. The academy's current training website and JEA's 2024 annual report support institutional activity but not a 2026 hiring signal. The existing academy-area coordinates remain approximate, not an independently surveyed entrance. No current HR contact, audited academy staffing or internal software stack established.
 evidence:
 - type: official_website
   url: https://www.jea.org.jo/
@@ -66,3 +66,12 @@ evidence:
 - type: google_maps
   url: https://www.google.com/maps/search/?api=1&query=31.96925,35.89196
   label: Existing approximate academy-area coordinates
+- type: official_website
+  url: https://www.jea.org.jo/EN/Pages/Engineers_Training_Center
+  label: '2026-11-16: official JEA training center profile; programs and 120+ certified trainers (not employees)'
+- type: official_website
+  url: https://jealearn.com/
+  label: '2026-11-16: academy training platform and course contact, not a dedicated HR inbox'
+- type: official_website
+  url: https://www.jea.org.jo/AR/List/%D9%88%D8%B8%D8%A7%D8%A6%D9%81_%D8%B6%D9%85%D9%86_%D9%83%D8%A7%D8%AF%D8%B1_%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%A8%D8%A9
+  label: '2026-11-16: JEA internal staff recruitment page displayed no confirmed vacancy'
