@@ -6,7 +6,7 @@ description: >-
   children. Its 2026 activities include Amman classes, a U.S. live tour and
   an Arabic-letter learning game developed with eduTechnoz.
 verification_status: "partial"
-last_verified: "2026-11-13"
+last_verified: "2026-11-16"
 industry: "Children's Edutainment / Arabic-Language Education and Media"
 website: "https://www.adamwamishmish.com"
 careers_url: "https://www.adamwamishmish.com/work-with-us"
@@ -29,6 +29,7 @@ job_seeker:
   signals:
     - "The official Work With Us page accepts join-the-team inquiries via a contact form; no specific open position or entry-level recruitment was listed on 2026-10-28."
 notes: >-
+  Rechecked 2026-11-16: The official Work With Us page continues to invite Join the team inquiries through a contact form and says vacancies will be uploaded there, but lists no named open position or HR email. The official classes calendar lists Circle Time sessions at Moonbirds (6th Circle) and Tiny Tots (Swefieh Village), plus an online cohort starting November 15; these are service venues and a scheduled class, not proof of a staffed office or current hiring. The official About page confirms five named leaders and 2026 business activity, not audited headcount. Registered office address, precise coordinates, dedicated recruiting contact and internal software stack remain unconfirmed. Partial status retained.
   Reviewed 2026-11-13: The official Work With Us page still invites general
   join-the-team messages but provides no named vacancy or dedicated HR email.
   The official class calendar advertises Amman sessions at Moonbirds and Tiny
@@ -130,3 +131,12 @@ evidence:
   - type: "official_website"
     url: "https://www.adamwamishmish.com/about"
     label: "Rechecked 2026-11-13: named leadership and audience metrics, not staff count"
+  - type: "official_website"
+    url: "https://www.adamwamishmish.com/work-with-us"
+    label: "Rechecked 2026-11-16: join-team inquiry form, no named open position or dedicated HR mailbox"
+  - type: "official_website"
+    url: "https://www.adamwamishmish.com/classes/dates"
+    label: "Rechecked 2026-11-16: Amman partner class venues and online cohort; not evidence of company premises or hiring"
+  - type: "official_website"
+    url: "https://www.adamwamishmish.com/about"
+    label: "Rechecked 2026-11-16: current leadership and activity; audience figures are not employee headcount"
