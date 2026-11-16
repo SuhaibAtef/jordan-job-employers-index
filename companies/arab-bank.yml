@@ -1,5 +1,5 @@
 name: Arab Bank
-last_verified: '2026-11-13'
+last_verified: '2026-11-16'
 industry: Banking / Financial Services
 description: Arab Bank is a Jordan-headquartered banking group providing retail, corporate, institutional and
   digital financial services across multiple markets. Its technology organization supports digital banking,
@@ -75,6 +75,8 @@ notes: Reviewed 2026-10-16. Arab Bank PLC is an operating Amman-headquartered ba
 
   Follow-up 2026-11-13: The bank's official November 2026 news confirms a digital corporate account-opening platform in Jordan. This establishes a customer-facing product, not its internal engineering stack. A YAML evidence-list indentation error from the prior update was corrected.
 
+  Rechecked 2026-11-16: The official Arab Bank vacancy search displayed two Jordan roles: Arab Bank Ambassadors Program (requisition 26000048, posted July 6, 2026) and SME RM (CB) (requisition 2500005N, posted June 29, 2026). Application availability is dynamic. The Amman Stock Exchange company guide reports 3,645 employees in Jordan; this is a local count, not the global LinkedIn size band, and its reporting period is not established here. The official branch directory lists the Head Office ATM at Shaker Bin Zaid Street Building 8, supporting the recorded street address but not precision-validation of stored coordinates. The bank's general mailbox info@arabbank.com.jo is not an HR contact. Internal production stack and dedicated HR email remain unverified; company status stays partial.
+
 evidence:
 - type: official_website
   url: https://www.arabbank.jo
@@ -140,4 +142,13 @@ evidence:
 - type: official_website
   url: https://www.arabbank.jo/ar/leftnavigation/smart-menu/%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AB%D9%85%D8%B1%D9%8A%D9%862/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A1
   label: Official November 2026 announcement of digital corporate account-opening platform
+- type: careers
+  url: https://www.arabbank.jo/smartmenu/smart-menu/careers/vacancies-job-applications
+  label: Official Jordan vacancy search checked 2026-11-16; Ambassadors Program and SME RM (CB) listed
+- type: official_website
+  url: https://www.arabbank.jo/mainmenu/home/ways-to-bank/branches/branches-and-atms-list
+  label: Official head-office ATM listing at Shaker Bin Zaid Street Building 8, checked 2026-11-16
+- type: regulatory
+  url: https://www.ammanstockexchange.jo/en/company_guide/information/227
+  label: Amman Stock Exchange Arab Bank listing and Jordan employee total, checked 2026-11-16
 verification_status: partial
