@@ -5,7 +5,7 @@ description: >-
   accommodations, and guided transportation across Jordan, including Petra,
   Wadi Rum, Jerash, and the Dead Sea.
 verification_status: "partial"
-last_verified: "2026-10-31"
+last_verified: "2026-11-16"
 industry: "Travel Arrangements / Inbound Tour Operator"
 website: "https://www.jdtours.com/"
 careers_url: null
@@ -59,6 +59,7 @@ notes: >-
   The general enquiries email is not classified as HR. No internal software
   stack or precise office entrance coordinates were established. Company
   verification remains partial even though its contact address is supported.
+  Rechecked 2026-11-16: The official homepage advertises bookable tour itineraries and describes 26 years of operations since 2000. The official contact page continues to publish the second-floor 7 Shihan Al Oqlah Street, Abdoun address, info@jdtours.com, telephone +962 6 5938 238 and WhatsApp +962 7 97555 059. These are customer enquiry channels, not verified HR contacts. The official tours catalog displays tour offerings but does not prove actual bookings or hiring. LinkedIn still reports 11-50 employees and the alternate Amin Marie Complex address; headcount and street-level location conflict remain unresolved. No attributable current recruitment, HR email, audited headcount, precise office-entry coordinates or internal software stack was established. Company verification remains partial despite corroborated published contact address.
 evidence:
   - type: "official_website"
     url: "https://www.jdtours.com/"
@@ -90,3 +91,12 @@ evidence:
   - type: "other"
     url: "https://www.travelagents10.com/JO/Amman/305893811647/Jordan-Direct-Tours"
     label: "Public travel-agency listing reproducing June 2026 Jordan Direct Tours promotional posts; checked 2026-10-31"
+  - type: "official_website"
+    url: "https://www.jdtours.com/"
+    label: "Official homepage: current published tours and 26-year operating claim; checked 2026-11-16"
+  - type: "other"
+    url: "https://www.jdtours.com/contact/"
+    label: "Official contact page: published Abdoun office, general email, phone and WhatsApp; checked 2026-11-16"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/jordan-direct-tours"
+    label: "LinkedIn profile: 11-50 employee estimate and conflicting alternate address; checked 2026-11-16"
