@@ -8,7 +8,7 @@ description: >-
   general applications; the linked application forms were reachable on
   2026-10-28, although posting dates and deadlines were not displayed.
 verification_status: "partial"
-last_verified: "2026-11-13"
+last_verified: "2026-11-16"
 industry: "Microfinance / Financial Services"
 website: "https://amc.com.jo"
 careers_url: "https://amc.com.jo/en/career"
@@ -30,6 +30,14 @@ job_seeker:
   signals:
     - "Official careers page displayed Branch Manager, Loan Officer and General Job Application listings on 2026-10-28; linked online application forms loaded, but posting dates and deadlines were not displayed."
 notes: >-
+  Rechecked 2026-11-16: The official vacancies directory continues to display
+  Branch Manager, Loan Officer and General Job Application, without visible
+  posting dates or deadlines. The official branch directory lists 23 branches
+  plus head office. The management directory still names Jumana Faraj as HR
+  Manager; no dedicated HR mailbox was established. The published headquarters
+  address and employee estimate remain company-reported, and no internal
+  production technology stack or graduate recruitment was confirmed. Partial
+  company verification remains appropriate despite the recorded location status.
   Ownership and services confirmed by the company and parent bank. The Central
   Bank of Jordan and the company's LinkedIn profile corroborate the head-office
   address at Building 449, Al Jandaweel; the coordinates follow the Google Maps
@@ -65,6 +73,15 @@ notes: >-
   graduate programme or dated vacancy was independently established.
   Rechecked 2026-11-13: The official English and Arabic careers directories still display Branch Manager, Loan Officer and general applications, without publication dates or deadlines. The official branch directory lists 23 branches plus a head office. The official contact page confirms King Abdullah II Street, Al Jandaweel, Building 449, Amman, phone +962 79 7 530530 and general email amc@amc.com.jo, not an HR-specific inbox. The official management page names Jumana Faraj as Human Resources Manager. The undated 294-employee figure on the official About page is not a current audited headcount. No active dated vacancy, dedicated HR mailbox, graduate programme or internal technology stack was established. Partial verification remains appropriate.
 evidence:
+  - type: "careers"
+    url: "https://amc.com.jo/en/career"
+    label: "Official vacancies directory reviewed 2026-11-16; Branch Manager, Loan Officer and general applications displayed without publication dates"
+  - type: "official_website"
+    url: "https://www.amc.com.jo/en/branches"
+    label: "Official branch directory reviewed 2026-11-16; 23 branches plus head office"
+  - type: "official_website"
+    url: "https://www.amc.com.jo/en/our-team"
+    label: "Official management directory reviewed 2026-11-16; Jumana Faraj named Human Resources Manager"
   - type: "official_website"
     url: "https://amc.com.jo/en/about-us-main"
     label: "Official company history, ownership, services and head-office address"
