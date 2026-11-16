@@ -1,6 +1,6 @@
 name: "Akhtaboot"
 verification_status: "partial"
-last_verified: "2026-11-13"
+last_verified: "2026-11-16"
 industry: "Staffing and Recruiting"
 description: "Akhtaboot is a Jordanian online recruitment and career platform connecting employers with job seekers across MENA. It operates a job marketplace and employer-recruiting services, and has historically run job fairs, internship and fresh-graduate initiatives."
 website: "https://www.akhtaboot.com"
@@ -29,6 +29,7 @@ job_seeker:
     - "Historical 2015 university career-fair handbook: paid IT internships, traineeships, fresh-graduate positions"
     - "Historical 2016 university career-fair handbook: internships and fresh-graduate opportunities; not confirmed open in 2026"
 notes: >-
+  Reviewed 2026-11-16: The company LinkedIn profile, indexed today, still reports Akhtaboot as a 2007-founded Amman staffing/recruiting marketplace with 11-50 employees and an Emaar Towers, Sixth Circle address; the size and address are company-reported, not audited headcount or proof of present office occupancy. Akhtaboot's official about page describes MENA job matching and Android/iOS applications, while its employer page advertises ZenATS, Career Connect and Testello as customer-facing recruitment products rather than verified internal technology. A UNESCO career-guidance review published in 2025 and accessible in 2026 independently lists Akhtaboot as a Jordan employment platform. No currently open Akhtaboot-internal role, dedicated HR inbox, independently verified entrance coordinates or internal software stack was confirmed. Existing coordinates were retained without new precision validation; partial verification remains appropriate.
   Reviewed 2026-11-13: The publicly accessible company LinkedIn profile still identifies Akhtaboot as an Amman-based staffing and recruiting marketplace founded in 2007, with a self-reported 11-50 employee range and Emaar Towers, Sixth Circle address. Its job marketplace displayed third-party employer vacancies dated as recently as 2026-11-12 (for example Doculand B2B Sales Representative, reference 167708); this supports recent marketplace listings, not Akhtaboot internal hiring. No currently accepting Akhtaboot vacancy, HR-specific inbox, independently audited headcount, validated precise office coordinates, or internal engineering stack was established. Existing coordinates remain unverified as a precise entrance. Partial verification remains appropriate. Reviewed 2026-11-10: Public company LinkedIn still reports Amman headquarters at Emaar Towers, Sixth Circle, 11-50 employees, founded 2007 and staffing/recruiting operations. This is company-reported, not independently audited. No current Akhtaboot-internal hiring, HR-specific email, independently validated precise coordinates or internal engineering stack was established. Historical German Jordanian University 2014 and 2016 career-fair handbooks document past internship and fresh-graduate recruitment, not open 2026 opportunities. The coordinates remain a previously recorded approximate pin, not a verified office entrance. Partial verification remains appropriate. Reviewed 2026-11-04 (previous review 2026-10-28). Akhtaboot is an Amman-headquartered online recruitment
   network and employer-facing hiring platform serving the MENA region. Its
   company LinkedIn lists 11-50 employees, founded 2007, and Emaar Towers,
@@ -141,3 +142,12 @@ evidence:
   - type: "official_website"
     url: "https://example.akhtaboot.com/ar/الشرق-الاوسط/عمل-وظائف/job_role/المحاسبة و التدقيق"
     label: "Checked 2026-11-13: marketplace listed Doculand vacancy ref 167708 dated 2026-11-12; third-party hiring, not Akhtaboot recruitment"
+  - type: "linkedin_company"
+    url: "https://jo.linkedin.com/company/akhtaboot"
+    label: "Rechecked 2026-11-16 — Amman, Emaar Towers Sixth Circle, self-reported 11-50 employee band and recruiting business"
+  - type: "official_website"
+    url: "https://example.akhtaboot.com/en/employers"
+    label: "Rechecked 2026-11-16 — ZenATS, Career Connect and Testello are marketed employer products, not verified internal engineering stack"
+  - type: "other"
+    url: "https://articles.unesco.org/sites/default/files/medias/fichiers/2026/01/TVET-Career%20Guidance%20Review-EN%2002092025.pdf"
+    label: "UNESCO career-guidance review, published 2025 and accessible 2026 — independently identifies Akhtaboot as a Jordan employment platform"
