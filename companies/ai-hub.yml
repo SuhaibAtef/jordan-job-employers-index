@@ -1,7 +1,7 @@
 name: "AI HUB"
 description: "AI HUB is an Amman-based AI services and training startup founded in 2024. It offers AI and data skills programs, business AI automation, and talent-development initiatives. In October 2026 it promoted a Claude for Work course with the Princess Sumaya University for Technology training center and reported sponsoring AI Expo at the University of Jordan."
 verification_status: "partial"
-last_verified: "2026-11-13"
+last_verified: "2026-11-16"
 industry: "AI Services / Workforce Training / Automation"
 website: "https://aihubjo.org/"
 careers_url: null
@@ -27,6 +27,7 @@ job_seeker:
     - "2026 internship program reposted by AI HUB; application status not confirmed"
     - "2026 robotics-trainer opportunity reposted by AI HUB; application status not confirmed"
 notes: |-
+  2026-11-16 review: AI HUB's Jordan-localized company LinkedIn page (crawled today) still identifies the 2024-founded Amman organization, its aihubjo.org domain and self-reported 2-10 workforce. The company advertises a November 21 Start Your Business with AI session at VBC Abdoun during Global Entrepreneurship Week Jordan (November 16-22). This is a scheduled event, not an employer office or recruitment confirmation. Its 2025 graduate rotation job post remains historical; no current directly attributable opening, HR mailbox deliverability, street address, office coordinates, or internal production stack was independently established. The similarly named 2013-founded aihubjordan/aihubjo.com entity is distinct. Partial verification retained.
   2026-11-13 recheck: The company LinkedIn profile, crawled today, still identifies AI HUB (aihub-talentpool) as a 2024-founded Amman organization with 2-10 self-reported employees and lists aihubjo.org. Its recent company-authored post advertises a November 21 Start Your Business with AI event at VBC Abdoun; this is a future event venue, not an office location or direct hiring signal. The historical 2025 graduate recruitment post identifies jobs@aihub-talent.com but does not prove an active opening or current mailbox availability. No independently confirmed street address, precise coordinates, active employer-owned vacancy, or internal production stack established. Distinct 2013-founded aihubjordan/aihubjo.com excluded. Company status remains partial.
   Reviewed 2026-11-04 (follow-up to 2026-10-28). The AI HUB company LinkedIn page identifies an Amman headquarters (postal code 11925), 2024 founding, and 2-10 employees (self-reported, not audited). It now lists https://aihubjo.org/ as the company's website, but the domain could not be independently retrieved during this review; the URL is company-provided, not proof of an accessible website or careers portal. No street address, office pin, or reliable coordinates were established. Previous city-center coordinates were not office evidence and remain excluded.
   November 4 follow-up: AI HUB's Jordan-localized LinkedIn company profile continues to identify the company as founded in 2024, headquartered in Amman 11925, with 2-10 self-reported employees. It lists AI-powered recruitment, analytics, automation, and software development as specialties. Its feed reposts a team representative's announcement of partnership with Global Entrepreneurship Week Jordan (event scheduled November 16-22, 2026); this is a future partnership signal, not evidence that the event has occurred. No current direct employer vacancy or precise office location was confirmed. Source: https://jo.linkedin.com/company/aihub-talentpool (accessed 2026-11-04).
@@ -59,3 +60,9 @@ evidence:
   - type: "linkedin_company"
     url: "https://jo.linkedin.com/company/aihub-talentpool"
     label: "2026-11-13 recheck: company profile and November 21 event announcement; self-reported size and Amman headquarters, no active vacancy established"
+  - type: "linkedin_company"
+    url: "https://jo.linkedin.com/company/aihub-talentpool"
+    label: "2026-11-16 review: 2024-founded Amman AI HUB, self-reported 2-10 employees and November 21 Global Entrepreneurship Week event; not an office or vacancy"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/aihub-talentpool_hiring-ai-data-science-fresh-graduates-activity-7325496850487107585-VjAq"
+    label: "2026-11-16 recheck: 2025 graduate recruitment and historical jobs email; not evidence of an open November 2026 role"
