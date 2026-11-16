@@ -5,7 +5,7 @@ description: >-
   and teenagers, combining allowances, chores, savings goals and a prepaid-card
   concept. Its current operating status remains unconfirmed as of November 2026.
 verification_status: "partial"
-last_verified: "2026-11-13"
+last_verified: "2026-11-16"
 industry: "Family Fintech / Financial Education"
 website: "https://7asaleh.com"
 careers_url: null
@@ -82,7 +82,7 @@ notes: >-
   results were excluded. No new HR contact, size, office coordinates or
   current internal stack could be supported. Partial verification reflects
   corroborated historical identity, not a verified active employer.
-evidence:
+  Rechecked 2026-11-16: StartupsJo still publicly lists 7ASALEH (حصالة),\n  founder/contact Nayef Elfayez, general email info@7asaleh.com,\n  telephone +962797300700, Jordan headquarters and EdTech/personal-finance\n  classification. This directory is not a dated proof of active operations.\n  Targeted current searches did not identify an attributable active careers\n  page, job vacancy or official operational announcement. Current staff size,\n  street address, office coordinates, HR contact and deployment of the\n  historical contracted stack remain unverified. Partial status retained.\nevidence:
   - type: "company_listing"
     url: "https://www.startupsjo.com/en/Pages/CustomPages/Startup/584"
     label: "StartupsJo startup profile — Jordan, founder and general contact details (rechecked 2026-11-03)"
@@ -110,3 +110,6 @@ evidence:
   - type: "other"
     url: "https://www.appbrain.com/appstore/7asaleh/ios-1634617551"
     label: "Rechecked 2026-11-11 — AppBrain page contains inconsistent iOS/Google Play platform wording; store-specific removal cannot be confidently assigned"
+  - type: "company_listing"
+    url: "https://www.startupsjo.com/en/Pages/CustomPages/Startup/584"
+    label: "Rechecked 2026-11-16 — directory lists Jordan, founder, general contact and fintech/EdTech classification; not evidence of current operations or recruitment"
