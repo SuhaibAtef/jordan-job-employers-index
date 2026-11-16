@@ -1,7 +1,7 @@
 name: "AHLI FINTECH"
 description: "AHLI FINTECH is a wholly owned subsidiary of Jordan Ahli Bank that invests in and supports early-stage fintech startups through incubation, acceleration, mentoring, ecosystem partnerships and access to banking APIs and infrastructure. Its July 2026 InvoiceQ partnership supported e-invoicing for portfolio startups; its CEO was listed as a speaker at Jordan Fintech Festival 2026."
 verification_status: "partial"
-last_verified: "2026-11-13"
+last_verified: "2026-11-16"
 industry: "Fintech / Venture Capital, Incubation & Acceleration"
 website: "https://ahlifintech.com"
 careers_url: null
@@ -82,6 +82,16 @@ notes: >-
   technology stack, audited headcount or exact office coordinates were found.
   The official news homepage displays a 2025-11-27 incubator story above
   the 2026-07-07 announcement, so display order is not reliable chronology.
+  Rechecked 2026-11-16: the official ecosystem page describes access to
+  Jordan Ahli Bank open-banking API sandbox and Qawn developer portal for
+  supported startups; these are partner-facing resources, not proof of AHLI
+  FINTECH's internal technology stack. The official site still lists the
+  Building 19 office and general fintech@ahli.com contact. Jordan Ahli
+  Bank's historical Investment Associate - Fintech Programs posting dated
+  2024-07-10 explicitly describes AHLI FINTECH work but is marked expired.
+  The bank's separate careers portal does not establish a current direct
+  AHLI FINTECH vacancy. Dedicated HR contact, audited size and precise
+  office coordinates remain unconfirmed; verification remains partial.
 evidence:
   - type: "official_website"
     url: "https://ahlifintech.com"
@@ -149,3 +159,9 @@ evidence:
   - type: "official_website"
     url: "https://ahlifintech.com/portfolio/"
     label: "Official portfolio archive lists CyberSierra dated 2026-10-08; checked 2026-11-13, not direct hiring"
+  - type: "official_website"
+    url: "https://ahlifintech.com/our-ecosystem/"
+    label: "Rechecked 2026-11-16 — startup access to open-banking sandbox and Qawn developer portal; not an internal engineering stack"
+  - type: "job_post"
+    url: "https://careers.ahli.com/en/jordan/jobs/investment-associate-fintech-programs-5151914/"
+    label: "Official parent-bank 2024 AHLI FINTECH-related job explicitly expired; checked 2026-11-16, not current hiring"
