@@ -44,7 +44,7 @@ notes: >-
   IT vacancies were established. The fintech category denotes payment-service
   exposure, not evidence of proprietary fintech software development.
 verification_status: "partial"
-last_verified: "2026-10-25"
+last_verified: "2026-11-16"
 evidence:
   - type: "official_website"
     url: "http://www.musharbashexchange.com"
@@ -94,3 +94,9 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.9894619,35.872776"
     label: "Approximate official Gardens branch pin, not surveyed entrance"
+  - type: "official_website"
+    url: "https://musharbashexchange.com/en/contact/"
+    label: "Rechecked 2026-11-16: official headquarters, general contact and telephone"
+  - type: "official_website"
+    url: "https://musharbashexchange.com/en/careers/"
+    label: "Rechecked 2026-11-16: general resume form, no dated vacancy listing"
