@@ -1,5 +1,5 @@
 name: Almomani Cyber Solutions
-last_verified: '2026-11-11'
+last_verified: '2026-11-17'
 industry: IT Services and IT Consulting / Cybersecurity
 description: Amman-based cybersecurity and IT consultancy providing managed SOC, incident
   response, vulnerability assessment, DevSecOps, cloud infrastructure, software development
@@ -44,6 +44,7 @@ job_seeker:
   - Full Stack Development Internship (three-month training; registration open)
   - Cybersecurity Defense Engineer Internship (three-month training; registration open)
 notes: >-
+  Rechecked 2026-11-17: Official homepage continues to advertise managed SOC, VAPT, cloud, DevSecOps and software services, and now markets GeoWaqt attendance and Matjar e-commerce software products. These are first-party marketed capabilities, not audited deployments or evidence of an internal production stack. Official contact page still publishes Al Quds Center, Building 224, Office 210, Wasfi Al Tall Street, Amman 11953, telephone +962 785314928 and info@almomanicybersolutions.com as general contact. Official DevSecOps and VAPT program pages still say Open for Registration; these are training enrolments, not confirmed paid vacancies. The 2-10 employee band remains an unaudited LinkedIn estimate, and the website's 20+ experts claim does not establish employee headcount. No confirmed currently accepting paid vacancy, dedicated HR inbox, precise surveyed coordinates or independently validated office occupancy was established.
   Rechecked 2026-11-11. Official site still confirms managed SOC, cloud, DevSecOps and software services, with Al Quds Center Building 224 Office 210 as its published Amman address. The official training catalogue now includes SOC Analyst, DevSecOps Engineer, VAPT and QA & Automation Engineer programs alongside cybersecurity defense and full-stack internships; the DevSecOps and VAPT pages say Open for Registration. These are training registrations, not confirmed paid vacancies. The 2-10 employee band is a LinkedIn estimate; website claims of 20+ experts are marketing figures, not a verified headcount. Precise coordinates, independently verified HR mailbox, and live salaried positions remain unconfirmed. Rechecked 2026-11-06. The live official website still advertises managed SOC,
   incident response, cloud services, DevSecOps and security assessments. Its
   contact page continues to list Al Quds Center, Building 224, Office 210,
@@ -120,4 +121,7 @@ evidence:
 - type: official_website
   url: https://almomanicybersolutions.com/en/training/vulnerability-assessment-and-penetration-testing-vapt-program/
   label: Official VAPT training program reviewed 2026-11-11; open registration, not a verified job
+- type: official_website
+  url: https://almomanicybersolutions.com/en/software/matjar/
+  label: Official Matjar e-commerce product page reviewed 2026-11-17; marketed software, not internal stack evidence
 verification_status: partial
