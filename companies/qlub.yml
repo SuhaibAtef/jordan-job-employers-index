@@ -27,7 +27,7 @@ job_seeker:
     third-party board dates it 2026-09-16 and lists a 2027-01-05 deadline. Requires proven food-and-beverage sales
     and English; application status may change.
   - No verified Jordan internship, graduate program, engineering vacancy or dedicated HR recruitment mailbox as
-    of 2026-10-28.
+    of 2026-11-17. The July 9 Amman business development listing is now marked no longer accepting applications by a job-board mirror.
 notes: Reviewed 2026-10-28. Official qlub.io lists Jordan commercial contact +962793081113 and info.jo@qlub.io,
   but no Jordan street address; neither contact is verified for HR. LinkedIn lists Dubai headquarters and a self-reported
   51-200 employee company-size range, conflicting with earlier 201-500 and ~300 estimates; Jordan headcount unknown.
@@ -35,7 +35,7 @@ notes: Reviewed 2026-10-28. Official qlub.io lists Jordan commercial contact +96
   dates it 2026-09-16 with a stated 2027-01-05 deadline, which is not independently guaranteed. LinkedIn labels
   the role entry level but the description requires proven F&B sales; do not treat it as a graduate or internship
   program. Careers URL redirects to a JavaScript-only Ashby board, so its complete vacancy inventory was not verified.
-  Prior city-centre coordinates 31.9539,35.9106 and associated Google Maps search were removed because they were
+  Follow-up 2026-11-17: Official country contact page still publishes Jordan commercial telephone +962793081113 and info.jo@qlub.io without an office street address. The FinTech Collective-hosted Business Development Manager (Amman) listing, posted July 9 2026, now explicitly says no longer accepting applications; earlier secondary-board future deadline is not proof of an open role. No current direct Jordan vacancy, HR email, Jordan headcount, precise coordinates or independently verified internal stack established; retain partial verification. Prior city-centre coordinates 31.9539,35.9106 and associated Google Maps search were removed because they were
   not an office geocode. Product capabilities are not evidence of the internal engineering stack. Funding reporting
   from July 2025 retained as historical context. Company verification remains partial due to missing precise Jordan
   office, HR mailbox, Jordan headcount and independently verified engineering stack.
@@ -69,8 +69,14 @@ evidence:
   url: https://jordan.mimusjobs.com/job/business-development-manager-amman/
   label: 'Secondary board: qlub Amman sales role posted 2026-09-16, listed deadline 2027-01-05; confirm live availability
     with employer'
+- type: job_post
+  url: https://jobs.fintech.io/companies/qlub/jobs/85778743-business-development-manager-amman
+  label: 'Rechecked 2026-11-17: Amman business development role posted 2026-07-09; board explicitly says no longer accepting applications'
+- type: official_website
+  url: https://qlub.io/us/en/contact-us
+  label: 'Rechecked 2026-11-17: Jordan sales telephone and general contact email, no street address or HR contact'
 description: Dubai-headquartered restaurant-payments fintech serving hospitality venues with QR-code pay-at-table,
   bill splitting, digital menus, order-and-pay, payment links and SoftPOS. The company publishes a Jordan commercial
   contact and advertises a business-development position in Amman; an exact Jordan office address is not confirmed.
 verification_status: partial
-last_verified: '2026-10-28'
+last_verified: '2026-11-17'
