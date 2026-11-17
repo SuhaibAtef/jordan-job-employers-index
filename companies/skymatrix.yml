@@ -38,7 +38,7 @@ job_seeker:
   - Virtual Data IT previously advertised an on-site Flutter Mobile App Developer role in Amman
     requiring Flutter, Dart, REST APIs and Git; LinkedIn marks applications closed. It is not
     a SkyMatrix-specific or confirmed early-career opening.
-notes: Reviewed 2026-10-30. SkyMatrix's official website expressly identifies Virtual Data IT
+notes: Reviewed 2026-11-17: Rechecked the official SkyMatrix About page, which still identifies Virtual Data IT as developer/operator and advertises regional infrastructure in Amman and Riyadh, with VPS, dedicated servers, WAF, load balancing and disaster recovery. These are first-party product and infrastructure claims, not independently certified data-center coordinates, current workforce, engineering stack or a separately registered employing entity. The parent careers page could not be accessed during this review, so current vacancies cannot be confirmed or ruled out. General support contact is not an HR mailbox; retain partial status and location approximate. Previously reviewed 2026-10-30. SkyMatrix's official website expressly identifies Virtual Data IT
   as the developer and operator; the parent also lists SkyMatrix in its product portfolio. Do
   not count SkyMatrix as a separately confirmed legal employer or apply parent workforce figures
   to the product. Virtual Data IT's LinkedIn profile lists 11-50 employees, founded 2018, headquarters
@@ -87,5 +87,8 @@ evidence:
 - type: other
   url: https://www.linkedin.com/posts/vdatait_skymatrix-cloudinfrastructure-saas-activity-7502270737005580289-VFn4
   label: Parent's SkyMatrix product marketing and regional cloud infrastructure statement
+- type: official_website
+  url: https://skymatrix.cloud/en/about
+  label: Rechecked 2026-11-17 — official operator disclosure and Amman/Riyadh regional infrastructure claims; not independent office or hiring confirmation
 verification_status: partial
-last_verified: '2026-10-30'
+last_verified: '2026-11-17'
