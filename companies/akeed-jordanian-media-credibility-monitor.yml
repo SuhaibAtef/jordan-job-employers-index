@@ -1,7 +1,7 @@
 name: "Akeed (Jordanian Media Credibility Monitor)"
 description: "AKEED is a Jordan Media Institute media-accountability and fact-checking project, launched in 2014 with support from the King Abdullah II Fund for Development. It monitors rumors and the credibility of Jordanian media coverage, checks claims against published standards, and issues periodic monitoring reports."
 verification_status: "partial"
-last_verified: "2026-11-14"
+last_verified: "2026-11-17"
 industry: "Media Monitoring / Fact-Checking"
 website: "https://akeed.jo"
 careers_url: null
@@ -28,6 +28,7 @@ notes: |-
   Rechecked the official website on 2026-11-07: two new reports dated 2026-11-05 cover media treatment of the death of police officer Jawad Al-Salayta and problematic publication of incident imagery. This confirms continuing November editorial output, but not current vacancies, independent legal incorporation, employee headcount, an HR mailbox, or precise office coordinates. The official contact page still gives Airport Street, Amman, info@akeed.jo and +962-79549-3667 as general contact information.
   Rechecked 2026-11-11: the official AKEED reports index lists a 2026-11-10 report on ethical treatment of mourning and victims, and a 2026-11-09 report on an inappropriate media phrase and subsequent professional apology. These dated publications confirm continuing fact-checking/media-monitoring activity, but do not establish a currently open job, dedicated HR contact, independent legal entity, exact office coordinates or verified employee count.
   Rechecked 2026-11-14: the official public reports archive displayed its 2026-11-01 October rumor report and other October publications, while its footer continued to identify AKEED as a Jordan Media Institute project and list Airport Street, Amman, info@akeed.jo and +962-79549-3667. This corroborates project identity and published contact details, but the archive view did not independently establish any newer vacancy, dedicated HR address, legal incorporation, exact office pin, payroll headcount or technology stack. Other previously recorded November publications were not independently revalidated in this archive view.
+  Rechecked 2026-11-17: The official AKEED homepage displays multiple fact-checks and rumor notices dated 2026-11-16, including a report on media ethics in coverage of a sexual-assault case and rumor checks concerning Madaba and Irbid. These confirm continuing publication activity. The site still identifies AKEED as a Jordan Media Institute project and lists Airport Street, Amman, info@akeed.jo and +962-79549-3667 as general contact details. No newly accepting vacancy, independent employing entity, dedicated HR contact, audited headcount, exact office coordinates or production stack was established; retain partial verification.
 evidence:
   - type: "official_website"
     url: "https://akeed.jo"
@@ -80,3 +81,6 @@ evidence:
   - type: "official_website"
     url: "https://www.akeed.jo/public/Reports"
     label: "Official reports archive and footer reviewed 2026-11-14; project affiliation, Airport Street general contact and 2026-11-01 report; no hiring evidence"
+  - type: "official_website"
+    url: "https://www.akeed.jo/public/"
+    label: "Rechecked 2026-11-17 — official homepage shows multiple 2026-11-16 reports and rumor checks; project affiliation and general Airport Street contact, not current hiring"
