@@ -36,13 +36,14 @@ job_seeker:
   signals:
   - >-
     SkyTech's official recruitment portal displayed an Odoo ERP Developer
-    position in Amman requiring 1-3 years of experience, under Current Openings
-    on 2026-10-30. Its listed date is 10/07/2026 (format ambiguous); actual
-    application acceptance was not independently tested.
+    position in Amman requiring 1-3 years of experience on 2026-10-30, but
+    the 2026-11-17 recheck displayed only one Odoo Functional Consultant role.
+    The developer position is therefore not confirmed currently open.
   - >-
-    The official portal also displayed an Amman Odoo Functional Consultant
-    position requiring 4-5 years of experience under Current Openings on
-    2026-10-30; this is not an entry-level role.
+    The official portal displayed one Amman Odoo Functional Consultant
+    position requiring 5+ years of experience under Current Openings on
+    2026-11-17; this is not an entry-level role. The listed date
+    10/07/2026 is format-ambiguous and application acceptance was not tested.
   - >-
     A SkyTech Associate Functional Consultant vacancy dated 2026-08-15 on
     Bayt described 0-3 years of experience and welcomed relevant coursework
@@ -53,7 +54,7 @@ job_seeker:
     stated 1-3 years and an application deadline of 2026-12-10; its employer
     authorization and present application status were not independently verified.
 notes: >-
-  Reviewed 2026-10-30. The official company website and LinkedIn support
+  Reviewed 2026-11-17: Official careers portal now shows one Current Openings listing, Odoo Functional Consultant in Amman requiring 5+ years, rather than the two openings observed on 2026-10-30. The former Odoo Developer vacancy is no longer visible in that listing, but closure cannot be conclusively established. The official contact page continues to show 13 Mohamed Al-Amin Al Momani Street, Um Al Summaq, and +962 6 222 9600. A separate development-site contact page still shows an older Mecca Street address and is not treated as authoritative for current occupancy. No direct HR email, precise entrance coordinates, audited Jordan headcount or independently validated current hiring acceptance was established. Company verification remains partial. Reviewed 2026-10-30. The official company website and LinkedIn support
   an active Amman-based ERP and IT consulting business. LinkedIn identifies
   the founding year as 2013 and company size as 11-50 employees, not a verified
   Jordan-only workforce count. The official contact page currently gives
@@ -113,5 +114,8 @@ evidence:
 - type: official_website
   url: https://www.e-skytech.com/ar/%D8%B3%D9%83%D8%A7%D9%8A-%D8%AA%D9%83-%D8%AA%D8%AD%D8%B5%D9%84-%D8%B9%D9%84%D9%89-%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-iso-27001-%D9%88%D8%AA%D8%B9%D8%B2%D8%B2-%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85%D9%87/
   label: Company announcement of ISO 27001 certification dated 2026-08-19, not independently audited
+- type: careers
+  url: https://careers.e-skytech.com/jobs/Careers
+  label: Official portal rechecked 2026-11-17; one Amman Odoo Functional Consultant listing requiring 5+ years; developer vacancy no longer shown
 verification_status: partial
-last_verified: '2026-10-30'
+last_verified: '2026-11-17'
