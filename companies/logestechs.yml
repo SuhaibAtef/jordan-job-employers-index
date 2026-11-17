@@ -60,7 +60,7 @@ notes: >-
   historical HR application email were retained without new confirmation.
   No Jordan-specific current vacancy, office coordinates, audited staffing
   or internal programming stack was established.
-  Rechecked 2026-11-13: The live official product site continues to describe
+  Rechecked 2026-11-17: Official LogesTechs careers page continues to advertise three Saudi Arabia roles (Sales Executive, Customer Success Executive, Partnership Manager), with Saudi location or residency requirements; these are not Jordan vacancies. The company website continues to advertise cloud delivery, warehouse, order, transport and returns software. The historical Jordan Implementation and Customer Success Engineer LinkedIn posting is explicitly no longer accepting applications. No current Jordan vacancy, independently confirmed Jordan office occupancy or precise coordinates, verified current HR mailbox, audited Jordan headcount or production programming stack was established. Partial company status retained. Rechecked 2026-11-13: The live official product site continues to describe
   delivery, warehouse, order, transport, returns and analytics SaaS modules.
   The official Saudi Arabia careers page lists sales, customer-success and
   partnership positions requiring Saudi-based candidates. These postings
@@ -70,7 +70,7 @@ notes: >-
   programming stack was established; company status remains partial. Corrected an existing
   malformed evidence-list line that joined two YAML entries.
 verification_status: "partial"
-last_verified: "2026-11-13"
+last_verified: "2026-11-17"
 evidence:
   - type: "official_website"
     url: "https://logestechs.com/"
@@ -99,3 +99,9 @@ evidence:
   - type: "official_website"
     url: "https://logestechs.com/"
     label: "Rechecked 2026-11-13: live logistics SaaS product modules; no implementation stack inferred"
+  - type: "careers_page"
+    url: "https://logestechs.com/careers-saudi-arabia/"
+    label: "2026-11-17 recheck: three advertised Saudi Arabia roles; no evidence of Jordan openings"
+  - type: "job_post"
+    url: "https://jo.linkedin.com/jobs/view/implementation-customer-success-engineer-at-logestechs-4374581007"
+    label: "2026-11-17 recheck: historical Jordan implementation role explicitly no longer accepting applications"
