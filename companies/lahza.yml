@@ -3,7 +3,7 @@ description: Lahza (لحظة) is a Jordanian software startup developing Arabic-
   existing factory and warehouse camera feeds for real-time safety, quality, and operations alerts. The company
   describes on-premises deployments using vision-language models and NVIDIA edge hardware.
 verification_status: partial
-last_verified: '2026-11-13'
+last_verified: '2026-11-17'
 industry: Industrial Computer Vision / AI Software
 website: https://lahza.ai
 careers_url: null
@@ -58,6 +58,20 @@ notes: Reviewed 2026-10-19 (Jordan time). Company LinkedIn self-reports founding
   headcount or deployed production stack was established. Company-level
   verification remains partial; Amman is a self-reported city, not a
   geocoded office.
+  Rechecked 2026-11-17: The official lahza.ai site is accessible and explicitly
+  advertises Arabic/English industrial camera agents for safety, hygiene,
+  quality and operations, with on-premise edge processing. It states that
+  engineering occurs in Germany and Jordan and that it works with facilities
+  across Jordan; this is a first-party claim, not an independently audited
+  customer list. The site announces participation in GJU Startup Alley on
+  2026-10-19 and publishes +962 79 090 9076 as a business contact, not a
+  verified HR number. Third-party Dr.Job listings dated 2026-10-18 still
+  display January 2027 deadlines for AI Engineer and working-student roles,
+  but previously checked employer LinkedIn postings were closed; no live
+  employer-controlled application was verified. A mirrored role says Irbid
+  and 11-50 staff, conflicting with LinkedIn's Amman and 2-10 figures.
+  No precise street office, surveyed coordinates, dedicated HR mailbox or
+  audited production stack was established. Verification remains partial.
 evidence:
 - type: official_website
   url: https://lahza.ai
@@ -96,3 +110,9 @@ evidence:
 - type: linkedin_company
   url: https://jo.linkedin.com/company/lahza-ai
   label: '2026-11-13 review: self-reported Amman headquarters and 2-10 staff; employer-authored AI Engineer recruitment and October Startup Alley posts; current application status not confirmed'
+  - type: official_website
+    url: https://lahza.ai/
+    label: '2026-11-17 live official site: on-premise industrial vision agents, Jordan activity and October GJU Startup Alley announcement'
+  - type: job_post
+    url: https://www.drjobpro.com/jordan/jobs/ai-engineer-computer-vision-amman-lahza-ai-MVE2QIY93PKYENH
+    label: '2026-11-17 third-party mirror of October AI Engineer posting; deadline not proof of direct application availability'
