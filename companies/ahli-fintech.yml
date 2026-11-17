@@ -1,7 +1,7 @@
 name: "AHLI FINTECH"
 description: "AHLI FINTECH is a wholly owned subsidiary of Jordan Ahli Bank that invests in and supports early-stage fintech startups through incubation, acceleration, mentoring, ecosystem partnerships and access to banking APIs and infrastructure. Its July 2026 InvoiceQ partnership supported e-invoicing for portfolio startups; its CEO was listed as a speaker at Jordan Fintech Festival 2026."
 verification_status: "partial"
-last_verified: "2026-11-16"
+last_verified: "2026-11-17"
 industry: "Fintech / Venture Capital, Incubation & Acceleration"
 website: "https://ahlifintech.com"
 careers_url: null
@@ -92,6 +92,7 @@ notes: >-
   The bank's separate careers portal does not establish a current direct
   AHLI FINTECH vacancy. Dedicated HR contact, audited size and precise
   office coordinates remain unconfirmed; verification remains partial.
+  Rechecked 2026-11-17: The official events page lists no upcoming events, while the official portfolio archive still lists CyberSierra dated 2026-10-08 and the news archive lists InvoiceQ dated 2026-07-07. These establish a maintained public program footprint but not a direct employment opening. The homepage continues to publish Building 19, Floor 1 and fintech@ahli.com as general contact; no dedicated HR address, audited headcount, exact building coordinates, or internally used technology stack was verified. Status remains partial.
 evidence:
   - type: "official_website"
     url: "https://ahlifintech.com"
@@ -165,3 +166,6 @@ evidence:
   - type: "job_post"
     url: "https://careers.ahli.com/en/jordan/jobs/investment-associate-fintech-programs-5151914/"
     label: "Official parent-bank 2024 AHLI FINTECH-related job explicitly expired; checked 2026-11-16, not current hiring"
+  - type: "official_website"
+    url: "https://ahlifintech.com/events/"
+    label: "Checked 2026-11-17 — official events page states no upcoming events; past events are not vacancies"
