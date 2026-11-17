@@ -51,6 +51,8 @@ notes: >-
   graduate program was independently verified. Prior 2026-10-03 research preserved
   as historical context, but its claim that the Amman address conflict was resolved
   is superseded by this direct review of conflicting current official pages.
+notes_review_2026_11_17: >-
+  Reviewed 2026-11-17: NaiTel's Arabic homepage still publishes 314 Zahran Street, Al-Husseini Complex, 7th Floor, Office 715, Amman, while the English cookies-policy footer still publishes Abdoun, Salman Qudah Street, Jordan Kuwaiti Bank Building, 1st Floor. The address discrepancy remains unresolved; no office coordinates were assigned. The official website continues to advertise DIA, MPLS, FTTx, AqabaIX and Starlink business services. The 2026-10-01 MEDUSA partner announcement and Jordan News Agency report corroborate a signed connectivity/colocation agreement, not completion of planned infrastructure. No currently accepting Jordan job posting or dedicated HR mailbox was established in this review. These advertised services do not prove the internal software stack.
 evidence:
   - type: "official_website"
     url: "https://www.naitel.jo"
@@ -97,5 +99,8 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=NaiTel+Amman+Jordan"
     label: "Name-based map search only; no independently verified office coordinates"
+  - type: "other"
+    url: "https://medusascs.com/news/naitel-and-medusa-join-forces-to-advance-digital-corridor-linking-europe-north-africa-jordan-and-middle-east/"
+    label: "MEDUSA official partner announcement, 2026-10-01, rechecked 2026-11-17; planned integration"
 verification_status: "partial"
-last_verified: "2026-10-25"
+last_verified: "2026-11-17"
