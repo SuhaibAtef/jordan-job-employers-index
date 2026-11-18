@@ -6,7 +6,7 @@ description: >-
   a content licensing and syndication business, and operates the DISCO
   digital-content marketplace.
 verification_status: "partial"
-last_verified: "2026-11-15"
+last_verified: "2026-11-18"
 industry: "Digital publishing / Online media / Content licensing and syndication"
 website: "https://www.albawaba.com"
 careers_url: null
@@ -109,6 +109,16 @@ notes: >-
   current deployment of historically documented technologies. The address
   is publisher-reported; company-level verification remains partial.
   Rechecked 2026-11-15: Official contact and terms pages continue to publish The Plenary, fourth floor, 74 Abdel Hamid Sharaf Street, Amman, and contact@albawaba.com as a general rather than HR mailbox. The official editorial-team directory identifies named editorial staff and roles, providing additional first-party evidence of an editorial organization, not a verified current vacancy or audited headcount. No dedicated HR email, accepting job application, precise office coordinates or current production-stack confirmation was established; company verification remains partial despite the corroborated published location.
+  Rechecked 2026-11-18: Official About and English Contact pages still identify
+  Al Bawaba as an Amman-headquartered publisher, its SyndiGate content
+  licensing subsidiary, and The Plenary, fourth floor, 74 Abdel Hamid Sharaf
+  Street office address. The Arabic Contact and English Terms pages repeat
+  the address, while contact@albawaba.com remains a general contact, not
+  a confirmed recruitment mailbox. Published address is high-confidence
+  first-party evidence but not independently confirmed occupancy or precise
+  coordinates. No current accepting vacancy, dedicated careers portal,
+  audited employee count, or current deployment of historical stack claims
+  was established during this check. Company verification remains partial.
 evidence:
   - type: "official_website"
     url: "https://www.albawaba.com"
