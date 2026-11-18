@@ -1,6 +1,6 @@
 name: "AlGurus Agency"
 verification_status: "partial"
-last_verified: "2026-11-13"
+last_verified: "2026-11-18"
 industry: "Marketing Services / Digital Marketing / E-commerce Development"
 description: >-
   AlGurus is an Amman-based digital marketing, performance advertising and
@@ -66,6 +66,8 @@ notes: >-
   coordinates remain unverified; older third-party directories mention
   Mecca Street, while the current official website and LinkedIn specify
   Um Uthaina. The generic Google Maps search is not an exact business pin.
+  Rechecked 2026-11-18: The official homepage continues to advertise paid-search, social advertising, SEO/GEO and ecommerce development, with Um Uthaina, Amman, phone 0791006167 and general contact Mohammad@algurus.com. Shopify's official Partner Directory, crawled within the last week, independently identifies AlGurus as an Amman-based Select service partner since March 2020, with Shopify store builds, migrations and theme customization. Company-reported 2026 Google Premier status, commercial results and client counts were not independently audited. No directly confirmed open internal vacancy, dedicated HR email, exact office coordinates, audited headcount or internal deployment stack; client platforms are not proof of internal engineering systems. Partial verification retained.
+
 evidence:
   - type: "official_website"
     url: "https://algurus.com"
@@ -124,3 +126,9 @@ evidence:
   - type: "official_website"
     url: "https://algurus.com/"
     label: "Official homepage checked 2026-11-13 — current services, Um Uthaina public contact and self-reported 2026 partnership/performance claims"
+  - type: "company_listing"
+    url: "https://www.shopify.com/my/partners/directory/partner/algurus"
+    label: "2026-11-18 recheck: Shopify official directory, Amman Select service partner since March 2020, client ecommerce services and general contact; no recruitment evidence"
+  - type: "official_website"
+    url: "https://algurus.com/"
+    label: "2026-11-18 recheck: current advertised marketing and ecommerce services, Um Uthaina general contact; commercial claims self-reported"
