@@ -5,7 +5,7 @@ description: >-
   and teenagers, combining allowances, chores, savings goals and a prepaid-card
   concept. Its current operating status remains unconfirmed as of November 2026.
 verification_status: "partial"
-last_verified: "2026-11-16"
+last_verified: "2026-11-18"
 industry: "Family Fintech / Financial Education"
 website: "https://7asaleh.com"
 careers_url: null
@@ -113,3 +113,6 @@ notes: >-
   - type: "company_listing"
     url: "https://www.startupsjo.com/en/Pages/CustomPages/Startup/584"
     label: "Rechecked 2026-11-16 — directory lists Jordan, founder, general contact and fintech/EdTech classification; not evidence of current operations or recruitment"
+  - type: "other"
+    url: "https://itiq.ps/wp-content/uploads/2023/05/Impact-Report-Jordan-and-Palestine-Fintech-for-a-Future.pdf"
+    label: "Fintech for a Future impact report — 7asaleh founder and youth-finance product, historical evidence rechecked 2026-11-18"
