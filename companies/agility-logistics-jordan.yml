@@ -8,7 +8,7 @@ description: >-
   development near Amman's airport; this does not establish continuity of the
   historical Shmeisani employer or that the park is fully operational.
 verification_status: partial
-last_verified: '2026-11-15'
+last_verified: '2026-11-18'
 industry: Logistics / freight forwarding / warehousing (historical Jordan listing)
 website: https://agility.com/
 careers_url: https://agility.com/careers/
@@ -81,7 +81,7 @@ notes: >-
   current Agility-branded Shmeisani freight office. The historic address,
   precise coordinates, local size, HR contact, tech stack and active Jordan
   hiring remain unverified. Retain partial company status.
-evidence:
+  Rechecked 2026-11-18: Agility's official GIL/DSV history confirms the 2021\n  divestment, and the live ALP Jordan page still describes its Qastal-area\n  100,000+ sqm project as under development. ALP's current corporate footprint\n  lists other countries but not Jordan as an operating location. These sources\n  do not demonstrate a surviving Shmeisani freight office, a completed Jordan\n  logistics park, or an open Jordan vacancy. No reliable new local headcount,\n  recruiting mailbox, office coordinates or technology stack was established.\n  Keep the historical address unverified and company status partial.\nevidence:
 - type: official_website
   url: https://agility.com/
   label: Current Agility group website; not proof of a Jordan freight office
@@ -144,3 +144,10 @@ evidence:
 - type: official_website
   url: https://agility.com/about-us/our-history/dsv/
   label: 'Official Agility GIL history rechecked 2026-11-15: freight-forwarding business sold to DSV in 2021'
+
+- type: official_website
+  url: https://agilitylogisticsparks.com/logistics-parks-in-middle-east/jordan/
+  label: 'Rechecked 2026-11-18: official Jordan Qastal project still described as under development, not operational confirmation'
+- type: official_website
+  url: https://agilitylogisticsparks.com/about-agility-logistics-parks/
+  label: 'Rechecked 2026-11-18: listed operating footprint excludes Jordan; not proof of project cancellation'
