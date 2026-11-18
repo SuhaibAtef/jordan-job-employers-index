@@ -1,7 +1,7 @@
 name: "Al Hodhud"
 description: "Al Hodhud is an Amman-based Jordanian educational-content and edtech company founded in 2011 by siblings Shaima and Mohammed Al-Bishtawi. It develops Arabic-language early-childhood curricula, interactive classroom and tablet learning materials, home-learning programs and children's educational apps, including the Salma reading program and My Cheerful Letters. Its Android app was updated in May 2025; a partner publicly announced an Arabic-learning mobile-app memorandum of understanding in late 2025."
 verification_status: "partial"
-last_verified: "2026-11-16"
+last_verified: "2026-11-18"
 industry: "Educational Technology / Arabic Children's Digital Content"
 website: "https://alhodhud.com/"
 careers_url: null
@@ -85,6 +85,16 @@ notes: >-
   These are published product descriptions, not independent proof of active
   customers, current hiring, office occupancy or a specific software stack.
   No verified HR email, current vacancy or precise office coordinates found.
+  Rechecked 2026-11-18: The official homepage remains publicly accessible and
+  identifies Mohammed and Shaima Al-Bishtawi as founders. The official Al
+  Hodhud at Home product page advertises a self-learning Arabic program for
+  children, with one- and two-child variants; the official team page documents
+  the 2011 founding and historical education, design and software disciplines.
+  These published pages do not independently confirm fulfilled subscriptions,
+  a current vacancy, recruiting mailbox, audited headcount, physical office
+  occupancy or internal production technology stack. Existing developer
+  contact address remains unverified as an operating office; no precise
+  coordinates were established. Partial company verification retained.
 evidence:
   - type: "official_website"
     url: "https://alhodhud.com/"
@@ -128,3 +138,6 @@ evidence:
   - type: "official_website"
     url: "https://alhodhud.com/alhodhudforindividuals/"
     label: "Official home-learning product page rechecked 2026-11-16: parent reports, subscriptions and device access; not evidence of recruitment"
+  - type: "official_website"
+    url: "https://alhodhud.com/product/alhodhud-at-home/"
+    label: "Rechecked 2026-11-18 — official home-learning product listing, age range and one/two-child variants; not hiring evidence"
