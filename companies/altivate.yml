@@ -1,7 +1,7 @@
 name: "Altivate"
 description: "Altivate is a regional digital-transformation and enterprise-technology consultancy specializing in SAP, cloud, analytics, business intelligence and AI. Its Amman office supports delivery across SAP ERP, AWS, Azure, Google Cloud, Power BI and related enterprise platforms."
 verification_status: "partial"
-last_verified: "2026-11-14"
+last_verified: "2026-11-18"
 industry: "IT consulting / Digital transformation"
 website: "https://www.altivate.com"
 careers_url: "https://www.altivate.com/careers/"
@@ -33,7 +33,7 @@ technologies:
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "2026-11-14: Official about and contact pages still list Jordan Insurance Building C, floor 6, 3rd Circle, Amman, phone +962 6 463 9596; postal box 20717, Amman 11118. June 25, 2026 official announcement confirms Claude Partner Network membership and active regional AI consulting; does not establish an internal stack or Jordan-specific hiring. Official careers page invites applications and speculative resumes, but no currently accepting Jordan vacancy was confirmed. Published 150+ consultants is a global company claim, not a verified Jordan headcount. Precise coordinates and a dedicated Jordan HR mailbox remain unverified. Status partial. Previous review: 2026-11-12: Official Altivate about/contact pages confirm the Amman office at 3rd Circle, Jordan Insurance Building C, floor 6, and company services in SAP, cloud, analytics and AI. Official careers page invites applications but no currently open Jordan-specific position was confirmed. Company reports 150+ consultants globally, not a verified 201-500 employee headcount; size cleared pending corroboration. Previous AI Projects Lead listing is historical, not evidence of a currently open role. Previously stored point coordinates lacked independently verified building-level precision and were cleared. Technology list reflects offered client services/partnerships, not independently established internal production stack. Company verification remains partial pending workforce, hiring and precise geolocation checks."
+notes: "2026-11-18 recheck: Official careers and contact pages still publish the Amman Jordan Insurance Building C, sixth-floor address and +962 6 463 9596 telephone, and direct candidates to the careers page or a resume submission channel; the publicly indexed email is obscured and is not recorded as a verified HR address. Bayt lists an AI Projects Lead role dated 2026-08-14 and an AI Agent Engineer & Team Lead role first seen 2026-05-06, last seen 2026-09-07 on a third-party aggregator. These support historical Jordan-facing AI hiring activity, not an independently confirmed accepting vacancy on 2026-11-18. AI/LLM and Python tools in job requirements are role requirements rather than confirmed internal deployed stack. No audited Jordan headcount, precise coordinates, dedicated verified HR mailbox or current vacancy confirmed; company status remains partial. 2026-11-14: Official about and contact pages still list Jordan Insurance Building C, floor 6, 3rd Circle, Amman, phone +962 6 463 9596; postal box 20717, Amman 11118. June 25, 2026 official announcement confirms Claude Partner Network membership and active regional AI consulting; does not establish an internal stack or Jordan-specific hiring. Official careers page invites applications and speculative resumes, but no currently accepting Jordan vacancy was confirmed. Published 150+ consultants is a global company claim, not a verified Jordan headcount. Precise coordinates and a dedicated Jordan HR mailbox remain unverified. Status partial. Previous review: 2026-11-12: Official Altivate about/contact pages confirm the Amman office at 3rd Circle, Jordan Insurance Building C, floor 6, and company services in SAP, cloud, analytics and AI. Official careers page invites applications but no currently open Jordan-specific position was confirmed. Company reports 150+ consultants globally, not a verified 201-500 employee headcount; size cleared pending corroboration. Previous AI Projects Lead listing is historical, not evidence of a currently open role. Previously stored point coordinates lacked independently verified building-level precision and were cleared. Technology list reflects offered client services/partnerships, not independently established internal production stack. Company verification remains partial pending workforce, hiring and precise geolocation checks."
 evidence:
   - type: "official_website"
     url: "https://www.altivate.com"
@@ -59,3 +59,6 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=Jordan+Insurance+Building+C+3rd+Circle+Amman"
     label: "Address search only; coordinates not verified"
+  - type: "job_post"
+    url: "https://www.bayt.com/en/jordan/jobs/ai-projects-lead-74436313/"
+    label: "AI Projects Lead Amman listing dated 2026-08-14; historical hiring signal, checked 2026-11-18"
