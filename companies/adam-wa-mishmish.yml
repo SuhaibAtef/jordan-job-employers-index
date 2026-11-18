@@ -6,7 +6,7 @@ description: >-
   children. Its 2026 activities include Amman classes, a U.S. live tour and
   an Arabic-letter learning game developed with eduTechnoz.
 verification_status: "partial"
-last_verified: "2026-11-16"
+last_verified: "2026-11-18"
 industry: "Children's Edutainment / Arabic-Language Education and Media"
 website: "https://www.adamwamishmish.com"
 careers_url: "https://www.adamwamishmish.com/work-with-us"
@@ -29,6 +29,7 @@ job_seeker:
   signals:
     - "The official Work With Us page accepts join-the-team inquiries via a contact form; no specific open position or entry-level recruitment was listed on 2026-10-28."
 notes: >-
+  Rechecked 2026-11-18: The official Work With Us page still offers a Join the team inquiry form but explicitly says job opportunities will be uploaded there; no named current vacancy or dedicated HR mailbox is listed. The official classes page advertises in-person Circle Time at Moonbirds (6th Circle) and Tiny Tots (Swefieh Village), both partner teaching venues rather than a confirmed company office. Its November 15 online cohort is displayed with a not-open-for-booking message, so it is not evidence of currently available enrollment. The About page describes 2026 activities and five named leaders, but company-reported audience figures do not establish headcount. The official general contact form does not identify a recruiting mailbox. Existing street address remains provided_unverified; precise coordinates, staffing and internal technology stack remain unconfirmed. Partial verification retained.
   Rechecked 2026-11-16: The official Work With Us page continues to invite Join the team inquiries through a contact form and says vacancies will be uploaded there, but lists no named open position or HR email. The official classes calendar lists Circle Time sessions at Moonbirds (6th Circle) and Tiny Tots (Swefieh Village), plus an online cohort starting November 15; these are service venues and a scheduled class, not proof of a staffed office or current hiring. The official About page confirms five named leaders and 2026 business activity, not audited headcount. Registered office address, precise coordinates, dedicated recruiting contact and internal software stack remain unconfirmed. Partial status retained.
   Reviewed 2026-11-13: The official Work With Us page still invites general
   join-the-team messages but provides no named vacancy or dedicated HR email.
@@ -140,3 +141,9 @@ evidence:
   - type: "official_website"
     url: "https://www.adamwamishmish.com/about"
     label: "Rechecked 2026-11-16: current leadership and activity; audience figures are not employee headcount"
+  - type: "official_website"
+    url: "https://www.adamwamishmish.com/work-with-us"
+    label: "Rechecked 2026-11-18 — general join-team inquiry form, no named current vacancy or HR email"
+  - type: "official_website"
+    url: "https://www.adamwamishmish.com/classes/dates"
+    label: "Rechecked 2026-11-18 — Amman partner class venues; November 15 online cohort marked not open for booking"
