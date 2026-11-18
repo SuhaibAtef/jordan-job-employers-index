@@ -8,7 +8,7 @@ description: >-
   general applications; the linked application forms were reachable on
   2026-10-28, although posting dates and deadlines were not displayed.
 verification_status: "partial"
-last_verified: "2026-11-16"
+last_verified: "2026-11-18"
 industry: "Microfinance / Financial Services"
 website: "https://amc.com.jo"
 careers_url: "https://amc.com.jo/en/career"
@@ -72,6 +72,7 @@ notes: >-
   This is not a dedicated HR address; no current internal technology stack,
   graduate programme or dated vacancy was independently established.
   Rechecked 2026-11-13: The official English and Arabic careers directories still display Branch Manager, Loan Officer and general applications, without publication dates or deadlines. The official branch directory lists 23 branches plus a head office. The official contact page confirms King Abdullah II Street, Al Jandaweel, Building 449, Amman, phone +962 79 7 530530 and general email amc@amc.com.jo, not an HR-specific inbox. The official management page names Jumana Faraj as Human Resources Manager. The undated 294-employee figure on the official About page is not a current audited headcount. No active dated vacancy, dedicated HR mailbox, graduate programme or internal technology stack was established. Partial verification remains appropriate.
+  Rechecked 2026-11-18: The official English vacancies page, crawled 2026-11-17, still displays Branch Manager, Loan Officer and General Job Application without visible publication dates or deadlines. The official branches directory, crawled 2026-11-18, states 23 branches plus head office. The company homepage continues to publish Building 449, King Abdullah II Street, Al Jandaweel, Amman, and general email amc@amc.com.jo; the management page identifies Jumana Faraj as HR Manager. The official About page reports 294 employees without an as-of date, so it is not a verified current headcount. No dedicated HR mailbox, dated accepting vacancy, graduate programme or internal engineering stack was established; partial status remains appropriate.
 evidence:
   - type: "careers"
     url: "https://amc.com.jo/en/career"
@@ -160,3 +161,9 @@ evidence:
   - type: "official_website"
     url: "https://www.amc.com.jo/en/our-team"
     label: "Official management page reviewed 2026-11-13; named HR manager"
+  - type: "careers"
+    url: "https://amc.com.jo/en/career"
+    label: "Official vacancies page crawled 2026-11-17; Branch Manager, Loan Officer and general application, without posting dates"
+  - type: "official_website"
+    url: "https://amc.com.jo/en/branches"
+    label: "Official branch directory crawled 2026-11-18; 23 branches plus head office"
