@@ -50,7 +50,7 @@ notes: 'Previous GPS audit 2026-10-04: a Lyon Jo Car Rental Google Maps listing 
   (BLoC/Cubit) and digital marketing, with 0-2 or 1-2 years of experience, in Amman 7th Circle. Historical Laravel/Vue.js
   and Flutter job listings are closed; current acceptance of applications was not independently established on 2026-10-19.
   Technologies are evidenced job requirements, not a production-stack audit. The company has no independently confirmed standalone
-  careers page. A newer Lyon iSystem technology initiative is noted on LinkedIn but does not verify the group production stack.'
+  careers page. A newer Lyon iSystem technology initiative is noted on LinkedIn but does not verify the group production stack. Rechecked 2026-11-17: The company LinkedIn profile publishes a recent Social Media Manager recruitment post accepting CVs at rafat@lyon-jo.com, open to Jordanian and Egyptian candidates; submission and ongoing vacancy availability were not tested. It also announces the LYON iSystem software initiative, which supports a public technology expansion claim but does not establish the internal production stack. The official booking contact page lists 7th Circle and airport locations, while the main site separately lists Bayader and Airport Road; precise current occupancy and reconciliation of all addresses remain unverified. LinkedIn reports 2-10 employees, not an audited count. Partial status retained.'
 evidence:
 - type: official_website
   url: https://www.lyon-jo.com
@@ -95,4 +95,10 @@ evidence:
   url: https://wowjordan.com/en/listing/lyon-jo-car-rental/
   label: Independent car-rental listing, Amman 7th Circle
 verification_status: partial
-last_verified: '2026-10-19'
+last_verified: '2026-11-17'
+- type: linkedin_company
+  url: https://jo.linkedin.com/company/lyongroups
+  label: '2026-11-17 review: recent Social Media Manager recruitment and LYON iSystem announcement; company-reported 2-10 employees'
+- type: official_website
+  url: https://booking-front.lyon-jo.com/view/contact.php
+  label: '2026-11-17 review: official booking contact lists 7th Circle and airport locations; not independent occupancy verification'
