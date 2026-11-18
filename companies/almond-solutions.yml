@@ -1,7 +1,7 @@
 name: "Almond Solutions"
 description: "Almond Solutions is an Amman digital-transformation, web and digital-marketing consultancy. It combines website and marketing services with Zoho-based CRM, workplace, automation and business-operations implementations."
 verification_status: "partial"
-last_verified: "2026-11-13"
+last_verified: "2026-11-18"
 industry: "IT Services / Digital Transformation / Marketing"
 website: "https://www.almondsolutions.com"
 careers_url: null
@@ -54,6 +54,18 @@ notes: >-
   dedicated recruiting channel, audited workforce or internal engineering stack
   was established. The Zoho products are client-facing implementation offerings.
   The 2-10 size band remains a LinkedIn estimate from the earlier review.
+  Rechecked 2026-11-18: The official About page still identifies a 2005-founded
+  digital-transformation and Zoho implementation consultancy and publishes
+  Queen Rania Street, Amman and sales telephone +962 79 9634782. The company
+  LinkedIn page, crawled within two days, lists 2-10 employees and the same
+  street-level location, and shows recent posts about digital growth and a
+  Zoho partner visit; these are company-reported activity, not job openings.
+  The official Zoho consulting page lists Zoho Recruit and other products as
+  customer implementation offerings, not proof of an internal recruitment
+  system or engineering stack. No current Almond Solutions vacancy or dedicated
+  HR mailbox was confirmed. Search results for Almond Coffee House Group are
+  a separate employer and were excluded. Keep partial company verification,
+  null precise coordinates, and no inferred hiring signal.
 evidence:
   - type: "official_website"
     url: "https://www.almondsolutions.com"
@@ -82,3 +94,6 @@ evidence:
   - type: "official_website"
     url: "https://www.almondsolutions.com/privacy"
     label: "Official privacy policy checked 2026-11-13 — general info@almondsolutions.com contact, not HR"
+  - type: "linkedin_company"
+    url: "https://fr.linkedin.com/company/almond-solutions"
+    label: "Rechecked 2026-11-18 — company-reported 2-10 staff, Queen Rania Street and recent Zoho-related updates; not hiring evidence"
