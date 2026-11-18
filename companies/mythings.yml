@@ -39,6 +39,7 @@ job_seeker:
     - "Company-authored 2026 recruitment post for senior .NET backend developers and a senior React Native mobile developer in Amman requests 7+ years of experience; applications directed to mohammad.hamad@mythings.app. Current acceptance not independently tested."
     - "Company-authored 2026 post advertises a software QA team lead in Amman, also requesting 7+ years of experience and directing CVs to mohammad.hamad@mythings.app; current acceptance not tested."
     - "Company LinkedIn displayed Amman contact-center, sales-representative and account-manager recruitment posts in October 2026; application links were not submission-tested."
+    - "Company LinkedIn also advertises a senior UX/UI designer role involving bilingual mobile/web product design, with CVs directed to mohammad.hamad@mythings.app; application acceptance was not tested on 2026-11-18."
 notes: >-
   Reviewed 2026-10-25. Official site and company LinkedIn establish a Jordanian
   last-mile logistics and Q-commerce business founded in Amman in 2021.
@@ -61,8 +62,19 @@ notes: >-
   engineering and QA posts are evidence of 2026 recruitment, not a guarantee
   that applications remain open on the review date. Historical Jordan Post
   partnership and founder assertions were not independently revalidated.
+  Reviewed again 2026-11-18. The official site still advertises delivery across
+  food, groceries, pharmacy, electronics and other retail categories, but its
+  footer address includes placeholder-like text and does not confirm an office.
+  The company LinkedIn profile continues to report 201-500 employees and the
+  Al Mawaddah Street address, neither independently audited. A company-authored
+  senior UX/UI designer recruitment announcement is visible in the Jordan
+  LinkedIn company feed and directs CVs to mohammad.hamad@mythings.app;
+  the live application process was not tested. An older company-authored
+  content-moderator advert used Hr@mythings.app, but that historical address
+  is not confirmed as a currently monitored general HR mailbox. Engineering
+  technology claims and exact office location remain unverified.
 verification_status: "partial"
-last_verified: "2026-10-25"
+last_verified: "2026-11-18"
 evidence:
   - type: "official_website"
     url: "https://mythings.app/"
@@ -88,6 +100,12 @@ evidence:
   - type: "job_post"
     url: "https://www.linkedin.com/posts/mythings-%D8%A3%D8%B4%D9%8A%D8%A7%D8%A6%D9%8A_we-are-hiring-a-huge-number-of-pickers-activity-7472943548447838208-Q_G6"
     label: "Company-authored 2026 Amman fulfillment recruitment, not internship"
+  - type: "linkedin_company"
+    url: "https://jo.linkedin.com/company/mythings-%D8%A3%D8%B4%D9%8A%D8%A7%D8%A6%D9%8A"
+    label: "2026-11-18 review: company feed advertises senior UX/UI designer and CV contact; submission not tested"
+  - type: "job_post"
+    url: "https://www.linkedin.com/posts/mythings-%D8%A3%D8%B4%D9%8A%D8%A7%D8%A6%D9%8A_we-are-mythings-company-seeking-a-diligent-activity-7266773446850703361-DtnN"
+    label: "Historical content-moderator advert mentions Hr@mythings.app; current mailbox status unknown"
   - type: "official_website"
     url: "https://mythings.app/ourapp/"
     label: "Official app overview, categories and driver-recruitment invitation"
