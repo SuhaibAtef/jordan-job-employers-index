@@ -6,7 +6,7 @@ description: >-
   activity in Jordan, Lebanon, Egypt and Kuwait. Its current operational status
   could not be independently established in October 2026.
 verification_status: "partial"
-last_verified: "2026-11-13"
+last_verified: "2026-11-19"
 industry: "Fitness Technology / Sports and Wellness Memberships"
 website: "https://www.allympiapass.com"
 careers_url: null
@@ -73,6 +73,15 @@ notes: >-
   No employer-confirmed 2026 vacancy, dedicated HR contact, or current
   engineering stack was found. Historical business identity is supported,
   but operational and hiring status remain unverified.
+  Rechecked 2026-11-19: Public LinkedIn company profile still describes the
+  Amman-headquartered fitness membership model founded in 2017 and lists a
+  self-reported 51-200 employee band, but offers no dated evidence of active
+  operations or current recruitment. Dealroom continues to estimate 2-10
+  employees, so current workforce size remains unresolved. Third-party
+  directory listings still show 164 Mecca Street, but disagree on business
+  hours and provide only map pins, not verified current occupancy or precise
+  company office coordinates. No current employer-authored vacancy, HR email,
+  active careers page, or production stack was confirmed. Partial status retained.
 evidence:
   - type: "official_website"
     url: "https://www.allympiapass.com"
@@ -103,3 +112,6 @@ evidence:
     label: "Company database profile: historical 2017 founding, Amman and seed funding; not evidence of current operations (checked 2026-11-04)"  - type: "other"
     url: "https://jo.near-place.com/gym-nearby-allympia-pass-mecca-street-164-amman"
     label: "Directory pin and telephone at 164 Mecca Street, reviewed 2026-11-13; current occupancy and coordinates not verified"
+  - type: "other"
+    url: "https://yalqa.com/p/allympiapass-5fd1dade"
+    label: "Public directory listing for 164 Mecca Street, rechecked 2026-11-19; explicitly warns that details may change and does not confirm occupancy"
