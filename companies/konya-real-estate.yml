@@ -20,7 +20,7 @@ technologies: []
 job_seeker:
   early_career_signal: false
   signals: []
-notes: "Reviewed 2026-10-18. Official website and company LinkedIn confirm Amman/Abdoun headquarters, real-estate brokerage, property management and online listings. Official contact page, LinkedIn and independent Jordan directory agree on Irbid Street, Villa 12 in Abdoun, Amman; 'Irbid Street' is a street in Amman, not a company location in Irbid. Office address corroborated, but no reliable exact latitude/longitude was established, so the former coordinates were removed. LinkedIn reports 51-200 employees; this is a self-reported range, not an audited headcount. Official contact email info@konyare.com is general, not a verified HR recruitment address. Current site lists properties updated in 2026. No dedicated careers page or currently open vacancy confirmed. Older LinkedIn job pages (training and creative designer) are closed and display a Taj Real Estate Jordan attribution, so no current early-career hiring signal is asserted. Previous WordPress technology tag could not be independently substantiated as an internal stack and was removed."
+notes: "Reviewed 2026-10-18. Official website and company LinkedIn confirm Amman/Abdoun headquarters, real-estate brokerage, property management and online listings. Official contact page, LinkedIn and independent Jordan directory agree on Irbid Street, Villa 12 in Abdoun, Amman; 'Irbid Street' is a street in Amman, not a company location in Irbid. Office address corroborated, but no reliable exact latitude/longitude was established, so the former coordinates were removed. LinkedIn reports 51-200 employees; this is a self-reported range, not an audited headcount. Official contact email info@konyare.com is general, not a verified HR recruitment address. Current site lists properties updated in 2026. No dedicated careers page or currently open vacancy confirmed. Older LinkedIn job pages (training and creative designer) are closed and display a Taj Real Estate Jordan attribution, so no current early-career hiring signal is asserted. Previous WordPress technology tag could not be independently substantiated as an internal stack and was removed. Rechecked 2026-11-19: Official homepage continues to display residential and commercial listings and announces an exclusive Barratt London property-marketing partnership for Jordan and Iraq; the partnership is a company claim, not independently verified contractual exclusivity. Official contact page continues to publish Villa 12, Irbid Street, Abdoun, Amman, telephone +962 6 5939000 and general mailbox info@konyare.com; an independent Jordan business directory corroborates the address. A property listing records an update on 2026-01-17, supporting 2026 site activity but not proving a currently available property or vacancy. No current careers posting, dedicated HR address, audited employee count, reliable office coordinates or internal technology stack was confirmed. Partial company status retained."
 evidence:
   - type: "official_website"
     url: "https://konyare.com/"
@@ -40,5 +40,8 @@ evidence:
   - type: "other"
     url: "https://jo.linkedin.com/jobs/view/real-estate-agent-training-at-konya-real-estate-3816645169"
     label: "Historical closed training job post, not evidence of a current vacancy"
+  - type: "official_website"
+    url: "https://konyare.com/properties/fully-modern-furnished-apartment-for-sale-or-rent-in-4th-circle/"
+    label: "Official property listing showing January 17, 2026 update date; not evidence of hiring"
 verification_status: "partial"
-last_verified: "2026-10-18"
+last_verified: "2026-11-19"
