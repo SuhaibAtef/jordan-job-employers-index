@@ -36,6 +36,19 @@ job_seeker:
     - "Employer-branded 2025 Amman senior full-stack engineering advertisement documents technology requirements and team structure; not an entry-level vacancy."
     - "No currently accepting Jordan-specific internship or formal graduate program was confirmed on 2026-10-26."
 notes: >-
+  Rechecked 2026-11-19: Official English and Arabic company about pages still describe
+  an Amman office, 20 country marketplaces, seven office cities and more than
+  350 team members (company-reported, not audited). The official careers section
+  invites general applications, while the company LinkedIn profile explicitly
+  publishes careers@opensooq.com as an employment contact and reports 201-500
+  employees worldwide. LinkedIn still lists Al Hijaz Tower, 158 Makkah Street,
+  Amman, but present tenancy, entrance and precise coordinates were not
+  independently established. A company LinkedIn new-joiners announcement
+  supports recent hiring activity, but no specific currently accepting Jordan
+  vacancy or internship was confirmed. Marketplace jobs are not company jobs.
+  Earlier AMD infrastructure evidence and historical engineering job requirements
+  remain distinguished from a current comprehensive production stack. Partial
+  verification retained.
   Reviewed 2026-10-26. Official country website and company LinkedIn profile
   corroborate the mobile-first classifieds business and Amman headquarters.
   LinkedIn reports 201-500 employees globally, not audited Jordan headcount;
@@ -60,7 +73,7 @@ notes: >-
   or current Jordan-specific job was verified in this review. The 2021
   fundraising/expansion plan is not evidence of present headcount or hiring.
 verification_status: "partial"
-last_verified: "2026-10-26"
+last_verified: "2026-11-19"
 evidence:
   - type: "official_website"
     url: "https://jo.opensooq.com/en/site/about-us"
@@ -86,3 +99,9 @@ evidence:
   - type: "other"
     url: "https://jo.near-place.com/al-hejaz-towers-est-for-investments-al-hijaz-towers-complex-mecca-al-mukarramah-st-158-amman/de"
     label: "Independent directory corroborates building name and street number, not OpenSooq tenancy or exact coordinates"
+  - type: "official_website"
+    url: "https://jo.opensooq.com/ar/site/about-us"
+    label: "Official Arabic about and careers page rechecked 2026-11-19 — regional business, Amman office and general applications, not specific vacancy"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/opensooq"
+    label: "Company profile rechecked 2026-11-19 — Amman address, 201-500 global employee range, careers@opensooq.com and recent new-joiners activity; no confirmed open position"
