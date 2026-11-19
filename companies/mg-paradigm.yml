@@ -52,7 +52,7 @@ notes: >-
   desirable rather than required; these are recruitment signals, not
   verified production deployments. No current internship, graduate
   program, or dedicated careers page was independently confirmed.
-  Previously recorded internship signal was unsupported and removed.
+  Rechecked 2026-11-19: the official homepage and contact page continue to\n  publish the Sweifieh office address, +962 770500507 and general support\n  mailbox support@mgparadigm.com. LinkedIn still lists the conflicting\n  Al Tamimi Complex address, Dubai as primary headquarters and 11-50\n  company-wide employees. A company-authored LinkedIn post advertises\n  an Amman full-time Software Testing and Quality Assurance Specialist\n  vacancy (2+ years) and directs applications to halahla@mgparadigm.com;\n  application acceptance was not tested and the mailbox is vacancy-specific.\n  SQL, Postman, Jira/Azure DevOps and Selenium/Playwright are advertised\n  candidate skills or preferences, not audited internal deployments.\n  Current office occupancy, precise coordinates and Jordan-only headcount\n  remain unresolved, so company verification remains partial.\n  Previously recorded internship signal was unsupported and removed.
   The former devops category lacked company-specific support and was
   removed; security is retained for the GRC/regulatory-risk product domain.
 evidence:
@@ -71,5 +71,5 @@ evidence:
   - type: "other"
     url: "https://jordanict.com/2023/company-listings/mg-paradigm"
     label: "Jordan ICT directory: historical Amman company listing"
-verification_status: "partial"
-last_verified: "2026-10-25"
+  - type: "official_website"\n    url: "https://www.mgparadigm.com/Home/Contact"\n    label: "Rechecked 2026-11-19: Sweifieh published address, general support mailbox and telephone"\n  - type: "linkedin_company"\n    url: "https://www.linkedin.com/company/mg-paradigm/"\n    label: "Rechecked 2026-11-19: 11-50 global size, conflicting Amman address and company-authored QA recruitment with application email"\nverification_status: "partial"
+last_verified: "2026-11-19"
