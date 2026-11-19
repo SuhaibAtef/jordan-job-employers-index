@@ -1,5 +1,5 @@
 name: Arab Bank
-last_verified: '2026-11-16'
+last_verified: '2026-11-19'
 industry: Banking / Financial Services
 description: Arab Bank is a Jordan-headquartered banking group providing retail, corporate, institutional and
   digital financial services across multiple markets. Its technology organization supports digital banking,
@@ -77,6 +77,8 @@ notes: Reviewed 2026-10-16. Arab Bank PLC is an operating Amman-headquartered ba
 
   Rechecked 2026-11-16: The official Arab Bank vacancy search displayed two Jordan roles: Arab Bank Ambassadors Program (requisition 26000048, posted July 6, 2026) and SME RM (CB) (requisition 2500005N, posted June 29, 2026). Application availability is dynamic. The Amman Stock Exchange company guide reports 3,645 employees in Jordan; this is a local count, not the global LinkedIn size band, and its reporting period is not established here. The official branch directory lists the Head Office ATM at Shaker Bin Zaid Street Building 8, supporting the recorded street address but not precision-validation of stored coordinates. The bank's general mailbox info@arabbank.com.jo is not an HR contact. Internal production stack and dedicated HR email remain unverified; company status stays partial.
 
+  Rechecked 2026-11-19: The official Arab Bank Jordan homepage (crawled 2026-11-19) continues to publish the Corporate Digital Gateway and Digital Corporate Onboarding Portal among its corporate offerings. The official Digital Collection Management service page describes corporate receivables reconciliation, intermediary IBANs, CliQ and transfer collection, with Corporate.BusinessCenter@arabbank.com as a customer-service contact, not an HR mailbox. These establish current advertised customer-facing banking services, not a verified internal technology stack or new hiring. Previously observed Taleo listings were not independently reconfirmed as accepting applications today. Exact head-office pin coordinates, dedicated HR contact and current internal production stack remain unverified. Company verification remains partial.
+
 evidence:
 - type: official_website
   url: https://www.arabbank.jo
@@ -151,4 +153,7 @@ evidence:
 - type: regulatory
   url: https://www.ammanstockexchange.jo/en/company_guide/information/227
   label: Amman Stock Exchange Arab Bank listing and Jordan employee total, checked 2026-11-16
+- type: official_website
+  url: https://www.arabbank.jo/mainmenu/home/corporate-institutional-banking/the-digital-collection-management-service
+  label: Official Arab Bank digital collection management product and corporate support contact, reviewed 2026-11-19; not an HR mailbox
 verification_status: partial
