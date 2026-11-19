@@ -1,7 +1,7 @@
 name: "Aramex"
 description: "Aramex is a global transportation and logistics company providing international and domestic express delivery, freight forwarding, warehousing and supply-chain services. Although now headquartered in Dubai, it was founded in Amman and maintains a significant Jordan technology and operations footprint."
 verification_status: "partial"
-last_verified: "2026-11-17"
+last_verified: "2026-11-19"
 industry: "Transportation & Logistics"
 website: "https://www.aramex.com/jo/en"
 careers_url: "https://careers.aramex.com/"
@@ -32,9 +32,11 @@ job_seeker:
   signals:
     - "Fresh graduate"
     - "Junior"
+    - "Official Amman Area Sales Executive posting dated 2026-11-04 (2-3 years experience; application acceptance not tested)"
 notes: >-
   Reviewed 2026-11-11: Aramex's official Jordan office directory explicitly lists the Tla' Al-Ali branch at Khalil Al Salem Street, Building 18, Amman, matching the stored street address. This verifies the branch address, not the stored coordinates or that it is the company's principal technology office. The same directory separately lists a Global Support Office at King Hussein Business Park and a Jordan regional office at Al Muqablain, so the Tla' Al-Ali branch must not be represented as the sole or head office. AMMcare@aramex.com is published as customer service contact, not a recruitment mailbox. The official careers portal has an Amman Contact Center Executive posting dated 2026-10-25 and a Global Process Owner - Purchase to Pay role posted 2026-11-02 that may be based in Amman, Cairo or Dubai; acceptance remains subject to the application portal. Historical junior developer signals and .NET/SQL technologies are based on prior advertisements, not an independently verified current production stack. Global size band is not Jordan headcount. Precise coordinates, HR email and current engineering hiring are unverified; company-level status is partial.
   Rechecked 2026-11-17: The official Aramex Jordan office directory continues to identify the Tla\u0027 Al-Ali customer branch at Khalil Al Salem Street Building 18, while separately identifying the Global Support Office at King Hussein Business Park and Jordan regional operations at Al Muqablain. The company\u0027s binding corporate rules independently identify the Global Support Office legal entity at King Hussein Business Park, Building 21. The official careers portal published an Amman Channel Manager role with posting date 2026-11-04; application acceptance may change. A Regional People Operations Partner I listing posted 2026-11-05 does not by itself establish an Amman location. No dedicated recruiting email, independently precision-validated branch coordinates, current engineering opening, or deployed internal technology stack was established. The 10,000+ workforce band is global, not Jordan-specific. Company verification remains partial.
+  Rechecked 2026-11-19: The official Jordan office directory still identifies the Tla Al-Ali branch at Khalil Al Salem Street Building 18, plus separate Global Support Office at King Hussein Business Park and Jordan regional office in Muqablain. This verifies a published customer branch address, not exact stored coordinates or the main engineering office. The employer-controlled careers site still publishes an Amman Area Sales Executive listing posted November 4, 2026, requiring 2-3 years experience; the November 4 Amman Channel Manager posting also remains accessible. These are recruitment listings, but actual application submission was not tested and neither establishes current software engineering recruitment. The customer mailbox AMMcare@aramex.com is not HR. No dedicated recruitment email, audited Jordan workforce, precise coordinates or current production stack was independently confirmed. Company verification remains partial.
 evidence:
   - type: "official_website"
     url: "http://www.aramex.com/"
@@ -84,3 +86,6 @@ evidence:
   - type: "job_post"
     url: "https://careers.aramex.com/job/Amman-Channel-Manager/8764-en_US/"
     label: "Official Amman Channel Manager job listing posted 2026-11-04; checked 2026-11-17"
+  - type: "job_post"
+    url: "https://careers.aramex.com/job/Amman-Area-Sales-Executive/8690-en_US/"
+    label: "Official Amman Area Sales Executive listing posted 2026-11-04; rechecked 2026-11-19, application submission untested"
