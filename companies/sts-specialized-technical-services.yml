@@ -1,14 +1,17 @@
 name: "STS - Specialized Technical Services"
+description: "STS is a Jordan-founded enterprise IT integrator within ZainTECH, providing cloud, cybersecurity, managed services and digital infrastructure solutions."
+verification_status: "partial"
+last_verified: "2026-11-20"
 industry: "IT services / systems integration"
 website: "https://stsarabia.com"
 careers_url: null
-linkedin: null
+linkedin: "https://www.linkedin.com/company/stsmiddleeast"
 hr_email: null
-size: "1001-2000"
+size: "201-500"
 location:
   area: "Amman"
   address: "Abdallah Ghosheh St. 1, Amman, Jordan"
-  status: "provided_unverified"
+  status: "verified"
   latitude: 31.960016
   longitude: 35.857105
   maps_url: "https://www.google.com/maps/search/?api=1&query=31.960016,35.857105"
@@ -20,6 +23,7 @@ categories:
   - "fintech"
   - "security"
 technologies:
+  - "Cisco"
   - "Firewalls"
   - "Microsoft 365"
   - "Payment Gateway"
@@ -28,7 +32,7 @@ job_seeker:
   early_career_signal: true
   signals:
     - "Trainee"
-notes: "Large regional systems integrator (acquired by ZainTech in Oct 2023) delivering cloud, networking, data center and payment solutions; no public fresh-grad program found. GPS upgraded to the office's verified Google business pin at Abdallah Ghosheh St. 1. stack verified 2026-10-06: system engineer trainee profile (Windows Server/Exchange/Microsoft 365) + STS Security Analyst job posting in Jordan (SIEM, firewalls, IPS)"
+notes: "Reviewed 2026-11-20: STS LinkedIn reports 201-500 employees (not Jordan-only). Parent and STS sources confirm building 1 on Abdallah Ghosheh Street; existing coordinates were not independently rechecked. ZainTECH announced unified operations in October 2026; standalone hiring identity and current vacancies remain uncertain. Earlier trainee and technology signals are historical. Large regional systems integrator (acquired by ZainTech in Oct 2023) delivering cloud, networking, data center and payment solutions; no public fresh-grad program found. GPS upgraded to the office's verified Google business pin at Abdallah Ghosheh St. 1. stack verified 2026-10-06: system engineer trainee profile (Windows Server/Exchange/Microsoft 365) + STS Security Analyst job posting in Jordan (SIEM, firewalls, IPS)"
 evidence:
   - type: "official_website"
     url: "https://stsarabia.com"
@@ -36,3 +40,18 @@ evidence:
   - type: "google_maps"
     url: "https://www.google.com/maps/search/?api=1&query=31.960016,35.857105"
     label: "Google Maps location"
+  - type: "linkedin_company"
+    url: "https://www.linkedin.com/company/stsmiddleeast"
+    label: "STS company profile and Amman headquarters"
+  - type: "official_website"
+    url: "https://zaintech.com/en/news/appreciated-partner/"
+    label: "Parent confirms Jordan subsidiary and services, October 2025"
+  - type: "official_website"
+    url: "https://zaintech.com/en/contact-us/"
+    label: "Current parent contact page confirms building 1"
+  - type: "official_website"
+    url: "https://info.stsarabia.com/ciscoamp"
+    label: "STS Cisco security offering and address"
+  - type: "official_website"
+    url: "https://zaintech.com/en/"
+    label: "October 2026 unified operations and Jordan location"
