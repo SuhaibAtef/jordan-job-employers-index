@@ -1,7 +1,7 @@
 name: "Apprikot"
 description: "Apprikot was established in 2015 as a Jordan-based mobile application and web development company and the technology development arm of Beecell International. Documented services included native iOS and Android applications, enterprise mobility, web development, and UX design. Current standalone operations and hiring activity were not independently confirmed in October 2026."
 verification_status: "partial"
-last_verified: "2026-11-13"
+last_verified: "2026-11-23"
 industry: "Software Development / Mobile Applications"
 website: null
 careers_url: null
@@ -59,6 +59,15 @@ notes: >-
   named Apricot and Aprikoti employers refer to different organizations and
   must not be attributed to Apprikot. No independent current Apprikot hiring,
   operating website, office address or personnel count was established.
+  Rechecked 2026-11-23: Beecell's public LinkedIn company description still
+  names Apprikot as a subsidiary, while its official website documents Beecell's
+  October 2026 Telemedia participation and careers channel without listing
+  Apprikot as an independently operating business. The Jordan ICT 2025
+  directory documents Beecell's activities and Amman contact, not a current
+  Apprikot team, job opening, HR contact or office. The 2016-2020 Jordan ICT
+  directories establish the historical affiliation only. No new evidence
+  substantiates Apprikot's present standalone operations, current staffing,
+  dedicated hiring, street address or coordinates. Retain partial status.
 evidence:
   - type: "industry_directory"
     url: "https://jordanict.com/2017/company-profile/apprikot"
@@ -90,3 +99,6 @@ evidence:
   - type: "official_website"
     url: "https://www.beecell.com/"
     label: "Rechecked 2026-11-13 — Beecell official homepage shows October 2026 activity but does not establish current standalone Apprikot operations or hiring"
+  - type: "industry_directory"
+    url: "https://jordanict.com/whos_who_Jordan_ICT_PDF_2025.pdf"
+    label: "2025 Jordan ICT directory: Beecell services and contact, not proof of Apprikot operations; reviewed 2026-11-23"
