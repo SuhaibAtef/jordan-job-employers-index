@@ -33,7 +33,7 @@ job_seeker:
   early_career_signal: false
   signals: []
 notes: >-
-  Reviewed 2026-10-19. Critical current-status conflict: co-founder Marwan Abu Sakha
+  Reviewed 2026-11-23. Rechecked the official Kitchefy POS/RMS and contact pages, which still advertise products and list Amman phone +96264296264, but neither proves that the Jordan office is staffed or that the historical venture remains an active employer. Critical current-status conflict: co-founder Marwan Abu Sakha
   publicly announced in 2025 that Kitchefy's venture had ended after multiple pivots;
   co-founder Abdullah Absi acknowledged the end of the journey in the same thread.
   The live website continues to advertise POS/RMS, Kitchefy Pay, online ordering and
@@ -60,7 +60,7 @@ evidence:
     label: "Still-published website advertising POS and restaurant-management products; current operations unconfirmed"
   - type: "official_website"
     url: "https://kitchefy.com/contact-us/index.html"
-    label: "Website-listed Amman Mecca Street office and regional support contacts; office activity unverified"
+    label: "Rechecked 2026-11-23: website-listed Amman Mecca Street office, support@kitchefy.com and +96264296264; office activity and HR contact unverified"
   - type: "official_website"
     url: "https://kitchefy.com/point-of-sale-restaurant-management-system/index.html"
     label: "Advertised cloud POS and restaurant-management product"
@@ -89,4 +89,4 @@ evidence:
     url: "https://theorg.com/org/kitchefy"
     label: "Historical unverified employee/organization profile, not current operations"
 verification_status: "partial"
-last_verified: "2026-10-19"
+last_verified: "2026-11-23"
